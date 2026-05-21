@@ -1,0 +1,30 @@
+{
+  "last_crawl_time": "2026-05-21T01:58:49Z",
+  "last_attempt_time": "2026-05-21T01:58:49Z",
+  "source": "osv-vulnerabilities-gcs",
+  "source_url": "https://storage.googleapis.com/osv-vulnerabilities",
+  "method": "full_dump",
+  "ecosystems": [
+    "maven",
+    "npm",
+    "pypi"
+  ],
+  "ecosystem_counts": {
+    "npm": 219116,
+    "maven": 6592,
+    "pypi": 20033
+  },
+  "total_vulnerabilities": 245741,
+  "last_run": {
+    "method": "full_dump",
+    "ecosystems": [
+      "npm",
+      "maven",
+      "pypi"
+    ],
+    "vulns_downloaded": 245741,
+    "vulns_skipped": 0,
+    "errors": [],
+    "note": "metadata refreshed after full per-ecosystem scheduler run"
+  }
+}
