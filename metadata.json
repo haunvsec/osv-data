@@ -1,32 +1,19 @@
 {
-  "last_crawl_time": "2026-05-22T04:33:19Z",
-  "last_attempt_time": "2026-05-22T04:33:19Z",
+  "last_crawl_time": "2026-05-25T16:21:33Z",
+  "last_attempt_time": "2026-05-25T16:21:33Z",
   "source": "osv-vulnerabilities-gcs",
   "source_url": "https://storage.googleapis.com/osv-vulnerabilities",
-  "method": "full_dump",
+  "method": "incremental",
   "ecosystems": [
     "almalinux",
-    "alpaquita",
     "alpine",
     "android",
     "azure-linux",
-    "bellsoft-hardened-containers",
-    "bitnami",
-    "chainguard",
-    "cleanstart",
-    "cran",
-    "crates.io",
     "debian",
-    "echo",
-    "ghc",
     "git",
     "github-actions",
     "go",
-    "hackage",
-    "hex",
-    "julia",
     "linux",
-    "mageia",
     "maven",
     "npm",
     "nuget",
@@ -35,47 +22,95 @@
   ],
   "ecosystem_counts": {
     "almalinux": 4830,
-    "alpaquita": 9605,
     "alpine": 4138,
     "android": 3262,
     "azure-linux": 12016,
-    "bellsoft-hardened-containers": 467,
-    "bitnami": 7919,
-    "chainguard": 39589,
-    "cleanstart": 1110,
-    "cran": 14,
-    "crates.io": 2465,
     "debian": 56678,
-    "echo": 4239,
-    "ghc": 3,
     "git": 84109,
     "github-actions": 52,
     "go": 7057,
-    "hackage": 30,
-    "hex": 102,
-    "julia": 849,
     "linux": 17698,
-    "mageia": 0,
-    "npm": 219136,
-    "nuget": 1736,
-    "maven": 6592,
-    "pypi": 20035,
-    "redhat": 20130
+    "npm": 219268,
+    "nuget": 1740,
+    "maven": 6596,
+    "pypi": 20076,
+    "redhat": 20137
   },
-  "total_vulnerabilities": 523861,
+  "total_vulnerabilities": 457657,
+  "ecosystem_state": {
+    "maven": {
+      "last_attempt_time": "2026-05-25T16:11:28Z",
+      "last_method": "incremental",
+      "last_downloaded": 10,
+      "last_skipped": 0,
+      "last_indexed": 0,
+      "last_successful_crawl_time": "2026-05-25T16:11:28Z",
+      "last_modified_time": "2026-05-23T06:44:18.188827917Z"
+    },
+    "npm": {
+      "last_attempt_time": "2026-05-25T16:13:13Z",
+      "last_method": "incremental",
+      "last_downloaded": 160,
+      "last_skipped": 0,
+      "last_indexed": 0,
+      "last_successful_crawl_time": "2026-05-25T16:13:13Z",
+      "last_modified_time": "2026-05-25T09:46:42.410038999Z"
+    },
+    "nuget": {
+      "last_attempt_time": "2026-05-25T16:13:16Z",
+      "last_method": "incremental",
+      "last_downloaded": 4,
+      "last_skipped": 0,
+      "last_indexed": 0,
+      "last_successful_crawl_time": "2026-05-25T16:13:16Z",
+      "last_modified_time": "2026-05-22T13:30:15.975058393Z"
+    },
+    "pypi": {
+      "last_attempt_time": "2026-05-25T16:13:43Z",
+      "last_method": "incremental",
+      "last_downloaded": 48,
+      "last_skipped": 0,
+      "last_indexed": 0,
+      "last_successful_crawl_time": "2026-05-25T16:13:43Z",
+      "last_modified_time": "2026-05-25T10:45:54.169256401Z"
+    },
+    "redhat": {
+      "last_attempt_time": "2026-05-25T16:21:33Z",
+      "last_method": "incremental",
+      "last_downloaded": 849,
+      "last_skipped": 0,
+      "last_indexed": 0,
+      "last_successful_crawl_time": "2026-05-25T16:21:33Z",
+      "last_modified_time": "2026-05-25T10:06:02Z"
+    }
+  },
   "last_run": {
-    "started_at": "2026-05-22T04:33:13Z",
+    "started_at": "2026-05-25T16:13:43Z",
     "output_dir": "/Volumes/DATA/security_advisory/osv-data",
-    "method": "full_dump",
+    "method": "incremental",
     "ecosystems": [
-      "go"
+      "redhat"
     ],
-    "vulns_downloaded": 7057,
+    "ecosystem_results": [
+      {
+        "ecosystem": "redhat",
+        "method": "incremental",
+        "downloaded": 849,
+        "skipped": 0,
+        "indexed": 0,
+        "existing": 0,
+        "latest_modified_time": "2026-05-25T10:06:02Z",
+        "success": true
+      }
+    ],
+    "vulns_downloaded": 849,
     "vulns_skipped": 0,
     "errors": [],
     "dry_run": false,
     "limit": null,
-    "finished_at": "2026-05-22T04:33:19Z",
-    "duration_seconds": 6.1
+    "sync_missing": false,
+    "missing_only": false,
+    "finished_at": "2026-05-25T16:21:33Z",
+    "duration_seconds": 470.03
   }
 }

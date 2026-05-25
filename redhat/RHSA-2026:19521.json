@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:19521",
   "published": "2026-05-20T10:10:54Z",
-  "modified": "2026-05-21T10:08:07Z",
+  "modified": "2026-05-23T10:31:18.333641603Z",
   "upstream": [
     "CVE-2025-38024",
     "CVE-2026-23191",
@@ -1315,6 +1315,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-46333"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/05/20/cve-2026-46333-local-root-privilege-escalation-and-credential-disclosure-in-the-linux-kernel-ptrace-path"
     },
     {
       "type": "ARTICLE",

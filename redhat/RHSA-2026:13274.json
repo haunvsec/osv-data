@@ -2,12 +2,13 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:13274",
   "published": "2026-05-04T10:09:53Z",
-  "modified": "2026-05-15T11:02:49.332301480Z",
+  "modified": "2026-05-24T10:47:46.062053968Z",
   "upstream": [
     "CVE-2026-33845",
     "CVE-2026-33846",
     "CVE-2026-3832",
     "CVE-2026-3833",
+    "CVE-2026-42009",
     "CVE-2026-42010",
     "CVE-2026-42011"
   ],
@@ -110,7 +111,7 @@
       "url": "https://access.redhat.com/security/cve/CVE-2026-42010"
     },
     {
-      "type": "ARTICLE",
+      "type": "REPORT",
       "url": "https://access.redhat.com/security/cve/CVE-2026-42009"
     },
     {
@@ -120,6 +121,10 @@
     {
       "type": "ARTICLE",
       "url": "https://access.redhat.com/security/cve/CVE-2026-42015"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://access.redhat.com/security/cve/CVE-2026-5419"
     },
     {
       "type": "ADVISORY",
@@ -180,6 +185,18 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33846"
+    },
+    {
+      "type": "REPORT",
+      "url": "https://bugzilla.redhat.com/show_bug.cgi?id=2467279"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-42009"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-42009"
     },
     {
       "type": "REPORT",

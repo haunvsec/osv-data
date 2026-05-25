@@ -2,21 +2,21 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:18054",
   "published": "2026-05-19T10:06:30Z",
-  "modified": "2026-05-19T10:32:43.742493973Z",
+  "modified": "2026-05-23T10:04:33Z",
   "upstream": [
     "CVE-2025-14813",
     "CVE-2025-23368",
     "CVE-2026-0636",
+    "CVE-2026-3505",
+    "CVE-2026-5588",
+    "CVE-2026-5598",
     "CVE-2026-26996",
     "CVE-2026-27446",
     "CVE-2026-27727",
     "CVE-2026-27830",
     "CVE-2026-27904",
     "CVE-2026-33870",
-    "CVE-2026-33871",
-    "CVE-2026-3505",
-    "CVE-2026-5588",
-    "CVE-2026-5598"
+    "CVE-2026-33871"
   ],
   "summary": "Red Hat Security Advisory: Red Hat JBoss Enterprise Application Platform 8.1.6 security update",
   "affected": [
