@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4447",
   "published": "2026-05-20T10:51:20Z",
-  "modified": "2026-05-26T06:02:03.550991379Z",
+  "modified": "2026-05-27T00:32:05.800718466Z",
+  "withdrawn": "2026-05-26T21:14:22Z",
   "summary": "Malicious code in @spcsn/taro-cli (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (10e2baba3a5166ecf1196146e1b2a8771836b25bd7f8d56979e3e277a3de9625)\nThe package's postinstall script probes https://taro.jd.com/ and then invokes its own CLI to run `npm install @jdtaro/plugin-build-report-performance@latest --registry http://registry.m.jd.com` inside the user's global Taro config directory (~/.taro). The plugin is fetched over plain HTTP (no TLS) at the mutable `@latest` tag from a third-party registry (registry.m.jd.com), not from npmjs.org and not from the package's own publisher infrastructure. After install, the plugin name is appended to the global plugins list (`fs.writeJSONSync(configFilePath, { [configKey]: configItem })`), so it is auto-loaded on every subsequent `taro` invocation. This is an unpinned, plain-HTTP, third-party code fetch executed at install time and persisted across future builds — an attacker able to MITM HTTP traffic to registry.m.jd.com (or the registry operator itself, given `@latest`) can substitute arbitrary code that runs whenever the developer later runs Taro. The behavior is undocumented (README is empty) and silently enrolls every installer into a JD-operated build-reporting plugin without consent.\n",
   "affected": [
@@ -50,7 +51,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@spcsn/taro-cli/MAL-2026-4447.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@spcsn/taro-cli/MAL-2026-4447.json"
       }
     }
   ],

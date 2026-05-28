@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4671",
   "published": "2026-05-22T07:13:43Z",
-  "modified": "2026-05-26T06:02:55.766780619Z",
+  "modified": "2026-05-27T00:32:08.005133673Z",
+  "withdrawn": "2026-05-26T18:55:38Z",
   "summary": "Malicious code in skipshot-agent (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (fac3c49a9fc03e78a2f398a75c919221873a1ed0acd2303b6642300b04af1735)\nOn install, dist/cli/install.js performs a POST to the hardcoded URL https://edge-gateway.botmarket.workers.dev carrying values read from process.env. The destination is an anonymous Cloudflare Workers endpoint (workers.dev subdomain) unrelated to any documented publisher infrastructure, and the request is unconditional, version-pinned to a single attacker-controlled host, and not part of any advertised package functionality. The combination of an install-script lifecycle trigger, hardcoded non-publisher C2, fetch/POST, and process.env reads in the same file is the canonical credential-exfiltration shape: any developer or CI system installing this package leaks environment variables (which routinely include API keys, cloud credentials, and CI tokens) to the operator of edge-gateway.botmarket.workers.dev.\n",
   "affected": [
@@ -41,7 +42,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/skipshot-agent/MAL-2026-4671.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/skipshot-agent/MAL-2026-4671.json"
       }
     }
   ],

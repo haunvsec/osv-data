@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4362",
   "published": "2026-05-19T19:07:53Z",
-  "modified": "2026-05-26T06:01:51.566410800Z",
+  "modified": "2026-05-27T00:32:01.042316450Z",
+  "withdrawn": "2026-05-26T21:14:22Z",
   "summary": "Malicious code in @arbocollab/arbo-web-people (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (3f007c3da95aa64e4c2ed5b51b736900ddc444499f2f678d749603fab516a0c3)\nThe published tarball ships `npmjs.npmrc` containing a live `npm_`-prefixed authToken for `registry.npmjs.org` scoped to `@arbocollab`. `package.json` declares `\"files\": [\"*\"]` and `.npmignore` does not exclude `npmjs.npmrc`, so every installer receives the credential. The package.json `publish:lib` script references this same file via `--userconfig=npmjs.npmrc`, confirming it is the maintainer's real publish credential rather than a stub. Any installer or anyone who downloads the tarball can use this token to publish arbitrary malicious versions under the `@arbocollab` scope, pivoting into a supply-chain attack against all downstream consumers of any package in that scope. No install-time hooks are present; the harm is the credential redistribution itself. Remediation: revoke the token immediately, unpublish/deprecate affected versions, remove `npmjs.npmrc` from the published tarball, and add it to `.npmignore`/`files` allowlist.\n",
   "affected": [
@@ -16,10 +17,22 @@
         "0.26.3-alpha.13",
         "0.26.3-alpha.9",
         "0.26.3-alpha.7",
-        "0.26.3-alpha.10"
+        "0.26.3-alpha.10",
+        "0.26.3-alpha.15",
+        "0.26.3-alpha.14"
       ],
       "database_specific": {
         "cwes": [
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -64,7 +77,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@arbocollab/arbo-web-people/MAL-2026-4362.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@arbocollab/arbo-web-people/MAL-2026-4362.json"
       }
     }
   ],
@@ -84,6 +97,14 @@
     {
       "type": "PACKAGE",
       "url": "https://www.npmjs.com/package/@arbocollab/arbo-web-people/v/0.26.3-alpha.10"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/@arbocollab/arbo-web-people/v/0.26.3-alpha.15"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/@arbocollab/arbo-web-people/v/0.26.3-alpha.14"
     }
   ],
   "database_specific": {
@@ -126,6 +147,26 @@
         "source": "amazon-inspector",
         "versions": [
           "0.26.3-alpha.10"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-004901",
+        "import_time": "2026-05-26T13:32:46.305010097Z",
+        "modified_time": "2026-05-26T11:01:59Z",
+        "sha256": "2dc551980e00305aca3a1a7047ecaf4e65b69aa9ef4dcd6ca489a2d828ab1a88",
+        "source": "amazon-inspector",
+        "versions": [
+          "0.26.3-alpha.15"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-004899",
+        "import_time": "2026-05-26T13:32:46.175698146Z",
+        "modified_time": "2026-05-26T10:45:57Z",
+        "sha256": "d59e5635dbfbe63e57949b98ea9df0b8a601dbeb017c1a535879d016bb648f20",
+        "source": "amazon-inspector",
+        "versions": [
+          "0.26.3-alpha.14"
         ]
       }
     ]

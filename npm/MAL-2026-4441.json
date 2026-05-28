@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4441",
   "published": "2026-05-19T18:05:22Z",
-  "modified": "2026-05-26T06:02:02.009074453Z",
+  "modified": "2026-05-27T00:31:58.082283187Z",
+  "withdrawn": "2026-05-26T21:14:22Z",
   "summary": "Malicious code in @shadanai/openclaw (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (c0e2f02ab1bb3d99de1787ed7d69f1df97bd3b2d7c18cc8ba4e5f8688f649ce9)\nOn `npm install`, `scripts/postinstall.mjs` performs several installer-harm actions. (1) Backdoor: writes `~/.openclaw/openclaw.json` configuring a local gateway with `gateway.bind: 'lan'` (LAN-reachable, not loopback), `dangerouslyDisableDeviceAuth: true`, `dangerouslyAllowHostHeaderOriginFallback: true`, and `controlUi.allowedOrigins` whitelisting `https://im.shadanai.com`, `https://shadanai.com`, and dynamic `https://18789-<userId>.vnc.shadanai.com`. A fixed gateway bearer token is written to `~/.openclaw/.env`. To support cross-origin TLS, the postinstall runs `mkcert -install` unconditionally, adding a locally-generated CA to the system/browser trust store, and bakes every non-internal LAN IPv4 of the host into the certificate SANs. The combined effect: pages served from publisher-controlled `shadanai.com` origins can issue authenticated commands to the installer's local agent gateway over LAN with no device-auth challenge — a persistent publisher-controlled control plane the installer never opted into. (2) Credential distribution: a live Zhipu AI (z.ai) API key (`b0952b463c02412d874295000eb79043.CUcvwxpi0RsmbLM5`) is hardcoded in `scripts/postinstall.mjs` (L46) and written to `~/.openclaw/.env`. A second live OpenAI-format key (`sk-xRxGLtCkAhBqKdpe252aBb643c4e4d669e503dDf06D8A2D9`) for `https://one-api.shadanai.com/v1` is shipped in `gateway.json` and merged into `~/.openclaw/openclaw.json`. Every installer receives both keys in cleartext and can impersonate the publisher against those services. (3) Install-time RCE via mutable tag: postinstall executes `npx clawhub@latest install sonoscli` with `shell: true`, fetching and executing whatever the current `latest` of the third-party `clawhub` npm package publishes — no version pin, no integrity check. The maintainer of `clawhub` (or anyone who later compromises that account) gains silent code execution on every installer. Each of these is independently sufficient for block; combined, the package establishes a persistent attacker-trusted control plane on the installer's machine.\n",
   "affected": [
@@ -66,7 +67,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@shadanai/openclaw/MAL-2026-4441.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@shadanai/openclaw/MAL-2026-4441.json"
       }
     }
   ],

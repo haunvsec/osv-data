@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4408",
   "published": "2026-05-25T18:11:32Z",
-  "modified": "2026-05-26T06:01:55.926449583Z",
+  "modified": "2026-05-27T00:31:58.028758164Z",
+  "withdrawn": "2026-05-26T21:41:23Z",
   "summary": "Malicious code in @nolimit-x/win32-x64 (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (343787b335da015be56f49d118534c54bf81abab9e53b40bec0114d23bcc95c7)\nPackage ships a single 8.1 MB Windows PE (`nolimit-core.exe`) as its `main` entry with only the description 'nolimit-x native binary for Windows x64' — no README, no source, no documentation of what the binary does. String analysis of the binary reveals SMTP bulk-mailer / SMTP-credential-checker function-name fingerprints (`send_emails`, `prime_smtps`, `smtp_configs`, `shared_body`, `first_chunk`, `chunk_offset`, `successful`, `all_dead`, `</script>`) consistent with abuse tooling that iterates SMTP credential lists and sends bulk mail. Reversed-string obfuscation tokens (`setybdet` → `tedbytes`, `uespemos` → `someseu`/`somespeu`, `arenegyl` → `lygenera`, `modnarod` → `dorandom`) indicate the binary deliberately hides string constants from casual inspection. The package is a platform-shard (`win32-x64`) intended to be consumed by a parent `@nolimit-x` package that will spawn the binary on the installer's machine; the binary's purpose does not match any legitimate library function and is undocumented. Doc-mismatch + opaque obfuscated binary + SMTP-abuse string fingerprints together indicate a hostile payload distributed via npm.\n",
   "affected": [
@@ -41,7 +42,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@nolimit-x/win32-x64/MAL-2026-4408.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@nolimit-x/win32-x64/MAL-2026-4408.json"
       }
     }
   ],

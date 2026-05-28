@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4399",
   "published": "2026-05-21T11:28:39Z",
-  "modified": "2026-05-26T06:01:53.350409354Z",
+  "modified": "2026-05-27T00:31:56.144454270Z",
+  "withdrawn": "2026-05-26T18:08:08Z",
   "summary": "Malicious code in @kedem/okdb (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (cfce9a94c70e54caff77645f380418abda1bb1a38ad9cda61f6fbeaa482e2fed)\nThe package's CLI entry point at bin/okdb.js is a heavily obfuscated single-line bundle (hex-mangled symbols like _0x2a69e2/_0x5d02f6) that constructs HTTP POST requests to a hardcoded host (node-a.example.com) while reading process.env values and invoking 'ping' commands. The combination of (a) hex-obfuscated variable naming consistent with deliberate concealment, (b) a hardcoded remote POST destination embedded directly in the bundle, and (c) process.env reads adjacent to the network call inside the same obfuscated scope is the canonical command-and-control / environment-exfiltration shape. The bin entry runs whenever an installer invokes the CLI, transmitting host and environment data to the attacker-controlled endpoint. A second file okdb.js at the package root contains additional hardcoded POST patterns reinforcing the same network behavior.\n",
   "affected": [
@@ -56,7 +57,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@kedem/okdb/MAL-2026-4399.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@kedem/okdb/MAL-2026-4399.json"
       }
     }
   ],

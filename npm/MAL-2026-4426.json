@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4426",
   "published": "2026-05-19T23:11:48Z",
-  "modified": "2026-05-26T06:01:59.250948409Z",
+  "modified": "2026-05-27T00:32:05.694498035Z",
+  "withdrawn": "2026-05-26T21:41:23Z",
   "summary": "Malicious code in @riteshkumar04/stack-audit (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (145196e93f9e6006134b35a8d5abfe7fa0de18f2d52b6712d8b2a5ec036526bc)\nOn `npm install`, scripts/install.js runs `curl -sSL https://raw.githubusercontent.com/neutron420/StackAudit/main/scripts/install.sh | sh` (or the PowerShell equivalent `iwr... install.ps1 | iex`). The fetched script queries the GitHub API for the 'latest' release, downloads a tarball, and runs `sudo mv stack /usr/local/bin/`. Both the shell-script URL (mutable `main` branch) and the binary URL (floating 'latest' release) are unpinned, and no hash or signature verification is performed on either. The postinstall hook also escalates to root via sudo without user consent. While the fetch destination matches the package's declared publisher and purpose (installing a Go CLI named `stack`), the combination of mutable-branch curl|sh, unpinned 'latest' binary, no integrity check, and silent sudo elevation means any compromise of the author's GitHub account — or MITM of the fetch chain — yields immediate root code execution on every installer. This is the aggressive-installer shape that crosses into install-time RCE because the sudo escalation amplifies the blast radius far beyond the package's own directory.\n",
   "affected": [
@@ -59,7 +60,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@riteshkumar04/stack-audit/MAL-2026-4426.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@riteshkumar04/stack-audit/MAL-2026-4426.json"
       }
     }
   ],

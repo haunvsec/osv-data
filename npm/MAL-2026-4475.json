@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4475",
   "published": "2026-05-25T16:36:18Z",
-  "modified": "2026-05-26T06:02:08.067666624Z",
+  "modified": "2026-05-26T17:01:46.219734979Z",
   "summary": "Malicious code in aes-decode-runner-pro (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (2d889fb0fd8c7bc4564c187d81448427b737ff7fe4b78a7ffe6a23c429b83b93)\nOn `require('aes-decode-runner-pro')`, the entry point `index.js` immediately invokes `pkg.run()` (lines 1-3: `const pkg = require(\"./custom-codec\"); pkg.run();`), which AES-256-GCM-decrypts a hardcoded ciphertext bundle using a hardcoded passphrase and salt shipped in `src/config/defaults.js` (`DEFAULT_AES_PASSPHRASE = \"default-dev-passphrase\"`, `DEFAULT_AES_SALT = \"encode-npm-c-salt\"`, `DEFAULT_FINAL_ENCODED_TEXT = \"wHKEM3UBnIY0UBU6:...\"`), passes the result through two additional custom codecs, and finally executes the cleartext with `new Function(String(decoded.decodedPlainText))()` at `src/pipeline/custom-codec-pipeline.js:54`. The README advertises only library functions and does not disclose this auto-execution behavior. Layered obfuscation (position codec + encode-decode codec + AES-GCM with an embedded key) whose sole in-package consumer is the load-time `run()` entry serves only to hide executable code from static review; the consuming developer cannot determine what runs without first executing it. The decrypted payload is fully attacker-controlled and runs in the installer's Node process whenever any downstream module imports this package.\n",
   "affected": [
@@ -16,10 +16,28 @@
         "1.0.3",
         "1.0.2",
         "1.0.5",
-        "1.0.1"
+        "1.0.1",
+        "1.0.7",
+        "1.0.8",
+        "1.0.6"
       ],
       "database_specific": {
         "cwes": [
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -84,6 +102,18 @@
     {
       "type": "PACKAGE",
       "url": "https://www.npmjs.com/package/aes-decode-runner-pro/v/1.0.1"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/aes-decode-runner-pro/v/1.0.7"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/aes-decode-runner-pro/v/1.0.8"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/aes-decode-runner-pro/v/1.0.6"
     }
   ],
   "database_specific": {
@@ -126,6 +156,36 @@
         "source": "amazon-inspector",
         "versions": [
           "1.0.1"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-004931",
+        "import_time": "2026-05-26T16:47:31.858420721Z",
+        "modified_time": "2026-05-26T15:33:27Z",
+        "sha256": "3343f3d9d7dfd91a206c28e4ec52f4615b830a46638d61e8dcea5a646c60dee1",
+        "source": "amazon-inspector",
+        "versions": [
+          "1.0.7"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-004933",
+        "import_time": "2026-05-26T16:47:31.944290505Z",
+        "modified_time": "2026-05-26T15:54:00Z",
+        "sha256": "5b57b940dbe6e5a732434a0f96f3d6e2253b147036af520642a17941e052b175",
+        "source": "amazon-inspector",
+        "versions": [
+          "1.0.8"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-004930",
+        "import_time": "2026-05-26T16:47:31.818950899Z",
+        "modified_time": "2026-05-26T15:29:45Z",
+        "sha256": "62b62112b1522fd678caca77d9627e6cf0bb1187188b1946655ae69e8efb1271",
+        "source": "amazon-inspector",
+        "versions": [
+          "1.0.6"
         ]
       }
     ]

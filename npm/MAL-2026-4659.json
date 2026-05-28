@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4659",
   "published": "2026-05-20T01:41:42Z",
-  "modified": "2026-05-26T06:02:53.962569108Z",
+  "modified": "2026-05-27T00:32:12.944538661Z",
+  "withdrawn": "2026-05-26T22:13:04Z",
   "summary": "Malicious code in rdflib (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (fb9a536a077e23bda8e10a55aa1177de28f4f5a8622e08914eeab437e8036940)\npackage.json for this release declares two runtime dependencies — \"package-lock.json\": \"^1.0.0\" and \"package.json\": \"^2.0.1\" — inside the dependencies block. These are bare names that npm resolves from the public registry, not local files. Neither name is required or referenced anywhere in the rdflib source, so they serve no functional purpose for the library. Their only effect is that running `npm install rdflib@2.3.7` will fetch and install those two third-party packages and execute any of their lifecycle scripts on the installer's machine. The names are confusingly chosen to mimic standard npm artifact filenames, which obscures the dependency injection during casual review of package.json. This pattern is consistent with a hijacked/tampered release pulling attacker-controlled transitive code into the installer's dependency tree under the cover of a trusted package name (rdflib).\n",
   "affected": [
@@ -41,7 +42,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/rdflib/MAL-2026-4659.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/rdflib/MAL-2026-4659.json"
       }
     }
   ],

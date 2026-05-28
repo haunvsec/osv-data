@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4788",
   "published": "2026-05-26T08:06:37Z",
-  "modified": "2026-05-26T09:31:44.593493070Z",
+  "modified": "2026-05-27T00:31:55.969585259Z",
+  "withdrawn": "2026-05-26T21:28:12Z",
   "summary": "Malicious code in @godscene/web (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (e1bd83a63f0426cc7c4e1a68886c36ff47de093d9b7edc6b410d16c928be50c1)\nPackage @godscene/web@1.7.22 is a re-bundled copy of the legitimate @midscene/web at the same version, preserving the original description, README, repository URL (web-infra-dev/midscene), homepage, class names, and exports. Only the scope was changed from @midscene to @godscene. The package.json rewrites the original dependencies @midscene/core, @midscene/shared, and @midscene/playground to @godscene/core@1.7.22, @godscene/shared@1.7.22, and @godscene/playground@1.7.22 — packages published under the attacker-controlled @godscene scope and outside this tarball. Installing or requiring this package transitively pulls and loads those attacker-controlled siblings, whose contents are not vetted by this wrapper. The wrapper itself contains no lifecycle hooks or overtly hostile code; the supply-chain attack edge is the dependency redirection into a hostile namespace, achieved by impersonating a legitimate package's identity.\n",
   "affected": [
@@ -44,7 +45,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@godscene/web/MAL-2026-4788.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@godscene/web/MAL-2026-4788.json"
       }
     }
   ],

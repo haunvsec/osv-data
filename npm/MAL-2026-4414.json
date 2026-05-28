@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4414",
   "published": "2026-05-21T02:06:13Z",
-  "modified": "2026-05-26T06:01:57.292210087Z",
+  "modified": "2026-05-27T00:31:58.072964476Z",
+  "withdrawn": "2026-05-26T21:41:23Z",
   "summary": "Malicious code in @onerjs/smart-filters (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (66a4578e888bb6e53b7a5df17aa093931f6aff50773efd2634819294538217ab)\nPackage is published under the @onerjs scope but self-describes as 'Babylon.js Smart Filter core' with repository metadata pointing at github.com/BabylonJS/Babylon.js. The source is a verbatim copy of @babylonjs/smart-filters with every import of @babylonjs/core rewritten to @onerjs/core (e.g., dist/index.js line 13: `export { Logger } from \"@onerjs/core/Misc/logger.js\";`), and package.json declares `peerDependencies: { \"@onerjs/core\": \"^7.47.3 || ^8.0.1\" }`. The @onerjs scope is a one-character-edit homoglyph squat of the well-known @babylonjs scope (top-tier 3D engine), and installers who type or copy this name from a poisoned tutorial are forced to also install @onerjs/core — a separate sibling package outside this tarball that substitutes for the legitimate @babylonjs/core. This tarball's own code is a benign mirror of the upstream library; the supply-chain harm is the dependency redirection: any code shipped under @onerjs/core executes in the installer's environment in place of @babylonjs/core. The combined signal — scope-level homoglyph of a top-100 package + identity-claim mismatch (description and repo cite Babylon.js while scope does not) + forced peerDependency on a parallel typosquat package — is the namespace-abuse delivery fingerprint.\n",
   "affected": [
@@ -47,7 +48,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@onerjs/smart-filters/MAL-2026-4414.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@onerjs/smart-filters/MAL-2026-4414.json"
       }
     }
   ],

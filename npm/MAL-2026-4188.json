@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4188",
   "published": "2026-05-20T12:57:24Z",
-  "modified": "2026-05-26T06:01:54.558531227Z",
+  "modified": "2026-05-27T23:16:43.004852951Z",
   "aliases": [
     "GHSA-9x95-pwr5-8g32"
   ],
@@ -31,16 +31,6 @@
       ],
       "database_specific": {
         "cwes": [
-          {
-            "cweId": "CWE-506",
-            "description": "The product contains code that appears to be malicious in nature.",
-            "name": "Embedded Malicious Code"
-          },
-          {
-            "cweId": "CWE-506",
-            "description": "The product contains code that appears to be malicious in nature.",
-            "name": "Embedded Malicious Code"
-          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",

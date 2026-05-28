@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4455",
   "published": "2026-05-22T09:56:48Z",
-  "modified": "2026-05-26T06:02:05.409377805Z",
+  "modified": "2026-05-27T00:31:51.670349234Z",
+  "withdrawn": "2026-05-26T21:14:22Z",
   "summary": "Malicious code in @thebros/create-benjamin (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (53fb816939bb505cdabc374418983428298b09a29e5789033943301642b8b156)\nThe package tarball ships a `.env` file containing a live-looking OpenAI API key (`OPENAI_API_KEY=sk-proj-...`). The CLI entry point `bin/index.js` calls `import \"dotenv/config\"` at line 3, which auto-loads that `.env` from the package directory at startup. At line 13 the key is read via `process.env.OPENAI_API_KEY`. Two installer-affecting consequences result: (1) the author's third-party API credential is redistributed to every installer of the package, who can extract it from the tarball and abuse it against OpenAI under the author's account; (2) when a user runs `create-benjamin` without setting their own `OPENAI_API_KEY`, their project-description prompt is silently sent to OpenAI billed against the author's account, with no disclosure that a hardcoded key is in use. The key should be revoked, removed from the published tarball, and the CLI should require the user to provide their own key.\n",
   "affected": [
@@ -41,7 +42,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@thebros/create-benjamin/MAL-2026-4455.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@thebros/create-benjamin/MAL-2026-4455.json"
       }
     }
   ],

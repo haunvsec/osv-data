@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4361",
   "published": "2026-05-21T08:20:01Z",
-  "modified": "2026-05-26T06:01:51.476372481Z",
+  "modified": "2026-05-27T00:32:01.040636888Z",
+  "withdrawn": "2026-05-26T21:14:22Z",
   "summary": "Malicious code in @amswf/huoke (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (4ec868ff3c73d920bd9c3b66a0e725f2eaf427b83ade2ad0fae284be0386eff4)\nOn `npm install`, this package's postinstall runs `node bin/huoke.js install-skill`, which enumerates `/home/*` for every system user, finds each user's `~/.hermes/profiles/*` directories, and for each one downloads `SKILL.md` from `https://raw.githubusercontent.com/amswf/huoke/main/SKILL.md` via `curl -fsSL` and writes the response into that user's profile under `skills/`. The fetch targets the mutable `main` branch with no commit pin and no hash/signature verification, and the package ignores its own locally-shipped SKILL.md in favor of the remote copy. SKILL.md is consumed by Hermes/OpenClaw as agent (LLM) instructions, so the maintainer can change the contents at any time after publish to inject new instructions into every installer's deployed agents — an attacker-controlled-content channel that does not require republishing the package. The write loop also crosses account boundaries: when the installer runs `npm install` with sufficient privileges (root/sudo, common in container images and CI), the package modifies files inside other system users' home directories, which the package has no business touching. Separately, the runtime CLI default endpoint is plain `http://huoke.link`, sending JWTs and credentials in cleartext — a quality issue affecting CLI users but not the basis for this verdict.\n",
   "affected": [
@@ -47,7 +48,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@amswf/huoke/MAL-2026-4361.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@amswf/huoke/MAL-2026-4361.json"
       }
     }
   ],

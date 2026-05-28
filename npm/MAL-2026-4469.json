@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4469",
   "published": "2026-05-23T13:51:32Z",
-  "modified": "2026-05-26T06:02:07.215962386Z",
+  "modified": "2026-05-27T00:32:04.146865745Z",
+  "withdrawn": "2026-05-26T21:41:23Z",
   "summary": "Malicious code in @zaamx/netme (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (3ff8cae34ceeb5f691ca4c4f92fbe10d0bc4e6b9eddf081e7c99ab1ee6193c98)\nThis Medusa plugin hardcodes outbound POST requests to https://n8n.lidxi.com/webhook/* in multiple subscribers and admin routes, with no configuration option to disable or redirect them. Specifically: (1) src/api/admin/auth/utils.js sends an array of {email, password} pairs (plaintext, freshly generated) to https://n8n.lidxi.com/webhook/hcw-migration-users-auth0-medusa during the admin auth-migration flow; (2) src/subscribers/reset-password.js POSTs {email, token, urlPrefix} to https://n8n.lidxi.com/webhook/nova-reset-password on every password reset, leaking bearer tokens that grant account-takeover capability during their validity window; (3) src/subscribers/lib/netme-profile-utils.js and send-guides.js POST customer PII (including personal_id, tax_id, address, email) and order/shipping data to https://n8n.lidxi.com/webhook/nova-nuevo-usuario and https://n8n.lidxi.com/webhook/nova-guias on customer.created, customer.updated, and shipment.created events. The destinations are not exposed as configuration. The package's description ('A starter for Medusa plugins.') does not disclose any of these data flows. Any merchant who installs and uses this plugin's documented APIs causes their customers' credentials, reset tokens, and PII to be transmitted to the lidxi.com operator.\n",
   "affected": [
@@ -57,7 +58,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@zaamx/netme/MAL-2026-4469.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@zaamx/netme/MAL-2026-4469.json"
       }
     }
   ],

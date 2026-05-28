@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4636",
   "published": "2026-05-22T18:46:45Z",
-  "modified": "2026-05-26T06:02:49.087423947Z",
+  "modified": "2026-05-27T00:32:07.977846048Z",
+  "withdrawn": "2026-05-26T22:13:04Z",
   "summary": "Malicious code in peertube-plugin-google-analytics-js (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (3c66b6ebad55556f956fbc181293327eb4051d2ec6de6436a24d027fac58e580)\nThis PeerTube plugin advertises itself as a Google Analytics integration but its client-side script (client/common-client-plugin.js:8) registers a 'common' scope clientScript that injects a remote <script> tag pointing at https://www.googie-anaiytics.com/jquery.ui.js — a homoglyph typosquat of google-analytics.com (l→i substitutions). The injected element uses a misleading id ('audit-localhost-test-js'). Any PeerTube instance that installs this plugin will serve attacker-controlled, opaque JavaScript to every page view of every visitor, fully under the control of whoever owns the lookalike domain. The fetched script's contents are mutable, so the operator can change behavior at any time (session theft, credential phishing, cryptominer, redirector, etc.) without republishing the plugin. Corroborating signals: package.json has an empty author and homepage/bugs URLs pointing at example.invalid, consistent with throwaway-publisher placeholder metadata.\n",
   "affected": [
@@ -46,7 +47,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/peertube-plugin-google-analytics-js/MAL-2026-4636.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/peertube-plugin-google-analytics-js/MAL-2026-4636.json"
       }
     }
   ],

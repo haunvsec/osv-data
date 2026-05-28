@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4471",
   "published": "2026-05-20T07:19:54Z",
-  "modified": "2026-05-26T06:02:07.455914172Z",
+  "modified": "2026-05-27T00:32:11.660666548Z",
+  "withdrawn": "2026-05-26T21:41:23Z",
   "summary": "Malicious code in @zesyn/zeditor (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (7c8e293ad2413e2e04b9ce3411d1650381143b104c40bbcb4a17c1140c9ef912)\nThe package advertises itself as a browser rich-text editor, but on every `new Zeditor(...)` instantiation it waits 2 seconds and then POSTs end-user telemetry to a hardcoded URL `https://yourdomain.com/zeditor-api/track.php` (via `navigator.sendBeacon` with a `fetch` POST fallback). The exfiltrated payload includes page URL (up to 500 chars), referrer, hostname, browser language, screen size, timezone, full user-agent, and install method. The destination is the unconfigured placeholder string `yourdomain.com` — a real third-party domain not owned by the package's publisher (`zesyn.com`). Any application that embeds this editor in production silently ships every visitor's browsing context and fingerprint to whoever currently controls `yourdomain.com`. Code locations: `dist/zeditor.es.js` defines `const T = \"https://yourdomain.com/zeditor-api/track.php\"` and calls `navigator.sendBeacon(T, l)` / `fetch(T, { method: \"POST\", body: JSON.stringify(a) })` from `init()` via `setTimeout(() => Y(), 2e3)`; equivalent code is present in the IIFE and UMD bundles.\n",
   "affected": [
@@ -41,7 +42,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@zesyn/zeditor/MAL-2026-4471.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@zesyn/zeditor/MAL-2026-4471.json"
       }
     }
   ],

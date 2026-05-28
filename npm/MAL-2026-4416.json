@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4416",
   "published": "2026-05-21T20:05:46Z",
-  "modified": "2026-05-26T06:01:57.672127128Z",
+  "modified": "2026-05-27T00:31:58.076651166Z",
+  "withdrawn": "2026-05-26T21:41:23Z",
   "summary": "Malicious code in @ornexus/neocortex (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (bb66a92e1a8c414ee0c8877998a9587b7c8a4be3b9b27b76d874329a87bec5dc)\nOn `npm install -g @ornexus/neocortex`, postinstall.js spawns install.sh (or install.ps1) which, by default, runs an `install_coderabbit` step that fetches `https://cli.coderabbit.ai/install.sh` and pipes it directly into `sh` (PowerShell equivalent on Windows). The fetch is unpinned (no version, no commit, no hash/signature verification), from a domain (`cli.coderabbit.ai`) unrelated to the package's stated publisher (ornexus / neocortex.sh), and unconditional — any compromise, DNS hijack, or content change at cli.coderabbit.ai yields arbitrary code execution on the installer's machine with the privileges of `npm install -g`. Additional aggressive lifecycle behavior compounds the concern: the same script silently `npm uninstall -g`s two other packages and removes a `neocortex-cli` binary from PATH, and it auto-registers MCP servers in the user's Claude Code config that will subsequently `npx -y <pkg>@latest` unpinned third-party packages on every Claude startup. The curl-pipe-sh from a non-publisher domain is the primary block basis; the other behaviors are unconsented mutations of installer state.\n",
   "affected": [
@@ -50,7 +51,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ornexus/neocortex/MAL-2026-4416.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@ornexus/neocortex/MAL-2026-4416.json"
       }
     }
   ],

@@ -2,9 +2,12 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4576",
   "published": "2026-05-23T23:58:56Z",
-  "modified": "2026-05-26T06:02:35.831123869Z",
+  "modified": "2026-05-26T13:31:43.426231352Z",
+  "aliases": [
+    "GHSA-7pxc-2jp3-w7c8"
+  ],
   "summary": "Malicious code in hardhat-gas-analytics (npm)",
-  "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (71b0b8dd866d9c1f4516f4e537a2d61ea3cbe87f06b0195a24c0dea76fef44c0)\nThis package typosquats the widely-used `hardhat-gas-reporter` Hardhat plugin (matching its cache filename `.hardhat_gas_reporter_output.json` and replicating its public API) while harvesting wallet credentials. On Hardhat environment extension (fires whenever the plugin is loaded via a project's hardhat config), `dist/index.js` iterates `Object.entries(process.env)`, retains every uppercase-keyed variable shorter than 1024 chars, and forwards the snapshot to `setProjectConfig` in `dist/utils/prices.js`. That code filters for keys matching `/KEY|PRIVATE|MNEMONIC|DEPLOYER|WALLET|SEED/i` — i.e., crypto wallet private keys, BIP-39 mnemonics, and deployer keys — AES-256-GCM encrypts them with a symmetric key derived as `sha256('ga:' + GAS_AGGREGATION_API)`, and base64url-encodes the (iv || tag || ciphertext) blob into the `X-Project-Id` HTTP header on a request to `https://gas-api.gasanalytics.dev/v1/prices?chain=...`. The encryption serves no functional purpose; its only effect is to conceal the exfiltrated payload from network inspection, proxies, and DLP. Any developer who installs this package by mistake (instead of `hardhat-gas-reporter`) and loads it in a Hardhat project that uses the conventional `PRIVATE_KEY` / `MNEMONIC` / `DEPLOYER_KEY` env-var pattern will have their on-chain signing keys silently exfiltrated, leading to direct fund loss.\n",
+  "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (71b0b8dd866d9c1f4516f4e537a2d61ea3cbe87f06b0195a24c0dea76fef44c0)\nThis package typosquats the widely-used `hardhat-gas-reporter` Hardhat plugin (matching its cache filename `.hardhat_gas_reporter_output.json` and replicating its public API) while harvesting wallet credentials. On Hardhat environment extension (fires whenever the plugin is loaded via a project's hardhat config), `dist/index.js` iterates `Object.entries(process.env)`, retains every uppercase-keyed variable shorter than 1024 chars, and forwards the snapshot to `setProjectConfig` in `dist/utils/prices.js`. That code filters for keys matching `/KEY|PRIVATE|MNEMONIC|DEPLOYER|WALLET|SEED/i` — i.e., crypto wallet private keys, BIP-39 mnemonics, and deployer keys — AES-256-GCM encrypts them with a symmetric key derived as `sha256('ga:' + GAS_AGGREGATION_API)`, and base64url-encodes the (iv || tag || ciphertext) blob into the `X-Project-Id` HTTP header on a request to `https://gas-api.gasanalytics.dev/v1/prices?chain=...`. The encryption serves no functional purpose; its only effect is to conceal the exfiltrated payload from network inspection, proxies, and DLP. Any developer who installs this package by mistake (instead of `hardhat-gas-reporter`) and loads it in a Hardhat project that uses the conventional `PRIVATE_KEY` / `MNEMONIC` / `DEPLOYER_KEY` env-var pattern will have their on-chain signing keys silently exfiltrated, leading to direct fund loss.\n\n## Source: ghsa-malware (7e4488607d97045f9cd3bc6389f4bb3fa7326bfc6e91af8c3b561dc453c4d961)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
   "affected": [
     {
       "package": {
@@ -12,6 +15,16 @@
         "ecosystem": "npm",
         "purl": "pkg:npm/hardhat-gas-analytics"
       },
+      "ranges": [
+        {
+          "type": "SEMVER",
+          "events": [
+            {
+              "introduced": "0"
+            }
+          ]
+        }
+      ],
       "versions": [
         "3.1.0",
         "3.1.2",
@@ -21,6 +34,11 @@
       ],
       "database_specific": {
         "cwes": [
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -97,6 +115,10 @@
     {
       "type": "PACKAGE",
       "url": "https://www.npmjs.com/package/hardhat-gas-analytics/v/3.1.2"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://github.com/advisories/GHSA-7pxc-2jp3-w7c8"
     }
   ],
   "database_specific": {
@@ -180,6 +202,23 @@
         "versions": [
           "3.1.1"
         ]
+      },
+      {
+        "id": "GHSA-7pxc-2jp3-w7c8",
+        "import_time": "2026-05-26T13:21:46.723947155Z",
+        "modified_time": "2026-05-26T11:56:00Z",
+        "ranges": [
+          {
+            "events": [
+              {
+                "introduced": "0"
+              }
+            ],
+            "type": "SEMVER"
+          }
+        ],
+        "sha256": "7e4488607d97045f9cd3bc6389f4bb3fa7326bfc6e91af8c3b561dc453c4d961",
+        "source": "ghsa-malware"
       }
     ]
   },

@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4398",
   "published": "2026-05-24T11:11:22Z",
-  "modified": "2026-05-26T06:01:45.327403686Z",
+  "modified": "2026-05-27T00:31:56.186923486Z",
+  "withdrawn": "2026-05-26T21:28:12Z",
   "summary": "Malicious code in @jonusnattapong/claudecode (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (8a08b3e13079279fb9dce40859dd868b0953bec139996eb7ac915a7dc415b29c)\nPackage is a third-party reconstruction of Anthropic's Claude Code CLI that misrepresents itself as the official product. package.json describes itself as 'Official Claude Code CLI — AI-powered coding assistant'. The bundled dist/main.js reuses Anthropic's production OAuth CLIENT_ID (9d1c250a-e61b-44d9-88ed-5944d1962f5e), the macOS keychain service name 'Claude Code', the MDM preference domain com.anthropic.claudecode, and the Windows policy registry path HKLM\\SOFTWARE\\Policies\\ClaudeCode. At CLI startup it executes `security find-generic-password -a <user> -w -s \"Claude Code\"` to read OAuth tokens that the genuine @anthropic-ai/claude-code client stored under that identical keychain key. A user who installs this package believing it to be the official tool will have their existing Anthropic credentials read by an unaffiliated third-party binary, and any subsequent OAuth flow occurs under Anthropic's client identity without authorization. Although outbound traffic in the observed code paths goes to api.anthropic.com / platform.claude.com (no third-party exfiltration endpoint), the impersonation itself — combined with cross-vendor credential reuse — constitutes installer harm: the installer's trust in the Anthropic brand is exploited to grant a different vendor access to credentials the installer never intended to share with that vendor.\n",
   "affected": [
@@ -46,7 +47,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@jonusnattapong/claudecode/MAL-2026-4398.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@jonusnattapong/claudecode/MAL-2026-4398.json"
       }
     }
   ],

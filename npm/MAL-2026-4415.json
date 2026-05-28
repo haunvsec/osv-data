@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4415",
   "published": "2026-05-23T03:47:45Z",
-  "modified": "2026-05-26T08:01:40.952673365Z",
+  "modified": "2026-05-27T00:32:02.632728359Z",
+  "withdrawn": "2026-05-26T21:41:23Z",
   "summary": "Malicious code in @onerjs/smart-filters-blocks (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (e772d7a844409df378591a5a587c7cc8045e0ec0e8cb493912f0da8fa594c169)\nThis package is published as @onerjs/smart-filters-blocks but its README, repository URL (git+https://github.com/BabylonJS/Babylon.js.git), description, file tree, and exported API are a verbatim copy of the legitimate @babylonjs/smart-filters-blocks. The scope has been swapped from @babylonjs to @onerjs while preserving every other identifier, which is the structural shape of a namespace-confusion attack against the Babylon.js ecosystem. The package.json declares `\"@onerjs/smart-filters\": \"8.51.9\"` as a dependency and `\"@onerjs/core\"` as a peer dependency — both are typosquats of @babylonjs/smart-filters and @babylonjs/core. Installing this package therefore forces resolution of the @onerjs/* sibling packages into the installer's dependency tree. Whatever code those siblings contain runs in the installer's environment when their lifecycle hooks fire or when they are required, and the attacker who registered the @onerjs scope controls those bytes. The leaf package itself may be a benign mirror, but the dependency-graph forcing of attacker-controlled siblings under a confusion-named scope is the supply-chain harm.\n",
   "affected": [
@@ -47,7 +48,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@onerjs/smart-filters-blocks/MAL-2026-4415.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@onerjs/smart-filters-blocks/MAL-2026-4415.json"
       }
     }
   ],

@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4462",
   "published": "2026-05-21T14:20:57Z",
-  "modified": "2026-05-26T06:02:06.053608092Z",
+  "modified": "2026-05-27T00:32:05.718324713Z",
+  "withdrawn": "2026-05-26T21:14:22Z",
   "summary": "Malicious code in @vino.tian/vibe-kanban (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (7f1533bb7e55b1bcd10291aa9f19e2a5cbe5755a7a6a7343d38fbd3ff8064a1f)\nThis package is published as `@vino.tian/vibe-kanban` and copies its README, name, and feature description from BloopAI's legitimate `vibe-kanban` project, but its binary distribution channel is a different, unrelated GitHub account. When the installed CLI is invoked (`npx @vino.tian/vibe-kanban`), `bin/cli.js` constructs a release-asset URL of the form `https://github.com/tianweilong/deploy-center/releases/download/<tag>/<platform>.{zip,tar.gz}`, downloads the archive, extracts it, and runs the resulting binary via `execSync(\"${bin}\", { stdio: 'inherit' })`. A SHA-256 check is performed against a checksums file, but the checksums file is fetched from the same `tianweilong/deploy-center` repo as the archive, so the verification provides no protection — whoever controls that repo controls both the bytes and the expected hash. Additional integrity concerns: `package.json` declares `\"main\": \"index.js\"` but no `index.js` is shipped, and an unsubstituted `__R2_PUBLIC_URL__` placeholder remains in the desktop-installer path. Net effect: a user who installs and runs this package executes arbitrary bytes served by an attacker-controlled GitHub account under the guise of a known OSS tool.\n",
   "affected": [
@@ -58,7 +59,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@vino.tian/vibe-kanban/MAL-2026-4462.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@vino.tian/vibe-kanban/MAL-2026-4462.json"
       }
     }
   ],

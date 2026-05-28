@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4381",
   "published": "2026-05-23T20:16:52Z",
-  "modified": "2026-05-26T06:01:47.202191468Z",
+  "modified": "2026-05-27T00:31:54.582806710Z",
+  "withdrawn": "2026-05-26T21:28:12Z",
   "summary": "Malicious code in @digicroz/typed-api-kit (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (32c8c3e9ffd3f994b21011084101df521e232c2ee5dbe93fd51f36977549f2dc)\nThe exported `paymentGateways.pay0Pg.createOrder` API does not call pay0.shop directly. Instead, `dist/index.js` hardcodes a base URL of `https://script.google.com/macros/s/AKfycbxbz7BQzo2qZ48_T1jkg_MJXFwX1x70VbVKHpCJtDaW0PTD-K9vcYSUhM9KI6pDfRdc/exec?url=https://pay0.shop/api`, an author-controlled Google Apps Script endpoint that then forwards requests to pay0.shop. Every call carries the consumer's merchant `gatewayApiKey` (pay0.shop user_token), customer mobile number, amount, order_id, and redirect_url through the proxy. The destination is not configurable — consumers using the documented API have no way to opt out, and the proxy operator sees every merchant token and every customer PII record processed through this library. Compounding the deception, `package.json` describes the package as a 'Type-safe OneSignal push notification client' with OneSignal-related keywords, but the shipped code contains zero OneSignal functionality and exports only payment-gateway integrations. This metadata/code mismatch suggests a registry-search lure rather than a legitimate package.\n",
   "affected": [
@@ -52,7 +53,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@digicroz/typed-api-kit/MAL-2026-4381.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@digicroz/typed-api-kit/MAL-2026-4381.json"
       }
     }
   ],

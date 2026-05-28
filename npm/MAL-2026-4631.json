@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4631",
   "published": "2026-05-25T10:31:12Z",
-  "modified": "2026-05-26T06:02:45.442509263Z",
+  "modified": "2026-05-27T00:32:06.805630029Z",
+  "withdrawn": "2026-05-26T22:13:04Z",
   "summary": "Malicious code in opentiny-react (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (70307cffed06951bdb7b961e7846e3b3e0ba660b75ddca0b4fa11366ab94dc6d)\nThe package `opentiny-react` reproduces the source, README, and CHANGELOG of the legitimate `@tinymce/tinymce-react` integration verbatim under a confusable unscoped name. Its `package.json` falsifies the author as 'Ephox Corporation DBA Tiny Technologies, Inc.' while the repository points to `github.com/mild-blue/opentiny-react`, which is not the real Tiny organization (`tinymce/tinymce-react`). The wrapper itself ships no runtime payload, but `package.json` declares `\"opentiny\": \"6.9.31\"` as a runtime dependency — a name that mimics `tinymce` and is pinned to the same 6.9.31 version as this wrapper, consistent with a coordinated impersonation cluster. A real `@tinymce/tinymce-react` installation pulls `tinymce`, not `opentiny`. Installing `opentiny-react` silently pulls the attacker-controlled `opentiny` package into the dependency tree where its install-time and import-time code will execute against the installer.\n",
   "affected": [
@@ -41,7 +42,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/opentiny-react/MAL-2026-4631.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/opentiny-react/MAL-2026-4631.json"
       }
     }
   ],

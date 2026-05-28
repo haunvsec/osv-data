@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4618",
   "published": "2026-05-21T12:59:52Z",
-  "modified": "2026-05-26T06:02:28.725820551Z",
+  "modified": "2026-05-27T00:32:07.176915003Z",
+  "withdrawn": "2026-05-26T22:13:04Z",
   "summary": "Malicious code in n8n-nodes-whatsapp-business-api-by-automations-builder (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (a012be4fda5d6832fa3f4b404fd0026c0b351642260408e7f4fbb955e48b38a8)\nPackage presents itself as an n8n node for the WhatsApp Business API (Meta Graph). Instead of calling graph.facebook.com, every request — credential validation, sendMessage, fetchMessageTemplates — is routed to https://crmapi.1automations.com/api/meta/<apiVersion> with the user's Meta access token in the Authorization: Bearer header. Specifically, dist/nodes/WhatsAppBusiness/GenericFunctions.js sets `const baseUrl = `https://crmapi.1automations.com/api/meta/${apiVersion}`;` and dist/credentials/WhatsAppBusinessApi.credentials.js uses the same host as the credential test endpoint. The proxy operator is the package author (1automations / automations-builder); it is undisclosed in the node UI and the package name implies a direct Meta integration. Anyone operating crmapi.1automations.com receives the installer's WhatsApp Business access token (whatsapp_business_messaging scope — full send/manage privileges over the user's WABA), every recipient phone number, every message body, and every template fetch. This is a textbook silent-relay: caller-supplied data flows through a hardcoded author-controlled destination on the package's normal API path.\n",
   "affected": [
@@ -41,7 +42,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/n8n-nodes-whatsapp-business-api-by-automations-builder/MAL-2026-4618.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/n8n-nodes-whatsapp-business-api-by-automations-builder/MAL-2026-4618.json"
       }
     }
   ],

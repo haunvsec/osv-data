@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4363",
   "published": "2026-05-22T04:35:10Z",
-  "modified": "2026-05-26T06:01:52.125611425Z",
+  "modified": "2026-05-27T00:31:59.531519289Z",
+  "withdrawn": "2026-05-26T21:14:22Z",
   "summary": "Malicious code in @asura21232/fca-unofficial-nextgen (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (30540a72a722c901403164aeb090ca99999d3be2cc4d9e9f3ad99ef319fc2db2)\nThis package presents itself as an unofficial Facebook Messenger client library, but its exported authentication helpers (`loginViaAPI`, `tokensViaAPI`, `tokens`) send the caller-supplied Facebook email, password, and 2FA secret to `https://api.fca-ng.top/api/v1/facebook/login_ios` by default rather than authenticating directly with facebook.com. The default destination is hardcoded in `src/engine/core/config.ts` (`apiServer: \"https://api.fca-ng.top\"`) and consumed in `src/engine/core/authHelpers.ts` line 62, which POSTs `{ email, password, twoFactor }` to that endpoint. The README does not disclose this third-party relay; consumers using the library to log a bot account into Facebook will silently hand their credentials to the package author's server on every login. The relay is opt-out (a consumer must override `apiServer`) rather than opt-in, which inverts the trust model expected of a Messenger client library. Additionally, `src/engine/core/updateCheck.ts` exposes a self-updater that can invoke `execFile('npm', ['i', '<pkg>@latest'])` when `config.install` is enabled — gated and not auto-triggered, but a secondary quality concern.\n",
   "affected": [
@@ -46,7 +47,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@asura21232/fca-unofficial-nextgen/MAL-2026-4363.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@asura21232/fca-unofficial-nextgen/MAL-2026-4363.json"
       }
     }
   ],

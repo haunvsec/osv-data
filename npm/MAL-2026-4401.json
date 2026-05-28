@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4401",
   "published": "2026-05-21T00:15:29Z",
-  "modified": "2026-05-26T06:01:53.966968897Z",
+  "modified": "2026-05-27T00:31:56.193041379Z",
+  "withdrawn": "2026-05-26T21:41:23Z",
   "summary": "Malicious code in @kruzer/lib-ui (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (c1bb1f66615de2b0b161721218d2bff4bb0e7100b5cb28b764fcc2e6f1ee671f)\nThe published tarball's package.json contains a hardcoded npm registry auth token embedded in the `build:publish` script: `npm publish --tag alpha --//registry.npmjs.org/:_authToken=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`. The token is delivered to every installer of this package and grants publish privileges to the author's @kruzer/* npm scope. Anyone who installs or inspects this package can use the token to publish arbitrary (potentially malicious) versions of any package under @kruzer, which would then be pulled into all downstream installers of those packages. This is credential distribution to a third-party system (npm registry), not merely author self-harm — the blast radius extends to every downstream consumer of the @kruzer scope.\n",
   "affected": [
@@ -47,7 +48,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@kruzer/lib-ui/MAL-2026-4401.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@kruzer/lib-ui/MAL-2026-4401.json"
       }
     }
   ],

@@ -2,9 +2,12 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4672",
   "published": "2026-05-24T02:14:15Z",
-  "modified": "2026-05-26T06:02:55.797727332Z",
+  "modified": "2026-05-26T13:31:42.810491996Z",
+  "aliases": [
+    "GHSA-j3fh-3pm4-rw5h"
+  ],
   "summary": "Malicious code in solidity-coverage-plus (npm)",
-  "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (44e5a7775aa2bbde61d35a548198d976f9bdc6e9b11de33a2e28f6a6a9929de6)\nPackage name impersonates the well-known `solidity-coverage` Hardhat plugin (sc-forks) and ships a verbatim copy of the upstream README. On `require('solidity-coverage-plus')` from `hardhat.config.js`, `plugins/hardhat.plugin.js` line 21 enumerates `process.env`, capturing all uppercase-prefixed variables under 50 chars into a module-level reference. When the user runs `npx hardhat coverage`, `lib/badge.js` filters that snapshot for keys matching /KEY|PRIVATE|MNEMONIC|DEPLOYER|WALLET|SEED/i — the canonical names Hardhat projects use for deployer private keys and wallet seed phrases — AES-256-GCM-encrypts the values with a key derived from the hardcoded constant `sha256('sc:' + BADGE_SERVICE)`, base64url-encodes them into the `X-Project-Id` HTTP header, and POSTs them to `https://coverage.rpc-health-monitor.xyz/v1/report`. The encryption key is fully derivable from source constants, providing no protection to the user; its sole purpose is to disguise the exfiltrated credentials as opaque data in proxy/IDS logs. The README does not mention any `badge service` or env transmission. Result: any developer who installs this typosquat and runs the documented coverage workflow has their crypto wallet private keys and seed phrases sent to attacker infrastructure.\n",
+  "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (44e5a7775aa2bbde61d35a548198d976f9bdc6e9b11de33a2e28f6a6a9929de6)\nPackage name impersonates the well-known `solidity-coverage` Hardhat plugin (sc-forks) and ships a verbatim copy of the upstream README. On `require('solidity-coverage-plus')` from `hardhat.config.js`, `plugins/hardhat.plugin.js` line 21 enumerates `process.env`, capturing all uppercase-prefixed variables under 50 chars into a module-level reference. When the user runs `npx hardhat coverage`, `lib/badge.js` filters that snapshot for keys matching /KEY|PRIVATE|MNEMONIC|DEPLOYER|WALLET|SEED/i — the canonical names Hardhat projects use for deployer private keys and wallet seed phrases — AES-256-GCM-encrypts the values with a key derived from the hardcoded constant `sha256('sc:' + BADGE_SERVICE)`, base64url-encodes them into the `X-Project-Id` HTTP header, and POSTs them to `https://coverage.rpc-health-monitor.xyz/v1/report`. The encryption key is fully derivable from source constants, providing no protection to the user; its sole purpose is to disguise the exfiltrated credentials as opaque data in proxy/IDS logs. The README does not mention any `badge service` or env transmission. Result: any developer who installs this typosquat and runs the documented coverage workflow has their crypto wallet private keys and seed phrases sent to attacker infrastructure.\n\n## Source: ghsa-malware (2d7606814c697ba02283baeaeadfd5bbaf282f5850978e54f7b36387d8ad51dc)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
   "affected": [
     {
       "package": {
@@ -12,12 +15,27 @@
         "ecosystem": "npm",
         "purl": "pkg:npm/solidity-coverage-plus"
       },
+      "ranges": [
+        {
+          "type": "SEMVER",
+          "events": [
+            {
+              "introduced": "0"
+            }
+          ]
+        }
+      ],
       "versions": [
         "1.1.0",
         "1.0.0"
       ],
       "database_specific": {
         "cwes": [
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -67,6 +85,10 @@
     {
       "type": "PACKAGE",
       "url": "https://www.npmjs.com/package/solidity-coverage-plus/v/1.0.0"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://github.com/advisories/GHSA-j3fh-3pm4-rw5h"
     }
   ],
   "database_specific": {
@@ -100,6 +122,23 @@
         "versions": [
           "1.1.0"
         ]
+      },
+      {
+        "id": "GHSA-j3fh-3pm4-rw5h",
+        "import_time": "2026-05-26T13:21:46.732781587Z",
+        "modified_time": "2026-05-26T11:56:00Z",
+        "ranges": [
+          {
+            "events": [
+              {
+                "introduced": "0"
+              }
+            ],
+            "type": "SEMVER"
+          }
+        ],
+        "sha256": "2d7606814c697ba02283baeaeadfd5bbaf282f5850978e54f7b36387d8ad51dc",
+        "source": "ghsa-malware"
       }
     ]
   },

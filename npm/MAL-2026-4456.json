@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4456",
   "published": "2026-05-20T03:06:44Z",
-  "modified": "2026-05-26T06:02:05.399278152Z",
+  "modified": "2026-05-27T00:31:51.659387823Z",
+  "withdrawn": "2026-05-26T18:24:46Z",
   "summary": "Malicious code in @thesignup/cli (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (ba2a0430ac2be1496dc77d4ad0a94d89bcf563d4aadb4eb457812b7572aa8367)\nThe package's scripts/postinstall.cjs runs at install time and performs host reconnaissance (hostname collection, ping/network probing) and posts the results to a remote endpoint via HTTP POST. Lifecycle-time outbound network beacons that gather host identifiers and ship them off-host on `npm install` are an active-attack shape: every installer of this package becomes a data point for the operator, with no consent and no opt-out, and the beacon fires before the user has even had a chance to read the README. The structural fingerprint (postinstall + ping + hostname read + POST to a remote host) is the canonical install-time exfiltration pattern.\n",
   "affected": [
@@ -47,7 +48,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@thesignup/cli/MAL-2026-4456.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@thesignup/cli/MAL-2026-4456.json"
       }
     }
   ],

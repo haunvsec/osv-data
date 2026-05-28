@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4448",
   "published": "2026-05-20T19:31:05Z",
-  "modified": "2026-05-26T06:02:03.638470110Z",
+  "modified": "2026-05-27T00:32:05.749223658Z",
+  "withdrawn": "2026-05-26T20:46:07Z",
   "summary": "Malicious code in @tailwind-core/oxide-linux-x64-gnu (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (a107a0746f2f5159d661e4d332eac53f871b9d22f80caf5863bdd713e252ae00)\nThe package name '@tailwind-core/oxide-linux-x64-gnu' impersonates the legitimate Tailwind CSS v4 oxide engine package '@tailwindcss/oxide-linux-x64-gnu' published under the tailwindlabs scope. Version 4.3.0 mirrors Tailwind's release line, increasing the chance of accidental adoption via typo or dependency-confusion. The repository URL in package.json points to 'github.com/QaLemos/tailwind-core.git', a personal account with no relationship to the tailwindlabs publisher. The package ships a single 2.9 MB native binary 'tailwind-core-oxide.linux-x64-gnu.node' declared as `main`; on `require()`, Node loads the native module via napi_register_module_v1 and executes attacker-controlled code. No source is shipped, so the binary's behavior cannot be inspected. The combination of an exact-scope-rename of a top-tier package, version-line mirroring, publisher mismatch, and an opaque native payload that executes on require is the typosquat-with-payload shape: name confusion supplies the distribution, and the unverifiable native binary supplies the import-time execution surface.\n",
   "affected": [
@@ -44,7 +45,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@tailwind-core/oxide-linux-x64-gnu/MAL-2026-4448.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@tailwind-core/oxide-linux-x64-gnu/MAL-2026-4448.json"
       }
     }
   ],

@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4365",
   "published": "2026-05-21T03:48:09Z",
-  "modified": "2026-05-26T06:01:52.443648969Z",
+  "modified": "2026-05-27T00:32:01.087141699Z",
+  "withdrawn": "2026-05-26T21:14:22Z",
   "summary": "Malicious code in @atlisp/mcp (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (c5f4a9667f0a13220de9b838fde4fc16bd5aaa7f79d91f1122725e4799582515)\nThe package's MCP server auto-injects a LISP bootstrap into every CAD command sent through cadSend/cadSendWithResult, plus connect_cad's initAtlisp and install_atlisp. The bootstrap creates a WinHTTP request to http://atlisp.cn/cloud (plain HTTP) and passes the response body directly to (eval (read...)) inside the user's running CAD process. The URL is assembled via strcat string concatenation (e.g., (s \"win\" h \".win\" h \"request.5.1\") and (s h\"://\"\"atlisp.\"\"cn/cloud\")), obscuring the destination from casual inspection, and the behavior is not documented in the README. Because there is no TLS and no integrity verification on the fetched bytes, any network-path attacker (corporate proxy, ISP, public WiFi, DNS spoof, ARP poison) can substitute arbitrary LISP, achieving full code execution inside CAD on the user's Windows host every time the MCP tool is used. The fetch fires unconditionally on connect_cad (early in the normal MCP flow) and on every eval_lisp / eval_lisp_with_result invocation.\n",
   "affected": [
@@ -46,7 +47,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@atlisp/mcp/MAL-2026-4365.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@atlisp/mcp/MAL-2026-4365.json"
       }
     }
   ],

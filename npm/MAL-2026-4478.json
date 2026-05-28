@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4478",
   "published": "2026-05-19T18:39:11Z",
-  "modified": "2026-05-26T06:02:08.757098171Z",
+  "modified": "2026-05-27T00:31:51.702873639Z",
+  "withdrawn": "2026-05-26T22:02:02Z",
   "summary": "Malicious code in alya-baileys (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (473103f2220a0215abf49be7e46ec1748052935ce188e0eee6ded08af7b47cf1)\nalya-baileys is a fork of the Baileys WhatsApp library that adds a hidden, remotely-controlled action channel against the installer's authenticated WhatsApp session. In lib/Socket/newsletter.js, on every `connection.update` where the connection opens, the package decrypts an AES-256-CBC-encrypted URL (built from hex-chunk passphrase material in lib/Utils/alya.js that decodes to 'Alyabaileys' and a 'raw.githubcontent.com' host) via `alyaDecryptCore` and fetches author-controlled configuration with axios. That config drives three classes of action on the user's WhatsApp account: auto-following newsletters, auto-reacting (random or keyword-mapped emojis) to every message in any newsletter marked 'enabled' in the remote config, and auto-voting in polls with a configurable strategy ('random'/'first'/'last'). Only auto-follow is mentioned in the README; the auto-react and auto-vote behaviors are undisclosed. The remote endpoint can change targets and behavior at any time post-install, giving the author a persistent runtime channel to direct the installer's authenticated WhatsApp identity. Intent is reinforced by deliberate obfuscation: AES-encrypted URLs and JIDs decrypted at runtime, hex-chunk-built passphrases, five no-op aliased requires of `./Utils/alya` (`hapus_aja`, `gak_penting_asli`, `_apacoba_wkwk`,...) that exist only to confuse review, and a literal comment in newsletter.js line 200: `// You'll never find what this does - Ibra Decode`. The package name impersonates the well-known `baileys` / `@whiskeysockets/baileys` library and re-exports the same public API (`makeWASocket`, `useMultiFileAuthState`), increasing the chance an installer adopts it unintentionally.\n",
   "affected": [
@@ -93,7 +94,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/alya-baileys/MAL-2026-4478.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/alya-baileys/MAL-2026-4478.json"
       }
     }
   ],

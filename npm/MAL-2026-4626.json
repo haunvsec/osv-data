@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4626",
   "published": "2026-05-21T00:38:55Z",
-  "modified": "2026-05-26T06:02:45.054521897Z",
+  "modified": "2026-05-27T00:32:07.226234709Z",
+  "withdrawn": "2026-05-26T18:47:47Z",
   "summary": "Malicious code in omnius (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (2aceac0879b587bc711c3f156bf0de4bab90f3774816a6cbeb36a2cf9bb03e12)\nThe package's postinstall lifecycle hook launches dist/postinstall-daemon.cjs, which combines child_process.execSync, os.userInfo(), filesystem probes, and network primitives (require('http'), http.request, GET) consistent with a host-reconnaissance-and-exfiltration daemon. The script repeatedly invokes ping (5+ call sites at lines 184, 298, 465, 693, 741) for host/network discovery, and reads identity (os.userInfo at L160, L395) before sending HTTP requests. package.json declares both preinstall and postinstall hooks and additionally embeds curl invocations (line 142). A sibling Python script (dist/scripts/web_scrape.py) contains its own ping/wget/POST chain. The combination of: (a) a daemon installed via lifecycle hooks, (b) execSync-driven system enumeration, (c) outbound HTTP from install-time-reachable code, and (d) multiple curl shell-outs in package.json constitutes installer-side reconnaissance with network exfiltration. Installing this package will execute attacker-controlled probing/exfiltration on the installer's machine.\n",
   "affected": [
@@ -99,7 +100,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/omnius/MAL-2026-4626.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/omnius/MAL-2026-4626.json"
       }
     }
   ],

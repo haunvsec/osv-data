@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4411",
   "published": "2026-05-23T10:27:40Z",
-  "modified": "2026-05-26T06:01:56.723470608Z",
+  "modified": "2026-05-27T00:32:02.574435706Z",
+  "withdrawn": "2026-05-26T21:41:23Z",
   "summary": "Malicious code in @onerjs/inspector (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (08c3c6c201db840a5576941656934704b0932abe72527c5e85b969fd90ad0ccd)\nPackage name, version (8.52.2), README, homepage and repository all impersonate @babylonjs/inspector. The shipped code is a ~700-byte UMD wrapper that re-exports require('@babylonjs/inspector') — functionally a thin shim providing cover for the impersonation. The harmful mechanism is in package.json: peerDependencies redirect every @babylonjs/* dependency (core, gui, addons, loaders, materials, serializers, gui-editor) to @onerjs/* lookalikes pinned to ^8.0.0. Installers following the README — which instructs `npm install @babylonjs/core @babylonjs/inspector` — pull this package and then must satisfy @onerjs/core, @onerjs/gui, etc., all of which resolve to packages in an attacker-controlled scope unrelated to the legitimate BabylonJS publisher. Whatever code those sibling @onerjs/* packages contain (now or in any future version, since the constraint is a caret range) will execute in the installer's environment. The wrapper itself ships no install hooks, network code, or credential access; the supply-chain harm is the forced pull-in of the parallel namespace.\n",
   "affected": [
@@ -41,7 +42,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@onerjs/inspector/MAL-2026-4411.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@onerjs/inspector/MAL-2026-4411.json"
       }
     }
   ],

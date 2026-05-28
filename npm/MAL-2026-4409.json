@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4409",
   "published": "2026-05-20T15:08:09Z",
-  "modified": "2026-05-26T06:01:56.380245198Z",
+  "modified": "2026-05-27T00:31:58.137021988Z",
+  "withdrawn": "2026-05-26T21:41:23Z",
   "summary": "Malicious code in @nutui/nutui-react-taro (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (71ad42f4bfd953311c2d69f622cc6e8d5193a8852ac0bbc9ea0781ac6b651390)\nThe package's `postinstall.js` invokes `execSync('npm-usage-stats disable')` and `execSync('npm-usage-stats', { stdio: 'inherit' })`. The `npm-usage-stats` bin is provided by `@jmfe/npm-usage-stats-tool`, which is declared in `package.json` `optionalDependencies` pinned to `\"latest\"` (a mutable tag, not a fixed version or commit). On every `npm install`, npm resolves whatever code is currently published to that tag and the postinstall runs that code on the installer's machine with inherited stdio. Because the executed bytes are not shipped in this tarball, not version-pinned, and not hash-verified, the maintainer of the separate `@jmfe/npm-usage-stats-tool` package (or anyone able to publish to it) gains arbitrary code execution on every installer of `@nutui/nutui-react-taro@3.0.21-cpp` at install time. The off-channel `-cpp` version tag — which deviates from upstream `@nutui/nutui-react-taro` semver — and the `@jmfe` scope indirection (distinct from `@nutui`) compound the provenance concern: installers consenting to a UI component library do not consent to running an unrelated, mutable telemetry binary fetched from a different scope.\n",
   "affected": [
@@ -46,7 +47,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@nutui/nutui-react-taro/MAL-2026-4409.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@nutui/nutui-react-taro/MAL-2026-4409.json"
       }
     }
   ],

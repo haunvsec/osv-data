@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2025-41440",
   "published": "2025-08-27T23:12:13Z",
-  "modified": "2026-05-26T06:01:56.549473626Z",
+  "modified": "2026-05-27T00:32:01.155618968Z",
+  "withdrawn": "2026-05-26T16:40:12Z",
   "aliases": [
     "CVE-2025-10894",
     "GHSA-cxm3-wv7p-598c",
@@ -57,7 +58,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@nx/key/MAL-2025-41440.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@nx/key/MAL-2025-41440.json"
       }
     }
   ],

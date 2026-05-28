@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4380",
   "published": "2026-05-21T14:34:24Z",
-  "modified": "2026-05-26T06:01:46.729463300Z",
+  "modified": "2026-05-27T00:31:54.575516850Z",
+  "withdrawn": "2026-05-26T21:28:12Z",
   "summary": "Malicious code in @dekuzxc/nexca (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (35a4db02ce3d3ea022c8a6b5349975b4721d3f2c5b516b6c3dd3dddbfa802271)\nWhen a consumer uses the advertised api.listen()/listenE2EE() flow, every incoming message attachment of type \"photo\" is auto-uploaded to imgbb.com using a hardcoded API key. In src/listenMqtt.js (lines 64-69), attachImageUrlToAttachment() is invoked unconditionally inside parseDelta and calls api._imgUpload(attachment.url) for any photo attachment. src/uploadImageToImgbb.js hardcodes IMGBB_KEY = \"3e198e6ffe205d1c7968a92fd92177c9\" and POSTs the photo URL to https://api.imgbb.com/1/upload, causing ImgBB to fetch the image bytes and store them in the author's ImgBB gallery. The behavior is not documented in the README, is not gated by any option, and the destination is the author's account — not the consumer's. Bot operators using this library to handle DMs/groups will have every photo their bot receives silently relayed to an author-controlled image host. This matches the silent-relay class: caller-supplied data flows through the package's normal API to a hardcoded third-party destination the caller never chose. The hardcoded ImgBB key is the mechanism enabling the relay.\n",
   "affected": [
@@ -58,7 +59,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@dekuzxc/nexca/MAL-2026-4380.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@dekuzxc/nexca/MAL-2026-4380.json"
       }
     }
   ],

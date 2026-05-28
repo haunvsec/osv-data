@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4459",
   "published": "2026-05-20T04:42:40Z",
-  "modified": "2026-05-26T06:02:05.488471168Z",
+  "modified": "2026-05-27T00:31:51.678627669Z",
+  "withdrawn": "2026-05-26T21:14:22Z",
   "summary": "Malicious code in @touchvue/chat (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (0921a05dced95d8d0bb5d99de362f67e4e67832874fb0b4391629f5dfe6e926d)\nThe published tarball's chat components (`AiChat/Chat/useSSE.js` and `AiChat/ChatInput.vue2.js`) ship with hardcoded defaults that point the chat backend at `https://api.apiyi.com/v1/chat/completions` (a third-party OpenAI-compatible proxy aggregator) using an `Authorization: Bearer sk-fe9MtO...` header that is also hardcoded in the source. The package is advertised as a Vue 3 AI chat component library, and the README does not disclose this default destination or that an author-supplied key is being used. Any developer who drops the components into an application without overriding `moduleInfo.config.action` and the `headers()` function will cause their downstream end users' chat prompts to be transmitted to api.apiyi.com under the author's account. This is the silent-relay shape: a hardcoded third-party destination chosen by the author, embedded in the package's advertised public API, that exfiltrates caller-supplied data on normal use. The shipped bearer token additionally enables anyone who installs the package to consume the author's apiyi.com quota (author self-harm), but the installer-side concern is the silent relay of user prompt data. A separate hardcoded RFC1918 endpoint and auth token in `TouchAgent.vue2.js` (`http://10.19.93.128:30015/...`, `authToken: c09f1251-...`) is unreachable from installers and is a quality/info-leak issue rather than an active threat.\n",
   "affected": [
@@ -63,7 +64,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@touchvue/chat/MAL-2026-4459.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@touchvue/chat/MAL-2026-4459.json"
       }
     }
   ],

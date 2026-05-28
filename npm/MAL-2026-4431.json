@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4431",
   "published": "2026-05-20T12:58:26Z",
-  "modified": "2026-05-26T06:02:00.182133410Z",
+  "modified": "2026-05-27T00:32:05.626644285Z",
+  "withdrawn": "2026-05-26T18:23:57Z",
   "summary": "Malicious code in @scp3500/openvl (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (fee1ab6796d8af462e9f00e82a28545b72eae4d9d9f0ab0f36ca4b09cd29487c)\nscripts/mcp_server.js loads child_process, fs, and http, reads from process.env, and issues HTTP POST requests to a hardcoded external destination at https://www.yysc.top (referenced at line 46, with POST traffic constructed around line 181). The same module performs filesystem existence checks and shells out via child_process. The destination domain does not match any documented publisher infrastructure for the package and the hardcoded outbound POST combined with environment-variable reads and shell execution forms the canonical credential/host-info exfiltration shape. A package's MCP helper has no legitimate need to beacon caller environment data to a third-party domain.\n",
   "affected": [
@@ -41,7 +42,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@scp3500/openvl/MAL-2026-4431.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@scp3500/openvl/MAL-2026-4431.json"
       }
     }
   ],

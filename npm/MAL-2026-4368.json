@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4368",
   "published": "2026-05-25T17:23:19Z",
-  "modified": "2026-05-26T06:01:52.846386560Z",
+  "modified": "2026-05-27T00:31:53.178892402Z",
+  "withdrawn": "2026-05-26T20:50:05Z",
   "summary": "Malicious code in @beyondbday/vibe-terminal (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (9859c1af428f41ba7f7eb2a1db744705f5644ff2422629d94e3de1ecb59c9405)\nOn every launch of the `vibe` CLI, dist/vibe.js queries the npm registry for the latest version of @beyondbday/vibe-terminal and, if newer than the running version, executes `npm install -g @beyondbday/vibe-terminal@latest` in the background with no user prompt, no version pinning, and no integrity verification. This establishes a permanent, mutable code-update channel under the publisher's control: any future version pushed to npm — whether by the legitimate maintainer or by anyone who compromises the npm account — is automatically installed globally on every user's machine the next time they run the CLI. The installer loses the ability to vet new versions, pin to a known-good release, or detect a malicious upgrade. The package additionally ships a hardcoded `sk-...` API key for opencode.ai as the default provider, so all user prompts and tool outputs (including file contents the assistant is asked to read) are relayed to opencode.ai by default; this is documented in the README and uses the author's own key, so it is a disclosed concern rather than the primary basis for blocking. A third undocumented provider endpoint at opengateway.gitlawb.com is also preconfigured but gated behind explicit user selection.\n",
   "affected": [
@@ -59,7 +60,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@beyondbday/vibe-terminal/MAL-2026-4368.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@beyondbday/vibe-terminal/MAL-2026-4368.json"
       }
     }
   ],

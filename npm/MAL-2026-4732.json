@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4732",
   "published": "2026-05-19T19:00:32Z",
-  "modified": "2026-05-26T06:03:06.228958940Z",
+  "modified": "2026-05-27T00:32:10.127563578Z",
+  "withdrawn": "2026-05-26T18:49:12Z",
   "summary": "Malicious code in workrally (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (502275ca25c6fb0e28db57d91789be11e347b5f21696ed45e15c015d123eaf51)\ndist/index.js imports child_process and runs `whoami` (observed at multiple call sites), then POSTs the result to a hardcoded remote URL `https://workrally.qq.com`. This is the classic host-identity exfiltration shape: gather installer-side identity via `whoami` and ship it to an attacker-controlled destination. The destination is a literal in the bundle (not a default parameter or user-configurable endpoint), and the package's stated purpose does not justify reporting host identity off-machine. Installing or loading this package leaks the installer's username/host to the operator of workrally.qq.com.\n",
   "affected": [
@@ -41,7 +42,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/workrally/MAL-2026-4732.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/workrally/MAL-2026-4732.json"
       }
     }
   ],

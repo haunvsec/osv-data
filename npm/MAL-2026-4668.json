@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4668",
   "published": "2026-05-22T13:21:24Z",
-  "modified": "2026-05-26T06:02:54.724466477Z",
+  "modified": "2026-05-27T00:32:12.978081574Z",
+  "withdrawn": "2026-05-26T18:52:22Z",
   "summary": "Malicious code in share-anything-cli (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (290f9dadaf589349dd8a7c641450aca713a6ead63b2ba685c15e4e6a37ab3b07)\nThe package's package.json declares a postinstall lifecycle hook (`\"postinstall\": \"node install.js\"`) that runs install.js automatically on `npm install`. install.js requires `child_process` and `https`, gathers host data (process.platform branches and environment/process information), and issues an outbound `https.get(...)` call. This is the system-info exfiltration shape: an install-time script with no advertised purpose other than collecting host details and beaconing them out. Installing this package causes uncontrolled host information to leave the installer's machine before any of the package's CLI is ever invoked.\n",
   "affected": [
@@ -50,7 +51,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/share-anything-cli/MAL-2026-4668.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/share-anything-cli/MAL-2026-4668.json"
       }
     }
   ],

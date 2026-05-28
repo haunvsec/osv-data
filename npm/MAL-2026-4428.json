@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4428",
   "published": "2026-05-20T12:16:10Z",
-  "modified": "2026-05-26T06:02:00.197419705Z",
+  "modified": "2026-05-27T00:32:05.668261989Z",
+  "withdrawn": "2026-05-26T21:41:23Z",
   "summary": "Malicious code in @rspack-debug/core (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (c05c92aa1796614da12b282390f160fef2a5c63aba9a3257af956c19df341ce5)\nPackage @rspack-debug/core@2.0.4 impersonates the popular @rspack/core bundler. The README, description ('Fast Rust-based bundler for the web with a modernized webpack API'), homepage (rspack.rs), and repository pointer are copied verbatim from the legitimate package. The package.json declares a single runtime dependency using npm's package-aliasing syntax: \"@rspack/binding\": \"npm:@rspack-debug/binding@2.0.4\". This forces every install to substitute the legitimate native binding @rspack/binding with the same-author-controlled sibling @rspack-debug/binding under the impersonating scope. The native binding is loaded by @rspack/core's main module, so any code shipped in @rspack-debug/binding executes when a consumer imports the package or runs the bundler. The combination of (a) a ≤1-edit name impersonation of a top-tier registry package, (b) verbatim cloning of the upstream identity, and (c) a dependency-alias redirect of the native binding to a sibling under the typosquat scope is the canonical delivery vehicle for malicious native code through a typosquat front.\n",
   "affected": [
@@ -44,7 +45,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@rspack-debug/core/MAL-2026-4428.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@rspack-debug/core/MAL-2026-4428.json"
       }
     }
   ],

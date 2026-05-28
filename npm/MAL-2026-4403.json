@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4403",
   "published": "2026-05-20T20:09:58Z",
-  "modified": "2026-05-26T06:01:54.715498789Z",
+  "modified": "2026-05-27T00:31:59.549989623Z",
+  "withdrawn": "2026-05-26T21:41:23Z",
   "summary": "Malicious code in @link-assistant/hive-mind (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (7dfeaad3a9eda8f440dabe165d4ff6ba593c9858b9752d9bded19b05b292072a)\nThe package fetches https://unpkg.com/use-m/use.js — an unpinned URL that resolves to the latest published version of the third-party `use-m` package — and passes the response body directly to `eval()` to bootstrap a runtime module loader. The pattern appears at the top level of src/lib.mjs (lines 34-36: `globalThis.use = (await eval(await (await fetch('https://unpkg.com/use-m/use.js')).text())).use`), so it fires on import of that module by any consumer or bin script. The same pattern is repeated in src/hive.mjs (lines 48-53) and across roughly thirty other files in the package. There is no version pin, no SRI hash, and no integrity verification. Any compromise of the `use-m` npm package, or of the unpkg response path, results in arbitrary attacker-controlled JavaScript executing in the context of every consumer that runs or imports this package — including, when the user passes `--auto-cleanup`, a `sudo rm -rf /tmp/* /var/tmp/*` shell call that broadens the blast radius. The static `fetch`/`POST`/`process.env` co-occurrences in config.lib.mjs, github.lib.mjs, hive.mjs, limits.lib.mjs, opencode.lib.mjs, playwright-mcp.lib.mjs, and youtrack/youtrack.lib.mjs are calls to documented vendor APIs (api.openai.com, api.anthropic.com, api.github.com, opencode.ai, youtrack.cloud) consistent with the package's stated AI-orchestration purpose and are not themselves the block basis.\n",
   "affected": [
@@ -71,7 +72,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@link-assistant/hive-mind/MAL-2026-4403.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@link-assistant/hive-mind/MAL-2026-4403.json"
       }
     }
   ],

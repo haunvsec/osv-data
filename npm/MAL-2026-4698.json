@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4698",
   "published": "2026-05-20T07:54:14Z",
-  "modified": "2026-05-26T06:03:00.602240988Z",
+  "modified": "2026-05-27T00:32:08.583119903Z",
+  "withdrawn": "2026-05-26T22:13:04Z",
   "summary": "Malicious code in use-context-selector-tony (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (6dde262b1fecc08fe5853c4ec7ada6c3c3746a6e7afb5bd18c33d5adfa03843c)\nThis package is a name-squat of the popular `use-context-selector` library and ships a postinstall script (`dist/postinstall.js` / `src/postinstall.js`) that, on `npm install`, reads `process.env` and beacons to the hardcoded endpoint `https://almondco.online` via `https.get`. The endpoint is unrelated to any published `use-context-selector` author or infrastructure and is hardcoded in the install-lifecycle script. The combination of (a) name confusion against an established library, (b) a `postinstall` hook firing without consent on every `npm install`, (c) reads of `process.env`, and (d) outbound HTTPS to an attacker-controlled domain matches the standard install-time environment-exfiltration pattern.\n",
   "affected": [
@@ -46,7 +47,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/use-context-selector-tony/MAL-2026-4698.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/use-context-selector-tony/MAL-2026-4698.json"
       }
     }
   ],

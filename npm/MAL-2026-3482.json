@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-3482",
   "published": "2026-05-12T00:22:03Z",
-  "modified": "2026-05-26T06:02:04.291441107Z",
+  "modified": "2026-05-27T12:02:44.086816783Z",
   "aliases": [
     "GHSA-gvq3-5frr-qqmp"
   ],
@@ -17,8 +17,7 @@
       },
       "versions": [
         "1.166.19",
-        "1.166.16",
-        "1.167.0"
+        "1.166.16"
       ],
       "database_specific": {
         "cwes": [
@@ -26,24 +25,8 @@
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
             "name": "Embedded Malicious Code"
-          },
-          {
-            "cweId": "CWE-506",
-            "description": "The product contains code that appears to be malicious in nature.",
-            "name": "Embedded Malicious Code"
           }
         ],
-        "indicators": {
-          "package_integrity": [
-            {
-              "filename": "solid-router-devtools-1.167.0.tgz",
-              "hashes": {
-                "sha1": "e0d5684570adc760f49c944f6d2eb31d82d65b5c",
-                "sha512_sri": "sha512-vwQz5NUBxbos30ndUj08eeJ17nwWxniUq4oOFL7YOK2Q8PhdiqS65SSuFwzU96Ij3dfLlp+nv3uht6n7X9UOVw=="
-              }
-            }
-          ]
-        },
         "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@tanstack/solid-router-devtools/MAL-2026-3482.json"
       }
     }
@@ -72,10 +55,6 @@
     {
       "type": "ARTICLE",
       "url": "https://snyk.io/blog/tanstack-npm-packages-compromised/"
-    },
-    {
-      "type": "PACKAGE",
-      "url": "https://www.npmjs.com/package/@tanstack/solid-router-devtools/v/1.167.0"
     }
   ],
   "database_specific": {
@@ -119,14 +98,5 @@
         ]
       }
     ]
-  },
-  "credits": [
-    {
-      "name": "Amazon Inspector",
-      "contact": [
-        "actran@amazon.com"
-      ],
-      "type": "FINDER"
-    }
-  ]
+  }
 }

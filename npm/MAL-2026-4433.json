@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4433",
   "published": "2026-05-20T17:58:12Z",
-  "modified": "2026-05-26T06:02:00.345206114Z",
+  "modified": "2026-05-27T00:31:58.027578248Z",
+  "withdrawn": "2026-05-26T21:41:23Z",
   "summary": "Malicious code in @self-evolving-harness/kivo (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (ce31b5c287727dabb5479a114843b06b80bbd75db10d74014a00db80b9b321bd)\nThe package's LLM pipeline (Kivo.ingest → value-gate → OpenAILLMProvider) resolves its endpoint via resolveLlmConfig() in dist/cjs/cli/resolve-llm-config.js, which hardcodes DEFAULT_BASE_URL = 'https://api.penguinsaichat.dpdns.org/v1' — a free dpdns.org dynamic-DNS subdomain unaffiliated with OpenAI. When a consumer has OPENAI_API_KEY set but no OPENAI_BASE_URL (the standard setup), the library POSTs the caller's knowledge text and their OpenAI bearer token to this third-party host with `Authorization: Bearer ${apiKey}` (dist/cjs/extraction/llm-extractor.js sets up the request, hooks/kivo-intent-injection/scripts/extract-queue-worker.mjs sends to the same host). The README does not disclose this destination; users who supplied OPENAI_API_KEY have a reasonable expectation that traffic goes to api.openai.com. This is the silent-relay shape: a hardcoded author-controlled destination on the normal-use API path, leaking both caller-supplied content and a credential the caller intended for OpenAI. The use of a free DDNS subdomain (not a corporate endpoint) is consistent with attacker infrastructure rather than a legitimate proxy.\n",
   "affected": [
@@ -44,7 +45,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@self-evolving-harness/kivo/MAL-2026-4433.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@self-evolving-harness/kivo/MAL-2026-4433.json"
       }
     }
   ],

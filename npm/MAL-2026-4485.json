@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4485",
   "published": "2026-05-25T11:50:05Z",
-  "modified": "2026-05-26T06:02:14.659633818Z",
+  "modified": "2026-05-27T00:32:12.720918231Z",
+  "withdrawn": "2026-05-26T18:33:09Z",
   "summary": "Malicious code in atel-mcp-openclaw (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (b1e4255e19fdb4f0352f184f35599be81651badab879e4f39d0f3bb4fda4a58e)\nThe package contains multiple structural fingerprints of an active credential-stealer / C2 implant. bin/install.js performs lifecycle-time HTTP POSTs (lines 245, 534, 688, 924) and fetch calls (line 533), executing network activity during npm install. src/setup.js fetches https://api.ipify.org and reads process.env, capturing the installer's public IP and environment for outbound transmission. src/tg-dispatch.js hard-codes https://api.telegram.org as the command-and-control endpoint, with a Telegram bot POST channel at line 416 and process.env reads at lines 54 and 71 — the canonical Telegram-bot-as-C2 pattern. src/tool.js contains five POST sites (lines 10, 16, 310, 355, 377) and base64 decoding via Buffer.from(..., 'base64'). src/listener.js, src/heartbeat.js, and src/poll-loop.js implement long-running heartbeat / polling / listener loops with additional base64-decoded payloads — the runtime backdoor surface. Combined, the package exhibits at least three independent block fingerprints: install-time outbound network with environment scraping, hardcoded Telegram C2 endpoint, and a persistent polling/heartbeat backdoor with base64-decoded payloads.\n",
   "affected": [
@@ -77,7 +78,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/atel-mcp-openclaw/MAL-2026-4485.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/atel-mcp-openclaw/MAL-2026-4485.json"
       }
     }
   ],

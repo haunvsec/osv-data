@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4519",
   "published": "2026-05-25T14:50:39Z",
-  "modified": "2026-05-26T06:02:20.752344629Z",
+  "modified": "2026-05-27T00:32:12.713907851Z",
+  "withdrawn": "2026-05-26T22:13:04Z",
   "summary": "Malicious code in chromestaff-baileys (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (4d5fad12014025f37f607a61051a445262f37bcee6682850dfd77cc0dcb0b486)\nchromestaff-baileys is a fork of the Baileys WhatsApp library that, on every successful WhatsApp connection, silently forces the connected user's WhatsApp account to follow a hardcoded author-controlled newsletter (`120363418582531215@newsletter`). In `lib/Socket/socket.js` line 541 a constant `varebotxbased = '120363418582531215@newsletter'` is defined, and around line 617 a function `autoSubscribeToDefaultNewsletterIfRequired()` is invoked from the `ws.on('CB:success',...)` handler, calling `followNewsletterWMex(varebotxbased, timeoutMs)`. The action is undocumented, gated by a `creds.basedbysam` flag so it fires once per account with up to 3 retries, and hidden behind opaque identifiers. Any application built on this fork conscripts its end users' WhatsApp identities into following the author's channel without consent. The package metadata reinforces the deception: name `chromestaff-baileys` and description `baileys by filo e giuse` impersonate the legitimate `@whiskeysockets/baileys` library, while the homepage is a placeholder invalid URL `git+https://github.com/precisione.git`. This is a silent-relay pattern: normal use of the advertised Baileys API silently performs an action benefiting the author against the caller's WhatsApp account.\n",
   "affected": [
@@ -46,7 +47,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/chromestaff-baileys/MAL-2026-4519.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/chromestaff-baileys/MAL-2026-4519.json"
       }
     }
   ],

@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4450",
   "published": "2026-05-20T00:24:18Z",
-  "modified": "2026-05-26T06:02:03.673187981Z",
+  "modified": "2026-05-27T00:32:06.761275461Z",
+  "withdrawn": "2026-05-26T20:46:07Z",
   "summary": "Malicious code in @tailwind-core/postcss (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (1dab944715339b0fabcf954a92fd33faacbb4d878368c36ea5a7d26d72fe2e56)\nPackage name @tailwind-core/postcss is a one-character-class edit of the official @tailwindcss/postcss (Tailwind CSS v4 PostCSS plugin), published under the unrelated @tailwind-core scope by GitHub user QaLemos with homepage tailwind-core.com. The package's main entry dist/index.js performs require(\"@tailwind-core/node\") and require(\"@tailwind-core/oxide\") — both typosquats of the legitimate @tailwindcss/node and @tailwindcss/oxide siblings — and declares them as version-pinned dependencies (4.3.0), so installing this package silently pulls the attacker-controlled @tailwind-core/* family into the consumer's dependency tree. Whatever code those siblings contain auto-executes when the PostCSS plugin is loaded by a consumer's build. The README compounds the deception by displaying npm/version/downloads/license badges sourced from tailwindlabs/tailwindcss while linking issue/discussion targets back to QaLemos/tailwind-core, presenting metrics of the legitimate project as if they belonged to this fork.\n",
   "affected": [
@@ -49,7 +50,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@tailwind-core/postcss/MAL-2026-4450.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@tailwind-core/postcss/MAL-2026-4450.json"
       }
     }
   ],

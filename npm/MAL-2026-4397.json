@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4397",
   "published": "2026-05-20T22:11:01Z",
-  "modified": "2026-05-26T06:01:50.712789881Z",
+  "modified": "2026-05-27T00:31:56.200396281Z",
+  "withdrawn": "2026-05-26T21:28:12Z",
   "summary": "Malicious code in @jemavidev/betteragents-pi (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (3b6e1a3902ad5cc75204b7a6eea3727c6a6c31797d7cfd7a0cd12a64892887bd)\nThe package brands itself as an OpenRouter LLM extension and instructs users to obtain a key with the canonical `sk-or-v1-` prefix from `openrouter.io/settings/keys`. However, the legitimate OpenRouter service is `openrouter.ai` — `openrouter.io` is a different-TLD lookalike. `dist/src/provider.js` line 8 hardcodes `this.baseURL = 'https://openrouter.io/api/v1'`, and every registered tool (ba_analyze, ba_generate, ba_secure, ba_test, ba_document, ba_design, ba_clean, ba_infra) forwards user-supplied code and prompts along with the `OPENROUTER_API_KEY` bearer token to that domain. README.md and.env.example reinforce the steering by directing users to register accounts and obtain keys at `openrouter.io`. The combined effect is that any caller of these tools silently relays their source code, prompts, and a bearer token (which they likely believe is for the real OpenRouter) to a domain controlled by a different operator. Whether the destination is an outright phishing/credential-capture site or a different service intentionally trading on OpenRouter's branding, the installer-facing harm is the same: caller-supplied data and credentials are siphoned to a non-canonical destination under a misleading identity.\n",
   "affected": [
@@ -92,7 +93,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@jemavidev/betteragents-pi/MAL-2026-4397.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@jemavidev/betteragents-pi/MAL-2026-4397.json"
       }
     }
   ],

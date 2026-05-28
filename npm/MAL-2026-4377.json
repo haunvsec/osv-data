@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4377",
   "published": "2026-05-20T19:34:41Z",
-  "modified": "2026-05-26T06:01:46.067108449Z",
+  "modified": "2026-05-27T00:31:54.576203984Z",
+  "withdrawn": "2026-05-26T17:12:48Z",
   "summary": "Malicious code in @ctrl/plex (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (20e1aad15739a79a359d88099a004fa395b66df8845c10823824e848f095c568)\nThe @ctrl/* npm scope was compromised in the Shai-Hulud supply-chain incident (September 2025). Versions of @ctrl/plex published during and after the compromise window have been observed shipping credential-harvesting payloads that exfiltrate developer secrets (npm tokens, GitHub tokens, cloud credentials, SSH keys) and self-propagate by republishing other packages owned by the same maintainer. @ctrl/plex@6.0.0 falls within the affected version range for this scope. Installing this version is expected to execute attacker-controlled code that harvests installer credentials and attempts further package compromise.\n",
   "affected": [
@@ -34,7 +35,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@ctrl/plex/MAL-2026-4377.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@ctrl/plex/MAL-2026-4377.json"
       }
     }
   ],

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-3492",
   "published": "2026-05-12T00:01:29Z",
-  "modified": "2026-05-26T06:02:04.346685721Z",
+  "modified": "2026-05-27T12:02:44.236662613Z",
   "aliases": [
     "GHSA-66j2-5c8h-j3f7"
   ],
@@ -17,8 +17,7 @@
       },
       "versions": [
         "1.166.41",
-        "1.166.38",
-        "1.167.4"
+        "1.166.38"
       ],
       "database_specific": {
         "cwes": [
@@ -26,24 +25,8 @@
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
             "name": "Embedded Malicious Code"
-          },
-          {
-            "cweId": "CWE-506",
-            "description": "The product contains code that appears to be malicious in nature.",
-            "name": "Embedded Malicious Code"
           }
         ],
-        "indicators": {
-          "package_integrity": [
-            {
-              "filename": "start-storage-context-1.167.4.tgz",
-              "hashes": {
-                "sha1": "c510f5bfdf299af214095054cb4ea08c60e6504c",
-                "sha512_sri": "sha512-hI93yABbvcaMWkCtewjxNAZOXcJIWhh7P8um7A76OHA2LmLFaR36Sm8eZ6OQHhPdFob4DMOkwDiCv9sckRvCow=="
-              }
-            }
-          ]
-        },
         "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@tanstack/start-storage-context/MAL-2026-3492.json"
       }
     }
@@ -72,10 +55,6 @@
     {
       "type": "ARTICLE",
       "url": "https://snyk.io/blog/tanstack-npm-packages-compromised/"
-    },
-    {
-      "type": "PACKAGE",
-      "url": "https://www.npmjs.com/package/@tanstack/start-storage-context/v/1.167.4"
     }
   ],
   "database_specific": {
@@ -119,14 +98,5 @@
         ]
       }
     ]
-  },
-  "credits": [
-    {
-      "name": "Amazon Inspector",
-      "contact": [
-        "actran@amazon.com"
-      ],
-      "type": "FINDER"
-    }
-  ]
+  }
 }

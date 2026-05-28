@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4619",
   "published": "2026-05-20T12:27:33Z",
-  "modified": "2026-05-26T06:02:28.765745767Z",
+  "modified": "2026-05-27T00:32:07.178781823Z",
+  "withdrawn": "2026-05-26T22:13:04Z",
   "summary": "Malicious code in naileys (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (53307e8df479525765ddef8cf9a54dcf0aa368b8ef57a088b624a5e80f72c999)\nnaileys is a fork/lookalike of the WhatsApp library baileys (single-character edit; internal references still mention 'wileys', and fetchLatestBaileysVersion in lib/Utils/generics.js queries https://registry.npmjs.org/wileys). On every successful WhatsApp connection, lib/Socket/newsletter.js (lines 83-99) executes a hardcoded auto-follow routine: a comment 'Naileys - Auto follow channels on connect' precedes a CHANNELS array containing three hardcoded JIDs ('120363426706961217@newsletter', '120363406068468165@newsletter', '120363420514587725@newsletter') and issues newsletterWMexQuery(jid, QueryIds.FOLLOW) for each. This fires automatically when a consumer simply uses the advertised makeWASocket API — no opt-in, no documentation, no configuration. The effect is that every WhatsApp account driven by naileys (the developer's account or any bot/end-user account using their software) is silently subscribed to author-controlled newsletter channels, modifying installer-side account state and giving the author guaranteed broadcast reach to every consumer. This is the silent-relay pattern: the package's documented API has an undisclosed side effect routed to a hardcoded author destination. The name-similarity to baileys plus verbatim API mimicry corroborates intentional typosquat-as-delivery-vehicle.\n",
   "affected": [
@@ -46,7 +47,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/naileys/MAL-2026-4619.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/naileys/MAL-2026-4619.json"
       }
     }
   ],

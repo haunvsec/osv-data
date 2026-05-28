@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4410",
   "published": "2026-05-23T04:01:40Z",
-  "modified": "2026-05-26T06:01:56.527571061Z",
+  "modified": "2026-05-27T00:32:02.451596785Z",
+  "withdrawn": "2026-05-26T21:41:23Z",
   "summary": "Malicious code in @onerjs/addons (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (a7d3b8a435a56ca78d7a2f4ca7077b8a96f968d29e32dd01580fdf01cee442f5)\nPackage is published as `@onerjs/addons` but ships a verbatim copy of `@babylonjs/addons` source while declaring Babylon.js identity in its metadata: `package.json` sets `homepage` to `https://www.babylonjs.com` and `repository.url` to `https://github.com/BabylonJS/Babylon.js.git`, and the README is titled `# Babylon.js Addons`. Every internal import of `@babylonjs/core` has been rewritten to `@onerjs/core` (e.g., `atmosphere/atmosphere.js` line 6: `import { Color3 } from \"@onerjs/core/Maths/math.color.js\";`), and `peerDependencies` declares `\"@onerjs/core\": \"^8.0.0\"`. The `@onerjs` scope is unrelated to Babylon.js or Microsoft. Installers who believe they are pulling Babylon.js addons will additionally install `@onerjs/core` from the same unrelated publisher, who can ship arbitrary code under the guise of Babylon.js core at any future version within the `^8.0.0` range. The lure package itself contains no lifecycle hooks or in-package exfil, but the structural design — identity impersonation plus a peerDependency redirect to a sibling package controlled by the same publisher — is namespace-abuse: the harm arrives through the rerouted dependency.\n",
   "affected": [
@@ -47,7 +48,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@onerjs/addons/MAL-2026-4410.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@onerjs/addons/MAL-2026-4410.json"
       }
     }
   ],

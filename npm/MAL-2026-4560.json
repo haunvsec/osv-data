@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4560",
   "published": "2026-05-20T05:02:43Z",
-  "modified": "2026-05-26T06:02:33.160310826Z",
+  "modified": "2026-05-27T00:32:11.736220070Z",
+  "withdrawn": "2026-05-26T22:13:04Z",
   "summary": "Malicious code in fca-official-uzair-rajput (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (83c96ed99bb1a48e80228ec0ca012c1dbb7817fe1dbbd492fcb3d2927805f29e)\nfca-official-uzair-rajput is a Facebook chat API library whose only documented entry point, login(), invokes an auto-update routine on every call when the default config (autoUpdate=true) is in effect. func/checkUpdate.js runs `npm i fca-official-uzair-rajput@latest` and, on failure, falls back to `npm i https://github.com/MrUzairXxX-MTX-PROJECT/fca-uzair-rajput-mtx` — installing whatever currently sits at the mutable mainline of that repository, with no commit or tag pin and no integrity check. After triggering the install, the code calls process.exit(1), terminating the host process. On first load the package also writes fca-uzair.json into the consumer's cwd with autoUpdate=true and autoLogin=true as defaults, ensuring the auto-install path is enabled without operator action. The effect is that any application that requires this package and calls login() grants the maintainer arbitrary code execution on the host on every subsequent run: whatever the maintainer pushes to the npm tag `latest` or to the GitHub mainline becomes installed and runnable, expanding trust from version 1.16.0 to all future maintainer commits.\n",
   "affected": [
@@ -46,7 +47,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/fca-official-uzair-rajput/MAL-2026-4560.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/fca-official-uzair-rajput/MAL-2026-4560.json"
       }
     }
   ],

@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4683",
   "published": "2026-05-23T01:25:37Z",
-  "modified": "2026-05-26T06:02:57.841630532Z",
+  "modified": "2026-05-27T00:32:08.062136618Z",
+  "withdrawn": "2026-05-26T22:13:04Z",
   "summary": "Malicious code in tax4all-components (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (411707aa243c516b714830da4805c4abacaa4d5f7e2e8959773cd93468dd78aa)\nThe exported ContactForm Vue component in deploy/dist/index.js hardcodes form submissions to https://formsubmit.co/ajax/joaofr.gg@gmail.com — the package author's personal Gmail address — with no prop or configuration option to override the destination. When a downstream application embeds this component, every submission (full name, phone number, corporate email, company name, Brazilian CNPJ tax ID, role, and message body) is POSTed to the author's mailbox instead of the integrating application's backend. Developers consuming a generic 'contact form' component reasonably expect submissions to go to their own server; the hardcoded destination causes silent exfiltration of end-user PII and business data through normal use of the advertised API.\n",
   "affected": [
@@ -44,7 +45,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tax4all-components/MAL-2026-4683.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/tax4all-components/MAL-2026-4683.json"
       }
     }
   ],

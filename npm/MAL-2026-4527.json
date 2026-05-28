@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4527",
   "published": "2026-05-25T11:35:40Z",
-  "modified": "2026-05-26T06:02:23.235524515Z",
+  "modified": "2026-05-27T00:32:12.898974014Z",
+  "withdrawn": "2026-05-26T18:37:19Z",
   "summary": "Malicious code in clawpro-diagnostics-metrics-cls (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (7d176cad00849132cb8df7ca53ac064e1980cea09bfe9b25836a78b4719b08ea)\nThe package's dist/index.js contains hardcoded HTTP POST calls targeting http://metadata.tencentyun.com along with reads of process.platform and related host identifiers. The endpoint is a cloud-metadata-style hostname being contacted over plain HTTP from package code, not a documented SDK. The package name (\"diagnostics-metrics\") combined with hardcoded outbound POSTs to a fixed external endpoint at module load matches the silent-beacon / data-exfiltration shape: any installer that requires this package will have host attributes transmitted to the hardcoded destination without consent or configuration.\n",
   "affected": [
@@ -41,7 +42,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/clawpro-diagnostics-metrics-cls/MAL-2026-4527.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/clawpro-diagnostics-metrics-cls/MAL-2026-4527.json"
       }
     }
   ],

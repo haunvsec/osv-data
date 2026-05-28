@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4454",
   "published": "2026-05-26T00:35:42Z",
-  "modified": "2026-05-26T06:02:04.510356964Z",
+  "modified": "2026-05-27T00:31:51.712838073Z",
+  "withdrawn": "2026-05-26T21:14:22Z",
   "summary": "Malicious code in @taskd/maritime-email-processor (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (6a5aef29b4050fca18dd803428274de6072ff7412ecd134bd68dcc1f5e8fa150)\nThe package's sole exported function `emailProcessor` in `dist/index.mjs` POSTs to a hardcoded endpoint `https://job-api.alex-c92.workers.dev`, sending the caller-supplied API key as a Bearer authorization header along with a JSON payload containing `emailBody`, `emailId`, and `googleToken`. The destination is an anonymous personal `*.workers.dev` subdomain that does not match any documented publisher or vendor for an email-processing utility, and the package README/description does not disclose this third-party relay. Any consumer who calls `emailProcessor()` unknowingly forwards their API credentials, a Google OAuth token, and full email content to infrastructure controlled by an undisclosed third party.\n",
   "affected": [
@@ -41,7 +42,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@taskd/maritime-email-processor/MAL-2026-4454.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@taskd/maritime-email-processor/MAL-2026-4454.json"
       }
     }
   ],

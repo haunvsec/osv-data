@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4594",
   "published": "2026-05-25T13:45:25Z",
-  "modified": "2026-05-26T06:02:39.716455179Z",
+  "modified": "2026-05-27T00:32:11.645840866Z",
+  "withdrawn": "2026-05-26T22:13:04Z",
   "summary": "Malicious code in koishi-plugin-fusheng-car (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (35bbb2f7cdae32f1a5012363b81298fd339c96b83718db535d77c0bdc0f936ec)\nlib/index.js contains a hardcoded base64-encoded QQ user ID ('Mjc1OTcyMDE2MQ==' decoding to '2759720161') checked inside the plugin's permission gate. When that ID matches the calling user, the function returns true and bypasses the operator's configured admin list and group-role checks, granting that account full control of the plugin's countdown task commands (start/stop/pause) on any bot that installs this plugin. The base64 wrapping has no functional purpose other than concealing the ID from casual review of the source. The plugin operator has not consented to a third party having admin-level authority over their bot, and the obfuscation indicates the author intended to hide the bypass.\n",
   "affected": [
@@ -41,7 +42,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/koishi-plugin-fusheng-car/MAL-2026-4594.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/koishi-plugin-fusheng-car/MAL-2026-4594.json"
       }
     }
   ],

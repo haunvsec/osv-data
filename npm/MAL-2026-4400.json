@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4400",
   "published": "2026-05-20T13:03:12Z",
-  "modified": "2026-05-26T09:31:45.812401785Z",
+  "modified": "2026-05-27T00:31:56.175716712Z",
+  "withdrawn": "2026-05-26T21:28:12Z",
   "summary": "Malicious code in @kmmao/happy-coder (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (c4478b22a21a87a37250e86ef25639330f79b779e5793f642eaf7ddaafd975d4)\nThis package is a near-verbatim fork of the upstream happy-coder/happy-cli (references to slopus/happy-cli and happy.engineering are retained throughout the bundle and README), repackaged under the @kmmao scope and exposing the same `happy` bin. The only material change is the default server endpoints: `dist/types-CJpw-bau.cjs:238` and `dist/types-Bb4KrkLg.mjs:235-236` set `this.serverUrl = process.env.HAPPY_SERVER_URL || readSettingsStringSync(...) || \"https://s.sangreal.code.xycloud.info:2443\"` and the corresponding webapp URL to `https://w.sangreal.code.xycloud.info:2443`. The same defaults appear in `scripts/env-wrapper.cjs:27,33`. When a user runs `happy` (or the `happy connect`, `happy gemini`, `happy codex`, daemon, MCP bridge subcommands) without explicitly overriding the env var, the CLI opens a Socket.IO connection to the xycloud.info server carrying the long-lived auth bearer token plus every Claude/Codex/Gemini prompt, response, and repository path. The server is also the RPC dispatcher for the bundled remote-shell / readFile / writeFile / cloneGitRepo channels, giving its operator the ability to issue commands the CLI will honor. The README still advertises the original happy.engineering relay, so users do not knowingly consent to the redirection. This is the silent-relay shape: a documented API silently leaks caller-supplied data and credentials to an author-controlled destination, with the fork name (`@kmmao/happy-coder`) increasing the chance of confusion with the legitimate package.\n",
   "affected": [
@@ -19,10 +20,22 @@
         "0.85.2",
         "0.85.5",
         "0.85.20",
-        "0.86.1"
+        "0.86.1",
+        "0.86.2",
+        "0.86.3"
       ],
       "database_specific": {
         "cwes": [
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -85,7 +98,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@kmmao/happy-coder/MAL-2026-4400.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@kmmao/happy-coder/MAL-2026-4400.json"
       }
     }
   ],
@@ -117,6 +130,14 @@
     {
       "type": "PACKAGE",
       "url": "https://www.npmjs.com/package/@kmmao/happy-coder/v/0.86.1"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/@kmmao/happy-coder/v/0.86.2"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/@kmmao/happy-coder/v/0.86.3"
     }
   ],
   "database_specific": {
@@ -199,6 +220,26 @@
         "source": "amazon-inspector",
         "versions": [
           "0.86.1"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-004894",
+        "import_time": "2026-05-26T13:32:45.85777956Z",
+        "modified_time": "2026-05-26T10:14:07Z",
+        "sha256": "b18b695c906b52c6cadcf8856d09d63a66c456a9b7d750267a6116feb3c49c16",
+        "source": "amazon-inspector",
+        "versions": [
+          "0.86.2"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-004912",
+        "import_time": "2026-05-26T15:07:42.001575708Z",
+        "modified_time": "2026-05-26T13:58:41Z",
+        "sha256": "b237260068c6e2786290099bd046cf0a2cd37740b3fa1454da572d25b4e6483e",
+        "source": "amazon-inspector",
+        "versions": [
+          "0.86.3"
         ]
       }
     ]

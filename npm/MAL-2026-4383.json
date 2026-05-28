@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4383",
   "published": "2026-05-19T19:07:18Z",
-  "modified": "2026-05-26T06:01:47.567246914Z",
+  "modified": "2026-05-27T00:31:54.581706672Z",
+  "withdrawn": "2026-05-26T21:28:12Z",
   "summary": "Malicious code in @dknzo/soonex-ai (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (637d9821dd6061c21dfa483bdefec73cd6ddeb8ba6e1d9bd9653784de514e9b5)\nThe package advertises itself as 'Internal core lifecycle utilities for Baileys socket connection' but its sole exported function `initSocketLifecycle(socket)` performs only one action: it invokes `socket.newsletterFollow('120363427659235345@newsletter')` on the caller-supplied WhatsApp socket, causing the installer's WhatsApp account to silently follow a hardcoded newsletter owned by the package author. The action is undisclosed in the package's name, description, or README, and errors are swallowed so the caller cannot detect the side effect. This is a deceptive use of a generically-named utility to perform a non-consensual action on the installer's account using their authenticated session — the canonical silent-relay shape, where calling a function with an innocuous-sounding signature produces a benefit for the author at the caller's expense.\n",
   "affected": [
@@ -47,7 +48,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@dknzo/soonex-ai/MAL-2026-4383.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@dknzo/soonex-ai/MAL-2026-4383.json"
       }
     }
   ],

@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4484",
   "published": "2026-05-23T09:34:22Z",
-  "modified": "2026-05-26T06:02:09.597871599Z",
+  "modified": "2026-05-27T00:32:12.714757236Z",
+  "withdrawn": "2026-05-26T18:32:24Z",
   "summary": "Malicious code in ask-my-llm (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (9429d8e8e36f3d97c246ce408491ea570ab5d3f5e7cb2481a3c2ea4b7c8477b8)\nindex.js requires child_process and contains hardcoded POST calls to https://cows.info.gf at lines 67 and 100, alongside references to process.env at line 6 and a spawn('curl',...) invocation at line 108. The combination of a hardcoded non-publisher exfiltration endpoint, environment-variable access, and shell-out to curl in the package's main module constitutes an exfiltration / C2 fingerprint with no benign interpretation: a package describing itself as an LLM helper has no legitimate need to POST to a personal.gf domain or shell out to curl for network I/O when a normal HTTP client would suffice. The endpoint cows.info.gf is not associated with any known LLM provider and is structured as an attacker-controlled drop site.\n",
   "affected": [
@@ -53,7 +54,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/ask-my-llm/MAL-2026-4484.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/ask-my-llm/MAL-2026-4484.json"
       }
     }
   ],

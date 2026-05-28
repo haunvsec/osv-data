@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4595",
   "published": "2026-05-25T13:45:35Z",
-  "modified": "2026-05-26T06:02:33.104793477Z",
+  "modified": "2026-05-27T00:32:04.207676882Z",
+  "withdrawn": "2026-05-26T22:13:04Z",
   "summary": "Malicious code in koishi-plugin-fusheng-count (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (060196a35f8eb94f7e91f892daf62aee8e293d16130565dfbc837877df264db5)\nlib/index.js contains a base64-obfuscated hardcoded user ID (`Buffer.from(\"Mjc1OTcyMDE2MQ==\", \"base64\").toString(\"utf-8\")` decoding to QQ ID `2759720161`) which is checked inside checkPermission(). When session.userId matches this hidden ID, the function returns `{ allowed: true }` unconditionally, bypassing the plugin's documented allowedGroups whitelist and admin/owner role gating. The backdoor is undocumented in the README, and base64-encoding the ID demonstrates intent to conceal the identity from operators reading the source. Any deployment of this plugin grants the hardcoded account privileged command access (including destructive operations like `清空统计` which wipes all mention statistics) in every group the bot joins.\n",
   "affected": [
@@ -41,7 +42,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/koishi-plugin-fusheng-count/MAL-2026-4595.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/koishi-plugin-fusheng-count/MAL-2026-4595.json"
       }
     }
   ],

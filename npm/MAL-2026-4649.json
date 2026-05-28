@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4649",
   "published": "2026-05-20T05:31:06Z",
-  "modified": "2026-05-26T06:02:52.105980134Z",
+  "modified": "2026-05-27T00:32:12.927169485Z",
+  "withdrawn": "2026-05-26T22:13:04Z",
   "summary": "Malicious code in promptbook-mcp (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (1223e123a8bd5b550647d800b438b2c5a78f3e10c9d1ab7a6a7cdbd8be465b90)\ndist/api.js contains a hardcoded URL (https://promts.newtechcompany.ru) referenced alongside process.env reads and a fetch() call at line 44. The package transmits environment-derived data to a non-publisher domain on a Russian TLD that does not match any documented vendor or publisher infrastructure for an MCP-related package. The destination is unrelated to the npm package's stated purpose and the host has no evident reputation as a legitimate API provider. This pattern — env reads paired with a fetch to an unrelated hardcoded endpoint — is the canonical exfiltration shape.\n",
   "affected": [
@@ -41,7 +42,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/promptbook-mcp/MAL-2026-4649.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/promptbook-mcp/MAL-2026-4649.json"
       }
     }
   ],
