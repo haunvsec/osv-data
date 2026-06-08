@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2023:6793",
   "published": "2024-09-23T16:54:48Z",
-  "modified": "2026-05-01T10:07:03Z",
+  "modified": "2026-06-03T10:31:07.325873835Z",
   "upstream": [
     "CVE-2007-4559",
     "CVE-2022-40897",
@@ -459,6 +459,18 @@
       "url": "https://access.redhat.com/errata/RHSA-2023:6793"
     },
     {
+      "type": "REPORT",
+      "url": "https://bugzilla.redhat.com/show_bug.cgi?id=2173917"
+    },
+    {
+      "type": "REPORT",
+      "url": "https://bugzilla.redhat.com/show_bug.cgi?id=2209469"
+    },
+    {
+      "type": "REPORT",
+      "url": "https://bugzilla.redhat.com/show_bug.cgi?id=2235789"
+    },
+    {
       "type": "ARTICLE",
       "url": "https://access.redhat.com/security/updates/classification/#important"
     },
@@ -476,23 +488,11 @@
     },
     {
       "type": "REPORT",
-      "url": "https://bugzilla.redhat.com/show_bug.cgi?id=2165864"
-    },
-    {
-      "type": "REPORT",
       "url": "https://bugzilla.redhat.com/show_bug.cgi?id=2171817"
     },
     {
       "type": "REPORT",
-      "url": "https://bugzilla.redhat.com/show_bug.cgi?id=2173917"
-    },
-    {
-      "type": "REPORT",
-      "url": "https://bugzilla.redhat.com/show_bug.cgi?id=2209469"
-    },
-    {
-      "type": "REPORT",
-      "url": "https://bugzilla.redhat.com/show_bug.cgi?id=2235789"
+      "url": "https://bugzilla.redhat.com/show_bug.cgi?id=2165864"
     },
     {
       "type": "ADVISORY",

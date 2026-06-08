@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "ALSA-2026:10713",
   "published": "2026-04-27T00:00:00Z",
-  "modified": "2026-04-30T14:30:57.834430Z",
+  "modified": "2026-05-26T16:45:21.218799643Z",
   "related": [
     "CVE-2026-4800"
   ],
@@ -14,52 +14,6 @@
         "name": "cockpit-ha-cluster",
         "ecosystem": "AlmaLinux:10",
         "purl": "pkg:rpm/almalinux/cockpit-ha-cluster"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0.12.1-1.el10_1.3"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:10713.json"
-      }
-    },
-    {
-      "package": {
-        "name": "pcs",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/pcs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0.12.1-1.el10_1.3"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:10713.json"
-      }
-    },
-    {
-      "package": {
-        "name": "pcs-snmp",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/pcs-snmp"
       },
       "ranges": [
         {

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2020-778",
   "published": "2020-07-14T05:37:30.449855Z",
-  "modified": "2026-05-21T14:21:51.051830Z",
+  "modified": "2026-06-07T14:18:16.393182Z",
   "summary": "Heap-use-after-free in void draco::Metadata::AddEntry<std::__1::vector<unsigned char, std::__1::allocat",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=24044\n\n```\nCrash type: Heap-use-after-free READ 8\nCrash state:\nvoid draco::Metadata::AddEntry<std::__1::vector<unsigned char, std::__1::allocat\ndraco::MetadataDecoder::DecodeEntry\ndraco::MetadataDecoder::DecodeMetadata\n```\n",
   "affected": [

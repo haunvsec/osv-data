@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2022-1188",
   "published": "2022-11-20T13:01:57.719130Z",
-  "modified": "2026-05-21T14:22:27.910945Z",
+  "modified": "2026-06-07T14:18:44.938609Z",
   "summary": "Stack-buffer-overflow in authentic_get_tagged_data",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=53536\n\n```\nCrash type: Stack-buffer-overflow READ 1\nCrash state:\nauthentic_get_tagged_data\nauthentic_parse_credential_data\nauthentic_pin_get_policy\n```\n",
   "affected": [

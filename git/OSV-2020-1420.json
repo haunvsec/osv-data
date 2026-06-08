@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2020-1420",
   "published": "2020-07-28T00:00:14.887375Z",
-  "modified": "2026-05-21T14:21:42.916171Z",
+  "modified": "2026-06-07T14:18:12.892179Z",
   "summary": "Bad-cast to Sass::PreValue from Sass::Unary_Expression",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=15896\n\n```\nCrash type: Bad-cast\nCrash state:\nBad-cast to Sass::PreValue from Sass::Unary_Expression\nSass::SharedImpl<Sass::PreValue>::SharedImpl<Sass::Expression>\nSass::Parser::parse_ie_keyword_arg\n```\n",
   "affected": [

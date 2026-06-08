@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2024:6166",
   "published": "2024-09-30T20:26:14Z",
-  "modified": "2026-04-07T10:04:39Z",
+  "modified": "2026-06-03T10:32:27.094375694Z",
   "upstream": [
     "CVE-2024-37370",
     "CVE-2024-37371"
@@ -752,16 +752,16 @@
       "url": "https://access.redhat.com/errata/RHSA-2024:6166"
     },
     {
+      "type": "ARTICLE",
+      "url": "https://access.redhat.com/security/updates/classification/#moderate"
+    },
+    {
       "type": "REPORT",
       "url": "https://bugzilla.redhat.com/show_bug.cgi?id=2294676"
     },
     {
       "type": "REPORT",
       "url": "https://bugzilla.redhat.com/show_bug.cgi?id=2294677"
-    },
-    {
-      "type": "ARTICLE",
-      "url": "https://access.redhat.com/security/updates/classification/#moderate"
     },
     {
       "type": "ADVISORY",

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2024-117",
   "published": "2024-02-19T00:05:05.793082Z",
-  "modified": "2026-05-21T14:27:26.807047Z",
+  "modified": "2026-06-07T14:23:42.271449Z",
   "summary": "Security exception in com.spotify.docker.client.shaded.com.fasterxml.jackson.databind.util.TokenBuffer",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=66745\n\n```\nCrash type: Security exception\nCrash state:\ncom.spotify.docker.client.shaded.com.fasterxml.jackson.databind.util.TokenBuffer\njava.base/java.nio.charset.CharsetEncoder.<init>\njava.base/sun.nio.cs.CESU_8$Encoder.<init>\n```\n",
   "affected": [

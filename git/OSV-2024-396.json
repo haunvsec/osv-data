@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2024-396",
   "published": "2024-05-01T00:11:24.552935Z",
-  "modified": "2026-05-21T14:29:22.681712Z",
+  "modified": "2026-06-07T14:25:55.489284Z",
   "summary": "UNKNOWN READ in jvp_object_free",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=65942\n\n```\nCrash type: UNKNOWN READ\nCrash state:\njvp_object_free\njv_free\njv_equal\n```\n",
   "affected": [

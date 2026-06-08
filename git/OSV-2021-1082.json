@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2021-1082",
   "published": "2021-08-01T00:00:48.182181Z",
-  "modified": "2026-05-21T14:21:27.292755Z",
+  "modified": "2026-06-07T14:17:48.436810Z",
   "summary": "UNKNOWN READ in std::__1::__tree<std::__1::__value_type<std::__1::basic_string<char, std::__1::c",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=24051\n\n```\nCrash type: UNKNOWN READ\nCrash state:\nstd::__1::__tree<std::__1::__value_type<std::__1::basic_string<char, std::__1::c\nstd::__1::pair<std::__1::__tree_iterator<std::__1::__value_type<std::__1::basic_\nstd::__1::map<std::__1::basic_string<char, std::__1::char_traits<char>, std::__1\n```\n",
   "affected": [

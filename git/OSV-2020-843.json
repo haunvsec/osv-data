@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2020-843",
   "published": "2020-07-14T22:13:42.180708Z",
-  "modified": "2026-05-21T14:21:58.543819Z",
+  "modified": "2026-06-07T14:18:14.412319Z",
   "summary": "Heap-buffer-overflow in uni_utf8_get_char_n",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=23513\n\n```\nCrash type: Heap-buffer-overflow READ 1\nCrash state:\nuni_utf8_get_char_n\nsmtp_command_parse_parameters\nsmtp_command_parse_line\n```\n",
   "affected": [

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2024-269",
   "published": "2024-04-18T00:04:02.456948Z",
-  "modified": "2026-05-21T14:27:54.021223Z",
+  "modified": "2026-06-07T14:24:33.668993Z",
   "summary": "Security exception in java.base/java.util.stream.AbstractPipeline.evaluate",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=66703\n\n```\nCrash type: Security exception\nCrash state:\njava.base/java.util.stream.AbstractPipeline.evaluate\njava.base/java.util.stream.ReferencePipeline.collect\norg.apache.commons.configuration2.AbstractYAMLBasedConfiguration.parseCollection\n```\n",
   "affected": [
@@ -43,7 +43,8 @@
         "commons-configuration-2.15.0-RC2",
         "rel/commons-configuration-2.15.0",
         "commons-configuration-2.15.1-RC1",
-        "commons-configuration-2.15.1-RC2"
+        "commons-configuration-2.15.1-RC2",
+        "rel/commons-configuration-2.15.1"
       ],
       "ecosystem_specific": {
         "severity": "LOW"

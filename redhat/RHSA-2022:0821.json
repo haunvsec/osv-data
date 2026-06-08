@@ -1,8 +1,8 @@
 {
-  "schema_version": "1.7.3",
+  "schema_version": "1.7.5",
   "id": "RHSA-2022:0821",
   "published": "2024-09-13T23:14:57Z",
-  "modified": "2026-03-03T10:05:20Z",
+  "modified": "2026-06-03T10:30:40.127039461Z",
   "upstream": [
     "CVE-2021-4083",
     "CVE-2022-0330",
@@ -789,6 +789,10 @@
       "url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=24f6008564183aa120d07c03d9289519c2fe02af"
     },
     {
+      "type": "ARTICLE",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+    },
+    {
       "type": "REPORT",
       "url": "https://access.redhat.com/security/cve/CVE-2022-0847"
     },
@@ -807,10 +811,6 @@
     {
       "type": "ARTICLE",
       "url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/lib/iov_iter.c?id=9d2231c5d74e13b2a0546fee6737ee4446017903"
-    },
-    {
-      "type": "ARTICLE",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
     },
     {
       "type": "REPORT",

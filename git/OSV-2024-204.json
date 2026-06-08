@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2024-204",
   "published": "2024-03-27T00:00:05.756758Z",
-  "modified": "2026-05-21T14:28:35.141434Z",
+  "modified": "2026-06-07T14:17:55.393538Z",
   "summary": "Heap-use-after-free in JS_NewObjectFromShape",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=65872\n\n```\nCrash type: Heap-use-after-free WRITE 8\nCrash state:\nJS_NewObjectFromShape\njs_parse_template\njs_parse_postfix_expr\n```\n",
   "affected": [

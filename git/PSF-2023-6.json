@@ -2,16 +2,13 @@
   "schema_version": "1.7.3",
   "id": "PSF-2023-6",
   "published": "2023-08-24T00:00:00Z",
-  "modified": "2025-10-09T01:04:06.128041Z",
+  "modified": "2026-05-22T15:41:28.935667251Z",
   "aliases": [
     "BIT-libpython-2022-48566",
     "BIT-python-2022-48566",
-    "BIT-python-2023-38898",
     "BIT-python-min-2022-48566",
     "CVE-2022-48566",
-    "CVE-2023-38898",
-    "GHSA-cgfh-jp5w-8cmx",
-    "PSF-2023-7"
+    "GHSA-cgfh-jp5w-8cmx"
   ],
   "summary": "hmac.compare_digest() accumulator not constant-time",
   "details": "An issue was discovered in compare_digest in Lib/hmac.py in Python through 3.9.1. Constant-time-defeating optimisations were possible in the accumulator variable in hmac.compare_digest.",

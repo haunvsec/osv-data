@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2023-96",
   "published": "2023-02-23T13:00:28.515290Z",
-  "modified": "2026-05-21T14:31:32.686452Z",
+  "modified": "2026-06-07T14:27:44.332440Z",
   "summary": "Heap-buffer-overflow in load_buffer",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=56208\n\n```\nCrash type: Heap-buffer-overflow READ 8\nCrash state:\nload_buffer\nr_bin_object_new\nr_bin_file_new_from_buffer\n```\n",
   "affected": [
@@ -49,7 +49,8 @@
         "6.0.8",
         "6.1.0",
         "6.1.2",
-        "6.1.4"
+        "6.1.4",
+        "6.1.6"
       ],
       "ecosystem_specific": {
         "severity": "MEDIUM"

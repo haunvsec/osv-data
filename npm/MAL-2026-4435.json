@@ -2,9 +2,12 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4435",
   "published": "2026-05-25T18:07:00Z",
-  "modified": "2026-05-26T06:02:01.030681195Z",
+  "modified": "2026-05-28T15:31:49.084948760Z",
+  "aliases": [
+    "GHSA-2fg8-hcf8-7qjg"
+  ],
   "summary": "Malicious code in @service-suppliers/fetch_suppliers_action_saga (npm)",
-  "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (8a3ebab0ad45763f2a27f43a1f97a820409b215589a45b5f3928b169ffc062bb)\nThe postinstall script (scripts/postinstall.js) performs three independent installer-harm actions on `npm install`. (1) It enumerates process.env for credential-shaped keys (npm_token, npm_config_authtoken, github_token, aws_access_key_id, aws_secret_access_key, aws_session_token, artifactory_token, nexus_token, node_auth_token, npm_config__auth, etc.), reads ~/.npmrc, /etc/npmrc,./.npmrc, and../.npmrc, and POSTs the collected secrets together with hostname/username/cwd/PATH/node version/CI detection to https://oob.moika.tech/report with a hardcoded X-Secret header. (2) It GETs https://oob.moika.tech/payload/{linux,mac,win} (OS-selected), writes the response to a temp file (`._service-suppliers_init.sh` or `.bat`), chmods 0755, and spawns it via `/bin/sh` or `cmd.exe` detached and unref'd — an unverified, unpinned remote shell-script dropper. (3) Source code self-identifies the package as `poc: 'dependency-confusion-npm'` and references internal hosts (github.service-suppliers.io, jira.service-suppliers.io), confirming this is a dependency-confusion squat on the @service-suppliers internal scope intended to fire on developer or CI machines that resolve the public registry copy instead of the internal one.\n",
+  "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (8a3ebab0ad45763f2a27f43a1f97a820409b215589a45b5f3928b169ffc062bb)\nThe postinstall script (scripts/postinstall.js) performs three independent installer-harm actions on `npm install`. (1) It enumerates process.env for credential-shaped keys (npm_token, npm_config_authtoken, github_token, aws_access_key_id, aws_secret_access_key, aws_session_token, artifactory_token, nexus_token, node_auth_token, npm_config__auth, etc.), reads ~/.npmrc, /etc/npmrc,./.npmrc, and../.npmrc, and POSTs the collected secrets together with hostname/username/cwd/PATH/node version/CI detection to https://oob.moika.tech/report with a hardcoded X-Secret header. (2) It GETs https://oob.moika.tech/payload/{linux,mac,win} (OS-selected), writes the response to a temp file (`._service-suppliers_init.sh` or `.bat`), chmods 0755, and spawns it via `/bin/sh` or `cmd.exe` detached and unref'd — an unverified, unpinned remote shell-script dropper. (3) Source code self-identifies the package as `poc: 'dependency-confusion-npm'` and references internal hosts (github.service-suppliers.io, jira.service-suppliers.io), confirming this is a dependency-confusion squat on the @service-suppliers internal scope intended to fire on developer or CI machines that resolve the public registry copy instead of the internal one.\n\n## Source: ghsa-malware (b795759dafea4dfa28be565e80b7de0951529541699ddb26ed44380f58831a01)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
   "affected": [
     {
       "package": {
@@ -12,11 +15,26 @@
         "ecosystem": "npm",
         "purl": "pkg:npm/%40service-suppliers%2Ffetch_suppliers_action_saga"
       },
+      "ranges": [
+        {
+          "type": "SEMVER",
+          "events": [
+            {
+              "introduced": "0"
+            }
+          ]
+        }
+      ],
       "versions": [
         "9.9.10"
       ],
       "database_specific": {
         "cwes": [
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -52,6 +70,10 @@
     {
       "type": "PACKAGE",
       "url": "https://www.npmjs.com/package/@service-suppliers/fetch_suppliers_action_saga/v/9.9.10"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://github.com/advisories/GHSA-2fg8-hcf8-7qjg"
     }
   ],
   "database_specific": {
@@ -75,6 +97,23 @@
         "versions": [
           "9.9.10"
         ]
+      },
+      {
+        "id": "GHSA-2fg8-hcf8-7qjg",
+        "import_time": "2026-05-28T15:25:19.313337124Z",
+        "modified_time": "2026-05-28T13:39:51Z",
+        "ranges": [
+          {
+            "events": [
+              {
+                "introduced": "0"
+              }
+            ],
+            "type": "SEMVER"
+          }
+        ],
+        "sha256": "b795759dafea4dfa28be565e80b7de0951529541699ddb26ed44380f58831a01",
+        "source": "ghsa-malware"
       }
     ]
   },

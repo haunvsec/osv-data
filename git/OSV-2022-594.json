@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2022-594",
   "published": "2022-07-19T00:01:28.212413Z",
-  "modified": "2026-05-21T14:23:19.992889Z",
+  "modified": "2026-06-07T14:21:19.467587Z",
   "summary": "Container-overflow in STOFFStarMathToMMLConverterInternal::Parser::convert",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=49164\n\n```\nCrash type: Container-overflow READ 1\nCrash state:\nSTOFFStarMathToMMLConverterInternal::Parser::convert\nSTOFFStarMathToMMLConverterInternal::Parser::parse\nSTOFFStarMathToMMLConverter::convertStarMath\n```\n",
   "affected": [
@@ -22,6 +22,9 @@
             }
           ]
         }
+      ],
+      "versions": [
+        "libabw-0.1.4"
       ],
       "ecosystem_specific": {
         "severity": "MEDIUM"

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2021-586",
   "published": "2021-03-31T00:01:03.787831Z",
-  "modified": "2026-05-21T14:20:33.169129Z",
+  "modified": "2026-06-07T14:17:35.339645Z",
   "summary": "Use-of-uninitialized-value in void intra_prediction_angular<unsigned short>",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=32682\n\n```\nCrash type: Use-of-uninitialized-value\nCrash state:\nvoid intra_prediction_angular<unsigned short>\nvoid decode_intra_prediction_internal<unsigned short>\ndecode_intra_prediction\n```\n",
   "affected": [
@@ -152,7 +152,8 @@
         "v6.25.0-rc1",
         "v6.25.0",
         "v6.26.0-rc1",
-        "v6.26.0"
+        "v6.26.0",
+        "v6.27.0-rc1"
       ],
       "ecosystem_specific": {
         "severity": "MEDIUM"

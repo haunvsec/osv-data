@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "ASB-A-288144143",
   "published": "2026-03-01T00:00:00Z",
-  "modified": "2026-05-21T15:11:38.963146741Z",
+  "modified": "2026-06-05T15:03:38.651710474Z",
   "aliases": [
     "A-288144143",
     "CVE-2024-43766"
@@ -32,10 +32,10 @@
       ],
       "ecosystem_specific": {
         "fixes": [
-          "https://android.googlesource.com/platform/packages/modules/Bluetooth/+/7ed69cff13929506a4aa93013f0477211824491f",
-          "https://android.googlesource.com/platform/packages/modules/Bluetooth/+/92e627ea85bae7fb9b16369528a6af1ac239f884",
-          "https://android.googlesource.com/platform/packages/modules/Bluetooth/+/87d92ca1abc4dd91b54a1e1f5c9ad33677ec5cc7",
           "https://android.googlesource.com/platform/packages/modules/Bluetooth/+/829d89814846ca123134d69933fe61fd9b48f22e",
+          "https://android.googlesource.com/platform/packages/modules/Bluetooth/+/87d92ca1abc4dd91b54a1e1f5c9ad33677ec5cc7",
+          "https://android.googlesource.com/platform/packages/modules/Bluetooth/+/92e627ea85bae7fb9b16369528a6af1ac239f884",
+          "https://android.googlesource.com/platform/packages/modules/Bluetooth/+/7ed69cff13929506a4aa93013f0477211824491f",
           "https://android.googlesource.com/platform/packages/modules/Bluetooth/+/ee2e62ea6bfae3505f9f9d1116a56c6e2b91d9b1",
           "https://android.googlesource.com/platform/packages/modules/Bluetooth/+/58e65b41c6eac0dc4fe1bb680a54838260e50fc7",
           "https://android.googlesource.com/platform/packages/modules/Bluetooth/+/77cc20f000ef4e69fdc1297f6f99e9b379ab5733"

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2023-955",
   "published": "2023-10-03T13:03:23.482168Z",
-  "modified": "2026-05-21T14:29:27.426016Z",
+  "modified": "2026-06-07T14:25:44.533046Z",
   "summary": "Security exception in org.apache.poi.ddf.EscherPropertyFactory$$Lambda$285/ADDRESS.apply",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=62924\n\n```\nCrash type: Security exception\nCrash state:\norg.apache.poi.ddf.EscherPropertyFactory$$Lambda$285/ADDRESS.apply\norg.apache.poi.ddf.EscherPropertyFactory.createProperties\norg.apache.poi.ddf.AbstractEscherOptRecord.fillFields\n```\n",
   "affected": [

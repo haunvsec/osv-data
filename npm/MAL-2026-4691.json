@@ -2,9 +2,9 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4691",
   "published": "2026-05-26T01:00:12Z",
-  "modified": "2026-05-26T06:03:00.190647853Z",
+  "modified": "2026-06-04T23:16:45.859958978Z",
   "summary": "Malicious code in testnpmnmp (npm)",
-  "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (e82942b1fcdaed1a1085ad9590ef93704e276c5c5ca1622884abac014f03980f)\npackage.json declares `\"preinstall\": \"./scripts/postbuild\"`, where `scripts/postbuild` is a 976,568-byte unsigned, unhashed, unversioned Linux ELF executable shipped in the tarball. The package's only JavaScript source (src/index.js) is a trivial stub that exports `() => { console.log(\"hello\") }`, with the bundled output (dist/index.cjs.js) matching. Nothing in the package's stated Arweave/Warp-contracts wrapper purpose justifies a native executable, and the binary's embedded strings (`LIBBPF_0.0`, `PTRACE`, `NETLINK`, `HTTP/1.1`, `USERPROFILE`, `RSA_PKCS1_`, `Ed25519`) indicate credential-handling and network-agent capabilities rather than build tooling. On `npm install`, the binary runs with the installer's privileges before any user inspection; the JS stub is a cover for shipping and executing arbitrary native code. The package name `testnpmnmp` and stub source further indicate a throwaway dropper rather than a real library.\n",
+  "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (e82942b1fcdaed1a1085ad9590ef93704e276c5c5ca1622884abac014f03980f)\npackage.json declares `\"preinstall\": \"./scripts/postbuild\"`, where `scripts/postbuild` is a 976,568-byte unsigned, unhashed, unversioned Linux ELF executable shipped in the tarball. The package's only JavaScript source (src/index.js) is a trivial stub that exports `() => { console.log(\"hello\") }`, with the bundled output (dist/index.cjs.js) matching. Nothing in the package's stated Arweave/Warp-contracts wrapper purpose justifies a native executable, and the binary's embedded strings (`LIBBPF_0.0`, `PTRACE`, `NETLINK`, `HTTP/1.1`, `USERPROFILE`, `RSA_PKCS1_`, `Ed25519`) indicate credential-handling and network-agent capabilities rather than build tooling. On `npm install`, the binary runs with the installer's privileges before any user inspection; the JS stub is a cover for shipping and executing arbitrary native code. The package name `testnpmnmp` and stub source further indicate a throwaway dropper rather than a real library.\n\n## Source: google-open-source-security (146faaf0d97c6a533a969bc3f3f117811f9317dc865ed4ab37f1679842ddeaae)\nThis package was compromised as part of the IronWorm campaign. This campaign executes a malicious binary payload during installation via a preinstall hook. The payload is a Rust-built infostealer that targets developer environments, scanning for and harvesting credentials related to cloud providers, object storage, databases, source-control, package registries, and AI developer tools. It also targets cryptocurrency wallets, specifically injecting a malicious JavaScript hook into the Exodus desktop wallet to capture passwords and recovery phrases. Furthermore, the malware exhibits worm-like behavior by stealing GitHub and NPM credentials to push malicious updates to the victim's repositories and publish trojanized packages, and it uses an eBPF-based kernel rootkit to hide its processes and network connections on Linux systems.\n",
   "affected": [
     {
       "package": {
@@ -54,6 +54,14 @@
     {
       "type": "PACKAGE",
       "url": "https://www.npmjs.com/package/testnpmnmp/v/1.0.21"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "http://www.ox.security/blog/ironworm-supply-chain-malware-hits-npm/"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://research.jfrog.com/post/iron-worm-shai-hulud-rustier-cousin/"
     }
   ],
   "database_specific": {
@@ -64,6 +72,15 @@
         "modified_time": "2026-05-26T01:00:12Z",
         "sha256": "e82942b1fcdaed1a1085ad9590ef93704e276c5c5ca1622884abac014f03980f",
         "source": "amazon-inspector",
+        "versions": [
+          "1.0.21"
+        ]
+      },
+      {
+        "import_time": "2026-06-04T22:42:01.227855Z",
+        "modified_time": "2026-06-04T22:28:51.769005667Z",
+        "sha256": "146faaf0d97c6a533a969bc3f3f117811f9317dc865ed4ab37f1679842ddeaae",
+        "source": "google-open-source-security",
         "versions": [
           "1.0.21"
         ]

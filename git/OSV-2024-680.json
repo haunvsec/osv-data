@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2024-680",
   "published": "2024-07-26T00:06:29.761307Z",
-  "modified": "2026-05-21T14:31:17.523524Z",
+  "modified": "2026-06-07T14:27:36.925132Z",
   "summary": "Security exception in com.github.javaparser.GeneratedJavaParser.Expression",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=69460\n\n```\nCrash type: Security exception\nCrash state:\ncom.github.javaparser.GeneratedJavaParser.Expression\njava.base/java.lang.StringUTF16.compress\njava.base/java.lang.String.<init>\n```\n",
   "affected": [
@@ -51,7 +51,8 @@
         "javaparser-parent-3.27.0",
         "javaparser-parent-3.27.1",
         "javaparser-parent-3.28.0",
-        "javaparser-parent-3.28.1"
+        "javaparser-parent-3.28.1",
+        "javaparser-parent-3.28.2"
       ],
       "ecosystem_specific": {
         "severity": "LOW"

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "ALSA-2026:4649",
   "published": "2026-03-16T00:00:00Z",
-  "modified": "2026-03-24T12:02:59.132289Z",
+  "modified": "2026-05-26T16:45:24.126722486Z",
   "related": [
     "CVE-2025-61662"
   ],
@@ -14,52 +14,6 @@
         "name": "grub2-common",
         "ecosystem": "AlmaLinux:10",
         "purl": "pkg:rpm/almalinux/grub2-common"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.12-29.el10_1.2.alma.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:4649.json"
-      }
-    },
-    {
-      "package": {
-        "name": "grub2-efi-aa64",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/grub2-efi-aa64"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.12-29.el10_1.2.alma.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:4649.json"
-      }
-    },
-    {
-      "package": {
-        "name": "grub2-efi-aa64-cdboot",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/grub2-efi-aa64-cdboot"
       },
       "ranges": [
         {
@@ -103,78 +57,9 @@
     },
     {
       "package": {
-        "name": "grub2-efi-x64",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/grub2-efi-x64"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.12-29.el10_1.2.alma.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:4649.json"
-      }
-    },
-    {
-      "package": {
-        "name": "grub2-efi-x64-cdboot",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/grub2-efi-x64-cdboot"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.12-29.el10_1.2.alma.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:4649.json"
-      }
-    },
-    {
-      "package": {
         "name": "grub2-efi-x64-modules",
         "ecosystem": "AlmaLinux:10",
         "purl": "pkg:rpm/almalinux/grub2-efi-x64-modules"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.12-29.el10_1.2.alma.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:4649.json"
-      }
-    },
-    {
-      "package": {
-        "name": "grub2-pc",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/grub2-pc"
       },
       "ranges": [
         {
@@ -218,124 +103,9 @@
     },
     {
       "package": {
-        "name": "grub2-ppc64le",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/grub2-ppc64le"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.12-29.el10_1.2.alma.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:4649.json"
-      }
-    },
-    {
-      "package": {
         "name": "grub2-ppc64le-modules",
         "ecosystem": "AlmaLinux:10",
         "purl": "pkg:rpm/almalinux/grub2-ppc64le-modules"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.12-29.el10_1.2.alma.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:4649.json"
-      }
-    },
-    {
-      "package": {
-        "name": "grub2-tools",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/grub2-tools"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.12-29.el10_1.2.alma.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:4649.json"
-      }
-    },
-    {
-      "package": {
-        "name": "grub2-tools-efi",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/grub2-tools-efi"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.12-29.el10_1.2.alma.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:4649.json"
-      }
-    },
-    {
-      "package": {
-        "name": "grub2-tools-extra",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/grub2-tools-extra"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.12-29.el10_1.2.alma.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:4649.json"
-      }
-    },
-    {
-      "package": {
-        "name": "grub2-tools-minimal",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/grub2-tools-minimal"
       },
       "ranges": [
         {

@@ -2,10 +2,10 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:7624",
   "published": "2026-01-04T10:09:04Z",
-  "modified": "2026-05-16T10:04:10Z",
+  "modified": "2026-06-03T10:14:59Z",
   "upstream": [
-    "CVE-2024-45336",
-    "CVE-2024-9355"
+    "CVE-2024-9355",
+    "CVE-2024-45336"
   ],
   "summary": "Red Hat Security Advisory: Satellite 6 Client Bug Fix Update",
   "affected": [

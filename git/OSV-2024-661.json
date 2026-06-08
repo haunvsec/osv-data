@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2024-661",
   "published": "2024-07-18T00:05:57.665844Z",
-  "modified": "2026-05-21T14:32:59.337745Z",
+  "modified": "2026-06-07T14:29:26.316057Z",
   "summary": "Security exception in java.base/java.util.ArrayList.<init>",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=66137\n\n```\nCrash type: Security exception\nCrash state:\njava.base/java.util.ArrayList.<init>\norg.apache.poi.xssf.eventusermodel.ReadOnlySharedStringsTable.startElement\njava.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startEleme\n```\n",
   "affected": [

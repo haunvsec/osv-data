@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2024-398",
   "published": "2024-05-01T00:11:38.602555Z",
-  "modified": "2026-05-21T14:29:51.248985Z",
+  "modified": "2026-06-07T14:26:19.705410Z",
   "summary": "Use-of-uninitialized-value in wabt::BinaryReaderObjdump::PrintInitExpr",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=65975\n\n```\nCrash type: Use-of-uninitialized-value\nCrash state:\nwabt::BinaryReaderObjdump::PrintInitExpr\nwabt::BinaryReaderObjdump::EndInitExpr\nwabt::BinaryReaderObjdump::EndGlobalInitExpr\n```\n",
   "affected": [

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2023-28",
   "published": "2023-01-23T13:01:59.758734Z",
-  "modified": "2026-05-21T14:25:25.298038Z",
+  "modified": "2026-06-07T14:22:27.876965Z",
   "summary": "Heap-buffer-overflow in sas_read2",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=55308\n\n```\nCrash type: Heap-buffer-overflow READ 2\nCrash state:\nsas_read2\nsas7bcat_parse_block\nreadstat_parse_sas7bcat\n```\n",
   "affected": [

@@ -1,8 +1,8 @@
 {
-  "schema_version": "1.7.3",
+  "schema_version": "1.7.5",
   "id": "ALSA-2026:0464",
   "published": "2026-01-12T00:00:00Z",
-  "modified": "2026-02-04T03:46:52.309827Z",
+  "modified": "2026-05-26T16:45:20.203236480Z",
   "related": [
     "CVE-2025-58436",
     "CVE-2025-61915"
@@ -12,170 +12,9 @@
   "affected": [
     {
       "package": {
-        "name": "cups",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/cups"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.4.10-12.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:0464.json"
-      }
-    },
-    {
-      "package": {
-        "name": "cups-client",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/cups-client"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.4.10-12.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:0464.json"
-      }
-    },
-    {
-      "package": {
-        "name": "cups-devel",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/cups-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.4.10-12.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:0464.json"
-      }
-    },
-    {
-      "package": {
         "name": "cups-filesystem",
         "ecosystem": "AlmaLinux:10",
         "purl": "pkg:rpm/almalinux/cups-filesystem"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.4.10-12.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:0464.json"
-      }
-    },
-    {
-      "package": {
-        "name": "cups-ipptool",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/cups-ipptool"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.4.10-12.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:0464.json"
-      }
-    },
-    {
-      "package": {
-        "name": "cups-libs",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/cups-libs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.4.10-12.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:0464.json"
-      }
-    },
-    {
-      "package": {
-        "name": "cups-lpd",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/cups-lpd"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.4.10-12.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:0464.json"
-      }
-    },
-    {
-      "package": {
-        "name": "cups-printerapp",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/cups-printerapp"
       },
       "ranges": [
         {

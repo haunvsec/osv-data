@@ -2,10 +2,10 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:5585",
   "published": "2026-03-25T10:15:01Z",
-  "modified": "2026-05-15T10:17:25Z",
+  "modified": "2026-06-03T10:33:16.319430987Z",
   "upstream": [
-    "CVE-2025-14831",
-    "CVE-2025-9820"
+    "CVE-2025-9820",
+    "CVE-2025-14831"
   ],
   "summary": "Red Hat Security Advisory: gnutls security update",
   "affected": [

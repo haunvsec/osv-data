@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2018-204",
   "published": "2021-01-13T00:01:23.035709Z",
-  "modified": "2026-05-21T14:21:09.240271Z",
+  "modified": "2026-06-07T14:17:39.718402Z",
   "summary": "UNKNOWN WRITE in __msan_memcpy.part.51",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=9845\n\n```\nCrash type: UNKNOWN WRITE\nCrash state:\n__msan_memcpy.part.51\nQuickOpen::ReadRaw\nQuickOpen::ReadNext\n```\n",
   "affected": [

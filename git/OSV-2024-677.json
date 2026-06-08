@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2024-677",
   "published": "2024-07-25T00:06:43.762625Z",
-  "modified": "2026-05-21T14:38:40.140023Z",
+  "modified": "2026-06-07T14:34:41.415180Z",
   "summary": "Segv on unknown address in gs_gc_reclaim",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=69038\n\n```\nCrash type: Segv on unknown address\nCrash state:\ngs_gc_reclaim\nireclaim\ninterp_reclaim\n```\n",
   "affected": [

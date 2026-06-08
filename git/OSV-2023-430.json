@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2023-430",
   "published": "2023-05-26T14:00:26.078002Z",
-  "modified": "2026-05-21T15:56:14.002529Z",
+  "modified": "2026-06-07T14:41:25.906287Z",
   "summary": "Heap-buffer-overflow in H5MM_xstrdup",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=59295\n\n```\nCrash type: Heap-buffer-overflow READ 5\nCrash state:\nH5MM_xstrdup\nH5G__ent_to_link\nH5G__stab_lookup_cb\n```\n",
   "affected": [

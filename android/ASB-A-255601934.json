@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "ASB-A-255601934",
   "published": "2025-09-01T00:00:00Z",
-  "modified": "2026-05-21T15:11:38.963146741Z",
+  "modified": "2026-06-05T15:03:38.651710474Z",
   "aliases": [
     "A-255601934",
     "CVE-2023-24023"
@@ -829,9 +829,9 @@
       ],
       "ecosystem_specific": {
         "fixes": [
-          "https://android.googlesource.com/platform/packages/modules/Bluetooth/+/c17811e6a2357eb34368a1a0a6ed5dec19d980ed",
           "https://android.googlesource.com/platform/packages/modules/Bluetooth/+/f20fdd9b3225a6084f6b666172817fe0a89f0679",
-          "https://android.googlesource.com/platform/packages/modules/Bluetooth/+/d6e9fdf182afb57cecac6c56603aa20d758090a4"
+          "https://android.googlesource.com/platform/packages/modules/Bluetooth/+/d6e9fdf182afb57cecac6c56603aa20d758090a4",
+          "https://android.googlesource.com/platform/packages/modules/Bluetooth/+/c17811e6a2357eb34368a1a0a6ed5dec19d980ed"
         ],
         "severity": "High",
         "spl": "2025-09-01",

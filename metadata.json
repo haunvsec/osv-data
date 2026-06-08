@@ -1,6 +1,6 @@
 {
-  "last_crawl_time": "2026-05-28T02:59:59Z",
-  "last_attempt_time": "2026-05-28T02:59:59Z",
+  "last_crawl_time": "2026-06-08T12:04:41Z",
+  "last_attempt_time": "2026-06-08T12:04:41Z",
   "source": "osv-vulnerabilities-gcs",
   "source_url": "https://storage.googleapis.com/osv-vulnerabilities",
   "method": "incremental",
@@ -21,71 +21,150 @@
     "redhat"
   ],
   "ecosystem_counts": {
-    "almalinux": 4830,
-    "alpine": 4138,
-    "android": 3262,
+    "almalinux": 5014,
+    "alpine": 4160,
+    "android": 3402,
     "azure-linux": 12016,
-    "debian": 56678,
-    "git": 84109,
+    "debian": 58050,
+    "git": 84157,
     "github-actions": 52,
-    "go": 7057,
+    "go": 7147,
     "linux": 17698,
-    "npm": 219717,
-    "nuget": 1740,
-    "maven": 6607,
-    "pypi": 20149,
-    "redhat": 20215
+    "npm": 220209,
+    "nuget": 1746,
+    "maven": 6624,
+    "pypi": 20342,
+    "redhat": 20380
   },
-  "total_vulnerabilities": 458268,
+  "total_vulnerabilities": 460997,
   "ecosystem_state": {
     "maven": {
-      "last_attempt_time": "2026-05-28T02:08:25Z",
+      "last_attempt_time": "2026-06-08T10:45:36Z",
       "last_method": "incremental",
-      "last_downloaded": 12,
+      "last_downloaded": 28,
       "last_skipped": 0,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-05-28T02:08:25Z",
-      "last_modified_time": "2026-05-27T23:00:30.266856638Z"
+      "last_successful_crawl_time": "2026-06-08T10:45:36Z",
+      "last_modified_time": "2026-06-05T18:00:15.958312561Z"
     },
     "npm": {
-      "last_attempt_time": "2026-05-28T02:11:06Z",
+      "last_attempt_time": "2026-06-08T10:53:55Z",
       "last_method": "incremental",
-      "last_downloaded": 218,
-      "last_skipped": 1,
-      "last_indexed": 0,
-      "last_successful_crawl_time": "2026-05-28T02:11:06Z",
-      "last_modified_time": "2026-05-27T23:16:43.374837567Z"
-    },
-    "nuget": {
-      "last_attempt_time": "2026-05-28T02:11:26Z",
-      "last_method": "incremental",
-      "last_downloaded": 1,
+      "last_downloaded": 711,
       "last_skipped": 0,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-05-28T02:11:26Z",
-      "last_modified_time": "2026-05-26T18:29:26.398153806Z"
+      "last_successful_crawl_time": "2026-06-08T10:53:55Z",
+      "last_modified_time": "2026-06-08T10:01:26.133086568Z"
+    },
+    "nuget": {
+      "last_attempt_time": "2026-06-08T10:54:00Z",
+      "last_method": "incremental",
+      "last_downloaded": 7,
+      "last_skipped": 0,
+      "last_indexed": 0,
+      "last_successful_crawl_time": "2026-06-08T10:54:00Z",
+      "last_modified_time": "2026-06-05T20:45:11.485704788Z"
     },
     "pypi": {
-      "last_attempt_time": "2026-05-28T02:12:41Z",
+      "last_attempt_time": "2026-06-08T10:59:09Z",
       "last_method": "incremental",
-      "last_downloaded": 52,
-      "last_skipped": 1,
+      "last_downloaded": 432,
+      "last_skipped": 0,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-05-28T02:12:41Z",
-      "last_modified_time": "2026-05-28T01:00:58.046233555Z"
+      "last_successful_crawl_time": "2026-06-08T10:59:09Z",
+      "last_modified_time": "2026-06-08T10:30:04.50416926Z"
     },
     "redhat": {
-      "last_attempt_time": "2026-05-28T02:59:59Z",
+      "last_attempt_time": "2026-06-08T12:04:41Z",
       "last_method": "incremental",
-      "last_downloaded": 1204,
-      "last_skipped": 16,
+      "last_downloaded": 2407,
+      "last_skipped": 1008,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-05-28T02:59:59Z",
-      "last_modified_time": "2026-05-27T10:32:48.728851135Z"
+      "last_successful_crawl_time": "2026-06-08T12:04:41Z",
+      "last_modified_time": "2026-06-08T10:29:21.513685508Z"
+    },
+    "almalinux": {
+      "last_attempt_time": "2026-06-08T07:57:35Z",
+      "last_method": "incremental",
+      "last_downloaded": 263,
+      "last_skipped": 1,
+      "last_indexed": 0,
+      "last_successful_crawl_time": "2026-06-08T07:57:35Z",
+      "last_modified_time": "2026-06-07T23:29:19.67496212Z"
+    },
+    "alpine": {
+      "last_attempt_time": "2026-06-08T07:58:23Z",
+      "last_method": "incremental",
+      "last_downloaded": 30,
+      "last_skipped": 1,
+      "last_indexed": 0,
+      "last_successful_crawl_time": "2026-06-08T07:58:23Z",
+      "last_modified_time": "2026-06-05T08:30:04.798212993Z"
+    },
+    "android": {
+      "last_attempt_time": "2026-06-08T08:48:28Z",
+      "last_method": "incremental",
+      "last_downloaded": 3387,
+      "last_skipped": 14,
+      "last_indexed": 0,
+      "last_successful_crawl_time": "2026-06-08T08:48:28Z",
+      "last_modified_time": "2026-06-05T15:31:21.98312818Z"
+    },
+    "azure-linux": {
+      "last_attempt_time": "2026-06-08T08:48:41Z",
+      "last_method": "incremental",
+      "last_downloaded": 0,
+      "last_skipped": 0,
+      "last_indexed": 0,
+      "last_successful_crawl_time": "2026-06-08T08:48:41Z"
+    },
+    "debian": {
+      "last_attempt_time": "2026-06-08T10:04:11Z",
+      "last_method": "incremental",
+      "last_downloaded": 3421,
+      "last_skipped": 23,
+      "last_indexed": 0,
+      "last_successful_crawl_time": "2026-06-08T10:04:11Z",
+      "last_modified_time": "2026-06-08T05:00:07.277071152Z"
+    },
+    "git": {
+      "last_attempt_time": "2026-06-08T10:41:21Z",
+      "last_method": "incremental",
+      "last_downloaded": 797,
+      "last_skipped": 7,
+      "last_indexed": 0,
+      "last_successful_crawl_time": "2026-06-08T10:41:21Z",
+      "last_modified_time": "2026-06-08T08:56:24.48434925Z"
+    },
+    "github-actions": {
+      "last_attempt_time": "2026-06-08T10:41:22Z",
+      "last_method": "incremental",
+      "last_downloaded": 0,
+      "last_skipped": 0,
+      "last_indexed": 0,
+      "last_successful_crawl_time": "2026-06-08T10:41:22Z"
+    },
+    "go": {
+      "last_attempt_time": "2026-06-08T10:42:58Z",
+      "last_method": "incremental",
+      "last_downloaded": 152,
+      "last_skipped": 1,
+      "last_indexed": 0,
+      "last_successful_crawl_time": "2026-06-08T10:42:58Z",
+      "last_modified_time": "2026-06-08T08:44:25.055224065Z"
+    },
+    "linux": {
+      "last_attempt_time": "2026-06-08T10:45:17Z",
+      "last_method": "incremental",
+      "last_downloaded": 92,
+      "last_skipped": 0,
+      "last_indexed": 0,
+      "last_successful_crawl_time": "2026-06-08T10:45:17Z",
+      "last_modified_time": "2026-06-07T23:29:19.856115632Z"
     }
   },
   "last_run": {
-    "started_at": "2026-05-28T02:12:42Z",
+    "started_at": "2026-06-08T10:59:11Z",
     "output_dir": "/Volumes/DATA/security_advisory/osv-data",
     "method": "incremental",
     "ecosystems": [
@@ -95,22 +174,22 @@
       {
         "ecosystem": "redhat",
         "method": "incremental",
-        "downloaded": 1204,
-        "skipped": 16,
+        "downloaded": 2407,
+        "skipped": 1008,
         "indexed": 0,
         "existing": 0,
-        "latest_modified_time": "2026-05-27T10:32:48.728851135Z",
+        "latest_modified_time": "2026-06-08T10:29:21.513685508Z",
         "success": true
       }
     ],
-    "vulns_downloaded": 1204,
-    "vulns_skipped": 16,
+    "vulns_downloaded": 2407,
+    "vulns_skipped": 1008,
     "errors": [],
     "dry_run": false,
     "limit": null,
     "sync_missing": false,
     "missing_only": false,
-    "finished_at": "2026-05-28T02:59:59Z",
-    "duration_seconds": 2837.65
+    "finished_at": "2026-06-08T12:04:41Z",
+    "duration_seconds": 3930.15
   }
 }

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2021-1524",
   "published": "2021-11-03T00:00:37.119532Z",
-  "modified": "2026-05-21T14:20:39.862724Z",
+  "modified": "2026-06-07T14:17:14.820741Z",
   "summary": "Heap-buffer-overflow in Canvas5Structure::NIBDecoder::decode",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=40619\n\n```\nCrash type: Heap-buffer-overflow READ 1\nCrash state:\nCanvas5Structure::NIBDecoder::decode\nCanvas5Structure::decodeZone5\nCanvas5Parser::decode\n```\n",
   "affected": [
@@ -22,6 +22,9 @@
             }
           ]
         }
+      ],
+      "versions": [
+        "libabw-0.1.4"
       ],
       "ecosystem_specific": {
         "severity": "MEDIUM"

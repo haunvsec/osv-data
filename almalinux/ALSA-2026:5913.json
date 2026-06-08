@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "ALSA-2026:5913",
   "published": "2026-03-26T00:00:00Z",
-  "modified": "2026-03-31T09:00:09.179530Z",
+  "modified": "2026-05-26T16:45:24.107710049Z",
   "related": [
     "CVE-2025-69720"
   ],
@@ -11,101 +11,9 @@
   "affected": [
     {
       "package": {
-        "name": "ncurses",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/ncurses"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "6.4-15.20240127.el10_1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:5913.json"
-      }
-    },
-    {
-      "package": {
         "name": "ncurses-base",
         "ecosystem": "AlmaLinux:10",
         "purl": "pkg:rpm/almalinux/ncurses-base"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "6.4-15.20240127.el10_1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:5913.json"
-      }
-    },
-    {
-      "package": {
-        "name": "ncurses-c++-libs",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/ncurses-c%2B%2B-libs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "6.4-15.20240127.el10_1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:5913.json"
-      }
-    },
-    {
-      "package": {
-        "name": "ncurses-devel",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/ncurses-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "6.4-15.20240127.el10_1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:5913.json"
-      }
-    },
-    {
-      "package": {
-        "name": "ncurses-libs",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/ncurses-libs"
       },
       "ranges": [
         {

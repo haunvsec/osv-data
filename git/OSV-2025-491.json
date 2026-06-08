@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2025-491",
   "published": "2025-06-27T00:16:09.822144Z",
-  "modified": "2026-05-21T14:23:33.331967Z",
+  "modified": "2026-06-07T14:28:57.420683Z",
   "summary": "Heap-buffer-overflow in libssl.soNUMBER",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=427814448\n\n```\nCrash type: Heap-buffer-overflow READ 5\nCrash state:\nlibssl.soNUMBER\nlibssl.soNUMBER\nSSL_CTX_set_cipher_list\n```\n",
   "affected": [

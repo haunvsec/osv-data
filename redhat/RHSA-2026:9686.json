@@ -2,14 +2,18 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:9686",
   "published": "2026-04-25T10:09:52Z",
-  "modified": "2026-05-27T10:09:28Z",
+  "modified": "2026-06-06T10:07:09Z",
   "upstream": [
+    "CVE-2025-66293",
     "CVE-2026-22007",
     "CVE-2026-22013",
     "CVE-2026-22016",
     "CVE-2026-22018",
+    "CVE-2026-22020",
     "CVE-2026-22021",
     "CVE-2026-23865",
+    "CVE-2026-25646",
+    "CVE-2026-26740",
     "CVE-2026-34268",
     "CVE-2026-34282"
   ],
@@ -9944,6 +9948,38 @@
     },
     {
       "type": "REPORT",
+      "url": "https://access.redhat.com/security/cve/CVE-2025-66293"
+    },
+    {
+      "type": "REPORT",
+      "url": "https://bugzilla.redhat.com/show_bug.cgi?id=2418711"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2025-66293"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-66293"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://github.com/pnggroup/libpng/commit/788a624d7387a758ffd5c7ab010f1870dea753a1"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://github.com/pnggroup/libpng/commit/a05a48b756de63e3234ea6b3b938b8f5f862484a"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://github.com/pnggroup/libpng/issues/764"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://github.com/pnggroup/libpng/security/advisories/GHSA-9mpm-9pxh-mg4f"
+    },
+    {
+      "type": "REPORT",
       "url": "https://access.redhat.com/security/cve/CVE-2026-22007"
     },
     {
@@ -10012,6 +10048,22 @@
     },
     {
       "type": "REPORT",
+      "url": "https://access.redhat.com/security/cve/CVE-2026-22020"
+    },
+    {
+      "type": "REPORT",
+      "url": "https://bugzilla.redhat.com/show_bug.cgi?id=2460045"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-22020"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-22020"
+    },
+    {
+      "type": "REPORT",
       "url": "https://access.redhat.com/security/cve/CVE-2026-22021"
     },
     {
@@ -10053,6 +10105,54 @@
     {
       "type": "ARTICLE",
       "url": "https://www.facebook.com/security/advisories/cve-2026-23865"
+    },
+    {
+      "type": "REPORT",
+      "url": "https://access.redhat.com/security/cve/CVE-2026-25646"
+    },
+    {
+      "type": "REPORT",
+      "url": "https://bugzilla.redhat.com/show_bug.cgi?id=2438542"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-25646"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-25646"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "http://www.openwall.com/lists/oss-security/2026/02/09/7"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://github.com/pnggroup/libpng/commit/01d03b8453eb30ade759cd45c707e5a1c7277d88"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://github.com/pnggroup/libpng/security/advisories/GHSA-g8hp-mq4h-rqm3"
+    },
+    {
+      "type": "REPORT",
+      "url": "https://access.redhat.com/security/cve/CVE-2026-26740"
+    },
+    {
+      "type": "REPORT",
+      "url": "https://bugzilla.redhat.com/show_bug.cgi?id=2448747"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-26740"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-26740"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://github.com/zakkanijia/POC/blob/main/giflib/giftool/giflib_giftool_gce_len_heap_oobwrite_disclosure.md"
     },
     {
       "type": "REPORT",

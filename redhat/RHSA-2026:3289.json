@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:3289",
   "published": "2026-02-26T10:23:15Z",
-  "modified": "2026-05-27T10:07:55Z",
+  "modified": "2026-06-08T10:07:01Z",
   "related": [
     "GO-2025-4155"
   ],

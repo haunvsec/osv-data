@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "ALSA-2026:7675",
   "published": "2026-04-13T00:00:00Z",
-  "modified": "2026-04-17T13:29:27.846059153Z",
+  "modified": "2026-05-26T16:45:10.342871511Z",
   "related": [
     "CVE-2026-1525",
     "CVE-2026-1526",
@@ -28,101 +28,9 @@
   "affected": [
     {
       "package": {
-        "name": "nodejs24",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/nodejs24"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:24.14.1-2.el10_1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:7675.json"
-      }
-    },
-    {
-      "package": {
-        "name": "nodejs24-devel",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/nodejs24-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:24.14.1-2.el10_1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:7675.json"
-      }
-    },
-    {
-      "package": {
         "name": "nodejs24-docs",
         "ecosystem": "AlmaLinux:10",
         "purl": "pkg:rpm/almalinux/nodejs24-docs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:24.14.1-2.el10_1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:7675.json"
-      }
-    },
-    {
-      "package": {
-        "name": "nodejs24-full-i18n",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/nodejs24-full-i18n"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:24.14.1-2.el10_1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:7675.json"
-      }
-    },
-    {
-      "package": {
-        "name": "nodejs24-libs",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/nodejs24-libs"
       },
       "ranges": [
         {

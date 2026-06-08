@@ -1,83 +1,14 @@
 {
-  "schema_version": "1.7.3",
+  "schema_version": "1.7.5",
   "id": "ALSA-2026:0922",
   "published": "2026-01-21T00:00:00Z",
-  "modified": "2026-02-04T02:17:36.597542Z",
+  "modified": "2026-05-26T16:45:21.178838469Z",
   "related": [
     "CVE-2025-61729"
   ],
   "summary": "Important: golang security update",
   "details": "The golang packages provide the Go programming language compiler.  \n\nSecurity Fix(es):  \n\n  * crypto/x509: golang: Denial of Service due to excessive resource consumption via crafted certificate (CVE-2025-61729)\n\n\nFor more details about the security issue(s), including the impact, a CVSS score, acknowledgments, and other related information, refer to the CVE page(s) listed in the References section.\n",
   "affected": [
-    {
-      "package": {
-        "name": "go-toolset",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/go-toolset"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1.25.5-1.el10_1.alma.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:0922.json"
-      }
-    },
-    {
-      "package": {
-        "name": "golang",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/golang"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1.25.5-1.el10_1.alma.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:0922.json"
-      }
-    },
-    {
-      "package": {
-        "name": "golang-bin",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/golang-bin"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1.25.5-1.el10_1.alma.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:0922.json"
-      }
-    },
     {
       "package": {
         "name": "golang-docs",
@@ -106,29 +37,6 @@
         "name": "golang-misc",
         "ecosystem": "AlmaLinux:10",
         "purl": "pkg:rpm/almalinux/golang-misc"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1.25.5-1.el10_1.alma.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:0922.json"
-      }
-    },
-    {
-      "package": {
-        "name": "golang-race",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/golang-race"
       },
       "ranges": [
         {

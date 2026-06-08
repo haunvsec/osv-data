@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2025-547",
   "published": "2025-07-15T00:09:03.936493Z",
-  "modified": "2026-05-21T14:28:02.742508Z",
+  "modified": "2026-06-07T14:29:01.743756Z",
   "summary": "Security exception in com.alibaba.fastjson2.JSONReader.readArray",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=431584944\n\n```\nCrash type: Security exception\nCrash state:\ncom.alibaba.fastjson2.JSONReader.readArray\njava.base/java.nio.charset.CharsetEncoder.<init>\njava.base/java.nio.charset.CharsetEncoder.<init>\n```\n",
   "affected": [

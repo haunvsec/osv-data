@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2024-728",
   "published": "2024-08-08T00:09:33.935595Z",
-  "modified": "2026-05-21T14:39:04.626236Z",
+  "modified": "2026-06-07T14:34:42.806165Z",
   "summary": "Negative-size-param in pdf_resize_resource_arrays",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=70967\n\n```\nCrash type: Negative-size-param\nCrash state:\npdf_resize_resource_arrays\nprocess_cmap_text\npdf_text_process\n```\n",
   "affected": [

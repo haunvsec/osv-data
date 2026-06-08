@@ -1,106 +1,14 @@
 {
-  "schema_version": "1.7.3",
+  "schema_version": "1.7.5",
   "id": "ALSA-2025:21816",
   "published": "2025-11-20T00:00:00Z",
-  "modified": "2026-02-04T02:14:56.249932Z",
+  "modified": "2026-05-26T16:45:08.519614564Z",
   "related": [
     "CVE-2025-58183"
   ],
   "summary": "Moderate: delve and golang security update",
   "details": "The Go Programming Language.  \n\nSecurity Fix(es):  \n\n  * golang: archive/tar: Unbounded allocation when parsing GNU sparse map (CVE-2025-58183)\n\n\nFor more details about the security issue(s), including the impact, a CVSS score, acknowledgments, and other related information, refer to the CVE page(s) listed in the References section.\n",
   "affected": [
-    {
-      "package": {
-        "name": "delve",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/delve"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1.25.2-1.el10_1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2025:21816.json"
-      }
-    },
-    {
-      "package": {
-        "name": "go-toolset",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/go-toolset"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1.25.3-1.el10_1.alma.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2025:21816.json"
-      }
-    },
-    {
-      "package": {
-        "name": "golang",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/golang"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1.25.3-1.el10_1.alma.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2025:21816.json"
-      }
-    },
-    {
-      "package": {
-        "name": "golang-bin",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/golang-bin"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1.25.3-1.el10_1.alma.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2025:21816.json"
-      }
-    },
     {
       "package": {
         "name": "golang-docs",
@@ -129,29 +37,6 @@
         "name": "golang-misc",
         "ecosystem": "AlmaLinux:10",
         "purl": "pkg:rpm/almalinux/golang-misc"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1.25.3-1.el10_1.alma.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2025:21816.json"
-      }
-    },
-    {
-      "package": {
-        "name": "golang-race",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/golang-race"
       },
       "ranges": [
         {

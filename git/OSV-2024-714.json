@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2024-714",
   "published": "2024-08-04T00:01:49.853424Z",
-  "modified": "2026-05-21T14:31:23.305374Z",
+  "modified": "2026-06-07T14:23:10.116107Z",
   "summary": "Segv on unknown address in lwan_request_get_cookie",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=69572\n\n```\nCrash type: Segv on unknown address\nCrash state:\nlwan_request_get_cookie\nfuzz_parse_http_request\n```\n",
   "affected": [

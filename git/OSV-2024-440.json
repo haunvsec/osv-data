@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2024-440",
   "published": "2024-05-07T00:06:11.033336Z",
-  "modified": "2026-05-21T14:29:36.378846Z",
+  "modified": "2026-06-07T14:26:03.504727Z",
   "summary": "UNKNOWN READ",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=66323\n\n```\nCrash type: UNKNOWN READ\nCrash state:\nNULL```\n",
   "affected": [

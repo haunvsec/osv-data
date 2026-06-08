@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2022-1176",
   "published": "2022-11-18T13:00:26.857477Z",
-  "modified": "2026-05-21T14:25:32.940301Z",
+  "modified": "2026-06-07T14:21:56.513258Z",
   "summary": "Heap-double-free in dwg_free",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=53483\n\n```\nCrash type: Heap-double-free\nCrash state:\ndwg_free\nllvmfuzz.c\ndwg_free\n```\n",
   "affected": [
@@ -719,7 +719,16 @@
         "0.13.4.8174",
         "0.13.4.8178",
         "0.13.4.8187",
-        "0.13.4.8198"
+        "0.13.4.8198",
+        "0.13.4.8200",
+        "0.13.4.8214",
+        "0.13.4.8216",
+        "0.13.4.8229",
+        "0.13.4.8230",
+        "0.13.4.8231",
+        "0.13.4.8234",
+        "0.13.4.8236",
+        "0.13.4.8237"
       ],
       "ecosystem_specific": {
         "severity": "HIGH"

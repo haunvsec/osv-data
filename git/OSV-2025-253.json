@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2025-253",
   "published": "2025-04-03T00:17:24.000398Z",
-  "modified": "2026-05-21T14:46:34.706974Z",
+  "modified": "2026-06-07T14:41:25.500219Z",
   "summary": "Security exception in org.apache.lucene.analysis.ckb.SoraniNormalizer.normalize",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=407477665\n\n```\nCrash type: Security exception\nCrash state:\norg.apache.lucene.analysis.ckb.SoraniNormalizer.normalize\norg.apache.lucene.analysis.ckb.SoraniNormalizationFilter.incrementToken\norg.apache.lucene.analysis.miscellaneous.WordDelimiterGraphFilter.incrementToken\n```\n",
   "affected": [

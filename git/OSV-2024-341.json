@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2024-341",
   "published": "2024-04-30T00:02:07.034555Z",
-  "modified": "2026-05-21T14:28:53.134027Z",
+  "modified": "2026-06-07T14:24:50.738768Z",
   "summary": "UNKNOWN READ in PointerVector.h",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=67287\n\n```\nCrash type: UNKNOWN READ\nCrash state:\nPointerVector.h\n```\n",
   "affected": [

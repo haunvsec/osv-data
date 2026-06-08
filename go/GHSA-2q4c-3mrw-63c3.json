@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "GHSA-2q4c-3mrw-63c3",
   "published": "2026-05-19T19:18:32Z",
-  "modified": "2026-05-20T19:41:07.658027450Z",
+  "modified": "2026-06-02T05:15:10.039676295Z",
   "aliases": [
     "CVE-2026-45695",
     "GO-2026-5009"
@@ -51,8 +51,8 @@
   ],
   "database_specific": {
     "cwe_ids": [
-      "CWE-78",
-      "CWE-306"
+      "CWE-306",
+      "CWE-78"
     ],
     "github_reviewed": true,
     "github_reviewed_at": "2026-05-19T19:18:32Z",

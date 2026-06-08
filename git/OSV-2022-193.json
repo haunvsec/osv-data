@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2022-193",
   "published": "2022-02-24T00:00:07.843234Z",
-  "modified": "2026-05-21T14:21:25.332711Z",
+  "modified": "2026-06-07T14:20:28.941367Z",
   "summary": "UNKNOWN READ in GC_generic_malloc_many",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=44961\n\nCrash type: UNKNOWN READ\nCrash state:\nGC_generic_malloc_many\nGC_malloc_kind\nStrnew_size\n",
   "affected": [

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2020-2285",
   "published": "2020-12-25T00:01:03.941509Z",
-  "modified": "2026-05-21T14:21:32.305378Z",
+  "modified": "2026-06-07T14:17:59.304424Z",
   "summary": "Bad-cast to pcpp::Layer from invalid vptr",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=28945\n\n```\nCrash type: Bad-cast\nCrash state:\nBad-cast to pcpp::Layer from invalid vptr\npcpp::IDnsResource::getRawData\npcpp::DnsResource::getDataLength\n```\n",
   "affected": [

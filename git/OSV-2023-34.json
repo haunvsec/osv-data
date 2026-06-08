@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2023-34",
   "published": "2023-01-29T13:00:17.773387Z",
-  "modified": "2026-05-21T14:36:05.511152Z",
+  "modified": "2026-06-07T14:30:01.690449Z",
   "summary": "Heap-use-after-free in gc_trace",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=55443\n\n```\nCrash type: Heap-use-after-free READ 2\nCrash state:\ngc_trace\ngs_gc_reclaim\nireclaim\n```\n",
   "affected": [

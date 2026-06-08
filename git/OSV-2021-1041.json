@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2021-1041",
   "published": "2021-07-23T00:00:14.684306Z",
-  "modified": "2026-05-21T14:21:01.566166Z",
+  "modified": "2026-06-07T14:17:58.649909Z",
   "summary": "Global-buffer-overflow in SetUpPhonemeTable",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=36412\n\n```\nCrash type: Global-buffer-overflow READ 4\nCrash state:\nSetUpPhonemeTable\nSelectPhonemeTable\nTranslateWord2\n```\n",
   "affected": [

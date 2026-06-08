@@ -1,8 +1,8 @@
 {
-  "schema_version": "1.7.3",
+  "schema_version": "1.7.5",
   "id": "ALSA-2025:23008",
   "published": "2025-12-10T00:00:00Z",
-  "modified": "2026-02-04T04:35:30.564571Z",
+  "modified": "2026-05-26T16:45:08.886029758Z",
   "related": [
     "CVE-2025-53040",
     "CVE-2025-53042",
@@ -16,29 +16,6 @@
   "summary": "Moderate: mysql8.4 security update",
   "details": "MySQL is a multi-user, multi-threaded SQL database server. MySQL is a client/server implementation consisting of a server daemon (mysqld) and many different client programs and libraries. The base package contains the standard MySQL client programs and generic MySQL files.  \n\nSecurity Fix(es):  \n\n  * mysql: DML unspecified vulnerability (CPU Oct 2025) (CVE-2025-53053)\n  * mysql: InnoDB unspecified vulnerability (CPU Oct 2025) (CVE-2025-53044)\n  * mysql: InnoDB unspecified vulnerability (CPU Oct 2025) (CVE-2025-53062)\n  * mysql: InnoDB unspecified vulnerability (CPU Oct 2025) (CVE-2025-53054)\n  * mysql: InnoDB unspecified vulnerability (CPU Oct 2025) (CVE-2025-53045)\n  * mysql: Optimizer unspecified vulnerability (CPU Oct 2025) (CVE-2025-53040)\n  * mysql: Components Services unspecified vulnerability (CPU Oct 2025) (CVE-2025-53069)\n  * mysql: Optimizer unspecified vulnerability (CPU Oct 2025) (CVE-2025-53042)\n\n\nFor more details about the security issue(s), including the impact, a CVSS score, acknowledgments, and other related information, refer to the CVE page(s) listed in the References section.\n",
   "affected": [
-    {
-      "package": {
-        "name": "mysql8.4",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/mysql8.4"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "8.4.7-1.el10_1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2025:23008.json"
-      }
-    },
     {
       "package": {
         "name": "mysql8.4-common",
@@ -64,101 +41,9 @@
     },
     {
       "package": {
-        "name": "mysql8.4-devel",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/mysql8.4-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "8.4.7-1.el10_1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2025:23008.json"
-      }
-    },
-    {
-      "package": {
         "name": "mysql8.4-errmsg",
         "ecosystem": "AlmaLinux:10",
         "purl": "pkg:rpm/almalinux/mysql8.4-errmsg"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "8.4.7-1.el10_1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2025:23008.json"
-      }
-    },
-    {
-      "package": {
-        "name": "mysql8.4-libs",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/mysql8.4-libs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "8.4.7-1.el10_1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2025:23008.json"
-      }
-    },
-    {
-      "package": {
-        "name": "mysql8.4-server",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/mysql8.4-server"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "8.4.7-1.el10_1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2025:23008.json"
-      }
-    },
-    {
-      "package": {
-        "name": "mysql8.4-test",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/mysql8.4-test"
       },
       "ranges": [
         {

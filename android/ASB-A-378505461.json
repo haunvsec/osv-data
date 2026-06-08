@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "ASB-A-378505461",
   "published": "2025-09-01T00:00:00Z",
-  "modified": "2026-05-21T15:11:38.963146741Z",
+  "modified": "2026-06-05T15:03:38.651710474Z",
   "aliases": [
     "A-378505461",
     "CVE-2025-0089"
@@ -32,10 +32,10 @@
       ],
       "ecosystem_specific": {
         "fixes": [
+          "https://android.googlesource.com/platform/frameworks/base/+/3e79e0fb88b8b86bea2d919a2b937781922927b4",
           "https://android.googlesource.com/platform/frameworks/base/+/67ace66f8c9507b701f55bd23a87638bbe1eec76",
-          "https://android.googlesource.com/platform/frameworks/base/+/f207b00bc1eff76bc788f5a2578e3e3f2c960f6b",
           "https://android.googlesource.com/platform/frameworks/base/+/2da0fd3573767fe585bd9d349cc4b69058c77a6f",
-          "https://android.googlesource.com/platform/frameworks/base/+/3e79e0fb88b8b86bea2d919a2b937781922927b4"
+          "https://android.googlesource.com/platform/frameworks/base/+/f207b00bc1eff76bc788f5a2578e3e3f2c960f6b"
         ],
         "severity": "High",
         "spl": "2025-09-01",
@@ -91,6 +91,21 @@
           {
             "deprecated": false,
             "digest": {
+              "function_hash": "233389443148724557677558255768268118558",
+              "length": 1391
+            },
+            "id": "ASB-A-378505461-2dcd1195",
+            "signature_type": "Function",
+            "signature_version": "v1",
+            "source": "https://android.googlesource.com/platform/frameworks/base/+/f207b00bc1eff76bc788f5a2578e3e3f2c960f6b",
+            "target": {
+              "file": "services/core/java/com/android/server/wm/ActivityStartInterceptor.java",
+              "function": "interceptHomeIfNeeded"
+            }
+          },
+          {
+            "deprecated": false,
+            "digest": {
               "line_hashes": [
                 "295072260296837555054229654738165903355",
                 "68301018412939797585988051453682617810",
@@ -105,6 +120,57 @@
             "source": "https://android.googlesource.com/platform/frameworks/base/+/67ace66f8c9507b701f55bd23a87638bbe1eec76",
             "target": {
               "file": "services/core/java/com/android/server/wm/ActivityStarter.java"
+            }
+          },
+          {
+            "deprecated": false,
+            "digest": {
+              "line_hashes": [
+                "183103502201743619921428185670029621751",
+                "2196018549991102368402267732175804794",
+                "93469001686591002430998158714434014072",
+                "117680311948746939535132415336212794693",
+                "145321925165964820960631575370327387140",
+                "194647554729162577459668780384405519204",
+                "118657066144599208240093733533413519298",
+                "113502377728117154859504824169080768736",
+                "305177368206463623408577362249856639330",
+                "258287623275483532341400499275924694054",
+                "9131076991022776692741181505077245520",
+                "262514808739864209111834397311928740586",
+                "299795318793516617548928719674491602492",
+                "220619122940543865668415553942343268936",
+                "188793981330234006554654355164721900608",
+                "106319906120814992154843864741144358651",
+                "257949811864698657766187019757756592893",
+                "224690008053630570652840588127092841638",
+                "125427105011799361646479016355326226451",
+                "46783687647981963385687118246378583703",
+                "29210791615802791191436485268784306480",
+                "50275412923943611882997291015859301225",
+                "334213854881487020576710113732811617417",
+                "310583552941023890248725213328891570567",
+                "170878021601290569282054822160824214311",
+                "129056185276267156521517714051265833686",
+                "105173478623027174533101846053677205336",
+                "218100266390266489742345140302933417418",
+                "148515221707583126423809960233252780440",
+                "20075017391188688713776528167589831331",
+                "31978357901110178132835934370474621572",
+                "177770443841943297233060006370667248646",
+                "335382748314952351036260499473664394582",
+                "34112894567167593726228900467326752637",
+                "244910317358223937695856579815709234003",
+                "140475419736971752801249937486948046926"
+              ],
+              "threshold": 0.9
+            },
+            "id": "ASB-A-378505461-3a14226c",
+            "signature_type": "Line",
+            "signature_version": "v1",
+            "source": "https://android.googlesource.com/platform/frameworks/base/+/f207b00bc1eff76bc788f5a2578e3e3f2c960f6b",
+            "target": {
+              "file": "services/core/java/com/android/server/wm/ActivityStartInterceptor.java"
             }
           },
           {

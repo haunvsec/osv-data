@@ -2,9 +2,12 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4175",
   "published": "2026-05-19T19:11:15Z",
-  "modified": "2026-05-26T06:02:23.127952890Z",
+  "modified": "2026-06-01T10:16:40.474113649Z",
+  "aliases": [
+    "GHSA-9j37-8wjm-pcxq"
+  ],
   "summary": "Malicious code in collected-forms-embed-js (npm)",
-  "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (b110466fd12f426709ec7f628f63304d175faddb8094d08e8448388ed3114805)\nThe package.json declares a postinstall lifecycle hook that performs reconnaissance and exfiltration on every install. The script invokes child_process to capture host identity (whoami) and reads process.env, queries https://api.ipify.org to obtain the installer's public IP, and POSTs the collected data to a subdomain under.oast.fun (an out-of-band application security testing / interaction host commonly used as exfiltration C2). Any developer or CI system running `npm install` for this package will leak host identity, environment variables, and network identifiers to the attacker-controlled callback. There is no legitimate reason for a forms-embedding library to fingerprint hosts and beacon to an OAST domain at install time.\n\n## Source: ossf-package-analysis (5bc706a222ff9fef4872e708bcd99cf286eaf8a11c9908c33ed9776e43d600e6)\nThe OpenSSF Package Analysis project identified 'collected-forms-embed-js' @ 1.0.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
+  "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (b110466fd12f426709ec7f628f63304d175faddb8094d08e8448388ed3114805)\nThe package.json declares a postinstall lifecycle hook that performs reconnaissance and exfiltration on every install. The script invokes child_process to capture host identity (whoami) and reads process.env, queries https://api.ipify.org to obtain the installer's public IP, and POSTs the collected data to a subdomain under.oast.fun (an out-of-band application security testing / interaction host commonly used as exfiltration C2). Any developer or CI system running `npm install` for this package will leak host identity, environment variables, and network identifiers to the attacker-controlled callback. There is no legitimate reason for a forms-embedding library to fingerprint hosts and beacon to an OAST domain at install time.\n\n## Source: ghsa-malware (ac92e6994c361dee2371b037c52d1ed3d1b27ced5002dcbc3de7ef0c884ed91d)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n\n## Source: ossf-package-analysis (5bc706a222ff9fef4872e708bcd99cf286eaf8a11c9908c33ed9776e43d600e6)\nThe OpenSSF Package Analysis project identified 'collected-forms-embed-js' @ 1.0.1 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
   "affected": [
     {
       "package": {
@@ -12,6 +15,16 @@
         "ecosystem": "npm",
         "purl": "pkg:npm/collected-forms-embed-js"
       },
+      "ranges": [
+        {
+          "type": "SEMVER",
+          "events": [
+            {
+              "introduced": "0"
+            }
+          ]
+        }
+      ],
       "versions": [
         "1.0.1",
         "1.0.0",
@@ -20,6 +33,11 @@
       ],
       "database_specific": {
         "cwes": [
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -56,6 +74,10 @@
     {
       "type": "PACKAGE",
       "url": "https://www.npmjs.com/package/collected-forms-embed-js/v/8.0.5"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://github.com/advisories/GHSA-9j37-8wjm-pcxq"
     }
   ],
   "database_specific": {
@@ -115,6 +137,23 @@
         "versions": [
           "8.0.5"
         ]
+      },
+      {
+        "id": "GHSA-9j37-8wjm-pcxq",
+        "import_time": "2026-06-01T10:04:39.151978143Z",
+        "modified_time": "2026-06-01T09:10:45Z",
+        "ranges": [
+          {
+            "events": [
+              {
+                "introduced": "0"
+              }
+            ],
+            "type": "SEMVER"
+          }
+        ],
+        "sha256": "ac92e6994c361dee2371b037c52d1ed3d1b27ced5002dcbc3de7ef0c884ed91d",
+        "source": "ghsa-malware"
       }
     ]
   },

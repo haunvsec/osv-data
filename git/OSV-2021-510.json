@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2021-510",
   "published": "2021-03-11T00:00:21.858475Z",
-  "modified": "2026-05-21T14:20:30.669258Z",
+  "modified": "2026-06-07T14:17:28.554951Z",
   "summary": "Heap-use-after-free in grk_object_unref",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=31874\n\n```\nCrash type: Heap-use-after-free READ 8\nCrash state:\ngrk_object_unref\ngrk::GrkObjectImpl<grk::GrkImage>::release\ngrk::GrkObject::unref\n```\n",
   "affected": [

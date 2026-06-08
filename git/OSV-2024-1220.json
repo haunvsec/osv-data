@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2024-1220",
   "published": "2024-10-14T00:17:45.088625Z",
-  "modified": "2026-05-21T14:27:48.482653Z",
+  "modified": "2026-06-07T14:24:09.315650Z",
   "summary": "UNKNOWN READ in Assimp::NDOImporter::InternReadFile",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=372765427\n\n```\nCrash type: UNKNOWN READ\nCrash state:\nAssimp::NDOImporter::InternReadFile\nAssimp::BaseImporter::ReadFile\nAssimp::Importer::ReadFile\n```\n",
   "affected": [

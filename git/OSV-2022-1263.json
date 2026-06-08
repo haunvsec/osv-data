@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2022-1263",
   "published": "2022-12-20T13:01:53.219707Z",
-  "modified": "2026-05-21T14:22:38.923203Z",
+  "modified": "2026-06-07T14:19:42.644626Z",
   "summary": "Null-dereference READ",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=54424\n\n```\nCrash type: Null-dereference READ\nCrash state:\nNULL```\n",
   "affected": [

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2023-395",
   "published": "2023-05-14T14:00:57.078498Z",
-  "modified": "2026-05-21T14:26:18.161391Z",
+  "modified": "2026-06-07T14:23:09.387988Z",
   "summary": "Stack-buffer-overflow in sc_path_print",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=58932\n\n```\nCrash type: Stack-buffer-overflow READ 1\nCrash state:\nsc_path_print\nsc_select_file\ncflex_delete_file\n```\n",
   "affected": [

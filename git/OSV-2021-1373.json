@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2021-1373",
   "published": "2021-09-27T00:00:07.177410Z",
-  "modified": "2026-05-21T14:20:36.823737Z",
+  "modified": "2026-06-07T14:17:12.633027Z",
   "summary": "Global-buffer-overflow in vte_write_debug",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=39313\n\n```\nCrash type: Global-buffer-overflow READ 1\nCrash state:\nvte_write_debug\ncsi_dev_attr\ndo_action\n```\n",
   "affected": [

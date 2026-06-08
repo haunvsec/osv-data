@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2024-1203",
   "published": "2024-10-11T00:02:53.598773Z",
-  "modified": "2026-05-21T14:26:20.923075Z",
+  "modified": "2026-06-07T14:24:27.413322Z",
   "summary": "Global-buffer-overflow in AnnouncePunctuation",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=372298920\n\n```\nCrash type: Global-buffer-overflow WRITE {*}\nCrash state:\nAnnouncePunctuation\nReadClause\nTranslateClause\n```\n",
   "affected": [

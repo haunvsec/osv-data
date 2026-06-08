@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2020-853",
   "published": "2020-07-14T22:13:46.021034Z",
-  "modified": "2026-05-21T14:21:48.828043Z",
+  "modified": "2026-06-07T14:18:06.033549Z",
   "summary": "Use-of-uninitialized-value in llvm_ks::MCAssembler::computeFragmentSize",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=22482\n\n```\nCrash type: Use-of-uninitialized-value\nCrash state:\nllvm_ks::MCAssembler::computeFragmentSize\nllvm_ks::MCAsmLayout::layoutFragment\nllvm_ks::MCAsmLayout::ensureValid\n```\n",
   "affected": [

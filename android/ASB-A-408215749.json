@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "ASB-A-408215749",
   "published": "2025-09-01T00:00:00Z",
-  "modified": "2026-05-21T15:11:38.963146741Z",
+  "modified": "2026-06-05T15:03:38.651710474Z",
   "aliases": [
     "A-408215749",
     "CVE-2025-32349"
@@ -493,8 +493,8 @@
       ],
       "ecosystem_specific": {
         "fixes": [
-          "https://android.googlesource.com/platform/frameworks/base/+/3beed7b34e54f2147aef9e9e5bbb413527b399fa",
-          "https://android.googlesource.com/platform/frameworks/base/+/dd71ab6ba3950978bd28dc38fecec236cf1153ea"
+          "https://android.googlesource.com/platform/frameworks/base/+/dd71ab6ba3950978bd28dc38fecec236cf1153ea",
+          "https://android.googlesource.com/platform/frameworks/base/+/3beed7b34e54f2147aef9e9e5bbb413527b399fa"
         ],
         "severity": "High",
         "spl": "2025-09-01",
@@ -621,8 +621,8 @@
       ],
       "ecosystem_specific": {
         "fixes": [
-          "https://android.googlesource.com/platform/frameworks/base/+/3beed7b34e54f2147aef9e9e5bbb413527b399fa",
-          "https://android.googlesource.com/platform/frameworks/base/+/dd71ab6ba3950978bd28dc38fecec236cf1153ea"
+          "https://android.googlesource.com/platform/frameworks/base/+/dd71ab6ba3950978bd28dc38fecec236cf1153ea",
+          "https://android.googlesource.com/platform/frameworks/base/+/3beed7b34e54f2147aef9e9e5bbb413527b399fa"
         ],
         "severity": "High",
         "spl": "2025-09-01",

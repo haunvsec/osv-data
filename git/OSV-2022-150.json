@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2022-150",
   "published": "2022-02-14T00:00:50.308933Z",
-  "modified": "2026-05-21T14:20:46.561456Z",
+  "modified": "2026-06-07T14:20:04.172992Z",
   "summary": "Heap-buffer-overflow in coap_split_uri_sub",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=44611\n\nCrash type: Heap-buffer-overflow READ 1\nCrash state:\ncoap_split_uri_sub\ncoap_get_uri_path\n",
   "affected": [

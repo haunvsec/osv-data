@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2021-508",
   "published": "2021-03-09T00:02:18.581527Z",
-  "modified": "2026-05-21T14:20:54.158545Z",
+  "modified": "2026-06-07T14:17:56.441021Z",
   "summary": "Segv on unknown address in Sass::CompoundSelector::resolve_parent_refs",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=31832\n\n```\nCrash type: Segv on unknown address\nCrash state:\nSass::CompoundSelector::resolve_parent_refs\nSass::ComplexSelector::resolve_parent_refs\nSass::SelectorList::resolve_parent_refs\n```\n",
   "affected": [

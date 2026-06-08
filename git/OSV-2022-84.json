@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2022-84",
   "published": "2022-01-24T00:00:39.186446Z",
-  "modified": "2026-05-21T14:34:04.247830Z",
+  "modified": "2026-06-07T14:31:31.959683Z",
   "summary": "Heap-buffer-overflow in Core::Stream::File::open_path",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=43978\n\n```\nCrash type: Heap-buffer-overflow READ {*}\nCrash state:\nCore::Stream::File::open_path\nCore::Stream::File::open\nAudio::FlacLoaderPlugin::FlacLoaderPlugin\n```\n",
   "affected": [

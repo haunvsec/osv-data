@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2022-1201",
   "published": "2022-11-24T13:00:10.344351Z",
-  "modified": "2026-05-21T14:22:36.137434Z",
+  "modified": "2026-06-07T14:18:04.570738Z",
   "summary": "Stack-buffer-overflow in msc_zero_object",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=53631\n\n```\nCrash type: Stack-buffer-overflow WRITE {*}\nCrash state:\nmsc_zero_object\nmsc_create_object\nmuscle_create_directory\n```\n",
   "affected": [

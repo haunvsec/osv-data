@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2023-346",
   "published": "2023-04-27T14:02:25.286668Z",
-  "modified": "2026-05-21T14:25:56.043529Z",
+  "modified": "2026-06-07T14:22:53.525629Z",
   "summary": "UNKNOWN WRITE in void std::__1::allocator_traits<std::__1::allocator<wabt::interp::HandlerDesc> >",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=58344\n\n```\nCrash type: UNKNOWN WRITE\nCrash state:\nvoid std::__1::allocator_traits<std::__1::allocator<wabt::interp::HandlerDesc> >\nvoid std::__1::vector<wabt::interp::HandlerDesc, std::__1::allocator<wabt::inter\nstd::__1::vector<wabt::interp::HandlerDesc, std::__1::allocator<wabt::interp::Ha\n```\n",
   "affected": [

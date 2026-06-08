@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2022-1109",
   "published": "2022-10-29T00:00:36.758920Z",
-  "modified": "2026-05-21T14:28:09.452389Z",
+  "modified": "2026-06-07T14:25:49.891747Z",
   "summary": "Security exception in java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=52812\n\n```\nCrash type: Security exception\nCrash state:\njava.base/jdk.internal.math.FloatingDecimal.readJavaFormatString\njava.base/jdk.internal.math.FloatingDecimal.parseDouble\njava.base/java.lang.Double.parseDouble\n```\n",
   "affected": [

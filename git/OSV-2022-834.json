@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2022-834",
   "published": "2022-09-04T00:00:31.605787Z",
-  "modified": "2026-05-21T14:26:11.241371Z",
+  "modified": "2026-06-07T14:23:31.874611Z",
   "summary": "Heap-use-after-free in mk_event_timeout_destroy",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=50924\n\n```\nCrash type: Heap-use-after-free WRITE 8\nCrash state:\nmk_event_timeout_destroy\nflb_sched_destroy\nflb_config_exit\n```\n",
   "affected": [
@@ -121,7 +121,9 @@
         "v5.0.2",
         "v5.0.3",
         "v5.0.4",
-        "v5.0.5"
+        "v5.0.5",
+        "v5.0.6",
+        "v5.0.7"
       ],
       "ecosystem_specific": {
         "severity": "HIGH"

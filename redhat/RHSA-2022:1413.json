@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2022:1413",
   "published": "2024-09-13T23:16:52Z",
-  "modified": "2026-03-18T11:31:44.598274Z",
+  "modified": "2026-06-03T10:30:38.409818445Z",
   "upstream": [
     "CVE-2021-4083",
     "CVE-2022-0492",
@@ -757,6 +757,10 @@
     {
       "type": "ARTICLE",
       "url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=24f6008564183aa120d07c03d9289519c2fe02af"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
     },
     {
       "type": "REPORT",

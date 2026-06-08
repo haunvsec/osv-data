@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2020-876",
   "published": "2020-07-14T22:13:55.541274Z",
-  "modified": "2026-05-21T14:20:24.767354Z",
+  "modified": "2026-06-07T14:17:22.636404Z",
   "summary": "Use-of-uninitialized-value in XCFImageFormat::mergeRGBToRGB",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=21783\n\n```\nCrash type: Use-of-uninitialized-value\nCrash state:\nXCFImageFormat::mergeRGBToRGB\nXCFImageFormat::mergeLayerIntoImage\nXCFImageFormat::loadLayer\n```\n",
   "affected": [
@@ -176,7 +176,8 @@
         "v6.25.0-rc1",
         "v6.25.0",
         "v6.26.0-rc1",
-        "v6.26.0"
+        "v6.26.0",
+        "v6.27.0-rc1"
       ],
       "ecosystem_specific": {
         "severity": "MEDIUM"

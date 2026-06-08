@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2024-1254",
   "published": "2024-11-01T00:07:39.301298Z",
-  "modified": "2026-05-21T14:40:42.833976Z",
+  "modified": "2026-06-07T14:37:26.584181Z",
   "summary": "Security exception in org.apache.lucene.util.ArrayUtil.growExact",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=376504918\n\n```\nCrash type: Security exception\nCrash state:\norg.apache.lucene.util.ArrayUtil.growExact\norg.apache.lucene.util.ArrayUtil.grow\norg.apache.lucene.util.BytesRefBuilder.grow\n```\n",
   "affected": [

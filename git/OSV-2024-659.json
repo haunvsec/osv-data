@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2024-659",
   "published": "2024-07-18T00:01:18.765548Z",
-  "modified": "2026-05-21T14:34:08.940237Z",
+  "modified": "2026-06-07T14:30:28.580020Z",
   "summary": "Index-out-of-bounds in gf_vvc_parse_nalu_bs",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=70392\n\n```\nCrash type: Index-out-of-bounds\nCrash state:\ngf_vvc_parse_nalu_bs\ngf_inspect_dump_nalu_internal\ninspect_process\n```\n",
   "affected": [
@@ -60,7 +60,10 @@
         "abi-16.11",
         "abi-16.12",
         "abi-16.13",
-        "abi-16.14"
+        "abi-16.14",
+        "abi-16.15",
+        "abi-16.16",
+        "abi-16.17"
       ],
       "ecosystem_specific": {
         "severity": "MEDIUM"

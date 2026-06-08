@@ -2,13 +2,14 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:10219",
   "published": "2026-05-06T10:04:21Z",
-  "modified": "2026-05-27T10:03:51Z",
+  "modified": "2026-06-08T10:03:10Z",
   "related": [
     "GO-2026-4864",
     "GO-2026-4867",
     "GO-2026-4868",
     "GO-2026-4870",
     "GO-2026-4871",
+    "GO-2026-4946",
     "GO-2026-4947"
   ],
   "upstream": [
@@ -16,6 +17,7 @@
     "CVE-2026-27143",
     "CVE-2026-27144",
     "CVE-2026-32280",
+    "CVE-2026-32281",
     "CVE-2026-32282",
     "CVE-2026-32283"
   ],
@@ -346,6 +348,34 @@
     {
       "type": "ADVISORY",
       "url": "https://pkg.go.dev/vuln/GO-2026-4947"
+    },
+    {
+      "type": "REPORT",
+      "url": "https://access.redhat.com/security/cve/CVE-2026-32281"
+    },
+    {
+      "type": "REPORT",
+      "url": "https://bugzilla.redhat.com/show_bug.cgi?id=2456333"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-32281"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-32281"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://go.dev/cl/758061"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://go.dev/issue/78281"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://pkg.go.dev/vuln/GO-2026-4946"
     },
     {
       "type": "REPORT",

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "GHSA-x744-4wpc-v9h2",
   "published": "2026-03-27T17:43:16Z",
-  "modified": "2026-05-20T22:45:10.814673672Z",
+  "modified": "2026-06-03T05:15:11.941089832Z",
   "aliases": [
     "CVE-2026-34040",
     "GO-2026-4887"
@@ -115,8 +115,8 @@
   ],
   "database_specific": {
     "cwe_ids": [
-      "CWE-863",
-      "CWE-288"
+      "CWE-288",
+      "CWE-863"
     ],
     "github_reviewed": true,
     "github_reviewed_at": "2026-03-27T17:43:16Z",

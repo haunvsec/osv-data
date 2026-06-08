@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2023-197",
   "published": "2023-03-18T13:00:57.254906Z",
-  "modified": "2026-05-21T14:25:20.181932Z",
+  "modified": "2026-06-07T14:22:22.339674Z",
   "summary": "Global-buffer-overflow in base_C_MessageEncryptInit",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=57120\n\n```\nCrash type: Global-buffer-overflow READ 8\nCrash state:\nbase_C_MessageEncryptInit\nrpc_C_MessageEncryptInit\np11_rpc_server_handle\n```\n",
   "affected": [

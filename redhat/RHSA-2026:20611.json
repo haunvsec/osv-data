@@ -2,19 +2,19 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:20611",
   "published": "2026-05-27T10:07:21Z",
-  "modified": "2026-05-27T10:32:48.728851135Z",
+  "modified": "2026-06-03T10:19:33Z",
   "upstream": [
+    "CVE-2026-3833",
+    "CVE-2026-5260",
     "CVE-2026-33845",
     "CVE-2026-33846",
-    "CVE-2026-3833",
     "CVE-2026-42009",
     "CVE-2026-42010",
     "CVE-2026-42011",
     "CVE-2026-42012",
     "CVE-2026-42013",
     "CVE-2026-42014",
-    "CVE-2026-42015",
-    "CVE-2026-5260"
+    "CVE-2026-42015"
   ],
   "summary": "Red Hat Security Advisory: gnutls security update",
   "affected": [

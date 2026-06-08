@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4835",
   "published": "2026-05-27T23:53:05Z",
-  "modified": "2026-05-28T01:00:58.046233555Z",
+  "modified": "2026-05-28T05:01:08.582549206Z",
   "summary": "Malicious code in rogiant-install (PyPI)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: kam193 (0c659d6e1e7b9bbbbb7b808196db4231a5eb1a62fe91827fc02fd708b92728b5)\nDuring installation package downloads and runs a malicious executable. Likely continuation of 2026-03-rowrap.\n\nThe campaign is built over a malicious Roblox API wrapper. The roboat[.]pro (later robase[.]app) domain advertises a wrapper that is either directly malicious (as roboat collected in the campaign 2026-03-rowrap) or uses a malicious dependencies (like roboat-utils). New versions are published simultaneously with malicious dependencies and quickly removed. Another advertisement channel is https://github.com/Addi9000/roboat referencing two active contributors: https://github.com/Addi9000 and https://github.com/RoCruise\n\n\n---\n\nCategory: MALICIOUS - The campaign has clearly malicious intent, like infostealers.\n\n\nCampaign: 2026-03-roboat-addition\n\n\nReasons (based on the campaign):\n\n\n - The package overrides the install command in setup.py to execute malicious code during installation.\n\n\n - Downloads and executes a remote executable.\n\n\n - The malicious code is intentionally included in a dependency of the package\n\n\n - malware\n\n\n - clones-real-package\n",
   "affected": [
@@ -95,6 +95,16 @@
         "versions": [
           "2.5.0"
         ]
+      },
+      {
+        "id": "pypi/2026-03-roboat-addition/rogiant-install",
+        "import_time": "2026-05-28T04:57:09.808261241Z",
+        "modified_time": "2026-05-27T23:53:25.55929Z",
+        "sha256": "5e269180771c64e16a65c3766e70730f32f9d6c47281187dd9086b62b313d80a",
+        "source": "kam193",
+        "versions": [
+          "2.5.0"
+        ]
       }
     ]
   },
@@ -106,6 +116,14 @@
         "https://bad-packages.kam193.eu/"
       ],
       "type": "ANALYST"
+    },
+    {
+      "name": "Kamil Mańkowski (kam193)",
+      "contact": [
+        "https://github.com/kam193",
+        "https://bad-packages.kam193.eu/"
+      ],
+      "type": "REPORTER"
     }
   ]
 }

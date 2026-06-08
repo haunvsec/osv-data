@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2022-126",
   "published": "2022-02-07T00:00:05.720107Z",
-  "modified": "2026-05-21T14:22:07.465663Z",
+  "modified": "2026-06-07T14:19:14.051744Z",
   "summary": "Heap-buffer-overflow in md_analyze_inlines",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=44446\n\nCrash type: Heap-buffer-overflow READ 1\nCrash state:\nmd_analyze_inlines\nmd_process_normal_block_contents\nmd_process_table_cell\n",
   "affected": [

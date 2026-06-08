@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2022-652",
   "published": "2022-07-29T00:02:04.321859Z",
-  "modified": "2026-05-21T14:23:56.198765Z",
+  "modified": "2026-06-07T14:22:00.650589Z",
   "summary": "Use-of-uninitialized-value in udiv",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=49542\n\n```\nCrash type: Use-of-uninitialized-value\nCrash state:\nudiv\nmrb_bint_mod\nint_mod\n```\n",
   "affected": [

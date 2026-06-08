@@ -1,8 +1,8 @@
 {
-  "schema_version": "1.7.3",
+  "schema_version": "1.7.5",
   "id": "GHSA-2xf2-gjm6-g2c6",
   "published": "2025-03-20T12:32:47Z",
-  "modified": "2026-05-20T08:11:24.255439563Z",
+  "modified": "2026-06-06T01:15:07.857966368Z",
   "aliases": [
     "CVE-2024-8063",
     "GO-2025-3689",
@@ -47,6 +47,10 @@
     {
       "type": "PACKAGE",
       "url": "https://github.com/ollama/ollama"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/pypa/advisory-database/tree/main/vulns/ollama/PYSEC-2025-144.yaml"
     },
     {
       "type": "WEB",

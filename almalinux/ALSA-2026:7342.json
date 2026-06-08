@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "ALSA-2026:7342",
   "published": "2026-04-09T00:00:00Z",
-  "modified": "2026-04-17T13:18:01.540309Z",
+  "modified": "2026-05-26T16:45:10.328642795Z",
   "related": [
     "CVE-2026-3608"
   ],
@@ -11,101 +11,9 @@
   "affected": [
     {
       "package": {
-        "name": "kea",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/kea"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "3.0.1-3.el10_1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:7342.json"
-      }
-    },
-    {
-      "package": {
         "name": "kea-doc",
         "ecosystem": "AlmaLinux:10",
         "purl": "pkg:rpm/almalinux/kea-doc"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "3.0.1-3.el10_1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:7342.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kea-hooks",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/kea-hooks"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "3.0.1-3.el10_1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:7342.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kea-keama",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/kea-keama"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "3.0.1-3.el10_1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:7342.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kea-libs",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/kea-libs"
       },
       "ranges": [
         {

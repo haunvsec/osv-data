@@ -2,9 +2,10 @@
   "schema_version": "1.7.5",
   "id": "GHSA-pc3f-x583-g7j2",
   "published": "2026-04-16T20:44:01Z",
-  "modified": "2026-05-05T16:09:16.224297Z",
+  "modified": "2026-05-26T23:26:23.483657112Z",
   "aliases": [
-    "CVE-2026-35469"
+    "CVE-2026-35469",
+    "GO-2026-4958"
   ],
   "related": [
     "CGA-v7gj-rrxh-8985"

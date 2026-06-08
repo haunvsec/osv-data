@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2023-55",
   "published": "2023-02-07T13:00:07.438565Z",
-  "modified": "2026-05-21T14:26:04.211258Z",
+  "modified": "2026-06-07T14:17:16.556166Z",
   "summary": "Index-out-of-bounds in LibRaw::apply_tiff",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=55722\n\n```\nCrash type: Index-out-of-bounds\nCrash state:\nLibRaw::apply_tiff\nLibRaw::parse_jpeg\nLibRaw::identify\n```\n",
   "affected": [
@@ -115,7 +115,8 @@
         "v6.25.0-rc1",
         "v6.25.0",
         "v6.26.0-rc1",
-        "v6.26.0"
+        "v6.26.0",
+        "v6.27.0-rc1"
       ],
       "ecosystem_specific": {
         "severity": "MEDIUM"

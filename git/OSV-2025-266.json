@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2025-266",
   "published": "2025-04-08T00:17:06.279554Z",
-  "modified": "2026-05-21T14:37:39.804892Z",
+  "modified": "2026-06-07T14:32:35.227063Z",
   "summary": "Heap-buffer-overflow in lj_buf_ruleb128",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=408513931\n\n```\nCrash type: Heap-buffer-overflow READ 1\nCrash state:\nlj_buf_ruleb128\nlj_bcread\ncpparser\n```\n",
   "affected": [
@@ -45,7 +45,11 @@
         "3.6.3-entrypoint",
         "3.7.0",
         "3.7.1-entrypoint",
-        "3.8.0-entrypoint"
+        "3.8.0-entrypoint",
+        "3.5.2",
+        "3.6.3",
+        "3.6.4-entrypoint",
+        "3.5.3-entrypoint"
       ],
       "ecosystem_specific": {
         "severity": "MEDIUM"

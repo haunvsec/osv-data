@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2024:9102",
   "published": "2024-11-15T20:28:15Z",
-  "modified": "2026-05-05T10:08:18Z",
+  "modified": "2026-06-04T10:03:34Z",
   "upstream": [
     "CVE-2022-4122",
     "CVE-2024-24789",
@@ -226,6 +226,10 @@
     },
     {
       "type": "ARTICLE",
+      "url": "https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/9.5_release_notes/index"
+    },
+    {
+      "type": "ARTICLE",
       "url": "https://access.redhat.com/security/updates/classification/#moderate"
     },
     {
@@ -262,7 +266,7 @@
     },
     {
       "type": "ARTICLE",
-      "url": "https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/9.5_release_notes/index"
+      "url": "https://issues.redhat.com/browse/RHEL-28803"
     },
     {
       "type": "ARTICLE",
@@ -295,10 +299,6 @@
     {
       "type": "ARTICLE",
       "url": "https://issues.redhat.com/browse/RHEL-54361"
-    },
-    {
-      "type": "ARTICLE",
-      "url": "https://issues.redhat.com/browse/RHEL-28803"
     },
     {
       "type": "ADVISORY",

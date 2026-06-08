@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2023-984",
   "published": "2023-10-08T13:00:48.222080Z",
-  "modified": "2026-05-21T14:27:06.807630Z",
+  "modified": "2026-06-07T14:23:54.011271Z",
   "summary": "Stack-buffer-overflow in TranslateWord3",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=63064\n\n```\nCrash type: Stack-buffer-overflow READ 4\nCrash state:\nTranslateWord3\nCombineFlag\nTranslateWord2\n```\n",
   "affected": [

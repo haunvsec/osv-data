@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2024:4108",
   "published": "2024-09-17T21:47:11Z",
-  "modified": "2026-05-05T10:06:51Z",
+  "modified": "2026-06-04T10:03:12Z",
   "upstream": [
     "CVE-2021-47400",
     "CVE-2023-53496",

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2022-608",
   "published": "2022-07-21T00:01:50.967627Z",
-  "modified": "2026-05-21T14:16:34.347730Z",
+  "modified": "2026-06-07T14:21:42.113307Z",
   "summary": "Heap-use-after-free in jxl::WriteToPixelCallbackStage::ProcessRow",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=49277\n\n```\nCrash type: Heap-use-after-free READ 4\nCrash state:\njxl::WriteToPixelCallbackStage::ProcessRow\njxl::LowMemoryRenderPipeline::RenderRect\njxl::LowMemoryRenderPipeline::ProcessBuffers\n```\n",
   "affected": [

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "GHSA-jfwf-28xr-xw6q",
   "published": "2026-04-22T14:45:10Z",
-  "modified": "2026-05-20T01:45:09.062312695Z",
+  "modified": "2026-06-02T05:15:10.039008298Z",
   "aliases": [
     "BIT-rclone-2026-41179",
     "CVE-2026-41179"
@@ -75,8 +75,8 @@
   ],
   "database_specific": {
     "cwe_ids": [
-      "CWE-78",
-      "CWE-306"
+      "CWE-306",
+      "CWE-78"
     ],
     "github_reviewed": true,
     "github_reviewed_at": "2026-04-22T14:45:10Z",

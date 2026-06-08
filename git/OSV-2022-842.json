@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2022-842",
   "published": "2022-09-05T00:00:28.251072Z",
-  "modified": "2026-05-21T14:34:34.530761Z",
+  "modified": "2026-06-07T14:32:30.872615Z",
   "summary": "Stack-buffer-overflow in wc_Shake256_Final",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=50946\n\n```\nCrash type: Stack-buffer-overflow WRITE {*}\nCrash state:\nwc_Shake256_Final\nwc_ed448_sign_msg_ex\nwc_ed448_sign_msg\n```\n",
   "affected": [

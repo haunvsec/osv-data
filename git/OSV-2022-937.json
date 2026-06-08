@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2022-937",
   "published": "2022-09-23T00:02:21.434097Z",
-  "modified": "2026-05-21T14:26:12.708293Z",
+  "modified": "2026-06-07T14:23:17.531329Z",
   "summary": "Use-after-poison in rx_ip",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=51687\n\n```\nCrash type: Use-after-poison READ 1\nCrash state:\nrx_ip\nmip_rx\nfuzz.c\n```\n",
   "affected": [

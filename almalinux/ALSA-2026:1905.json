@@ -1,60 +1,14 @@
 {
-  "schema_version": "1.7.3",
+  "schema_version": "1.7.5",
   "id": "ALSA-2026:1905",
   "published": "2026-02-04T00:00:00Z",
-  "modified": "2026-02-13T11:58:46.338520Z",
+  "modified": "2026-05-26T16:45:21.538977903Z",
   "related": [
     "CVE-2026-23490"
   ],
   "summary": "Important: fence-agents security update",
   "details": "The fence-agents packages provide a collection of scripts for handling remote power management for cluster devices. They allow failed or unreachable nodes to be forcibly restarted and removed from the cluster.   \n\nSecurity Fix(es):  \n\n  * pyasn1: pyasn1: Denial of Service due to memory exhaustion from malformed RELATIVE-OID (CVE-2026-23490)\n\n\nFor more details about the security issue(s), including the impact, a CVSS score, acknowledgments, and other related information, refer to the CVE page(s) listed in the References section.\n",
   "affected": [
-    {
-      "package": {
-        "name": "fence-agents-aliyun",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/fence-agents-aliyun"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "4.16.0-13.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:1905.json"
-      }
-    },
-    {
-      "package": {
-        "name": "fence-agents-all",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/fence-agents-all"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "4.16.0-13.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:1905.json"
-      }
-    },
     {
       "package": {
         "name": "fence-agents-amt-ws",
@@ -106,52 +60,6 @@
         "name": "fence-agents-apc-snmp",
         "ecosystem": "AlmaLinux:10",
         "purl": "pkg:rpm/almalinux/fence-agents-apc-snmp"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "4.16.0-13.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:1905.json"
-      }
-    },
-    {
-      "package": {
-        "name": "fence-agents-aws",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/fence-agents-aws"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "4.16.0-13.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:1905.json"
-      }
-    },
-    {
-      "package": {
-        "name": "fence-agents-azure-arm",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/fence-agents-azure-arm"
       },
       "ranges": [
         {
@@ -264,29 +172,6 @@
     },
     {
       "package": {
-        "name": "fence-agents-common",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/fence-agents-common"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "4.16.0-13.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:1905.json"
-      }
-    },
-    {
-      "package": {
         "name": "fence-agents-drac5",
         "ecosystem": "AlmaLinux:10",
         "purl": "pkg:rpm/almalinux/fence-agents-drac5"
@@ -359,29 +244,6 @@
         "name": "fence-agents-eps",
         "ecosystem": "AlmaLinux:10",
         "purl": "pkg:rpm/almalinux/fence-agents-eps"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "4.16.0-13.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:1905.json"
-      }
-    },
-    {
-      "package": {
-        "name": "fence-agents-gce",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/fence-agents-gce"
       },
       "ranges": [
         {
@@ -701,52 +563,6 @@
     },
     {
       "package": {
-        "name": "fence-agents-kdump",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/fence-agents-kdump"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "4.16.0-13.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:1905.json"
-      }
-    },
-    {
-      "package": {
-        "name": "fence-agents-kubevirt",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/fence-agents-kubevirt"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "4.16.0-13.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:1905.json"
-      }
-    },
-    {
-      "package": {
         "name": "fence-agents-lpar",
         "ecosystem": "AlmaLinux:10",
         "purl": "pkg:rpm/almalinux/fence-agents-lpar"
@@ -796,52 +612,6 @@
         "name": "fence-agents-nutanix-ahv",
         "ecosystem": "AlmaLinux:10",
         "purl": "pkg:rpm/almalinux/fence-agents-nutanix-ahv"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "4.16.0-13.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:1905.json"
-      }
-    },
-    {
-      "package": {
-        "name": "fence-agents-openstack",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/fence-agents-openstack"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "4.16.0-13.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:1905.json"
-      }
-    },
-    {
-      "package": {
-        "name": "fence-agents-redfish",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/fence-agents-redfish"
       },
       "ranges": [
         {
@@ -1049,213 +819,6 @@
         "name": "fence-agents-wti",
         "ecosystem": "AlmaLinux:10",
         "purl": "pkg:rpm/almalinux/fence-agents-wti"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "4.16.0-13.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:1905.json"
-      }
-    },
-    {
-      "package": {
-        "name": "fence-agents-zvm",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/fence-agents-zvm"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "4.16.0-13.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:1905.json"
-      }
-    },
-    {
-      "package": {
-        "name": "fence-virt",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/fence-virt"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "4.16.0-13.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:1905.json"
-      }
-    },
-    {
-      "package": {
-        "name": "fence-virtd",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/fence-virtd"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "4.16.0-13.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:1905.json"
-      }
-    },
-    {
-      "package": {
-        "name": "fence-virtd-cpg",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/fence-virtd-cpg"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "4.16.0-13.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:1905.json"
-      }
-    },
-    {
-      "package": {
-        "name": "fence-virtd-libvirt",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/fence-virtd-libvirt"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "4.16.0-13.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:1905.json"
-      }
-    },
-    {
-      "package": {
-        "name": "fence-virtd-multicast",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/fence-virtd-multicast"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "4.16.0-13.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:1905.json"
-      }
-    },
-    {
-      "package": {
-        "name": "fence-virtd-serial",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/fence-virtd-serial"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "4.16.0-13.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:1905.json"
-      }
-    },
-    {
-      "package": {
-        "name": "fence-virtd-tcp",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/fence-virtd-tcp"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "4.16.0-13.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://github.com/AlmaLinux/osv-database/blob/master/advisories/almalinux10/ALSA-2026:1905.json"
-      }
-    },
-    {
-      "package": {
-        "name": "ha-cloud-support",
-        "ecosystem": "AlmaLinux:10",
-        "purl": "pkg:rpm/almalinux/ha-cloud-support"
       },
       "ranges": [
         {

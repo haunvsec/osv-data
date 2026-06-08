@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2023-467",
   "published": "2023-06-08T14:01:12.964629Z",
-  "modified": "2026-05-21T14:26:33.321593Z",
+  "modified": "2026-06-07T14:17:52.851633Z",
   "summary": "Stack-buffer-overflow in SetPitchGradient",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=59636\n\n```\nCrash type: Stack-buffer-overflow WRITE 1\nCrash state:\nSetPitchGradient\ncalc_pitches\nCalcPitches\n```\n",
   "affected": [

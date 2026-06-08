@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "OSV-2021-1085",
   "published": "2021-08-02T00:00:16.885038Z",
-  "modified": "2026-05-21T14:21:05.542654Z",
+  "modified": "2026-06-07T14:17:27.235240Z",
   "summary": "Stack-buffer-overflow in strcat",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=36743\n\n```\nCrash type: Stack-buffer-overflow WRITE {*}\nCrash state:\nstrcat\nprvTidystrrep\ntidyMessageCreateInitV\n```\n",
   "affected": [
