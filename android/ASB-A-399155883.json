@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "ASB-A-399155883",
   "published": "2026-03-01T00:00:00Z",
-  "modified": "2026-06-05T15:03:38.651710474Z",
+  "modified": "2026-06-24T15:00:40.818157658Z",
   "aliases": [
     "A-399155883",
     "CVE-2025-32313"
@@ -390,8 +390,8 @@
       ],
       "ecosystem_specific": {
         "fixes": [
-          "https://android.googlesource.com/platform/frameworks/base/+/715cf1915f7ca85e41cdaa86d0c8bfa8d2dedd9a",
-          "https://android.googlesource.com/platform/frameworks/base/+/97c957a01a563b96438c4ea5c66c23bdfa4553ef"
+          "https://android.googlesource.com/platform/frameworks/base/+/97c957a01a563b96438c4ea5c66c23bdfa4553ef",
+          "https://android.googlesource.com/platform/frameworks/base/+/715cf1915f7ca85e41cdaa86d0c8bfa8d2dedd9a"
         ],
         "severity": "High",
         "spl": "2026-03-01",

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "ASB-A-350456241",
   "published": "2026-06-01T00:00:00Z",
-  "modified": "2026-06-05T15:03:38.651710474Z",
+  "modified": "2026-06-24T15:00:40.818157658Z",
   "aliases": [
     "A-350456241",
     "CVE-2025-22424"
@@ -819,6 +819,10 @@
     {
       "type": "ADVISORY",
       "url": "https://source.android.com/security/bulletin/2026-06-01"
+    },
+    {
+      "type": "FIX",
+      "url": "https://android.googlesource.com/platform/frameworks/base/+/02fc7472ebb27fd394caafa8b87d4daead295d70"
     }
   ]
 }

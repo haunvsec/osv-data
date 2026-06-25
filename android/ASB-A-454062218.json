@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "ASB-A-454062218",
   "published": "2026-03-01T00:00:00Z",
-  "modified": "2026-06-05T15:03:38.651710474Z",
+  "modified": "2026-06-24T15:00:40.818157658Z",
   "aliases": [
     "A-454062218",
     "CVE-2026-0011"
@@ -32,8 +32,8 @@
       ],
       "ecosystem_specific": {
         "fixes": [
-          "https://android.googlesource.com/platform/frameworks/base/+/dba78af51647402d8233bd4c52ecb3c3551622a4",
-          "https://android.googlesource.com/platform/frameworks/base/+/6b5ea2f7fbf50313d46e54e0d8f8c18c398e4869"
+          "https://android.googlesource.com/platform/frameworks/base/+/6b5ea2f7fbf50313d46e54e0d8f8c18c398e4869",
+          "https://android.googlesource.com/platform/frameworks/base/+/dba78af51647402d8233bd4c52ecb3c3551622a4"
         ],
         "severity": "High",
         "spl": "2026-03-01",
@@ -74,6 +74,36 @@
           {
             "deprecated": false,
             "digest": {
+              "function_hash": "37429192823054701599339793877573588661",
+              "length": 712
+            },
+            "id": "ASB-A-454062218-51dab3ff",
+            "signature_type": "Function",
+            "signature_version": "v1",
+            "source": "https://android.googlesource.com/platform/frameworks/base/+/dba78af51647402d8233bd4c52ecb3c3551622a4",
+            "target": {
+              "file": "services/core/java/com/android/server/pm/Settings.java",
+              "function": "addPackageLPw"
+            }
+          },
+          {
+            "deprecated": false,
+            "digest": {
+              "function_hash": "48403598448649539613722876273985614636",
+              "length": 1518
+            },
+            "id": "ASB-A-454062218-5759ac0b",
+            "signature_type": "Function",
+            "signature_version": "v1",
+            "source": "https://android.googlesource.com/platform/frameworks/base/+/dba78af51647402d8233bd4c52ecb3c3551622a4",
+            "target": {
+              "file": "services/core/java/com/android/server/pm/Settings.java",
+              "function": "enableSystemPackageLPw"
+            }
+          },
+          {
+            "deprecated": false,
+            "digest": {
               "line_hashes": [
                 "193113628533422175067756173000827679994",
                 "309213008556413727970549784491072885555",
@@ -103,6 +133,31 @@
             "signature_type": "Line",
             "signature_version": "v1",
             "source": "https://android.googlesource.com/platform/frameworks/base/+/6b5ea2f7fbf50313d46e54e0d8f8c18c398e4869",
+            "target": {
+              "file": "services/core/java/com/android/server/pm/Settings.java"
+            }
+          },
+          {
+            "deprecated": false,
+            "digest": {
+              "line_hashes": [
+                "316867027641701166918113132828405250120",
+                "306101848189449927544461664582677657539",
+                "167312462958623487465829480202863536195",
+                "65913692504432659568103555173690217207",
+                "35234445888640034440272080271747605958",
+                "190157433669808701997394496779730337604",
+                "228467059057335538794274452515090745701",
+                "85757746947730342474972168303908841824",
+                "194710885136322853754508194209847200640",
+                "83096127407422219721948552729784938627"
+              ],
+              "threshold": 0.9
+            },
+            "id": "ASB-A-454062218-706c68a0",
+            "signature_type": "Line",
+            "signature_version": "v1",
+            "source": "https://android.googlesource.com/platform/frameworks/base/+/dba78af51647402d8233bd4c52ecb3c3551622a4",
             "target": {
               "file": "services/core/java/com/android/server/pm/Settings.java"
             }

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "ASB-A-329631990",
   "published": "2026-06-01T00:00:00Z",
-  "modified": "2026-06-05T15:03:38.651710474Z",
+  "modified": "2026-06-24T15:00:40.818157658Z",
   "aliases": [
     "A-329631990",
     "CVE-2026-0009"
@@ -127,6 +127,18 @@
     {
       "type": "ADVISORY",
       "url": "https://source.android.com/security/bulletin/2026-06-01"
+    },
+    {
+      "type": "FIX",
+      "url": "https://android.googlesource.com/platform/packages/providers/MediaProvider/+/61808742c17acb107221fa5f0ce998532dbc0bed"
+    },
+    {
+      "type": "FIX",
+      "url": "https://android.googlesource.com/platform/packages/providers/MediaProvider/+/8a710e8508880a2af058ad93b58b4fe5e770be57"
+    },
+    {
+      "type": "FIX",
+      "url": "https://android.googlesource.com/platform/packages/providers/MediaProvider/+/f04605de9b68a9301e9ca59b7335cb1978cac792"
     }
   ]
 }

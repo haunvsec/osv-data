@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "ASB-A-445917646",
   "published": "2026-03-01T00:00:00Z",
-  "modified": "2026-06-05T15:03:38.651710474Z",
+  "modified": "2026-06-24T15:00:40.818157658Z",
   "aliases": [
     "A-445917646",
     "CVE-2026-0015"
@@ -32,9 +32,9 @@
       ],
       "ecosystem_specific": {
         "fixes": [
-          "https://android.googlesource.com/platform/frameworks/base/+/4a63d960496052db7c997bbfbdba11075d06b572",
+          "https://android.googlesource.com/platform/frameworks/base/+/110db0acb84cbd21f9da9391ab242d141ebf390c",
           "https://android.googlesource.com/platform/frameworks/base/+/c5ddffd4869d8e82fba0b0237fa1b50db1b7b9d2",
-          "https://android.googlesource.com/platform/frameworks/base/+/110db0acb84cbd21f9da9391ab242d141ebf390c"
+          "https://android.googlesource.com/platform/frameworks/base/+/4a63d960496052db7c997bbfbdba11075d06b572"
         ],
         "severity": "High",
         "spl": "2026-03-01",
@@ -142,6 +142,41 @@
           {
             "deprecated": false,
             "digest": {
+              "function_hash": "154449751110998932676943463000353373986",
+              "length": 570
+            },
+            "id": "ASB-A-445917646-5f0ab867",
+            "signature_type": "Function",
+            "signature_version": "v1",
+            "source": "https://android.googlesource.com/platform/frameworks/base/+/c5ddffd4869d8e82fba0b0237fa1b50db1b7b9d2",
+            "target": {
+              "file": "services/core/java/com/android/server/appop/AppOpsService.java",
+              "function": "getAttributedOpWithClientId"
+            }
+          },
+          {
+            "deprecated": false,
+            "digest": {
+              "line_hashes": [
+                "327829384594738988864123182543555066372",
+                "243781062236540630707817481551116275887",
+                "137819077720437360171542756705516151684",
+                "307070524664529208563702523758237163592",
+                "11697143313366088979629753542035151377"
+              ],
+              "threshold": 0.9
+            },
+            "id": "ASB-A-445917646-67977d4a",
+            "signature_type": "Line",
+            "signature_version": "v1",
+            "source": "https://android.googlesource.com/platform/frameworks/base/+/4a63d960496052db7c997bbfbdba11075d06b572",
+            "target": {
+              "file": "services/core/java/com/android/server/appop/AppOpsService.java"
+            }
+          },
+          {
+            "deprecated": false,
+            "digest": {
               "function_hash": "180789776483584688744416148323340636057",
               "length": 4936
             },
@@ -152,6 +187,27 @@
             "target": {
               "file": "services/core/java/com/android/server/appop/AppOpsService.java",
               "function": "noteOperationUnchecked"
+            }
+          },
+          {
+            "deprecated": false,
+            "digest": {
+              "line_hashes": [
+                "65186845225930482569022054208205253664",
+                "31159490920251270152858106091079657148",
+                "91549800619542179270233275634632935287",
+                "182392421475285000935709411155740621132",
+                "105598818425523387169251964947809646112",
+                "70002587736042323340988347926777330978"
+              ],
+              "threshold": 0.9
+            },
+            "id": "ASB-A-445917646-75ee2c3a",
+            "signature_type": "Line",
+            "signature_version": "v1",
+            "source": "https://android.googlesource.com/platform/frameworks/base/+/c5ddffd4869d8e82fba0b0237fa1b50db1b7b9d2",
+            "target": {
+              "file": "services/core/java/com/android/server/appop/AppOpsService.java"
             }
           },
           {
@@ -264,6 +320,21 @@
             "target": {
               "file": "services/core/java/com/android/server/appop/AppOpsService.java",
               "function": "isPackageNullOrSystem"
+            }
+          },
+          {
+            "deprecated": false,
+            "digest": {
+              "function_hash": "259361632338887257785501956161195375767",
+              "length": 2758
+            },
+            "id": "ASB-A-445917646-e67e21dd",
+            "signature_type": "Function",
+            "signature_version": "v1",
+            "source": "https://android.googlesource.com/platform/frameworks/base/+/4a63d960496052db7c997bbfbdba11075d06b572",
+            "target": {
+              "file": "services/core/java/com/android/server/appop/AppOpsService.java",
+              "function": "startOperationDryRun"
             }
           },
           {

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "ASB-A-380091558",
   "published": "2026-06-01T00:00:00Z",
-  "modified": "2026-06-05T15:03:38.651710474Z",
+  "modified": "2026-06-24T15:00:40.818157658Z",
   "aliases": [
     "A-380091558",
     "CVE-2026-0045"
@@ -627,6 +627,10 @@
     {
       "type": "ADVISORY",
       "url": "https://source.android.com/security/bulletin/2026-06-01"
+    },
+    {
+      "type": "FIX",
+      "url": "https://android.googlesource.com/platform/packages/modules/Bluetooth/+/2ad8e1e0e0e5adae3abcbab34b9e36eda4a2e36f"
     }
   ]
 }
