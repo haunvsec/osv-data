@@ -2,9 +2,12 @@
   "schema_version": "1.7.5",
   "id": "GHSA-866g-f22w-33x8",
   "published": "2026-05-18T00:31:37Z",
-  "modified": "2026-05-29T16:30:55.500675833Z",
+  "modified": "2026-06-10T16:29:23.739806769Z",
   "aliases": [
     "CVE-2026-8769"
+  ],
+  "related": [
+    "CGA-r43q-x6hp-5h9p"
   ],
   "summary": "@ai-sdk/provider-utils has an Uncontrolled Resource Consumption issue",
   "details": "A vulnerability was determined in Vercel AI up to 3.0.97. The impacted element is the function `createJsonResponseHandler/createJsonErrorResponseHandler` of the file `packages/provider-utils/src/response-handler.ts` of the component `provider-utils`. This manipulation causes resource consumption. The attack may be initiated remotely. The exploit has been publicly disclosed and may be utilized. The vendor was contacted early about this disclosure but did not respond in any way.",

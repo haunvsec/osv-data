@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "GHSA-9vmh-whc4-7phg",
   "published": "2026-05-21T16:36:25Z",
-  "modified": "2026-05-21T16:45:13.144102854Z",
+  "modified": "2026-06-09T13:30:19.016598101Z",
   "aliases": [
     "CVE-2026-46481"
   ],
@@ -216,6 +216,10 @@
       "url": "https://github.com/open-metadata/OpenMetadata/security/advisories/GHSA-9vmh-whc4-7phg"
     },
     {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-46481"
+    },
+    {
       "type": "PACKAGE",
       "url": "https://github.com/open-metadata/OpenMetadata"
     }
@@ -226,7 +230,7 @@
     ],
     "github_reviewed": true,
     "github_reviewed_at": "2026-05-21T16:36:25Z",
-    "nvd_published_at": null,
+    "nvd_published_at": "2026-06-08T17:16:51Z",
     "severity": "HIGH"
   },
   "severity": [

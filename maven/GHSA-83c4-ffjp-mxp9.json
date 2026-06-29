@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "GHSA-83c4-ffjp-mxp9",
   "published": "2026-05-19T09:31:21Z",
-  "modified": "2026-06-04T17:45:21.098316293Z",
+  "modified": "2026-06-26T12:21:29.347112098Z",
   "aliases": [
     "CVE-2026-8922"
   ],
@@ -282,6 +282,22 @@
     {
       "type": "WEB",
       "url": "https://github.com/keycloak/keycloak/commit/c5bda802e98b412e42fa62ff6240669e9ea4a858"
+    },
+    {
+      "type": "WEB",
+      "url": "https://access.redhat.com/errata/RHSA-2026:25097"
+    },
+    {
+      "type": "WEB",
+      "url": "https://access.redhat.com/errata/RHSA-2026:25098"
+    },
+    {
+      "type": "WEB",
+      "url": "https://access.redhat.com/errata/RHSA-2026:30049"
+    },
+    {
+      "type": "WEB",
+      "url": "https://access.redhat.com/errata/RHSA-2026:30050"
     },
     {
       "type": "WEB",

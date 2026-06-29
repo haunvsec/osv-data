@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "GHSA-gg2g-p7xc-qqmm",
   "published": "2026-05-28T19:01:38Z",
-  "modified": "2026-05-28T19:15:11.503248175Z",
+  "modified": "2026-06-11T05:15:08.521924257Z",
   "aliases": [
     "CVE-2026-46439"
   ],
@@ -181,8 +181,8 @@
   ],
   "database_specific": {
     "cwe_ids": [
-      "CWE-94",
-      "CWE-1336"
+      "CWE-1336",
+      "CWE-94"
     ],
     "github_reviewed": true,
     "github_reviewed_at": "2026-05-28T19:01:38Z",

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4394",
   "published": "2026-05-20T02:28:21Z",
-  "modified": "2026-05-26T06:01:50.033110403Z",
+  "modified": "2026-06-12T20:01:51.524647379Z",
   "summary": "Malicious code in @ikyyofc/gemini-cli (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (5793a1cde3de83b8c15b49a0f9981d72fbf431067a4416ce6b2bd5650ea4a4d6)\n@ikyyofc/gemini-cli@3.0.1 ships two heavily obfuscated modules (src/gemini.js and src/utils/proxy.js) wrapped in an obfuscator.io-style string-array + RC4-XOR decoder (220-entry encrypted string array, hex-mangled identifiers like `_0x4693ef`, `_0x29cf`). Decoding reveals two coordinated behaviors that make this package unsafe for installers to use:\n\n1. Spoofed Google/Firebase Android-app identity for Gemini access. src/gemini.js exposes a getToken() that POSTs to a hidden URL with hardcoded `X-Android-Package`, `X-Android-Cert` (SHA1 cert fingerprint), and `X-Firebase-GMPID` headers plus a hardcoded `clientType`, then attaches the returned Bearer token to Gemini API calls. The CLI never asks the user for a Google API key; instead it ships a third-party Android application's identity to mint Gemini tokens on the installer's behalf. Every installer who uses the CLI is making Google Gemini API calls under a stolen client identity, exposing them to abuse-of-service and ToS-violation consequences if Google revokes or flags that identity.\n\n2. Silent relay through a hardcoded pool of ~13 third-party proxies. index.js calls `setupGlobalProxy()` at startup, which installs a global axios request interceptor in src/utils/proxy.js that rewrites every outgoing request URL via `wrapUrl(proxy, originalUrl)` to traverse one of ~13 hardcoded proxy hosts. The user's chat prompts and attached file contents (up to 20 MB) are carried in the Gemini POST body and therefore visible in cleartext to the proxy operators. The README does not disclose any proxy/relay behavior; the proxy list is encrypted within the obfuscated bundle to prevent users discovering it through source review.\n\nThe combination — obfuscation that hides the data flow, spoofed third-party credentials carrying the installer's API requests, and an undisclosed third-party relay reading prompt content and the Bearer token — is a silent-relay supply-chain pattern. Any developer who installs and runs this CLI leaks the contents of their conversations and any file they attach to operators they never consented to trust, while also operating under a credential that does not belong to them.\n",
   "affected": [
@@ -27,10 +27,22 @@
         "4.0.2",
         "4.0.4",
         "4.0.0",
-        "3.0.9"
+        "3.0.9",
+        "5.0.5",
+        "5.0.4"
       ],
       "database_specific": {
         "cwes": [
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -189,6 +201,14 @@
     {
       "type": "PACKAGE",
       "url": "https://www.npmjs.com/package/@ikyyofc/gemini-cli/v/3.0.9"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/@ikyyofc/gemini-cli/v/5.0.5"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/@ikyyofc/gemini-cli/v/5.0.4"
     }
   ],
   "database_specific": {
@@ -342,6 +362,26 @@
         "versions": [
           "3.0.9"
         ]
+      },
+      {
+        "id": "IN-MAL-2026-005977",
+        "import_time": "2026-06-12T19:43:53.926121625Z",
+        "modified_time": "2026-06-12T19:06:25Z",
+        "sha256": "08d3d5bddb63a2d0fafd731291f7078d41b4ed5bc98f6fc8cf26699780159886",
+        "source": "amazon-inspector",
+        "versions": [
+          "5.0.5"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-005976",
+        "import_time": "2026-06-12T19:43:53.815386271Z",
+        "modified_time": "2026-06-12T19:06:23Z",
+        "sha256": "bffdb59cf0bd71129e7a7e9053df024c98a4fd34cd7d3111b44b83e883b5e90e",
+        "source": "amazon-inspector",
+        "versions": [
+          "5.0.4"
+        ]
       }
     ]
   },
@@ -349,7 +389,8 @@
     {
       "name": "Amazon Inspector",
       "contact": [
-        "actran@amazon.com"
+        "actran@amazon.com",
+        "inspector-research@amazon.com"
       ],
       "type": "FINDER"
     }

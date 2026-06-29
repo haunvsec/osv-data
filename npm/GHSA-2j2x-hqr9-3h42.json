@@ -2,9 +2,12 @@
   "schema_version": "1.7.5",
   "id": "GHSA-2j2x-hqr9-3h42",
   "published": "2026-06-03T20:58:01Z",
-  "modified": "2026-06-03T21:00:07.966230569Z",
+  "modified": "2026-06-09T18:29:26.231174055Z",
   "aliases": [
     "CVE-2026-40181"
+  ],
+  "related": [
+    "CGA-8grf-whvr-g8v7"
   ],
   "summary": "React Router's same-origin redirect with path starting // causes open redirect via protocol-relative URL reinterpretation",
   "details": "Certain URLs passed to the `redirect` function can trigger an open redirect to an external domain depending on the level of validation done by the application prior to returning the `redirect`.\n\n> [!NOTE]\n> This does not impact your React Router application if you are using [Declarative Mode](https://reactrouter.com/start/modes#declarative) (`<BrowserRouter>`)",

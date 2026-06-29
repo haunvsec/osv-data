@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4579",
   "published": "2026-05-20T00:54:17Z",
-  "modified": "2026-05-26T06:02:36.211868501Z",
+  "modified": "2026-06-12T20:01:52.719785021Z",
   "summary": "Malicious code in hpsetup (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (16ed0c34d69e1ea3c5052e3eed20b87fc47e8d4bf1393f7117d34b847347e12c)\nWhen `npx hpsetup <key>` runs, the tool fetches a tarball from `https://hpsetup-cdn.932324.xyz/api/tarball/<slug>/<version>?key=<userKey>` and extracts it directly into `node_modules/@heroui-pro/react` (or `heroui-native-pro`) with no hash check, no signature verification, and no version pin to a publisher origin (src/constants.js:16, src/download.js:24). The destination is a numeric `.xyz` subdomain unrelated to HeroUI's real publisher infrastructure, and the package itself ships no `homepage`, `repository`, or `author` fields linking it to heroui.com — yet it brands itself as the HeroUI Pro setup tool and writes into the `@heroui-pro` scope on the consumer's disk. Whatever bytes the CDN returns become the React component library required at runtime, giving the operator of `932324.xyz` arbitrary code execution in every consuming application. The user's license key (HEROUI_KEY / hp_xxx) is appended as `?key=<userKey>` to every CDN fetch, silently relaying paying-customer credentials to the lookalike host (src/download.js:24). After download, the tool patches `vercel.json` to set `installCommand: npx -y hpsetup@latest <userKey>` (src/vercel.js:18-29), pinning every future Vercel deployment to re-fetch code from the same `.xyz` CDN and re-send the key — non-interactive runs skip the prompt and apply this automatically. The downloaded tarball's `dist/postinstall/` directory and `scripts.postinstall` entry are silently scrubbed from the `package.json` before the package manager sees it (src/download.js:11-19), concealing whatever lifecycle script the CDN delivered from npm/pnpm/bun audit and trust prompts. Before any user prompt, the flow also patches `pnpm-workspace.yaml` allowBuilds / `pnpm.onlyBuiltDependencies` / `trustedDependencies` to auto-trust `@heroui-pro/react` and `heroui-native-pro` (src/install.js:80-92, src/trust.js:1), elevating the privilege of CDN-delivered code without consent. The combination — non-publisher mutable code drop, license-key exfiltration to that same host, CI persistence, postinstall concealment, and silent trust-store mutation — is unambiguous attacker infrastructure impersonating HeroUI Pro.\n",
   "affected": [
@@ -21,10 +21,22 @@
         "4.5.5-beta.9",
         "4.5.5-beta.7",
         "4.5.5-beta.3",
-        "4.5.3-beta.7"
+        "4.5.3-beta.7",
+        "4.5.7-beta.1",
+        "4.6.0"
       ],
       "database_specific": {
         "cwes": [
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -144,6 +156,14 @@
     {
       "type": "PACKAGE",
       "url": "https://www.npmjs.com/package/hpsetup/v/4.5.3-beta.7"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/hpsetup/v/4.5.7-beta.1"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/hpsetup/v/4.6.0"
     }
   ],
   "database_specific": {
@@ -237,6 +257,26 @@
         "versions": [
           "4.5.3-beta.7"
         ]
+      },
+      {
+        "id": "IN-MAL-2026-005814",
+        "import_time": "2026-06-12T19:43:36.177888914Z",
+        "modified_time": "2026-06-12T19:02:31Z",
+        "sha256": "a1d2bb391167b94145f855e66553133a2afa977778eda22ef893950f649c11ed",
+        "source": "amazon-inspector",
+        "versions": [
+          "4.5.7-beta.1"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-005815",
+        "import_time": "2026-06-12T19:43:36.263550606Z",
+        "modified_time": "2026-06-12T19:02:33Z",
+        "sha256": "b2d9e7ba2793b481e2eebe1ae9e7393c389d9d525af665ab567d6609f8d2c8b4",
+        "source": "amazon-inspector",
+        "versions": [
+          "4.6.0"
+        ]
       }
     ]
   },
@@ -244,7 +284,8 @@
     {
       "name": "Amazon Inspector",
       "contact": [
-        "actran@amazon.com"
+        "actran@amazon.com",
+        "inspector-research@amazon.com"
       ],
       "type": "FINDER"
     }

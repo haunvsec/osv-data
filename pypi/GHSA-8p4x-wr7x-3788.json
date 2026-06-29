@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "GHSA-8p4x-wr7x-3788",
   "published": "2026-05-11T14:57:43Z",
-  "modified": "2026-06-03T12:56:21.144140390Z",
+  "modified": "2026-06-09T02:15:08.240405445Z",
   "aliases": [
     "CVE-2026-45017",
     "PYSEC-2026-192"
@@ -115,8 +115,16 @@
       "url": "https://github.com/jg-rp/liquid/security/advisories/GHSA-8p4x-wr7x-3788"
     },
     {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-45017"
+    },
+    {
       "type": "PACKAGE",
       "url": "https://github.com/jg-rp/liquid"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/pypa/advisory-database/tree/main/vulns/python-liquid/PYSEC-2026-192.yaml"
     }
   ],
   "database_specific": {
@@ -125,10 +133,14 @@
     ],
     "github_reviewed": true,
     "github_reviewed_at": "2026-05-11T14:57:43Z",
-    "nvd_published_at": null,
+    "nvd_published_at": "2026-05-28T16:16:25Z",
     "severity": "HIGH"
   },
   "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N"
+    },
     {
       "type": "CVSS_V4",
       "score": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N"

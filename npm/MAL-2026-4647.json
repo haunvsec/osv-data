@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4647",
   "published": "2026-05-20T08:34:26Z",
-  "modified": "2026-05-26T06:02:47.606365604Z",
+  "modified": "2026-06-26T12:26:01.285886193Z",
+  "withdrawn": "2026-06-22T18:46:10Z",
   "summary": "Malicious code in prjct-cli (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (72b60bff5e0e18ecdc993dc505651612acba538fd6c5e46c4ea69619c453f8f9)\nOn `npm install`, scripts/postinstall.js invokes scripts/ensure-bun.sh, which runs `curl -fsSL https://bun.sh/install | bash` with no version pin and no hash/signature verification. The bin shim (bin/prjct) subsequently prefers the freshly installed `bun` over `node` and uses it to execute the package's sibling dist/bin/prjct.mjs. This is the alternate-runtime-dropper shape: arbitrary bytes served by the upstream URL at install time become a runtime that then executes package code, bypassing Node-aware tooling and any pinned-version assumptions. Whatever bun.sh serves at the moment of install is granted execution on the installer's machine. Even though the destination is the genuine Bun publisher, the unpinned curl|bash pattern means the installer has no way to verify what bytes are executed; a future compromise of bun.sh, a TLS interception, or a mutable installer script change all silently ship arbitrary code into the install. The bin shim additionally mutates $HOME (writing into ~/.claude, ~/.codex, ~/.prjct-cli, creating symlinks in $HOME) on every invocation — content is package-owned and matches the advertised AI-agent integration purpose, but it is aggressive install practice worth flagging.\n",
   "affected": [
@@ -46,7 +47,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/prjct-cli/MAL-2026-4647.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/prjct-cli/MAL-2026-4647.json"
       }
     }
   ],

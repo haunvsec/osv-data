@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-2930",
   "published": "2026-04-14T10:53:25Z",
-  "modified": "2026-05-26T06:02:49.021846121Z",
+  "modified": "2026-06-08T21:31:25.564509833Z",
   "summary": "Malicious code in path-internal (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (5393cf6d8cf49c2550e7cc90ff3de58b1e97bdc89183f63beae60b3e46b9d2e0)\nThe package presents itself as a copy of the Node.js core `path` module (name `path-internal`, README: \"exact copy of the NodeJS 'path' module\") and ships the upstream Joyent path implementation with a malicious dropper spliced between `posix.basename` and `posix.extname` in `path.js`. On `require('path-internal')`, the module decodes a base64-encoded URL (`https://www.jsonkeeper.com/b/YCW2F`, stored under the misleading variable name `randomStringRe`), fetches the JSON document at that URL, and passes `data.content` straight to `eval()`. A second identical IIFE for `https://www.jsonkeeper.com/b/TPQHE` is present (commented out) under `tokenStringRe`. jsonkeeper.com is an anonymous, mutable paste host: the attacker can change the served payload at any time to execute arbitrary code in-process on every installer that imports the package. The base64 obfuscation, the regex-shaped decoy variable names, the splice into a verbatim copy of a Node stdlib module, and the typosquat name (with the README also confusingly suggesting `npm install --save path-external`) collectively confirm malicious intent rather than negligence.\n\n## Source: ossf-package-analysis (37a46ea303cb680cff00791b29be183770a5eb1edaef69ce37b97327243deeea)\nThe OpenSSF Package Analysis project identified 'path-internal' @ 1.0.10 (npm) as malicious.\n\nIt is considered malicious because:\n\n- The package communicates with a domain associated with malicious activity.\n\n- The package executes one or more commands associated with malicious behavior.\n",
   "affected": [
@@ -17,10 +17,16 @@
         "1.0.11",
         "1.0.12",
         "1.0.14",
-        "1.0.13"
+        "1.0.13",
+        "1.0.15"
       ],
       "database_specific": {
         "cwes": [
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -70,6 +76,10 @@
     {
       "type": "PACKAGE",
       "url": "https://www.npmjs.com/package/path-internal/v/1.0.13"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/path-internal/v/1.0.15"
     }
   ],
   "database_specific": {
@@ -159,6 +169,26 @@
         "versions": [
           "1.0.13"
         ]
+      },
+      {
+        "id": "IN-MAL-2026-004938",
+        "import_time": "2026-06-08T21:15:22.39933678Z",
+        "modified_time": "2026-06-08T20:30:15Z",
+        "sha256": "185fac17d53eeb731bbed369b674ab4669fa08230adb48a218362850eced5116",
+        "source": "amazon-inspector",
+        "versions": [
+          "1.0.15"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-004939",
+        "import_time": "2026-06-08T21:15:22.484880632Z",
+        "modified_time": "2026-06-08T20:30:16Z",
+        "sha256": "e966da8efc781225d9f41e938d651f4d9e98046c3b7ed345733bd2846c935b95",
+        "source": "amazon-inspector",
+        "versions": [
+          "1.0.15"
+        ]
       }
     ]
   },
@@ -166,7 +196,8 @@
     {
       "name": "Amazon Inspector",
       "contact": [
-        "actran@amazon.com"
+        "actran@amazon.com",
+        "inspector-research@amazon.com"
       ],
       "type": "FINDER"
     },

@@ -2,8 +2,9 @@
   "schema_version": "1.7.5",
   "id": "GHSA-38m6-82c8-4xfm",
   "published": "2026-05-23T00:11:25Z",
-  "modified": "2026-05-23T00:15:16.624178165Z",
+  "modified": "2026-06-16T13:26:25.320958741Z",
   "aliases": [
+    "BIT-parse-2026-47138",
     "CVE-2026-47138"
   ],
   "summary": "Parse Server: Pre-authentication denial of service via client version header regex backtracking",
@@ -62,6 +63,10 @@
       "url": "https://github.com/parse-community/parse-server/security/advisories/GHSA-38m6-82c8-4xfm"
     },
     {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-47138"
+    },
+    {
       "type": "WEB",
       "url": "https://github.com/parse-community/parse-server/pull/10463"
     },
@@ -80,7 +85,7 @@
     ],
     "github_reviewed": true,
     "github_reviewed_at": "2026-05-23T00:11:25Z",
-    "nvd_published_at": null,
+    "nvd_published_at": "2026-06-12T19:16:28Z",
     "severity": "HIGH"
   },
   "severity": [

@@ -2,9 +2,10 @@
   "schema_version": "1.7.5",
   "id": "PYSEC-2024-309",
   "published": "2024-05-06T15:15:24.420Z",
-  "modified": "2026-05-21T15:00:17.650435568Z",
+  "modified": "2026-06-10T17:02:32.771511236Z",
   "aliases": [
-    "CVE-2024-34252"
+    "CVE-2024-34252",
+    "GHSA-hh39-vjv8-j337"
   ],
   "details": "wasm3 v0.5.0 was discovered to contain a global buffer overflow which leads to segmentation fault via the function \"PreserveRegisterIfOccupied\" in wasm3/source/m3_compile.c.",
   "affected": [
@@ -44,6 +45,10 @@
     {
       "type": "REPORT",
       "url": "https://github.com/wasm3/wasm3/issues/483"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://github.com/advisories/GHSA-hh39-vjv8-j337"
     }
   ],
   "severity": [

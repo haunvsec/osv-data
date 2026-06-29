@@ -1,42 +1,22 @@
 {
-  "last_crawl_time": "2026-06-25T11:41:15Z",
-  "last_attempt_time": "2026-06-25T11:41:15Z",
+  "last_crawl_time": "2026-06-25T16:39:37Z",
+  "last_attempt_time": "2026-06-29T04:17:52Z",
   "source": "osv-vulnerabilities-gcs",
   "source_url": "https://storage.googleapis.com/osv-vulnerabilities",
-  "method": "incremental",
+  "method": "incremental_interrupted",
   "ecosystems": [
-    "almalinux",
-    "alpine",
-    "android",
-    "azure-linux",
-    "debian",
-    "git",
-    "github-actions",
-    "go",
-    "linux",
     "maven",
     "npm",
-    "nuget",
     "pypi",
     "redhat"
   ],
   "ecosystem_counts": {
-    "almalinux": 5104,
-    "alpine": 4286,
-    "android": 3403,
-    "azure-linux": 12016,
-    "debian": 58050,
-    "git": 84157,
-    "github-actions": 52,
-    "go": 7147,
-    "linux": 17698,
-    "npm": 220209,
-    "nuget": 1746,
-    "maven": 6624,
-    "pypi": 20342,
+    "maven": 6712,
+    "npm": 221619,
+    "pypi": 20787,
     "redhat": 20380
   },
-  "total_vulnerabilities": 461214,
+  "total_vulnerabilities": 269498,
   "ecosystem_state": {
     "maven": {
       "last_attempt_time": "2026-06-08T10:45:36Z",
@@ -56,15 +36,6 @@
       "last_successful_crawl_time": "2026-06-08T10:53:55Z",
       "last_modified_time": "2026-06-08T10:01:26.133086568Z"
     },
-    "nuget": {
-      "last_attempt_time": "2026-06-08T10:54:00Z",
-      "last_method": "incremental",
-      "last_downloaded": 7,
-      "last_skipped": 0,
-      "last_indexed": 0,
-      "last_successful_crawl_time": "2026-06-08T10:54:00Z",
-      "last_modified_time": "2026-06-05T20:45:11.485704788Z"
-    },
     "pypi": {
       "last_attempt_time": "2026-06-08T10:59:09Z",
       "last_method": "incremental",
@@ -82,114 +53,14 @@
       "last_indexed": 0,
       "last_successful_crawl_time": "2026-06-08T12:04:41Z",
       "last_modified_time": "2026-06-08T10:29:21.513685508Z"
-    },
-    "almalinux": {
-      "last_attempt_time": "2026-06-25T08:10:24Z",
-      "last_method": "incremental",
-      "last_downloaded": 90,
-      "last_skipped": 5,
-      "last_indexed": 0,
-      "last_successful_crawl_time": "2026-06-25T08:10:24Z",
-      "last_modified_time": "2026-06-24T14:15:04.419854633Z"
-    },
-    "alpine": {
-      "last_attempt_time": "2026-06-25T09:40:04Z",
-      "last_method": "incremental",
-      "last_downloaded": 3522,
-      "last_skipped": 32,
-      "last_indexed": 0,
-      "last_successful_crawl_time": "2026-06-25T09:40:04Z",
-      "last_modified_time": "2026-06-23T14:30:04.732568951Z"
-    },
-    "android": {
-      "last_attempt_time": "2026-06-25T11:41:10Z",
-      "last_method": "incremental",
-      "last_downloaded": 3384,
-      "last_skipped": 18,
-      "last_indexed": 0,
-      "last_successful_crawl_time": "2026-06-25T11:41:10Z",
-      "last_modified_time": "2026-06-24T15:00:40.818157658Z"
-    },
-    "azure-linux": {
-      "last_attempt_time": "2026-06-25T11:41:15Z",
-      "last_method": "incremental",
-      "last_downloaded": 0,
-      "last_skipped": 0,
-      "last_indexed": 0,
-      "last_successful_crawl_time": "2026-06-25T11:41:15Z"
-    },
-    "debian": {
-      "last_attempt_time": "2026-06-08T10:04:11Z",
-      "last_method": "incremental",
-      "last_downloaded": 3421,
-      "last_skipped": 23,
-      "last_indexed": 0,
-      "last_successful_crawl_time": "2026-06-08T10:04:11Z",
-      "last_modified_time": "2026-06-08T05:00:07.277071152Z"
-    },
-    "git": {
-      "last_attempt_time": "2026-06-08T10:41:21Z",
-      "last_method": "incremental",
-      "last_downloaded": 797,
-      "last_skipped": 7,
-      "last_indexed": 0,
-      "last_successful_crawl_time": "2026-06-08T10:41:21Z",
-      "last_modified_time": "2026-06-08T08:56:24.48434925Z"
-    },
-    "github-actions": {
-      "last_attempt_time": "2026-06-08T10:41:22Z",
-      "last_method": "incremental",
-      "last_downloaded": 0,
-      "last_skipped": 0,
-      "last_indexed": 0,
-      "last_successful_crawl_time": "2026-06-08T10:41:22Z"
-    },
-    "go": {
-      "last_attempt_time": "2026-06-08T10:42:58Z",
-      "last_method": "incremental",
-      "last_downloaded": 152,
-      "last_skipped": 1,
-      "last_indexed": 0,
-      "last_successful_crawl_time": "2026-06-08T10:42:58Z",
-      "last_modified_time": "2026-06-08T08:44:25.055224065Z"
-    },
-    "linux": {
-      "last_attempt_time": "2026-06-08T10:45:17Z",
-      "last_method": "incremental",
-      "last_downloaded": 92,
-      "last_skipped": 0,
-      "last_indexed": 0,
-      "last_successful_crawl_time": "2026-06-08T10:45:17Z",
-      "last_modified_time": "2026-06-07T23:29:19.856115632Z"
     }
   },
   "last_run": {
-    "started_at": "2026-06-25T11:41:12Z",
-    "output_dir": "/Volumes/DATA/security_advisory/osv-data",
-    "method": "incremental",
-    "ecosystems": [
-      "azure-linux"
+    "method": "incremental_interrupted",
+    "errors": [
+      "Interrupted during PyPI incremental crawl after network stalls; rerun incremental to retry remaining records."
     ],
-    "ecosystem_results": [
-      {
-        "ecosystem": "azure-linux",
-        "method": "incremental",
-        "downloaded": 0,
-        "skipped": 0,
-        "indexed": 0,
-        "existing": 0,
-        "latest_modified_time": null,
-        "success": true
-      }
-    ],
-    "vulns_downloaded": 0,
-    "vulns_skipped": 0,
-    "errors": [],
-    "dry_run": false,
-    "limit": null,
-    "sync_missing": false,
-    "missing_only": false,
-    "finished_at": "2026-06-25T11:41:15Z",
-    "duration_seconds": 2.9
+    "ecosystem_results": [],
+    "last_run_note": "OSV scope limited to maven/npm/pypi/redhat; interrupted rerun after partial Maven/npm/PyPI updates due network timeouts."
   }
 }

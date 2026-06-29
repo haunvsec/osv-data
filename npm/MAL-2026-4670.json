@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4670",
   "published": "2026-05-25T18:53:42Z",
-  "modified": "2026-05-27T13:46:42.897117933Z",
+  "modified": "2026-06-10T19:31:29.106297309Z",
   "aliases": [
     "GHSA-wxv4-4mmm-mmm9"
   ],
@@ -31,6 +31,11 @@
       ],
       "database_specific": {
         "cwes": [
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -76,6 +81,10 @@
     {
       "type": "ADVISORY",
       "url": "https://github.com/advisories/GHSA-wxv4-4mmm-mmm9"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/skills-detector/v/2.0.5"
     }
   ],
   "database_specific": {
@@ -125,6 +134,16 @@
         ],
         "sha256": "65daf45d03c11c27cbf1be53eefe496baf57ab0319078e92875e2cb3dd72aec1",
         "source": "ghsa-malware"
+      },
+      {
+        "id": "IN-MAL-2026-005291",
+        "import_time": "2026-06-10T19:23:48.566482589Z",
+        "modified_time": "2026-06-10T18:38:54Z",
+        "sha256": "17406a66f0d8d9c58cd4da3485ece81fa8ae3e68fe441a371ac7b7dea2c55c70",
+        "source": "amazon-inspector",
+        "versions": [
+          "2.0.5"
+        ]
       }
     ]
   },
@@ -132,7 +151,8 @@
     {
       "name": "Amazon Inspector",
       "contact": [
-        "actran@amazon.com"
+        "actran@amazon.com",
+        "inspector-research@amazon.com"
       ],
       "type": "FINDER"
     },

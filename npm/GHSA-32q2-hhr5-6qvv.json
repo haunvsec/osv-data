@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "GHSA-32q2-hhr5-6qvv",
   "published": "2026-05-21T17:57:32Z",
-  "modified": "2026-05-21T18:00:09.031325886Z",
+  "modified": "2026-06-09T18:45:30.920667510Z",
   "aliases": [
     "CVE-2026-46492"
   ],
@@ -39,8 +39,16 @@
       "url": "https://github.com/commenthol/md-fileserver/security/advisories/GHSA-32q2-hhr5-6qvv"
     },
     {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-46492"
+    },
+    {
       "type": "PACKAGE",
       "url": "https://github.com/commenthol/md-fileserver"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/commenthol/md-fileserver/releases/tag/v1.10.3"
     }
   ],
   "database_specific": {
@@ -50,7 +58,7 @@
     ],
     "github_reviewed": true,
     "github_reviewed_at": "2026-05-21T17:57:32Z",
-    "nvd_published_at": null,
+    "nvd_published_at": "2026-06-09T17:17:33Z",
     "severity": "HIGH"
   },
   "severity": [

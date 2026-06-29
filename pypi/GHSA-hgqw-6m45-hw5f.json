@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "GHSA-hgqw-6m45-hw5f",
   "published": "2026-05-11T14:28:30Z",
-  "modified": "2026-06-02T12:26:19.814673559Z",
+  "modified": "2026-06-09T00:00:19.279437069Z",
   "aliases": [
     "CVE-2026-44353",
     "PYSEC-2026-180"
@@ -148,17 +148,26 @@
       "url": "https://github.com/streamlink/streamlink/security/advisories/GHSA-hgqw-6m45-hw5f"
     },
     {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-44353"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/pypa/advisory-database/tree/main/vulns/streamlink/PYSEC-2026-180.yaml"
+    },
+    {
       "type": "PACKAGE",
       "url": "https://github.com/streamlink/streamlink"
     }
   ],
   "database_specific": {
     "cwe_ids": [
+      "CWE-22",
       "CWE-73"
     ],
     "github_reviewed": true,
     "github_reviewed_at": "2026-05-11T14:28:30Z",
-    "nvd_published_at": null,
+    "nvd_published_at": "2026-05-27T17:16:38Z",
     "severity": "MODERATE"
   },
   "severity": [

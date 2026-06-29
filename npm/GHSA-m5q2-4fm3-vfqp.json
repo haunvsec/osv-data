@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "GHSA-m5q2-4fm3-vfqp",
   "published": "2026-05-29T17:44:32Z",
-  "modified": "2026-05-29T18:00:18.273214568Z",
+  "modified": "2026-06-12T19:45:09.840803860Z",
   "aliases": [
     "CVE-2026-47135"
   ],
@@ -40,6 +40,10 @@
       "url": "https://github.com/patriksimek/vm2/security/advisories/GHSA-m5q2-4fm3-vfqp"
     },
     {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-47135"
+    },
+    {
       "type": "WEB",
       "url": "https://github.com/patriksimek/vm2/commit/928aef51898b5c52a05f05a40c4cfeb52e172878"
     },
@@ -58,7 +62,7 @@
     ],
     "github_reviewed": true,
     "github_reviewed_at": "2026-05-29T17:44:32Z",
-    "nvd_published_at": null,
+    "nvd_published_at": "2026-06-12T15:16:28Z",
     "severity": "HIGH"
   },
   "severity": [

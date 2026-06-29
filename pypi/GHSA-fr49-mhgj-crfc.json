@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "GHSA-fr49-mhgj-crfc",
   "published": "2026-06-04T14:39:42Z",
-  "modified": "2026-06-04T14:45:08.275943823Z",
+  "modified": "2026-06-09T12:00:16.211327475Z",
   "aliases": [
     "CVE-2026-47707"
   ],
@@ -471,6 +471,10 @@
       "url": "https://github.com/strawberry-graphql/strawberry/security/advisories/GHSA-fr49-mhgj-crfc"
     },
     {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-47707"
+    },
+    {
       "type": "PACKAGE",
       "url": "https://github.com/strawberry-graphql/strawberry"
     },
@@ -485,7 +489,7 @@
     ],
     "github_reviewed": true,
     "github_reviewed_at": "2026-06-04T14:39:42Z",
-    "nvd_published_at": null,
+    "nvd_published_at": "2026-06-04T15:16:55Z",
     "severity": "MODERATE"
   },
   "severity": [

@@ -2,9 +2,10 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4682",
   "published": "2026-05-20T11:24:49Z",
-  "modified": "2026-05-26T06:02:57.889049302Z",
+  "modified": "2026-06-26T12:26:01.949570969Z",
+  "withdrawn": "2026-06-18T19:50:12Z",
   "summary": "Malicious code in tango-app-api-trax (npm)",
-  "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (5c14d60a97b056e00cb3055bd07605c2f16482794e5860fee68cab46f308893d)\nThe package tarball includes a Google Cloud service-account JSON file (fir-51e77-firebase-adminsdk-x3sdp-fd902b74ae.json) containing a live RSA private key for the service account firebase-adminsdk-k7lom@tango-trax.iam.gserviceaccount.com in the tango-trax Firebase/GCP project. Any installer receives admin credentials in their node_modules and can authenticate against the project's Firestore, Realtime Database, FCM, Auth, and Storage with full Admin SDK privileges — meaning end-users of the Tango/Trax service can be read or modified by anyone who installs this package. This is third-party credential redistribution, distinct from author self-harm: the credentials grant access to a production system holding other users' data, not just to the author's personal accounts. The package additionally hardcodes an AWS Lambda function URL (https://f65azvtljclaxp6l7rnx65cdmm0lcgvp.lambda-url.ap-south-1.on.aws) referenced from POST/fetch calls in src/controllers/teaxFlag.controller.js, indicating the package is an internal backend that should never have been published to a public registry.\n",
+  "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (e7d8f3ef8e6fa016bfc17617ebcedce012c6cce870d89564965a476c3ec8da1c)\nThe tarball contains live, importable credentials for systems other than the installer's own. src/controllers/internalTrax.controller.js hardcodes Lenskart POS authentication (username `tango.eye`, password `55eyetango123`, header `X-Lenskart-API-Key: valyoo123`) inside the exported controllers `aomupdateCollection` and `saleUpdateCollection`, which post to `webservice.pos.lenskart.com` and `central.pos.lenskart.com`. Any consumer of this npm package can use these credentials to authenticate to Lenskart's production POS API as the `tango.eye` partner and read or mutate employee/store data. Additionally, `fir-51e77-firebase-adminsdk-x3sdp-fd902b74ae.json` ships a complete Google Cloud service account (`project_id: tango-trax`, `client_email: firebase-adminsdk-k7lom@tango-trax.iam.gserviceaccount.com`) including the `BEGIN PRIVATE KEY` block, granting Firebase Admin privileges over the `tango-trax` GCP project to anyone who pulls the package. There are no install-time lifecycle hooks; the harm is the redistribution of usable third-party credentials, not auto-execution. The `ping` matches in the static analysis are unrelated string occurrences in the controller and not exfiltration behavior.\n",
   "affected": [
     {
       "package": {
@@ -13,10 +14,46 @@
         "purl": "pkg:npm/tango-app-api-trax"
       },
       "versions": [
-        "3.9.10"
+        "3.9.10",
+        "3.9.43",
+        "3.9.39",
+        "3.9.21",
+        "3.9.32",
+        "3.9.45",
+        "3.9.47"
       ],
       "database_specific": {
         "cwes": [
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -47,7 +84,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/tango-app-api-trax/MAL-2026-4682.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/tango-app-api-trax/MAL-2026-4682.json"
       }
     }
   ],
@@ -55,6 +92,30 @@
     {
       "type": "PACKAGE",
       "url": "https://www.npmjs.com/package/tango-app-api-trax/v/3.9.10"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/tango-app-api-trax/v/3.9.43"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/tango-app-api-trax/v/3.9.32"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/tango-app-api-trax/v/3.9.39"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/tango-app-api-trax/v/3.9.21"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/tango-app-api-trax/v/3.9.45"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/tango-app-api-trax/v/3.9.47"
     }
   ],
   "database_specific": {
@@ -78,6 +139,106 @@
         "versions": [
           "3.9.10"
         ]
+      },
+      {
+        "id": "IN-MAL-2026-005913",
+        "import_time": "2026-06-12T19:43:46.93326654Z",
+        "modified_time": "2026-06-12T19:04:44Z",
+        "sha256": "4c8a53d02c48fb2675fdafcb4bedc1a372ffec81f4b51e5a947587ff9bd7c8d0",
+        "source": "amazon-inspector",
+        "versions": [
+          "3.9.43"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-005912",
+        "import_time": "2026-06-12T19:43:46.810086937Z",
+        "modified_time": "2026-06-12T19:04:43Z",
+        "sha256": "56ff749fcfeb03bfd58b84b3f6a525d1cfc13c3c0c9bc6f433be5a87c47ee82a",
+        "source": "amazon-inspector",
+        "versions": [
+          "3.9.39"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-005908",
+        "import_time": "2026-06-12T19:43:46.421159582Z",
+        "modified_time": "2026-06-12T19:04:40Z",
+        "sha256": "6f73fa77749a62c88ad6af00fead67036139af36f0396fc49e33e0e46b3465db",
+        "source": "amazon-inspector",
+        "versions": [
+          "3.9.21"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-005910",
+        "import_time": "2026-06-12T19:43:46.622064305Z",
+        "modified_time": "2026-06-12T19:04:42Z",
+        "sha256": "73b67187cfd04d79bb02a0caa5abbb5933425803dd317eb58d30fa9f9d817667",
+        "source": "amazon-inspector",
+        "versions": [
+          "3.9.32"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-005909",
+        "import_time": "2026-06-12T19:43:46.533219552Z",
+        "modified_time": "2026-06-12T19:04:41Z",
+        "sha256": "883f56cb8e1659025ca618281b73f32936557ff10e794e837bac3604ff4eae08",
+        "source": "amazon-inspector",
+        "versions": [
+          "3.9.32"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-005914",
+        "import_time": "2026-06-12T19:43:47.043383845Z",
+        "modified_time": "2026-06-12T19:04:45Z",
+        "sha256": "e434eeea1e86591e8b74ef3db615d94fa39cc931756cc1d6f3ad0e614c465364",
+        "source": "amazon-inspector",
+        "versions": [
+          "3.9.43"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-005911",
+        "import_time": "2026-06-12T19:43:46.718354218Z",
+        "modified_time": "2026-06-12T19:04:43Z",
+        "sha256": "e7d8f3ef8e6fa016bfc17617ebcedce012c6cce870d89564965a476c3ec8da1c",
+        "source": "amazon-inspector",
+        "versions": [
+          "3.9.39"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-005907",
+        "import_time": "2026-06-12T19:43:46.307105922Z",
+        "modified_time": "2026-06-12T19:04:39Z",
+        "sha256": "0817dca8f1b99d1569ea4cd127a509e41e922c518356eeaae071a70585840f12",
+        "source": "amazon-inspector",
+        "versions": [
+          "3.9.21"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-006688",
+        "import_time": "2026-06-15T20:14:27.899469605Z",
+        "modified_time": "2026-06-15T19:51:09Z",
+        "sha256": "5c83c2a0f33cb7c69d2bc22cf4fe27db725e1f6507b4dd3e53fb27b1247e0f89",
+        "source": "amazon-inspector",
+        "versions": [
+          "3.9.45"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-006687",
+        "import_time": "2026-06-15T20:14:27.807545212Z",
+        "modified_time": "2026-06-15T19:51:09Z",
+        "sha256": "deb6a7f427c5a783c85ec35bb7cc43c33922a1fb5303ff90e50991057c323f0f",
+        "source": "amazon-inspector",
+        "versions": [
+          "3.9.47"
+        ]
       }
     ]
   },
@@ -85,7 +246,8 @@
     {
       "name": "Amazon Inspector",
       "contact": [
-        "actran@amazon.com"
+        "actran@amazon.com",
+        "inspector-research@amazon.com"
       ],
       "type": "FINDER"
     }

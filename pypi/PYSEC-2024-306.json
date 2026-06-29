@@ -2,9 +2,10 @@
   "schema_version": "1.7.5",
   "id": "PYSEC-2024-306",
   "published": "2024-11-08T22:15:15.520Z",
-  "modified": "2026-05-21T15:00:24.145765593Z",
+  "modified": "2026-06-10T17:02:32.707917566Z",
   "aliases": [
-    "CVE-2024-27530"
+    "CVE-2024-27530",
+    "GHSA-46r6-92jg-22jg"
   ],
   "details": "wasm3 139076a contains a Use-After-Free in ForEachModule.",
   "affected": [
@@ -48,6 +49,10 @@
     {
       "type": "REPORT",
       "url": "https://github.com/wasm3/wasm3/issues/458"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://github.com/advisories/GHSA-46r6-92jg-22jg"
     }
   ],
   "severity": [

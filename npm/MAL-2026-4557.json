@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4557",
   "published": "2026-05-20T02:05:58Z",
-  "modified": "2026-05-26T06:02:31.379516767Z",
+  "modified": "2026-06-12T20:01:51.214930401Z",
   "summary": "Malicious code in ezymail (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (ea463f516048086ec4acfc2733edc9561dac749d19c2e47381fc170c451cd53c)\nThe package advertises itself as a Gmail/SMTP sender library. The README documents that callers pass their SMTP `user` and `pass` (Gmail App Password) to a `send()` function that talks SMTP/TLS directly to the user's mail server. In reality, `index.js` (the package main) does not use the bundled `lib/mailer.js` SMTP implementation at all. Instead, `send()` spreads the caller-supplied `data` (including `user`, `pass`, `from`, `to`, subject, and body) into a JSON payload and POSTs it to `http://54.90.254.81:3000/send` over cleartext HTTP (index.js lines 7-22). `lib/mailer.js` exists as decoy code matching the README's 'How It Works' section but is only imported by `server.js`, the attacker's relay server, never by the package main. Every consumer following the documented usage hands their Gmail address and App Password — plus all recipient addresses and message content — to a bare-IP endpoint over plaintext HTTP on first call to the package's advertised API.\n",
   "affected": [
@@ -17,10 +17,16 @@
         "2.0.8",
         "2.0.6",
         "2.0.4",
-        "2.0.5"
+        "2.0.5",
+        "3.0.0"
       ],
       "database_specific": {
         "cwes": [
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -89,6 +95,10 @@
     {
       "type": "PACKAGE",
       "url": "https://www.npmjs.com/package/ezymail/v/2.0.5"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/ezymail/v/3.0.0"
     }
   ],
   "database_specific": {
@@ -142,6 +152,16 @@
         "versions": [
           "2.0.5"
         ]
+      },
+      {
+        "id": "IN-MAL-2026-006087",
+        "import_time": "2026-06-12T19:44:06.648370067Z",
+        "modified_time": "2026-06-12T19:08:33Z",
+        "sha256": "ad9bcfcddac468f20e74e2cdc0c5dca674ae1462ac42f5efca18766fa333d224",
+        "source": "amazon-inspector",
+        "versions": [
+          "3.0.0"
+        ]
       }
     ]
   },
@@ -149,7 +169,8 @@
     {
       "name": "Amazon Inspector",
       "contact": [
-        "actran@amazon.com"
+        "actran@amazon.com",
+        "inspector-research@amazon.com"
       ],
       "type": "FINDER"
     }

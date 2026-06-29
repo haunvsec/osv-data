@@ -2,9 +2,10 @@
   "schema_version": "1.7.5",
   "id": "PYSEC-2023-315",
   "published": "2023-03-14T05:15:29.877Z",
-  "modified": "2026-05-21T15:00:28.167120651Z",
+  "modified": "2026-06-10T17:02:40.448792564Z",
   "aliases": [
-    "CVE-2023-25617"
+    "CVE-2023-25617",
+    "GHSA-xxhh-59gh-6ffx"
   ],
   "details": "SAP Business Object (Adaptive Job Server) - versions 420, 430, allows remote execution of arbitrary commands on Unix, when program objects execution is enabled, to authenticated users with scheduling rights, using the BI Launchpad, Central Management Console or a custom application based on the public java SDK. Programs could impact the confidentiality, integrity and availability of the system.\n\n",
   "affected": [
@@ -52,6 +53,10 @@
     {
       "type": "REPORT",
       "url": "https://launchpad.support.sap.com/#/notes/3283438"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://github.com/advisories/GHSA-xxhh-59gh-6ffx"
     }
   ],
   "severity": [

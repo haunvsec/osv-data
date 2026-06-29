@@ -2,9 +2,12 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4531",
   "published": "2026-05-19T19:05:59Z",
-  "modified": "2026-05-26T06:02:24.530113667Z",
+  "modified": "2026-06-09T15:31:28.932296043Z",
+  "aliases": [
+    "GHSA-8jmh-pvvx-wjrf"
+  ],
   "summary": "Malicious code in clsx-js (npm)",
-  "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (23e4e85f63d161234d84c774fdff696827934a27282be2ce9ff362a756246ee6)\nOn `npm install`, dist/postinstall.js base64-decodes the URL https://api.npoint.io/984b75c022a70cf00c39, fetches JSON from this anonymous mutable JSON-hosting service via axios, and pipes the response's `data.content` into a detached `node` child process's stdin for execution. The fetch has no version pin, no hash/signature verification, and the source is operator-mutable — the attacker can swap the executed payload at any time. The package additionally typosquats the widely-used `clsx` utility (by Luke Edwards): name is a one-token edit, and the description, author name, email, and homepage are copied verbatim from the legitimate `clsx` to impersonate the upstream maintainer. The genuine `clsx` ships no postinstall; this fork adds one whose only purpose is the remote-code dropper. A malformed `Dependencies` (capital-D) field also lists `child_process`, a known squat name. Installing this package on any machine results in arbitrary attacker-controlled code execution under the installer's user account.\n",
+  "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (23e4e85f63d161234d84c774fdff696827934a27282be2ce9ff362a756246ee6)\nOn `npm install`, dist/postinstall.js base64-decodes the URL https://api.npoint.io/984b75c022a70cf00c39, fetches JSON from this anonymous mutable JSON-hosting service via axios, and pipes the response's `data.content` into a detached `node` child process's stdin for execution. The fetch has no version pin, no hash/signature verification, and the source is operator-mutable — the attacker can swap the executed payload at any time. The package additionally typosquats the widely-used `clsx` utility (by Luke Edwards): name is a one-token edit, and the description, author name, email, and homepage are copied verbatim from the legitimate `clsx` to impersonate the upstream maintainer. The genuine `clsx` ships no postinstall; this fork adds one whose only purpose is the remote-code dropper. A malformed `Dependencies` (capital-D) field also lists `child_process`, a known squat name. Installing this package on any machine results in arbitrary attacker-controlled code execution under the installer's user account.\n\n## Source: ghsa-malware (64650ce568f6dcb32276c86bc8e12ed0ea072a19425670e47310e7f4b3b01715)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
   "affected": [
     {
       "package": {
@@ -12,6 +15,16 @@
         "ecosystem": "npm",
         "purl": "pkg:npm/clsx-js"
       },
+      "ranges": [
+        {
+          "type": "SEMVER",
+          "events": [
+            {
+              "introduced": "0"
+            }
+          ]
+        }
+      ],
       "versions": [
         "1.0.4",
         "1.0.3",
@@ -19,6 +32,11 @@
       ],
       "database_specific": {
         "cwes": [
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -74,6 +92,10 @@
     {
       "type": "PACKAGE",
       "url": "https://www.npmjs.com/package/clsx-js/v/1.0.5"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://github.com/advisories/GHSA-8jmh-pvvx-wjrf"
     }
   ],
   "database_specific": {
@@ -107,6 +129,23 @@
         "versions": [
           "1.0.5"
         ]
+      },
+      {
+        "id": "GHSA-8jmh-pvvx-wjrf",
+        "import_time": "2026-06-09T15:22:39.843009832Z",
+        "modified_time": "2026-06-09T14:47:43Z",
+        "ranges": [
+          {
+            "events": [
+              {
+                "introduced": "0"
+              }
+            ],
+            "type": "SEMVER"
+          }
+        ],
+        "sha256": "64650ce568f6dcb32276c86bc8e12ed0ea072a19425670e47310e7f4b3b01715",
+        "source": "ghsa-malware"
       }
     ]
   },

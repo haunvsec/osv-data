@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "GHSA-wjx4-4jcj-g98j",
   "published": "2026-05-04T20:18:45Z",
-  "modified": "2026-05-27T13:56:18.230226284Z",
+  "modified": "2026-06-08T23:45:16.414580348Z",
   "aliases": [
     "BIT-pillow-2026-42308",
     "CVE-2026-42308",
@@ -153,6 +153,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-42308"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/pypa/advisory-database/tree/main/vulns/pillow/PYSEC-2026-165.yaml"
     },
     {
       "type": "PACKAGE",

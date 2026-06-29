@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "GHSA-78f9-r8mh-4xm2",
   "published": "2026-05-11T14:27:06Z",
-  "modified": "2026-06-03T12:56:02.208496961Z",
+  "modified": "2026-06-09T00:00:24.171992237Z",
   "aliases": [
     "CVE-2026-44345",
     "PYSEC-2026-189"
@@ -265,8 +265,16 @@
       "url": "https://github.com/bentoml/BentoML/security/advisories/GHSA-w2pm-x38x-jp44"
     },
     {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-44345"
+    },
+    {
       "type": "PACKAGE",
       "url": "https://github.com/bentoml/BentoML"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/pypa/advisory-database/tree/main/vulns/bentoml/PYSEC-2026-189.yaml"
     }
   ],
   "database_specific": {
@@ -275,7 +283,7 @@
     ],
     "github_reviewed": true,
     "github_reviewed_at": "2026-05-11T14:27:06Z",
-    "nvd_published_at": null,
+    "nvd_published_at": "2026-05-27T18:16:23Z",
     "severity": "HIGH"
   },
   "severity": [

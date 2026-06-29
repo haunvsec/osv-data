@@ -2,10 +2,10 @@
   "schema_version": "1.7.5",
   "id": "PYSEC-2024-263",
   "published": "2024-03-14T19:15:50.877Z",
-  "modified": "2026-05-21T15:00:04.974172007Z",
+  "modified": "2026-06-28T16:56:13.882990546Z",
   "aliases": [
     "CVE-2024-28423",
-    "PYSEC-2024-270"
+    "PYSEC-2024-315"
   ],
   "details": "Airflow-Diagrams v2.1.0 was discovered to contain an arbitrary file upload vulnerability in the unsafe_load function at cli.py. This vulnerability allows attackers to execute arbitrary code via uploading a crafted YML file.",
   "affected": [
@@ -53,8 +53,12 @@
   ],
   "references": [
     {
-      "type": "PACKAGE",
+      "type": "REPORT",
       "url": "https://github.com/bayuncao/vul-cve-15"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://github.com/feluelle/airflow-diagrams"
     }
   ],
   "severity": [

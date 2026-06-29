@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4821",
   "published": "2026-05-26T14:39:03Z",
-  "modified": "2026-05-26T17:01:46.167812893Z",
+  "modified": "2026-06-15T00:15:55.965140369Z",
+  "withdrawn": "2026-06-13T01:41:13Z",
   "summary": "Malicious code in pywingui (PyPI)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (6db77876bf3b13e55750748761841f7ab77f17bd951bdc1c749e1e56d4416d7e)\npywingui 6.0.1 advertises itself as a Win32 UI automation framework but ships only Nuitka-compiled cp311-win32.pyd binaries (the 4.py files are trivial re-exports). Two undisclosed behaviors are embedded in those binaries:\n\n1) Silent relay of OCR data: ui/ocr_utils.cp311-win32.pyd embeds a hardcoded Nanonets bearer token ('Bearer bc65bc5e-1ba4-4284-96ec-3320920b32cd') and an OCR.space API key ('K83196308188957'), and config sets DEFAULT_OCR_PROVIDER='nanonets'. The OCR helpers (read_form_smart and related) upload caller-supplied window screenshots to https://extraction-api.nanonets.com/api/v1/extract/sync and https://api.ocr.space/Parse/Image using the author's own accounts, so any image the consumer OCRs through the documented API is delivered to the author's Nanonets dashboard. The README (which emphasizes Progress OpenEdge ERP automation) does not disclose this. The hardcoded third-party API keys are also redistributed to every installer.\n\n2) Undisclosed phone-home / kill-switch: core/runtime_guard.cp311-win32.pyd builds a machine fingerprint from socket.gethostname() + getpass.getuser() hashed with SHA-256 and POSTs {action:'check', app:'PYWINGUI', machine_id} to a hardcoded Google Apps Script endpoint (script.google.com/macros/s/AKfycbw_wxvGol9xUpiwvIJYSvV488bUzKt5-2n6Q9mw8_hSG9N22zUUce2hw0mbUgB4lDqB/exec). RuntimeGuard().validate() is invoked from Engine.__init__, which is constructed by the AppContext every consumer instantiates, so the beacon fires on normal first use. The result is cached Fernet-encrypted under ~/.pywingui/. README mentions no licensing or telemetry, and the server can deny access (kill-switch).\n\nThe compiled-only distribution hides both behaviors from source audit. This satisfies the silent-relay class (caller-supplied OCR data flowing to author-controlled SaaS via author credentials) and adds an undisclosed identifier-beacon with remote-disable capability.\n",
   "affected": [
@@ -14,10 +15,28 @@
       },
       "versions": [
         "6.0.0",
-        "6.0.1"
+        "6.0.1",
+        "6.1.33",
+        "6.1.34",
+        "6.1.26"
       ],
       "database_specific": {
         "cwes": [
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -93,7 +112,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/pypi/pywingui/MAL-2026-4821.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/pypi/pywingui/MAL-2026-4821.json"
       }
     }
   ],
@@ -105,6 +124,18 @@
     {
       "type": "PACKAGE",
       "url": "https://pypi.org/project/pywingui/6.0.1/"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://pypi.org/project/pywingui/6.1.33/"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://pypi.org/project/pywingui/6.1.34/"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://pypi.org/project/pywingui/6.1.26/"
     }
   ],
   "database_specific": {
@@ -128,6 +159,36 @@
         "versions": [
           "6.0.1"
         ]
+      },
+      {
+        "id": "IN-MAL-2026-005829",
+        "import_time": "2026-06-12T19:43:37.703426782Z",
+        "modified_time": "2026-06-12T19:02:50Z",
+        "sha256": "105e2db8ca3e59e96b8cecc42bc76644bff77ed93f3b5e21b1403d9eaed85077",
+        "source": "amazon-inspector",
+        "versions": [
+          "6.1.33"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-005830",
+        "import_time": "2026-06-12T19:43:37.83053477Z",
+        "modified_time": "2026-06-12T19:02:52Z",
+        "sha256": "b3f14b68f25f8d40384f635a95a635bc504685870fbe3131e228ce71b306a338",
+        "source": "amazon-inspector",
+        "versions": [
+          "6.1.34"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-005828",
+        "import_time": "2026-06-12T19:43:37.609900185Z",
+        "modified_time": "2026-06-12T19:02:48Z",
+        "sha256": "b5cbcf7b1108548ae88c4119fb452a70c589c3714015b691b062416947494e80",
+        "source": "amazon-inspector",
+        "versions": [
+          "6.1.26"
+        ]
       }
     ]
   },
@@ -135,7 +196,8 @@
     {
       "name": "Amazon Inspector",
       "contact": [
-        "actran@amazon.com"
+        "actran@amazon.com",
+        "inspector-research@amazon.com"
       ],
       "type": "FINDER"
     }

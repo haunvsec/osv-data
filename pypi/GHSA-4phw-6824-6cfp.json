@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "GHSA-4phw-6824-6cfp",
   "published": "2026-04-10T03:31:10Z",
-  "modified": "2026-06-06T10:41:21.816756170Z",
+  "modified": "2026-06-09T12:00:12.484964469Z",
   "aliases": [
     "CVE-2026-33551",
     "PYSEC-2026-202"
@@ -94,6 +94,10 @@
     {
       "type": "PACKAGE",
       "url": "https://github.com/openstack/keystone"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/pypa/advisory-database/tree/main/vulns/keystone/PYSEC-2026-202.yaml"
     },
     {
       "type": "WEB",

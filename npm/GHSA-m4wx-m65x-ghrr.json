@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "GHSA-m4wx-m65x-ghrr",
   "published": "2026-05-29T17:50:22Z",
-  "modified": "2026-05-29T18:00:17.893829704Z",
+  "modified": "2026-06-12T21:00:09.204089367Z",
   "aliases": [
     "CVE-2026-47137"
   ],
@@ -40,6 +40,10 @@
       "url": "https://github.com/patriksimek/vm2/security/advisories/GHSA-m4wx-m65x-ghrr"
     },
     {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-47137"
+    },
+    {
       "type": "WEB",
       "url": "https://github.com/patriksimek/vm2/commit/01a7552add345d5a6862623884e6b79a85bf0568"
     },
@@ -62,7 +66,7 @@
     ],
     "github_reviewed": true,
     "github_reviewed_at": "2026-05-29T17:50:22Z",
-    "nvd_published_at": null,
+    "nvd_published_at": "2026-06-12T15:16:28Z",
     "severity": "CRITICAL"
   },
   "severity": [

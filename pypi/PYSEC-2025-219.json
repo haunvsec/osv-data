@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "PYSEC-2025-219",
   "published": "2025-11-26T19:15:49.590Z",
-  "modified": "2026-05-21T15:00:33.871612284Z",
+  "modified": "2026-06-10T17:02:47.384320034Z",
   "aliases": [
     "CVE-2025-65681",
     "GHSA-gq25-78jf-v78c"
@@ -154,6 +154,10 @@
     {
       "type": "PACKAGE",
       "url": "https://github.com/overhangio/tutor"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://github.com/advisories/GHSA-gq25-78jf-v78c"
     }
   ],
   "severity": [

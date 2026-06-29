@@ -2,9 +2,12 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4606",
   "published": "2026-05-19T23:08:55Z",
-  "modified": "2026-05-26T06:02:42.117766039Z",
+  "modified": "2026-06-10T15:31:28.863455073Z",
+  "aliases": [
+    "GHSA-64jc-f3r5-gp74"
+  ],
   "summary": "Malicious code in martinez-polygon-clipping-tony (npm)",
-  "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (dabf04b2f99e28eb10740bd7459bf64513fac98a064b60071b1e7aabf8674dd0)\nPackage name impersonates the legitimate martinez-polygon-clipping library: README, badges, and API surface are copied verbatim, while repository points at an unrelated user (daltonchristiano060-gif/dalton-martinez). On `npm install`, scripts/postinstall.js fetches a platform/arch-specific binary from a hardcoded RFC1918 endpoint over plain HTTP (`http://10.10.6.129:8787/droppers/<os>-<arch>` or `/droppers/windows.exe`), writes it to os.tmpdir() or `c:/users/public/windows.exe`, chmods 0755, and spawns it detached with stdio ignored. There is no integrity verification, the URL is mutable, and a polygon-clipping library has no legitimate need for a native binary. Before fetching, the script enumerates environment variables and Linux DMI strings to detect GitHub Actions, GitLab CI, CircleCI, Buildkite, Travis, Vercel, Netlify, Kubernetes, AWS Lambda/ECS/Batch/EC2, Azure, and GCP, returning early in those cases — selective execution that targets developer workstations and hides from automated scanners. The combination of typosquat + install-time arbitrary-binary dropper + CI/cloud evasion is unambiguously a targeted attack on developer machines.\n",
+  "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (dabf04b2f99e28eb10740bd7459bf64513fac98a064b60071b1e7aabf8674dd0)\nPackage name impersonates the legitimate martinez-polygon-clipping library: README, badges, and API surface are copied verbatim, while repository points at an unrelated user (daltonchristiano060-gif/dalton-martinez). On `npm install`, scripts/postinstall.js fetches a platform/arch-specific binary from a hardcoded RFC1918 endpoint over plain HTTP (`http://10.10.6.129:8787/droppers/<os>-<arch>` or `/droppers/windows.exe`), writes it to os.tmpdir() or `c:/users/public/windows.exe`, chmods 0755, and spawns it detached with stdio ignored. There is no integrity verification, the URL is mutable, and a polygon-clipping library has no legitimate need for a native binary. Before fetching, the script enumerates environment variables and Linux DMI strings to detect GitHub Actions, GitLab CI, CircleCI, Buildkite, Travis, Vercel, Netlify, Kubernetes, AWS Lambda/ECS/Batch/EC2, Azure, and GCP, returning early in those cases — selective execution that targets developer workstations and hides from automated scanners. The combination of typosquat + install-time arbitrary-binary dropper + CI/cloud evasion is unambiguously a targeted attack on developer machines.\n\n## Source: ghsa-malware (b5bb8aefb63625a813e1b9b6381c6f6cc1872a1c3475255fe6922c9f281898b6)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
   "affected": [
     {
       "package": {
@@ -12,11 +15,26 @@
         "ecosystem": "npm",
         "purl": "pkg:npm/martinez-polygon-clipping-tony"
       },
+      "ranges": [
+        {
+          "type": "SEMVER",
+          "events": [
+            {
+              "introduced": "0"
+            }
+          ]
+        }
+      ],
       "versions": [
         "0.9.5"
       ],
       "database_specific": {
         "cwes": [
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -54,6 +72,10 @@
     {
       "type": "PACKAGE",
       "url": "https://www.npmjs.com/package/martinez-polygon-clipping-tony/v/0.9.5"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://github.com/advisories/GHSA-64jc-f3r5-gp74"
     }
   ],
   "database_specific": {
@@ -67,6 +89,23 @@
         "versions": [
           "0.9.5"
         ]
+      },
+      {
+        "id": "GHSA-64jc-f3r5-gp74",
+        "import_time": "2026-06-10T15:25:13.626191506Z",
+        "modified_time": "2026-06-10T13:55:05Z",
+        "ranges": [
+          {
+            "events": [
+              {
+                "introduced": "0"
+              }
+            ],
+            "type": "SEMVER"
+          }
+        ],
+        "sha256": "b5bb8aefb63625a813e1b9b6381c6f6cc1872a1c3475255fe6922c9f281898b6",
+        "source": "ghsa-malware"
       }
     ]
   },

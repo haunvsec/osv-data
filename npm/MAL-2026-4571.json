@@ -2,9 +2,12 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4571",
   "published": "2026-05-20T01:09:44Z",
-  "modified": "2026-05-26T06:02:34.513198268Z",
+  "modified": "2026-06-10T15:31:28.786566220Z",
+  "aliases": [
+    "GHSA-c852-72hm-gxvf"
+  ],
   "summary": "Malicious code in get-deps-path (npm)",
-  "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (65fa6f34a831aa832f9d88019ce3d0f4011701df6ab0667bd263645208c978ce)\nOn require(), get-deps-path immediately invokes getPlugin(), which performs an HTTP fetch to https://jsonkeeper.com/b/QBRMI (an anonymous public paste host where any user can mutate content) and passes the response's `model` field directly to eval(). The fetched JavaScript executes in the installer's Node process with no integrity check, no version pin, and no signature verification — whoever controls the paste controls code execution on every machine that imports this module. The package additionally masquerades: package.json keywords are ['koa','middleware','compose'] and index.js is a koa-compose clone, while the package name and README advertise unrelated 'dependency install' functionality. The mismatch between the advertised purpose, the visible source code, and the embedded import-time eval-from-mutable-URL is the cover-story shape of a deliberate backdoor, not a misconfiguration.\n",
+  "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (65fa6f34a831aa832f9d88019ce3d0f4011701df6ab0667bd263645208c978ce)\nOn require(), get-deps-path immediately invokes getPlugin(), which performs an HTTP fetch to https://jsonkeeper.com/b/QBRMI (an anonymous public paste host where any user can mutate content) and passes the response's `model` field directly to eval(). The fetched JavaScript executes in the installer's Node process with no integrity check, no version pin, and no signature verification — whoever controls the paste controls code execution on every machine that imports this module. The package additionally masquerades: package.json keywords are ['koa','middleware','compose'] and index.js is a koa-compose clone, while the package name and README advertise unrelated 'dependency install' functionality. The mismatch between the advertised purpose, the visible source code, and the embedded import-time eval-from-mutable-URL is the cover-story shape of a deliberate backdoor, not a misconfiguration.\n\n## Source: ghsa-malware (964ca7187d345d1bb60e771f2e5135d44d6fdcb74dc3339b0e7e76134c5250bc)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
   "affected": [
     {
       "package": {
@@ -12,6 +15,16 @@
         "ecosystem": "npm",
         "purl": "pkg:npm/get-deps-path"
       },
+      "ranges": [
+        {
+          "type": "SEMVER",
+          "events": [
+            {
+              "introduced": "0"
+            }
+          ]
+        }
+      ],
       "versions": [
         "2.3.0",
         "1.0.0",
@@ -22,6 +35,11 @@
       ],
       "database_specific": {
         "cwes": [
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -104,6 +122,10 @@
     {
       "type": "PACKAGE",
       "url": "https://www.npmjs.com/package/get-deps-path/v/1.0.2"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://github.com/advisories/GHSA-c852-72hm-gxvf"
     }
   ],
   "database_specific": {
@@ -167,6 +189,23 @@
         "versions": [
           "1.0.2"
         ]
+      },
+      {
+        "id": "GHSA-c852-72hm-gxvf",
+        "import_time": "2026-06-10T15:25:13.632376396Z",
+        "modified_time": "2026-06-10T14:13:05Z",
+        "ranges": [
+          {
+            "events": [
+              {
+                "introduced": "0"
+              }
+            ],
+            "type": "SEMVER"
+          }
+        ],
+        "sha256": "964ca7187d345d1bb60e771f2e5135d44d6fdcb74dc3339b0e7e76134c5250bc",
+        "source": "ghsa-malware"
       }
     ]
   },

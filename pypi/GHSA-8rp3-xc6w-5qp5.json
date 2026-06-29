@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "GHSA-8rp3-xc6w-5qp5",
   "published": "2026-05-21T19:54:32Z",
-  "modified": "2026-05-21T20:00:13.952871846Z",
+  "modified": "2026-06-09T10:30:15.704918499Z",
   "aliases": [
     "CVE-2026-46561"
   ],
@@ -145,6 +145,10 @@
       "url": "https://github.com/pyload/pyload/security/advisories/GHSA-8rp3-xc6w-5qp5"
     },
     {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-46561"
+    },
+    {
       "type": "PACKAGE",
       "url": "https://github.com/pyload/pyload"
     }
@@ -155,7 +159,7 @@
     ],
     "github_reviewed": true,
     "github_reviewed_at": "2026-05-21T19:54:32Z",
-    "nvd_published_at": null,
+    "nvd_published_at": "2026-05-28T18:16:36Z",
     "severity": "MODERATE"
   },
   "severity": [

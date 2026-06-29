@@ -2,8 +2,7 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4424",
   "published": "2026-05-21T20:41:29Z",
-  "modified": "2026-05-27T00:32:02.709719579Z",
-  "withdrawn": "2026-05-26T21:41:23Z",
+  "modified": "2026-06-26T12:21:34.413599017Z",
   "summary": "Malicious code in @remitee-money-transfer/rmt-base (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (5f21c6601855c2f2d0a5d0761d3defe8c0ba1708dd2a67fb278c03e0abd6ba16)\nPackage ships only a preinstall lifecycle script (scripts/preinstall.sh) and no functional code. On `npm install`, the script reads /etc/passwd and /root/.ssh/id_rsa, fetches the host's public IP via ifconfig.me, and POSTs all three values to https://astralishmx.requestcatcher.com/BONK2 using `curl -k` (TLS verification disabled). The package is published under a scope impersonating Remitee (`@remitee-money-transfer/rmt-base`) at an inflated version (99.99.102) consistent with a dependency-confusion attack against a private internal package; the declared `main: index.js` does not exist in the tarball. The author handle (`astralis`) matches the exfiltration hostname, and requestcatcher.com is a free request-capture service commonly abused as a low-effort exfiltration sink. The combined fingerprint — install-time read of classic installer secrets, hardcoded attacker C2, namespace impersonation, dependency-confusion versioning, and absence of any legitimate code — leaves no benign interpretation.\n",
   "affected": [
@@ -21,21 +20,6 @@
       ],
       "database_specific": {
         "cwes": [
-          {
-            "cweId": "CWE-506",
-            "description": "The product contains code that appears to be malicious in nature.",
-            "name": "Embedded Malicious Code"
-          },
-          {
-            "cweId": "CWE-506",
-            "description": "The product contains code that appears to be malicious in nature.",
-            "name": "Embedded Malicious Code"
-          },
-          {
-            "cweId": "CWE-506",
-            "description": "The product contains code that appears to be malicious in nature.",
-            "name": "Embedded Malicious Code"
-          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -69,7 +53,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/npm/@remitee-money-transfer/rmt-base/MAL-2026-4424.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/npm/@remitee-money-transfer/rmt-base/MAL-2026-4424.json"
       }
     }
   ],
@@ -179,7 +163,7 @@
     {
       "name": "Amazon Inspector",
       "contact": [
-        "actran@amazon.com"
+        "inspector-research@amazon.com"
       ],
       "type": "FINDER"
     }

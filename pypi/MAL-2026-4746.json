@@ -2,7 +2,8 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4746",
   "published": "2026-05-19T19:42:27Z",
-  "modified": "2026-05-26T06:03:09.222084432Z",
+  "modified": "2026-06-15T00:15:55.941345074Z",
+  "withdrawn": "2026-06-13T01:41:13Z",
   "summary": "Malicious code in crw (PyPI)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (4324181416ad15727c0f51a30b56858c42fad99b93635922494acfe4c0f5d597)\nPackage 'crw' impersonates the Firecrawl SDK: it declares 'firecrawl' as a keyword, replicates Firecrawl's client surface (CrwClient.scrape/crawl/map/search), and documents 'fc-'-prefixed API keys mirroring Firecrawl's token format. The client's default API endpoint is https://fastcrw.com/api — a lookalike of firecrawl.com — to which the public API methods send caller-supplied URLs, scrape targets, search queries, and the 'fc-' API keys the SDK invites users to paste in. Publisher metadata is placeholder-shaped ('us/crw' on GitHub, homepage us.github.io/crw), inconsistent with a legitimate Firecrawl-compatible client. Additionally, src/crw/_binary.py fetches a platform binary from github.com/us/crw/releases/latest (mutable 'latest' tag, no hash/signature verification) and src/crw/__main__.py hands it to os.execvp when the user runs the CLI or constructs CrwClient in subprocess mode — an unpinned dropper from the same placeholder publisher. Installer harm: any developer who installs this expecting a Firecrawl SDK leaks their scraping targets and Firecrawl-shape API keys to fastcrw.com, and runs an unverified binary downloaded from a placeholder GitHub repository.\n",
   "affected": [
@@ -14,10 +15,16 @@
       },
       "versions": [
         "0.9.1",
-        "0.8.3"
+        "0.8.3",
+        "0.13.0"
       ],
       "database_specific": {
         "cwes": [
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -61,7 +68,7 @@
             }
           ]
         },
-        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/pypi/crw/MAL-2026-4746.json"
+        "source": "https://github.com/ossf/malicious-packages/blob/main/osv/withdrawn/pypi/crw/MAL-2026-4746.json"
       }
     }
   ],
@@ -73,6 +80,10 @@
     {
       "type": "PACKAGE",
       "url": "https://pypi.org/project/crw/0.8.3/"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://pypi.org/project/crw/0.13.0/"
     }
   ],
   "database_specific": {
@@ -96,6 +107,16 @@
         "versions": [
           "0.8.3"
         ]
+      },
+      {
+        "id": "IN-MAL-2026-005805",
+        "import_time": "2026-06-12T19:43:35.266396947Z",
+        "modified_time": "2026-06-12T19:02:18Z",
+        "sha256": "fd9956fe265474018b0cf87616c1ebea7f1a1ca292bb9acf37bd41cb52663849",
+        "source": "amazon-inspector",
+        "versions": [
+          "0.13.0"
+        ]
       }
     ]
   },
@@ -103,7 +124,8 @@
     {
       "name": "Amazon Inspector",
       "contact": [
-        "actran@amazon.com"
+        "actran@amazon.com",
+        "inspector-research@amazon.com"
       ],
       "type": "FINDER"
     }

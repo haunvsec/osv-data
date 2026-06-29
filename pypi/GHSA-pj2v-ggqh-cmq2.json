@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "GHSA-pj2v-ggqh-cmq2",
   "published": "2026-06-03T21:09:37Z",
-  "modified": "2026-06-03T21:15:07.781092327Z",
+  "modified": "2026-06-17T05:15:08.895852461Z",
   "aliases": [
     "CVE-2026-44016"
   ],
@@ -60,8 +60,8 @@
   ],
   "database_specific": {
     "cwe_ids": [
-      "CWE-94",
-      "CWE-918"
+      "CWE-918",
+      "CWE-94"
     ],
     "github_reviewed": true,
     "github_reviewed_at": "2026-06-03T21:09:37Z",

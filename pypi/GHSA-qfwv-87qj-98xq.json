@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "GHSA-qfwv-87qj-98xq",
   "published": "2026-06-04T14:38:52Z",
-  "modified": "2026-06-04T14:45:08.322560332Z",
+  "modified": "2026-06-09T12:00:16.324709530Z",
   "aliases": [
     "CVE-2026-47706"
   ],
@@ -872,6 +872,10 @@
       "url": "https://github.com/strawberry-graphql/strawberry/security/advisories/GHSA-qfwv-87qj-98xq"
     },
     {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-47706"
+    },
+    {
       "type": "PACKAGE",
       "url": "https://github.com/strawberry-graphql/strawberry"
     },
@@ -887,7 +891,7 @@
     ],
     "github_reviewed": true,
     "github_reviewed_at": "2026-06-04T14:38:52Z",
-    "nvd_published_at": null,
+    "nvd_published_at": "2026-06-04T15:16:54Z",
     "severity": "MODERATE"
   },
   "severity": [

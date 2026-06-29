@@ -2,9 +2,12 @@
   "schema_version": "1.7.5",
   "id": "GHSA-8x6r-g9mw-2r78",
   "published": "2026-06-03T21:05:17Z",
-  "modified": "2026-06-03T21:15:07.749673665Z",
+  "modified": "2026-06-08T17:44:21.326890112Z",
   "aliases": [
     "CVE-2026-42342"
+  ],
+  "related": [
+    "CGA-vrm5-w54c-82jf"
   ],
   "summary": "React Router vulnerable to DoS via unbounded path expansion in __manifest endpoint",
   "details": "There exists a potential DOS attack vector in React Router Framework Mode applications (as well as Remix v2.10.0 - 2.17.4).  Certain requests can be crafted to consume disproportionate resources on the server, resulting in response time degredation and/or service unavailability for end users.\n\n> [!NOTE]\n> This does not impact your React Router application if you are using [Declarative Mode](https://reactrouter.com/start/modes#declarative) (`<BrowserRouter>`) or [Data Mode](https://reactrouter.com/start/modes#data) (`createBrowserRouter`/`<RouterProvider>`).",

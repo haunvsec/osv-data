@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4592",
   "published": "2026-05-25T15:26:07Z",
-  "modified": "2026-05-26T06:02:37.692513721Z",
+  "modified": "2026-06-12T20:01:53.946116520Z",
   "summary": "Malicious code in jsontoken-extend (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (59a8a8ab722d33bdd2ea25422aaf7e607a1b1a881446c3561ec8225fb9187742)\nOn require()/import of jsontoken-extend, sign.js executes a top-level IIFE that base64-decodes a hardcoded string to https://www.jsonkeeper.com/b/XAMRK, fetches the JSON body, and passes data.content directly to eval(). jsonkeeper.com is an anonymous, mutable paste service — the author can change the executed payload at any time without republishing the package, giving arbitrary remote code execution on every consumer at import time. A second base64-encoded URL (https://www.jsonkeeper.com/b/W80UP) is staged but commented out, indicating multiple prepared payloads. The package name and public API (sign/verify/decode plus JsonWebTokenError/NotBeforeError/TokenExpiredError) mirror the popular jsonwebtoken library exactly, and it even declares jsonwebtoken as a dependency to pass through legitimate-looking calls — a typosquat lure to attract developers searching for the real JWT library. Base64-wrapping the C2 URLs is a deliberate static-analysis evasion. Three independent block signals are present: import-time fetch+eval from an anonymous mutable host, typosquat naming/API mirroring with malicious payload, and obfuscated C2 URL constants.\n",
   "affected": [
@@ -14,10 +14,16 @@
       },
       "versions": [
         "1.0.12",
-        "1.0.11"
+        "1.0.11",
+        "1.0.13"
       ],
       "database_specific": {
         "cwes": [
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -69,6 +75,10 @@
     {
       "type": "PACKAGE",
       "url": "https://www.npmjs.com/package/jsontoken-extend/v/1.0.11"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/jsontoken-extend/v/1.0.13"
     }
   ],
   "database_specific": {
@@ -112,6 +122,26 @@
         "versions": [
           "1.0.11"
         ]
+      },
+      {
+        "id": "IN-MAL-2026-006072",
+        "import_time": "2026-06-12T19:44:04.671116052Z",
+        "modified_time": "2026-06-12T19:08:08Z",
+        "sha256": "2f3566df1a83addfc5b772c56cfe997bcdb881d49c26580103f9f2ad48b24894",
+        "source": "amazon-inspector",
+        "versions": [
+          "1.0.13"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-006071",
+        "import_time": "2026-06-12T19:44:04.568921623Z",
+        "modified_time": "2026-06-12T19:08:07Z",
+        "sha256": "c56d8cc26cf15186317bfa213696cc9d476306f590cf2710883f24671fdf3357",
+        "source": "amazon-inspector",
+        "versions": [
+          "1.0.13"
+        ]
       }
     ]
   },
@@ -119,7 +149,8 @@
     {
       "name": "Amazon Inspector",
       "contact": [
-        "actran@amazon.com"
+        "actran@amazon.com",
+        "inspector-research@amazon.com"
       ],
       "type": "FINDER"
     }

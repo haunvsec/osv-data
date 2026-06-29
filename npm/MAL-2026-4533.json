@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-4533",
   "published": "2026-05-22T11:16:55Z",
-  "modified": "2026-05-26T06:02:24.538369178Z",
+  "modified": "2026-06-12T20:01:49.074869898Z",
   "summary": "Malicious code in codebuff-cli (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (bdf777f03e4dc44a9956401136a42f099638025ef7d2197dec630525ad26727d)\nThe package name `codebuff-cli` impersonates the legitimate `codebuff` npm package; the README is copy-pasted from the official CodebuffAI project (it even instructs users to run `npm install -g codebuff`), but the published artifact is an unofficial fork. Three concrete installer-side harms are present:\n\n1. Silent relay of user data to a non-publisher backend. README and the bundled binary configure the default backend as `https://fireworks-api-backend.vercel.app` (a personal Vercel deployment) instead of codebuff.com. Because this CLI is an AI coding agent, by-default usage transmits the user's source code, prompts, and command history to that endpoint.\n2. TLS verification globally disabled. `cli/bin/codebuff.cjs` line 201 spawns the codebuff binary with `NODE_TLS_REJECT_UNAUTHORIZED=0`, disabling certificate verification for every HTTPS connection the binary makes (auth, backend, model providers). Combined with the redirected backend, this allows MITM of all transmitted code/prompts/credentials with no warning.\n3. Unverified binary fetch from a mutable personal-account release. If the bundled binary is missing, `cli/bin/codebuff.cjs` queries `https://api.github.com/repos/Marcus-Mok-GH/codebuff-cli/releases/latest`, downloads `codebuff-<platform>-<arch>` to `~/.codebuff/bin/`, chmods 0755, and executes it — with TLS verification disabled and no hash/signature check. The `latest` tag is mutable and the publisher is a personal GitHub user, not the CodebuffAI org.\n\nAttacker benefit is concrete and sustained: every prompt, code excerpt, and credential entered by an installer who followed the README's `codebuff` instructions is delivered to the publisher's infrastructure over an unverified TLS channel, with the additional ability to swap the executable at any time through the mutable `latest` release pointer.\n",
   "affected": [
@@ -35,10 +35,28 @@
         "1.0.12",
         "1.1.6",
         "1.1.5",
-        "1.0.19"
+        "1.0.19",
+        "1.1.10",
+        "1.1.12",
+        "1.1.11"
       ],
       "database_specific": {
         "cwes": [
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -284,6 +302,18 @@
     {
       "type": "PACKAGE",
       "url": "https://www.npmjs.com/package/codebuff-cli/v/1.0.19"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/codebuff-cli/v/1.1.10"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/codebuff-cli/v/1.1.12"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/codebuff-cli/v/1.1.11"
     }
   ],
   "database_specific": {
@@ -537,6 +567,36 @@
         "versions": [
           "1.0.19"
         ]
+      },
+      {
+        "id": "IN-MAL-2026-005980",
+        "import_time": "2026-06-12T19:43:54.336672476Z",
+        "modified_time": "2026-06-12T19:06:28Z",
+        "sha256": "31263547183fde7372fab6672e4090e7021b02337d30fcebd1f16d19a8398103",
+        "source": "amazon-inspector",
+        "versions": [
+          "1.1.10"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-005982",
+        "import_time": "2026-06-12T19:43:54.764849369Z",
+        "modified_time": "2026-06-12T19:06:31Z",
+        "sha256": "7dd51662dae2f0247ccbc401c979ceb600fa8e072b9944d31dacbd638f28a29b",
+        "source": "amazon-inspector",
+        "versions": [
+          "1.1.12"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-005981",
+        "import_time": "2026-06-12T19:43:54.51259317Z",
+        "modified_time": "2026-06-12T19:06:30Z",
+        "sha256": "febe3264a5504dba8e365c7ed10f0a38a7c27df7325c20f146b17fef581e879c",
+        "source": "amazon-inspector",
+        "versions": [
+          "1.1.11"
+        ]
       }
     ]
   },
@@ -544,7 +604,8 @@
     {
       "name": "Amazon Inspector",
       "contact": [
-        "actran@amazon.com"
+        "actran@amazon.com",
+        "inspector-research@amazon.com"
       ],
       "type": "FINDER"
     }
