@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:11299",
   "published": "2025-07-17T10:04:56Z",
-  "modified": "2026-03-18T11:38:17.530794Z",
+  "modified": "2026-06-29T11:06:56Z",
   "upstream": [
     "CVE-2022-49058",
     "CVE-2022-49788",
@@ -500,29 +500,6 @@
     },
     {
       "package": {
-        "name": "kernel-rt-debug-kvm",
-        "ecosystem": "Red Hat:enterprise_linux:8::realtime",
-        "purl": "pkg:rpm/redhat/kernel-rt-debug-kvm"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.18.0-553.62.1.rt7.403.el8_10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11299.json"
-      }
-    },
-    {
-      "package": {
         "name": "kernel-rt-debug-modules",
         "ecosystem": "Red Hat:enterprise_linux:8::realtime",
         "purl": "pkg:rpm/redhat/kernel-rt-debug-modules"
@@ -618,29 +595,6 @@
         "name": "kernel-rt-devel",
         "ecosystem": "Red Hat:enterprise_linux:8::realtime",
         "purl": "pkg:rpm/redhat/kernel-rt-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.18.0-553.62.1.rt7.403.el8_10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11299.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-rt-kvm",
-        "ecosystem": "Red Hat:enterprise_linux:8::realtime",
-        "purl": "pkg:rpm/redhat/kernel-rt-kvm"
       },
       "ranges": [
         {

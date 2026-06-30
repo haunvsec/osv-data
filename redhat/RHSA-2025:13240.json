@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:13240",
   "published": "2025-08-07T10:04:51Z",
-  "modified": "2026-03-18T11:38:30.897668Z",
+  "modified": "2026-06-29T11:09:11Z",
   "upstream": [
     "CVE-2025-8058"
   ],
@@ -10,101 +10,9 @@
   "affected": [
     {
       "package": {
-        "name": "glibc",
-        "ecosystem": "Red Hat:enterprise_linux:10.0",
-        "purl": "pkg:rpm/redhat/glibc"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.39-46.el10_0"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:13240.json"
-      }
-    },
-    {
-      "package": {
-        "name": "glibc-all-langpacks",
-        "ecosystem": "Red Hat:enterprise_linux:10.0",
-        "purl": "pkg:rpm/redhat/glibc-all-langpacks"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.39-46.el10_0"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:13240.json"
-      }
-    },
-    {
-      "package": {
-        "name": "glibc-benchtests",
-        "ecosystem": "Red Hat:enterprise_linux:10.0",
-        "purl": "pkg:rpm/redhat/glibc-benchtests"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.39-46.el10_0"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:13240.json"
-      }
-    },
-    {
-      "package": {
         "name": "glibc-benchtests-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:10.0",
         "purl": "pkg:rpm/redhat/glibc-benchtests-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.39-46.el10_0"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:13240.json"
-      }
-    },
-    {
-      "package": {
-        "name": "glibc-common",
-        "ecosystem": "Red Hat:enterprise_linux:10.0",
-        "purl": "pkg:rpm/redhat/glibc-common"
       },
       "ranges": [
         {
@@ -240,9 +148,9 @@
     },
     {
       "package": {
-        "name": "glibc-gconv-extra",
+        "name": "glibc-gconv-extra-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:10.0",
-        "purl": "pkg:rpm/redhat/glibc-gconv-extra"
+        "purl": "pkg:rpm/redhat/glibc-gconv-extra-debuginfo"
       },
       "ranges": [
         {
@@ -263,9 +171,239 @@
     },
     {
       "package": {
-        "name": "glibc-gconv-extra-debuginfo",
+        "name": "glibc-locale-source",
         "ecosystem": "Red Hat:enterprise_linux:10.0",
-        "purl": "pkg:rpm/redhat/glibc-gconv-extra-debuginfo"
+        "purl": "pkg:rpm/redhat/glibc-locale-source"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:2.39-46.el10_0"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:13240.json"
+      }
+    },
+    {
+      "package": {
+        "name": "glibc-utils",
+        "ecosystem": "Red Hat:enterprise_linux:10.0",
+        "purl": "pkg:rpm/redhat/glibc-utils"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:2.39-46.el10_0"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:13240.json"
+      }
+    },
+    {
+      "package": {
+        "name": "glibc-utils-debuginfo",
+        "ecosystem": "Red Hat:enterprise_linux:10.0",
+        "purl": "pkg:rpm/redhat/glibc-utils-debuginfo"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:2.39-46.el10_0"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:13240.json"
+      }
+    },
+    {
+      "package": {
+        "name": "glibc32-debuginfo",
+        "ecosystem": "Red Hat:enterprise_linux:10.0",
+        "purl": "pkg:rpm/redhat/glibc32-debuginfo"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:2.39-46.el10_0"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:13240.json"
+      }
+    },
+    {
+      "package": {
+        "name": "libnsl-debuginfo",
+        "ecosystem": "Red Hat:enterprise_linux:10.0",
+        "purl": "pkg:rpm/redhat/libnsl-debuginfo"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:2.39-46.el10_0"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:13240.json"
+      }
+    },
+    {
+      "package": {
+        "name": "nss_db-debuginfo",
+        "ecosystem": "Red Hat:enterprise_linux:10.0",
+        "purl": "pkg:rpm/redhat/nss_db-debuginfo"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:2.39-46.el10_0"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:13240.json"
+      }
+    },
+    {
+      "package": {
+        "name": "nss_hesiod-debuginfo",
+        "ecosystem": "Red Hat:enterprise_linux:10.0",
+        "purl": "pkg:rpm/redhat/nss_hesiod-debuginfo"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:2.39-46.el10_0"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:13240.json"
+      }
+    },
+    {
+      "package": {
+        "name": "glibc",
+        "ecosystem": "Red Hat:enterprise_linux:10.0",
+        "purl": "pkg:rpm/redhat/glibc"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:2.39-46.el10_0"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:13240.json"
+      }
+    },
+    {
+      "package": {
+        "name": "glibc-all-langpacks",
+        "ecosystem": "Red Hat:enterprise_linux:10.0",
+        "purl": "pkg:rpm/redhat/glibc-all-langpacks"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:2.39-46.el10_0"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:13240.json"
+      }
+    },
+    {
+      "package": {
+        "name": "glibc-common",
+        "ecosystem": "Red Hat:enterprise_linux:10.0",
+        "purl": "pkg:rpm/redhat/glibc-common"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:2.39-46.el10_0"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:13240.json"
+      }
+    },
+    {
+      "package": {
+        "name": "glibc-gconv-extra",
+        "ecosystem": "Red Hat:enterprise_linux:10.0",
+        "purl": "pkg:rpm/redhat/glibc-gconv-extra"
       },
       "ranges": [
         {
@@ -5024,9 +5162,9 @@
     },
     {
       "package": {
-        "name": "glibc-locale-source",
+        "name": "glibc-minimal-langpack",
         "ecosystem": "Red Hat:enterprise_linux:10.0",
-        "purl": "pkg:rpm/redhat/glibc-locale-source"
+        "purl": "pkg:rpm/redhat/glibc-minimal-langpack"
       },
       "ranges": [
         {
@@ -5047,9 +5185,32 @@
     },
     {
       "package": {
-        "name": "glibc-minimal-langpack",
+        "name": "libnsl",
         "ecosystem": "Red Hat:enterprise_linux:10.0",
-        "purl": "pkg:rpm/redhat/glibc-minimal-langpack"
+        "purl": "pkg:rpm/redhat/libnsl"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:2.39-46.el10_0"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:13240.json"
+      }
+    },
+    {
+      "package": {
+        "name": "glibc-benchtests",
+        "ecosystem": "Red Hat:enterprise_linux:10.0",
+        "purl": "pkg:rpm/redhat/glibc-benchtests"
       },
       "ranges": [
         {
@@ -5116,121 +5277,6 @@
     },
     {
       "package": {
-        "name": "glibc-utils",
-        "ecosystem": "Red Hat:enterprise_linux:10.0",
-        "purl": "pkg:rpm/redhat/glibc-utils"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.39-46.el10_0"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:13240.json"
-      }
-    },
-    {
-      "package": {
-        "name": "glibc-utils-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:10.0",
-        "purl": "pkg:rpm/redhat/glibc-utils-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.39-46.el10_0"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:13240.json"
-      }
-    },
-    {
-      "package": {
-        "name": "glibc32-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:10.0",
-        "purl": "pkg:rpm/redhat/glibc32-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.39-46.el10_0"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:13240.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libnsl",
-        "ecosystem": "Red Hat:enterprise_linux:10.0",
-        "purl": "pkg:rpm/redhat/libnsl"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.39-46.el10_0"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:13240.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libnsl-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:10.0",
-        "purl": "pkg:rpm/redhat/libnsl-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.39-46.el10_0"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:13240.json"
-      }
-    },
-    {
-      "package": {
         "name": "nss_db",
         "ecosystem": "Red Hat:enterprise_linux:10.0",
         "purl": "pkg:rpm/redhat/nss_db"
@@ -5254,55 +5300,9 @@
     },
     {
       "package": {
-        "name": "nss_db-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:10.0",
-        "purl": "pkg:rpm/redhat/nss_db-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.39-46.el10_0"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:13240.json"
-      }
-    },
-    {
-      "package": {
         "name": "nss_hesiod",
         "ecosystem": "Red Hat:enterprise_linux:10.0",
         "purl": "pkg:rpm/redhat/nss_hesiod"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.39-46.el10_0"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:13240.json"
-      }
-    },
-    {
-      "package": {
-        "name": "nss_hesiod-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:10.0",
-        "purl": "pkg:rpm/redhat/nss_hesiod-debuginfo"
       },
       "ranges": [
         {

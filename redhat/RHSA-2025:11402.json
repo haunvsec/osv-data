@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:11402",
   "published": "2025-07-21T10:02:03Z",
-  "modified": "2026-03-20T10:33:42.907792Z",
+  "modified": "2026-06-29T11:07:07Z",
   "upstream": [
     "CVE-2024-52615"
   ],
@@ -10,29 +10,6 @@
   "affected": [
     {
       "package": {
-        "name": "avahi",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/avahi"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
         "name": "avahi-autoipd",
         "ecosystem": "Red Hat:enterprise_linux:9::appstream",
         "purl": "pkg:rpm/redhat/avahi-autoipd"
@@ -79,29 +56,6 @@
     },
     {
       "package": {
-        "name": "avahi-compat-howl",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/avahi-compat-howl"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
         "name": "avahi-compat-howl-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::appstream",
         "purl": "pkg:rpm/redhat/avahi-compat-howl-debuginfo"
@@ -125,78 +79,9 @@
     },
     {
       "package": {
-        "name": "avahi-compat-howl-devel",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/avahi-compat-howl-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
-        "name": "avahi-compat-libdns_sd",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/avahi-compat-libdns_sd"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
         "name": "avahi-compat-libdns_sd-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::appstream",
         "purl": "pkg:rpm/redhat/avahi-compat-libdns_sd-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
-        "name": "avahi-compat-libdns_sd-devel",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/avahi-compat-libdns_sd-devel"
       },
       "ranges": [
         {
@@ -243,29 +128,6 @@
         "name": "avahi-debugsource",
         "ecosystem": "Red Hat:enterprise_linux:9::appstream",
         "purl": "pkg:rpm/redhat/avahi-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
-        "name": "avahi-devel",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/avahi-devel"
       },
       "ranges": [
         {
@@ -355,101 +217,9 @@
     },
     {
       "package": {
-        "name": "avahi-glib-devel",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/avahi-glib-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
-        "name": "avahi-gobject",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/avahi-gobject"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
         "name": "avahi-gobject-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::appstream",
         "purl": "pkg:rpm/redhat/avahi-gobject-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
-        "name": "avahi-gobject-devel",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/avahi-gobject-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
-        "name": "avahi-libs",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/avahi-libs"
       },
       "ranges": [
         {
@@ -631,55 +401,9 @@
     },
     {
       "package": {
-        "name": "avahi-autoipd",
-        "ecosystem": "Red Hat:enterprise_linux:9::baseos",
-        "purl": "pkg:rpm/redhat/avahi-autoipd"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
         "name": "avahi-autoipd-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::baseos",
         "purl": "pkg:rpm/redhat/avahi-autoipd-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
-        "name": "avahi-compat-howl",
-        "ecosystem": "Red Hat:enterprise_linux:9::baseos",
-        "purl": "pkg:rpm/redhat/avahi-compat-howl"
       },
       "ranges": [
         {
@@ -723,78 +447,9 @@
     },
     {
       "package": {
-        "name": "avahi-compat-howl-devel",
-        "ecosystem": "Red Hat:enterprise_linux:9::baseos",
-        "purl": "pkg:rpm/redhat/avahi-compat-howl-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
-        "name": "avahi-compat-libdns_sd",
-        "ecosystem": "Red Hat:enterprise_linux:9::baseos",
-        "purl": "pkg:rpm/redhat/avahi-compat-libdns_sd"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
         "name": "avahi-compat-libdns_sd-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::baseos",
         "purl": "pkg:rpm/redhat/avahi-compat-libdns_sd-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
-        "name": "avahi-compat-libdns_sd-devel",
-        "ecosystem": "Red Hat:enterprise_linux:9::baseos",
-        "purl": "pkg:rpm/redhat/avahi-compat-libdns_sd-devel"
       },
       "ranges": [
         {
@@ -861,55 +516,9 @@
     },
     {
       "package": {
-        "name": "avahi-devel",
-        "ecosystem": "Red Hat:enterprise_linux:9::baseos",
-        "purl": "pkg:rpm/redhat/avahi-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
         "name": "avahi-dnsconfd-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::baseos",
         "purl": "pkg:rpm/redhat/avahi-dnsconfd-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
-        "name": "avahi-glib",
-        "ecosystem": "Red Hat:enterprise_linux:9::baseos",
-        "purl": "pkg:rpm/redhat/avahi-glib"
       },
       "ranges": [
         {
@@ -953,78 +562,9 @@
     },
     {
       "package": {
-        "name": "avahi-glib-devel",
-        "ecosystem": "Red Hat:enterprise_linux:9::baseos",
-        "purl": "pkg:rpm/redhat/avahi-glib-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
-        "name": "avahi-gobject",
-        "ecosystem": "Red Hat:enterprise_linux:9::baseos",
-        "purl": "pkg:rpm/redhat/avahi-gobject"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
         "name": "avahi-gobject-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::baseos",
         "purl": "pkg:rpm/redhat/avahi-gobject-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
-        "name": "avahi-gobject-devel",
-        "ecosystem": "Red Hat:enterprise_linux:9::baseos",
-        "purl": "pkg:rpm/redhat/avahi-gobject-devel"
       },
       "ranges": [
         {
@@ -1071,29 +611,6 @@
         "name": "avahi-libs-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::baseos",
         "purl": "pkg:rpm/redhat/avahi-libs-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
-        "name": "avahi-tools",
-        "ecosystem": "Red Hat:enterprise_linux:9::baseos",
-        "purl": "pkg:rpm/redhat/avahi-tools"
       },
       "ranges": [
         {
@@ -1206,52 +723,6 @@
     },
     {
       "package": {
-        "name": "avahi",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/avahi"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
-        "name": "avahi-autoipd",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/avahi-autoipd"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
         "name": "avahi-autoipd-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::crb",
         "purl": "pkg:rpm/redhat/avahi-autoipd-debuginfo"
@@ -1505,29 +976,6 @@
     },
     {
       "package": {
-        "name": "avahi-glib",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/avahi-glib"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
         "name": "avahi-glib-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::crb",
         "purl": "pkg:rpm/redhat/avahi-glib-debuginfo"
@@ -1643,55 +1091,9 @@
     },
     {
       "package": {
-        "name": "avahi-libs",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/avahi-libs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
         "name": "avahi-libs-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::crb",
         "purl": "pkg:rpm/redhat/avahi-libs-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.8-22.el9_6.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11402.json"
-      }
-    },
-    {
-      "package": {
-        "name": "avahi-tools",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/avahi-tools"
       },
       "ranges": [
         {

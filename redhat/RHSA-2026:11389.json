@@ -2,35 +2,12 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:11389",
   "published": "2026-04-29T10:06:34Z",
-  "modified": "2026-06-03T10:15:58Z",
+  "modified": "2026-06-29T11:24:38Z",
   "upstream": [
     "CVE-2026-34982"
   ],
   "summary": "Red Hat Security Advisory: vim security update",
   "affected": [
-    {
-      "package": {
-        "name": "vim",
-        "ecosystem": "Red Hat:enterprise_linux:10.1",
-        "purl": "pkg:rpm/redhat/vim"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "2:9.1.083-6.el10_1.4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:11389.json"
-      }
-    },
     {
       "package": {
         "name": "vim-X11",
@@ -82,29 +59,6 @@
         "name": "vim-common",
         "ecosystem": "Red Hat:enterprise_linux:10.1",
         "purl": "pkg:rpm/redhat/vim-common"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "2:9.1.083-6.el10_1.4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:11389.json"
-      }
-    },
-    {
-      "package": {
-        "name": "vim-data",
-        "ecosystem": "Red Hat:enterprise_linux:10.1",
-        "purl": "pkg:rpm/redhat/vim-data"
       },
       "ranges": [
         {
@@ -217,52 +171,6 @@
     },
     {
       "package": {
-        "name": "vim-filesystem",
-        "ecosystem": "Red Hat:enterprise_linux:10.1",
-        "purl": "pkg:rpm/redhat/vim-filesystem"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "2:9.1.083-6.el10_1.4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:11389.json"
-      }
-    },
-    {
-      "package": {
-        "name": "vim-minimal",
-        "ecosystem": "Red Hat:enterprise_linux:10.1",
-        "purl": "pkg:rpm/redhat/vim-minimal"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "2:9.1.083-6.el10_1.4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:11389.json"
-      }
-    },
-    {
-      "package": {
         "name": "vim-minimal-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:10.1",
         "purl": "pkg:rpm/redhat/vim-minimal-debuginfo"
@@ -312,6 +220,98 @@
         "name": "xxd-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:10.1",
         "purl": "pkg:rpm/redhat/xxd-debuginfo"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "2:9.1.083-6.el10_1.4"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:11389.json"
+      }
+    },
+    {
+      "package": {
+        "name": "vim",
+        "ecosystem": "Red Hat:enterprise_linux:10.1",
+        "purl": "pkg:rpm/redhat/vim"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "2:9.1.083-6.el10_1.4"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:11389.json"
+      }
+    },
+    {
+      "package": {
+        "name": "vim-data",
+        "ecosystem": "Red Hat:enterprise_linux:10.1",
+        "purl": "pkg:rpm/redhat/vim-data"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "2:9.1.083-6.el10_1.4"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:11389.json"
+      }
+    },
+    {
+      "package": {
+        "name": "vim-filesystem",
+        "ecosystem": "Red Hat:enterprise_linux:10.1",
+        "purl": "pkg:rpm/redhat/vim-filesystem"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "2:9.1.083-6.el10_1.4"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:11389.json"
+      }
+    },
+    {
+      "package": {
+        "name": "vim-minimal",
+        "ecosystem": "Red Hat:enterprise_linux:10.1",
+        "purl": "pkg:rpm/redhat/vim-minimal"
       },
       "ranges": [
         {

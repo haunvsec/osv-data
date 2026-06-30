@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:21220",
   "published": "2025-11-13T10:07:33Z",
-  "modified": "2026-06-08T10:02:13Z",
+  "modified": "2026-06-29T11:17:21Z",
   "upstream": [
     "CVE-2025-52881"
   ],
@@ -148,9 +148,9 @@
     },
     {
       "package": {
-        "name": "podman-tests",
+        "name": "podman-tests-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:10.1",
-        "purl": "pkg:rpm/redhat/podman-tests"
+        "purl": "pkg:rpm/redhat/podman-tests-debuginfo"
       },
       "ranges": [
         {
@@ -171,9 +171,9 @@
     },
     {
       "package": {
-        "name": "podman-tests-debuginfo",
+        "name": "podman-tests",
         "ecosystem": "Red Hat:enterprise_linux:10.1",
-        "purl": "pkg:rpm/redhat/podman-tests-debuginfo"
+        "purl": "pkg:rpm/redhat/podman-tests"
       },
       "ranges": [
         {

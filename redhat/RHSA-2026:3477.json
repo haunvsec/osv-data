@@ -2,36 +2,13 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:3477",
   "published": "2026-03-03T10:24:48Z",
-  "modified": "2026-06-03T10:33:15.551379417Z",
+  "modified": "2026-06-29T11:30:03Z",
   "upstream": [
     "CVE-2025-9820",
     "CVE-2025-14831"
   ],
   "summary": "Red Hat Security Advisory: gnutls security update",
   "affected": [
-    {
-      "package": {
-        "name": "gnutls",
-        "ecosystem": "Red Hat:enterprise_linux:10.1",
-        "purl": "pkg:rpm/redhat/gnutls"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.8.10-3.el10_1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:3477.json"
-      }
-    },
     {
       "package": {
         "name": "gnutls-c++",
@@ -244,6 +221,29 @@
         "name": "gnutls-utils-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:10.1",
         "purl": "pkg:rpm/redhat/gnutls-utils-debuginfo"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:3.8.10-3.el10_1"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:3477.json"
+      }
+    },
+    {
+      "package": {
+        "name": "gnutls",
+        "ecosystem": "Red Hat:enterprise_linux:10.1",
+        "purl": "pkg:rpm/redhat/gnutls"
       },
       "ranges": [
         {

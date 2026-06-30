@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:1336",
   "published": "2026-01-28T10:13:23Z",
-  "modified": "2026-06-08T10:03:45Z",
+  "modified": "2026-06-29T11:25:06Z",
   "upstream": [
     "CVE-2025-66418"
   ],
@@ -102,124 +102,9 @@
     },
     {
       "package": {
-        "name": "resource-agents-sap",
-        "ecosystem": "Red Hat:enterprise_linux:7::server",
-        "purl": "pkg:rpm/redhat/resource-agents-sap"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.1.1-61.el7_9.21"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:1336.json"
-      }
-    },
-    {
-      "package": {
-        "name": "resource-agents-sap-hana",
-        "ecosystem": "Red Hat:enterprise_linux:7::server",
-        "purl": "pkg:rpm/redhat/resource-agents-sap-hana"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.1.1-61.el7_9.21"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:1336.json"
-      }
-    },
-    {
-      "package": {
-        "name": "resource-agents-sap-hana-scaleout",
-        "ecosystem": "Red Hat:enterprise_linux:7::server",
-        "purl": "pkg:rpm/redhat/resource-agents-sap-hana-scaleout"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.164.0-6.el7_9.21"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:1336.json"
-      }
-    },
-    {
-      "package": {
-        "name": "sap-cluster-connector",
-        "ecosystem": "Red Hat:enterprise_linux:7::server",
-        "purl": "pkg:rpm/redhat/sap-cluster-connector"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.0.1-37.el7_9.21"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:1336.json"
-      }
-    },
-    {
-      "package": {
         "name": "resource-agents",
         "ecosystem": "Red Hat:rhel_extras_sap_els:7",
         "purl": "pkg:rpm/redhat/resource-agents"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.1.1-61.el7_9.21"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:1336.json"
-      }
-    },
-    {
-      "package": {
-        "name": "resource-agents-aliyun",
-        "ecosystem": "Red Hat:rhel_extras_sap_els:7",
-        "purl": "pkg:rpm/redhat/resource-agents-aliyun"
       },
       "ranges": [
         {
@@ -263,29 +148,6 @@
     },
     {
       "package": {
-        "name": "resource-agents-gcp",
-        "ecosystem": "Red Hat:rhel_extras_sap_els:7",
-        "purl": "pkg:rpm/redhat/resource-agents-gcp"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.1.1-61.el7_9.21"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:1336.json"
-      }
-    },
-    {
-      "package": {
         "name": "resource-agents-sap",
         "ecosystem": "Red Hat:rhel_extras_sap_els:7",
         "purl": "pkg:rpm/redhat/resource-agents-sap"
@@ -299,52 +161,6 @@
             },
             {
               "fixed": "0:4.1.1-61.el7_9.21"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:1336.json"
-      }
-    },
-    {
-      "package": {
-        "name": "resource-agents-sap-hana",
-        "ecosystem": "Red Hat:rhel_extras_sap_els:7",
-        "purl": "pkg:rpm/redhat/resource-agents-sap-hana"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.1.1-61.el7_9.21"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:1336.json"
-      }
-    },
-    {
-      "package": {
-        "name": "resource-agents-sap-hana-scaleout",
-        "ecosystem": "Red Hat:rhel_extras_sap_els:7",
-        "purl": "pkg:rpm/redhat/resource-agents-sap-hana-scaleout"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.164.0-6.el7_9.21"
             }
           ]
         }
@@ -401,78 +217,9 @@
     },
     {
       "package": {
-        "name": "resource-agents-aliyun",
-        "ecosystem": "Red Hat:rhel_extras_sap_hana_els:7",
-        "purl": "pkg:rpm/redhat/resource-agents-aliyun"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.1.1-61.el7_9.21"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:1336.json"
-      }
-    },
-    {
-      "package": {
         "name": "resource-agents-debuginfo",
         "ecosystem": "Red Hat:rhel_extras_sap_hana_els:7",
         "purl": "pkg:rpm/redhat/resource-agents-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.1.1-61.el7_9.21"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:1336.json"
-      }
-    },
-    {
-      "package": {
-        "name": "resource-agents-gcp",
-        "ecosystem": "Red Hat:rhel_extras_sap_hana_els:7",
-        "purl": "pkg:rpm/redhat/resource-agents-gcp"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.1.1-61.el7_9.21"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:1336.json"
-      }
-    },
-    {
-      "package": {
-        "name": "resource-agents-sap",
-        "ecosystem": "Red Hat:rhel_extras_sap_hana_els:7",
-        "purl": "pkg:rpm/redhat/resource-agents-sap"
       },
       "ranges": [
         {
@@ -529,29 +276,6 @@
             },
             {
               "fixed": "0:0.164.0-6.el7_9.21"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:1336.json"
-      }
-    },
-    {
-      "package": {
-        "name": "sap-cluster-connector",
-        "ecosystem": "Red Hat:rhel_extras_sap_hana_els:7",
-        "purl": "pkg:rpm/redhat/sap-cluster-connector"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.0.1-37.el7_9.21"
             }
           ]
         }

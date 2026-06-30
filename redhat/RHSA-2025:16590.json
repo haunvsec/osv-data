@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:16590",
   "published": "2025-09-25T10:18:41Z",
-  "modified": "2026-06-03T10:12:30Z",
+  "modified": "2026-06-29T11:13:19Z",
   "upstream": [
     "CVE-2025-58060",
     "CVE-2025-58364"
@@ -218,29 +218,6 @@
     },
     {
       "package": {
-        "name": "cups-libs",
-        "ecosystem": "Red Hat:rhel_e4s:9.0::appstream",
-        "purl": "pkg:rpm/redhat/cups-libs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.3.3op2-13.el9_0.4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16590.json"
-      }
-    },
-    {
-      "package": {
         "name": "cups-libs-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:9.0::appstream",
         "purl": "pkg:rpm/redhat/cups-libs-debuginfo"
@@ -379,29 +356,6 @@
     },
     {
       "package": {
-        "name": "cups-client",
-        "ecosystem": "Red Hat:rhel_e4s:9.0::baseos",
-        "purl": "pkg:rpm/redhat/cups-client"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.3.3op2-13.el9_0.4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16590.json"
-      }
-    },
-    {
-      "package": {
         "name": "cups-client-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:9.0::baseos",
         "purl": "pkg:rpm/redhat/cups-client-debuginfo"
@@ -451,75 +405,6 @@
         "name": "cups-debugsource",
         "ecosystem": "Red Hat:rhel_e4s:9.0::baseos",
         "purl": "pkg:rpm/redhat/cups-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.3.3op2-13.el9_0.4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16590.json"
-      }
-    },
-    {
-      "package": {
-        "name": "cups-devel",
-        "ecosystem": "Red Hat:rhel_e4s:9.0::baseos",
-        "purl": "pkg:rpm/redhat/cups-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.3.3op2-13.el9_0.4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16590.json"
-      }
-    },
-    {
-      "package": {
-        "name": "cups-filesystem",
-        "ecosystem": "Red Hat:rhel_e4s:9.0::baseos",
-        "purl": "pkg:rpm/redhat/cups-filesystem"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.3.3op2-13.el9_0.4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16590.json"
-      }
-    },
-    {
-      "package": {
-        "name": "cups-ipptool",
-        "ecosystem": "Red Hat:rhel_e4s:9.0::baseos",
-        "purl": "pkg:rpm/redhat/cups-ipptool"
       },
       "ranges": [
         {
@@ -609,55 +494,9 @@
     },
     {
       "package": {
-        "name": "cups-lpd",
-        "ecosystem": "Red Hat:rhel_e4s:9.0::baseos",
-        "purl": "pkg:rpm/redhat/cups-lpd"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.3.3op2-13.el9_0.4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16590.json"
-      }
-    },
-    {
-      "package": {
         "name": "cups-lpd-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:9.0::baseos",
         "purl": "pkg:rpm/redhat/cups-lpd-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.3.3op2-13.el9_0.4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16590.json"
-      }
-    },
-    {
-      "package": {
-        "name": "cups-printerapp",
-        "ecosystem": "Red Hat:rhel_e4s:9.0::baseos",
-        "purl": "pkg:rpm/redhat/cups-printerapp"
       },
       "ranges": [
         {

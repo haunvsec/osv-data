@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:18814",
   "published": "2025-10-23T10:05:31Z",
-  "modified": "2026-04-21T10:21:28.356661Z",
+  "modified": "2026-06-29T11:15:15Z",
   "upstream": [
     "CVE-2025-53057",
     "CVE-2025-53066"
@@ -34,55 +34,9 @@
     },
     {
       "package": {
-        "name": "java-1.8.0-openjdk-accessibility",
-        "ecosystem": "Red Hat:rhel_els:7",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-accessibility"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.472.b08-1.el7_9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:18814.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-1.8.0-openjdk-debuginfo",
         "ecosystem": "Red Hat:rhel_els:7",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.472.b08-1.el7_9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:18814.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-demo",
-        "ecosystem": "Red Hat:rhel_els:7",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-demo"
       },
       "ranges": [
         {
@@ -129,6 +83,52 @@
         "name": "java-1.8.0-openjdk-headless",
         "ecosystem": "Red Hat:rhel_els:7",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-headless"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "1:1.8.0.472.b08-1.el7_9"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:18814.json"
+      }
+    },
+    {
+      "package": {
+        "name": "java-1.8.0-openjdk-accessibility",
+        "ecosystem": "Red Hat:rhel_els:7",
+        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-accessibility"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "1:1.8.0.472.b08-1.el7_9"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:18814.json"
+      }
+    },
+    {
+      "package": {
+        "name": "java-1.8.0-openjdk-demo",
+        "ecosystem": "Red Hat:rhel_els:7",
+        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-demo"
       },
       "ranges": [
         {

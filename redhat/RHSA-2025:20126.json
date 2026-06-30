@@ -2,35 +2,12 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:20126",
   "published": "2025-11-11T10:07:41Z",
-  "modified": "2026-06-03T10:12:56Z",
+  "modified": "2026-06-29T11:16:34Z",
   "upstream": [
     "CVE-2025-32728"
   ],
   "summary": "Red Hat Security Advisory: openssh security update",
   "affected": [
-    {
-      "package": {
-        "name": "openssh",
-        "ecosystem": "Red Hat:enterprise_linux:10.1",
-        "purl": "pkg:rpm/redhat/openssh"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:9.9p1-11.el10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:20126.json"
-      }
-    },
     {
       "package": {
         "name": "openssh-askpass",
@@ -59,29 +36,6 @@
         "name": "openssh-askpass-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:10.1",
         "purl": "pkg:rpm/redhat/openssh-askpass-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:9.9p1-11.el10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:20126.json"
-      }
-    },
-    {
-      "package": {
-        "name": "openssh-clients",
-        "ecosystem": "Red Hat:enterprise_linux:10.1",
-        "purl": "pkg:rpm/redhat/openssh-clients"
       },
       "ranges": [
         {
@@ -171,29 +125,6 @@
     },
     {
       "package": {
-        "name": "openssh-keycat",
-        "ecosystem": "Red Hat:enterprise_linux:10.1",
-        "purl": "pkg:rpm/redhat/openssh-keycat"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:9.9p1-11.el10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:20126.json"
-      }
-    },
-    {
-      "package": {
         "name": "openssh-keycat-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:10.1",
         "purl": "pkg:rpm/redhat/openssh-keycat-debuginfo"
@@ -263,29 +194,6 @@
     },
     {
       "package": {
-        "name": "openssh-server",
-        "ecosystem": "Red Hat:enterprise_linux:10.1",
-        "purl": "pkg:rpm/redhat/openssh-server"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:9.9p1-11.el10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:20126.json"
-      }
-    },
-    {
-      "package": {
         "name": "openssh-server-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:10.1",
         "purl": "pkg:rpm/redhat/openssh-server-debuginfo"
@@ -312,6 +220,98 @@
         "name": "openssh-sk-dummy-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:10.1",
         "purl": "pkg:rpm/redhat/openssh-sk-dummy-debuginfo"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:9.9p1-11.el10"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:20126.json"
+      }
+    },
+    {
+      "package": {
+        "name": "openssh",
+        "ecosystem": "Red Hat:enterprise_linux:10.1",
+        "purl": "pkg:rpm/redhat/openssh"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:9.9p1-11.el10"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:20126.json"
+      }
+    },
+    {
+      "package": {
+        "name": "openssh-clients",
+        "ecosystem": "Red Hat:enterprise_linux:10.1",
+        "purl": "pkg:rpm/redhat/openssh-clients"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:9.9p1-11.el10"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:20126.json"
+      }
+    },
+    {
+      "package": {
+        "name": "openssh-keycat",
+        "ecosystem": "Red Hat:enterprise_linux:10.1",
+        "purl": "pkg:rpm/redhat/openssh-keycat"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:9.9p1-11.el10"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:20126.json"
+      }
+    },
+    {
+      "package": {
+        "name": "openssh-server",
+        "ecosystem": "Red Hat:enterprise_linux:10.1",
+        "purl": "pkg:rpm/redhat/openssh-server"
       },
       "ranges": [
         {

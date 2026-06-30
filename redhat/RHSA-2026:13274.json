@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:13274",
   "published": "2026-05-04T10:09:53Z",
-  "modified": "2026-06-05T10:03:27Z",
+  "modified": "2026-06-29T11:25:01Z",
   "upstream": [
     "CVE-2026-3832",
     "CVE-2026-3833",
@@ -199,6 +199,10 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-42009"
     },
     {
+      "type": "ARTICLE",
+      "url": "https://www.gnutls.org/security-new.html#GNUTLS-SA-2026-04-29-2"
+    },
+    {
       "type": "REPORT",
       "url": "https://bugzilla.redhat.com/show_bug.cgi?id=2467289"
     },
@@ -211,6 +215,10 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-42010"
     },
     {
+      "type": "ARTICLE",
+      "url": "https://www.gnutls.org/security-new.html#GNUTLS-SA-2026-04-29-4"
+    },
+    {
       "type": "REPORT",
       "url": "https://bugzilla.redhat.com/show_bug.cgi?id=2467437"
     },
@@ -221,6 +229,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-42011"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://www.gnutls.org/security-new.html#GNUTLS-SA-2026-04-29-6"
     }
   ],
   "severity": [

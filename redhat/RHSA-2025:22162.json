@@ -2,35 +2,12 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:22162",
   "published": "2025-11-26T10:17:33Z",
-  "modified": "2026-06-05T10:02:06Z",
+  "modified": "2026-06-29T11:18:42Z",
   "upstream": [
     "CVE-2025-9714"
   ],
   "summary": "Red Hat Security Advisory: libxml2 security update",
   "affected": [
-    {
-      "package": {
-        "name": "libxml2",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/libxml2"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.9.13-3.el9_2.10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:22162.json"
-      }
-    },
     {
       "package": {
         "name": "libxml2-debuginfo",
@@ -82,29 +59,6 @@
         "name": "libxml2-devel",
         "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
         "purl": "pkg:rpm/redhat/libxml2-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.9.13-3.el9_2.10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:22162.json"
-      }
-    },
-    {
-      "package": {
-        "name": "python3-libxml2",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/python3-libxml2"
       },
       "ranges": [
         {
@@ -197,29 +151,6 @@
         "name": "libxml2-debugsource",
         "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
         "purl": "pkg:rpm/redhat/libxml2-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.9.13-3.el9_2.10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:22162.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libxml2-devel",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
-        "purl": "pkg:rpm/redhat/libxml2-devel"
       },
       "ranges": [
         {

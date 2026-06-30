@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:6918",
   "published": "2026-04-08T10:09:00Z",
-  "modified": "2026-05-20T10:14:17Z",
+  "modified": "2026-06-29T11:31:25Z",
   "upstream": [
     "CVE-2026-22852",
     "CVE-2026-22854",
@@ -91,29 +91,6 @@
     },
     {
       "package": {
-        "name": "freerdp-devel",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/freerdp-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "2:2.11.7-6.el8_10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:6918.json"
-      }
-    },
-    {
-      "package": {
         "name": "freerdp-libs",
         "ecosystem": "Red Hat:enterprise_linux:8::appstream",
         "purl": "pkg:rpm/redhat/freerdp-libs"
@@ -209,29 +186,6 @@
         "name": "libwinpr-devel",
         "ecosystem": "Red Hat:enterprise_linux:8::appstream",
         "purl": "pkg:rpm/redhat/libwinpr-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "2:2.11.7-6.el8_10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:6918.json"
-      }
-    },
-    {
-      "package": {
-        "name": "freerdp",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/freerdp"
       },
       "ranges": [
         {
@@ -321,29 +275,6 @@
     },
     {
       "package": {
-        "name": "freerdp-libs",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/freerdp-libs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "2:2.11.7-6.el8_10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:6918.json"
-      }
-    },
-    {
-      "package": {
         "name": "freerdp-libs-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:8::crb",
         "purl": "pkg:rpm/redhat/freerdp-libs-debuginfo"
@@ -367,55 +298,9 @@
     },
     {
       "package": {
-        "name": "libwinpr",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/libwinpr"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "2:2.11.7-6.el8_10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:6918.json"
-      }
-    },
-    {
-      "package": {
         "name": "libwinpr-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:8::crb",
         "purl": "pkg:rpm/redhat/libwinpr-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "2:2.11.7-6.el8_10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:6918.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libwinpr-devel",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/libwinpr-devel"
       },
       "ranges": [
         {

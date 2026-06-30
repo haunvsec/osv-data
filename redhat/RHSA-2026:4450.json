@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:4450",
   "published": "2026-03-13T10:18:29Z",
-  "modified": "2026-04-24T10:09:38Z",
+  "modified": "2026-06-29T11:30:42Z",
   "upstream": [
     "CVE-2026-26127",
     "CVE-2026-26130"
@@ -287,29 +287,6 @@
     },
     {
       "package": {
-        "name": "dotnet-sdk-9.0-source-built-artifacts",
-        "ecosystem": "Red Hat:enterprise_linux:10.1",
-        "purl": "pkg:rpm/redhat/dotnet-sdk-9.0-source-built-artifacts"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:9.0.115-1.el10_1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:4450.json"
-      }
-    },
-    {
-      "package": {
         "name": "dotnet-sdk-aot-9.0",
         "ecosystem": "Red Hat:enterprise_linux:10.1",
         "purl": "pkg:rpm/redhat/dotnet-sdk-aot-9.0"
@@ -474,6 +451,29 @@
         "name": "netstandard-targeting-pack-2.1",
         "ecosystem": "Red Hat:enterprise_linux:10.1",
         "purl": "pkg:rpm/redhat/netstandard-targeting-pack-2.1"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:9.0.115-1.el10_1"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:4450.json"
+      }
+    },
+    {
+      "package": {
+        "name": "dotnet-sdk-9.0-source-built-artifacts",
+        "ecosystem": "Red Hat:enterprise_linux:10.1",
+        "purl": "pkg:rpm/redhat/dotnet-sdk-9.0-source-built-artifacts"
       },
       "ranges": [
         {

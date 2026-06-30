@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:19352",
   "published": "2025-10-31T10:03:24Z",
-  "modified": "2026-04-13T10:03:02Z",
+  "modified": "2026-06-29T11:15:43Z",
   "upstream": [
     "CVE-2025-31223",
     "CVE-2025-31277",
@@ -85,29 +85,6 @@
     },
     {
       "package": {
-        "name": "webkitgtk4-doc",
-        "ecosystem": "Red Hat:rhel_els:7",
-        "purl": "pkg:rpm/redhat/webkitgtk4-doc"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.50.0-1.el7_9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:19352.json"
-      }
-    },
-    {
-      "package": {
         "name": "webkitgtk4-jsc",
         "ecosystem": "Red Hat:rhel_els:7",
         "purl": "pkg:rpm/redhat/webkitgtk4-jsc"
@@ -134,6 +111,29 @@
         "name": "webkitgtk4-jsc-devel",
         "ecosystem": "Red Hat:rhel_els:7",
         "purl": "pkg:rpm/redhat/webkitgtk4-jsc-devel"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:2.50.0-1.el7_9"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:19352.json"
+      }
+    },
+    {
+      "package": {
+        "name": "webkitgtk4-doc",
+        "ecosystem": "Red Hat:rhel_els:7",
+        "purl": "pkg:rpm/redhat/webkitgtk4-doc"
       },
       "ranges": [
         {

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "GHSA-hpcv-96wg-7vj8",
   "published": "2026-06-15T19:56:35Z",
-  "modified": "2026-06-17T16:59:16.858259705Z",
+  "modified": "2026-06-29T05:15:09.608952907Z",
   "aliases": [
     "CVE-2026-49458"
   ],
@@ -49,9 +49,9 @@
   ],
   "database_specific": {
     "cwe_ids": [
-      "CWE-79",
       "CWE-501",
-      "CWE-693"
+      "CWE-693",
+      "CWE-79"
     ],
     "github_reviewed": true,
     "github_reviewed_at": "2026-06-15T19:56:35Z",

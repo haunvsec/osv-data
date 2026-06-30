@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:2130",
   "published": "2025-03-04T10:07:55Z",
-  "modified": "2026-03-18T11:37:10.414783Z",
+  "modified": "2026-06-29T11:17:26Z",
   "upstream": [
     "CVE-2025-1244"
   ],
@@ -79,29 +79,6 @@
     },
     {
       "package": {
-        "name": "emacs-el",
-        "ecosystem": "Red Hat:rhel_els:7",
-        "purl": "pkg:rpm/redhat/emacs-el"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:24.3-23.el7_9.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:2130.json"
-      }
-    },
-    {
-      "package": {
         "name": "emacs-filesystem",
         "ecosystem": "Red Hat:rhel_els:7",
         "purl": "pkg:rpm/redhat/emacs-filesystem"
@@ -128,6 +105,29 @@
         "name": "emacs-nox",
         "ecosystem": "Red Hat:rhel_els:7",
         "purl": "pkg:rpm/redhat/emacs-nox"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "1:24.3-23.el7_9.2"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:2130.json"
+      }
+    },
+    {
+      "package": {
+        "name": "emacs-el",
+        "ecosystem": "Red Hat:rhel_els:7",
+        "purl": "pkg:rpm/redhat/emacs-el"
       },
       "ranges": [
         {
@@ -198,6 +198,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-1244"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://git.savannah.gnu.org/cgit/emacs.git/commit/?id=820f0793f0b46448928905552726c1f1b999062f"
     }
   ],
   "severity": [

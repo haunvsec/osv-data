@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:10484",
   "published": "2025-07-08T10:04:13Z",
-  "modified": "2026-06-03T10:10:43Z",
+  "modified": "2026-06-29T11:05:58Z",
   "upstream": [
     "CVE-2024-12718",
     "CVE-2025-4138",
@@ -83,29 +83,6 @@
     },
     {
       "package": {
-        "name": "python3",
-        "ecosystem": "Red Hat:rhel_aus:8.6::appstream",
-        "purl": "pkg:rpm/redhat/python3"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.6.8-47.el8_6.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10484.json"
-      }
-    },
-    {
-      "package": {
         "name": "python3-debuginfo",
         "ecosystem": "Red Hat:rhel_aus:8.6::appstream",
         "purl": "pkg:rpm/redhat/python3-debuginfo"
@@ -155,29 +132,6 @@
         "name": "python3-idle",
         "ecosystem": "Red Hat:rhel_aus:8.6::appstream",
         "purl": "pkg:rpm/redhat/python3-idle"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.6.8-47.el8_6.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10484.json"
-      }
-    },
-    {
-      "package": {
-        "name": "python3-libs",
-        "ecosystem": "Red Hat:rhel_aus:8.6::appstream",
-        "purl": "pkg:rpm/redhat/python3-libs"
       },
       "ranges": [
         {
@@ -313,29 +267,6 @@
     },
     {
       "package": {
-        "name": "python3",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
-        "purl": "pkg:rpm/redhat/python3"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.6.8-47.el8_6.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10484.json"
-      }
-    },
-    {
-      "package": {
         "name": "python3-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
         "purl": "pkg:rpm/redhat/python3-debuginfo"
@@ -385,29 +316,6 @@
         "name": "python3-idle",
         "ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
         "purl": "pkg:rpm/redhat/python3-idle"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.6.8-47.el8_6.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10484.json"
-      }
-    },
-    {
-      "package": {
-        "name": "python3-libs",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
-        "purl": "pkg:rpm/redhat/python3-libs"
       },
       "ranges": [
         {
@@ -543,29 +451,6 @@
     },
     {
       "package": {
-        "name": "python3",
-        "ecosystem": "Red Hat:rhel_eus_long_life:8.6::appstream",
-        "purl": "pkg:rpm/redhat/python3"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.6.8-47.el8_6.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10484.json"
-      }
-    },
-    {
-      "package": {
         "name": "python3-debuginfo",
         "ecosystem": "Red Hat:rhel_eus_long_life:8.6::appstream",
         "purl": "pkg:rpm/redhat/python3-debuginfo"
@@ -615,29 +500,6 @@
         "name": "python3-idle",
         "ecosystem": "Red Hat:rhel_eus_long_life:8.6::appstream",
         "purl": "pkg:rpm/redhat/python3-idle"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.6.8-47.el8_6.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10484.json"
-      }
-    },
-    {
-      "package": {
-        "name": "python3-libs",
-        "ecosystem": "Red Hat:rhel_eus_long_life:8.6::appstream",
-        "purl": "pkg:rpm/redhat/python3-libs"
       },
       "ranges": [
         {
@@ -773,29 +635,6 @@
     },
     {
       "package": {
-        "name": "python3",
-        "ecosystem": "Red Hat:rhel_tus:8.6::appstream",
-        "purl": "pkg:rpm/redhat/python3"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.6.8-47.el8_6.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10484.json"
-      }
-    },
-    {
-      "package": {
         "name": "python3-debuginfo",
         "ecosystem": "Red Hat:rhel_tus:8.6::appstream",
         "purl": "pkg:rpm/redhat/python3-debuginfo"
@@ -845,29 +684,6 @@
         "name": "python3-idle",
         "ecosystem": "Red Hat:rhel_tus:8.6::appstream",
         "purl": "pkg:rpm/redhat/python3-idle"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.6.8-47.el8_6.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10484.json"
-      }
-    },
-    {
-      "package": {
-        "name": "python3-libs",
-        "ecosystem": "Red Hat:rhel_tus:8.6::appstream",
-        "purl": "pkg:rpm/redhat/python3-libs"
       },
       "ranges": [
         {
@@ -957,52 +773,6 @@
     },
     {
       "package": {
-        "name": "platform-python-debug",
-        "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/platform-python-debug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.6.8-47.el8_6.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10484.json"
-      }
-    },
-    {
-      "package": {
-        "name": "platform-python-devel",
-        "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/platform-python-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.6.8-47.el8_6.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10484.json"
-      }
-    },
-    {
-      "package": {
         "name": "python3",
         "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
         "purl": "pkg:rpm/redhat/python3"
@@ -1072,29 +842,6 @@
     },
     {
       "package": {
-        "name": "python3-idle",
-        "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/python3-idle"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.6.8-47.el8_6.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10484.json"
-      }
-    },
-    {
-      "package": {
         "name": "python3-libs",
         "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
         "purl": "pkg:rpm/redhat/python3-libs"
@@ -1121,29 +868,6 @@
         "name": "python3-test",
         "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
         "purl": "pkg:rpm/redhat/python3-test"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.6.8-47.el8_6.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10484.json"
-      }
-    },
-    {
-      "package": {
-        "name": "python3-tkinter",
-        "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/python3-tkinter"
       },
       "ranges": [
         {
@@ -1187,52 +911,6 @@
     },
     {
       "package": {
-        "name": "platform-python-debug",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
-        "purl": "pkg:rpm/redhat/platform-python-debug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.6.8-47.el8_6.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10484.json"
-      }
-    },
-    {
-      "package": {
-        "name": "platform-python-devel",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
-        "purl": "pkg:rpm/redhat/platform-python-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.6.8-47.el8_6.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10484.json"
-      }
-    },
-    {
-      "package": {
         "name": "python3",
         "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
         "purl": "pkg:rpm/redhat/python3"
@@ -1302,29 +980,6 @@
     },
     {
       "package": {
-        "name": "python3-idle",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
-        "purl": "pkg:rpm/redhat/python3-idle"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.6.8-47.el8_6.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10484.json"
-      }
-    },
-    {
-      "package": {
         "name": "python3-libs",
         "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
         "purl": "pkg:rpm/redhat/python3-libs"
@@ -1351,29 +1006,6 @@
         "name": "python3-test",
         "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
         "purl": "pkg:rpm/redhat/python3-test"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.6.8-47.el8_6.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10484.json"
-      }
-    },
-    {
-      "package": {
-        "name": "python3-tkinter",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
-        "purl": "pkg:rpm/redhat/python3-tkinter"
       },
       "ranges": [
         {
@@ -1417,52 +1049,6 @@
     },
     {
       "package": {
-        "name": "platform-python-debug",
-        "ecosystem": "Red Hat:rhel_eus_long_life:8.6::baseos",
-        "purl": "pkg:rpm/redhat/platform-python-debug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.6.8-47.el8_6.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10484.json"
-      }
-    },
-    {
-      "package": {
-        "name": "platform-python-devel",
-        "ecosystem": "Red Hat:rhel_eus_long_life:8.6::baseos",
-        "purl": "pkg:rpm/redhat/platform-python-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.6.8-47.el8_6.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10484.json"
-      }
-    },
-    {
-      "package": {
         "name": "python3",
         "ecosystem": "Red Hat:rhel_eus_long_life:8.6::baseos",
         "purl": "pkg:rpm/redhat/python3"
@@ -1532,29 +1118,6 @@
     },
     {
       "package": {
-        "name": "python3-idle",
-        "ecosystem": "Red Hat:rhel_eus_long_life:8.6::baseos",
-        "purl": "pkg:rpm/redhat/python3-idle"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.6.8-47.el8_6.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10484.json"
-      }
-    },
-    {
-      "package": {
         "name": "python3-libs",
         "ecosystem": "Red Hat:rhel_eus_long_life:8.6::baseos",
         "purl": "pkg:rpm/redhat/python3-libs"
@@ -1581,29 +1144,6 @@
         "name": "python3-test",
         "ecosystem": "Red Hat:rhel_eus_long_life:8.6::baseos",
         "purl": "pkg:rpm/redhat/python3-test"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.6.8-47.el8_6.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10484.json"
-      }
-    },
-    {
-      "package": {
-        "name": "python3-tkinter",
-        "ecosystem": "Red Hat:rhel_eus_long_life:8.6::baseos",
-        "purl": "pkg:rpm/redhat/python3-tkinter"
       },
       "ranges": [
         {
@@ -1647,52 +1187,6 @@
     },
     {
       "package": {
-        "name": "platform-python-debug",
-        "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/platform-python-debug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.6.8-47.el8_6.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10484.json"
-      }
-    },
-    {
-      "package": {
-        "name": "platform-python-devel",
-        "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/platform-python-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.6.8-47.el8_6.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10484.json"
-      }
-    },
-    {
-      "package": {
         "name": "python3",
         "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
         "purl": "pkg:rpm/redhat/python3"
@@ -1762,29 +1256,6 @@
     },
     {
       "package": {
-        "name": "python3-idle",
-        "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/python3-idle"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.6.8-47.el8_6.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10484.json"
-      }
-    },
-    {
-      "package": {
         "name": "python3-libs",
         "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
         "purl": "pkg:rpm/redhat/python3-libs"
@@ -1811,29 +1282,6 @@
         "name": "python3-test",
         "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
         "purl": "pkg:rpm/redhat/python3-test"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.6.8-47.el8_6.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10484.json"
-      }
-    },
-    {
-      "package": {
-        "name": "python3-tkinter",
-        "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/python3-tkinter"
       },
       "ranges": [
         {

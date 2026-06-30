@@ -2,36 +2,13 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:16487",
   "published": "2025-09-24T10:05:55Z",
-  "modified": "2026-03-18T11:38:53.628222Z",
+  "modified": "2026-06-29T11:13:10Z",
   "upstream": [
     "CVE-2025-48432",
     "CVE-2025-57833"
   ],
   "summary": "Red Hat Security Advisory: Red Hat Ansible Automation Platform 2.5 Product Security and Bug Fix Update",
   "affected": [
-    {
-      "package": {
-        "name": "automation-controller-venv-tower",
-        "ecosystem": "Red Hat:ansible_automation_platform_developer:2.5::el8",
-        "purl": "pkg:rpm/redhat/automation-controller-venv-tower"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.6.20-1.el8ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16487.json"
-      }
-    },
     {
       "package": {
         "name": "automation-controller-venv-tower",
@@ -47,29 +24,6 @@
             },
             {
               "fixed": "0:4.6.20-1.el8ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16487.json"
-      }
-    },
-    {
-      "package": {
-        "name": "automation-controller-venv-tower",
-        "ecosystem": "Red Hat:ansible_automation_platform_developer:2.5::el9",
-        "purl": "pkg:rpm/redhat/automation-controller-venv-tower"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.6.20-1.el9ap"
             }
           ]
         }

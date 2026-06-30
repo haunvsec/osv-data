@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:21664",
   "published": "2025-11-18T10:11:25Z",
-  "modified": "2026-03-20T10:33:05.691446Z",
+  "modified": "2026-06-29T11:17:49Z",
   "upstream": [
     "CVE-2025-11021",
     "CVE-2025-4945"
@@ -11,29 +11,6 @@
   "affected": [
     {
       "package": {
-        "name": "libsoup",
-        "ecosystem": "Red Hat:rhel_aus:8.6::appstream",
-        "purl": "pkg:rpm/redhat/libsoup"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.62.3-2.el8_6.6"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:21664.json"
-      }
-    },
-    {
-      "package": {
         "name": "libsoup-debuginfo",
         "ecosystem": "Red Hat:rhel_aus:8.6::appstream",
         "purl": "pkg:rpm/redhat/libsoup-debuginfo"
@@ -103,29 +80,6 @@
     },
     {
       "package": {
-        "name": "libsoup",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
-        "purl": "pkg:rpm/redhat/libsoup"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.62.3-2.el8_6.6"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:21664.json"
-      }
-    },
-    {
-      "package": {
         "name": "libsoup-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
         "purl": "pkg:rpm/redhat/libsoup-debuginfo"
@@ -175,29 +129,6 @@
         "name": "libsoup-devel",
         "ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
         "purl": "pkg:rpm/redhat/libsoup-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.62.3-2.el8_6.6"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:21664.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libsoup",
-        "ecosystem": "Red Hat:rhel_tus:8.6::appstream",
-        "purl": "pkg:rpm/redhat/libsoup"
       },
       "ranges": [
         {
@@ -356,29 +287,6 @@
     },
     {
       "package": {
-        "name": "libsoup-devel",
-        "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/libsoup-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.62.3-2.el8_6.6"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:21664.json"
-      }
-    },
-    {
-      "package": {
         "name": "libsoup",
         "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
         "purl": "pkg:rpm/redhat/libsoup"
@@ -448,29 +356,6 @@
     },
     {
       "package": {
-        "name": "libsoup-devel",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
-        "purl": "pkg:rpm/redhat/libsoup-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.62.3-2.el8_6.6"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:21664.json"
-      }
-    },
-    {
-      "package": {
         "name": "libsoup",
         "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
         "purl": "pkg:rpm/redhat/libsoup"
@@ -520,29 +405,6 @@
         "name": "libsoup-debugsource",
         "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
         "purl": "pkg:rpm/redhat/libsoup-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.62.3-2.el8_6.6"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:21664.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libsoup-devel",
-        "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/libsoup-devel"
       },
       "ranges": [
         {

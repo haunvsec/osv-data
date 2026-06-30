@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:3959",
   "published": "2026-03-07T10:11:39Z",
-  "modified": "2026-06-08T10:07:33Z",
+  "modified": "2026-06-29T11:30:30Z",
   "related": [
     "GO-2026-4341"
   ],
@@ -138,52 +138,6 @@
     },
     {
       "package": {
-        "name": "receptor-debuginfo",
-        "ecosystem": "Red Hat:ansible_automation_platform_developer:2.5::el8",
-        "purl": "pkg:rpm/redhat/receptor-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.6.3-4.el8ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:3959.json"
-      }
-    },
-    {
-      "package": {
-        "name": "receptor-debugsource",
-        "ecosystem": "Red Hat:ansible_automation_platform_developer:2.5::el8",
-        "purl": "pkg:rpm/redhat/receptor-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.6.3-4.el8ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:3959.json"
-      }
-    },
-    {
-      "package": {
         "name": "receptorctl",
         "ecosystem": "Red Hat:ansible_automation_platform_developer:2.5::el8",
         "purl": "pkg:rpm/redhat/receptorctl"
@@ -230,52 +184,6 @@
     },
     {
       "package": {
-        "name": "receptor-debuginfo",
-        "ecosystem": "Red Hat:ansible_automation_platform_inside:2.5::el8",
-        "purl": "pkg:rpm/redhat/receptor-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.6.3-4.el8ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:3959.json"
-      }
-    },
-    {
-      "package": {
-        "name": "receptor-debugsource",
-        "ecosystem": "Red Hat:ansible_automation_platform_inside:2.5::el8",
-        "purl": "pkg:rpm/redhat/receptor-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.6.3-4.el8ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:3959.json"
-      }
-    },
-    {
-      "package": {
         "name": "receptorctl",
         "ecosystem": "Red Hat:ansible_automation_platform_inside:2.5::el8",
         "purl": "pkg:rpm/redhat/receptorctl"
@@ -414,52 +322,6 @@
     },
     {
       "package": {
-        "name": "receptor-debuginfo",
-        "ecosystem": "Red Hat:ansible_automation_platform_developer:2.5::el9",
-        "purl": "pkg:rpm/redhat/receptor-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.6.3-4.el9ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:3959.json"
-      }
-    },
-    {
-      "package": {
-        "name": "receptor-debugsource",
-        "ecosystem": "Red Hat:ansible_automation_platform_developer:2.5::el9",
-        "purl": "pkg:rpm/redhat/receptor-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.6.3-4.el9ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:3959.json"
-      }
-    },
-    {
-      "package": {
         "name": "receptorctl",
         "ecosystem": "Red Hat:ansible_automation_platform_developer:2.5::el9",
         "purl": "pkg:rpm/redhat/receptorctl"
@@ -486,52 +348,6 @@
         "name": "receptor",
         "ecosystem": "Red Hat:ansible_automation_platform_inside:2.5::el9",
         "purl": "pkg:rpm/redhat/receptor"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.6.3-4.el9ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:3959.json"
-      }
-    },
-    {
-      "package": {
-        "name": "receptor-debuginfo",
-        "ecosystem": "Red Hat:ansible_automation_platform_inside:2.5::el9",
-        "purl": "pkg:rpm/redhat/receptor-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.6.3-4.el9ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:3959.json"
-      }
-    },
-    {
-      "package": {
-        "name": "receptor-debugsource",
-        "ecosystem": "Red Hat:ansible_automation_platform_inside:2.5::el9",
-        "purl": "pkg:rpm/redhat/receptor-debugsource"
       },
       "ranges": [
         {
@@ -1127,75 +943,6 @@
     },
     {
       "package": {
-        "name": "automation-controller-server",
-        "ecosystem": "Red Hat:ansible_automation_platform_developer:2.5::el8",
-        "purl": "pkg:rpm/redhat/automation-controller-server"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.6.26-1.el8ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:3959.json"
-      }
-    },
-    {
-      "package": {
-        "name": "automation-controller-ui",
-        "ecosystem": "Red Hat:ansible_automation_platform_developer:2.5::el8",
-        "purl": "pkg:rpm/redhat/automation-controller-ui"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.6.26-1.el8ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:3959.json"
-      }
-    },
-    {
-      "package": {
-        "name": "automation-controller-venv-tower",
-        "ecosystem": "Red Hat:ansible_automation_platform_developer:2.5::el8",
-        "purl": "pkg:rpm/redhat/automation-controller-venv-tower"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.6.26-1.el8ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:3959.json"
-      }
-    },
-    {
-      "package": {
         "name": "automation-controller",
         "ecosystem": "Red Hat:ansible_automation_platform:2.5::el8",
         "purl": "pkg:rpm/redhat/automation-controller"
@@ -1337,75 +1084,6 @@
         "name": "automation-controller-cli",
         "ecosystem": "Red Hat:ansible_automation_platform_developer:2.5::el9",
         "purl": "pkg:rpm/redhat/automation-controller-cli"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.6.26-1.el9ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:3959.json"
-      }
-    },
-    {
-      "package": {
-        "name": "automation-controller-server",
-        "ecosystem": "Red Hat:ansible_automation_platform_developer:2.5::el9",
-        "purl": "pkg:rpm/redhat/automation-controller-server"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.6.26-1.el9ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:3959.json"
-      }
-    },
-    {
-      "package": {
-        "name": "automation-controller-ui",
-        "ecosystem": "Red Hat:ansible_automation_platform_developer:2.5::el9",
-        "purl": "pkg:rpm/redhat/automation-controller-ui"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.6.26-1.el9ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:3959.json"
-      }
-    },
-    {
-      "package": {
-        "name": "automation-controller-venv-tower",
-        "ecosystem": "Red Hat:ansible_automation_platform_developer:2.5::el9",
-        "purl": "pkg:rpm/redhat/automation-controller-venv-tower"
       },
       "ranges": [
         {

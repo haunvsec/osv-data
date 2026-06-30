@@ -2,36 +2,13 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:23480",
   "published": "2025-12-18T10:09:28Z",
-  "modified": "2026-06-03T10:13:44Z",
+  "modified": "2026-06-29T11:20:32Z",
   "upstream": [
     "CVE-2025-61984",
     "CVE-2025-61985"
   ],
   "summary": "Red Hat Security Advisory: openssh security update",
   "affected": [
-    {
-      "package": {
-        "name": "openssh",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/openssh"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.7p1-47.el9_7"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:23480.json"
-      }
-    },
     {
       "package": {
         "name": "openssh-askpass",
@@ -60,29 +37,6 @@
         "name": "openssh-askpass-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::appstream",
         "purl": "pkg:rpm/redhat/openssh-askpass-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.7p1-47.el9_7"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:23480.json"
-      }
-    },
-    {
-      "package": {
-        "name": "openssh-clients",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/openssh-clients"
       },
       "ranges": [
         {
@@ -172,55 +126,9 @@
     },
     {
       "package": {
-        "name": "openssh-keycat",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/openssh-keycat"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.7p1-47.el9_7"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:23480.json"
-      }
-    },
-    {
-      "package": {
         "name": "openssh-keycat-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::appstream",
         "purl": "pkg:rpm/redhat/openssh-keycat-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.7p1-47.el9_7"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:23480.json"
-      }
-    },
-    {
-      "package": {
-        "name": "openssh-server",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/openssh-server"
       },
       "ranges": [
         {
@@ -356,29 +264,6 @@
     },
     {
       "package": {
-        "name": "openssh-askpass",
-        "ecosystem": "Red Hat:enterprise_linux:9::baseos",
-        "purl": "pkg:rpm/redhat/openssh-askpass"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.7p1-47.el9_7"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:23480.json"
-      }
-    },
-    {
-      "package": {
         "name": "openssh-askpass-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::baseos",
         "purl": "pkg:rpm/redhat/openssh-askpass-debuginfo"
@@ -599,29 +484,6 @@
             },
             {
               "fixed": "0:8.7p1-47.el9_7"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:23480.json"
-      }
-    },
-    {
-      "package": {
-        "name": "pam_ssh_agent_auth",
-        "ecosystem": "Red Hat:enterprise_linux:9::baseos",
-        "purl": "pkg:rpm/redhat/pam_ssh_agent_auth"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.10.4-5.47.el9_7"
             }
           ]
         }

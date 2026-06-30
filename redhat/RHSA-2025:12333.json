@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:12333",
   "published": "2025-07-31T10:09:18Z",
-  "modified": "2026-04-23T10:35:20.158233Z",
+  "modified": "2026-06-29T11:08:17Z",
   "upstream": [
     "CVE-2025-5222"
   ],
@@ -59,29 +59,6 @@
         "name": "icu-debugsource",
         "ecosystem": "Red Hat:rhel_e4s:9.0::appstream",
         "purl": "pkg:rpm/redhat/icu-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:67.1-10.el9_0"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:12333.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libicu",
-        "ecosystem": "Red Hat:rhel_e4s:9.0::appstream",
-        "purl": "pkg:rpm/redhat/libicu"
       },
       "ranges": [
         {
@@ -266,29 +243,6 @@
         "name": "libicu-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:9.0::baseos",
         "purl": "pkg:rpm/redhat/libicu-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:67.1-10.el9_0"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:12333.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libicu-devel",
-        "ecosystem": "Red Hat:rhel_e4s:9.0::baseos",
-        "purl": "pkg:rpm/redhat/libicu-devel"
       },
       "ranges": [
         {

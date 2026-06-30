@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:21034",
   "published": "2025-11-12T10:28:29Z",
-  "modified": "2026-06-03T10:13:01Z",
+  "modified": "2026-06-29T11:16:57Z",
   "upstream": [
     "CVE-2025-40778",
     "CVE-2025-40780",
@@ -104,29 +104,6 @@
     },
     {
       "package": {
-        "name": "bind-devel",
-        "ecosystem": "Red Hat:enterprise_linux:10.1",
-        "purl": "pkg:rpm/redhat/bind-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.18.33-10.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:21034.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind-dnssec-utils",
         "ecosystem": "Red Hat:enterprise_linux:10.1",
         "purl": "pkg:rpm/redhat/bind-dnssec-utils"
@@ -153,29 +130,6 @@
         "name": "bind-dnssec-utils-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:10.1",
         "purl": "pkg:rpm/redhat/bind-dnssec-utils-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.18.33-10.el10_1.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:21034.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-doc",
-        "ecosystem": "Red Hat:enterprise_linux:10.1",
-        "purl": "pkg:rpm/redhat/bind-doc"
       },
       "ranges": [
         {
@@ -291,6 +245,52 @@
         "name": "bind-utils-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:10.1",
         "purl": "pkg:rpm/redhat/bind-utils-debuginfo"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "32:9.18.33-10.el10_1.2"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:21034.json"
+      }
+    },
+    {
+      "package": {
+        "name": "bind-devel",
+        "ecosystem": "Red Hat:enterprise_linux:10.1",
+        "purl": "pkg:rpm/redhat/bind-devel"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "32:9.18.33-10.el10_1.2"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:21034.json"
+      }
+    },
+    {
+      "package": {
+        "name": "bind-doc",
+        "ecosystem": "Red Hat:enterprise_linux:10.1",
+        "purl": "pkg:rpm/redhat/bind-doc"
       },
       "ranges": [
         {

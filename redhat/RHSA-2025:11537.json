@@ -2,36 +2,13 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:11537",
   "published": "2025-07-23T10:02:50Z",
-  "modified": "2026-03-18T11:38:21.164474Z",
+  "modified": "2026-06-29T11:07:21Z",
   "upstream": [
     "CVE-2025-32462",
     "CVE-2025-32463"
   ],
   "summary": "Red Hat Security Advisory: sudo security update",
   "affected": [
-    {
-      "package": {
-        "name": "sudo",
-        "ecosystem": "Red Hat:enterprise_linux:10.0",
-        "purl": "pkg:rpm/redhat/sudo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.9.15-8.p5.el10_0.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11537.json"
-      }
-    },
     {
       "package": {
         "name": "sudo-debuginfo",
@@ -106,6 +83,29 @@
         "name": "sudo-python-plugin-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:10.0",
         "purl": "pkg:rpm/redhat/sudo-python-plugin-debuginfo"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:1.9.15-8.p5.el10_0.2"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11537.json"
+      }
+    },
+    {
+      "package": {
+        "name": "sudo",
+        "ecosystem": "Red Hat:enterprise_linux:10.0",
+        "purl": "pkg:rpm/redhat/sudo"
       },
       "ranges": [
         {

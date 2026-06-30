@@ -2,13 +2,13 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:7477",
   "published": "2026-04-21T10:09:56Z",
-  "modified": "2026-05-15T10:18:17Z",
+  "modified": "2026-06-29T11:31:44Z",
   "upstream": [
+    "CVE-2025-9820",
     "CVE-2025-14831",
     "CVE-2025-32988",
     "CVE-2025-32989",
     "CVE-2025-32990",
-    "CVE-2025-9820",
     "CVE-2026-1584"
   ],
   "summary": "Red Hat Security Advisory: Red Hat Hardened Images RPMs bug fix and enhancement update",

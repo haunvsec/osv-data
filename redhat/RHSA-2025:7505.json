@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:7505",
   "published": "2025-05-14T10:06:43Z",
-  "modified": "2026-04-23T10:36:04.302804Z",
+  "modified": "2026-06-29T11:22:33Z",
   "upstream": [
     "CVE-2025-2784",
     "CVE-2025-32906",
@@ -203,6 +203,10 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-32906"
     },
     {
+      "type": "ARTICLE",
+      "url": "https://gitlab.gnome.org/GNOME/libsoup/-/issues/404"
+    },
+    {
       "type": "REPORT",
       "url": "https://access.redhat.com/security/cve/CVE-2025-32908"
     },
@@ -215,6 +219,14 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-32908"
     },
     {
+      "type": "ARTICLE",
+      "url": "https://gitlab.gnome.org/GNOME/libsoup/-/issues/429"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://gitlab.gnome.org/GNOME/libsoup/-/merge_requests/451"
+    },
+    {
       "type": "REPORT",
       "url": "https://access.redhat.com/security/cve/CVE-2025-32912"
     },
@@ -225,6 +237,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-32912"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://gitlab.gnome.org/GNOME/libsoup/-/issues/434"
     },
     {
       "type": "REPORT",

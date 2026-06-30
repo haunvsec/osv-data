@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:0853",
   "published": "2026-01-21T10:13:25Z",
-  "modified": "2026-03-18T11:39:50.705832Z",
+  "modified": "2026-06-29T11:24:16Z",
   "upstream": [
     "CVE-2025-68615"
   ],
@@ -148,29 +148,6 @@
     },
     {
       "package": {
-        "name": "net-snmp-libs",
-        "ecosystem": "Red Hat:rhel_e4s:8.8::appstream",
-        "purl": "pkg:rpm/redhat/net-snmp-libs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:5.8-27.el8_8.3"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:0853.json"
-      }
-    },
-    {
-      "package": {
         "name": "net-snmp-libs-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:8.8::appstream",
         "purl": "pkg:rpm/redhat/net-snmp-libs-debuginfo"
@@ -424,29 +401,6 @@
     },
     {
       "package": {
-        "name": "net-snmp-libs",
-        "ecosystem": "Red Hat:rhel_tus:8.8::appstream",
-        "purl": "pkg:rpm/redhat/net-snmp-libs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:5.8-27.el8_8.3"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:0853.json"
-      }
-    },
-    {
-      "package": {
         "name": "net-snmp-libs-debuginfo",
         "ecosystem": "Red Hat:rhel_tus:8.8::appstream",
         "purl": "pkg:rpm/redhat/net-snmp-libs-debuginfo"
@@ -585,29 +539,6 @@
     },
     {
       "package": {
-        "name": "net-snmp-agent-libs",
-        "ecosystem": "Red Hat:rhel_e4s:8.8::baseos",
-        "purl": "pkg:rpm/redhat/net-snmp-agent-libs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:5.8-27.el8_8.3"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:0853.json"
-      }
-    },
-    {
-      "package": {
         "name": "net-snmp-agent-libs-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:8.8::baseos",
         "purl": "pkg:rpm/redhat/net-snmp-agent-libs-debuginfo"
@@ -677,29 +608,6 @@
     },
     {
       "package": {
-        "name": "net-snmp-devel",
-        "ecosystem": "Red Hat:rhel_e4s:8.8::baseos",
-        "purl": "pkg:rpm/redhat/net-snmp-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:5.8-27.el8_8.3"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:0853.json"
-      }
-    },
-    {
-      "package": {
         "name": "net-snmp-libs",
         "ecosystem": "Red Hat:rhel_e4s:8.8::baseos",
         "purl": "pkg:rpm/redhat/net-snmp-libs"
@@ -746,55 +654,9 @@
     },
     {
       "package": {
-        "name": "net-snmp-perl",
-        "ecosystem": "Red Hat:rhel_e4s:8.8::baseos",
-        "purl": "pkg:rpm/redhat/net-snmp-perl"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:5.8-27.el8_8.3"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:0853.json"
-      }
-    },
-    {
-      "package": {
         "name": "net-snmp-perl-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:8.8::baseos",
         "purl": "pkg:rpm/redhat/net-snmp-perl-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:5.8-27.el8_8.3"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:0853.json"
-      }
-    },
-    {
-      "package": {
-        "name": "net-snmp-utils",
-        "ecosystem": "Red Hat:rhel_e4s:8.8::baseos",
-        "purl": "pkg:rpm/redhat/net-snmp-utils"
       },
       "ranges": [
         {
@@ -861,29 +723,6 @@
     },
     {
       "package": {
-        "name": "net-snmp-agent-libs",
-        "ecosystem": "Red Hat:rhel_tus:8.8::baseos",
-        "purl": "pkg:rpm/redhat/net-snmp-agent-libs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:5.8-27.el8_8.3"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:0853.json"
-      }
-    },
-    {
-      "package": {
         "name": "net-snmp-agent-libs-debuginfo",
         "ecosystem": "Red Hat:rhel_tus:8.8::baseos",
         "purl": "pkg:rpm/redhat/net-snmp-agent-libs-debuginfo"
@@ -953,29 +792,6 @@
     },
     {
       "package": {
-        "name": "net-snmp-devel",
-        "ecosystem": "Red Hat:rhel_tus:8.8::baseos",
-        "purl": "pkg:rpm/redhat/net-snmp-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:5.8-27.el8_8.3"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:0853.json"
-      }
-    },
-    {
-      "package": {
         "name": "net-snmp-libs",
         "ecosystem": "Red Hat:rhel_tus:8.8::baseos",
         "purl": "pkg:rpm/redhat/net-snmp-libs"
@@ -1022,55 +838,9 @@
     },
     {
       "package": {
-        "name": "net-snmp-perl",
-        "ecosystem": "Red Hat:rhel_tus:8.8::baseos",
-        "purl": "pkg:rpm/redhat/net-snmp-perl"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:5.8-27.el8_8.3"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:0853.json"
-      }
-    },
-    {
-      "package": {
         "name": "net-snmp-perl-debuginfo",
         "ecosystem": "Red Hat:rhel_tus:8.8::baseos",
         "purl": "pkg:rpm/redhat/net-snmp-perl-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:5.8-27.el8_8.3"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:0853.json"
-      }
-    },
-    {
-      "package": {
-        "name": "net-snmp-utils",
-        "ecosystem": "Red Hat:rhel_tus:8.8::baseos",
-        "purl": "pkg:rpm/redhat/net-snmp-utils"
       },
       "ranges": [
         {

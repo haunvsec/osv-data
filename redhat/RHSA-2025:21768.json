@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:21768",
   "published": "2025-11-20T11:01:04Z",
-  "modified": "2026-06-03T10:13:12Z",
+  "modified": "2026-06-29T11:18:00Z",
   "upstream": [
     "CVE-2025-59530",
     "CVE-2025-9909"
@@ -57,52 +57,6 @@
     },
     {
       "package": {
-        "name": "receptor-debuginfo",
-        "ecosystem": "Red Hat:ansible_automation_platform_developer:2.6::el9",
-        "purl": "pkg:rpm/redhat/receptor-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.6.2-2.el9ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:21768.json"
-      }
-    },
-    {
-      "package": {
-        "name": "receptor-debugsource",
-        "ecosystem": "Red Hat:ansible_automation_platform_developer:2.6::el9",
-        "purl": "pkg:rpm/redhat/receptor-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.6.2-2.el9ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:21768.json"
-      }
-    },
-    {
-      "package": {
         "name": "receptorctl",
         "ecosystem": "Red Hat:ansible_automation_platform_developer:2.6::el9",
         "purl": "pkg:rpm/redhat/receptorctl"
@@ -129,52 +83,6 @@
         "name": "receptor",
         "ecosystem": "Red Hat:ansible_automation_platform_inside:2.6::el9",
         "purl": "pkg:rpm/redhat/receptor"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.6.2-2.el9ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:21768.json"
-      }
-    },
-    {
-      "package": {
-        "name": "receptor-debuginfo",
-        "ecosystem": "Red Hat:ansible_automation_platform_inside:2.6::el9",
-        "purl": "pkg:rpm/redhat/receptor-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.6.2-2.el9ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:21768.json"
-      }
-    },
-    {
-      "package": {
-        "name": "receptor-debugsource",
-        "ecosystem": "Red Hat:ansible_automation_platform_inside:2.6::el9",
-        "purl": "pkg:rpm/redhat/receptor-debugsource"
       },
       "ranges": [
         {

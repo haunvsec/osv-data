@@ -2,36 +2,13 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:23405",
   "published": "2025-12-19T10:09:41Z",
-  "modified": "2026-04-20T10:04:55Z",
+  "modified": "2026-06-29T11:20:20Z",
   "upstream": [
     "CVE-2025-11082",
     "CVE-2025-11083"
   ],
   "summary": "Red Hat Security Advisory: binutils security update",
   "affected": [
-    {
-      "package": {
-        "name": "binutils",
-        "ecosystem": "Red Hat:enterprise_linux_eus:10.0",
-        "purl": "pkg:rpm/redhat/binutils"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.41-53.el10_0.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:23405.json"
-      }
-    },
     {
       "package": {
         "name": "binutils-debuginfo",
@@ -83,29 +60,6 @@
         "name": "binutils-devel",
         "ecosystem": "Red Hat:enterprise_linux_eus:10.0",
         "purl": "pkg:rpm/redhat/binutils-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.41-53.el10_0.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:23405.json"
-      }
-    },
-    {
-      "package": {
-        "name": "binutils-gold",
-        "ecosystem": "Red Hat:enterprise_linux_eus:10.0",
-        "purl": "pkg:rpm/redhat/binutils-gold"
       },
       "ranges": [
         {
@@ -221,6 +175,52 @@
         "name": "cross-binutils-s390x-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux_eus:10.0",
         "purl": "pkg:rpm/redhat/cross-binutils-s390x-debuginfo"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:2.41-53.el10_0.2"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:23405.json"
+      }
+    },
+    {
+      "package": {
+        "name": "binutils",
+        "ecosystem": "Red Hat:enterprise_linux_eus:10.0",
+        "purl": "pkg:rpm/redhat/binutils"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:2.41-53.el10_0.2"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:23405.json"
+      }
+    },
+    {
+      "package": {
+        "name": "binutils-gold",
+        "ecosystem": "Red Hat:enterprise_linux_eus:10.0",
+        "purl": "pkg:rpm/redhat/binutils-gold"
       },
       "ranges": [
         {

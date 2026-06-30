@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:19951",
   "published": "2025-11-10T10:03:43Z",
-  "modified": "2026-06-03T10:12:55Z",
+  "modified": "2026-06-29T11:16:30Z",
   "upstream": [
     "CVE-2025-40778",
     "CVE-2025-40780"
@@ -103,29 +103,6 @@
     },
     {
       "package": {
-        "name": "bind-devel",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/bind-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.16.23-31.el9_6.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:19951.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind-dnssec-doc",
         "ecosystem": "Red Hat:enterprise_linux:9::appstream",
         "purl": "pkg:rpm/redhat/bind-dnssec-doc"
@@ -175,29 +152,6 @@
         "name": "bind-dnssec-utils-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::appstream",
         "purl": "pkg:rpm/redhat/bind-dnssec-utils-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.16.23-31.el9_6.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:19951.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-doc",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/bind-doc"
       },
       "ranges": [
         {
@@ -336,52 +290,6 @@
         "name": "python3-bind",
         "ecosystem": "Red Hat:enterprise_linux:9::appstream",
         "purl": "pkg:rpm/redhat/python3-bind"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.16.23-31.el9_6.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:19951.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/bind"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.16.23-31.el9_6.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:19951.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-chroot",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/bind-chroot"
       },
       "ranges": [
         {
@@ -471,52 +379,6 @@
     },
     {
       "package": {
-        "name": "bind-dnssec-doc",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/bind-dnssec-doc"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.16.23-31.el9_6.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:19951.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-dnssec-utils",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/bind-dnssec-utils"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.16.23-31.el9_6.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:19951.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind-dnssec-utils-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::crb",
         "purl": "pkg:rpm/redhat/bind-dnssec-utils-debuginfo"
@@ -609,78 +471,9 @@
     },
     {
       "package": {
-        "name": "bind-license",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/bind-license"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.16.23-31.el9_6.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:19951.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-utils",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/bind-utils"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.16.23-31.el9_6.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:19951.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind-utils-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::crb",
         "purl": "pkg:rpm/redhat/bind-utils-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.16.23-31.el9_6.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:19951.json"
-      }
-    },
-    {
-      "package": {
-        "name": "python3-bind",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/python3-bind"
       },
       "ranges": [
         {

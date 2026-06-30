@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:20696",
   "published": "2026-05-27T10:07:23Z",
-  "modified": "2026-06-05T10:05:46Z",
+  "modified": "2026-06-29T11:27:08Z",
   "upstream": [
     "CVE-2025-10158",
     "CVE-2026-41035"
@@ -11,9 +11,9 @@
   "affected": [
     {
       "package": {
-        "name": "rsync",
+        "name": "rsync-daemon",
         "ecosystem": "Red Hat:enterprise_linux_eus:10.0",
-        "purl": "pkg:rpm/redhat/rsync"
+        "purl": "pkg:rpm/redhat/rsync-daemon"
       },
       "ranges": [
         {
@@ -34,9 +34,9 @@
     },
     {
       "package": {
-        "name": "rsync-daemon",
+        "name": "rsync",
         "ecosystem": "Red Hat:enterprise_linux_eus:10.0",
-        "purl": "pkg:rpm/redhat/rsync-daemon"
+        "purl": "pkg:rpm/redhat/rsync"
       },
       "ranges": [
         {

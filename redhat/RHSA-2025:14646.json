@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:14646",
   "published": "2025-08-31T10:13:37Z",
-  "modified": "2026-03-18T11:38:37.725599Z",
+  "modified": "2026-06-29T11:10:38Z",
   "upstream": [
     "CVE-2025-7345"
   ],
@@ -10,29 +10,6 @@
   "affected": [
     {
       "package": {
-        "name": "gdk-pixbuf2",
-        "ecosystem": "Red Hat:rhel_aus:8.6::appstream",
-        "purl": "pkg:rpm/redhat/gdk-pixbuf2"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.36.12-6.el8_6"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:14646.json"
-      }
-    },
-    {
-      "package": {
         "name": "gdk-pixbuf2-debuginfo",
         "ecosystem": "Red Hat:rhel_aus:8.6::appstream",
         "purl": "pkg:rpm/redhat/gdk-pixbuf2-debuginfo"
@@ -217,29 +194,6 @@
     },
     {
       "package": {
-        "name": "gdk-pixbuf2",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
-        "purl": "pkg:rpm/redhat/gdk-pixbuf2"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.36.12-6.el8_6"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:14646.json"
-      }
-    },
-    {
-      "package": {
         "name": "gdk-pixbuf2-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
         "purl": "pkg:rpm/redhat/gdk-pixbuf2-debuginfo"
@@ -404,29 +358,6 @@
         "name": "gdk-pixbuf2-xlib-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
         "purl": "pkg:rpm/redhat/gdk-pixbuf2-xlib-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.36.12-6.el8_6"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:14646.json"
-      }
-    },
-    {
-      "package": {
-        "name": "gdk-pixbuf2",
-        "ecosystem": "Red Hat:rhel_tus:8.6::appstream",
-        "purl": "pkg:rpm/redhat/gdk-pixbuf2"
       },
       "ranges": [
         {
@@ -700,55 +631,9 @@
     },
     {
       "package": {
-        "name": "gdk-pixbuf2-devel",
-        "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/gdk-pixbuf2-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.36.12-6.el8_6"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:14646.json"
-      }
-    },
-    {
-      "package": {
         "name": "gdk-pixbuf2-devel-debuginfo",
         "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
         "purl": "pkg:rpm/redhat/gdk-pixbuf2-devel-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.36.12-6.el8_6"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:14646.json"
-      }
-    },
-    {
-      "package": {
-        "name": "gdk-pixbuf2-modules",
-        "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/gdk-pixbuf2-modules"
       },
       "ranges": [
         {
@@ -907,55 +792,9 @@
     },
     {
       "package": {
-        "name": "gdk-pixbuf2-devel",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
-        "purl": "pkg:rpm/redhat/gdk-pixbuf2-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.36.12-6.el8_6"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:14646.json"
-      }
-    },
-    {
-      "package": {
         "name": "gdk-pixbuf2-devel-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
         "purl": "pkg:rpm/redhat/gdk-pixbuf2-devel-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.36.12-6.el8_6"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:14646.json"
-      }
-    },
-    {
-      "package": {
-        "name": "gdk-pixbuf2-modules",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
-        "purl": "pkg:rpm/redhat/gdk-pixbuf2-modules"
       },
       "ranges": [
         {
@@ -1114,55 +953,9 @@
     },
     {
       "package": {
-        "name": "gdk-pixbuf2-devel",
-        "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/gdk-pixbuf2-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.36.12-6.el8_6"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:14646.json"
-      }
-    },
-    {
-      "package": {
         "name": "gdk-pixbuf2-devel-debuginfo",
         "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
         "purl": "pkg:rpm/redhat/gdk-pixbuf2-devel-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.36.12-6.el8_6"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:14646.json"
-      }
-    },
-    {
-      "package": {
-        "name": "gdk-pixbuf2-modules",
-        "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/gdk-pixbuf2-modules"
       },
       "ranges": [
         {

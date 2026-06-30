@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:1685",
   "published": "2025-02-20T10:02:56Z",
-  "modified": "2026-03-25T10:51:09.951775Z",
+  "modified": "2026-06-29T11:13:34Z",
   "upstream": [
     "CVE-2024-11187"
   ],
@@ -79,29 +79,6 @@
     },
     {
       "package": {
-        "name": "bind-devel",
-        "ecosystem": "Red Hat:rhel_els:6",
-        "purl": "pkg:rpm/redhat/bind-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.8.2-0.68.rc1.el6_10.15"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1685.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind-libs",
         "ecosystem": "Red Hat:rhel_els:6",
         "purl": "pkg:rpm/redhat/bind-libs"
@@ -125,9 +102,9 @@
     },
     {
       "package": {
-        "name": "bind-sdb",
+        "name": "bind-utils",
         "ecosystem": "Red Hat:rhel_els:6",
-        "purl": "pkg:rpm/redhat/bind-sdb"
+        "purl": "pkg:rpm/redhat/bind-utils"
       },
       "ranges": [
         {
@@ -148,9 +125,32 @@
     },
     {
       "package": {
-        "name": "bind-utils",
+        "name": "bind-devel",
         "ecosystem": "Red Hat:rhel_els:6",
-        "purl": "pkg:rpm/redhat/bind-utils"
+        "purl": "pkg:rpm/redhat/bind-devel"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "32:9.8.2-0.68.rc1.el6_10.15"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1685.json"
+      }
+    },
+    {
+      "package": {
+        "name": "bind-sdb",
+        "ecosystem": "Red Hat:rhel_els:6",
+        "purl": "pkg:rpm/redhat/bind-sdb"
       },
       "ranges": [
         {

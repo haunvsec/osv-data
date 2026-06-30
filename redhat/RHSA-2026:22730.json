@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:22730",
   "published": "2026-06-04T10:08:05Z",
-  "modified": "2026-06-04T10:18:07.848179227Z",
+  "modified": "2026-06-29T11:27:31Z",
   "upstream": [
     "CVE-2026-35177"
   ],
@@ -10,29 +10,6 @@
   "affected": [
     {
       "package": {
-        "name": "vim",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/vim"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "2:8.0.1763-23.el8_10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:22730.json"
-      }
-    },
-    {
-      "package": {
         "name": "vim-common",
         "ecosystem": "Red Hat:enterprise_linux:8::appstream",
         "purl": "pkg:rpm/redhat/vim-common"
@@ -59,29 +36,6 @@
         "name": "vim",
         "ecosystem": "Red Hat:enterprise_linux:8::baseos",
         "purl": "pkg:rpm/redhat/vim"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "2:8.0.1763-23.el8_10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:22730.json"
-      }
-    },
-    {
-      "package": {
-        "name": "vim-common",
-        "ecosystem": "Red Hat:enterprise_linux:8::baseos",
-        "purl": "pkg:rpm/redhat/vim-common"
       },
       "ranges": [
         {

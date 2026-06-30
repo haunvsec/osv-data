@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:17682",
   "published": "2026-05-28T10:06:14Z",
-  "modified": "2026-06-08T10:04:27Z",
+  "modified": "2026-06-29T11:26:04Z",
   "upstream": [
     "CVE-2026-42899"
   ],
@@ -48,6 +48,14 @@
     {
       "type": "ARTICLE",
       "url": "https://access.redhat.com/security/updates/classification/"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://access.redhat.com/security/cve/CVE-2026-45149"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://access.redhat.com/security/cve/CVE-2026-8723"
     },
     {
       "type": "ADVISORY",

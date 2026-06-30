@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHEA-2025:4782",
   "published": "2026-02-16T10:02:09Z",
-  "modified": "2026-05-20T10:02:42Z",
+  "modified": "2026-06-29T11:04:02Z",
   "upstream": [
     "CVE-2025-9566"
   ],

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:1674",
   "published": "2025-02-20T10:02:52Z",
-  "modified": "2026-03-25T10:50:25.855468Z",
+  "modified": "2026-06-29T11:13:29Z",
   "upstream": [
     "CVE-2024-11187"
   ],
@@ -59,52 +59,6 @@
         "name": "bind-debuginfo",
         "ecosystem": "Red Hat:rhel_aus:7.7::server",
         "purl": "pkg:rpm/redhat/bind-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.4-9.P2.el7_7.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1674.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-devel",
-        "ecosystem": "Red Hat:rhel_aus:7.7::server",
-        "purl": "pkg:rpm/redhat/bind-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.4-9.P2.el7_7.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1674.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-export-devel",
-        "ecosystem": "Red Hat:rhel_aus:7.7::server",
-        "purl": "pkg:rpm/redhat/bind-export-devel"
       },
       "ranges": [
         {
@@ -217,55 +171,9 @@
     },
     {
       "package": {
-        "name": "bind-lite-devel",
-        "ecosystem": "Red Hat:rhel_aus:7.7::server",
-        "purl": "pkg:rpm/redhat/bind-lite-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.4-9.P2.el7_7.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1674.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind-pkcs11",
         "ecosystem": "Red Hat:rhel_aus:7.7::server",
         "purl": "pkg:rpm/redhat/bind-pkcs11"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.4-9.P2.el7_7.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1674.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-pkcs11-devel",
-        "ecosystem": "Red Hat:rhel_aus:7.7::server",
-        "purl": "pkg:rpm/redhat/bind-pkcs11-devel"
       },
       "ranges": [
         {
@@ -332,6 +240,121 @@
     },
     {
       "package": {
+        "name": "bind-utils",
+        "ecosystem": "Red Hat:rhel_aus:7.7::server",
+        "purl": "pkg:rpm/redhat/bind-utils"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "32:9.11.4-9.P2.el7_7.8"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1674.json"
+      }
+    },
+    {
+      "package": {
+        "name": "bind-devel",
+        "ecosystem": "Red Hat:rhel_aus:7.7::server",
+        "purl": "pkg:rpm/redhat/bind-devel"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "32:9.11.4-9.P2.el7_7.8"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1674.json"
+      }
+    },
+    {
+      "package": {
+        "name": "bind-export-devel",
+        "ecosystem": "Red Hat:rhel_aus:7.7::server",
+        "purl": "pkg:rpm/redhat/bind-export-devel"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "32:9.11.4-9.P2.el7_7.8"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1674.json"
+      }
+    },
+    {
+      "package": {
+        "name": "bind-lite-devel",
+        "ecosystem": "Red Hat:rhel_aus:7.7::server",
+        "purl": "pkg:rpm/redhat/bind-lite-devel"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "32:9.11.4-9.P2.el7_7.8"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1674.json"
+      }
+    },
+    {
+      "package": {
+        "name": "bind-pkcs11-devel",
+        "ecosystem": "Red Hat:rhel_aus:7.7::server",
+        "purl": "pkg:rpm/redhat/bind-pkcs11-devel"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "32:9.11.4-9.P2.el7_7.8"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1674.json"
+      }
+    },
+    {
+      "package": {
         "name": "bind-sdb",
         "ecosystem": "Red Hat:rhel_aus:7.7::server",
         "purl": "pkg:rpm/redhat/bind-sdb"
@@ -358,29 +381,6 @@
         "name": "bind-sdb-chroot",
         "ecosystem": "Red Hat:rhel_aus:7.7::server",
         "purl": "pkg:rpm/redhat/bind-sdb-chroot"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.4-9.P2.el7_7.8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1674.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-utils",
-        "ecosystem": "Red Hat:rhel_aus:7.7::server",
-        "purl": "pkg:rpm/redhat/bind-utils"
       },
       "ranges": [
         {

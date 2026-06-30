@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:23407",
   "published": "2025-12-17T10:08:27Z",
-  "modified": "2026-04-15T10:06:12Z",
+  "modified": "2026-06-29T11:20:20Z",
   "upstream": [
     "CVE-2024-12087"
   ],
@@ -10,29 +10,6 @@
   "affected": [
     {
       "package": {
-        "name": "rsync",
-        "ecosystem": "Red Hat:rhel_e4s:9.0::appstream",
-        "purl": "pkg:rpm/redhat/rsync"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.2.3-9.el9_0.4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:23407.json"
-      }
-    },
-    {
-      "package": {
         "name": "rsync-daemon",
         "ecosystem": "Red Hat:rhel_e4s:9.0::appstream",
         "purl": "pkg:rpm/redhat/rsync-daemon"
@@ -56,78 +33,9 @@
     },
     {
       "package": {
-        "name": "rsync-debuginfo",
-        "ecosystem": "Red Hat:rhel_e4s:9.0::appstream",
-        "purl": "pkg:rpm/redhat/rsync-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.2.3-9.el9_0.4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:23407.json"
-      }
-    },
-    {
-      "package": {
-        "name": "rsync-debugsource",
-        "ecosystem": "Red Hat:rhel_e4s:9.0::appstream",
-        "purl": "pkg:rpm/redhat/rsync-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.2.3-9.el9_0.4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:23407.json"
-      }
-    },
-    {
-      "package": {
         "name": "rsync",
         "ecosystem": "Red Hat:rhel_e4s:9.0::baseos",
         "purl": "pkg:rpm/redhat/rsync"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.2.3-9.el9_0.4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:23407.json"
-      }
-    },
-    {
-      "package": {
-        "name": "rsync-daemon",
-        "ecosystem": "Red Hat:rhel_e4s:9.0::baseos",
-        "purl": "pkg:rpm/redhat/rsync-daemon"
       },
       "ranges": [
         {

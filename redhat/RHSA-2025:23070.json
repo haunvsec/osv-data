@@ -2,35 +2,12 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:23070",
   "published": "2025-12-11T10:06:51Z",
-  "modified": "2026-03-18T11:39:29.783360Z",
+  "modified": "2026-06-29T11:19:50Z",
   "upstream": [
     "CVE-2025-64459"
   ],
   "summary": "Red Hat Security Advisory: Red Hat Ansible Automation Platform 2.6 Product Security and Bug Fix Update",
   "affected": [
-    {
-      "package": {
-        "name": "automation-controller-venv-tower",
-        "ecosystem": "Red Hat:ansible_automation_platform_developer:2.6::el9",
-        "purl": "pkg:rpm/redhat/automation-controller-venv-tower"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.7.6-1.el9ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:23070.json"
-      }
-    },
     {
       "package": {
         "name": "python3.11-django",

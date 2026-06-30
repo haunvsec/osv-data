@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:10862",
   "published": "2025-07-19T10:02:06Z",
-  "modified": "2026-06-03T10:10:53Z",
+  "modified": "2026-06-29T11:06:34Z",
   "upstream": [
     "CVE-2025-30749",
     "CVE-2025-30754",
@@ -59,52 +59,6 @@
     },
     {
       "package": {
-        "name": "java-1.8.0-openjdk-accessibility-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-accessibility-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-accessibility-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-accessibility-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-1.8.0-openjdk-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:8::appstream",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-debuginfo"
@@ -197,98 +151,6 @@
     },
     {
       "package": {
-        "name": "java-1.8.0-openjdk-demo-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-demo-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-demo-fastdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-demo-fastdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-demo-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-demo-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-demo-slowdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-demo-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-1.8.0-openjdk-devel",
         "ecosystem": "Red Hat:enterprise_linux:8::appstream",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-devel"
@@ -315,144 +177,6 @@
         "name": "java-1.8.0-openjdk-devel-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:8::appstream",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-devel-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-devel-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-devel-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-devel-fastdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-devel-fastdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-devel-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-devel-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-devel-slowdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-devel-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-fastdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-fastdebug-debuginfo"
       },
       "ranges": [
         {
@@ -519,98 +243,6 @@
     },
     {
       "package": {
-        "name": "java-1.8.0-openjdk-headless-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-headless-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-headless-fastdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-headless-fastdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-headless-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-headless-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-headless-slowdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-headless-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-1.8.0-openjdk-javadoc",
         "ecosystem": "Red Hat:enterprise_linux:8::appstream",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-javadoc"
@@ -657,101 +289,9 @@
     },
     {
       "package": {
-        "name": "java-1.8.0-openjdk-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-slowdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-1.8.0-openjdk-src",
         "ecosystem": "Red Hat:enterprise_linux:8::appstream",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-src"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-src-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-src-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-src-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-src-slowdebug"
       },
       "ranges": [
         {
@@ -4659,98 +4199,6 @@
     },
     {
       "package": {
-        "name": "java-1.8.0-openjdk-demo-fastdebug",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-demo-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-demo-fastdebug-debuginfo",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-demo-fastdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-demo-slowdebug",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-demo-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-demo-slowdebug-debuginfo",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-demo-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-1.8.0-openjdk-devel",
         "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-devel"
@@ -4777,144 +4225,6 @@
         "name": "java-1.8.0-openjdk-devel-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-devel-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-devel-fastdebug",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-devel-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-devel-fastdebug-debuginfo",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-devel-fastdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-devel-slowdebug",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-devel-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-devel-slowdebug-debuginfo",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-devel-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-fastdebug",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-fastdebug-debuginfo",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-fastdebug-debuginfo"
       },
       "ranges": [
         {
@@ -4981,98 +4291,6 @@
     },
     {
       "package": {
-        "name": "java-1.8.0-openjdk-headless-fastdebug",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-headless-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-headless-fastdebug-debuginfo",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-headless-fastdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-headless-slowdebug",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-headless-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-headless-slowdebug-debuginfo",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-headless-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-1.8.0-openjdk-javadoc",
         "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-javadoc"
@@ -5119,101 +4337,9 @@
     },
     {
       "package": {
-        "name": "java-1.8.0-openjdk-slowdebug",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-slowdebug-debuginfo",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-1.8.0-openjdk-src",
         "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-src"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-src-fastdebug",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-src-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-src-slowdebug",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-src-slowdebug"
       },
       "ranges": [
         {
@@ -5349,98 +4475,6 @@
     },
     {
       "package": {
-        "name": "java-1.8.0-openjdk-demo-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-demo-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-demo-fastdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-demo-fastdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-demo-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-demo-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-demo-slowdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-demo-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-1.8.0-openjdk-devel",
         "ecosystem": "Red Hat:enterprise_linux:9::appstream",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-devel"
@@ -5467,144 +4501,6 @@
         "name": "java-1.8.0-openjdk-devel-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::appstream",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-devel-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-devel-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-devel-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-devel-fastdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-devel-fastdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-devel-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-devel-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-devel-slowdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-devel-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-fastdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-fastdebug-debuginfo"
       },
       "ranges": [
         {
@@ -5671,98 +4567,6 @@
     },
     {
       "package": {
-        "name": "java-1.8.0-openjdk-headless-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-headless-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-headless-fastdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-headless-fastdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-headless-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-headless-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-headless-slowdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-headless-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-1.8.0-openjdk-javadoc",
         "ecosystem": "Red Hat:enterprise_linux:9::appstream",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-javadoc"
@@ -5809,52 +4613,6 @@
     },
     {
       "package": {
-        "name": "java-1.8.0-openjdk-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-slowdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-1.8.0-openjdk-src",
         "ecosystem": "Red Hat:enterprise_linux:9::appstream",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-src"
@@ -5868,98 +4626,6 @@
             },
             {
               "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-src-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-src-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-src-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-src-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-accessibility",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-accessibility"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
             }
           ]
         }
@@ -6062,29 +4728,6 @@
     },
     {
       "package": {
-        "name": "java-1.8.0-openjdk-demo",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-demo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-1.8.0-openjdk-demo-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:8::crb",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-demo-debuginfo"
@@ -6180,29 +4823,6 @@
         "name": "java-1.8.0-openjdk-demo-slowdebug-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:8::crb",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-demo-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-devel",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-devel"
       },
       "ranges": [
         {
@@ -6384,29 +5004,6 @@
     },
     {
       "package": {
-        "name": "java-1.8.0-openjdk-headless",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-headless"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-1.8.0-openjdk-headless-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:8::crb",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-headless-debuginfo"
@@ -6522,52 +5119,6 @@
     },
     {
       "package": {
-        "name": "java-1.8.0-openjdk-javadoc",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-javadoc"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-javadoc-zip",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-javadoc-zip"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-1.8.0-openjdk-slowdebug",
         "ecosystem": "Red Hat:enterprise_linux:8::crb",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-slowdebug"
@@ -6594,29 +5145,6 @@
         "name": "java-1.8.0-openjdk-slowdebug-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:8::crb",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-2.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-src",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-src"
       },
       "ranges": [
         {
@@ -6683,29 +5211,6 @@
     },
     {
       "package": {
-        "name": "java-1.8.0-openjdk",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-1.8.0-openjdk-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-debuginfo"
@@ -6732,29 +5237,6 @@
         "name": "java-1.8.0-openjdk-debugsource",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-demo",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-demo"
       },
       "ranges": [
         {
@@ -6870,29 +5352,6 @@
         "name": "java-1.8.0-openjdk-demo-slowdebug-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-demo-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-devel",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-devel"
       },
       "ranges": [
         {
@@ -7074,29 +5533,6 @@
     },
     {
       "package": {
-        "name": "java-1.8.0-openjdk-headless",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-headless"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-1.8.0-openjdk-headless-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-headless-debuginfo"
@@ -7212,52 +5648,6 @@
     },
     {
       "package": {
-        "name": "java-1.8.0-openjdk-javadoc",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-javadoc"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-javadoc-zip",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-javadoc-zip"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-1.8.0-openjdk-slowdebug",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-slowdebug"
@@ -7284,29 +5674,6 @@
         "name": "java-1.8.0-openjdk-slowdebug-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-src",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-src"
       },
       "ranges": [
         {
@@ -7373,29 +5740,6 @@
     },
     {
       "package": {
-        "name": "java-1.8.0-openjdk",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-1.8.0-openjdk-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::crb",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-debuginfo"
@@ -7422,29 +5766,6 @@
         "name": "java-1.8.0-openjdk-debugsource",
         "ecosystem": "Red Hat:enterprise_linux:9::crb",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-demo",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-demo"
       },
       "ranges": [
         {
@@ -7560,29 +5881,6 @@
         "name": "java-1.8.0-openjdk-demo-slowdebug-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::crb",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-demo-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-devel",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-devel"
       },
       "ranges": [
         {
@@ -7764,29 +6062,6 @@
     },
     {
       "package": {
-        "name": "java-1.8.0-openjdk-headless",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-headless"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-1.8.0-openjdk-headless-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::crb",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-headless-debuginfo"
@@ -7902,52 +6177,6 @@
     },
     {
       "package": {
-        "name": "java-1.8.0-openjdk-javadoc",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-javadoc"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-javadoc-zip",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-javadoc-zip"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-1.8.0-openjdk-slowdebug",
         "ecosystem": "Red Hat:enterprise_linux:9::crb",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-slowdebug"
@@ -7974,29 +6203,6 @@
         "name": "java-1.8.0-openjdk-slowdebug-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::crb",
         "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.8.0.462.b08-3.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:10862.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-1.8.0-openjdk-src",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/java-1.8.0-openjdk-src"
       },
       "ranges": [
         {

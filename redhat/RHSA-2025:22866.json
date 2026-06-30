@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:22866",
   "published": "2025-12-09T10:06:08Z",
-  "modified": "2026-03-18T11:39:29.829803Z",
+  "modified": "2026-06-29T11:19:29Z",
   "upstream": [
     "CVE-2025-10922",
     "CVE-2025-10934"
@@ -57,6 +57,29 @@
     },
     {
       "package": {
+        "name": "gimp-libs",
+        "ecosystem": "Red Hat:rhel_els:7",
+        "purl": "pkg:rpm/redhat/gimp-libs"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "2:2.8.22-1.el7_9.4"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:22866.json"
+      }
+    },
+    {
+      "package": {
         "name": "gimp-devel",
         "ecosystem": "Red Hat:rhel_els:7",
         "purl": "pkg:rpm/redhat/gimp-devel"
@@ -83,29 +106,6 @@
         "name": "gimp-devel-tools",
         "ecosystem": "Red Hat:rhel_els:7",
         "purl": "pkg:rpm/redhat/gimp-devel-tools"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "2:2.8.22-1.el7_9.4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:22866.json"
-      }
-    },
-    {
-      "package": {
-        "name": "gimp-libs",
-        "ecosystem": "Red Hat:rhel_els:7",
-        "purl": "pkg:rpm/redhat/gimp-libs"
       },
       "ranges": [
         {

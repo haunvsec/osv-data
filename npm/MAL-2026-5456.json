@@ -2,9 +2,12 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-5456",
   "published": "2026-06-09T17:29:25Z",
-  "modified": "2026-06-09T18:01:37.435851213Z",
+  "modified": "2026-06-29T17:31:54.223191957Z",
+  "aliases": [
+    "GHSA-6wg4-xxqc-hw9h"
+  ],
   "summary": "Malicious code in via-city-tools-m-particle (npm)",
-  "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (bc5c4f690e0399edc4408e7729291803db7916ed764bcfe16988f4cdccd5cfc1)\nThe package exports an empty object (`module.exports = {}`) and has no functionality of its own. Its only substantive effect is to declare a dependency on `ltidisafe` pinned to the off-registry tarball URL `https://ltidi.storage.googleapis.com/depenconf/ltidisafe-2.7.6.tgz`. Installing this package causes npm to fetch and install that arbitrary tarball — hosted in a generic Google Cloud Storage bucket with no registry integrity guarantees and no publisher binding — and any lifecycle scripts (`preinstall`/`install`/`postinstall`) inside it run automatically on the installer's machine. The package metadata is hollow (empty `description`, empty `author`, no `repository`), and the unscoped name `via-city-tools-m-particle` resembles legitimate scoped tooling, consistent with a dependency-confusion lure whose only purpose is to smuggle the off-registry tarball into target build environments.\n",
+  "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (bc5c4f690e0399edc4408e7729291803db7916ed764bcfe16988f4cdccd5cfc1)\nThe package exports an empty object (`module.exports = {}`) and has no functionality of its own. Its only substantive effect is to declare a dependency on `ltidisafe` pinned to the off-registry tarball URL `https://ltidi.storage.googleapis.com/depenconf/ltidisafe-2.7.6.tgz`. Installing this package causes npm to fetch and install that arbitrary tarball — hosted in a generic Google Cloud Storage bucket with no registry integrity guarantees and no publisher binding — and any lifecycle scripts (`preinstall`/`install`/`postinstall`) inside it run automatically on the installer's machine. The package metadata is hollow (empty `description`, empty `author`, no `repository`), and the unscoped name `via-city-tools-m-particle` resembles legitimate scoped tooling, consistent with a dependency-confusion lure whose only purpose is to smuggle the off-registry tarball into target build environments.\n\n## Source: ghsa-malware (1b35056794033f2fabe597e51faa2ec27668923b74527f12fbf861bb3e941ca8)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
   "affected": [
     {
       "package": {
@@ -12,11 +15,26 @@
         "ecosystem": "npm",
         "purl": "pkg:npm/via-city-tools-m-particle"
       },
+      "ranges": [
+        {
+          "type": "SEMVER",
+          "events": [
+            {
+              "introduced": "0"
+            }
+          ]
+        }
+      ],
       "versions": [
         "99.9.1"
       ],
       "database_specific": {
         "cwes": [
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -55,6 +73,10 @@
     {
       "type": "PACKAGE",
       "url": "https://www.npmjs.com/package/via-city-tools-m-particle/v/99.9.1"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://github.com/advisories/GHSA-6wg4-xxqc-hw9h"
     }
   ],
   "database_specific": {
@@ -78,6 +100,23 @@
         "versions": [
           "99.9.1"
         ]
+      },
+      {
+        "id": "GHSA-6wg4-xxqc-hw9h",
+        "import_time": "2026-06-29T17:14:01.249097766Z",
+        "modified_time": "2026-06-29T16:53:34Z",
+        "ranges": [
+          {
+            "events": [
+              {
+                "introduced": "0"
+              }
+            ],
+            "type": "SEMVER"
+          }
+        ],
+        "sha256": "1b35056794033f2fabe597e51faa2ec27668923b74527f12fbf861bb3e941ca8",
+        "source": "ghsa-malware"
       }
     ]
   },

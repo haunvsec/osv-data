@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-6555",
   "published": "2026-06-28T06:01:35Z",
-  "modified": "2026-06-28T07:01:42.296674315Z",
+  "modified": "2026-06-29T05:16:42.346629431Z",
   "summary": "Malicious code in livekit-agents (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (5abf921f58c69745fee91e812853b493a282f3d42f55db38516ba54b827ea35b)\nThe unscoped npm package `livekit-agents` advertises itself in README as the official LiveKit Agents SDK and links to livekit.io documentation, but the shipped library at `dist/index.js` implements only a trivial stub `greet(name)` returning a hello string — none of the real SDK surface. The bundled CLI at `dist/cli.js` (the package `bin`) calls `sendCliMetric()` at the top of every invocation, unconditionally POSTing `{type:'cli_run', nodeVersion, platform, arch, timestamp}` to `https://livekit-agents.xyz/api/metrics`. The destination `livekit-agents.xyz` is a lookalike domain — LiveKit's real domain is livekit.io — and the beacon is undocumented with no opt-out. `package.json` also declares `\"postinstall\": \"node scripts/postinstall.js\"` while `files` ships only `dist`, so the referenced install hook is absent from this tarball (a no-op today, but pre-wired for a future version). Combined signals — name impersonation of the real scoped package, stub implementation, covert install-base telemetry to an author-controlled lookalike domain, and a pre-wired but currently empty postinstall slot — match the namespace-abuse / typosquat pattern used to enumerate victims before delivering a later payload.\n",
   "affected": [
@@ -25,10 +25,16 @@
       "versions": [
         "0.3.0",
         "0.3.2",
-        "0.3.1"
+        "0.3.1",
+        "0.3.4"
       ],
       "database_specific": {
         "cwes": [
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -89,6 +95,10 @@
     {
       "type": "PACKAGE",
       "url": "https://www.npmjs.com/package/livekit-agents/v/0.3.1"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/livekit-agents/v/0.3.4"
     }
   ],
   "database_specific": {
@@ -151,6 +161,26 @@
         "source": "amazon-inspector",
         "versions": [
           "0.3.1"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-007724",
+        "import_time": "2026-06-29T05:07:07.367264968Z",
+        "modified_time": "2026-06-29T04:31:39Z",
+        "ranges": [
+          {
+            "events": [
+              {
+                "introduced": "0"
+              }
+            ],
+            "type": "SEMVER"
+          }
+        ],
+        "sha256": "f43d85371474bb06eef4fcfb9cd5c1b07edf8af289a2f062479f9d2822442b6f",
+        "source": "amazon-inspector",
+        "versions": [
+          "0.3.4"
         ]
       }
     ]

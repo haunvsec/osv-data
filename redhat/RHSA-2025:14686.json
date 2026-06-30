@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:14686",
   "published": "2025-08-31T10:13:39Z",
-  "modified": "2026-06-03T10:12:04Z",
+  "modified": "2026-06-29T11:10:40Z",
   "upstream": [
     "CVE-2025-47273",
     "CVE-2025-48432"
@@ -57,75 +57,6 @@
     },
     {
       "package": {
-        "name": "automation-controller-server",
-        "ecosystem": "Red Hat:ansible_automation_platform_developer:2.5::el8",
-        "purl": "pkg:rpm/redhat/automation-controller-server"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.6.19-1.el8ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:14686.json"
-      }
-    },
-    {
-      "package": {
-        "name": "automation-controller-ui",
-        "ecosystem": "Red Hat:ansible_automation_platform_developer:2.5::el8",
-        "purl": "pkg:rpm/redhat/automation-controller-ui"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.6.19-1.el8ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:14686.json"
-      }
-    },
-    {
-      "package": {
-        "name": "automation-controller-venv-tower",
-        "ecosystem": "Red Hat:ansible_automation_platform_developer:2.5::el8",
-        "purl": "pkg:rpm/redhat/automation-controller-venv-tower"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.6.19-1.el8ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:14686.json"
-      }
-    },
-    {
-      "package": {
         "name": "automation-controller",
         "ecosystem": "Red Hat:ansible_automation_platform:2.5::el8",
         "purl": "pkg:rpm/redhat/automation-controller"
@@ -267,75 +198,6 @@
         "name": "automation-controller-cli",
         "ecosystem": "Red Hat:ansible_automation_platform_developer:2.5::el9",
         "purl": "pkg:rpm/redhat/automation-controller-cli"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.6.19-1.el9ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:14686.json"
-      }
-    },
-    {
-      "package": {
-        "name": "automation-controller-server",
-        "ecosystem": "Red Hat:ansible_automation_platform_developer:2.5::el9",
-        "purl": "pkg:rpm/redhat/automation-controller-server"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.6.19-1.el9ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:14686.json"
-      }
-    },
-    {
-      "package": {
-        "name": "automation-controller-ui",
-        "ecosystem": "Red Hat:ansible_automation_platform_developer:2.5::el9",
-        "purl": "pkg:rpm/redhat/automation-controller-ui"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:4.6.19-1.el9ap"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:14686.json"
-      }
-    },
-    {
-      "package": {
-        "name": "automation-controller-venv-tower",
-        "ecosystem": "Red Hat:ansible_automation_platform_developer:2.5::el9",
-        "purl": "pkg:rpm/redhat/automation-controller-venv-tower"
       },
       "ranges": [
         {

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:23414",
   "published": "2025-12-18T10:09:15Z",
-  "modified": "2026-06-03T10:13:43Z",
+  "modified": "2026-06-29T11:20:21Z",
   "upstream": [
     "CVE-2021-25220",
     "CVE-2025-40778"
@@ -57,9 +57,9 @@
     },
     {
       "package": {
-        "name": "bind-sdb",
+        "name": "bind-utils",
         "ecosystem": "Red Hat:rhel_els:6",
-        "purl": "pkg:rpm/redhat/bind-sdb"
+        "purl": "pkg:rpm/redhat/bind-utils"
       },
       "ranges": [
         {
@@ -80,9 +80,9 @@
     },
     {
       "package": {
-        "name": "bind-utils",
+        "name": "bind-sdb",
         "ecosystem": "Red Hat:rhel_els:6",
-        "purl": "pkg:rpm/redhat/bind-utils"
+        "purl": "pkg:rpm/redhat/bind-sdb"
       },
       "ranges": [
         {

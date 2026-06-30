@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:2517",
   "published": "2025-03-11T10:06:15Z",
-  "modified": "2026-03-18T11:37:13.171904Z",
+  "modified": "2026-06-29T11:21:21Z",
   "upstream": [
     "CVE-2023-52922",
     "CVE-2024-50302",
@@ -403,9 +403,9 @@
     },
     {
       "package": {
-        "name": "python-perf",
+        "name": "python-perf-debuginfo",
         "ecosystem": "Red Hat:rhel_els:6",
-        "purl": "pkg:rpm/redhat/python-perf"
+        "purl": "pkg:rpm/redhat/python-perf-debuginfo"
       },
       "ranges": [
         {
@@ -426,9 +426,9 @@
     },
     {
       "package": {
-        "name": "python-perf-debuginfo",
+        "name": "python-perf",
         "ecosystem": "Red Hat:rhel_els:6",
-        "purl": "pkg:rpm/redhat/python-perf-debuginfo"
+        "purl": "pkg:rpm/redhat/python-perf"
       },
       "ranges": [
         {

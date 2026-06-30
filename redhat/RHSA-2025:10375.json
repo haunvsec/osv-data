@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:10375",
   "published": "2025-07-07T10:02:52Z",
-  "modified": "2026-03-18T11:38:11.668885Z",
+  "modified": "2026-06-29T11:05:50Z",
   "upstream": [
     "CVE-2025-49175",
     "CVE-2025-49176",
@@ -129,9 +129,9 @@
     },
     {
       "package": {
-        "name": "tigervnc-server-applet",
+        "name": "tigervnc-server-minimal",
         "ecosystem": "Red Hat:rhel_els:7",
-        "purl": "pkg:rpm/redhat/tigervnc-server-applet"
+        "purl": "pkg:rpm/redhat/tigervnc-server-minimal"
       },
       "ranges": [
         {
@@ -152,9 +152,9 @@
     },
     {
       "package": {
-        "name": "tigervnc-server-minimal",
+        "name": "tigervnc-server-applet",
         "ecosystem": "Red Hat:rhel_els:7",
-        "purl": "pkg:rpm/redhat/tigervnc-server-minimal"
+        "purl": "pkg:rpm/redhat/tigervnc-server-applet"
       },
       "ranges": [
         {

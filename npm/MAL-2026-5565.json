@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-5565",
   "published": "2026-06-11T05:17:41Z",
-  "modified": "2026-06-11T05:46:32.918666469Z",
+  "modified": "2026-06-29T07:16:43.818304359Z",
   "summary": "Malicious code in ai-sdk-helpers (npm)",
   "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (501daa3c8b2c9c2609dc60fd90ae59710a603ae56fa5dcc867d24913889c5413)\nai-sdk-helpers@1.2.1 is a typosquat impersonating the Vercel AI SDK ecosystem (homepage ai-sdk.guide, author 'AI SDK Guide <hello@ai-sdk.guide>'). On npm install, scripts/postinstall.js reads installer-owned identity files it did not create — ~/.gitconfig, ~/.config/git/config,./.git/config (for the developer's git email) and ~/.config/gh/hosts.yml (for the GitHub CLI login and email) — and collects os.hostname(), os.userInfo().username, process.cwd(), and CI environment variables. The collected data is POSTed in plaintext JSON to https://npm-package-logger-228835561205.europe-west1.run.app/ (scripts/postinstall.js line 147 / line 163). Comments in the script claim the data is 'anonymous' and 'one-way hashed', but the traced payload ships the raw scmEmail, githubLogin, githubEmail, hostname, username, and cwd fields. The tarball additionally ships scripts/publish-versions.sh, whose comment 'This creates the appearance of an active, maintained package' documents a republish loop of 21 fake versions to manufacture apparent activity. The combination of typosquat naming against Vercel's AI SDK, install-time harvest of developer→employer identity from installer-managed git/GitHub config, exfiltration to a third-party Cloudflare Run endpoint, and the shipped version-spam script establishes a coordinated install-time identity-exfiltration campaign targeting AI/LLM developers.\n",
   "affected": [
@@ -12,6 +12,16 @@
         "ecosystem": "npm",
         "purl": "pkg:npm/ai-sdk-helpers"
       },
+      "ranges": [
+        {
+          "type": "SEMVER",
+          "events": [
+            {
+              "introduced": "0"
+            }
+          ]
+        }
+      ],
       "versions": [
         "1.1.1",
         "0.4.1",
@@ -34,10 +44,16 @@
         "0.3.2",
         "1.0.0",
         "0.3.1",
-        "0.1.2"
+        "0.1.2",
+        "1.4.4"
       ],
       "database_specific": {
         "cwes": [
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -262,6 +278,10 @@
     {
       "type": "PACKAGE",
       "url": "https://www.npmjs.com/package/ai-sdk-helpers/v/0.1.2"
+    },
+    {
+      "type": "PACKAGE",
+      "url": "https://www.npmjs.com/package/ai-sdk-helpers/v/1.4.4"
     }
   ],
   "database_specific": {
@@ -704,6 +724,26 @@
         "source": "amazon-inspector",
         "versions": [
           "0.1.2"
+        ]
+      },
+      {
+        "id": "IN-MAL-2026-007758",
+        "import_time": "2026-06-29T07:09:10.559053595Z",
+        "modified_time": "2026-06-29T05:51:47Z",
+        "ranges": [
+          {
+            "events": [
+              {
+                "introduced": "0"
+              }
+            ],
+            "type": "SEMVER"
+          }
+        ],
+        "sha256": "4b7670917f85302d0dc87c95305804e9b53aeaaac76ad2f95b01504130f75eeb",
+        "source": "amazon-inspector",
+        "versions": [
+          "1.4.4"
         ]
       }
     ]

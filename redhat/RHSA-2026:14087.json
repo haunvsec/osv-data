@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:14087",
   "published": "2026-05-07T10:07:45Z",
-  "modified": "2026-06-08T10:03:59Z",
+  "modified": "2026-06-29T11:25:23Z",
   "upstream": [
     "CVE-2026-5119"
   ],
@@ -10,29 +10,6 @@
   "affected": [
     {
       "package": {
-        "name": "libsoup",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/libsoup"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.62.3-14.el8_10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:14087.json"
-      }
-    },
-    {
-      "package": {
         "name": "libsoup-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:8::appstream",
         "purl": "pkg:rpm/redhat/libsoup-debuginfo"
@@ -151,29 +128,6 @@
         "name": "libsoup-debugsource",
         "ecosystem": "Red Hat:enterprise_linux:8::baseos",
         "purl": "pkg:rpm/redhat/libsoup-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.62.3-14.el8_10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:14087.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libsoup-devel",
-        "ecosystem": "Red Hat:enterprise_linux:8::baseos",
-        "purl": "pkg:rpm/redhat/libsoup-devel"
       },
       "ranges": [
         {

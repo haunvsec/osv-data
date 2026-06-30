@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:20998",
   "published": "2025-11-12T10:28:22Z",
-  "modified": "2026-04-21T10:03:53Z",
+  "modified": "2026-06-29T11:16:53Z",
   "upstream": [
     "CVE-2025-9900"
   ],
@@ -102,9 +102,9 @@
     },
     {
       "package": {
-        "name": "libtiff-tools",
+        "name": "libtiff-tools-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:10.1",
-        "purl": "pkg:rpm/redhat/libtiff-tools"
+        "purl": "pkg:rpm/redhat/libtiff-tools-debuginfo"
       },
       "ranges": [
         {
@@ -125,9 +125,9 @@
     },
     {
       "package": {
-        "name": "libtiff-tools-debuginfo",
+        "name": "libtiff-tools",
         "ecosystem": "Red Hat:enterprise_linux:10.1",
-        "purl": "pkg:rpm/redhat/libtiff-tools-debuginfo"
+        "purl": "pkg:rpm/redhat/libtiff-tools"
       },
       "ranges": [
         {

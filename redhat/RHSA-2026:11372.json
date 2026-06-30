@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:11372",
   "published": "2026-04-29T10:06:32Z",
-  "modified": "2026-06-04T10:05:01Z",
+  "modified": "2026-06-29T11:24:37Z",
   "upstream": [
     "CVE-2026-1519"
   ],
@@ -33,9 +33,9 @@
     },
     {
       "package": {
-        "name": "bind-devel",
+        "name": "bind-libs",
         "ecosystem": "Red Hat:rhel_els:6",
-        "purl": "pkg:rpm/redhat/bind-devel"
+        "purl": "pkg:rpm/redhat/bind-libs"
       },
       "ranges": [
         {
@@ -56,9 +56,9 @@
     },
     {
       "package": {
-        "name": "bind-libs",
+        "name": "bind-devel",
         "ecosystem": "Red Hat:rhel_els:6",
-        "purl": "pkg:rpm/redhat/bind-libs"
+        "purl": "pkg:rpm/redhat/bind-devel"
       },
       "ranges": [
         {

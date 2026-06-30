@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:1670",
   "published": "2025-02-20T10:02:50Z",
-  "modified": "2026-03-25T10:50:32.039572Z",
+  "modified": "2026-06-29T11:13:25Z",
   "upstream": [
     "CVE-2024-11187",
     "CVE-2024-12705"
@@ -103,29 +103,6 @@
     },
     {
       "package": {
-        "name": "bind9.18-devel",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/bind9.18-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.18.29-1.el9_5.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1670.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind9.18-dnssec-utils",
         "ecosystem": "Red Hat:enterprise_linux:9::appstream",
         "purl": "pkg:rpm/redhat/bind9.18-dnssec-utils"
@@ -152,29 +129,6 @@
         "name": "bind9.18-dnssec-utils-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::appstream",
         "purl": "pkg:rpm/redhat/bind9.18-dnssec-utils-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.18.29-1.el9_5.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1670.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind9.18-doc",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/bind9.18-doc"
       },
       "ranges": [
         {
@@ -287,52 +241,6 @@
     },
     {
       "package": {
-        "name": "bind9.18",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/bind9.18"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.18.29-1.el9_5.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1670.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind9.18-chroot",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/bind9.18-chroot"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.18.29-1.el9_5.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1670.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind9.18-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::crb",
         "purl": "pkg:rpm/redhat/bind9.18-debuginfo"
@@ -382,29 +290,6 @@
         "name": "bind9.18-devel",
         "ecosystem": "Red Hat:enterprise_linux:9::crb",
         "purl": "pkg:rpm/redhat/bind9.18-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.18.29-1.el9_5.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1670.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind9.18-dnssec-utils",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/bind9.18-dnssec-utils"
       },
       "ranges": [
         {
@@ -497,29 +382,6 @@
         "name": "bind9.18-libs-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::crb",
         "purl": "pkg:rpm/redhat/bind9.18-libs-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.18.29-1.el9_5.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1670.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind9.18-utils",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/bind9.18-utils"
       },
       "ranges": [
         {

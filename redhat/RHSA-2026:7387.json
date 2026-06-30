@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:7387",
   "published": "2026-04-21T10:09:53Z",
-  "modified": "2026-04-21T10:22:47.246031Z",
+  "modified": "2026-06-29T11:31:39Z",
   "upstream": [
     "CVE-2025-55130",
     "CVE-2025-55131",
@@ -116,6 +116,10 @@
     {
       "type": "REPORT",
       "url": "https://access.redhat.com/security/cve/CVE-2026-21716"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://access.redhat.com/security/cve/CVE-2026-45149"
     },
     {
       "type": "ADVISORY",

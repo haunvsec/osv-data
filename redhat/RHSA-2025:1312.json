@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:1312",
   "published": "2025-02-12T10:04:12Z",
-  "modified": "2026-05-26T10:03:06Z",
+  "modified": "2026-06-29T11:09:06Z",
   "upstream": [
     "CVE-2020-11023"
   ],
@@ -332,55 +332,9 @@
     },
     {
       "package": {
-        "name": "libasan",
-        "ecosystem": "Red Hat:rhel_aus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libasan"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "libasan-debuginfo",
         "ecosystem": "Red Hat:rhel_aus:8.4::appstream",
         "purl": "pkg:rpm/redhat/libasan-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libatomic",
-        "ecosystem": "Red Hat:rhel_aus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libatomic"
       },
       "ranges": [
         {
@@ -424,78 +378,9 @@
     },
     {
       "package": {
-        "name": "libatomic-static",
-        "ecosystem": "Red Hat:rhel_aus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libatomic-static"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libgcc",
-        "ecosystem": "Red Hat:rhel_aus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libgcc"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "libgcc-debuginfo",
         "ecosystem": "Red Hat:rhel_aus:8.4::appstream",
         "purl": "pkg:rpm/redhat/libgcc-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libgfortran",
-        "ecosystem": "Red Hat:rhel_aus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libgfortran"
       },
       "ranges": [
         {
@@ -539,29 +424,6 @@
     },
     {
       "package": {
-        "name": "libgomp",
-        "ecosystem": "Red Hat:rhel_aus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libgomp"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "libgomp-debuginfo",
         "ecosystem": "Red Hat:rhel_aus:8.4::appstream",
         "purl": "pkg:rpm/redhat/libgomp-debuginfo"
@@ -585,55 +447,9 @@
     },
     {
       "package": {
-        "name": "libgomp-offload-nvptx",
-        "ecosystem": "Red Hat:rhel_aus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libgomp-offload-nvptx"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "libgomp-offload-nvptx-debuginfo",
         "ecosystem": "Red Hat:rhel_aus:8.4::appstream",
         "purl": "pkg:rpm/redhat/libgomp-offload-nvptx-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libitm",
-        "ecosystem": "Red Hat:rhel_aus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libitm"
       },
       "ranges": [
         {
@@ -700,55 +516,9 @@
     },
     {
       "package": {
-        "name": "liblsan",
-        "ecosystem": "Red Hat:rhel_aus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/liblsan"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "liblsan-debuginfo",
         "ecosystem": "Red Hat:rhel_aus:8.4::appstream",
         "purl": "pkg:rpm/redhat/liblsan-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libquadmath",
-        "ecosystem": "Red Hat:rhel_aus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libquadmath"
       },
       "ranges": [
         {
@@ -795,29 +565,6 @@
         "name": "libquadmath-devel",
         "ecosystem": "Red Hat:rhel_aus:8.4::appstream",
         "purl": "pkg:rpm/redhat/libquadmath-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libstdc++",
-        "ecosystem": "Red Hat:rhel_aus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libstdc%2B%2B"
       },
       "ranges": [
         {
@@ -907,55 +654,9 @@
     },
     {
       "package": {
-        "name": "libtsan",
-        "ecosystem": "Red Hat:rhel_aus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libtsan"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "libtsan-debuginfo",
         "ecosystem": "Red Hat:rhel_aus:8.4::appstream",
         "purl": "pkg:rpm/redhat/libtsan-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libubsan",
-        "ecosystem": "Red Hat:rhel_aus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libubsan"
       },
       "ranges": [
         {
@@ -1321,55 +1022,9 @@
     },
     {
       "package": {
-        "name": "libasan",
-        "ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libasan"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "libasan-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
         "purl": "pkg:rpm/redhat/libasan-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libatomic",
-        "ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libatomic"
       },
       "ranges": [
         {
@@ -1413,78 +1068,9 @@
     },
     {
       "package": {
-        "name": "libatomic-static",
-        "ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libatomic-static"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libgcc",
-        "ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libgcc"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "libgcc-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
         "purl": "pkg:rpm/redhat/libgcc-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libgfortran",
-        "ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libgfortran"
       },
       "ranges": [
         {
@@ -1528,29 +1114,6 @@
     },
     {
       "package": {
-        "name": "libgomp",
-        "ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libgomp"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "libgomp-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
         "purl": "pkg:rpm/redhat/libgomp-debuginfo"
@@ -1574,55 +1137,9 @@
     },
     {
       "package": {
-        "name": "libgomp-offload-nvptx",
-        "ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libgomp-offload-nvptx"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "libgomp-offload-nvptx-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
         "purl": "pkg:rpm/redhat/libgomp-offload-nvptx-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libitm",
-        "ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libitm"
       },
       "ranges": [
         {
@@ -1689,55 +1206,9 @@
     },
     {
       "package": {
-        "name": "liblsan",
-        "ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
-        "purl": "pkg:rpm/redhat/liblsan"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "liblsan-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
         "purl": "pkg:rpm/redhat/liblsan-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libquadmath",
-        "ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libquadmath"
       },
       "ranges": [
         {
@@ -1784,29 +1255,6 @@
         "name": "libquadmath-devel",
         "ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
         "purl": "pkg:rpm/redhat/libquadmath-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libstdc++",
-        "ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libstdc%2B%2B"
       },
       "ranges": [
         {
@@ -1896,55 +1344,9 @@
     },
     {
       "package": {
-        "name": "libtsan",
-        "ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libtsan"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "libtsan-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
         "purl": "pkg:rpm/redhat/libtsan-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libubsan",
-        "ecosystem": "Red Hat:rhel_e4s:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libubsan"
       },
       "ranges": [
         {
@@ -2310,55 +1712,9 @@
     },
     {
       "package": {
-        "name": "libasan",
-        "ecosystem": "Red Hat:rhel_tus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libasan"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "libasan-debuginfo",
         "ecosystem": "Red Hat:rhel_tus:8.4::appstream",
         "purl": "pkg:rpm/redhat/libasan-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libatomic",
-        "ecosystem": "Red Hat:rhel_tus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libatomic"
       },
       "ranges": [
         {
@@ -2402,78 +1758,9 @@
     },
     {
       "package": {
-        "name": "libatomic-static",
-        "ecosystem": "Red Hat:rhel_tus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libatomic-static"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libgcc",
-        "ecosystem": "Red Hat:rhel_tus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libgcc"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "libgcc-debuginfo",
         "ecosystem": "Red Hat:rhel_tus:8.4::appstream",
         "purl": "pkg:rpm/redhat/libgcc-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libgfortran",
-        "ecosystem": "Red Hat:rhel_tus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libgfortran"
       },
       "ranges": [
         {
@@ -2517,29 +1804,6 @@
     },
     {
       "package": {
-        "name": "libgomp",
-        "ecosystem": "Red Hat:rhel_tus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libgomp"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "libgomp-debuginfo",
         "ecosystem": "Red Hat:rhel_tus:8.4::appstream",
         "purl": "pkg:rpm/redhat/libgomp-debuginfo"
@@ -2563,55 +1827,9 @@
     },
     {
       "package": {
-        "name": "libgomp-offload-nvptx",
-        "ecosystem": "Red Hat:rhel_tus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libgomp-offload-nvptx"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "libgomp-offload-nvptx-debuginfo",
         "ecosystem": "Red Hat:rhel_tus:8.4::appstream",
         "purl": "pkg:rpm/redhat/libgomp-offload-nvptx-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libitm",
-        "ecosystem": "Red Hat:rhel_tus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libitm"
       },
       "ranges": [
         {
@@ -2678,55 +1896,9 @@
     },
     {
       "package": {
-        "name": "liblsan",
-        "ecosystem": "Red Hat:rhel_tus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/liblsan"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "liblsan-debuginfo",
         "ecosystem": "Red Hat:rhel_tus:8.4::appstream",
         "purl": "pkg:rpm/redhat/liblsan-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libquadmath",
-        "ecosystem": "Red Hat:rhel_tus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libquadmath"
       },
       "ranges": [
         {
@@ -2773,29 +1945,6 @@
         "name": "libquadmath-devel",
         "ecosystem": "Red Hat:rhel_tus:8.4::appstream",
         "purl": "pkg:rpm/redhat/libquadmath-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libstdc++",
-        "ecosystem": "Red Hat:rhel_tus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libstdc%2B%2B"
       },
       "ranges": [
         {
@@ -2885,29 +2034,6 @@
     },
     {
       "package": {
-        "name": "libtsan",
-        "ecosystem": "Red Hat:rhel_tus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libtsan"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "libtsan-debuginfo",
         "ecosystem": "Red Hat:rhel_tus:8.4::appstream",
         "purl": "pkg:rpm/redhat/libtsan-debuginfo"
@@ -2931,55 +2057,9 @@
     },
     {
       "package": {
-        "name": "libubsan",
-        "ecosystem": "Red Hat:rhel_tus:8.4::appstream",
-        "purl": "pkg:rpm/redhat/libubsan"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "libubsan-debuginfo",
         "ecosystem": "Red Hat:rhel_tus:8.4::appstream",
         "purl": "pkg:rpm/redhat/libubsan-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "cpp",
-        "ecosystem": "Red Hat:rhel_aus:8.4::baseos",
-        "purl": "pkg:rpm/redhat/cpp"
       },
       "ranges": [
         {
@@ -3026,29 +2106,6 @@
         "name": "gcc",
         "ecosystem": "Red Hat:rhel_aus:8.4::baseos",
         "purl": "pkg:rpm/redhat/gcc"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "gcc-c++",
-        "ecosystem": "Red Hat:rhel_aus:8.4::baseos",
-        "purl": "pkg:rpm/redhat/gcc-c%2B%2B"
       },
       "ranges": [
         {
@@ -3138,29 +2195,6 @@
     },
     {
       "package": {
-        "name": "gcc-gdb-plugin",
-        "ecosystem": "Red Hat:rhel_aus:8.4::baseos",
-        "purl": "pkg:rpm/redhat/gcc-gdb-plugin"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "gcc-gdb-plugin-debuginfo",
         "ecosystem": "Red Hat:rhel_aus:8.4::baseos",
         "purl": "pkg:rpm/redhat/gcc-gdb-plugin-debuginfo"
@@ -3184,55 +2218,9 @@
     },
     {
       "package": {
-        "name": "gcc-gfortran",
-        "ecosystem": "Red Hat:rhel_aus:8.4::baseos",
-        "purl": "pkg:rpm/redhat/gcc-gfortran"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "gcc-gfortran-debuginfo",
         "ecosystem": "Red Hat:rhel_aus:8.4::baseos",
         "purl": "pkg:rpm/redhat/gcc-gfortran-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "gcc-offload-nvptx",
-        "ecosystem": "Red Hat:rhel_aus:8.4::baseos",
-        "purl": "pkg:rpm/redhat/gcc-offload-nvptx"
       },
       "ranges": [
         {
@@ -3644,29 +2632,6 @@
     },
     {
       "package": {
-        "name": "libitm-devel",
-        "ecosystem": "Red Hat:rhel_aus:8.4::baseos",
-        "purl": "pkg:rpm/redhat/libitm-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "liblsan",
         "ecosystem": "Red Hat:rhel_aus:8.4::baseos",
         "purl": "pkg:rpm/redhat/liblsan"
@@ -3759,29 +2724,6 @@
     },
     {
       "package": {
-        "name": "libquadmath-devel",
-        "ecosystem": "Red Hat:rhel_aus:8.4::baseos",
-        "purl": "pkg:rpm/redhat/libquadmath-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "libstdc++",
         "ecosystem": "Red Hat:rhel_aus:8.4::baseos",
         "purl": "pkg:rpm/redhat/libstdc%2B%2B"
@@ -3808,52 +2750,6 @@
         "name": "libstdc++-debuginfo",
         "ecosystem": "Red Hat:rhel_aus:8.4::baseos",
         "purl": "pkg:rpm/redhat/libstdc%2B%2B-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libstdc++-devel",
-        "ecosystem": "Red Hat:rhel_aus:8.4::baseos",
-        "purl": "pkg:rpm/redhat/libstdc%2B%2B-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libstdc++-docs",
-        "ecosystem": "Red Hat:rhel_aus:8.4::baseos",
-        "purl": "pkg:rpm/redhat/libstdc%2B%2B-docs"
       },
       "ranges": [
         {
@@ -3966,29 +2862,6 @@
     },
     {
       "package": {
-        "name": "cpp",
-        "ecosystem": "Red Hat:rhel_e4s:8.4::baseos",
-        "purl": "pkg:rpm/redhat/cpp"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "cpp-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:8.4::baseos",
         "purl": "pkg:rpm/redhat/cpp-debuginfo"
@@ -4015,29 +2888,6 @@
         "name": "gcc",
         "ecosystem": "Red Hat:rhel_e4s:8.4::baseos",
         "purl": "pkg:rpm/redhat/gcc"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "gcc-c++",
-        "ecosystem": "Red Hat:rhel_e4s:8.4::baseos",
-        "purl": "pkg:rpm/redhat/gcc-c%2B%2B"
       },
       "ranges": [
         {
@@ -4127,29 +2977,6 @@
     },
     {
       "package": {
-        "name": "gcc-gdb-plugin",
-        "ecosystem": "Red Hat:rhel_e4s:8.4::baseos",
-        "purl": "pkg:rpm/redhat/gcc-gdb-plugin"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "gcc-gdb-plugin-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:8.4::baseos",
         "purl": "pkg:rpm/redhat/gcc-gdb-plugin-debuginfo"
@@ -4173,55 +3000,9 @@
     },
     {
       "package": {
-        "name": "gcc-gfortran",
-        "ecosystem": "Red Hat:rhel_e4s:8.4::baseos",
-        "purl": "pkg:rpm/redhat/gcc-gfortran"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "gcc-gfortran-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:8.4::baseos",
         "purl": "pkg:rpm/redhat/gcc-gfortran-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "gcc-offload-nvptx",
-        "ecosystem": "Red Hat:rhel_e4s:8.4::baseos",
-        "purl": "pkg:rpm/redhat/gcc-offload-nvptx"
       },
       "ranges": [
         {
@@ -4633,29 +3414,6 @@
     },
     {
       "package": {
-        "name": "libitm-devel",
-        "ecosystem": "Red Hat:rhel_e4s:8.4::baseos",
-        "purl": "pkg:rpm/redhat/libitm-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "liblsan",
         "ecosystem": "Red Hat:rhel_e4s:8.4::baseos",
         "purl": "pkg:rpm/redhat/liblsan"
@@ -4748,29 +3506,6 @@
     },
     {
       "package": {
-        "name": "libquadmath-devel",
-        "ecosystem": "Red Hat:rhel_e4s:8.4::baseos",
-        "purl": "pkg:rpm/redhat/libquadmath-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "libstdc++",
         "ecosystem": "Red Hat:rhel_e4s:8.4::baseos",
         "purl": "pkg:rpm/redhat/libstdc%2B%2B"
@@ -4797,52 +3532,6 @@
         "name": "libstdc++-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:8.4::baseos",
         "purl": "pkg:rpm/redhat/libstdc%2B%2B-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libstdc++-devel",
-        "ecosystem": "Red Hat:rhel_e4s:8.4::baseos",
-        "purl": "pkg:rpm/redhat/libstdc%2B%2B-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libstdc++-docs",
-        "ecosystem": "Red Hat:rhel_e4s:8.4::baseos",
-        "purl": "pkg:rpm/redhat/libstdc%2B%2B-docs"
       },
       "ranges": [
         {
@@ -4955,29 +3644,6 @@
     },
     {
       "package": {
-        "name": "cpp",
-        "ecosystem": "Red Hat:rhel_tus:8.4::baseos",
-        "purl": "pkg:rpm/redhat/cpp"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "cpp-debuginfo",
         "ecosystem": "Red Hat:rhel_tus:8.4::baseos",
         "purl": "pkg:rpm/redhat/cpp-debuginfo"
@@ -5004,29 +3670,6 @@
         "name": "gcc",
         "ecosystem": "Red Hat:rhel_tus:8.4::baseos",
         "purl": "pkg:rpm/redhat/gcc"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "gcc-c++",
-        "ecosystem": "Red Hat:rhel_tus:8.4::baseos",
-        "purl": "pkg:rpm/redhat/gcc-c%2B%2B"
       },
       "ranges": [
         {
@@ -5116,29 +3759,6 @@
     },
     {
       "package": {
-        "name": "gcc-gdb-plugin",
-        "ecosystem": "Red Hat:rhel_tus:8.4::baseos",
-        "purl": "pkg:rpm/redhat/gcc-gdb-plugin"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "gcc-gdb-plugin-debuginfo",
         "ecosystem": "Red Hat:rhel_tus:8.4::baseos",
         "purl": "pkg:rpm/redhat/gcc-gdb-plugin-debuginfo"
@@ -5162,55 +3782,9 @@
     },
     {
       "package": {
-        "name": "gcc-gfortran",
-        "ecosystem": "Red Hat:rhel_tus:8.4::baseos",
-        "purl": "pkg:rpm/redhat/gcc-gfortran"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "gcc-gfortran-debuginfo",
         "ecosystem": "Red Hat:rhel_tus:8.4::baseos",
         "purl": "pkg:rpm/redhat/gcc-gfortran-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "gcc-offload-nvptx",
-        "ecosystem": "Red Hat:rhel_tus:8.4::baseos",
-        "purl": "pkg:rpm/redhat/gcc-offload-nvptx"
       },
       "ranges": [
         {
@@ -5622,29 +4196,6 @@
     },
     {
       "package": {
-        "name": "libitm-devel",
-        "ecosystem": "Red Hat:rhel_tus:8.4::baseos",
-        "purl": "pkg:rpm/redhat/libitm-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "liblsan",
         "ecosystem": "Red Hat:rhel_tus:8.4::baseos",
         "purl": "pkg:rpm/redhat/liblsan"
@@ -5737,29 +4288,6 @@
     },
     {
       "package": {
-        "name": "libquadmath-devel",
-        "ecosystem": "Red Hat:rhel_tus:8.4::baseos",
-        "purl": "pkg:rpm/redhat/libquadmath-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
         "name": "libstdc++",
         "ecosystem": "Red Hat:rhel_tus:8.4::baseos",
         "purl": "pkg:rpm/redhat/libstdc%2B%2B"
@@ -5786,52 +4314,6 @@
         "name": "libstdc++-debuginfo",
         "ecosystem": "Red Hat:rhel_tus:8.4::baseos",
         "purl": "pkg:rpm/redhat/libstdc%2B%2B-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libstdc++-devel",
-        "ecosystem": "Red Hat:rhel_tus:8.4::baseos",
-        "purl": "pkg:rpm/redhat/libstdc%2B%2B-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:8.4.1-1.4.el8_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:1312.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libstdc++-docs",
-        "ecosystem": "Red Hat:rhel_tus:8.4::baseos",
-        "purl": "pkg:rpm/redhat/libstdc%2B%2B-docs"
       },
       "ranges": [
         {

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:2711",
   "published": "2026-02-17T10:12:22Z",
-  "modified": "2026-06-08T10:06:48Z",
+  "modified": "2026-06-29T11:28:30Z",
   "related": [
     "GO-2025-4014"
   ],
@@ -1807,6 +1807,10 @@
     },
     {
       "type": "ARTICLE",
+      "url": "https://www.npmjs.com/package/taffy"
+    },
+    {
+      "type": "ARTICLE",
       "url": "https://www.usenix.org/system/files/sec21-xiao.pdf"
     },
     {
@@ -1836,6 +1840,26 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-31884"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://github.com/ceph/ceph/pull/66089"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://github.com/ceph/ceph/pull/66140"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://github.com/ceph/ceph/pull/66141"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://github.com/ceph/ceph/pull/66142"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://github.com/ceph/ceph/security/advisories/GHSA-xj9f-7g59-m4jx"
     },
     {
       "type": "REPORT",

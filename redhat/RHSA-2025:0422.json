@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:0422",
   "published": "2025-01-23T10:02:35Z",
-  "modified": "2026-05-07T10:03:12Z",
+  "modified": "2026-06-29T11:04:38Z",
   "upstream": [
     "CVE-2025-21502"
   ],
@@ -102,52 +102,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-demo-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-demo-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-demo-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-demo-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-devel",
         "ecosystem": "Red Hat:enterprise_linux:8::appstream",
         "purl": "pkg:rpm/redhat/java-17-openjdk-devel"
@@ -194,144 +148,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-devel-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-devel-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-devel-fastdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-devel-fastdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-devel-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-devel-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-devel-slowdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-devel-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-fastdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-fastdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-headless",
         "ecosystem": "Red Hat:enterprise_linux:8::appstream",
         "purl": "pkg:rpm/redhat/java-17-openjdk-headless"
@@ -358,98 +174,6 @@
         "name": "java-17-openjdk-headless-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:8::appstream",
         "purl": "pkg:rpm/redhat/java-17-openjdk-headless-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-headless-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-headless-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-headless-fastdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-headless-fastdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-headless-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-headless-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-headless-slowdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-headless-slowdebug-debuginfo"
       },
       "ranges": [
         {
@@ -539,98 +263,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-jmods-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-jmods-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-jmods-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-jmods-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-slowdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-src",
         "ecosystem": "Red Hat:enterprise_linux:8::appstream",
         "purl": "pkg:rpm/redhat/java-17-openjdk-src"
@@ -654,101 +286,9 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-src-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-src-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-src-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-src-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-static-libs",
         "ecosystem": "Red Hat:enterprise_linux:8::appstream",
         "purl": "pkg:rpm/redhat/java-17-openjdk-static-libs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-static-libs-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-static-libs-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-static-libs-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-static-libs-slowdebug"
       },
       "ranges": [
         {
@@ -1758,52 +1298,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-demo-fastdebug",
-        "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-demo-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-demo-slowdebug",
-        "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-demo-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-devel",
         "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
         "purl": "pkg:rpm/redhat/java-17-openjdk-devel"
@@ -1850,144 +1344,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-devel-fastdebug",
-        "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-devel-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-devel-fastdebug-debuginfo",
-        "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-devel-fastdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-devel-slowdebug",
-        "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-devel-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-devel-slowdebug-debuginfo",
-        "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-devel-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-fastdebug",
-        "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-fastdebug-debuginfo",
-        "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-fastdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-headless",
         "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
         "purl": "pkg:rpm/redhat/java-17-openjdk-headless"
@@ -2014,98 +1370,6 @@
         "name": "java-17-openjdk-headless-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
         "purl": "pkg:rpm/redhat/java-17-openjdk-headless-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-headless-fastdebug",
-        "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-headless-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-headless-fastdebug-debuginfo",
-        "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-headless-fastdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-headless-slowdebug",
-        "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-headless-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-headless-slowdebug-debuginfo",
-        "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-headless-slowdebug-debuginfo"
       },
       "ranges": [
         {
@@ -2195,98 +1459,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-jmods-fastdebug",
-        "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-jmods-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-jmods-slowdebug",
-        "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-jmods-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-slowdebug",
-        "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-slowdebug-debuginfo",
-        "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-src",
         "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
         "purl": "pkg:rpm/redhat/java-17-openjdk-src"
@@ -2310,101 +1482,9 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-src-fastdebug",
-        "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-src-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-src-slowdebug",
-        "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-src-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-static-libs",
         "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
         "purl": "pkg:rpm/redhat/java-17-openjdk-static-libs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-static-libs-fastdebug",
-        "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-static-libs-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-static-libs-slowdebug",
-        "ecosystem": "Red Hat:rhel_eus:8.8::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-static-libs-slowdebug"
       },
       "ranges": [
         {
@@ -2517,52 +1597,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-demo-fastdebug",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-demo-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-demo-slowdebug",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-demo-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-devel",
         "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
         "purl": "pkg:rpm/redhat/java-17-openjdk-devel"
@@ -2609,144 +1643,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-devel-fastdebug",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-devel-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-devel-fastdebug-debuginfo",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-devel-fastdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-devel-slowdebug",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-devel-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-devel-slowdebug-debuginfo",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-devel-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-fastdebug",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-fastdebug-debuginfo",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-fastdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-headless",
         "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
         "purl": "pkg:rpm/redhat/java-17-openjdk-headless"
@@ -2773,98 +1669,6 @@
         "name": "java-17-openjdk-headless-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
         "purl": "pkg:rpm/redhat/java-17-openjdk-headless-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-headless-fastdebug",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-headless-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-headless-fastdebug-debuginfo",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-headless-fastdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-headless-slowdebug",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-headless-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-headless-slowdebug-debuginfo",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-headless-slowdebug-debuginfo"
       },
       "ranges": [
         {
@@ -2954,98 +1758,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-jmods-fastdebug",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-jmods-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-jmods-slowdebug",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-jmods-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-slowdebug",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-slowdebug-debuginfo",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-src",
         "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
         "purl": "pkg:rpm/redhat/java-17-openjdk-src"
@@ -3069,101 +1781,9 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-src-fastdebug",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-src-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-src-slowdebug",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-src-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-static-libs",
         "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
         "purl": "pkg:rpm/redhat/java-17-openjdk-static-libs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-static-libs-fastdebug",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-static-libs-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-static-libs-slowdebug",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-static-libs-slowdebug"
       },
       "ranges": [
         {
@@ -3276,52 +1896,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-demo-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-demo-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-demo-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-demo-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-devel",
         "ecosystem": "Red Hat:enterprise_linux:9::appstream",
         "purl": "pkg:rpm/redhat/java-17-openjdk-devel"
@@ -3368,144 +1942,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-devel-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-devel-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-devel-fastdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-devel-fastdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-devel-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-devel-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-devel-slowdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-devel-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-fastdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-fastdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-headless",
         "ecosystem": "Red Hat:enterprise_linux:9::appstream",
         "purl": "pkg:rpm/redhat/java-17-openjdk-headless"
@@ -3532,98 +1968,6 @@
         "name": "java-17-openjdk-headless-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::appstream",
         "purl": "pkg:rpm/redhat/java-17-openjdk-headless-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-headless-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-headless-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-headless-fastdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-headless-fastdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-headless-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-headless-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-headless-slowdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-headless-slowdebug-debuginfo"
       },
       "ranges": [
         {
@@ -3713,147 +2057,9 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-jmods-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-jmods-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-jmods-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-jmods-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-slowdebug-debuginfo",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-slowdebug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-src",
         "ecosystem": "Red Hat:enterprise_linux:9::appstream",
         "purl": "pkg:rpm/redhat/java-17-openjdk-src"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-src-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-src-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-src-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-src-slowdebug"
       },
       "ranges": [
         {
@@ -3887,75 +2093,6 @@
             },
             {
               "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-static-libs-fastdebug",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-static-libs-fastdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-static-libs-slowdebug",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-static-libs-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
             }
           ]
         }
@@ -3992,29 +2129,6 @@
         "name": "java-17-openjdk-debugsource",
         "ecosystem": "Red Hat:enterprise_linux:8::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-demo",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-demo"
       },
       "ranges": [
         {
@@ -4061,29 +2175,6 @@
         "name": "java-17-openjdk-demo-slowdebug",
         "ecosystem": "Red Hat:enterprise_linux:8::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-demo-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-devel",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-devel"
       },
       "ranges": [
         {
@@ -4265,29 +2356,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-headless",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-headless"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-headless-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:8::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-headless-debuginfo"
@@ -4403,75 +2471,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-javadoc",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-javadoc"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-javadoc-zip",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-javadoc-zip"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-jmods",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-jmods"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-jmods-fastdebug",
         "ecosystem": "Red Hat:enterprise_linux:8::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-jmods-fastdebug"
@@ -4564,29 +2563,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-src",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-src"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-src-fastdebug",
         "ecosystem": "Red Hat:enterprise_linux:8::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-src-fastdebug"
@@ -4613,29 +2589,6 @@
         "name": "java-17-openjdk-src-slowdebug",
         "ecosystem": "Red Hat:enterprise_linux:8::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-src-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-static-libs",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-static-libs"
       },
       "ranges": [
         {
@@ -4702,29 +2655,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk",
-        "ecosystem": "Red Hat:rhel_eus:8.8::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:8.8::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-debuginfo"
@@ -4771,29 +2701,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-demo",
-        "ecosystem": "Red Hat:rhel_eus:8.8::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-demo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-demo-fastdebug",
         "ecosystem": "Red Hat:rhel_eus:8.8::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-demo-fastdebug"
@@ -4820,29 +2727,6 @@
         "name": "java-17-openjdk-demo-slowdebug",
         "ecosystem": "Red Hat:rhel_eus:8.8::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-demo-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-devel",
-        "ecosystem": "Red Hat:rhel_eus:8.8::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-devel"
       },
       "ranges": [
         {
@@ -5024,29 +2908,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-headless",
-        "ecosystem": "Red Hat:rhel_eus:8.8::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-headless"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-headless-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:8.8::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-headless-debuginfo"
@@ -5162,75 +3023,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-javadoc",
-        "ecosystem": "Red Hat:rhel_eus:8.8::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-javadoc"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-javadoc-zip",
-        "ecosystem": "Red Hat:rhel_eus:8.8::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-javadoc-zip"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-jmods",
-        "ecosystem": "Red Hat:rhel_eus:8.8::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-jmods"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-jmods-fastdebug",
         "ecosystem": "Red Hat:rhel_eus:8.8::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-jmods-fastdebug"
@@ -5323,29 +3115,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-src",
-        "ecosystem": "Red Hat:rhel_eus:8.8::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-src"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-src-fastdebug",
         "ecosystem": "Red Hat:rhel_eus:8.8::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-src-fastdebug"
@@ -5372,29 +3141,6 @@
         "name": "java-17-openjdk-src-slowdebug",
         "ecosystem": "Red Hat:rhel_eus:8.8::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-src-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-3.el8"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-static-libs",
-        "ecosystem": "Red Hat:rhel_eus:8.8::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-static-libs"
       },
       "ranges": [
         {
@@ -5461,29 +3207,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-debuginfo"
@@ -5530,29 +3253,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-demo",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-demo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-demo-fastdebug",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-demo-fastdebug"
@@ -5579,29 +3279,6 @@
         "name": "java-17-openjdk-demo-slowdebug",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-demo-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-devel",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-devel"
       },
       "ranges": [
         {
@@ -5783,29 +3460,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-headless",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-headless"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-headless-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-headless-debuginfo"
@@ -5921,75 +3575,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-javadoc",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-javadoc"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-javadoc-zip",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-javadoc-zip"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-jmods",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-jmods"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-jmods-fastdebug",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-jmods-fastdebug"
@@ -6082,29 +3667,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-src",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-src"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-src-fastdebug",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-src-fastdebug"
@@ -6131,29 +3693,6 @@
         "name": "java-17-openjdk-src-slowdebug",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-src-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-static-libs",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-static-libs"
       },
       "ranges": [
         {
@@ -6220,29 +3759,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-debuginfo"
@@ -6289,29 +3805,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-demo",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-demo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-demo-fastdebug",
         "ecosystem": "Red Hat:enterprise_linux:9::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-demo-fastdebug"
@@ -6338,29 +3831,6 @@
         "name": "java-17-openjdk-demo-slowdebug",
         "ecosystem": "Red Hat:enterprise_linux:9::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-demo-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-devel",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-devel"
       },
       "ranges": [
         {
@@ -6542,29 +4012,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-headless",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-headless"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-headless-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-headless-debuginfo"
@@ -6680,75 +4127,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-javadoc",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-javadoc"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-javadoc-zip",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-javadoc-zip"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-jmods",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-jmods"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-jmods-fastdebug",
         "ecosystem": "Red Hat:enterprise_linux:9::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-jmods-fastdebug"
@@ -6841,29 +4219,6 @@
     },
     {
       "package": {
-        "name": "java-17-openjdk-src",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-src"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
         "name": "java-17-openjdk-src-fastdebug",
         "ecosystem": "Red Hat:enterprise_linux:9::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-src-fastdebug"
@@ -6890,29 +4245,6 @@
         "name": "java-17-openjdk-src-slowdebug",
         "ecosystem": "Red Hat:enterprise_linux:9::crb",
         "purl": "pkg:rpm/redhat/java-17-openjdk-src-slowdebug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:17.0.14.0.7-2.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:0422.json"
-      }
-    },
-    {
-      "package": {
-        "name": "java-17-openjdk-static-libs",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/java-17-openjdk-static-libs"
       },
       "ranges": [
         {

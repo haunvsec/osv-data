@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:20559",
   "published": "2025-11-11T10:07:41Z",
-  "modified": "2026-03-18T11:39:10.637990Z",
+  "modified": "2026-06-29T11:16:43Z",
   "upstream": [
     "CVE-2024-56433"
   ],
@@ -125,52 +125,6 @@
     },
     {
       "package": {
-        "name": "shadow-utils-subid-devel",
-        "ecosystem": "Red Hat:enterprise_linux:9::baseos",
-        "purl": "pkg:rpm/redhat/shadow-utils-subid-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "2:4.9-15.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:20559.json"
-      }
-    },
-    {
-      "package": {
-        "name": "shadow-utils",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/shadow-utils"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "2:4.9-15.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:20559.json"
-      }
-    },
-    {
-      "package": {
         "name": "shadow-utils-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::crb",
         "purl": "pkg:rpm/redhat/shadow-utils-debuginfo"
@@ -197,29 +151,6 @@
         "name": "shadow-utils-debugsource",
         "ecosystem": "Red Hat:enterprise_linux:9::crb",
         "purl": "pkg:rpm/redhat/shadow-utils-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "2:4.9-15.el9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:20559.json"
-      }
-    },
-    {
-      "package": {
-        "name": "shadow-utils-subid",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/shadow-utils-subid"
       },
       "ranges": [
         {

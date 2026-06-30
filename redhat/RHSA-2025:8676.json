@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:8676",
   "published": "2025-06-10T10:02:59Z",
-  "modified": "2026-05-15T10:12:10Z",
+  "modified": "2026-06-29T11:22:56Z",
   "upstream": [
     "CVE-2023-40403"
   ],
@@ -10,29 +10,6 @@
   "affected": [
     {
       "package": {
-        "name": "libxslt",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/libxslt"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.1.32-6.2.el8_10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:8676.json"
-      }
-    },
-    {
-      "package": {
         "name": "libxslt-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:8::appstream",
         "purl": "pkg:rpm/redhat/libxslt-debuginfo"
@@ -151,29 +128,6 @@
         "name": "libxslt-debugsource",
         "ecosystem": "Red Hat:enterprise_linux:8::baseos",
         "purl": "pkg:rpm/redhat/libxslt-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.1.32-6.2.el8_10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:8676.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libxslt-devel",
-        "ecosystem": "Red Hat:enterprise_linux:8::baseos",
-        "purl": "pkg:rpm/redhat/libxslt-devel"
       },
       "ranges": [
         {

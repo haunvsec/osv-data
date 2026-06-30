@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:17790",
   "published": "2026-05-16T10:05:44Z",
-  "modified": "2026-05-27T10:05:40Z",
+  "modified": "2026-06-29T11:26:06Z",
   "upstream": [
     "CVE-2026-42945"
   ],
@@ -82,29 +82,6 @@
         "name": "nginx-filesystem",
         "ecosystem": "Red Hat:enterprise_linux_eus:10.0",
         "purl": "pkg:rpm/redhat/nginx-filesystem"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "2:1.26.3-1.el10_0.9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:17790.json"
-      }
-    },
-    {
-      "package": {
-        "name": "nginx-mod-devel",
-        "ecosystem": "Red Hat:enterprise_linux_eus:10.0",
-        "purl": "pkg:rpm/redhat/nginx-mod-devel"
       },
       "ranges": [
         {
@@ -220,6 +197,29 @@
         "name": "nginx-mod-stream",
         "ecosystem": "Red Hat:enterprise_linux_eus:10.0",
         "purl": "pkg:rpm/redhat/nginx-mod-stream"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "2:1.26.3-1.el10_0.9"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:17790.json"
+      }
+    },
+    {
+      "package": {
+        "name": "nginx-mod-devel",
+        "ecosystem": "Red Hat:enterprise_linux_eus:10.0",
+        "purl": "pkg:rpm/redhat/nginx-mod-devel"
       },
       "ranges": [
         {

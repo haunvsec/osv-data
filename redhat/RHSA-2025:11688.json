@@ -2,12 +2,81 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:11688",
   "published": "2025-07-25T10:06:24Z",
-  "modified": "2026-06-03T10:11:13Z",
+  "modified": "2026-06-29T11:07:29Z",
   "upstream": [
     "CVE-2025-48384"
   ],
   "summary": "Red Hat Security Advisory: git security update",
   "affected": [
+    {
+      "package": {
+        "name": "git",
+        "ecosystem": "Red Hat:rhel_els:7",
+        "purl": "pkg:rpm/redhat/git"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:1.8.3.1-25.el7_9.1"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11688.json"
+      }
+    },
+    {
+      "package": {
+        "name": "git-debuginfo",
+        "ecosystem": "Red Hat:rhel_els:7",
+        "purl": "pkg:rpm/redhat/git-debuginfo"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:1.8.3.1-25.el7_9.1"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11688.json"
+      }
+    },
+    {
+      "package": {
+        "name": "perl-Git",
+        "ecosystem": "Red Hat:rhel_els:7",
+        "purl": "pkg:rpm/redhat/perl-Git"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:1.8.3.1-25.el7_9.1"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11688.json"
+      }
+    },
     {
       "package": {
         "name": "emacs-git",
@@ -36,29 +105,6 @@
         "name": "emacs-git-el",
         "ecosystem": "Red Hat:rhel_els:7",
         "purl": "pkg:rpm/redhat/emacs-git-el"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.8.3.1-25.el7_9.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11688.json"
-      }
-    },
-    {
-      "package": {
-        "name": "git",
-        "ecosystem": "Red Hat:rhel_els:7",
-        "purl": "pkg:rpm/redhat/git"
       },
       "ranges": [
         {
@@ -151,29 +197,6 @@
         "name": "git-daemon",
         "ecosystem": "Red Hat:rhel_els:7",
         "purl": "pkg:rpm/redhat/git-daemon"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.8.3.1-25.el7_9.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11688.json"
-      }
-    },
-    {
-      "package": {
-        "name": "git-debuginfo",
-        "ecosystem": "Red Hat:rhel_els:7",
-        "purl": "pkg:rpm/redhat/git-debuginfo"
       },
       "ranges": [
         {
@@ -381,29 +404,6 @@
         "name": "gitweb",
         "ecosystem": "Red Hat:rhel_els:7",
         "purl": "pkg:rpm/redhat/gitweb"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.8.3.1-25.el7_9.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:11688.json"
-      }
-    },
-    {
-      "package": {
-        "name": "perl-Git",
-        "ecosystem": "Red Hat:rhel_els:7",
-        "purl": "pkg:rpm/redhat/perl-Git"
       },
       "ranges": [
         {

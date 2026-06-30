@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:4450",
   "published": "2025-05-05T10:02:19Z",
-  "modified": "2026-03-18T11:37:26.271465Z",
+  "modified": "2026-06-29T11:22:06Z",
   "upstream": [
     "CVE-2025-3155"
   ],
@@ -152,6 +152,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-3155"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://gitlab.gnome.org/GNOME/yelp/-/issues/221"
     }
   ],
   "severity": [

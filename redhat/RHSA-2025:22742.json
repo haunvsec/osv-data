@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:22742",
   "published": "2025-12-05T10:08:23Z",
-  "modified": "2026-04-21T10:21:38.541036Z",
+  "modified": "2026-06-29T11:19:19Z",
   "upstream": [
     "CVE-2025-62229",
     "CVE-2025-62230",
@@ -334,124 +334,9 @@
     },
     {
       "package": {
-        "name": "xorg-x11-server-devel",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/xorg-x11-server-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.20.11-27.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:22742.json"
-      }
-    },
-    {
-      "package": {
-        "name": "xorg-x11-server-source",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/xorg-x11-server-source"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.20.11-27.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:22742.json"
-      }
-    },
-    {
-      "package": {
-        "name": "xorg-x11-server",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/xorg-x11-server"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.20.11-27.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:22742.json"
-      }
-    },
-    {
-      "package": {
-        "name": "xorg-x11-server-Xdmx",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/xorg-x11-server-Xdmx"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.20.11-27.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:22742.json"
-      }
-    },
-    {
-      "package": {
         "name": "xorg-x11-server-Xdmx-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/xorg-x11-server-Xdmx-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.20.11-27.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:22742.json"
-      }
-    },
-    {
-      "package": {
-        "name": "xorg-x11-server-Xephyr",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/xorg-x11-server-Xephyr"
       },
       "ranges": [
         {
@@ -495,55 +380,9 @@
     },
     {
       "package": {
-        "name": "xorg-x11-server-Xnest",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/xorg-x11-server-Xnest"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.20.11-27.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:22742.json"
-      }
-    },
-    {
-      "package": {
         "name": "xorg-x11-server-Xnest-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/xorg-x11-server-Xnest-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.20.11-27.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:22742.json"
-      }
-    },
-    {
-      "package": {
-        "name": "xorg-x11-server-Xorg",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/xorg-x11-server-Xorg"
       },
       "ranges": [
         {
@@ -587,55 +426,9 @@
     },
     {
       "package": {
-        "name": "xorg-x11-server-Xvfb",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/xorg-x11-server-Xvfb"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.20.11-27.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:22742.json"
-      }
-    },
-    {
-      "package": {
         "name": "xorg-x11-server-Xvfb-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/xorg-x11-server-Xvfb-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:1.20.11-27.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:22742.json"
-      }
-    },
-    {
-      "package": {
-        "name": "xorg-x11-server-common",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/xorg-x11-server-common"
       },
       "ranges": [
         {

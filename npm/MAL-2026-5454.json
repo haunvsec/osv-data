@@ -2,9 +2,12 @@
   "schema_version": "1.7.5",
   "id": "MAL-2026-5454",
   "published": "2026-06-09T17:29:01Z",
-  "modified": "2026-06-09T18:01:37.031708431Z",
+  "modified": "2026-06-29T17:31:53.943243820Z",
+  "aliases": [
+    "GHSA-2p68-7m73-m8v7"
+  ],
   "summary": "Malicious code in ui-ng-components (npm)",
-  "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (198750c8e5d6f4d8a3f3f788a2fd9286f43b5a447bb0e3495b50663c44ddd2a7)\nPackage ui-ng-components@99.9.1 is an empty shell (index.js exports `{}`, no author, no description, no functionality) with a single dependency declared as a remote tarball URL: `https://ltidi.storage.googleapis.com/depenconf/ltidisafe-2.7.9.tgz`. The version number 99.9.1 and the literal `depenconf` segment in the dependency URL are the canonical fingerprint of a dependency-confusion override targeting an internal Angular UI component name. On `npm install`, npm fetches and installs that opaque tarball as a transitive dependency; any lifecycle scripts inside it run on the installer's machine, and its contents are not reviewable from the registry. The host package ships no library code — its only on-install effect is dropping in this externally-hosted tarball, making the install itself the attack surface.\n",
+  "details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n\n## Source: amazon-inspector (198750c8e5d6f4d8a3f3f788a2fd9286f43b5a447bb0e3495b50663c44ddd2a7)\nPackage ui-ng-components@99.9.1 is an empty shell (index.js exports `{}`, no author, no description, no functionality) with a single dependency declared as a remote tarball URL: `https://ltidi.storage.googleapis.com/depenconf/ltidisafe-2.7.9.tgz`. The version number 99.9.1 and the literal `depenconf` segment in the dependency URL are the canonical fingerprint of a dependency-confusion override targeting an internal Angular UI component name. On `npm install`, npm fetches and installs that opaque tarball as a transitive dependency; any lifecycle scripts inside it run on the installer's machine, and its contents are not reviewable from the registry. The host package ships no library code — its only on-install effect is dropping in this externally-hosted tarball, making the install itself the attack surface.\n\n## Source: ghsa-malware (957a528061aac851b824ef8d348dd108480157326f41e19a4611d14236e5f308)\nAny computer that has this package installed or running should be considered fully compromised. All secrets and keys stored on that computer should be rotated immediately from a different computer. The package should be removed, but as full control of the computer may have been given to an outside entity, there is no guarantee that removing the package will remove all malicious software resulting from installing it.\n",
   "affected": [
     {
       "package": {
@@ -12,11 +15,26 @@
         "ecosystem": "npm",
         "purl": "pkg:npm/ui-ng-components"
       },
+      "ranges": [
+        {
+          "type": "SEMVER",
+          "events": [
+            {
+              "introduced": "0"
+            }
+          ]
+        }
+      ],
       "versions": [
         "99.9.1"
       ],
       "database_specific": {
         "cwes": [
+          {
+            "cweId": "CWE-506",
+            "description": "The product contains code that appears to be malicious in nature.",
+            "name": "Embedded Malicious Code"
+          },
           {
             "cweId": "CWE-506",
             "description": "The product contains code that appears to be malicious in nature.",
@@ -52,6 +70,10 @@
     {
       "type": "PACKAGE",
       "url": "https://www.npmjs.com/package/ui-ng-components/v/99.9.1"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://github.com/advisories/GHSA-2p68-7m73-m8v7"
     }
   ],
   "database_specific": {
@@ -75,6 +97,23 @@
         "versions": [
           "99.9.1"
         ]
+      },
+      {
+        "id": "GHSA-2p68-7m73-m8v7",
+        "import_time": "2026-06-29T17:14:01.229086551Z",
+        "modified_time": "2026-06-29T16:53:34Z",
+        "ranges": [
+          {
+            "events": [
+              {
+                "introduced": "0"
+              }
+            ],
+            "type": "SEMVER"
+          }
+        ],
+        "sha256": "957a528061aac851b824ef8d348dd108480157326f41e19a4611d14236e5f308",
+        "source": "ghsa-malware"
       }
     ]
   },

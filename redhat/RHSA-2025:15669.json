@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:15669",
   "published": "2025-09-12T10:04:12Z",
-  "modified": "2026-03-18T11:38:47.385207Z",
+  "modified": "2026-06-29T11:12:14Z",
   "upstream": [
     "CVE-2025-22058",
     "CVE-2025-22097",
@@ -13,29 +13,6 @@
   "affected": [
     {
       "package": {
-        "name": "bpftool",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/bpftool"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:7.0.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
         "name": "bpftool-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
         "purl": "pkg:rpm/redhat/bpftool-debuginfo"
@@ -49,121 +26,6 @@
             },
             {
               "fixed": "0:7.0.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-64k",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-64k"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-64k-core",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-64k-core"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-64k-debug",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-64k-debug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-64k-debug-core",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-64k-debug-core"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
             }
           ]
         }
@@ -223,75 +85,6 @@
         "name": "kernel-64k-debug-devel-matched",
         "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
         "purl": "pkg:rpm/redhat/kernel-64k-debug-devel-matched"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-64k-debug-modules",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-64k-debug-modules"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-64k-debug-modules-core",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-64k-debug-modules-core"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-64k-debug-modules-extra",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-64k-debug-modules-extra"
       },
       "ranges": [
         {
@@ -381,167 +174,6 @@
     },
     {
       "package": {
-        "name": "kernel-64k-modules",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-64k-modules"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-64k-modules-core",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-64k-modules-core"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-64k-modules-extra",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-64k-modules-extra"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-abi-stablelists",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-abi-stablelists"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-core",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-core"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-debug",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-debug"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-debug-core",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-debug-core"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
         "name": "kernel-debug-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
         "purl": "pkg:rpm/redhat/kernel-debug-debuginfo"
@@ -591,98 +223,6 @@
         "name": "kernel-debug-devel-matched",
         "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
         "purl": "pkg:rpm/redhat/kernel-debug-devel-matched"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-debug-modules",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-debug-modules"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-debug-modules-core",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-debug-modules-core"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-debug-modules-extra",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-debug-modules-extra"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-debug-uki-virt",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-debug-uki-virt"
       },
       "ranges": [
         {
@@ -864,193 +404,9 @@
     },
     {
       "package": {
-        "name": "kernel-modules",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-modules"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-modules-core",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-modules-core"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-modules-extra",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-modules-extra"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-tools",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-tools"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
         "name": "kernel-tools-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
         "purl": "pkg:rpm/redhat/kernel-tools-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-tools-libs",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-tools-libs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-uki-virt",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-uki-virt"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-zfcpdump",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-zfcpdump"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-zfcpdump-core",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-zfcpdump-core"
       },
       "ranges": [
         {
@@ -1140,75 +496,6 @@
     },
     {
       "package": {
-        "name": "kernel-zfcpdump-modules",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-zfcpdump-modules"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-zfcpdump-modules-core",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-zfcpdump-modules-core"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-zfcpdump-modules-extra",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/kernel-zfcpdump-modules-extra"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
         "name": "perf",
         "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
         "purl": "pkg:rpm/redhat/perf"
@@ -1235,29 +522,6 @@
         "name": "perf-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
         "purl": "pkg:rpm/redhat/perf-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "python3-perf",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/python3-perf"
       },
       "ranges": [
         {
@@ -1508,52 +772,6 @@
     },
     {
       "package": {
-        "name": "kernel-64k-debug-devel",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
-        "purl": "pkg:rpm/redhat/kernel-64k-debug-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-64k-debug-devel-matched",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
-        "purl": "pkg:rpm/redhat/kernel-64k-debug-devel-matched"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
         "name": "kernel-64k-debug-modules",
         "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
         "purl": "pkg:rpm/redhat/kernel-64k-debug-modules"
@@ -1626,52 +844,6 @@
         "name": "kernel-64k-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
         "purl": "pkg:rpm/redhat/kernel-64k-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-64k-devel",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
-        "purl": "pkg:rpm/redhat/kernel-64k-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-64k-devel-matched",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
-        "purl": "pkg:rpm/redhat/kernel-64k-devel-matched"
       },
       "ranges": [
         {
@@ -1856,52 +1028,6 @@
         "name": "kernel-debug-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
         "purl": "pkg:rpm/redhat/kernel-debug-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-debug-devel",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
-        "purl": "pkg:rpm/redhat/kernel-debug-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-debug-devel-matched",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
-        "purl": "pkg:rpm/redhat/kernel-debug-devel-matched"
       },
       "ranges": [
         {
@@ -2109,52 +1235,6 @@
         "name": "kernel-debuginfo-common-x86_64",
         "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
         "purl": "pkg:rpm/redhat/kernel-debuginfo-common-x86_64"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-devel",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
-        "purl": "pkg:rpm/redhat/kernel-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-devel-matched",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
-        "purl": "pkg:rpm/redhat/kernel-devel-matched"
       },
       "ranges": [
         {
@@ -2405,52 +1485,6 @@
     },
     {
       "package": {
-        "name": "kernel-zfcpdump-devel",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
-        "purl": "pkg:rpm/redhat/kernel-zfcpdump-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "kernel-zfcpdump-devel-matched",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
-        "purl": "pkg:rpm/redhat/kernel-zfcpdump-devel-matched"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
         "name": "kernel-zfcpdump-modules",
         "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
         "purl": "pkg:rpm/redhat/kernel-zfcpdump-modules"
@@ -2520,29 +1554,6 @@
     },
     {
       "package": {
-        "name": "perf",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
-        "purl": "pkg:rpm/redhat/perf"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
         "name": "perf-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
         "purl": "pkg:rpm/redhat/perf-debuginfo"
@@ -2592,29 +1603,6 @@
         "name": "python3-perf-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
         "purl": "pkg:rpm/redhat/python3-perf-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:5.14.0-284.137.1.el9_2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15669.json"
-      }
-    },
-    {
-      "package": {
-        "name": "rtla",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
-        "purl": "pkg:rpm/redhat/rtla"
       },
       "ranges": [
         {

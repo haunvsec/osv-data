@@ -2,36 +2,13 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:22033",
   "published": "2025-11-25T10:06:07Z",
-  "modified": "2026-06-03T10:13:22Z",
+  "modified": "2026-06-29T11:18:30Z",
   "upstream": [
     "CVE-2024-8176",
     "CVE-2025-59375"
   ],
   "summary": "Red Hat Security Advisory: expat security update",
   "affected": [
-    {
-      "package": {
-        "name": "expat",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/expat"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.5.0-2.el9_4.3"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:22033.json"
-      }
-    },
     {
       "package": {
         "name": "expat",

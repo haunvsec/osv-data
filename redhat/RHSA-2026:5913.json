@@ -2,58 +2,12 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:5913",
   "published": "2026-03-26T10:15:51Z",
-  "modified": "2026-04-21T10:09:11Z",
+  "modified": "2026-06-29T11:31:07Z",
   "upstream": [
     "CVE-2025-69720"
   ],
   "summary": "Red Hat Security Advisory: ncurses security update",
   "affected": [
-    {
-      "package": {
-        "name": "ncurses",
-        "ecosystem": "Red Hat:enterprise_linux:10.1",
-        "purl": "pkg:rpm/redhat/ncurses"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:6.4-15.20240127.el10_1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:5913.json"
-      }
-    },
-    {
-      "package": {
-        "name": "ncurses-base",
-        "ecosystem": "Red Hat:enterprise_linux:10.1",
-        "purl": "pkg:rpm/redhat/ncurses-base"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:6.4-15.20240127.el10_1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:5913.json"
-      }
-    },
     {
       "package": {
         "name": "ncurses-c++-libs",
@@ -171,29 +125,6 @@
     },
     {
       "package": {
-        "name": "ncurses-libs",
-        "ecosystem": "Red Hat:enterprise_linux:10.1",
-        "purl": "pkg:rpm/redhat/ncurses-libs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:6.4-15.20240127.el10_1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:5913.json"
-      }
-    },
-    {
-      "package": {
         "name": "ncurses-libs-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:10.1",
         "purl": "pkg:rpm/redhat/ncurses-libs-debuginfo"
@@ -220,6 +151,75 @@
         "name": "ncurses-term",
         "ecosystem": "Red Hat:enterprise_linux:10.1",
         "purl": "pkg:rpm/redhat/ncurses-term"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:6.4-15.20240127.el10_1"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:5913.json"
+      }
+    },
+    {
+      "package": {
+        "name": "ncurses",
+        "ecosystem": "Red Hat:enterprise_linux:10.1",
+        "purl": "pkg:rpm/redhat/ncurses"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:6.4-15.20240127.el10_1"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:5913.json"
+      }
+    },
+    {
+      "package": {
+        "name": "ncurses-base",
+        "ecosystem": "Red Hat:enterprise_linux:10.1",
+        "purl": "pkg:rpm/redhat/ncurses-base"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:6.4-15.20240127.el10_1"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:5913.json"
+      }
+    },
+    {
+      "package": {
+        "name": "ncurses-libs",
+        "ecosystem": "Red Hat:enterprise_linux:10.1",
+        "purl": "pkg:rpm/redhat/ncurses-libs"
       },
       "ranges": [
         {

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:16411",
   "published": "2025-09-23T10:04:41Z",
-  "modified": "2026-03-18T11:38:52.697191Z",
+  "modified": "2026-06-29T11:13:02Z",
   "upstream": [
     "CVE-2024-3661"
   ],
@@ -10,78 +10,9 @@
   "affected": [
     {
       "package": {
-        "name": "NetworkManager",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/NetworkManager"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
-        "name": "NetworkManager-adsl",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/NetworkManager-adsl"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
         "name": "NetworkManager-adsl-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
         "purl": "pkg:rpm/redhat/NetworkManager-adsl-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
-        "name": "NetworkManager-bluetooth",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/NetworkManager-bluetooth"
       },
       "ranges": [
         {
@@ -194,29 +125,6 @@
     },
     {
       "package": {
-        "name": "NetworkManager-config-server",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/NetworkManager-config-server"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
         "name": "NetworkManager-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
         "purl": "pkg:rpm/redhat/NetworkManager-debuginfo"
@@ -286,78 +194,9 @@
     },
     {
       "package": {
-        "name": "NetworkManager-initscripts-updown",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/NetworkManager-initscripts-updown"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
-        "name": "NetworkManager-libnm",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/NetworkManager-libnm"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
         "name": "NetworkManager-libnm-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
         "purl": "pkg:rpm/redhat/NetworkManager-libnm-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
-        "name": "NetworkManager-libnm-devel",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/NetworkManager-libnm-devel"
       },
       "ranges": [
         {
@@ -470,55 +309,9 @@
     },
     {
       "package": {
-        "name": "NetworkManager-team",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/NetworkManager-team"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
         "name": "NetworkManager-team-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
         "purl": "pkg:rpm/redhat/NetworkManager-team-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
-        "name": "NetworkManager-tui",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/NetworkManager-tui"
       },
       "ranges": [
         {
@@ -562,55 +355,9 @@
     },
     {
       "package": {
-        "name": "NetworkManager-wifi",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/NetworkManager-wifi"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
         "name": "NetworkManager-wifi-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
         "purl": "pkg:rpm/redhat/NetworkManager-wifi-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
-        "name": "NetworkManager-wwan",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/NetworkManager-wwan"
       },
       "ranges": [
         {
@@ -769,55 +516,9 @@
     },
     {
       "package": {
-        "name": "NetworkManager-cloud-setup",
-        "ecosystem": "Red Hat:rhel_eus:9.4::baseos",
-        "purl": "pkg:rpm/redhat/NetworkManager-cloud-setup"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
         "name": "NetworkManager-cloud-setup-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::baseos",
         "purl": "pkg:rpm/redhat/NetworkManager-cloud-setup-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
-        "name": "NetworkManager-config-connectivity-redhat",
-        "ecosystem": "Red Hat:rhel_eus:9.4::baseos",
-        "purl": "pkg:rpm/redhat/NetworkManager-config-connectivity-redhat"
       },
       "ranges": [
         {
@@ -907,29 +608,6 @@
     },
     {
       "package": {
-        "name": "NetworkManager-dispatcher-routing-rules",
-        "ecosystem": "Red Hat:rhel_eus:9.4::baseos",
-        "purl": "pkg:rpm/redhat/NetworkManager-dispatcher-routing-rules"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
         "name": "NetworkManager-initscripts-updown",
         "ecosystem": "Red Hat:rhel_eus:9.4::baseos",
         "purl": "pkg:rpm/redhat/NetworkManager-initscripts-updown"
@@ -999,78 +677,9 @@
     },
     {
       "package": {
-        "name": "NetworkManager-libnm-devel",
-        "ecosystem": "Red Hat:rhel_eus:9.4::baseos",
-        "purl": "pkg:rpm/redhat/NetworkManager-libnm-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
-        "name": "NetworkManager-ovs",
-        "ecosystem": "Red Hat:rhel_eus:9.4::baseos",
-        "purl": "pkg:rpm/redhat/NetworkManager-ovs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
         "name": "NetworkManager-ovs-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::baseos",
         "purl": "pkg:rpm/redhat/NetworkManager-ovs-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
-        "name": "NetworkManager-ppp",
-        "ecosystem": "Red Hat:rhel_eus:9.4::baseos",
-        "purl": "pkg:rpm/redhat/NetworkManager-ppp"
       },
       "ranges": [
         {
@@ -1298,78 +907,9 @@
     },
     {
       "package": {
-        "name": "NetworkManager",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/NetworkManager"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
-        "name": "NetworkManager-adsl",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/NetworkManager-adsl"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
         "name": "NetworkManager-adsl-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/NetworkManager-adsl-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
-        "name": "NetworkManager-bluetooth",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/NetworkManager-bluetooth"
       },
       "ranges": [
         {
@@ -1413,78 +953,9 @@
     },
     {
       "package": {
-        "name": "NetworkManager-cloud-setup",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/NetworkManager-cloud-setup"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
         "name": "NetworkManager-cloud-setup-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/NetworkManager-cloud-setup-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
-        "name": "NetworkManager-config-connectivity-redhat",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/NetworkManager-config-connectivity-redhat"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
-        "name": "NetworkManager-config-server",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/NetworkManager-config-server"
       },
       "ranges": [
         {
@@ -1551,75 +1022,6 @@
     },
     {
       "package": {
-        "name": "NetworkManager-dispatcher-routing-rules",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/NetworkManager-dispatcher-routing-rules"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
-        "name": "NetworkManager-initscripts-updown",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/NetworkManager-initscripts-updown"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
-        "name": "NetworkManager-libnm",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/NetworkManager-libnm"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
         "name": "NetworkManager-libnm-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/NetworkManager-libnm-debuginfo"
@@ -1666,55 +1068,9 @@
     },
     {
       "package": {
-        "name": "NetworkManager-ovs",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/NetworkManager-ovs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
         "name": "NetworkManager-ovs-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/NetworkManager-ovs-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
-        "name": "NetworkManager-ppp",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/NetworkManager-ppp"
       },
       "ranges": [
         {
@@ -1758,55 +1114,9 @@
     },
     {
       "package": {
-        "name": "NetworkManager-team",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/NetworkManager-team"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
         "name": "NetworkManager-team-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/NetworkManager-team-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
-        "name": "NetworkManager-tui",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/NetworkManager-tui"
       },
       "ranges": [
         {
@@ -1850,55 +1160,9 @@
     },
     {
       "package": {
-        "name": "NetworkManager-wifi",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/NetworkManager-wifi"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
         "name": "NetworkManager-wifi-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/NetworkManager-wifi-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.46.0-34.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16411.json"
-      }
-    },
-    {
-      "package": {
-        "name": "NetworkManager-wwan",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/NetworkManager-wwan"
       },
       "ranges": [
         {

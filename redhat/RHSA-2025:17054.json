@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:17054",
   "published": "2025-10-01T10:13:21Z",
-  "modified": "2026-06-03T10:12:35Z",
+  "modified": "2026-06-29T11:13:40Z",
   "upstream": [
     "CVE-2025-58060"
   ],
@@ -125,29 +125,6 @@
     },
     {
       "package": {
-        "name": "cups-ipptool",
-        "ecosystem": "Red Hat:rhel_els:7",
-        "purl": "pkg:rpm/redhat/cups-ipptool"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:1.6.3-52.el7_9.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:17054.json"
-      }
-    },
-    {
-      "package": {
         "name": "cups-libs",
         "ecosystem": "Red Hat:rhel_els:7",
         "purl": "pkg:rpm/redhat/cups-libs"
@@ -174,6 +151,29 @@
         "name": "cups-lpd",
         "ecosystem": "Red Hat:rhel_els:7",
         "purl": "pkg:rpm/redhat/cups-lpd"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "1:1.6.3-52.el7_9.1"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:17054.json"
+      }
+    },
+    {
+      "package": {
+        "name": "cups-ipptool",
+        "ecosystem": "Red Hat:rhel_els:7",
+        "purl": "pkg:rpm/redhat/cups-ipptool"
       },
       "ranges": [
         {

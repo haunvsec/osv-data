@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:2501",
   "published": "2025-03-11T10:06:11Z",
-  "modified": "2026-03-18T11:37:12.444455Z",
+  "modified": "2026-06-29T11:21:17Z",
   "upstream": [
     "CVE-2023-52922",
     "CVE-2024-50302",
@@ -495,29 +495,6 @@
     },
     {
       "package": {
-        "name": "kernel-tools-libs-devel",
-        "ecosystem": "Red Hat:rhel_els:7",
-        "purl": "pkg:rpm/redhat/kernel-tools-libs-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.10.0-1160.133.1.el7"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:2501.json"
-      }
-    },
-    {
-      "package": {
         "name": "perf",
         "ecosystem": "Red Hat:rhel_els:7",
         "purl": "pkg:rpm/redhat/perf"
@@ -590,6 +567,29 @@
         "name": "python-perf-debuginfo",
         "ecosystem": "Red Hat:rhel_els:7",
         "purl": "pkg:rpm/redhat/python-perf-debuginfo"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:3.10.0-1160.133.1.el7"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:2501.json"
+      }
+    },
+    {
+      "package": {
+        "name": "kernel-tools-libs-devel",
+        "ecosystem": "Red Hat:rhel_els:7",
+        "purl": "pkg:rpm/redhat/kernel-tools-libs-devel"
       },
       "ranges": [
         {

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:15124",
   "published": "2025-09-04T10:03:34Z",
-  "modified": "2026-03-21T10:11:28Z",
+  "modified": "2026-06-29T11:11:36Z",
   "upstream": [
     "CVE-2024-49761"
   ],
@@ -102,29 +102,6 @@
     },
     {
       "package": {
-        "name": "satellite-cli",
-        "ecosystem": "Red Hat:satellite_capsule:6.16::el8",
-        "purl": "pkg:rpm/redhat/satellite-cli"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:6.16.5.3-1.el8sat"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15124.json"
-      }
-    },
-    {
-      "package": {
         "name": "satellite-common",
         "ecosystem": "Red Hat:satellite_capsule:6.16::el8",
         "purl": "pkg:rpm/redhat/satellite-common"
@@ -171,55 +148,9 @@
     },
     {
       "package": {
-        "name": "satellite-capsule",
-        "ecosystem": "Red Hat:satellite_utils:6.16::el8",
-        "purl": "pkg:rpm/redhat/satellite-capsule"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:6.16.5.3-1.el8sat"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15124.json"
-      }
-    },
-    {
-      "package": {
         "name": "satellite-cli",
         "ecosystem": "Red Hat:satellite_utils:6.16::el8",
         "purl": "pkg:rpm/redhat/satellite-cli"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:6.16.5.3-1.el8sat"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15124.json"
-      }
-    },
-    {
-      "package": {
-        "name": "satellite-common",
-        "ecosystem": "Red Hat:satellite_utils:6.16::el8",
-        "purl": "pkg:rpm/redhat/satellite-common"
       },
       "ranges": [
         {
@@ -355,29 +286,6 @@
     },
     {
       "package": {
-        "name": "satellite-capsule",
-        "ecosystem": "Red Hat:satellite:6.16::el8",
-        "purl": "pkg:rpm/redhat/satellite-capsule"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:6.16.5.3-1.el8sat"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15124.json"
-      }
-    },
-    {
-      "package": {
         "name": "satellite-cli",
         "ecosystem": "Red Hat:satellite:6.16::el8",
         "purl": "pkg:rpm/redhat/satellite-cli"
@@ -516,29 +424,6 @@
     },
     {
       "package": {
-        "name": "satellite-cli",
-        "ecosystem": "Red Hat:satellite_capsule:6.16::el9",
-        "purl": "pkg:rpm/redhat/satellite-cli"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:6.16.5.3-1.el9sat"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15124.json"
-      }
-    },
-    {
-      "package": {
         "name": "satellite-common",
         "ecosystem": "Red Hat:satellite_capsule:6.16::el9",
         "purl": "pkg:rpm/redhat/satellite-common"
@@ -585,55 +470,9 @@
     },
     {
       "package": {
-        "name": "satellite-capsule",
-        "ecosystem": "Red Hat:satellite_utils:6.16::el9",
-        "purl": "pkg:rpm/redhat/satellite-capsule"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:6.16.5.3-1.el9sat"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15124.json"
-      }
-    },
-    {
-      "package": {
         "name": "satellite-cli",
         "ecosystem": "Red Hat:satellite_utils:6.16::el9",
         "purl": "pkg:rpm/redhat/satellite-cli"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:6.16.5.3-1.el9sat"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15124.json"
-      }
-    },
-    {
-      "package": {
-        "name": "satellite-common",
-        "ecosystem": "Red Hat:satellite_utils:6.16::el9",
-        "purl": "pkg:rpm/redhat/satellite-common"
       },
       "ranges": [
         {
@@ -749,29 +588,6 @@
         "name": "satellite",
         "ecosystem": "Red Hat:satellite:6.16::el9",
         "purl": "pkg:rpm/redhat/satellite"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:6.16.5.3-1.el9sat"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15124.json"
-      }
-    },
-    {
-      "package": {
-        "name": "satellite-capsule",
-        "ecosystem": "Red Hat:satellite:6.16::el9",
-        "purl": "pkg:rpm/redhat/satellite-capsule"
       },
       "ranges": [
         {

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:5146",
   "published": "2026-03-20T10:19:38Z",
-  "modified": "2026-06-08T10:07:59Z",
+  "modified": "2026-06-29T11:30:57Z",
   "related": [
     "GO-2025-4155",
     "GO-2026-4337",
@@ -86,9 +86,9 @@
     },
     {
       "package": {
-        "name": "yggdrasil-devel",
+        "name": "yggdrasil-examples-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:10.1",
-        "purl": "pkg:rpm/redhat/yggdrasil-devel"
+        "purl": "pkg:rpm/redhat/yggdrasil-examples-debuginfo"
       },
       "ranges": [
         {
@@ -109,9 +109,9 @@
     },
     {
       "package": {
-        "name": "yggdrasil-examples-debuginfo",
+        "name": "yggdrasil-devel",
         "ecosystem": "Red Hat:enterprise_linux:10.1",
-        "purl": "pkg:rpm/redhat/yggdrasil-examples-debuginfo"
+        "purl": "pkg:rpm/redhat/yggdrasil-devel"
       },
       "ranges": [
         {

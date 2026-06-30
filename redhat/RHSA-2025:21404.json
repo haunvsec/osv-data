@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:21404",
   "published": "2025-11-17T10:03:24Z",
-  "modified": "2026-03-18T11:39:15.792389Z",
+  "modified": "2026-06-29T11:17:36Z",
   "upstream": [
     "CVE-2025-47151"
   ],
@@ -56,9 +56,9 @@
     },
     {
       "package": {
-        "name": "lasso-devel",
+        "name": "lasso-python",
         "ecosystem": "Red Hat:rhel_els:7",
-        "purl": "pkg:rpm/redhat/lasso-devel"
+        "purl": "pkg:rpm/redhat/lasso-python"
       },
       "ranges": [
         {
@@ -79,9 +79,9 @@
     },
     {
       "package": {
-        "name": "lasso-python",
+        "name": "lasso-devel",
         "ecosystem": "Red Hat:rhel_els:7",
-        "purl": "pkg:rpm/redhat/lasso-python"
+        "purl": "pkg:rpm/redhat/lasso-devel"
       },
       "ranges": [
         {

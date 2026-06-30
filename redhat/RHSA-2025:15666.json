@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:15666",
   "published": "2025-09-12T10:04:10Z",
-  "modified": "2026-03-18T11:38:47.308001Z",
+  "modified": "2026-06-29T11:12:13Z",
   "upstream": [
     "CVE-2025-55154"
   ],
@@ -56,9 +56,9 @@
     },
     {
       "package": {
-        "name": "ImageMagick-c++-devel",
+        "name": "ImageMagick-debuginfo",
         "ecosystem": "Red Hat:rhel_els:7",
-        "purl": "pkg:rpm/redhat/ImageMagick-c%2B%2B-devel"
+        "purl": "pkg:rpm/redhat/ImageMagick-debuginfo"
       },
       "ranges": [
         {
@@ -79,9 +79,32 @@
     },
     {
       "package": {
-        "name": "ImageMagick-debuginfo",
+        "name": "ImageMagick-perl",
         "ecosystem": "Red Hat:rhel_els:7",
-        "purl": "pkg:rpm/redhat/ImageMagick-debuginfo"
+        "purl": "pkg:rpm/redhat/ImageMagick-perl"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:6.9.10.68-8.el7_9"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15666.json"
+      }
+    },
+    {
+      "package": {
+        "name": "ImageMagick-c++-devel",
+        "ecosystem": "Red Hat:rhel_els:7",
+        "purl": "pkg:rpm/redhat/ImageMagick-c%2B%2B-devel"
       },
       "ranges": [
         {
@@ -128,29 +151,6 @@
         "name": "ImageMagick-doc",
         "ecosystem": "Red Hat:rhel_els:7",
         "purl": "pkg:rpm/redhat/ImageMagick-doc"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:6.9.10.68-8.el7_9"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15666.json"
-      }
-    },
-    {
-      "package": {
-        "name": "ImageMagick-perl",
-        "ecosystem": "Red Hat:rhel_els:7",
-        "purl": "pkg:rpm/redhat/ImageMagick-perl"
       },
       "ranges": [
         {

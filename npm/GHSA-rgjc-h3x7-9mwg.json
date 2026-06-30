@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "GHSA-rgjc-h3x7-9mwg",
   "published": "2026-06-15T15:16:18Z",
-  "modified": "2026-06-15T15:30:07.275911872Z",
+  "modified": "2026-06-29T05:15:09.603656756Z",
   "aliases": [
     "CVE-2026-54267"
   ],
@@ -122,8 +122,8 @@
   ],
   "database_specific": {
     "cwe_ids": [
-      "CWE-79",
-      "CWE-471"
+      "CWE-471",
+      "CWE-79"
     ],
     "github_reviewed": true,
     "github_reviewed_at": "2026-06-15T15:16:18Z",

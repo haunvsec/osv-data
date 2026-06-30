@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:14135",
   "published": "2025-08-20T10:03:57Z",
-  "modified": "2026-06-05T10:01:53Z",
+  "modified": "2026-06-29T11:10:08Z",
   "upstream": [
     "CVE-2025-5914"
   ],
@@ -171,29 +171,6 @@
     },
     {
       "package": {
-        "name": "libarchive-devel",
-        "ecosystem": "Red Hat:enterprise_linux:8::baseos",
-        "purl": "pkg:rpm/redhat/libarchive-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.3.3-6.el8_10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:14135.json"
-      }
-    },
-    {
-      "package": {
         "name": "bsdcat-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:8::crb",
         "purl": "pkg:rpm/redhat/bsdcat-debuginfo"
@@ -240,55 +217,9 @@
     },
     {
       "package": {
-        "name": "bsdtar",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/bsdtar"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.3.3-6.el8_10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:14135.json"
-      }
-    },
-    {
-      "package": {
         "name": "bsdtar-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:8::crb",
         "purl": "pkg:rpm/redhat/bsdtar-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.3.3-6.el8_10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:14135.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libarchive",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/libarchive"
       },
       "ranges": [
         {

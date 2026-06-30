@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:5078",
   "published": "2026-03-20T10:19:33Z",
-  "modified": "2026-06-08T10:07:57Z",
+  "modified": "2026-06-29T11:30:55Z",
   "related": [
     "GO-2025-4155",
     "GO-2026-4341"
@@ -64,52 +64,6 @@
         "name": "rhc-debugsource",
         "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
         "purl": "pkg:rpm/redhat/rhc-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:0.2.4-6.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:5078.json"
-      }
-    },
-    {
-      "package": {
-        "name": "rhc-devel",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/rhc-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:0.2.4-6.el9_4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:5078.json"
-      }
-    },
-    {
-      "package": {
-        "name": "rhc",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/rhc"
       },
       "ranges": [
         {

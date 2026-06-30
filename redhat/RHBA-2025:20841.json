@@ -1,8 +1,8 @@
 {
-  "schema_version": "1.7.3",
+  "schema_version": "1.7.5",
   "id": "RHBA-2025:20841",
   "published": "2025-11-14T10:09:47Z",
-  "modified": "2026-01-23T10:26:09.956586Z",
+  "modified": "2026-06-29T11:03:56Z",
   "upstream": [
     "CVE-2025-22247"
   ],

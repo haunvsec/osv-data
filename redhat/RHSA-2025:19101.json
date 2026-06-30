@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:19101",
   "published": "2025-10-27T10:04:52Z",
-  "modified": "2026-06-03T10:12:47Z",
+  "modified": "2026-06-29T11:15:24Z",
   "upstream": [
     "CVE-2025-5318"
   ],
@@ -10,52 +10,6 @@
   "affected": [
     {
       "package": {
-        "name": "libssh",
-        "ecosystem": "Red Hat:rhel_e4s:8.8::appstream",
-        "purl": "pkg:rpm/redhat/libssh"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.9.6-13.el8_8.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:19101.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libssh-config",
-        "ecosystem": "Red Hat:rhel_e4s:8.8::appstream",
-        "purl": "pkg:rpm/redhat/libssh-config"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.9.6-13.el8_8.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:19101.json"
-      }
-    },
-    {
-      "package": {
         "name": "libssh-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:8.8::appstream",
         "purl": "pkg:rpm/redhat/libssh-debuginfo"
@@ -105,52 +59,6 @@
         "name": "libssh-devel",
         "ecosystem": "Red Hat:rhel_e4s:8.8::appstream",
         "purl": "pkg:rpm/redhat/libssh-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.9.6-13.el8_8.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:19101.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libssh",
-        "ecosystem": "Red Hat:rhel_tus:8.8::appstream",
-        "purl": "pkg:rpm/redhat/libssh"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.9.6-13.el8_8.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:19101.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libssh-config",
-        "ecosystem": "Red Hat:rhel_tus:8.8::appstream",
-        "purl": "pkg:rpm/redhat/libssh-config"
       },
       "ranges": [
         {
@@ -332,29 +240,6 @@
     },
     {
       "package": {
-        "name": "libssh-devel",
-        "ecosystem": "Red Hat:rhel_e4s:8.8::baseos",
-        "purl": "pkg:rpm/redhat/libssh-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.9.6-13.el8_8.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:19101.json"
-      }
-    },
-    {
-      "package": {
         "name": "libssh",
         "ecosystem": "Red Hat:rhel_tus:8.8::baseos",
         "purl": "pkg:rpm/redhat/libssh"
@@ -427,29 +312,6 @@
         "name": "libssh-debugsource",
         "ecosystem": "Red Hat:rhel_tus:8.8::baseos",
         "purl": "pkg:rpm/redhat/libssh-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:0.9.6-13.el8_8.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:19101.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libssh-devel",
-        "ecosystem": "Red Hat:rhel_tus:8.8::baseos",
-        "purl": "pkg:rpm/redhat/libssh-devel"
       },
       "ranges": [
         {

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:16099",
   "published": "2025-09-18T10:05:06Z",
-  "modified": "2026-03-18T11:38:50.655670Z",
+  "modified": "2026-06-29T11:12:46Z",
   "upstream": [
     "CVE-2025-8714"
   ],
@@ -240,9 +240,9 @@
     },
     {
       "package": {
-        "name": "postgresql-static",
+        "name": "postgresql-test",
         "ecosystem": "Red Hat:rhel_els:7",
-        "purl": "pkg:rpm/redhat/postgresql-static"
+        "purl": "pkg:rpm/redhat/postgresql-test"
       },
       "ranges": [
         {
@@ -263,9 +263,9 @@
     },
     {
       "package": {
-        "name": "postgresql-test",
+        "name": "postgresql-static",
         "ecosystem": "Red Hat:rhel_els:7",
-        "purl": "pkg:rpm/redhat/postgresql-test"
+        "purl": "pkg:rpm/redhat/postgresql-static"
       },
       "ranges": [
         {

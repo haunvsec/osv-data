@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:15956",
   "published": "2025-09-17T10:02:54Z",
-  "modified": "2026-03-18T11:38:49.943316Z",
+  "modified": "2026-06-29T11:12:37Z",
   "upstream": [
     "CVE-2025-8067"
   ],
@@ -36,29 +36,6 @@
         "name": "libudisks2-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
         "purl": "pkg:rpm/redhat/libudisks2-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.9.4-10.el9_4.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15956.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libudisks2-devel",
-        "ecosystem": "Red Hat:rhel_eus:9.4::appstream",
-        "purl": "pkg:rpm/redhat/libudisks2-devel"
       },
       "ranges": [
         {
@@ -286,29 +263,6 @@
     },
     {
       "package": {
-        "name": "libudisks2",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/libudisks2"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.9.4-10.el9_4.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15956.json"
-      }
-    },
-    {
-      "package": {
         "name": "libudisks2-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/libudisks2-debuginfo"
@@ -335,29 +289,6 @@
         "name": "libudisks2-devel",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/libudisks2-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.9.4-10.el9_4.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15956.json"
-      }
-    },
-    {
-      "package": {
-        "name": "udisks2",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/udisks2"
       },
       "ranges": [
         {
@@ -424,29 +355,6 @@
     },
     {
       "package": {
-        "name": "udisks2-iscsi",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/udisks2-iscsi"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.9.4-10.el9_4.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15956.json"
-      }
-    },
-    {
-      "package": {
         "name": "udisks2-iscsi-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/udisks2-iscsi-debuginfo"
@@ -470,55 +378,9 @@
     },
     {
       "package": {
-        "name": "udisks2-lsm",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/udisks2-lsm"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.9.4-10.el9_4.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15956.json"
-      }
-    },
-    {
-      "package": {
         "name": "udisks2-lsm-debuginfo",
         "ecosystem": "Red Hat:rhel_eus:9.4::crb",
         "purl": "pkg:rpm/redhat/udisks2-lsm-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.9.4-10.el9_4.2"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:15956.json"
-      }
-    },
-    {
-      "package": {
-        "name": "udisks2-lvm2",
-        "ecosystem": "Red Hat:rhel_eus:9.4::crb",
-        "purl": "pkg:rpm/redhat/udisks2-lvm2"
       },
       "ranges": [
         {

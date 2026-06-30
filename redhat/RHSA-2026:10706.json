@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:10706",
   "published": "2026-04-27T10:04:46Z",
-  "modified": "2026-06-08T10:03:14Z",
+  "modified": "2026-06-29T11:24:30Z",
   "upstream": [
     "CVE-2026-33186"
   ],
@@ -59,52 +59,6 @@
         "name": "rhc-debugsource",
         "ecosystem": "Red Hat:enterprise_linux:9::appstream",
         "purl": "pkg:rpm/redhat/rhc-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:0.2.7-4.el9_7"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:10706.json"
-      }
-    },
-    {
-      "package": {
-        "name": "rhc-devel",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/rhc-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:0.2.7-4.el9_7"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:10706.json"
-      }
-    },
-    {
-      "package": {
-        "name": "rhc",
-        "ecosystem": "Red Hat:enterprise_linux:9::crb",
-        "purl": "pkg:rpm/redhat/rhc"
       },
       "ranges": [
         {

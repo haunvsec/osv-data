@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:7569",
   "published": "2025-05-15T10:03:50Z",
-  "modified": "2026-03-18T11:37:38.399404Z",
+  "modified": "2026-06-29T11:22:34Z",
   "upstream": [
     "CVE-2025-3155"
   ],
@@ -59,29 +59,6 @@
         "name": "yelp-debugsource",
         "ecosystem": "Red Hat:enterprise_linux:8::appstream",
         "purl": "pkg:rpm/redhat/yelp-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "2:3.28.1-3.el8_10.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:7569.json"
-      }
-    },
-    {
-      "package": {
-        "name": "yelp-devel",
-        "ecosystem": "Red Hat:enterprise_linux:8::appstream",
-        "purl": "pkg:rpm/redhat/yelp-devel"
       },
       "ranges": [
         {
@@ -171,29 +148,6 @@
     },
     {
       "package": {
-        "name": "yelp",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/yelp"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "2:3.28.1-3.el8_10.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:7569.json"
-      }
-    },
-    {
-      "package": {
         "name": "yelp-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:8::crb",
         "purl": "pkg:rpm/redhat/yelp-debuginfo"
@@ -243,29 +197,6 @@
         "name": "yelp-devel",
         "ecosystem": "Red Hat:enterprise_linux:8::crb",
         "purl": "pkg:rpm/redhat/yelp-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "2:3.28.1-3.el8_10.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:7569.json"
-      }
-    },
-    {
-      "package": {
-        "name": "yelp-libs",
-        "ecosystem": "Red Hat:enterprise_linux:8::crb",
-        "purl": "pkg:rpm/redhat/yelp-libs"
       },
       "ranges": [
         {
@@ -336,6 +267,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-3155"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://gitlab.gnome.org/GNOME/yelp/-/issues/221"
     }
   ],
   "severity": [

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:18028",
   "published": "2026-05-18T10:05:48Z",
-  "modified": "2026-06-03T10:17:49Z",
+  "modified": "2026-06-29T11:26:10Z",
   "upstream": [
     "CVE-2026-33416"
   ],
@@ -197,29 +197,6 @@
         "name": "libpng-debugsource",
         "ecosystem": "Red Hat:enterprise_linux:9::baseos",
         "purl": "pkg:rpm/redhat/libpng-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "2:1.6.37-12.el9_7.4"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:18028.json"
-      }
-    },
-    {
-      "package": {
-        "name": "libpng-devel",
-        "ecosystem": "Red Hat:enterprise_linux:9::baseos",
-        "purl": "pkg:rpm/redhat/libpng-devel"
       },
       "ranges": [
         {

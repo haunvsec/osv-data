@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:3396",
   "published": "2025-03-31T10:03:00Z",
-  "modified": "2026-03-18T11:37:21.044734Z",
+  "modified": "2026-06-29T11:21:50Z",
   "upstream": [
     "CVE-2025-0624"
   ],
@@ -102,29 +102,6 @@
     },
     {
       "package": {
-        "name": "grub2-efi-ia32-cdboot",
-        "ecosystem": "Red Hat:rhel_els:7",
-        "purl": "pkg:rpm/redhat/grub2-efi-ia32-cdboot"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.02-0.87.el7_9.15"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:3396.json"
-      }
-    },
-    {
-      "package": {
         "name": "grub2-efi-ia32-modules",
         "ecosystem": "Red Hat:rhel_els:7",
         "purl": "pkg:rpm/redhat/grub2-efi-ia32-modules"
@@ -151,29 +128,6 @@
         "name": "grub2-efi-x64",
         "ecosystem": "Red Hat:rhel_els:7",
         "purl": "pkg:rpm/redhat/grub2-efi-x64"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.02-0.87.el7_9.15"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:3396.json"
-      }
-    },
-    {
-      "package": {
-        "name": "grub2-efi-x64-cdboot",
-        "ecosystem": "Red Hat:rhel_els:7",
-        "purl": "pkg:rpm/redhat/grub2-efi-x64-cdboot"
       },
       "ranges": [
         {
@@ -243,29 +197,6 @@
         "name": "grub2-pc-modules",
         "ecosystem": "Red Hat:rhel_els:7",
         "purl": "pkg:rpm/redhat/grub2-pc-modules"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.02-0.87.el7_9.15"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:3396.json"
-      }
-    },
-    {
-      "package": {
-        "name": "grub2-ppc-modules",
-        "ecosystem": "Red Hat:rhel_els:7",
-        "purl": "pkg:rpm/redhat/grub2-ppc-modules"
       },
       "ranges": [
         {
@@ -427,6 +358,75 @@
         "name": "grub2-tools-minimal",
         "ecosystem": "Red Hat:rhel_els:7",
         "purl": "pkg:rpm/redhat/grub2-tools-minimal"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "1:2.02-0.87.el7_9.15"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:3396.json"
+      }
+    },
+    {
+      "package": {
+        "name": "grub2-efi-ia32-cdboot",
+        "ecosystem": "Red Hat:rhel_els:7",
+        "purl": "pkg:rpm/redhat/grub2-efi-ia32-cdboot"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "1:2.02-0.87.el7_9.15"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:3396.json"
+      }
+    },
+    {
+      "package": {
+        "name": "grub2-efi-x64-cdboot",
+        "ecosystem": "Red Hat:rhel_els:7",
+        "purl": "pkg:rpm/redhat/grub2-efi-x64-cdboot"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "1:2.02-0.87.el7_9.15"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:3396.json"
+      }
+    },
+    {
+      "package": {
+        "name": "grub2-ppc-modules",
+        "ecosystem": "Red Hat:rhel_els:7",
+        "purl": "pkg:rpm/redhat/grub2-ppc-modules"
       },
       "ranges": [
         {

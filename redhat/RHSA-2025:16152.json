@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:16152",
   "published": "2025-09-18T10:05:13Z",
-  "modified": "2026-03-18T11:38:51.095068Z",
+  "modified": "2026-06-29T11:12:54Z",
   "upstream": [
     "CVE-2025-8194"
   ],
@@ -13,29 +13,6 @@
         "name": "python-unversioned-command",
         "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
         "purl": "pkg:rpm/redhat/python-unversioned-command"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.9.16-1.el9_2.10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16152.json"
-      }
-    },
-    {
-      "package": {
-        "name": "python3",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/python3"
       },
       "ranges": [
         {
@@ -79,55 +56,9 @@
     },
     {
       "package": {
-        "name": "python3-libs",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/python3-libs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.9.16-1.el9_2.10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16152.json"
-      }
-    },
-    {
-      "package": {
         "name": "python3-tkinter",
         "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
         "purl": "pkg:rpm/redhat/python3-tkinter"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.9.16-1.el9_2.10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16152.json"
-      }
-    },
-    {
-      "package": {
-        "name": "python3.9",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::appstream",
-        "purl": "pkg:rpm/redhat/python3.9"
       },
       "ranges": [
         {
@@ -194,29 +125,6 @@
     },
     {
       "package": {
-        "name": "python-unversioned-command",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
-        "purl": "pkg:rpm/redhat/python-unversioned-command"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.9.16-1.el9_2.10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16152.json"
-      }
-    },
-    {
-      "package": {
         "name": "python3",
         "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
         "purl": "pkg:rpm/redhat/python3"
@@ -240,55 +148,9 @@
     },
     {
       "package": {
-        "name": "python3-devel",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
-        "purl": "pkg:rpm/redhat/python3-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.9.16-1.el9_2.10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16152.json"
-      }
-    },
-    {
-      "package": {
         "name": "python3-libs",
         "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
         "purl": "pkg:rpm/redhat/python3-libs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.9.16-1.el9_2.10"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:16152.json"
-      }
-    },
-    {
-      "package": {
-        "name": "python3-tkinter",
-        "ecosystem": "Red Hat:rhel_e4s:9.2::baseos",
-        "purl": "pkg:rpm/redhat/python3-tkinter"
       },
       "ranges": [
         {

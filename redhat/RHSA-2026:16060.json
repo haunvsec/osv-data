@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:16060",
   "published": "2026-05-12T10:06:39Z",
-  "modified": "2026-06-04T10:05:57Z",
+  "modified": "2026-06-29T11:25:38Z",
   "upstream": [
     "CVE-2026-1519"
   ],
@@ -125,52 +125,6 @@
     },
     {
       "package": {
-        "name": "bind-export-devel",
-        "ecosystem": "Red Hat:rhel_aus:8.6::appstream",
-        "purl": "pkg:rpm/redhat/bind-export-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-export-libs",
-        "ecosystem": "Red Hat:rhel_aus:8.6::appstream",
-        "purl": "pkg:rpm/redhat/bind-export-libs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind-export-libs-debuginfo",
         "ecosystem": "Red Hat:rhel_aus:8.6::appstream",
         "purl": "pkg:rpm/redhat/bind-export-libs-debuginfo"
@@ -726,52 +680,6 @@
         "name": "bind-devel",
         "ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
         "purl": "pkg:rpm/redhat/bind-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-export-devel",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
-        "purl": "pkg:rpm/redhat/bind-export-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-export-libs",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::appstream",
-        "purl": "pkg:rpm/redhat/bind-export-libs"
       },
       "ranges": [
         {
@@ -1367,52 +1275,6 @@
     },
     {
       "package": {
-        "name": "bind-export-devel",
-        "ecosystem": "Red Hat:rhel_tus:8.6::appstream",
-        "purl": "pkg:rpm/redhat/bind-export-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-export-libs",
-        "ecosystem": "Red Hat:rhel_tus:8.6::appstream",
-        "purl": "pkg:rpm/redhat/bind-export-libs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind-export-libs-debuginfo",
         "ecosystem": "Red Hat:rhel_tus:8.6::appstream",
         "purl": "pkg:rpm/redhat/bind-export-libs-debuginfo"
@@ -1896,29 +1758,6 @@
     },
     {
       "package": {
-        "name": "bind-chroot",
-        "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-chroot"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind-debuginfo",
         "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
         "purl": "pkg:rpm/redhat/bind-debuginfo"
@@ -1945,29 +1784,6 @@
         "name": "bind-debugsource",
         "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
         "purl": "pkg:rpm/redhat/bind-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-devel",
-        "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-devel"
       },
       "ranges": [
         {
@@ -2057,55 +1873,9 @@
     },
     {
       "package": {
-        "name": "bind-libs",
-        "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-libs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind-libs-debuginfo",
         "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
         "purl": "pkg:rpm/redhat/bind-libs-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-libs-lite",
-        "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-libs-lite"
       },
       "ranges": [
         {
@@ -2149,124 +1919,9 @@
     },
     {
       "package": {
-        "name": "bind-license",
-        "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-license"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-lite-devel",
-        "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-lite-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-pkcs11",
-        "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-pkcs11"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind-pkcs11-debuginfo",
         "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
         "purl": "pkg:rpm/redhat/bind-pkcs11-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-pkcs11-devel",
-        "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-pkcs11-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-pkcs11-libs",
-        "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-pkcs11-libs"
       },
       "ranges": [
         {
@@ -2310,78 +1965,9 @@
     },
     {
       "package": {
-        "name": "bind-pkcs11-utils",
-        "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-pkcs11-utils"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind-pkcs11-utils-debuginfo",
         "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
         "purl": "pkg:rpm/redhat/bind-pkcs11-utils-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-sdb",
-        "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-sdb"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-sdb-chroot",
-        "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-sdb-chroot"
       },
       "ranges": [
         {
@@ -2425,55 +2011,9 @@
     },
     {
       "package": {
-        "name": "bind-utils",
-        "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-utils"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind-utils-debuginfo",
         "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
         "purl": "pkg:rpm/redhat/bind-utils-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "python3-bind",
-        "ecosystem": "Red Hat:rhel_aus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/python3-bind"
       },
       "ranges": [
         {
@@ -2517,29 +2057,6 @@
     },
     {
       "package": {
-        "name": "bind-chroot",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-chroot"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
         "purl": "pkg:rpm/redhat/bind-debuginfo"
@@ -2566,29 +2083,6 @@
         "name": "bind-debugsource",
         "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
         "purl": "pkg:rpm/redhat/bind-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-devel",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-devel"
       },
       "ranges": [
         {
@@ -2678,55 +2172,9 @@
     },
     {
       "package": {
-        "name": "bind-libs",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-libs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind-libs-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
         "purl": "pkg:rpm/redhat/bind-libs-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-libs-lite",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-libs-lite"
       },
       "ranges": [
         {
@@ -2770,124 +2218,9 @@
     },
     {
       "package": {
-        "name": "bind-license",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-license"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-lite-devel",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-lite-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-pkcs11",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-pkcs11"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind-pkcs11-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
         "purl": "pkg:rpm/redhat/bind-pkcs11-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-pkcs11-devel",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-pkcs11-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-pkcs11-libs",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-pkcs11-libs"
       },
       "ranges": [
         {
@@ -2931,78 +2264,9 @@
     },
     {
       "package": {
-        "name": "bind-pkcs11-utils",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-pkcs11-utils"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind-pkcs11-utils-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
         "purl": "pkg:rpm/redhat/bind-pkcs11-utils-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-sdb",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-sdb"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-sdb-chroot",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-sdb-chroot"
       },
       "ranges": [
         {
@@ -3046,55 +2310,9 @@
     },
     {
       "package": {
-        "name": "bind-utils",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-utils"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind-utils-debuginfo",
         "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
         "purl": "pkg:rpm/redhat/bind-utils-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "python3-bind",
-        "ecosystem": "Red Hat:rhel_e4s:8.6::baseos",
-        "purl": "pkg:rpm/redhat/python3-bind"
       },
       "ranges": [
         {
@@ -3138,29 +2356,6 @@
     },
     {
       "package": {
-        "name": "bind-chroot",
-        "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-chroot"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind-debuginfo",
         "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
         "purl": "pkg:rpm/redhat/bind-debuginfo"
@@ -3187,29 +2382,6 @@
         "name": "bind-debugsource",
         "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
         "purl": "pkg:rpm/redhat/bind-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-devel",
-        "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-devel"
       },
       "ranges": [
         {
@@ -3299,55 +2471,9 @@
     },
     {
       "package": {
-        "name": "bind-libs",
-        "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-libs"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind-libs-debuginfo",
         "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
         "purl": "pkg:rpm/redhat/bind-libs-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-libs-lite",
-        "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-libs-lite"
       },
       "ranges": [
         {
@@ -3391,124 +2517,9 @@
     },
     {
       "package": {
-        "name": "bind-license",
-        "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-license"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-lite-devel",
-        "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-lite-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-pkcs11",
-        "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-pkcs11"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind-pkcs11-debuginfo",
         "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
         "purl": "pkg:rpm/redhat/bind-pkcs11-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-pkcs11-devel",
-        "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-pkcs11-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-pkcs11-libs",
-        "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-pkcs11-libs"
       },
       "ranges": [
         {
@@ -3552,78 +2563,9 @@
     },
     {
       "package": {
-        "name": "bind-pkcs11-utils",
-        "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-pkcs11-utils"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind-pkcs11-utils-debuginfo",
         "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
         "purl": "pkg:rpm/redhat/bind-pkcs11-utils-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-sdb",
-        "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-sdb"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "bind-sdb-chroot",
-        "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-sdb-chroot"
       },
       "ranges": [
         {
@@ -3667,55 +2609,9 @@
     },
     {
       "package": {
-        "name": "bind-utils",
-        "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/bind-utils"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
         "name": "bind-utils-debuginfo",
         "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
         "purl": "pkg:rpm/redhat/bind-utils-debuginfo"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "32:9.11.36-3.el8_6.12"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:16060.json"
-      }
-    },
-    {
-      "package": {
-        "name": "python3-bind",
-        "ecosystem": "Red Hat:rhel_tus:8.6::baseos",
-        "purl": "pkg:rpm/redhat/python3-bind"
       },
       "ranges": [
         {

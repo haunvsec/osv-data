@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:10453",
   "published": "2025-07-08T10:04:12Z",
-  "modified": "2026-05-01T10:17:03Z",
+  "modified": "2026-06-29T11:05:57Z",
   "upstream": [
     "CVE-2025-2251",
     "CVE-2025-23184",
@@ -1421,6 +1421,18 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-2251"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://github.com/wildfly/wildfly/pull/18872"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://github.com/wildfly/wildfly/releases/tag/36.0.0.Final"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://issues.redhat.com/browse/WFLY-20550"
     },
     {
       "type": "REPORT",

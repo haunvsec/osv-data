@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2026:3218",
   "published": "2026-02-25T10:11:39Z",
-  "modified": "2026-06-04T10:08:39Z",
+  "modified": "2026-06-29T11:29:50Z",
   "upstream": [
     "CVE-2026-0994"
   ],
@@ -13,29 +13,6 @@
         "name": "protobuf",
         "ecosystem": "Red Hat:enterprise_linux_eus:10.0",
         "purl": "pkg:rpm/redhat/protobuf"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.19.6-11.el10_0.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:3218.json"
-      }
-    },
-    {
-      "package": {
-        "name": "protobuf-compiler",
-        "ecosystem": "Red Hat:enterprise_linux_eus:10.0",
-        "purl": "pkg:rpm/redhat/protobuf-compiler"
       },
       "ranges": [
         {
@@ -125,29 +102,6 @@
     },
     {
       "package": {
-        "name": "protobuf-devel",
-        "ecosystem": "Red Hat:enterprise_linux_eus:10.0",
-        "purl": "pkg:rpm/redhat/protobuf-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.19.6-11.el10_0.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:3218.json"
-      }
-    },
-    {
-      "package": {
         "name": "protobuf-lite",
         "ecosystem": "Red Hat:enterprise_linux_eus:10.0",
         "purl": "pkg:rpm/redhat/protobuf-lite"
@@ -194,29 +148,6 @@
     },
     {
       "package": {
-        "name": "protobuf-lite-devel",
-        "ecosystem": "Red Hat:enterprise_linux_eus:10.0",
-        "purl": "pkg:rpm/redhat/protobuf-lite-devel"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:3.19.6-11.el10_0.1"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:3218.json"
-      }
-    },
-    {
-      "package": {
         "name": "python3-protobuf",
         "ecosystem": "Red Hat:enterprise_linux_eus:10.0",
         "purl": "pkg:rpm/redhat/python3-protobuf"
@@ -243,6 +174,75 @@
         "name": "python3-protobuf-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux_eus:10.0",
         "purl": "pkg:rpm/redhat/python3-protobuf-debuginfo"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:3.19.6-11.el10_0.1"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:3218.json"
+      }
+    },
+    {
+      "package": {
+        "name": "protobuf-compiler",
+        "ecosystem": "Red Hat:enterprise_linux_eus:10.0",
+        "purl": "pkg:rpm/redhat/protobuf-compiler"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:3.19.6-11.el10_0.1"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:3218.json"
+      }
+    },
+    {
+      "package": {
+        "name": "protobuf-devel",
+        "ecosystem": "Red Hat:enterprise_linux_eus:10.0",
+        "purl": "pkg:rpm/redhat/protobuf-devel"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:3.19.6-11.el10_0.1"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2026:3218.json"
+      }
+    },
+    {
+      "package": {
+        "name": "protobuf-lite-devel",
+        "ecosystem": "Red Hat:enterprise_linux_eus:10.0",
+        "purl": "pkg:rpm/redhat/protobuf-lite-devel"
       },
       "ranges": [
         {

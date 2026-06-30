@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:7444",
   "published": "2025-05-14T10:06:28Z",
-  "modified": "2026-06-03T10:14:49Z",
+  "modified": "2026-06-29T11:22:30Z",
   "upstream": [
     "CVE-2024-8176"
   ],
@@ -10,29 +10,6 @@
   "affected": [
     {
       "package": {
-        "name": "expat",
-        "ecosystem": "Red Hat:enterprise_linux:9::appstream",
-        "purl": "pkg:rpm/redhat/expat"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.5.0-5.el9_6"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:7444.json"
-      }
-    },
-    {
-      "package": {
         "name": "expat-debuginfo",
         "ecosystem": "Red Hat:enterprise_linux:9::appstream",
         "purl": "pkg:rpm/redhat/expat-debuginfo"
@@ -151,29 +128,6 @@
         "name": "expat-debugsource",
         "ecosystem": "Red Hat:enterprise_linux:9::baseos",
         "purl": "pkg:rpm/redhat/expat-debugsource"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.5.0-5.el9_6"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:7444.json"
-      }
-    },
-    {
-      "package": {
-        "name": "expat-devel",
-        "ecosystem": "Red Hat:enterprise_linux:9::baseos",
-        "purl": "pkg:rpm/redhat/expat-devel"
       },
       "ranges": [
         {

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:14997",
   "published": "2025-09-02T10:03:43Z",
-  "modified": "2026-03-20T10:33:44.500482Z",
+  "modified": "2026-06-29T11:11:05Z",
   "upstream": [
     "CVE-2024-47252",
     "CVE-2025-49812"
@@ -126,52 +126,6 @@
     },
     {
       "package": {
-        "name": "mod_ldap",
-        "ecosystem": "Red Hat:rhel_els:7",
-        "purl": "pkg:rpm/redhat/mod_ldap"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "0:2.4.6-99.el7_9.6"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:14997.json"
-      }
-    },
-    {
-      "package": {
-        "name": "mod_proxy_html",
-        "ecosystem": "Red Hat:rhel_els:7",
-        "purl": "pkg:rpm/redhat/mod_proxy_html"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            },
-            {
-              "fixed": "1:2.4.6-99.el7_9.6"
-            }
-          ]
-        }
-      ],
-      "database_specific": {
-        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:14997.json"
-      }
-    },
-    {
-      "package": {
         "name": "mod_session",
         "ecosystem": "Red Hat:rhel_els:7",
         "purl": "pkg:rpm/redhat/mod_session"
@@ -198,6 +152,52 @@
         "name": "mod_ssl",
         "ecosystem": "Red Hat:rhel_els:7",
         "purl": "pkg:rpm/redhat/mod_ssl"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "1:2.4.6-99.el7_9.6"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:14997.json"
+      }
+    },
+    {
+      "package": {
+        "name": "mod_ldap",
+        "ecosystem": "Red Hat:rhel_els:7",
+        "purl": "pkg:rpm/redhat/mod_ldap"
+      },
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0:2.4.6-99.el7_9.6"
+            }
+          ]
+        }
+      ],
+      "database_specific": {
+        "source": "https://security.access.redhat.com/data/osv/RHSA-2025:14997.json"
+      }
+    },
+    {
+      "package": {
+        "name": "mod_proxy_html",
+        "ecosystem": "Red Hat:rhel_els:7",
+        "purl": "pkg:rpm/redhat/mod_proxy_html"
       },
       "ranges": [
         {

@@ -2,7 +2,7 @@
   "schema_version": "1.7.5",
   "id": "RHSA-2025:3670",
   "published": "2025-04-08T10:04:17Z",
-  "modified": "2026-03-18T11:34:26.486102Z",
+  "modified": "2026-06-29T11:21:57Z",
   "upstream": [
     "CVE-2025-2487"
   ],
@@ -267,6 +267,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-2487"
+    },
+    {
+      "type": "ARTICLE",
+      "url": "https://github.com/389ds/389-ds-base/security/advisories/GHSA-426r-w669-66gw"
     }
   ],
   "severity": [
