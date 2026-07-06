@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6777","published":"2026-07-02T00:00:00Z","modified":"2026-07-05T22:46:43.140155157Z","summary":"Malicious code in @marketfront/errorcounter (npm)","affected":[{"package":{"name":"@marketfront/errorcounter","ecosystem":"npm","purl":"pkg:npm/%40marketfront%2Ferrorcounter"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

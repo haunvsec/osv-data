@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6774","published":"2026-07-02T00:00:00Z","modified":"2026-07-05T22:46:43.149162744Z","summary":"Malicious code in @marketfront/devtoolsloader (npm)","affected":[{"package":{"name":"@marketfront/devtoolsloader","ecosystem":"npm","purl":"pkg:npm/%40marketfront%2Fdevtoolsloader"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6743","published":"2026-07-03T16:06:54Z","modified":"2026-07-03T17:01:41.119081062Z","aliases":["GHSA-wj6w-3grq-735j"],"summary":"Malicious code in api-node-utils (npm)","affected":[{"package":{"name":"api-node-utils","ecosystem":"npm","purl":"pkg:npm/api-node-utils"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"PYSEC-2026-604","published":"2026-07-01T19:12:04Z","modified":"2026-07-02T12:45:04.727632385Z","aliases":["MAL-2026-5275"],"summary":"Malicious code in napari-ufish (PyPI)","affected":[{"package":{"name":"napari-ufish","ecosystem":"PyPI","purl":"pkg:pypi/napari-ufish"},"versions":["0.0.2","0.0.3"]}]}

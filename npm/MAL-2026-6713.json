@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6713","published":"2026-07-01T20:37:33Z","modified":"2026-07-01T21:16:42.382440855Z","summary":"Malicious code in polymarket-toolkit (npm)","affected":[{"package":{"name":"polymarket-toolkit","ecosystem":"npm","purl":"pkg:npm/polymarket-toolkit"},"versions":["1.4.9"]}]}

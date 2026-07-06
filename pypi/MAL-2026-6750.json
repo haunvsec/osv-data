@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6750","published":"2026-07-03T23:38:06Z","modified":"2026-07-04T01:00:56.351701563Z","summary":"Malicious code in procwire (PyPI)","affected":[{"package":{"name":"procwire","ecosystem":"PyPI","purl":"pkg:pypi/procwire"},"versions":["5.2.3","5.2.5","5.2.6","5.2.7"]}]}

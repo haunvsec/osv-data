@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"PYSEC-2026-591","published":"2026-06-30T20:24:41Z","modified":"2026-07-01T12:45:04.741285510Z","aliases":["MAL-2026-5300"],"summary":"Malicious code in funcdesc (PyPI)","affected":[{"package":{"name":"funcdesc","ecosystem":"PyPI","purl":"pkg:pypi/funcdesc"},"versions":["0.2.2","0.2.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6716","published":"2026-07-01T20:47:19Z","modified":"2026-07-01T21:16:41.638778407Z","summary":"Malicious code in test-pkg-pnpm (npm)","affected":[{"package":{"name":"test-pkg-pnpm","ecosystem":"npm","purl":"pkg:npm/test-pkg-pnpm"},"versions":["1.0.1","1.0.4"]}]}

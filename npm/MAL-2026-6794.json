@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6794","published":"2026-07-06T03:06:13Z","modified":"2026-07-06T03:31:40.268722716Z","summary":"Malicious code in zod-pino434 (npm)","affected":[{"package":{"name":"zod-pino434","ecosystem":"npm","purl":"pkg:npm/zod-pino434"},"versions":["1.0.127","1.0.128"]}]}

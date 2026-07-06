@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6755","published":"2026-07-04T13:42:47Z","modified":"2026-07-04T14:46:37.909511405Z","summary":"Malicious code in paperclip2 (npm)","affected":[{"package":{"name":"paperclip2","ecosystem":"npm","purl":"pkg:npm/paperclip2"},"versions":["1.0.0"]}]}

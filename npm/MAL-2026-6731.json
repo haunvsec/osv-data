@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6731","published":"2026-07-02T21:11:58Z","modified":"2026-07-02T21:47:04.680133034Z","summary":"Malicious code in ue-jenkins-buildkite (npm)","affected":[{"package":{"name":"ue-jenkins-buildkite","ecosystem":"npm","purl":"pkg:npm/ue-jenkins-buildkite"},"versions":["99999.0.0"]}]}

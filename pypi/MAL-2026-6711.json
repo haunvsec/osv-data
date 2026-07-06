@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6711","published":"2026-07-01T20:05:39Z","modified":"2026-07-01T23:00:57.966951759Z","summary":"Malicious code in twrap-tool (PyPI)","affected":[{"package":{"name":"twrap-tool","ecosystem":"PyPI","purl":"pkg:pypi/twrap-tool"},"versions":["1.0.0"]}]}

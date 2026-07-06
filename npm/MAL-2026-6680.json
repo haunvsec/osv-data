@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6680","published":"2026-06-30T15:54:50Z","modified":"2026-06-30T16:16:45.761863310Z","aliases":["GHSA-gwv3-x257-r43c"],"summary":"Malicious code in brock-loader (npm)","affected":[{"package":{"name":"brock-loader","ecosystem":"npm","purl":"pkg:npm/brock-loader"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

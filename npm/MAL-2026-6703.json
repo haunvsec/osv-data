@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6703","published":"2026-07-01T17:11:18Z","modified":"2026-07-01T17:31:42.104188703Z","summary":"Malicious code in @andes-tools/colors (npm)","affected":[{"package":{"name":"@andes-tools/colors","ecosystem":"npm","purl":"pkg:npm/%40andes-tools%2Fcolors"},"versions":["999.0.0"]}]}

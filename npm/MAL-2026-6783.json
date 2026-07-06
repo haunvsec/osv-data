@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6783","published":"2026-07-02T00:00:00Z","modified":"2026-07-05T22:46:43.548820620Z","summary":"Malicious code in @marketfront/infopopup (npm)","affected":[{"package":{"name":"@marketfront/infopopup","ecosystem":"npm","purl":"pkg:npm/%40marketfront%2Finfopopup"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

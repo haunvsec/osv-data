@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6718","published":"2026-07-01T20:47:51Z","modified":"2026-07-01T21:16:41.838910467Z","summary":"Malicious code in test-pkg-yarn (npm)","affected":[{"package":{"name":"test-pkg-yarn","ecosystem":"npm","purl":"pkg:npm/test-pkg-yarn"},"versions":["1.0.2","1.0.1","1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6690","published":"2026-06-30T00:00:00Z","modified":"2026-07-01T22:16:51.429552593Z","summary":"Malicious code in log-taker1 (npm)","affected":[{"package":{"name":"log-taker1","ecosystem":"npm","purl":"pkg:npm/log-taker1"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

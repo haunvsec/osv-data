@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6744","published":"2026-07-03T16:06:54Z","modified":"2026-07-03T17:01:41.335733880Z","aliases":["GHSA-3w2r-9f5g-prj8"],"summary":"Malicious code in api-ts-utils (npm)","affected":[{"package":{"name":"api-ts-utils","ecosystem":"npm","purl":"pkg:npm/api-ts-utils"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

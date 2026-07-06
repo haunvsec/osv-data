@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"PYSEC-2026-594","published":"2026-06-30T21:23:05Z","modified":"2026-07-01T12:45:04.743953340Z","aliases":["MAL-2026-5282"],"summary":"Malicious code in mrbios (PyPI)","affected":[{"package":{"name":"mrbios","ecosystem":"PyPI","purl":"pkg:pypi/mrbios"},"versions":["0.1.1","0.1.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"PYSEC-2026-609","published":"2026-07-01T21:35:49Z","modified":"2026-07-02T12:45:04.775903554Z","aliases":["MAL-2026-5284"],"summary":"Malicious code in synago (PyPI)","affected":[{"package":{"name":"synago","ecosystem":"PyPI","purl":"pkg:pypi/synago"},"versions":["0.1.1","0.1.2"]}]}

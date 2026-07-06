@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6720","published":"2026-07-01T20:28:27Z","modified":"2026-07-01T21:16:42.101027437Z","summary":"Malicious code in ts-elinter (npm)","affected":[{"package":{"name":"ts-elinter","ecosystem":"npm","purl":"pkg:npm/ts-elinter"},"versions":["3.3.9"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6697","published":"2026-06-30T20:59:17Z","modified":"2026-06-30T21:46:46.888253277Z","summary":"Malicious code in @sudoughnym/enviro-demo (npm)","affected":[{"package":{"name":"@sudoughnym/enviro-demo","ecosystem":"npm","purl":"pkg:npm/%40sudoughnym%2Fenviro-demo"},"versions":["99.99.99"]}]}

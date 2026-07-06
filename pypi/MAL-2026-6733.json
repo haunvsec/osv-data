@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6733","published":"2026-07-02T21:23:22Z","modified":"2026-07-02T21:47:04.216435941Z","summary":"Malicious code in epic-build-scripts (PyPI)","affected":[{"package":{"name":"epic-build-scripts","ecosystem":"PyPI","purl":"pkg:pypi/epic-build-scripts"},"versions":["99999.0.0"]}]}

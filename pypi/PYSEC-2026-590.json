@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"PYSEC-2026-590","published":"2026-06-30T20:12:29Z","modified":"2026-07-01T12:45:04.697742206Z","aliases":["MAL-2026-5281"],"summary":"Malicious code in executor-http (PyPI)","affected":[{"package":{"name":"executor-http","ecosystem":"PyPI","purl":"pkg:pypi/executor-http"},"versions":["0.1.3","0.1.4"]}]}

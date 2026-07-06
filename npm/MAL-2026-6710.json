@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6710","published":"2026-07-01T19:15:53Z","modified":"2026-07-02T11:16:41.058930298Z","aliases":["GHSA-w2r4-4x6j-3h5x"],"summary":"Malicious code in vitest-agent (npm)","affected":[{"package":{"name":"vitest-agent","ecosystem":"npm","purl":"pkg:npm/vitest-agent"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

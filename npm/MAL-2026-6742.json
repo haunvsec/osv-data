@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6742","published":"2026-07-03T16:00:00Z","modified":"2026-07-03T17:01:40.890403192Z","aliases":["GHSA-j23f-jg9h-gjmc"],"summary":"Malicious code in alder_morrgan (npm)","affected":[{"package":{"name":"alder_morrgan","ecosystem":"npm","purl":"pkg:npm/alder_morrgan"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6696","published":"2026-06-30T20:59:02Z","modified":"2026-06-30T21:46:46.986092903Z","summary":"Malicious code in @businessapp-microsites/apis (npm)","affected":[{"package":{"name":"@businessapp-microsites/apis","ecosystem":"npm","purl":"pkg:npm/%40businessapp-microsites%2Fapis"},"versions":["9999.0.0","9999.0.1"]}]}

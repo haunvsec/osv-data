@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6708","published":"2026-07-01T18:37:36Z","modified":"2026-07-01T19:16:50.071014002Z","summary":"Malicious code in zyncmap (npm)","affected":[{"package":{"name":"zyncmap","ecosystem":"npm","purl":"pkg:npm/zyncmap"},"versions":["0.0.1","0.0.0"]}]}

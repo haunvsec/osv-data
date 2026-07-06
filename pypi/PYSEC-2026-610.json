@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"PYSEC-2026-610","published":"2026-07-01T22:08:28Z","modified":"2026-07-02T12:45:04.756288751Z","aliases":["MAL-2026-5285"],"summary":"Malicious code in ufish (PyPI)","affected":[{"package":{"name":"ufish","ecosystem":"PyPI","purl":"pkg:pypi/ufish"},"versions":["0.1.2","0.1.3"]}]}

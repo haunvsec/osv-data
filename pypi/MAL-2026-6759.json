@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6759","published":"2026-07-04T23:27:55Z","modified":"2026-07-05T01:00:55.173405615Z","summary":"Malicious code in urlllib321 (PyPI)","affected":[{"package":{"name":"urlllib321","ecosystem":"PyPI","purl":"pkg:pypi/urlllib321"},"versions":["2.7.0","2.7.1"]}]}

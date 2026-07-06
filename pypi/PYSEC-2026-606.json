@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"PYSEC-2026-606","published":"2026-07-01T20:07:27Z","modified":"2026-07-02T12:45:04.758595117Z","aliases":["MAL-2026-5283"],"summary":"Malicious code in okite (PyPI)","affected":[{"package":{"name":"okite","ecosystem":"PyPI","purl":"pkg:pypi/okite"},"versions":["0.0.7","0.0.8"]}]}

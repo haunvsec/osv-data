@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6724","published":"2026-07-01T21:08:27Z","modified":"2026-07-01T22:16:51.943621156Z","summary":"Malicious code in starlette-healthcheck (PyPI)","affected":[{"package":{"name":"starlette-healthcheck","ecosystem":"PyPI","purl":"pkg:pypi/starlette-healthcheck"},"versions":["1.3.0","1.2.0","1.3.1"]}]}

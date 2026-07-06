@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6695","published":"2026-06-30T00:00:00Z","modified":"2026-06-30T21:01:39.340083157Z","summary":"Malicious code in ts-bn-proto (npm)","affected":[{"package":{"name":"ts-bn-proto","ecosystem":"npm","purl":"pkg:npm/ts-bn-proto"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

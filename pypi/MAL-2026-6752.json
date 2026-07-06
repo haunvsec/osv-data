@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6752","published":"2026-07-03T23:44:02Z","modified":"2026-07-04T01:00:56.407127119Z","summary":"Malicious code in confighub (PyPI)","affected":[{"package":{"name":"confighub","ecosystem":"PyPI","purl":"pkg:pypi/confighub"},"versions":["7.0.1","7.0.2"]}]}

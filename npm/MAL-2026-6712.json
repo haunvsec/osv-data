@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6712","published":"2026-07-01T20:37:17Z","modified":"2026-07-01T21:16:43.118322997Z","summary":"Malicious code in polymarket-risk-manager (npm)","affected":[{"package":{"name":"polymarket-risk-manager","ecosystem":"npm","purl":"pkg:npm/polymarket-risk-manager"},"versions":["3.5.2"]}]}

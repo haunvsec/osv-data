@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6701","published":"2026-06-30T20:59:31Z","modified":"2026-06-30T21:46:46.524932182Z","summary":"Malicious code in ripshakti (npm)","affected":[{"package":{"name":"ripshakti","ecosystem":"npm","purl":"pkg:npm/ripshakti"},"versions":["80.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6747","published":"2026-07-03T16:06:55Z","modified":"2026-07-03T17:01:41.697680616Z","aliases":["GHSA-j69c-7q52-h87f"],"summary":"Malicious code in web-api-node (npm)","affected":[{"package":{"name":"web-api-node","ecosystem":"npm","purl":"pkg:npm/web-api-node"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

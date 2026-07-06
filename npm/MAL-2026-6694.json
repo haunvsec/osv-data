@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6694","published":"2026-06-30T00:00:00Z","modified":"2026-06-30T21:01:39.364337206Z","summary":"Malicious code in thirdwebb (npm)","affected":[{"package":{"name":"thirdwebb","ecosystem":"npm","purl":"pkg:npm/thirdwebb"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

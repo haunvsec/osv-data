@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6756","published":"2026-07-04T13:43:09Z","modified":"2026-07-04T14:46:38.238483289Z","summary":"Malicious code in vps-maintenance (npm)","affected":[{"package":{"name":"vps-maintenance","ecosystem":"npm","purl":"pkg:npm/vps-maintenance"},"versions":["0.1.0"]}]}

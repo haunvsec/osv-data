@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6730","published":"2026-07-02T21:20:58Z","modified":"2026-07-02T21:47:04.356324446Z","summary":"Malicious code in ue-automation-scripts (npm)","affected":[{"package":{"name":"ue-automation-scripts","ecosystem":"npm","purl":"pkg:npm/ue-automation-scripts"},"versions":["99999.0.0"]}]}

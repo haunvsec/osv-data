@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6748","published":"2026-07-03T22:43:15Z","modified":"2026-07-05T22:30:54.691476896Z","summary":"Malicious code in haproxy-config-client (PyPI)","affected":[{"package":{"name":"haproxy-config-client","ecosystem":"PyPI","purl":"pkg:pypi/haproxy-config-client"},"versions":["8.5.3"]}]}

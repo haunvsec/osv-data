@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6728","published":"2026-07-02T17:39:30Z","modified":"2026-07-02T18:16:00.452074582Z","summary":"Malicious code in dt-validator (PyPI)","affected":[{"package":{"name":"dt-validator","ecosystem":"PyPI","purl":"pkg:pypi/dt-validator"},"versions":["0.3.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6770","published":"2026-07-02T00:00:00Z","modified":"2026-07-05T22:46:46.616531969Z","summary":"Malicious code in @marketfront/changefilter (npm)","affected":[{"package":{"name":"@marketfront/changefilter","ecosystem":"npm","purl":"pkg:npm/%40marketfront%2Fchangefilter"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

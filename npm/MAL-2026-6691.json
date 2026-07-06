@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6691","published":"2026-06-30T00:00:00Z","modified":"2026-07-01T21:16:42.501992335Z","summary":"Malicious code in polymarket-clob-maths (npm)","affected":[{"package":{"name":"polymarket-clob-maths","ecosystem":"npm","purl":"pkg:npm/polymarket-clob-maths"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6792","published":"2026-07-05T15:29:26Z","modified":"2026-07-05T23:31:40.245605318Z","summary":"Malicious code in wsh4-nmp (npm)","affected":[{"package":{"name":"wsh4-nmp","ecosystem":"npm","purl":"pkg:npm/wsh4-nmp"},"versions":["1.0.0"]}]}

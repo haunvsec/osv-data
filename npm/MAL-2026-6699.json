@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6699","published":"2026-06-30T21:00:23Z","modified":"2026-06-30T21:46:46.226074555Z","summary":"Malicious code in ecto-corsair-flag-7kq3mz (npm)","affected":[{"package":{"name":"ecto-corsair-flag-7kq3mz","ecosystem":"npm","purl":"pkg:npm/ecto-corsair-flag-7kq3mz"},"versions":["1.0.2","1.0.0","1.0.1"]}]}

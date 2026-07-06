@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6769","published":"2026-07-02T00:00:00Z","modified":"2026-07-05T22:46:45.850916567Z","summary":"Malicious code in @marketfront/captchaservice (npm)","affected":[{"package":{"name":"@marketfront/captchaservice","ecosystem":"npm","purl":"pkg:npm/%40marketfront%2Fcaptchaservice"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

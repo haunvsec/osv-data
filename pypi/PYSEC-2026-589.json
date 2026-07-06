@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"PYSEC-2026-589","published":"2026-06-30T20:06:13Z","modified":"2026-07-01T12:45:04.750136240Z","aliases":["MAL-2026-5298"],"summary":"Malicious code in executor-engine (PyPI)","affected":[{"package":{"name":"executor-engine","ecosystem":"PyPI","purl":"pkg:pypi/executor-engine"},"versions":["0.3.4","0.3.5"]}]}

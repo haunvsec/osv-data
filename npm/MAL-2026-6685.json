@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6685","published":"2026-06-30T15:54:50Z","modified":"2026-06-30T16:16:44.925248512Z","aliases":["GHSA-x8q6-66jr-wmp3"],"summary":"Malicious code in quoting (npm)","affected":[{"package":{"name":"quoting","ecosystem":"npm","purl":"pkg:npm/quoting"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

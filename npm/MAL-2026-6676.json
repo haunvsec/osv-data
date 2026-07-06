@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6676","published":"2026-06-30T14:10:12Z","modified":"2026-06-30T15:16:51.278734697Z","aliases":["GHSA-m8cr-hv9p-pg3f"],"summary":"Malicious code in terminal-prettier (npm)","affected":[{"package":{"name":"terminal-prettier","ecosystem":"npm","purl":"pkg:npm/terminal-prettier"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

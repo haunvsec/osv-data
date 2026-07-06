@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6729","published":"2026-07-02T21:12:05Z","modified":"2026-07-02T21:47:04.536862568Z","summary":"Malicious code in robomerge (npm)","affected":[{"package":{"name":"robomerge","ecosystem":"npm","purl":"pkg:npm/robomerge"},"versions":["99999.0.0"]}]}
