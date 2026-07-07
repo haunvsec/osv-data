@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6894","published":"2026-07-06T18:58:37Z","modified":"2026-07-06T20:01:56.344773957Z","aliases":["GHSA-f25x-c4qf-8xxp"],"summary":"Malicious code in tracing-str (npm)","affected":[{"package":{"name":"tracing-str","ecosystem":"npm","purl":"pkg:npm/tracing-str"},"versions":["2.0.3","1.0.5","1.0.4","1.0.3","1.0.2","1.0.0"]}]}

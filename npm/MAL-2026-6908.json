@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6908","published":"2026-07-07T06:27:27Z","modified":"2026-07-07T07:31:41.975086129Z","aliases":["GHSA-968w-6262-r9f5"],"summary":"Malicious code in express-deflect (npm)","affected":[{"package":{"name":"express-deflect","ecosystem":"npm","purl":"pkg:npm/express-deflect"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

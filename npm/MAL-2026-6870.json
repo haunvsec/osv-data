@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6870","published":"2026-07-06T18:57:21Z","modified":"2026-07-06T20:01:51.842133033Z","aliases":["GHSA-h2hr-f82c-f7h5"],"summary":"Malicious code in react-svg-render (npm)","affected":[{"package":{"name":"react-svg-render","ecosystem":"npm","purl":"pkg:npm/react-svg-render"},"versions":["1.0.2"]}]}

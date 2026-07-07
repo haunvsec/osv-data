@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6811","published":"2026-07-06T18:52:01Z","modified":"2026-07-06T19:01:44.698597513Z","aliases":["GHSA-vc46-r5xf-fw6g"],"summary":"Malicious code in chalks-logger (npm)","affected":[{"package":{"name":"chalks-logger","ecosystem":"npm","purl":"pkg:npm/chalks-logger"},"versions":["1.1.3","1.1.2","1.1.1","1.1.0","1.0.9"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6860","published":"2026-07-06T18:56:03Z","modified":"2026-07-06T20:01:48.488630889Z","aliases":["GHSA-x6qh-369w-8jhf"],"summary":"Malicious code in peptideenv (npm)","affected":[{"package":{"name":"peptideenv","ecosystem":"npm","purl":"pkg:npm/peptideenv"},"versions":["16.6.6","16.6.5","16.6.4","16.6.3","16.6.2","16.6.1"]}]}

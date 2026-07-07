@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6892","published":"2026-07-06T18:58:26Z","modified":"2026-07-06T20:01:55.172449347Z","aliases":["GHSA-m4rw-xr9m-h8cr"],"summary":"Malicious code in tailwindcss-svg-helper (npm)","affected":[{"package":{"name":"tailwindcss-svg-helper","ecosystem":"npm","purl":"pkg:npm/tailwindcss-svg-helper"},"versions":["1.18.0","1.17.9"]}]}

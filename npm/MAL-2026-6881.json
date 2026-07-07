@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6881","published":"2026-07-06T18:57:48Z","modified":"2026-07-06T20:01:53.782464832Z","aliases":["GHSA-vvxr-vc6m-w98j"],"summary":"Malicious code in st-bigintr (npm)","affected":[{"package":{"name":"st-bigintr","ecosystem":"npm","purl":"pkg:npm/st-bigintr"},"versions":["5.0.6","5.0.5"]}]}

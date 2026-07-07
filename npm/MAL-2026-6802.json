@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6802","published":"2026-07-06T18:50:25Z","modified":"2026-07-06T19:01:47.355048547Z","aliases":["GHSA-72c2-45g2-2948"],"summary":"Malicious code in big-numerator (npm)","affected":[{"package":{"name":"big-numerator","ecosystem":"npm","purl":"pkg:npm/big-numerator"},"versions":["5.0.6","5.0.3"]}]}

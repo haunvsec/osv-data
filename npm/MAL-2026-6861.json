@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6861","published":"2026-07-06T18:56:24Z","modified":"2026-07-06T20:01:48.577660184Z","aliases":["GHSA-jp9j-33xg-wvpq"],"summary":"Malicious code in picocolor-logger (npm)","affected":[{"package":{"name":"picocolor-logger","ecosystem":"npm","purl":"pkg:npm/picocolor-logger"},"versions":["1.0.2","1.0.1","1.0.0"]}]}

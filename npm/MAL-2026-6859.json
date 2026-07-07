@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6859","published":"2026-07-06T18:55:08Z","modified":"2026-07-06T20:01:48.369735411Z","aliases":["GHSA-3h54-5c65-vwjj"],"summary":"Malicious code in older_morgan (npm)","affected":[{"package":{"name":"older_morgan","ecosystem":"npm","purl":"pkg:npm/older_morgan"},"versions":["1.0.2","1.0.1"]}]}

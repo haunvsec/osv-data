@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6837","published":"2026-07-06T18:53:27Z","modified":"2026-07-06T20:01:50.586813456Z","aliases":["GHSA-cqqh-cj4r-mwfr"],"summary":"Malicious code in eth-tick (npm)","affected":[{"package":{"name":"eth-tick","ecosystem":"npm","purl":"pkg:npm/eth-tick"},"versions":["7.4.18","7.4.17"]}]}

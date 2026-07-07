@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6877","published":"2026-07-06T18:57:37Z","modified":"2026-07-06T20:01:53.044022117Z","aliases":["GHSA-55q4-68jc-wrgw"],"summary":"Malicious code in sjs-builders (npm)","affected":[{"package":{"name":"sjs-builders","ecosystem":"npm","purl":"pkg:npm/sjs-builders"},"versions":["1.0.4"]}]}

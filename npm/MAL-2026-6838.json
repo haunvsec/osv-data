@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6838","published":"2026-07-06T18:53:55Z","modified":"2026-07-06T20:01:44.859958654Z","aliases":["GHSA-375r-m6vq-m5qp"],"summary":"Malicious code in hjs-biginteger (npm)","affected":[{"package":{"name":"hjs-biginteger","ecosystem":"npm","purl":"pkg:npm/hjs-biginteger"},"versions":["5.0.5"]}]}

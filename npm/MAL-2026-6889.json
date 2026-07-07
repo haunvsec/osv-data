@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6889","published":"2026-07-06T18:58:26Z","modified":"2026-07-06T20:01:56.309635346Z","aliases":["GHSA-x3c6-5rx7-6c3p"],"summary":"Malicious code in tailwindcss-fonttype-inter (npm)","affected":[{"package":{"name":"tailwindcss-fonttype-inter","ecosystem":"npm","purl":"pkg:npm/tailwindcss-fonttype-inter"},"versions":["2.3.2","2.3.1"]}]}

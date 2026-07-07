@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6842","published":"2026-07-06T18:53:41Z","modified":"2026-07-06T20:01:45.849435036Z","aliases":["GHSA-pgr4-r9gw-w9wm"],"summary":"Malicious code in lint-builders (npm)","affected":[{"package":{"name":"lint-builders","ecosystem":"npm","purl":"pkg:npm/lint-builders"},"versions":["1.0.0"]}]}

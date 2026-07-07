@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6909","published":"2026-07-07T06:27:27Z","modified":"2026-07-07T07:31:42.074351857Z","aliases":["GHSA-59r7-h2ch-m4v2"],"summary":"Malicious code in express-firegate (npm)","affected":[{"package":{"name":"express-firegate","ecosystem":"npm","purl":"pkg:npm/express-firegate"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

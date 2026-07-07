@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6863","published":"2026-07-06T18:56:25Z","modified":"2026-07-06T20:01:44.498719890Z","aliases":["GHSA-jwwm-v6rr-f5cv"],"summary":"Malicious code in pino-utils (npm)","affected":[{"package":{"name":"pino-utils","ecosystem":"npm","purl":"pkg:npm/pino-utils"},"versions":["1.4.0","1.3.6"]}]}

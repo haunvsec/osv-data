@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6835","published":"2026-07-06T18:53:27Z","modified":"2026-07-06T20:01:50.027521737Z","aliases":["GHSA-pxpm-6pvw-32fv"],"summary":"Malicious code in es-lint-entry (npm)","affected":[{"package":{"name":"es-lint-entry","ecosystem":"npm","purl":"pkg:npm/es-lint-entry"},"versions":["1.0.0"]}]}

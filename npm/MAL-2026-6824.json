@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6824","published":"2026-07-06T18:53:15Z","modified":"2026-07-06T19:01:46.286729910Z","aliases":["GHSA-83fv-8xwv-vc39"],"summary":"Malicious code in grid-settings-align (npm)","affected":[{"package":{"name":"grid-settings-align","ecosystem":"npm","purl":"pkg:npm/grid-settings-align"},"versions":["14.1.2","14.1.1"]}]}

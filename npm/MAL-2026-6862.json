@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6862","published":"2026-07-06T18:56:24Z","modified":"2026-07-06T20:01:48.754485432Z","aliases":["GHSA-7cfh-3cj9-3fc3"],"summary":"Malicious code in pino-pretty-logs (npm)","affected":[{"package":{"name":"pino-pretty-logs","ecosystem":"npm","purl":"pkg:npm/pino-pretty-logs"},"versions":["2.0.0","1.1.0"]}]}

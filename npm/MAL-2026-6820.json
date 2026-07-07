@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6820","published":"2026-07-06T18:53:07Z","modified":"2026-07-06T19:01:46.058040619Z","aliases":["GHSA-f463-5xm8-8r3r"],"summary":"Malicious code in express-dotenv (npm)","affected":[{"package":{"name":"express-dotenv","ecosystem":"npm","purl":"pkg:npm/express-dotenv"},"versions":["1.3.5"]}]}

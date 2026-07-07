@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6813","published":"2026-07-06T18:52:52Z","modified":"2026-07-06T19:01:44.747351974Z","aliases":["GHSA-55vw-c9x7-q7fh"],"summary":"Malicious code in custom-log-viewer (npm)","affected":[{"package":{"name":"custom-log-viewer","ecosystem":"npm","purl":"pkg:npm/custom-log-viewer"},"versions":["1.0.0"]}]}

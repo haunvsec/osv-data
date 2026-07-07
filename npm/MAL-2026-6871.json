@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6871","published":"2026-07-06T18:59:31Z","modified":"2026-07-06T20:01:51.851039380Z","aliases":["GHSA-jq76-fhr4-3987"],"summary":"Malicious code in renderctx (npm)","affected":[{"package":{"name":"renderctx","ecosystem":"npm","purl":"pkg:npm/renderctx"},"versions":["1.1.1"]}]}

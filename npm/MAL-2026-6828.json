@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6828","published":"2026-07-06T18:53:56Z","modified":"2026-07-06T20:01:49.452332692Z","aliases":["GHSA-h8jx-qfr4-5q9r"],"summary":"Malicious code in chalk-pro-logger (npm)","affected":[{"package":{"name":"chalk-pro-logger","ecosystem":"npm","purl":"pkg:npm/chalk-pro-logger"},"versions":["1.1.2","1.1.1"]}]}

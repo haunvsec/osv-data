@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6829","published":"2026-07-06T18:54:02Z","modified":"2026-07-06T20:01:49.670226223Z","aliases":["GHSA-7fqr-fv9q-43p6"],"summary":"Malicious code in chalki-pretty (npm)","affected":[{"package":{"name":"chalki-pretty","ecosystem":"npm","purl":"pkg:npm/chalki-pretty"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6866","published":"2026-07-06T18:56:35Z","modified":"2026-07-06T20:01:50.870129314Z","aliases":["GHSA-6wq6-hvcw-xmcx"],"summary":"Malicious code in prettier-logger (npm)","affected":[{"package":{"name":"prettier-logger","ecosystem":"npm","purl":"pkg:npm/prettier-logger"},"versions":["0.1.6","0.1.5","0.1.4"]}]}

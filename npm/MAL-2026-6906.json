@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6906","published":"2026-07-06T19:04:06Z","modified":"2026-07-06T20:01:59.098113497Z","aliases":["GHSA-wwv8-px7f-vfq4"],"summary":"Malicious code in xnder-sdk-js (npm)","affected":[{"package":{"name":"xnder-sdk-js","ecosystem":"npm","purl":"pkg:npm/xnder-sdk-js"},"versions":["0.1.0"]}]}

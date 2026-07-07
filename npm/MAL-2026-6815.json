@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6815","published":"2026-07-06T18:53:08Z","modified":"2026-07-06T19:01:47.967787601Z","aliases":["GHSA-79rp-3jfj-qmwv"],"summary":"Malicious code in elevate-log (npm)","affected":[{"package":{"name":"elevate-log","ecosystem":"npm","purl":"pkg:npm/elevate-log"},"versions":["2.0.5"]}]}

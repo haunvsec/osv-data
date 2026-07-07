@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6833","published":"2026-07-06T18:54:28Z","modified":"2026-07-06T20:01:50.174635441Z","aliases":["GHSA-f862-62jq-qjhx"],"summary":"Malicious code in debug-glitzs (npm)","affected":[{"package":{"name":"debug-glitzs","ecosystem":"npm","purl":"pkg:npm/debug-glitzs"},"versions":["1.0.4","1.0.3","1.0.2","1.0.1","1.0.0"]}]}

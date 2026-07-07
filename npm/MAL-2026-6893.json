@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6893","published":"2026-07-06T18:58:37Z","modified":"2026-07-06T20:01:56.394613502Z","aliases":["GHSA-6h3j-xcmr-vmwx"],"summary":"Malicious code in test-prettier (npm)","affected":[{"package":{"name":"test-prettier","ecosystem":"npm","purl":"pkg:npm/test-prettier"},"versions":["1.0.9"]}]}

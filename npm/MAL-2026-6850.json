@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6850","published":"2026-07-06T18:53:55Z","modified":"2026-07-06T20:01:46.740114118Z","aliases":["GHSA-x3x7-mgj2-qg5x"],"summary":"Malicious code in logger-beauty (npm)","affected":[{"package":{"name":"logger-beauty","ecosystem":"npm","purl":"pkg:npm/logger-beauty"},"versions":["2.1.1","1.1.0","1.0.3","1.0.2","1.0.1"]}]}

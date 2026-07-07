@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6879","published":"2026-07-06T18:58:15Z","modified":"2026-07-06T20:01:53.302783491Z","aliases":["GHSA-j3cf-6g4r-crmv"],"summary":"Malicious code in sol-sdk (npm)","affected":[{"package":{"name":"sol-sdk","ecosystem":"npm","purl":"pkg:npm/sol-sdk"},"versions":["2.3.18"]}]}

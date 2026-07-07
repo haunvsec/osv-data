@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6856","published":"2026-07-06T18:54:59Z","modified":"2026-07-06T20:01:47.789297414Z","aliases":["GHSA-q48r-9hm8-j2j5"],"summary":"Malicious code in node-env-detector (npm)","affected":[{"package":{"name":"node-env-detector","ecosystem":"npm","purl":"pkg:npm/node-env-detector"},"versions":["1.0.1","1.0.0"]}]}

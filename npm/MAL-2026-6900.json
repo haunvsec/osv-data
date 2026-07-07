@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6900","published":"2026-07-06T18:59:31Z","modified":"2026-07-06T20:01:57.687671268Z","aliases":["GHSA-w5pf-vc8f-rv6r"],"summary":"Malicious code in txs-data (npm)","affected":[{"package":{"name":"txs-data","ecosystem":"npm","purl":"pkg:npm/txs-data"},"versions":["1.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6814","published":"2026-07-06T18:52:27Z","modified":"2026-07-06T19:01:44.941531445Z","aliases":["GHSA-r39w-2c8m-qcw8"],"summary":"Malicious code in devkit-scripts (npm)","affected":[{"package":{"name":"devkit-scripts","ecosystem":"npm","purl":"pkg:npm/devkit-scripts"},"versions":["1.0.3","1.0.0"]}]}

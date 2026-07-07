@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6816","published":"2026-07-06T18:52:37Z","modified":"2026-07-06T19:01:48.564299788Z","aliases":["GHSA-8hx2-v9q6-66vf"],"summary":"Malicious code in emojiprint-logger (npm)","affected":[{"package":{"name":"emojiprint-logger","ecosystem":"npm","purl":"pkg:npm/emojiprint-logger"},"versions":["5.6.2","1.1.0"]}]}

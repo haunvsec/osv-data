@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6846","published":"2026-07-06T18:54:07Z","modified":"2026-07-06T20:01:46.164999190Z","aliases":["GHSA-vp9h-qwwx-q9rx"],"summary":"Malicious code in lint-null (npm)","affected":[{"package":{"name":"lint-null","ecosystem":"npm","purl":"pkg:npm/lint-null"},"versions":["1.0.4"]}]}

@@ -1,9 +1,9 @@
 {
-  "last_crawl_time": "2026-07-06T16:41:03Z",
-  "last_attempt_time": "2026-07-07T06:51:04Z",
+  "last_crawl_time": "2026-07-07T09:56:21Z",
+  "last_attempt_time": "2026-07-07T09:56:21Z",
   "source": "osv-vulnerabilities-gcs",
   "source_url": "https://storage.googleapis.com/osv-vulnerabilities",
-  "method": "partial_redhat_update",
+  "method": "incremental",
   "ecosystems": [
     "maven",
     "npm",
@@ -11,39 +11,39 @@
     "redhat"
   ],
   "ecosystem_counts": {
-    "maven": 6767,
-    "npm": 221924,
-    "pypi": 21405,
+    "maven": 6771,
+    "npm": 222041,
+    "pypi": 21418,
     "redhat": 20982
   },
-  "total_vulnerabilities": 271078,
+  "total_vulnerabilities": 271212,
   "ecosystem_state": {
     "maven": {
-      "last_attempt_time": "2026-07-06T16:37:59Z",
+      "last_attempt_time": "2026-07-07T09:54:23Z",
       "last_method": "incremental",
-      "last_downloaded": 2,
+      "last_downloaded": 4,
       "last_skipped": 0,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-07-06T16:37:59Z",
-      "last_modified_time": "2026-07-06T14:30:08.890537747Z"
+      "last_successful_crawl_time": "2026-07-07T09:54:23Z",
+      "last_modified_time": "2026-07-06T22:00:09.031268837Z"
     },
     "npm": {
-      "last_attempt_time": "2026-07-06T16:38:20Z",
+      "last_attempt_time": "2026-07-07T09:56:03Z",
       "last_method": "incremental",
-      "last_downloaded": 30,
-      "last_skipped": 0,
+      "last_downloaded": 182,
+      "last_skipped": 1,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-07-06T16:38:20Z",
+      "last_successful_crawl_time": "2026-07-07T09:56:03Z",
       "last_modified_time": "2026-07-06T15:30:15.791721069Z"
     },
     "pypi": {
-      "last_attempt_time": "2026-07-06T16:41:03Z",
+      "last_attempt_time": "2026-07-07T09:56:21Z",
       "last_method": "incremental",
-      "last_downloaded": 317,
+      "last_downloaded": 16,
       "last_skipped": 0,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-07-06T16:41:03Z",
-      "last_modified_time": "2026-07-06T15:30:15.818392869Z"
+      "last_successful_crawl_time": "2026-07-07T09:56:21Z",
+      "last_modified_time": "2026-07-07T05:15:08.875192626Z"
     },
     "redhat": {
       "last_attempt_time": "2026-07-06T16:15:39Z",
@@ -57,10 +57,32 @@
     }
   },
   "last_run": {
-    "method": "partial_redhat_update",
-    "errors": [
-      "Red Hat incremental interrupted after network/DNS failures; high-watermark intentionally not advanced."
+    "started_at": "2026-07-07T09:56:03Z",
+    "output_dir": "/Volumes/DATA/security_advisory/osv-data",
+    "method": "incremental",
+    "ecosystems": [
+      "pypi"
     ],
-    "ecosystem_results": []
+    "ecosystem_results": [
+      {
+        "ecosystem": "pypi",
+        "method": "incremental",
+        "downloaded": 16,
+        "skipped": 0,
+        "indexed": 0,
+        "existing": 0,
+        "latest_modified_time": "2026-07-07T05:15:08.875192626Z",
+        "success": true
+      }
+    ],
+    "vulns_downloaded": 16,
+    "vulns_skipped": 0,
+    "errors": [],
+    "dry_run": false,
+    "limit": null,
+    "sync_missing": false,
+    "missing_only": false,
+    "finished_at": "2026-07-07T09:56:21Z",
+    "duration_seconds": 17.76
   }
 }

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6803","published":"2026-07-06T18:50:35Z","modified":"2026-07-06T19:01:47.757548387Z","aliases":["GHSA-3w5h-8px3-5vhp"],"summary":"Malicious code in big256-ts (npm)","affected":[{"package":{"name":"big256-ts","ecosystem":"npm","purl":"pkg:npm/big256-ts"},"versions":["5.0.4","5.0.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6854","published":"2026-07-06T18:54:02Z","modified":"2026-07-06T20:01:47.199207218Z","aliases":["GHSA-465x-gj74-mw3m"],"summary":"Malicious code in modulyn (npm)","affected":[{"package":{"name":"modulyn","ecosystem":"npm","purl":"pkg:npm/modulyn"},"versions":["1.0.1"]}]}

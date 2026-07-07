@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6836","published":"2026-07-06T18:53:27Z","modified":"2026-07-06T20:01:50.531551504Z","aliases":["GHSA-mhv7-p7g8-cwpj"],"summary":"Malicious code in eslint-vite (npm)","affected":[{"package":{"name":"eslint-vite","ecosystem":"npm","purl":"pkg:npm/eslint-vite"},"versions":["1.0.2","1.0.1","1.0.0"]}]}

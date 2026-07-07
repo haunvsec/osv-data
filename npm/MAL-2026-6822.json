@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6822","published":"2026-07-06T18:53:15Z","modified":"2026-07-06T19:01:48.675145390Z","aliases":["GHSA-9w84-x6cf-c2vq"],"summary":"Malicious code in fastnodemailer (npm)","affected":[{"package":{"name":"fastnodemailer","ecosystem":"npm","purl":"pkg:npm/fastnodemailer"},"versions":["8.0.4","8.0.3","8.0.2"]}]}

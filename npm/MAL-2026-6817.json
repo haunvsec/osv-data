@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6817","published":"2026-07-06T18:52:47Z","modified":"2026-07-06T19:01:45.989746204Z","aliases":["GHSA-8hhq-mc35-6xjv"],"summary":"Malicious code in emojiprint-prettier (npm)","affected":[{"package":{"name":"emojiprint-prettier","ecosystem":"npm","purl":"pkg:npm/emojiprint-prettier"},"versions":["1.0.9"]}]}

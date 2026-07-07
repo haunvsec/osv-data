@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6800","published":"2026-07-06T18:50:20Z","modified":"2026-07-06T19:01:47.460631623Z","aliases":["GHSA-j5jp-xc7m-26vm"],"summary":"Malicious code in big-numer (npm)","affected":[{"package":{"name":"big-numer","ecosystem":"npm","purl":"pkg:npm/big-numer"},"versions":["5.0.5"]}]}

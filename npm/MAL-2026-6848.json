@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6848","published":"2026-07-06T18:53:55Z","modified":"2026-07-06T20:01:46.612414485Z","aliases":["GHSA-fw7h-6mmw-4jjr"],"summary":"Malicious code in log-format-thread (npm)","affected":[{"package":{"name":"log-format-thread","ecosystem":"npm","purl":"pkg:npm/log-format-thread"},"versions":["1.0.1","1.0.0"]}]}

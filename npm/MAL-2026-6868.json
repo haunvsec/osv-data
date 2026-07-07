@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6868","published":"2026-07-06T18:57:06Z","modified":"2026-07-06T20:01:51.341881610Z","aliases":["GHSA-vhw2-mvjh-m4gr"],"summary":"Malicious code in pretty-pino-loggers (npm)","affected":[{"package":{"name":"pretty-pino-loggers","ecosystem":"npm","purl":"pkg:npm/pretty-pino-loggers"},"versions":["1.0.1"]}]}

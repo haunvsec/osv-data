@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6872","published":"2026-07-06T18:59:24Z","modified":"2026-07-06T20:01:52.147677064Z","aliases":["GHSA-c633-xc97-ch23"],"summary":"Malicious code in rma-utils (npm)","affected":[{"package":{"name":"rma-utils","ecosystem":"npm","purl":"pkg:npm/rma-utils"},"versions":["1.0.1"]}]}

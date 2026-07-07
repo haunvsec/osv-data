@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6899","published":"2026-07-06T18:59:37Z","modified":"2026-07-06T20:01:57.694698510Z","aliases":["GHSA-pc7p-pxpj-3cw5"],"summary":"Malicious code in twcompose-utils (npm)","affected":[{"package":{"name":"twcompose-utils","ecosystem":"npm","purl":"pkg:npm/twcompose-utils"},"versions":["0.7.7","0.7.6"]}]}

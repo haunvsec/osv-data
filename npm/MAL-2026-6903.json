@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6903","published":"2026-07-06T19:00:23Z","modified":"2026-07-06T20:01:58.698182423Z","aliases":["GHSA-3qh2-hc9r-frmf"],"summary":"Malicious code in windrule-utils (npm)","affected":[{"package":{"name":"windrule-utils","ecosystem":"npm","purl":"pkg:npm/windrule-utils"},"versions":["0.0.1"]}]}

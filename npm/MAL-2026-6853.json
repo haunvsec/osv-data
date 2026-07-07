@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6853","published":"2026-07-06T18:53:55Z","modified":"2026-07-06T20:01:47.167934068Z","aliases":["GHSA-798w-xm3v-cfx3"],"summary":"Malicious code in mjs-biginteger (npm)","affected":[{"package":{"name":"mjs-biginteger","ecosystem":"npm","purl":"pkg:npm/mjs-biginteger"},"versions":["5.0.6","5.0.5"]}]}

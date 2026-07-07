@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6905","published":"2026-07-06T19:00:44Z","modified":"2026-07-06T20:01:59.057598736Z","aliases":["GHSA-3xpg-2wmm-jjj2"],"summary":"Malicious code in winston-prism (npm)","affected":[{"package":{"name":"winston-prism","ecosystem":"npm","purl":"pkg:npm/winston-prism"},"versions":["1.0.1"]}]}

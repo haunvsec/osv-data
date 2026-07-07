@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6891","published":"2026-07-06T18:58:18Z","modified":"2026-07-06T20:01:56.328255862Z","aliases":["GHSA-w94v-484j-rqjx"],"summary":"Malicious code in tailwindcss-framer-motion (npm)","affected":[{"package":{"name":"tailwindcss-framer-motion","ecosystem":"npm","purl":"pkg:npm/tailwindcss-framer-motion"},"versions":["1.1.3"]}]}

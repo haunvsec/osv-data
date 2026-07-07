@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6897","published":"2026-07-06T18:59:25Z","modified":"2026-07-06T20:01:56.223348252Z","aliases":["GHSA-5mvf-x573-2gv4"],"summary":"Malicious code in ts-lint-builders (npm)","affected":[{"package":{"name":"ts-lint-builders","ecosystem":"npm","purl":"pkg:npm/ts-lint-builders"},"versions":["1.0.5"]}]}

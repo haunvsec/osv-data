@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6839","published":"2026-07-06T18:53:21Z","modified":"2026-07-06T20:01:45.085360439Z","aliases":["GHSA-q5hg-f596-vmc7"],"summary":"Malicious code in hjs-lint-builders (npm)","affected":[{"package":{"name":"hjs-lint-builders","ecosystem":"npm","purl":"pkg:npm/hjs-lint-builders"},"versions":["1.0.4"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6874","published":"2026-07-06T18:57:32Z","modified":"2026-07-06T20:01:52.578058693Z","aliases":["GHSA-xvj3-jjxg-v74h"],"summary":"Malicious code in safe-validate (npm)","affected":[{"package":{"name":"safe-validate","ecosystem":"npm","purl":"pkg:npm/safe-validate"},"versions":["1.0.4","1.0.3","1.0.2","1.0.1"]}]}

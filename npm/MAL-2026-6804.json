@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6804","published":"2026-07-06T18:51:01Z","modified":"2026-07-06T19:01:48.773688829Z","aliases":["GHSA-p7gp-vr2w-gxcq"],"summary":"Malicious code in bigint.os (npm)","affected":[{"package":{"name":"bigint.os","ecosystem":"npm","purl":"pkg:npm/bigint.os"},"versions":["5.0.8","5.0.7","5.0.6","5.0.5"]}]}

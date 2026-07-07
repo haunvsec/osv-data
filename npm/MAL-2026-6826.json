@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6826","published":"2026-07-06T18:02:57Z","modified":"2026-07-06T19:01:47.402370959Z","aliases":["GHSA-h89m-q7rj-4hxm"],"summary":"Malicious code in rollup-plugin-polyfill-handler (npm)","affected":[{"package":{"name":"rollup-plugin-polyfill-handler","ecosystem":"npm","purl":"pkg:npm/rollup-plugin-polyfill-handler"},"versions":["1.0.0"]}]}

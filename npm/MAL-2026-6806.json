@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6806","published":"2026-07-06T18:50:50Z","modified":"2026-07-06T19:01:43.289656735Z","aliases":["GHSA-mwmc-95gf-x6p2"],"summary":"Malicious code in bn-math (npm)","affected":[{"package":{"name":"bn-math","ecosystem":"npm","purl":"pkg:npm/bn-math"},"versions":["1.0.1","1.0.0"]}]}

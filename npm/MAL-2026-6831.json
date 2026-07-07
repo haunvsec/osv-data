@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6831","published":"2026-07-06T18:54:12Z","modified":"2026-07-06T20:01:49.878368771Z","aliases":["GHSA-f8q4-69r9-2qv9"],"summary":"Malicious code in color-logger-console (npm)","affected":[{"package":{"name":"color-logger-console","ecosystem":"npm","purl":"pkg:npm/color-logger-console"},"versions":["3.1.9","3.1.8"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6847","published":"2026-07-06T18:54:07Z","modified":"2026-07-06T20:01:46.469077669Z","aliases":["GHSA-wf2v-82jg-mw7v"],"summary":"Malicious code in linter-entry (npm)","affected":[{"package":{"name":"linter-entry","ecosystem":"npm","purl":"pkg:npm/linter-entry"},"versions":["1.0.0"]}]}

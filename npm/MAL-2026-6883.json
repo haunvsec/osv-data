@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6883","published":"2026-07-06T18:58:03Z","modified":"2026-07-06T20:01:54.131313127Z","aliases":["GHSA-676w-w872-57p4"],"summary":"Malicious code in styled-text-logger (npm)","affected":[{"package":{"name":"styled-text-logger","ecosystem":"npm","purl":"pkg:npm/styled-text-logger"},"versions":["1.3.1"]}]}

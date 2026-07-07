@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6799","published":"2026-07-06T18:49:31Z","modified":"2026-07-06T19:01:47.503138140Z","aliases":["GHSA-4j38-wfq5-cfxw"],"summary":"Malicious code in awesome-cli-logger (npm)","affected":[{"package":{"name":"awesome-cli-logger","ecosystem":"npm","purl":"pkg:npm/awesome-cli-logger"},"versions":["1.2.0","1.0.0"]}]}

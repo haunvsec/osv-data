@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6843","published":"2026-07-06T18:55:40Z","modified":"2026-07-06T20:01:45.853723856Z","aliases":["GHSA-3cjq-q62g-3hf2"],"summary":"Malicious code in lint-builds (npm)","affected":[{"package":{"name":"lint-builds","ecosystem":"npm","purl":"pkg:npm/lint-builds"},"versions":["1.0.5","1.0.0"]}]}

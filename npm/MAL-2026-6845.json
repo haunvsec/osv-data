@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6845","published":"2026-07-06T18:53:34Z","modified":"2026-07-06T20:01:46.212366662Z","aliases":["GHSA-g4mq-hwwp-q536"],"summary":"Malicious code in lint-nuler (npm)","affected":[{"package":{"name":"lint-nuler","ecosystem":"npm","purl":"pkg:npm/lint-nuler"},"versions":["1.0.4"]}]}

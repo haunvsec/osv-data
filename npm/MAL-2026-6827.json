@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6827","published":"2026-07-06T18:53:55Z","modified":"2026-07-06T20:01:49.231031907Z","aliases":["GHSA-29vw-5q5r-8jpw"],"summary":"Malicious code in chai-guard (npm)","affected":[{"package":{"name":"chai-guard","ecosystem":"npm","purl":"pkg:npm/chai-guard"},"versions":["1.2.3","1.0.0"]}]}

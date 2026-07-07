@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6875","published":"2026-07-06T18:57:54Z","modified":"2026-07-06T20:01:52.693358897Z","aliases":["GHSA-q75v-v55m-r6v2"],"summary":"Malicious code in secure-box (npm)","affected":[{"package":{"name":"secure-box","ecosystem":"npm","purl":"pkg:npm/secure-box"},"versions":["1.0.2","1.0.1"]}]}
