@@ -1,6 +1,6 @@
 {
-  "last_crawl_time": "2026-07-06T06:46:52Z",
-  "last_attempt_time": "2026-07-06T16:15:39Z",
+  "last_crawl_time": "2026-07-06T16:41:03Z",
+  "last_attempt_time": "2026-07-06T16:41:03Z",
   "source": "osv-vulnerabilities-gcs",
   "source_url": "https://storage.googleapis.com/osv-vulnerabilities",
   "method": "incremental",
@@ -12,38 +12,38 @@
   ],
   "ecosystem_counts": {
     "maven": 6767,
-    "npm": 221923,
-    "pypi": 21255,
+    "npm": 221924,
+    "pypi": 21405,
     "redhat": 20953
   },
-  "total_vulnerabilities": 270898,
+  "total_vulnerabilities": 271049,
   "ecosystem_state": {
     "maven": {
-      "last_attempt_time": "2026-07-06T04:28:13Z",
+      "last_attempt_time": "2026-07-06T16:37:59Z",
       "last_method": "incremental",
-      "last_downloaded": 67,
+      "last_downloaded": 2,
       "last_skipped": 0,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-07-06T04:28:13Z",
-      "last_modified_time": "2026-07-03T18:29:34.748750441Z"
+      "last_successful_crawl_time": "2026-07-06T16:37:59Z",
+      "last_modified_time": "2026-07-06T14:30:08.890537747Z"
     },
     "npm": {
-      "last_attempt_time": "2026-07-06T04:30:47Z",
+      "last_attempt_time": "2026-07-06T16:38:20Z",
       "last_method": "incremental",
-      "last_downloaded": 257,
+      "last_downloaded": 30,
       "last_skipped": 0,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-07-06T04:30:47Z",
-      "last_modified_time": "2026-07-06T03:31:40.365282824Z"
+      "last_successful_crawl_time": "2026-07-06T16:38:20Z",
+      "last_modified_time": "2026-07-06T15:30:15.791721069Z"
     },
     "pypi": {
-      "last_attempt_time": "2026-07-06T04:36:56Z",
+      "last_attempt_time": "2026-07-06T16:41:03Z",
       "last_method": "incremental",
-      "last_downloaded": 514,
-      "last_skipped": 1,
+      "last_downloaded": 317,
+      "last_skipped": 0,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-07-06T04:36:56Z",
-      "last_modified_time": "2026-07-05T22:30:54.916655552Z"
+      "last_successful_crawl_time": "2026-07-06T16:41:03Z",
+      "last_modified_time": "2026-07-06T15:30:15.818392869Z"
     },
     "redhat": {
       "last_attempt_time": "2026-07-06T16:15:39Z",
@@ -57,38 +57,32 @@
     }
   },
   "last_run": {
-    "started_at": "2026-07-06T16:15:39Z",
+    "started_at": "2026-07-06T16:38:21Z",
     "output_dir": "/Volumes/DATA/security_advisory/osv-data",
     "method": "incremental",
     "ecosystems": [
-      "redhat"
+      "pypi"
     ],
     "ecosystem_results": [
       {
-        "ecosystem": "redhat",
+        "ecosystem": "pypi",
         "method": "incremental",
-        "downloaded": 0,
+        "downloaded": 317,
         "skipped": 0,
         "indexed": 0,
         "existing": 0,
-        "latest_modified_time": null,
-        "success": false,
-        "error": "HTTPSConnectionPool(host='storage.googleapis.com', port=443): Max retries exceeded with url: /osv-vulnerabilities/Red%20Hat/modified_id.csv (Caused by NameResolutionError(\"HTTPSConnection(host='storage.googleapis.com', port=443): Failed to resolve 'storage.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+        "latest_modified_time": "2026-07-06T15:30:15.818392869Z",
+        "success": true
       }
     ],
-    "vulns_downloaded": 0,
-    "vulns_skipped": 1,
-    "errors": [
-      {
-        "ecosystem": "redhat",
-        "error": "HTTPSConnectionPool(host='storage.googleapis.com', port=443): Max retries exceeded with url: /osv-vulnerabilities/Red%20Hat/modified_id.csv (Caused by NameResolutionError(\"HTTPSConnection(host='storage.googleapis.com', port=443): Failed to resolve 'storage.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-      }
-    ],
+    "vulns_downloaded": 317,
+    "vulns_skipped": 0,
+    "errors": [],
     "dry_run": false,
     "limit": null,
     "sync_missing": false,
     "missing_only": false,
-    "finished_at": "2026-07-06T16:15:39Z",
-    "duration_seconds": 0.02
+    "finished_at": "2026-07-06T16:41:03Z",
+    "duration_seconds": 162.58
   }
 }
