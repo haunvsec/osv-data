@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7016","published":"2026-07-08T18:08:50Z","modified":"2026-07-08T18:46:45.783463042Z","summary":"Malicious code in @vraksha/gh-helper (npm)","affected":[{"package":{"name":"@vraksha/gh-helper","ecosystem":"npm","purl":"pkg:npm/%40vraksha/gh-helper"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6993","published":"2026-07-08T16:27:34Z","modified":"2026-07-08T17:16:45.357080212Z","summary":"Malicious code in bytefaas-sdk (npm)","affected":[{"package":{"name":"bytefaas-sdk","ecosystem":"npm","purl":"pkg:npm/bytefaas-sdk"},"versions":["9999.0.0"]}]}

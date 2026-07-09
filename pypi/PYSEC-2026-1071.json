@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"PYSEC-2026-1071","published":"2026-07-07T16:09:47Z","modified":"2026-07-07T17:00:05.686830561Z","aliases":["MAL-2026-5319"],"summary":"Malicious code in mem8 (PyPI)","affected":[{"package":{"name":"mem8","ecosystem":"PyPI","purl":"pkg:pypi/mem8"},"versions":["6.0.1"]}]}

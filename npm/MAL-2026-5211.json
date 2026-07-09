@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2026-5211","published":"2026-06-05T00:53:43Z","modified":"2026-06-05T06:16:39.511587487Z","summary":"Malicious code in autotel (npm)","affected":[{"package":{"name":"autotel","ecosystem":"npm","purl":"pkg:npm/autotel"},"versions":["2.26.4","3.4.3"]}]}
+{"schema_version":"1.7.5","id":"MAL-2026-5211","published":"2026-06-05T00:53:43Z","modified":"2026-07-08T22:01:49.352198666Z","summary":"Malicious code in autotel (npm)","affected":[{"package":{"name":"autotel","ecosystem":"npm","purl":"pkg:npm/autotel"},"versions":["2.26.4","3.4.3"]}]}

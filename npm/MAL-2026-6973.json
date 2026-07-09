@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6973","published":"2026-07-08T09:21:00Z","modified":"2026-07-08T10:31:51.582381402Z","summary":"Malicious code in gitlens (npm)","affected":[{"package":{"name":"gitlens","ecosystem":"npm","purl":"pkg:npm/gitlens"},"versions":["9.4.0"]}]}

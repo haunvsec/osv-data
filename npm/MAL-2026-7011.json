@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7011","published":"2026-07-08T17:31:00Z","modified":"2026-07-08T17:46:44.041219791Z","summary":"Malicious code in events-alias (npm)","affected":[{"package":{"name":"events-alias","ecosystem":"npm","purl":"pkg:npm/events-alias"},"versions":["15.0.1"]}]}

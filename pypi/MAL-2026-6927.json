@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6927","published":"2026-07-07T15:22:13Z","modified":"2026-07-08T15:31:46.373851892Z","summary":"Malicious code in paysafe-kyc (PyPI)","affected":[{"package":{"name":"paysafe-kyc","ecosystem":"PyPI","purl":"pkg:pypi/paysafe-kyc"},"versions":["1.0.0"]}]}

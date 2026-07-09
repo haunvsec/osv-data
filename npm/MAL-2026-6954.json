@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6954","published":"2026-07-07T16:19:41Z","modified":"2026-07-08T20:47:10.223983376Z","aliases":["GHSA-6h38-53x2-5jhm"],"summary":"Malicious code in wsh4_npm (npm)","affected":[{"package":{"name":"wsh4_npm","ecosystem":"npm","purl":"pkg:npm/wsh4_npm"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6992","published":"2026-07-08T16:24:28Z","modified":"2026-07-08T17:16:45.280269476Z","summary":"Malicious code in babel-eslint-parser-legacy (npm)","affected":[{"package":{"name":"babel-eslint-parser-legacy","ecosystem":"npm","purl":"pkg:npm/babel-eslint-parser-legacy"},"versions":["99.9.1"]}]}

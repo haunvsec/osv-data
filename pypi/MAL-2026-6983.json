@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6983","published":"2026-07-08T15:09:31Z","modified":"2026-07-08T15:32:22.493612070Z","summary":"Malicious code in tronpak (PyPI)","affected":[{"package":{"name":"tronpak","ecosystem":"PyPI","purl":"pkg:pypi/tronpak"},"versions":["0.0.1"]}]}

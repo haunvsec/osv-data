@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6958","published":"2026-07-08T00:36:47Z","modified":"2026-07-08T01:01:38.954591315Z","aliases":["GHSA-xpmf-x27p-9vcc"],"summary":"Malicious code in ts-await (npm)","affected":[{"package":{"name":"ts-await","ecosystem":"npm","purl":"pkg:npm/ts-await"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

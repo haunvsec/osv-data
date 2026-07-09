@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7004","published":"2026-07-08T16:25:37Z","modified":"2026-07-08T17:16:53.051088821Z","summary":"Malicious code in thunder-rony (npm)","affected":[{"package":{"name":"thunder-rony","ecosystem":"npm","purl":"pkg:npm/thunder-rony"},"versions":["99.9.9"]}]}

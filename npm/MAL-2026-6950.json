@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6950","published":"2026-07-07T16:19:41Z","modified":"2026-07-07T17:16:48.029861249Z","aliases":["GHSA-4fw4-5853-rqf8"],"summary":"Malicious code in whs4_nmp (npm)","affected":[{"package":{"name":"whs4_nmp","ecosystem":"npm","purl":"pkg:npm/whs4_nmp"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

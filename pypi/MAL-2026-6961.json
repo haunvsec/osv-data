@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6961","published":"2026-07-08T04:08:07Z","modified":"2026-07-08T19:07:42.985783474Z","summary":"Malicious code in waymo-waymax (PyPI)","affected":[{"package":{"name":"waymo-waymax","ecosystem":"PyPI","purl":"pkg:pypi/waymo-waymax"},"versions":["99.0.0"]}]}

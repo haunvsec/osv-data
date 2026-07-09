@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6978","published":"2026-07-08T13:42:00Z","modified":"2026-07-08T14:30:56.680670853Z","summary":"Malicious code in manin (PyPI)","affected":[{"package":{"name":"manin","ecosystem":"PyPI","purl":"pkg:pypi/manin"},"versions":["0.0.1","0.1.0","0.1.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"PYSEC-2026-1070","published":"2026-07-07T16:04:20Z","modified":"2026-07-07T17:00:05.737941605Z","aliases":["MAL-2026-5318"],"summary":"Malicious code in langchain-core-mcp (PyPI)","affected":[{"package":{"name":"langchain-core-mcp","ecosystem":"PyPI","purl":"pkg:pypi/langchain-core-mcp"},"versions":["1.4.2","1.4.3"]}]}

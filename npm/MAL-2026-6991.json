@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6991","published":"2026-07-08T16:30:56Z","modified":"2026-07-08T17:46:44.964819695Z","summary":"Malicious code in airkey-mfa-react (npm)","affected":[{"package":{"name":"airkey-mfa-react","ecosystem":"npm","purl":"pkg:npm/airkey-mfa-react"},"versions":["36.1.1","20.0.1"]}]}

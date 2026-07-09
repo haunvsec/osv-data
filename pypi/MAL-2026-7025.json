@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7025","published":"2026-07-08T22:36:52Z","modified":"2026-07-08T23:47:01.824877543Z","summary":"Malicious code in tronsev (PyPI)","affected":[{"package":{"name":"tronsev","ecosystem":"PyPI","purl":"pkg:pypi/tronsev"},"versions":["0.0.1"]}]}

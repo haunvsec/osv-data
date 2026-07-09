@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7013","published":"2026-07-08T17:28:48Z","modified":"2026-07-08T18:46:46.026851699Z","summary":"Malicious code in next-locomotive-init (npm)","affected":[{"package":{"name":"next-locomotive-init","ecosystem":"npm","purl":"pkg:npm/next-locomotive-init"},"versions":["1.0.4","1.0.3"]}]}

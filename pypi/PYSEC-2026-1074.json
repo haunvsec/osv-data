@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"PYSEC-2026-1074","published":"2026-07-07T16:19:27Z","modified":"2026-07-07T17:00:05.679946710Z","aliases":["MAL-2026-5325"],"summary":"Malicious code in ray-mcp-server (PyPI)","affected":[{"package":{"name":"ray-mcp-server","ecosystem":"PyPI","purl":"pkg:pypi/ray-mcp-server"},"versions":["0.2.1"]}]}

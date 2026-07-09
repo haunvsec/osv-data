@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2026-6758","published":"2026-07-04T18:05:11Z","modified":"2026-07-04T18:30:56.703580897Z","summary":"Malicious code in httpprobe (PyPI)","affected":[{"package":{"name":"httpprobe","ecosystem":"PyPI","purl":"pkg:pypi/httpprobe"},"versions":["1.0.0"]}]}
+{"schema_version":"1.7.5","id":"MAL-2026-6758","published":"2026-07-04T18:05:11Z","modified":"2026-07-08T21:46:54.948813645Z","summary":"Malicious code in httpprobe (PyPI)","affected":[{"package":{"name":"httpprobe","ecosystem":"PyPI","purl":"pkg:pypi/httpprobe"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"PYSEC-2026-1069","published":"2026-07-07T16:00:54Z","modified":"2026-07-07T17:00:05.913596243Z","aliases":["MAL-2026-5317"],"summary":"Malicious code in instructor-mcp (PyPI)","affected":[{"package":{"name":"instructor-mcp","ecosystem":"PyPI","purl":"pkg:pypi/instructor-mcp"},"versions":["1.15.2","1.15.3"]}]}

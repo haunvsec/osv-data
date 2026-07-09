@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7015","published":"2026-07-08T16:50:17Z","modified":"2026-07-08T17:46:44.703276889Z","summary":"Malicious code in turbom (PyPI)","affected":[{"package":{"name":"turbom","ecosystem":"PyPI","purl":"pkg:pypi/turbom"},"versions":["1.0.0","1.0.1"]}]}

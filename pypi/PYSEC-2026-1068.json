@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"PYSEC-2026-1068","published":"2026-07-07T15:36:51Z","modified":"2026-07-07T17:00:05.841822706Z","aliases":["MAL-2026-5313"],"summary":"Malicious code in dreamgen (PyPI)","affected":[{"package":{"name":"dreamgen","ecosystem":"PyPI","purl":"pkg:pypi/dreamgen"},"versions":["1.8.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6979","published":"2026-07-08T13:32:30Z","modified":"2026-07-08T14:30:56.679410279Z","summary":"Malicious code in turbod (PyPI)","affected":[{"package":{"name":"turbod","ecosystem":"PyPI","purl":"pkg:pypi/turbod"},"versions":["1.0.0","1.0.1","1.0.2","1.0.3","1.0.4","1.0.5","1.0.6","1.0.7"]}]}

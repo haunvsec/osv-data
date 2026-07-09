@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6952","published":"2026-07-07T16:19:42Z","modified":"2026-07-08T23:01:56.394844336Z","aliases":["GHSA-pjv5-35wr-prrm"],"summary":"Malicious code in whs4_npm_test (npm)","affected":[{"package":{"name":"whs4_npm_test","ecosystem":"npm","purl":"pkg:npm/whs4_npm_test"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

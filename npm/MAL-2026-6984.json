@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6984","published":"2026-07-08T15:04:55Z","modified":"2026-07-08T16:01:38.244518206Z","aliases":["GHSA-p85w-qq28-35h6"],"summary":"Malicious code in @vite-ln/build-ts (npm)","affected":[{"package":{"name":"@vite-ln/build-ts","ecosystem":"npm","purl":"pkg:npm/%40vite-ln/build-ts"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

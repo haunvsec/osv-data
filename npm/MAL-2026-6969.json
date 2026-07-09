@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6969","published":"2026-07-08T08:21:06Z","modified":"2026-07-08T21:46:52.878455882Z","aliases":["GHSA-3f72-wf55-pqjc"],"summary":"Malicious code in vite-json-pwa (npm)","affected":[{"package":{"name":"vite-json-pwa","ecosystem":"npm","purl":"pkg:npm/vite-json-pwa"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

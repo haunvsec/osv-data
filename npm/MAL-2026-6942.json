@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6942","published":"2026-07-07T15:34:02Z","modified":"2026-07-08T17:16:52.668044894Z","aliases":["GHSA-wcc7-m55m-mh57"],"summary":"Malicious code in some-theme (npm)","affected":[{"package":{"name":"some-theme","ecosystem":"npm","purl":"pkg:npm/some-theme"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6990","published":"2026-07-08T16:21:20Z","modified":"2026-07-08T17:16:44.908121823Z","summary":"Malicious code in ai-gen-ai-opt-in (npm)","affected":[{"package":{"name":"ai-gen-ai-opt-in","ecosystem":"npm","purl":"pkg:npm/ai-gen-ai-opt-in"},"versions":["99.0.0"]}]}

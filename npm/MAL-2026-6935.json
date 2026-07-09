@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6935","published":"2026-07-07T15:34:03Z","modified":"2026-07-08T17:16:47.615356091Z","aliases":["GHSA-6mpp-f748-7f4q"],"summary":"Malicious code in load-nuxt-dev (npm)","affected":[{"package":{"name":"load-nuxt-dev","ecosystem":"npm","purl":"pkg:npm/load-nuxt-dev"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

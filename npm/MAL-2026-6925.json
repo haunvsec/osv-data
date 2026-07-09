@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6925","published":"2026-07-07T15:06:09Z","modified":"2026-07-08T23:46:59.514005954Z","aliases":["GHSA-rff8-755c-wqvw"],"summary":"Malicious code in typescript-base58 (npm)","affected":[{"package":{"name":"typescript-base58","ecosystem":"npm","purl":"pkg:npm/typescript-base58"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

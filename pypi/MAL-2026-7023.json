@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7023","published":"2026-07-08T21:19:06Z","modified":"2026-07-08T21:46:53.038522712Z","summary":"Malicious code in dbzy-tools (PyPI)","affected":[{"package":{"name":"dbzy-tools","ecosystem":"PyPI","purl":"pkg:pypi/dbzy-tools"},"versions":["1.0.1"]}]}

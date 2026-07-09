@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6997","published":"2026-07-08T16:27:50Z","modified":"2026-07-08T17:16:46.509436110Z","summary":"Malicious code in goofy-sdk (npm)","affected":[{"package":{"name":"goofy-sdk","ecosystem":"npm","purl":"pkg:npm/goofy-sdk"},"versions":["9999.0.0"]}]}

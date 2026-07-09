@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6941","published":"2026-07-07T15:34:02Z","modified":"2026-07-08T17:16:52.180702380Z","aliases":["GHSA-fgr2-2c8j-mp2x"],"summary":"Malicious code in shopify-internel (npm)","affected":[{"package":{"name":"shopify-internel","ecosystem":"npm","purl":"pkg:npm/shopify-internel"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

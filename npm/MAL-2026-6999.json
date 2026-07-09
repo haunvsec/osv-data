@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6999","published":"2026-07-08T16:36:07Z","modified":"2026-07-08T17:16:47.639275340Z","summary":"Malicious code in luludawang-kit (npm)","affected":[{"package":{"name":"luludawang-kit","ecosystem":"npm","purl":"pkg:npm/luludawang-kit"},"versions":["0.0.1"]}]}

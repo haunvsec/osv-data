@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6975","published":"2026-07-08T11:54:08Z","modified":"2026-07-08T13:15:55.362218736Z","summary":"Malicious code in oxntime (PyPI)","affected":[{"package":{"name":"oxntime","ecosystem":"PyPI","purl":"pkg:pypi/oxntime"},"versions":["0.0.1","0.0.1.post1","0.0.2","0.0.3"]}]}

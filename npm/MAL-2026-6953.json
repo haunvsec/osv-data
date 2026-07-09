@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6953","published":"2026-07-07T16:19:41Z","modified":"2026-07-07T17:16:47.734418860Z","aliases":["GHSA-23v6-j5g5-7x9p"],"summary":"Malicious code in whs4_pnm (npm)","affected":[{"package":{"name":"whs4_pnm","ecosystem":"npm","purl":"pkg:npm/whs4_pnm"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

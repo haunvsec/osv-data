@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6987","published":"2026-07-08T16:27:42Z","modified":"2026-07-08T17:16:50.343406805Z","summary":"Malicious code in @luminarycloudinternal/lcvis-st (npm)","affected":[{"package":{"name":"@luminarycloudinternal/lcvis-st","ecosystem":"npm","purl":"pkg:npm/%40luminarycloudinternal/lcvis-st"},"versions":["9999.0.1","9999.0.2"]}]}

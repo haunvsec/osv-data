@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6963","published":"2026-07-08T08:26:02Z","modified":"2026-07-08T09:16:41.394314473Z","aliases":["GHSA-qfm3-6pmh-jr8j"],"summary":"Malicious code in karem-dp (npm)","affected":[{"package":{"name":"karem-dp","ecosystem":"npm","purl":"pkg:npm/karem-dp"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

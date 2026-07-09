@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2026-5335","published":"2026-06-08T21:41:16Z","modified":"2026-06-08T22:15:46.530729947Z","summary":"Malicious code in xfoobar (PyPI)","affected":[{"package":{"name":"xfoobar","ecosystem":"PyPI","purl":"pkg:pypi/xfoobar"},"versions":["0.0.5"]}]}
+{"schema_version":"1.7.5","id":"MAL-2026-5335","published":"2026-06-08T21:41:16Z","modified":"2026-07-08T20:47:15.649475200Z","summary":"Malicious code in xfoobar (PyPI)","affected":[{"package":{"name":"xfoobar","ecosystem":"PyPI","purl":"pkg:pypi/xfoobar"},"versions":["0.0.5"]}]}

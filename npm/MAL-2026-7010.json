@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7010","published":"2026-07-08T17:31:26Z","modified":"2026-07-08T21:46:51.343362205Z","summary":"Malicious code in crypto-promiser (npm)","affected":[{"package":{"name":"crypto-promiser","ecosystem":"npm","purl":"pkg:npm/crypto-promiser"},"versions":["1.0.1","1.0.2"]}]}

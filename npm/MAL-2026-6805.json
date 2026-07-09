@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6805","published":"2026-07-06T18:51:16Z","modified":"2026-07-06T19:01:43.199047243Z","aliases":["GHSA-r34w-457x-jvh6"],"summary":"Malicious code in bn-eslint.js (npm)","affected":[{"package":{"name":"bn-eslint.js","ecosystem":"npm","purl":"pkg:npm/bn-eslint.js"},"versions":["8.0.5"]}]}

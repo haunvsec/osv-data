@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7006","published":"2026-07-08T16:05:51Z","modified":"2026-07-08T17:16:54.829390888Z","summary":"Malicious code in manik (PyPI)","affected":[{"package":{"name":"manik","ecosystem":"PyPI","purl":"pkg:pypi/manik"},"versions":["1.2.1"]}]}

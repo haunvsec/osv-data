@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"PYSEC-2026-1075","published":"2026-07-07T16:26:46Z","modified":"2026-07-07T17:00:05.698089145Z","aliases":["MAL-2026-5326"],"summary":"Malicious code in tiktoken-mcp (PyPI)","affected":[{"package":{"name":"tiktoken-mcp","ecosystem":"PyPI","purl":"pkg:pypi/tiktoken-mcp"},"versions":["0.13.1","0.13.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6951","published":"2026-07-07T16:19:41Z","modified":"2026-07-08T23:01:56.379990874Z","aliases":["GHSA-3wm9-8rfp-wp25"],"summary":"Malicious code in whs4_npm (npm)","affected":[{"package":{"name":"whs4_npm","ecosystem":"npm","purl":"pkg:npm/whs4_npm"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

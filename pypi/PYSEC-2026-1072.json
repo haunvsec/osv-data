@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"PYSEC-2026-1072","published":"2026-07-07T16:12:30Z","modified":"2026-07-07T17:00:05.716498237Z","aliases":["MAL-2026-5320"],"summary":"Malicious code in openai-mcp (PyPI)","affected":[{"package":{"name":"openai-mcp","ecosystem":"PyPI","purl":"pkg:pypi/openai-mcp"},"versions":["2.41.1","2.41.2"]}]}

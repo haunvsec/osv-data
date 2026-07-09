@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6934","published":"2026-07-07T15:34:03Z","modified":"2026-07-08T17:16:47.554790227Z","aliases":["GHSA-qqp7-wmv2-mp34"],"summary":"Malicious code in load-nuxt (npm)","affected":[{"package":{"name":"load-nuxt","ecosystem":"npm","purl":"pkg:npm/load-nuxt"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

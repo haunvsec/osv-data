@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6920","published":"2026-07-07T15:06:09Z","modified":"2026-07-08T23:01:48.475981819Z","aliases":["GHSA-frf3-wxv2-p559"],"summary":"Malicious code in crypto-base58 (npm)","affected":[{"package":{"name":"crypto-base58","ecosystem":"npm","purl":"pkg:npm/crypto-base58"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

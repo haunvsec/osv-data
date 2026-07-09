@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6976","published":"2026-07-08T12:05:04Z","modified":"2026-07-08T13:15:55.357474174Z","summary":"Malicious code in py-slugify (PyPI)","affected":[{"package":{"name":"py-slugify","ecosystem":"PyPI","purl":"pkg:pypi/py-slugify"},"versions":["0.8.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7014","published":"2026-07-08T17:31:07Z","modified":"2026-07-08T17:46:44.688463009Z","summary":"Malicious code in vps-new-manager (npm)","affected":[{"package":{"name":"vps-new-manager","ecosystem":"npm","purl":"pkg:npm/vps-new-manager"},"versions":["0.1.4"]}]}

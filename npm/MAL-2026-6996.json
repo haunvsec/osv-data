@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6996","published":"2026-07-08T16:35:42Z","modified":"2026-07-08T17:16:46.293719049Z","summary":"Malicious code in ec-checker (npm)","affected":[{"package":{"name":"ec-checker","ecosystem":"npm","purl":"pkg:npm/ec-checker"},"versions":["0.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6982","published":"2026-07-08T14:30:54Z","modified":"2026-07-08T15:31:45.279455105Z","summary":"Malicious code in paysafe-cards (npm)","affected":[{"package":{"name":"paysafe-cards","ecosystem":"npm","purl":"pkg:npm/paysafe-cards"},"versions":["1.0.0"]}]}

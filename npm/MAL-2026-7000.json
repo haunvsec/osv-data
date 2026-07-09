@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7000","published":"2026-07-08T16:27:59Z","modified":"2026-07-08T17:16:48.942758287Z","summary":"Malicious code in pipo-sdk (npm)","affected":[{"package":{"name":"pipo-sdk","ecosystem":"npm","purl":"pkg:npm/pipo-sdk"},"versions":["9999.0.0"]}]}

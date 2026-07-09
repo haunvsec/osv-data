@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7020","published":"2026-07-08T19:30:12Z","modified":"2026-07-08T19:46:48.871795291Z","summary":"Malicious code in react-v17 (npm)","affected":[{"package":{"name":"react-v17","ecosystem":"npm","purl":"pkg:npm/react-v17"},"versions":["20.0.1"]}]}

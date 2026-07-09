@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7003","published":"2026-07-08T16:27:26Z","modified":"2026-07-08T17:16:52.069618778Z","summary":"Malicious code in searchresults (npm)","affected":[{"package":{"name":"searchresults","ecosystem":"npm","purl":"pkg:npm/searchresults"},"versions":["999.0.0"]}]}

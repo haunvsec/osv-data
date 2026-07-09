@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6940","published":"2026-07-07T15:34:02Z","modified":"2026-07-08T17:16:51.318554800Z","aliases":["GHSA-q28c-5m68-92hm"],"summary":"Malicious code in rnx-align-deps (npm)","affected":[{"package":{"name":"rnx-align-deps","ecosystem":"npm","purl":"pkg:npm/rnx-align-deps"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

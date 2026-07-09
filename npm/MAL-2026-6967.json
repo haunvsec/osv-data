@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6967","published":"2026-07-08T08:26:02Z","modified":"2026-07-08T17:16:47.867734491Z","aliases":["GHSA-qq66-gj73-6pqm"],"summary":"Malicious code in nam-os-a-man (npm)","affected":[{"package":{"name":"nam-os-a-man","ecosystem":"npm","purl":"pkg:npm/nam-os-a-man"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

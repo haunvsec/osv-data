@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6998","published":"2026-07-08T16:24:36Z","modified":"2026-07-08T17:16:46.579851Z","summary":"Malicious code in higherlogic-ocfe (npm)","affected":[{"package":{"name":"higherlogic-ocfe","ecosystem":"npm","purl":"pkg:npm/higherlogic-ocfe"},"versions":["99.9.1"]}]}

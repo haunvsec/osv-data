@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6977","published":"2026-07-08T12:02:26Z","modified":"2026-07-08T13:15:55.314184791Z","summary":"Malicious code in rarcore (PyPI)","affected":[{"package":{"name":"rarcore","ecosystem":"PyPI","purl":"pkg:pypi/rarcore"},"versions":["0.1.1","0.1.2"]}]}

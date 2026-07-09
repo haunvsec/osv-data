@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6974","published":"2026-07-08T09:23:29Z","modified":"2026-07-08T10:31:51.631823760Z","summary":"Malicious code in tronhapy (PyPI)","affected":[{"package":{"name":"tronhapy","ecosystem":"PyPI","purl":"pkg:pypi/tronhapy"},"versions":["0.0.1"]}]}

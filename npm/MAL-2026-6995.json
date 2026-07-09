@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6995","published":"2026-07-08T16:35:33Z","modified":"2026-07-08T17:16:46.198311613Z","summary":"Malicious code in chai-redirection (npm)","affected":[{"package":{"name":"chai-redirection","ecosystem":"npm","purl":"pkg:npm/chai-redirection"},"versions":["0.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6988","published":"2026-07-08T16:58:42Z","modified":"2026-07-08T17:16:50.955874035Z","summary":"Malicious code in @vite-tab/tab (npm)","affected":[{"package":{"name":"@vite-tab/tab","ecosystem":"npm","purl":"pkg:npm/%40vite-tab/tab"},"versions":["5.7.0","3.15.10"]}]}

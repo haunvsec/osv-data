@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7009","published":"2026-07-08T17:29:21Z","modified":"2026-07-08T17:46:45.035561518Z","summary":"Malicious code in configration (npm)","affected":[{"package":{"name":"configration","ecosystem":"npm","purl":"pkg:npm/configration"},"versions":["2.3.5"]}]}

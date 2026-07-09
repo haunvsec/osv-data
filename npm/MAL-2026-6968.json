@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6968","published":"2026-07-08T08:26:02Z","modified":"2026-07-08T17:16:51.966435355Z","aliases":["GHSA-7p38-gfgq-g3f3"],"summary":"Malicious code in rony-testing (npm)","affected":[{"package":{"name":"rony-testing","ecosystem":"npm","purl":"pkg:npm/rony-testing"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6926","published":"2026-07-07T15:21:28Z","modified":"2026-07-08T21:46:53.132928371Z","summary":"Malicious code in paysafe-api (PyPI)","affected":[{"package":{"name":"paysafe-api","ecosystem":"PyPI","purl":"pkg:pypi/paysafe-api"},"versions":["1.0.0"]}]}

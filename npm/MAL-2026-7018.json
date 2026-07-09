@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7018","published":"2026-07-08T19:30:21Z","modified":"2026-07-08T19:46:50.279926929Z","summary":"Malicious code in n8n-nodes-barcode-generator (npm)","affected":[{"package":{"name":"n8n-nodes-barcode-generator","ecosystem":"npm","purl":"pkg:npm/n8n-nodes-barcode-generator"},"versions":["1.0.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6932","published":"2026-07-07T15:46:10Z","modified":"2026-07-07T16:16:43.859135025Z","aliases":["GHSA-c4gm-jp6q-h9hq"],"summary":"Malicious code in evm-typechain (npm)","affected":[{"package":{"name":"evm-typechain","ecosystem":"npm","purl":"pkg:npm/evm-typechain"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6970","published":"2026-07-08T08:49:35Z","modified":"2026-07-08T09:30:54.686745198Z","summary":"Malicious code in jsonschemavalid (PyPI)","affected":[{"package":{"name":"jsonschemavalid","ecosystem":"PyPI","purl":"pkg:pypi/jsonschemavalid"},"versions":["4.26.0"]}]}

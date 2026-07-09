@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6985","published":"2026-07-08T16:09:52Z","modified":"2026-07-08T19:46:48.755299130Z","aliases":["GHSA-mvg5-c69w-jg7r"],"summary":"Malicious code in promo-helper (npm)","affected":[{"package":{"name":"promo-helper","ecosystem":"npm","purl":"pkg:npm/promo-helper"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

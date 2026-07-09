@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6939","published":"2026-07-07T16:07:02Z","modified":"2026-07-07T16:16:42.467910942Z","aliases":["GHSA-r7mv-rcm7-x7m3"],"summary":"Malicious code in polytrade (npm)","affected":[{"package":{"name":"polytrade","ecosystem":"npm","purl":"pkg:npm/polytrade"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

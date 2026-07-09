@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2026-5260","published":"2026-06-05T00:53:43Z","modified":"2026-06-05T06:16:44.038002878Z","summary":"Malicious code in mountly (npm)","affected":[{"package":{"name":"mountly","ecosystem":"npm","purl":"pkg:npm/mountly"},"versions":["0.2.2"]}]}
+{"schema_version":"1.7.5","id":"MAL-2026-5260","published":"2026-06-05T00:53:43Z","modified":"2026-07-08T23:01:53.865574258Z","summary":"Malicious code in mountly (npm)","affected":[{"package":{"name":"mountly","ecosystem":"npm","purl":"pkg:npm/mountly"},"versions":["0.2.2"]}]}

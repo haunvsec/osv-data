@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7005","published":"2026-07-08T16:24:09Z","modified":"2026-07-08T17:16:53.650412776Z","summary":"Malicious code in visa-cli-tools (npm)","affected":[{"package":{"name":"visa-cli-tools","ecosystem":"npm","purl":"pkg:npm/visa-cli-tools"},"versions":["99.9.1"]}]}

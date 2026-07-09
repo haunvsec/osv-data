@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7024","published":"2026-07-08T21:41:49Z","modified":"2026-07-08T22:01:51.384923453Z","summary":"Malicious code in none123s (npm)","affected":[{"package":{"name":"none123s","ecosystem":"npm","purl":"pkg:npm/none123s"},"versions":["0.1.7"]}]}

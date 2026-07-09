@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6994","published":"2026-07-08T16:35:25Z","modified":"2026-07-08T17:16:46.127871595Z","summary":"Malicious code in chai-presentation (npm)","affected":[{"package":{"name":"chai-presentation","ecosystem":"npm","purl":"pkg:npm/chai-presentation"},"versions":["0.0.1"]}]}

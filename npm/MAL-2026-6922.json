@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6922","published":"2026-07-07T13:59:38Z","modified":"2026-07-08T21:46:51.539527483Z","aliases":["GHSA-cfv7-74pc-vmff"],"summary":"Malicious code in mcp-server-pg (npm)","affected":[{"package":{"name":"mcp-server-pg","ecosystem":"npm","purl":"pkg:npm/mcp-server-pg"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

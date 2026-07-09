@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7001","published":"2026-07-08T16:24:55Z","modified":"2026-07-08T17:16:51.744622755Z","summary":"Malicious code in rony-test (npm)","affected":[{"package":{"name":"rony-test","ecosystem":"npm","purl":"pkg:npm/rony-test"},"versions":["99.9.9"]}]}

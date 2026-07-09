@@ -1,6 +1,6 @@
 {
-  "last_crawl_time": "2026-07-07T09:56:21Z",
-  "last_attempt_time": "2026-07-07T09:56:21Z",
+  "last_crawl_time": "2026-07-09T08:42:47Z",
+  "last_attempt_time": "2026-07-09T10:49:55Z",
   "source": "osv-vulnerabilities-gcs",
   "source_url": "https://storage.googleapis.com/osv-vulnerabilities",
   "method": "incremental",
@@ -11,78 +11,84 @@
     "redhat"
   ],
   "ecosystem_counts": {
-    "maven": 6771,
-    "npm": 222041,
-    "pypi": 21418,
-    "redhat": 20982
+    "maven": 6782,
+    "npm": 222150,
+    "pypi": 22776,
+    "redhat": 21062
   },
-  "total_vulnerabilities": 271212,
+  "total_vulnerabilities": 272770,
   "ecosystem_state": {
     "maven": {
-      "last_attempt_time": "2026-07-07T09:54:23Z",
+      "last_attempt_time": "2026-07-09T07:56:56Z",
       "last_method": "incremental",
-      "last_downloaded": 4,
+      "last_downloaded": 218,
       "last_skipped": 0,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-07-07T09:54:23Z",
-      "last_modified_time": "2026-07-06T22:00:09.031268837Z"
+      "last_successful_crawl_time": "2026-07-09T07:56:56Z",
+      "last_modified_time": "2026-07-08T21:15:19.155045753Z"
     },
     "npm": {
-      "last_attempt_time": "2026-07-07T09:56:03Z",
+      "last_attempt_time": "2026-07-09T08:09:54Z",
       "last_method": "incremental",
-      "last_downloaded": 182,
-      "last_skipped": 1,
+      "last_downloaded": 936,
+      "last_skipped": 157,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-07-07T09:56:03Z",
-      "last_modified_time": "2026-07-06T15:30:15.791721069Z"
+      "last_successful_crawl_time": "2026-07-09T08:09:54Z",
+      "last_modified_time": "2026-07-09T05:15:08.591063132Z"
     },
     "pypi": {
-      "last_attempt_time": "2026-07-07T09:56:21Z",
+      "last_attempt_time": "2026-07-09T08:42:47Z",
       "last_method": "incremental",
-      "last_downloaded": 16,
+      "last_downloaded": 3140,
       "last_skipped": 0,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-07-07T09:56:21Z",
-      "last_modified_time": "2026-07-07T05:15:08.875192626Z"
+      "last_successful_crawl_time": "2026-07-09T08:42:47Z",
+      "last_modified_time": "2026-07-09T05:15:08.694008274Z"
     },
     "redhat": {
-      "last_attempt_time": "2026-07-06T16:15:39Z",
+      "last_attempt_time": "2026-07-09T10:49:55Z",
       "last_method": "incremental",
       "last_downloaded": 0,
       "last_skipped": 0,
       "last_indexed": 0,
       "last_successful_crawl_time": "2026-06-08T12:04:41Z",
       "last_modified_time": "2026-06-08T10:29:21.513685508Z",
-      "last_error": "HTTPSConnectionPool(host='storage.googleapis.com', port=443): Max retries exceeded with url: /osv-vulnerabilities/Red%20Hat/modified_id.csv (Caused by NameResolutionError(\"HTTPSConnection(host='storage.googleapis.com', port=443): Failed to resolve 'storage.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "last_error": "Red Hat: aborting incremental after 25 consecutive download failures"
     }
   },
   "last_run": {
-    "started_at": "2026-07-07T09:56:03Z",
+    "started_at": "2026-07-09T08:42:47Z",
     "output_dir": "/Volumes/DATA/security_advisory/osv-data",
     "method": "incremental",
     "ecosystems": [
-      "pypi"
+      "redhat"
     ],
     "ecosystem_results": [
       {
-        "ecosystem": "pypi",
+        "ecosystem": "redhat",
         "method": "incremental",
-        "downloaded": 16,
+        "downloaded": 0,
         "skipped": 0,
         "indexed": 0,
         "existing": 0,
-        "latest_modified_time": "2026-07-07T05:15:08.875192626Z",
-        "success": true
+        "latest_modified_time": null,
+        "success": false,
+        "error": "Red Hat: aborting incremental after 25 consecutive download failures"
       }
     ],
-    "vulns_downloaded": 16,
-    "vulns_skipped": 0,
-    "errors": [],
+    "vulns_downloaded": 0,
+    "vulns_skipped": 1,
+    "errors": [
+      {
+        "ecosystem": "redhat",
+        "error": "Red Hat: aborting incremental after 25 consecutive download failures"
+      }
+    ],
     "dry_run": false,
     "limit": null,
     "sync_missing": false,
     "missing_only": false,
-    "finished_at": "2026-07-07T09:56:21Z",
-    "duration_seconds": 17.76
+    "finished_at": "2026-07-09T10:49:55Z",
+    "duration_seconds": 7628.09
   }
 }

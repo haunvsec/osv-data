@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-6955","published":"2026-07-07T20:17:56Z","modified":"2026-07-07T21:16:44.328555425Z","summary":"Malicious code in hello244b (npm)","affected":[{"package":{"name":"hello244b","ecosystem":"npm","purl":"pkg:npm/hello244b"},"versions":["1.0.0"]}]}
