@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10217","published":"2026-07-13T01:19:16Z","modified":"2026-07-13T02:01:47.765468560Z","aliases":["GHSA-9gr8-wg29-9wvv"],"summary":"Malicious code in dotnet-runtime-base (npm)","affected":[{"package":{"name":"dotnet-runtime-base","ecosystem":"npm","purl":"pkg:npm/dotnet-runtime-base"},"versions":["1.0.5","1.0.4"]}]}

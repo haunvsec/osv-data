@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10174","published":"2026-07-10T18:35:43Z","modified":"2026-07-10T21:01:53.626818239Z","aliases":["GHSA-w8g3-2xjv-6vf6"],"summary":"Malicious code in type-atob (npm)","affected":[{"package":{"name":"type-atob","ecosystem":"npm","purl":"pkg:npm/type-atob"},"versions":["3.3.7"]}]}

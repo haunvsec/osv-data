@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7059","published":"2026-07-07T12:19:10Z","modified":"2026-07-09T09:31:55.984456534Z","summary":"Malicious code in @cashback/how-it-works-widget (npm)","affected":[{"package":{"name":"@cashback/how-it-works-widget","ecosystem":"npm","purl":"pkg:npm/%40cashback/how-it-works-widget"},"versions":["99.9.9"]}]}

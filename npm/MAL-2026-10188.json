@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10188","published":"2026-07-11T23:21:03Z","modified":"2026-07-12T00:01:51.998262995Z","summary":"Malicious code in awesome-ts-jest (npm)","affected":[{"package":{"name":"awesome-ts-jest","ecosystem":"npm","purl":"pkg:npm/awesome-ts-jest"},"versions":["29.4.12"]}]}

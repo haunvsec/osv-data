@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7070","published":"2026-07-07T12:23:23Z","modified":"2026-07-09T09:32:00.380041159Z","summary":"Malicious code in @frontembed/testtest (npm)","affected":[{"package":{"name":"@frontembed/testtest","ecosystem":"npm","purl":"pkg:npm/%40frontembed/testtest"},"versions":["99.99.100"]}]}

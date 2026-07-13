@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7054","published":"2026-07-07T12:18:55Z","modified":"2026-07-09T09:31:54.869867048Z","summary":"Malicious code in @bmg-web/bmg-snackbar (npm)","affected":[{"package":{"name":"@bmg-web/bmg-snackbar","ecosystem":"npm","purl":"pkg:npm/%40bmg-web/bmg-snackbar"},"versions":["999.9.9","999.9999.99"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7082","published":"2026-07-07T12:25:35Z","modified":"2026-07-09T09:32:04.074085849Z","summary":"Malicious code in @lovenight/voice (npm)","affected":[{"package":{"name":"@lovenight/voice","ecosystem":"npm","purl":"pkg:npm/%40lovenight/voice"},"versions":["1.0.1","1.0.2","1.0.3","1.0.4","1.0.5"]}]}

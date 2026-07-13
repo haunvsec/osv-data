@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7423","published":"2026-07-07T13:11:52Z","modified":"2026-07-09T09:33:12.566726346Z","summary":"Malicious code in stellar-stablecoin-scripts (npm)","affected":[{"package":{"name":"stellar-stablecoin-scripts","ecosystem":"npm","purl":"pkg:npm/stellar-stablecoin-scripts"},"versions":["99.1.0"]}]}

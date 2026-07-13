@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7264","published":"2026-07-07T12:48:23Z","modified":"2026-07-09T09:32:40.119221713Z","summary":"Malicious code in elf-stats-holly-bauble-986 (npm)","affected":[{"package":{"name":"elf-stats-holly-bauble-986","ecosystem":"npm","purl":"pkg:npm/elf-stats-holly-bauble-986"},"versions":["1.0.0"]}]}

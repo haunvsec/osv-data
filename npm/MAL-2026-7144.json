@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7144","published":"2026-07-07T12:36:52Z","modified":"2026-07-09T09:32:17.547407263Z","summary":"Malicious code in angulargs (npm)","affected":[{"package":{"name":"angulargs","ecosystem":"npm","purl":"pkg:npm/angulargs"},"versions":["1.1.4","8.7.6"]}]}

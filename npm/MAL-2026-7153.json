@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7153","published":"2026-07-07T12:37:07Z","modified":"2026-07-09T09:32:18.617623615Z","summary":"Malicious code in angularus (npm)","affected":[{"package":{"name":"angularus","ecosystem":"npm","purl":"pkg:npm/angularus"},"versions":["8.7.6"]}]}

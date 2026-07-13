@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7310","published":"2026-07-07T12:57:08Z","modified":"2026-07-09T09:32:50.097350380Z","summary":"Malicious code in latency-tracking-internal (npm)","affected":[{"package":{"name":"latency-tracking-internal","ecosystem":"npm","purl":"pkg:npm/latency-tracking-internal"},"versions":["99.9.0"]}]}

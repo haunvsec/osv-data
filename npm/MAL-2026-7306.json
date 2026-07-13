@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7306","published":"2026-07-07T12:56:38Z","modified":"2026-07-09T09:32:49.776265497Z","summary":"Malicious code in jwt-path (npm)","affected":[{"package":{"name":"jwt-path","ecosystem":"npm","purl":"pkg:npm/jwt-path"},"versions":["3.1.3"]}]}

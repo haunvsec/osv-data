@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7334","published":"2026-07-07T13:03:05Z","modified":"2026-07-09T09:32:57.536932311Z","summary":"Malicious code in outer-package (npm)","affected":[{"package":{"name":"outer-package","ecosystem":"npm","purl":"pkg:npm/outer-package"},"versions":["1.0.0"]}]}

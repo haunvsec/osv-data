@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10203","published":"2026-07-12T20:47:05Z","modified":"2026-07-12T21:01:53.336612881Z","summary":"Malicious code in giantswarm (npm)","affected":[{"package":{"name":"giantswarm","ecosystem":"npm","purl":"pkg:npm/giantswarm"},"versions":["22.0.1"]}]}

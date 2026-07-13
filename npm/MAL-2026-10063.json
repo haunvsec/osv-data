@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10063","published":"2026-07-09T15:55:17Z","modified":"2026-07-09T21:16:56.297066139Z","summary":"Malicious code in express-router-engine (npm)","affected":[{"package":{"name":"express-router-engine","ecosystem":"npm","purl":"pkg:npm/express-router-engine"},"versions":["3.6.5","3.6.6","3.6.7","3.6.8"]}]}

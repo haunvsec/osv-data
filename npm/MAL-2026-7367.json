@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7367","published":"2026-07-07T13:07:36Z","modified":"2026-07-09T09:33:04.661448349Z","summary":"Malicious code in react-tiny-popover-next (npm)","affected":[{"package":{"name":"react-tiny-popover-next","ecosystem":"npm","purl":"pkg:npm/react-tiny-popover-next"},"versions":["93.98.5"]}]}

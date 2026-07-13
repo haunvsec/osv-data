@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10086","published":"2026-07-09T17:03:02Z","modified":"2026-07-09T17:31:53.943647002Z","summary":"Malicious code in dl-pp-latm (npm)","affected":[{"package":{"name":"dl-pp-latm","ecosystem":"npm","purl":"pkg:npm/dl-pp-latm"},"versions":["80.4.2"]}]}

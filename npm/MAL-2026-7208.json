@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7208","published":"2026-07-07T12:39:20Z","modified":"2026-07-09T09:32:26.466292661Z","summary":"Malicious code in apple-mycelium-internal-research (npm)","affected":[{"package":{"name":"apple-mycelium-internal-research","ecosystem":"npm","purl":"pkg:npm/apple-mycelium-internal-research"},"versions":["99.9.11"]}]}

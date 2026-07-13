@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7426","published":"2026-07-07T13:12:20Z","modified":"2026-07-09T09:33:12.892217404Z","summary":"Malicious code in suit-base (npm)","affected":[{"package":{"name":"suit-base","ecosystem":"npm","purl":"pkg:npm/suit-base"},"versions":["45.0.0"]}]}

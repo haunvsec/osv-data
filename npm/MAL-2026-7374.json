@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7374","published":"2026-07-07T13:07:51Z","modified":"2026-07-09T09:33:05.602892494Z","summary":"Malicious code in rearctjs (npm)","affected":[{"package":{"name":"rearctjs","ecosystem":"npm","purl":"pkg:npm/rearctjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10130","published":"2026-07-10T15:17:48Z","modified":"2026-07-10T21:01:53.920123365Z","aliases":["GHSA-8mhh-r4mc-2293"],"summary":"Malicious code in type-plint (npm)","affected":[{"package":{"name":"type-plint","ecosystem":"npm","purl":"pkg:npm/type-plint"},"versions":["3.3.7"]}]}

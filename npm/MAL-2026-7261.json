@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7261","published":"2026-07-07T12:48:22Z","modified":"2026-07-09T09:32:39.703099734Z","summary":"Malicious code in elf-stats-frosty-hammer-191 (npm)","affected":[{"package":{"name":"elf-stats-frosty-hammer-191","ecosystem":"npm","purl":"pkg:npm/elf-stats-frosty-hammer-191"},"versions":["1.0.0"]}]}

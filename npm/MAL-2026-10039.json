@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10039","published":"2026-07-09T15:33:32Z","modified":"2026-07-09T16:31:52.040459046Z","summary":"Malicious code in chai-as-align (npm)","affected":[{"package":{"name":"chai-as-align","ecosystem":"npm","purl":"pkg:npm/chai-as-align"},"versions":["7.1.0"]}]}

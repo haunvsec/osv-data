@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10178","published":"2026-07-10T22:43:23Z","modified":"2026-07-10T23:01:54.273583209Z","summary":"Malicious code in @broadpeak/smartlib-ad (npm)","affected":[{"package":{"name":"@broadpeak/smartlib-ad","ecosystem":"npm","purl":"pkg:npm/%40broadpeak/smartlib-ad"},"versions":["24.1.10"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7404","published":"2026-07-07T13:09:08Z","modified":"2026-07-09T09:33:09.301724409Z","summary":"Malicious code in rngularjs (npm)","affected":[{"package":{"name":"rngularjs","ecosystem":"npm","purl":"pkg:npm/rngularjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

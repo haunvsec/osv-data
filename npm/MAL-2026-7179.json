@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7179","published":"2026-07-07T12:37:50Z","modified":"2026-07-09T09:32:21.564730026Z","summary":"Malicious code in angulsrjs (npm)","affected":[{"package":{"name":"angulsrjs","ecosystem":"npm","purl":"pkg:npm/angulsrjs"},"versions":["8.7.6"]}]}

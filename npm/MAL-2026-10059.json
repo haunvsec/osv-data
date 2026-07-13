@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10059","published":"2026-07-09T16:19:35Z","modified":"2026-07-09T16:31:56.957045440Z","summary":"Malicious code in cookie-parser-es (npm)","affected":[{"package":{"name":"cookie-parser-es","ecosystem":"npm","purl":"pkg:npm/cookie-parser-es"},"versions":["1.0.7"]}]}

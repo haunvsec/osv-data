@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7428","published":"2026-07-07T13:13:50Z","modified":"2026-07-09T09:33:13.953169836Z","summary":"Malicious code in timelycare (npm)","affected":[{"package":{"name":"timelycare","ecosystem":"npm","purl":"pkg:npm/timelycare"},"versions":["1.0.0"]}]}

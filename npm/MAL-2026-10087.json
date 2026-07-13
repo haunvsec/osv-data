@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10087","published":"2026-07-09T16:50:45Z","modified":"2026-07-09T17:31:54.035289641Z","summary":"Malicious code in eslint-plus (npm)","affected":[{"package":{"name":"eslint-plus","ecosystem":"npm","purl":"pkg:npm/eslint-plus"},"versions":["6.0.5","6.0.4"]}]}

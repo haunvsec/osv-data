@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10057","published":"2026-07-09T15:55:10Z","modified":"2026-07-09T16:31:55.359338165Z","summary":"Malicious code in chunk-parser (npm)","affected":[{"package":{"name":"chunk-parser","ecosystem":"npm","purl":"pkg:npm/chunk-parser"},"versions":["1.0.0"]}]}

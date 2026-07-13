@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10118","published":"2026-07-10T12:24:57Z","modified":"2026-07-10T13:16:59.064523417Z","aliases":["GHSA-34gj-pgfv-8qgf"],"summary":"Malicious code in execfences (npm)","affected":[{"package":{"name":"execfences","ecosystem":"npm","purl":"pkg:npm/execfences"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

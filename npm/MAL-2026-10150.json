@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10150","published":"2026-07-10T16:47:46Z","modified":"2026-07-10T17:17:01.880548171Z","summary":"Malicious code in ap3-components-ui (npm)","affected":[{"package":{"name":"ap3-components-ui","ecosystem":"npm","purl":"pkg:npm/ap3-components-ui"},"versions":["9.999.0"]}]}

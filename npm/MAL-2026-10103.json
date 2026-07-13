@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10103","published":"2026-07-09T23:01:55Z","modified":"2026-07-09T23:47:00.720324810Z","summary":"Malicious code in optimize-regex (npm)","affected":[{"package":{"name":"optimize-regex","ecosystem":"npm","purl":"pkg:npm/optimize-regex"},"versions":["1.2.1"]}]}

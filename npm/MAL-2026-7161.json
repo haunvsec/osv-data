@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7161","published":"2026-07-07T12:37:21Z","modified":"2026-07-09T09:32:19.413450027Z","summary":"Malicious code in angulayjs (npm)","affected":[{"package":{"name":"angulayjs","ecosystem":"npm","purl":"pkg:npm/angulayjs"},"versions":["8.7.6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7141","published":"2026-07-07T12:36:51Z","modified":"2026-07-09T09:32:17.184870344Z","summary":"Malicious code in angularbs (npm)","affected":[{"package":{"name":"angularbs","ecosystem":"npm","purl":"pkg:npm/angularbs"},"versions":["8.7.6"]}]}

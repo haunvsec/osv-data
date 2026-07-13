@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7078","published":"2026-07-07T12:24:36Z","modified":"2026-07-09T09:32:02.977024559Z","summary":"Malicious code in @jesusvizcaino2021/app-push-base (npm)","affected":[{"package":{"name":"@jesusvizcaino2021/app-push-base","ecosystem":"npm","purl":"pkg:npm/%40jesusvizcaino2021/app-push-base"},"versions":["99.9.9"]}]}

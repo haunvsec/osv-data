@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7328","published":"2026-07-07T13:01:20Z","modified":"2026-07-09T09:32:55.066140289Z","summary":"Malicious code in notepad-frontend (npm)","affected":[{"package":{"name":"notepad-frontend","ecosystem":"npm","purl":"pkg:npm/notepad-frontend"},"versions":["99.99.99"]}]}

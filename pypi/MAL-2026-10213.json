@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10213","published":"2026-07-12T20:55:04Z","modified":"2026-07-13T00:46:05.261234877Z","summary":"Malicious code in pipspeed (PyPI)","affected":[{"package":{"name":"pipspeed","ecosystem":"PyPI","purl":"pkg:pypi/pipspeed"},"versions":["0.1.0"]}]}

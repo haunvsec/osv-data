@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7248","published":"2026-07-07T12:45:52Z","modified":"2026-07-09T09:32:38.119764196Z","summary":"Malicious code in csec-crypto-utils (npm)","affected":[{"package":{"name":"csec-crypto-utils","ecosystem":"npm","purl":"pkg:npm/csec-crypto-utils"},"versions":["4.2.1"]}]}

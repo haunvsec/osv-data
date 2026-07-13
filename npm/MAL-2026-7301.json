@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7301","published":"2026-07-07T12:55:07Z","modified":"2026-07-09T09:32:47.567773666Z","summary":"Malicious code in ingularjs (npm)","affected":[{"package":{"name":"ingularjs","ecosystem":"npm","purl":"pkg:npm/ingularjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

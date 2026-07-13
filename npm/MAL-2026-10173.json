@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10173","published":"2026-07-10T18:38:15Z","modified":"2026-07-10T19:16:57.783039362Z","summary":"Malicious code in paysafe-vault (npm)","affected":[{"package":{"name":"paysafe-vault","ecosystem":"npm","purl":"pkg:npm/paysafe-vault"},"versions":["1.0.0"]}]}

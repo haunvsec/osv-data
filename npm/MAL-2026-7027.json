@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7027","published":"2026-07-09T05:53:35Z","modified":"2026-07-09T07:31:44.882873874Z","aliases":["GHSA-vwgj-9938-7p8q"],"summary":"Malicious code in @calm2026/imux (npm)","affected":[{"package":{"name":"@calm2026/imux","ecosystem":"npm","purl":"pkg:npm/%40calm2026/imux"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

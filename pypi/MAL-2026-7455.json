@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7455","published":"2026-07-07T11:49:46Z","modified":"2026-07-09T09:33:21.065335111Z","summary":"Malicious code in myproject234 (PyPI)","affected":[{"package":{"name":"myproject234","ecosystem":"PyPI","purl":"pkg:pypi/myproject234"},"versions":["0.1"]}]}

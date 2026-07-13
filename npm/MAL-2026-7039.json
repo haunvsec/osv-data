@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7039","published":"2026-07-07T12:17:24Z","modified":"2026-07-09T09:31:52.311625728Z","summary":"Malicious code in @apps-locations/events (npm)","affected":[{"package":{"name":"@apps-locations/events","ecosystem":"npm","purl":"pkg:npm/%40apps-locations/events"},"versions":["12.11.9"]}]}

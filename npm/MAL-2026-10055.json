@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10055","published":"2026-07-09T15:33:49Z","modified":"2026-07-09T16:31:54.695386952Z","summary":"Malicious code in chain-chai-async (npm)","affected":[{"package":{"name":"chain-chai-async","ecosystem":"npm","purl":"pkg:npm/chain-chai-async"},"versions":["1.3.5"]}]}

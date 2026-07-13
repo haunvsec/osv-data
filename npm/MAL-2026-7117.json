@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7117","published":"2026-07-07T12:36:08Z","modified":"2026-07-09T09:32:14.241843374Z","summary":"Malicious code in anguearjs (npm)","affected":[{"package":{"name":"anguearjs","ecosystem":"npm","purl":"pkg:npm/anguearjs"},"versions":["1.1.4","8.7.6"]}]}

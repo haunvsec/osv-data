@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7076","published":"2026-07-07T12:24:24Z","modified":"2026-07-09T09:32:02.513232783Z","summary":"Malicious code in @indriver-tools/whisperwind (npm)","affected":[{"package":{"name":"@indriver-tools/whisperwind","ecosystem":"npm","purl":"pkg:npm/%40indriver-tools/whisperwind"},"versions":["99.0.0"]}]}

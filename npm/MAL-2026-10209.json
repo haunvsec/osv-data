@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10209","published":"2026-07-12T21:14:39Z","modified":"2026-07-12T21:31:54.059125970Z","summary":"Malicious code in auto-debug-tool (npm)","affected":[{"package":{"name":"auto-debug-tool","ecosystem":"npm","purl":"pkg:npm/auto-debug-tool"},"versions":["1.0.3","1.0.2","1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10017","published":"2026-07-09T11:17:49Z","modified":"2026-07-09T13:31:46.715502068Z","aliases":["GHSA-cpfq-7jvh-rc7w"],"summary":"Malicious code in rabi-snooze-api (npm)","affected":[{"package":{"name":"rabi-snooze-api","ecosystem":"npm","purl":"pkg:npm/rabi-snooze-api"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7283","published":"2026-07-07T12:50:38Z","modified":"2026-07-09T09:32:43.365517321Z","summary":"Malicious code in express-denv (npm)","affected":[{"package":{"name":"express-denv","ecosystem":"npm","purl":"pkg:npm/express-denv"},"versions":["1.3.6"]}]}

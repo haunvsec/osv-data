@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10096","published":"2026-07-09T20:43:04Z","modified":"2026-07-09T21:16:56.629315117Z","summary":"Malicious code in guest-app-ui (npm)","affected":[{"package":{"name":"guest-app-ui","ecosystem":"npm","purl":"pkg:npm/guest-app-ui"},"versions":["99.0.0"]}]}

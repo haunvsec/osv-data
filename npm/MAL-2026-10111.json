@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10111","published":"2026-07-10T02:45:25Z","modified":"2026-07-10T16:32:00.407144294Z","aliases":["GHSA-v7fc-qvp5-6qx3"],"summary":"Malicious code in nodepack-daemon (npm)","affected":[{"package":{"name":"nodepack-daemon","ecosystem":"npm","purl":"pkg:npm/nodepack-daemon"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

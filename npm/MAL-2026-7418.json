@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7418","published":"2026-07-07T13:10:22Z","modified":"2026-07-09T09:33:11.134101662Z","summary":"Malicious code in serverless-twi-testing (npm)","affected":[{"package":{"name":"serverless-twi-testing","ecosystem":"npm","purl":"pkg:npm/serverless-twi-testing"},"versions":["1.0.7"]}]}

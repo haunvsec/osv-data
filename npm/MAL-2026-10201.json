@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10201","published":"2026-07-12T20:45:28Z","modified":"2026-07-12T21:01:54.087620893Z","summary":"Malicious code in bugexploit (npm)","affected":[{"package":{"name":"bugexploit","ecosystem":"npm","purl":"pkg:npm/bugexploit"},"versions":["99.9.9"]}]}

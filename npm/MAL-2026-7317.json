@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7317","published":"2026-07-07T12:58:35Z","modified":"2026-07-09T09:32:51.830923566Z","summary":"Malicious code in manage-subscription-app (npm)","affected":[{"package":{"name":"manage-subscription-app","ecosystem":"npm","purl":"pkg:npm/manage-subscription-app"},"versions":["1.0.0"]}]}

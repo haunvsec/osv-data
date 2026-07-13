@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7265","published":"2026-07-07T12:48:24Z","modified":"2026-07-09T09:32:40.372573164Z","summary":"Malicious code in elf-stats-jolly-saddlebag-184 (npm)","affected":[{"package":{"name":"elf-stats-jolly-saddlebag-184","ecosystem":"npm","purl":"pkg:npm/elf-stats-jolly-saddlebag-184"},"versions":["1.0.0"]}]}

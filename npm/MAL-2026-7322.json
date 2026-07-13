@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7322","published":"2026-07-07T12:59:38Z","modified":"2026-07-09T09:32:53.493074065Z","summary":"Malicious code in motion-ani (npm)","affected":[{"package":{"name":"motion-ani","ecosystem":"npm","purl":"pkg:npm/motion-ani"},"versions":["2.3.5"]}]}

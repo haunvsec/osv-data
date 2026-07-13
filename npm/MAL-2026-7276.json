@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7276","published":"2026-07-07T12:48:50Z","modified":"2026-07-09T09:32:41.597635609Z","summary":"Malicious code in elf-stats-starlit-snowglobe-806 (npm)","affected":[{"package":{"name":"elf-stats-starlit-snowglobe-806","ecosystem":"npm","purl":"pkg:npm/elf-stats-starlit-snowglobe-806"},"versions":["1.0.0"]}]}

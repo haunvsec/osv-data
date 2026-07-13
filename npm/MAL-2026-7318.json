@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7318","published":"2026-07-07T12:58:50Z","modified":"2026-07-09T09:32:52.187123772Z","summary":"Malicious code in mcp-ci-runner-poc (npm)","affected":[{"package":{"name":"mcp-ci-runner-poc","ecosystem":"npm","purl":"pkg:npm/mcp-ci-runner-poc"},"versions":["1.0.0"]}]}

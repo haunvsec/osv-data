@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7246","published":"2026-07-07T12:44:35Z","modified":"2026-07-09T09:32:36.650688601Z","summary":"Malicious code in cli-pretty-logger (npm)","affected":[{"package":{"name":"cli-pretty-logger","ecosystem":"npm","purl":"pkg:npm/cli-pretty-logger"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7099","published":"2026-07-07T12:31:53Z","modified":"2026-07-09T09:32:09.266231928Z","summary":"Malicious code in @tslogger/pino-pretty-logger (npm)","affected":[{"package":{"name":"@tslogger/pino-pretty-logger","ecosystem":"npm","purl":"pkg:npm/%40tslogger/pino-pretty-logger"},"versions":["1.1.0"]}]}

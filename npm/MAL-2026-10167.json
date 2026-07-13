@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10167","published":"2026-07-10T18:37:21Z","modified":"2026-07-10T19:16:58.935689372Z","summary":"Malicious code in paysafe-checkout (npm)","affected":[{"package":{"name":"paysafe-checkout","ecosystem":"npm","purl":"pkg:npm/paysafe-checkout"},"versions":["1.0.0"]}]}

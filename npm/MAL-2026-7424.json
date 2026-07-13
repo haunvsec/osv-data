@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7424","published":"2026-07-07T13:12:05Z","modified":"2026-07-09T09:33:12.563136807Z","summary":"Malicious code in strapi-plugin-pocvk (npm)","affected":[{"package":{"name":"strapi-plugin-pocvk","ecosystem":"npm","purl":"pkg:npm/strapi-plugin-pocvk"},"versions":["0.0.1"]}]}

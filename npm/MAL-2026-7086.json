@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7086","published":"2026-07-07T12:26:06Z","modified":"2026-07-09T09:32:04.933710716Z","summary":"Malicious code in @mts-pay/web-sdk (npm)","affected":[{"package":{"name":"@mts-pay/web-sdk","ecosystem":"npm","purl":"pkg:npm/%40mts-pay/web-sdk"},"versions":["99.9.9"]}]}

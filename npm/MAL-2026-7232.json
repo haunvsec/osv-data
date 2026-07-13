@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7232","published":"2026-07-07T12:43:06Z","modified":"2026-07-09T09:32:31.830327611Z","summary":"Malicious code in chai-as-commited (npm)","affected":[{"package":{"name":"chai-as-commited","ecosystem":"npm","purl":"pkg:npm/chai-as-commited"},"versions":["2.38.8","2.38.9"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10129","published":"2026-07-10T15:19:04Z","modified":"2026-07-10T15:32:11.581723478Z","summary":"Malicious code in rtc-integration-frontend-sdk (npm)","affected":[{"package":{"name":"rtc-integration-frontend-sdk","ecosystem":"npm","purl":"pkg:npm/rtc-integration-frontend-sdk"},"versions":["99.9.0"]}]}

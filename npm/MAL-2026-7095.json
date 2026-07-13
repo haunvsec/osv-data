@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7095","published":"2026-07-07T12:30:43Z","modified":"2026-07-09T09:32:08.182715840Z","summary":"Malicious code in @tc-core/sso-service (npm)","affected":[{"package":{"name":"@tc-core/sso-service","ecosystem":"npm","purl":"pkg:npm/%40tc-core/sso-service"},"versions":["0.0.0-defensive-callback"]}]}

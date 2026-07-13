@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7028","published":"2026-07-09T05:53:35Z","modified":"2026-07-09T22:17:06.414519942Z","aliases":["GHSA-82qq-fgw6-6hf8"],"summary":"Malicious code in calvuepro (npm)","affected":[{"package":{"name":"calvuepro","ecosystem":"npm","purl":"pkg:npm/calvuepro"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

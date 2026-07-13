@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7223","published":"2026-07-07T12:41:38Z","modified":"2026-07-09T09:32:29.471781616Z","summary":"Malicious code in bitu-trade (npm)","affected":[{"package":{"name":"bitu-trade","ecosystem":"npm","purl":"pkg:npm/bitu-trade"},"versions":["99.0.0"]}]}

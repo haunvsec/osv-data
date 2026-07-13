@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7249","published":"2026-07-07T12:45:52Z","modified":"2026-07-09T09:32:38.152974555Z","summary":"Malicious code in csec-form-helpers (npm)","affected":[{"package":{"name":"csec-form-helpers","ecosystem":"npm","purl":"pkg:npm/csec-form-helpers"},"versions":["1.0.0"]}]}

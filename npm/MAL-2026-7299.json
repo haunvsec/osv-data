@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7299","published":"2026-07-07T12:54:52Z","modified":"2026-07-09T09:32:47.282805814Z","summary":"Malicious code in ict-api-foundations (npm)","affected":[{"package":{"name":"ict-api-foundations","ecosystem":"npm","purl":"pkg:npm/ict-api-foundations"},"versions":["99.99.99"]}]}

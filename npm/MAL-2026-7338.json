@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7338","published":"2026-07-07T13:03:50Z","modified":"2026-07-09T09:32:58.697590205Z","summary":"Malicious code in pe3-ihm-plateforme (npm)","affected":[{"package":{"name":"pe3-ihm-plateforme","ecosystem":"npm","purl":"pkg:npm/pe3-ihm-plateforme"},"versions":["99.99.99"]}]}

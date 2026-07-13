@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7146","published":"2026-07-07T12:36:53Z","modified":"2026-07-09T09:32:17.775604651Z","summary":"Malicious code in angularks (npm)","affected":[{"package":{"name":"angularks","ecosystem":"npm","purl":"pkg:npm/angularks"},"versions":["8.7.6"]}]}

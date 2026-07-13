@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10105","published":"2026-07-09T23:09:27Z","modified":"2026-07-09T23:47:00.183795953Z","summary":"Malicious code in pxpure8 (npm)","affected":[{"package":{"name":"pxpure8","ecosystem":"npm","purl":"pkg:npm/pxpure8"},"versions":["1.0.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7406","published":"2026-07-07T13:09:09Z","modified":"2026-07-09T09:33:09.450698074Z","summary":"Malicious code in roeactjs (npm)","affected":[{"package":{"name":"roeactjs","ecosystem":"npm","purl":"pkg:npm/roeactjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

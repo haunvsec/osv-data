@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10065","published":"2026-07-09T15:38:09Z","modified":"2026-07-10T15:32:11.473601864Z","aliases":["GHSA-wqr5-5c9r-9rj7"],"summary":"Malicious code in nodemon-gulp (npm)","affected":[{"package":{"name":"nodemon-gulp","ecosystem":"npm","purl":"pkg:npm/nodemon-gulp"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

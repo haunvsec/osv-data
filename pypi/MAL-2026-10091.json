@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10091","published":"2026-07-09T17:05:37Z","modified":"2026-07-09T21:16:56.983984421Z","summary":"Malicious code in qlinforge (PyPI)","affected":[{"package":{"name":"qlinforge","ecosystem":"PyPI","purl":"pkg:pypi/qlinforge"},"versions":["0.3.2"]}]}

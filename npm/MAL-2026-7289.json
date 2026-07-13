@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7289","published":"2026-07-07T12:51:52Z","modified":"2026-07-09T09:32:44.970011516Z","summary":"Malicious code in fnnote-frontend (npm)","affected":[{"package":{"name":"fnnote-frontend","ecosystem":"npm","purl":"pkg:npm/fnnote-frontend"},"versions":["99.99.99"]}]}

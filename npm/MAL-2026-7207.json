@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7207","published":"2026-07-07T12:39:05Z","modified":"2026-07-09T09:32:25.430831259Z","summary":"Malicious code in appauthhelper-enduser (npm)","affected":[{"package":{"name":"appauthhelper-enduser","ecosystem":"npm","purl":"pkg:npm/appauthhelper-enduser"},"versions":["99.0.0"]}]}

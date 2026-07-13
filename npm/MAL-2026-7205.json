@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7205","published":"2026-07-07T12:38:22Z","modified":"2026-07-09T09:32:24.682524878Z","summary":"Malicious code in anjularjs (npm)","affected":[{"package":{"name":"anjularjs","ecosystem":"npm","purl":"pkg:npm/anjularjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

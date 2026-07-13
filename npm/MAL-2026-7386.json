@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7386","published":"2026-07-07T13:08:35Z","modified":"2026-07-09T09:33:07.051103937Z","summary":"Malicious code in resolve-uri-internal (npm)","affected":[{"package":{"name":"resolve-uri-internal","ecosystem":"npm","purl":"pkg:npm/resolve-uri-internal"},"versions":["99.1.0"]}]}

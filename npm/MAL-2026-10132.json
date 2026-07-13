@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10132","published":"2026-07-10T16:16:01Z","modified":"2026-07-10T16:32:00.259675300Z","summary":"Malicious code in react-jsonwebtoken (npm)","affected":[{"package":{"name":"react-jsonwebtoken","ecosystem":"npm","purl":"pkg:npm/react-jsonwebtoken"},"versions":["9.0.3","9.0.5","9.0.4"]}]}

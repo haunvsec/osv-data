@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7316","published":"2026-07-07T12:58:08Z","modified":"2026-07-09T09:32:51.460893161Z","summary":"Malicious code in lunkr (npm)","affected":[{"package":{"name":"lunkr","ecosystem":"npm","purl":"pkg:npm/lunkr"},"versions":["1.1.1","1.1.4","8.7.6"]}]}

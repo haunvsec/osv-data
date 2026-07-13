@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7429","published":"2026-07-07T13:14:07Z","modified":"2026-07-09T09:33:14.379294439Z","summary":"Malicious code in treactjs (npm)","affected":[{"package":{"name":"treactjs","ecosystem":"npm","purl":"pkg:npm/treactjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

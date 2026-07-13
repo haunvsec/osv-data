@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7038","published":"2026-07-07T12:17:23Z","modified":"2026-07-09T09:31:52.576787355Z","summary":"Malicious code in @apps-legacy-reports/events (npm)","affected":[{"package":{"name":"@apps-legacy-reports/events","ecosystem":"npm","purl":"pkg:npm/%40apps-legacy-reports/events"},"versions":["9.10.8"]}]}

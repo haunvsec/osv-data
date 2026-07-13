@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7052","published":"2026-07-07T12:18:53Z","modified":"2026-07-09T09:31:54.670115244Z","summary":"Malicious code in @bmg-web/bmg-multiselect (npm)","affected":[{"package":{"name":"@bmg-web/bmg-multiselect","ecosystem":"npm","purl":"pkg:npm/%40bmg-web/bmg-multiselect"},"versions":["999.9.9","999.9999.99"]}]}

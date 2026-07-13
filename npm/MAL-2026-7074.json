@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7074","published":"2026-07-07T12:23:50Z","modified":"2026-07-09T09:32:01.648935988Z","summary":"Malicious code in @gutierre0x80/ads.components.button (npm)","affected":[{"package":{"name":"@gutierre0x80/ads.components.button","ecosystem":"npm","purl":"pkg:npm/%40gutierre0x80/ads.components.button"},"versions":["1.999.0"]}]}

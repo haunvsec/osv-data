@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10162","published":"2026-07-10T17:16:37Z","modified":"2026-07-10T18:16:50.355263259Z","summary":"Malicious code in @bcryptln/becryptjs (npm)","affected":[{"package":{"name":"@bcryptln/becryptjs","ecosystem":"npm","purl":"pkg:npm/%40bcryptln/becryptjs"},"versions":["3.0.8","3.0.10","3.0.11"]}]}

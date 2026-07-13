@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7393","published":"2026-07-07T13:08:38Z","modified":"2026-07-09T09:33:07.944336382Z","summary":"Malicious code in rfeactjs (npm)","affected":[{"package":{"name":"rfeactjs","ecosystem":"npm","purl":"pkg:npm/rfeactjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

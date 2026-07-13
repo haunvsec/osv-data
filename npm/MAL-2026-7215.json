@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7215","published":"2026-07-07T12:40:23Z","modified":"2026-07-09T09:32:28.069998332Z","summary":"Malicious code in axgularjs (npm)","affected":[{"package":{"name":"axgularjs","ecosystem":"npm","purl":"pkg:npm/axgularjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

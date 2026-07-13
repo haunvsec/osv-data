@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7107","published":"2026-07-07T12:35:08Z","modified":"2026-07-09T09:32:12.861512699Z","summary":"Malicious code in ai-devops-helper (npm)","affected":[{"package":{"name":"ai-devops-helper","ecosystem":"npm","purl":"pkg:npm/ai-devops-helper"},"versions":["1.0.0","2.0.0","2.0.1"]}]}

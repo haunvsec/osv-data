@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10009","published":"2026-07-09T11:26:45Z","modified":"2026-07-09T23:02:05.970999288Z","aliases":["GHSA-6vrp-3g92-phhf"],"summary":"Malicious code in chain-api-sdk (npm)","affected":[{"package":{"name":"chain-api-sdk","ecosystem":"npm","purl":"pkg:npm/chain-api-sdk"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

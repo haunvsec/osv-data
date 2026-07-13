@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7292","published":"2026-07-07T12:53:08Z","modified":"2026-07-09T09:32:45.872350024Z","summary":"Malicious code in gitpath-package (npm)","affected":[{"package":{"name":"gitpath-package","ecosystem":"npm","purl":"pkg:npm/gitpath-package"},"versions":["1.0.0","1.0.1","1.0.2"]}]}

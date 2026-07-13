@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10069","published":"2026-07-09T15:47:37Z","modified":"2026-07-09T16:32:00.765726235Z","summary":"Malicious code in polymarket-kelly-maths (npm)","affected":[{"package":{"name":"polymarket-kelly-maths","ecosystem":"npm","purl":"pkg:npm/polymarket-kelly-maths"},"versions":["3.5.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7341","published":"2026-07-07T13:03:53Z","modified":"2026-07-09T09:32:59.214926638Z","summary":"Malicious code in picnic-store-basket-miniapp (npm)","affected":[{"package":{"name":"picnic-store-basket-miniapp","ecosystem":"npm","purl":"pkg:npm/picnic-store-basket-miniapp"},"versions":["9999.0.0"]}]}

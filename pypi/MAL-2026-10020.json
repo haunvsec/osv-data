@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10020","published":"2026-07-09T12:15:39Z","modified":"2026-07-09T16:32:05.802065974Z","summary":"Malicious code in playwrightr (PyPI)","affected":[{"package":{"name":"playwrightr","ecosystem":"PyPI","purl":"pkg:pypi/playwrightr"},"versions":["1.0.0","1.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7437","published":"2026-07-07T13:16:36Z","modified":"2026-07-09T09:33:17.120970240Z","summary":"Malicious code in web3-runtime-engine (npm)","affected":[{"package":{"name":"web3-runtime-engine","ecosystem":"npm","purl":"pkg:npm/web3-runtime-engine"},"versions":["1.0.3"]}]}

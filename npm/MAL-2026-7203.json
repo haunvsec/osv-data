@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7203","published":"2026-07-07T12:38:22Z","modified":"2026-07-09T09:32:24.437558682Z","summary":"Malicious code in angylarjs (npm)","affected":[{"package":{"name":"angylarjs","ecosystem":"npm","purl":"pkg:npm/angylarjs"},"versions":["1.1.4","8.7.6"]}]}

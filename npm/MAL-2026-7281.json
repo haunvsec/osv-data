@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7281","published":"2026-07-07T12:49:37Z","modified":"2026-07-09T09:32:42.581333590Z","summary":"Malicious code in eslint-plugin-dagster-rules (npm)","affected":[{"package":{"name":"eslint-plugin-dagster-rules","ecosystem":"npm","purl":"pkg:npm/eslint-plugin-dagster-rules"},"versions":["1000.0.0","1000.0.2","1000.0.7"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10176","published":"2026-07-10T21:24:28Z","modified":"2026-07-10T21:31:49.080051625Z","summary":"Malicious code in uncaxss (npm)","affected":[{"package":{"name":"uncaxss","ecosystem":"npm","purl":"pkg:npm/uncaxss"},"versions":["1.3.5","1.3.4"]}]}

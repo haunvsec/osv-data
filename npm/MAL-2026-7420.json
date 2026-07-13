@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7420","published":"2026-07-07T13:10:38Z","modified":"2026-07-09T09:33:11.469102093Z","summary":"Malicious code in sim-apis-chatbot (npm)","affected":[{"package":{"name":"sim-apis-chatbot","ecosystem":"npm","purl":"pkg:npm/sim-apis-chatbot"},"versions":["1.1.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7100","published":"2026-07-07T12:32:26Z","modified":"2026-07-09T09:32:10.633124976Z","summary":"Malicious code in @vmo-community/video-player (npm)","affected":[{"package":{"name":"@vmo-community/video-player","ecosystem":"npm","purl":"pkg:npm/%40vmo-community/video-player"},"versions":["9.9.9"]}]}

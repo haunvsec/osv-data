@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7044","published":"2026-07-07T12:18:35Z","modified":"2026-07-09T09:31:53.369003090Z","summary":"Malicious code in @athena-ui-components/hooks (npm)","affected":[{"package":{"name":"@athena-ui-components/hooks","ecosystem":"npm","purl":"pkg:npm/%40athena-ui-components/hooks"},"versions":["0.2.13","0.2.14"]}]}

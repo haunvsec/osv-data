@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7348","published":"2026-07-07T13:04:23Z","modified":"2026-07-09T09:33:00.642041100Z","summary":"Malicious code in plugin-proposal (npm)","affected":[{"package":{"name":"plugin-proposal","ecosystem":"npm","purl":"pkg:npm/plugin-proposal"},"versions":["99.1.1"]}]}

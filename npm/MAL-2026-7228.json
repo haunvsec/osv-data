@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7228","published":"2026-07-07T12:42:07Z","modified":"2026-07-09T09:32:29.996791972Z","summary":"Malicious code in box-ui-elements-usm (npm)","affected":[{"package":{"name":"box-ui-elements-usm","ecosystem":"npm","purl":"pkg:npm/box-ui-elements-usm"},"versions":["99.3.1"]}]}

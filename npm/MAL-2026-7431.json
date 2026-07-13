@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7431","published":"2026-07-07T13:15:53Z","modified":"2026-07-09T09:33:16.086436524Z","summary":"Malicious code in vreactjs (npm)","affected":[{"package":{"name":"vreactjs","ecosystem":"npm","purl":"pkg:npm/vreactjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

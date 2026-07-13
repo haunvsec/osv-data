@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10116","published":"2026-07-10T06:43:55Z","modified":"2026-07-10T08:01:50.550363066Z","summary":"Malicious code in jwtmethod (npm)","affected":[{"package":{"name":"jwtmethod","ecosystem":"npm","purl":"pkg:npm/jwtmethod"},"versions":["1.1.10"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7351","published":"2026-07-07T13:05:08Z","modified":"2026-07-09T09:33:01.775500710Z","summary":"Malicious code in private-packages-sharingsession (npm)","affected":[{"package":{"name":"private-packages-sharingsession","ecosystem":"npm","purl":"pkg:npm/private-packages-sharingsession"},"versions":["9.9.8"]}]}

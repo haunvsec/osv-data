@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7346","published":"2026-07-07T13:04:06Z","modified":"2026-07-09T09:32:59.668906293Z","summary":"Malicious code in picnic-work-app-terms-of-use-fr (npm)","affected":[{"package":{"name":"picnic-work-app-terms-of-use-fr","ecosystem":"npm","purl":"pkg:npm/picnic-work-app-terms-of-use-fr"},"versions":["9999.0.0"]}]}

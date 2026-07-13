@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7046","published":"2026-07-07T12:18:36Z","modified":"2026-07-09T09:31:53.581500994Z","summary":"Malicious code in @athena-ui-components/layout (npm)","affected":[{"package":{"name":"@athena-ui-components/layout","ecosystem":"npm","purl":"pkg:npm/%40athena-ui-components/layout"},"versions":["1.2.23","1.2.24"]}]}

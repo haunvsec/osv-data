@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10189","published":"2026-07-11T23:23:11Z","modified":"2026-07-12T00:01:52.075758847Z","summary":"Malicious code in tinymask-js (npm)","affected":[{"package":{"name":"tinymask-js","ecosystem":"npm","purl":"pkg:npm/tinymask-js"},"versions":["1.0.2"]}]}

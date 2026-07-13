@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7315","published":"2026-07-07T12:58:06Z","modified":"2026-07-09T09:32:51.393883297Z","summary":"Malicious code in lreactjs (npm)","affected":[{"package":{"name":"lreactjs","ecosystem":"npm","purl":"pkg:npm/lreactjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

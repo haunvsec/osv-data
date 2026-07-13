@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7425","published":"2026-07-07T13:12:07Z","modified":"2026-07-09T09:33:12.640150201Z","summary":"Malicious code in style-to-objact (npm)","affected":[{"package":{"name":"style-to-objact","ecosystem":"npm","purl":"pkg:npm/style-to-objact"},"versions":["99.9.0"]}]}

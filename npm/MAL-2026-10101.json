@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10101","published":"2026-07-09T23:10:21Z","modified":"2026-07-09T23:47:01.172310606Z","summary":"Malicious code in date-kit-lite (npm)","affected":[{"package":{"name":"date-kit-lite","ecosystem":"npm","purl":"pkg:npm/date-kit-lite"},"versions":["1.0.0"]}]}

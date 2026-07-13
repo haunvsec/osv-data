@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7034","published":"2026-07-07T12:16:53Z","modified":"2026-07-09T09:31:57.323746843Z","summary":"Malicious code in @alphasedboy/game (npm)","affected":[{"package":{"name":"@alphasedboy/game","ecosystem":"npm","purl":"pkg:npm/%40alphasedboy/game"},"versions":["1.0.0","1.0.1","1.0.2"]}]}

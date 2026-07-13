@@ -1,6 +1,6 @@
 {
-  "last_crawl_time": "2026-07-09T08:42:47Z",
-  "last_attempt_time": "2026-07-09T10:49:55Z",
+  "last_crawl_time": "2026-07-13T04:51:06Z",
+  "last_attempt_time": "2026-07-13T10:35:39Z",
   "source": "osv-vulnerabilities-gcs",
   "source_url": "https://storage.googleapis.com/osv-vulnerabilities",
   "method": "incremental",
@@ -11,42 +11,42 @@
     "redhat"
   ],
   "ecosystem_counts": {
-    "maven": 6782,
-    "npm": 222150,
-    "pypi": 22776,
-    "redhat": 21062
+    "maven": 6799,
+    "npm": 222776,
+    "pypi": 22856,
+    "redhat": 21157
   },
-  "total_vulnerabilities": 272770,
+  "total_vulnerabilities": 273588,
   "ecosystem_state": {
     "maven": {
-      "last_attempt_time": "2026-07-09T07:56:56Z",
+      "last_attempt_time": "2026-07-13T04:08:37Z",
       "last_method": "incremental",
-      "last_downloaded": 218,
+      "last_downloaded": 26,
       "last_skipped": 0,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-07-09T07:56:56Z",
-      "last_modified_time": "2026-07-08T21:15:19.155045753Z"
+      "last_successful_crawl_time": "2026-07-13T04:08:37Z",
+      "last_modified_time": "2026-07-10T21:45:19.375278783Z"
     },
     "npm": {
-      "last_attempt_time": "2026-07-09T08:09:54Z",
+      "last_attempt_time": "2026-07-13T04:42:04Z",
       "last_method": "incremental",
-      "last_downloaded": 936,
-      "last_skipped": 157,
+      "last_downloaded": 1182,
+      "last_skipped": 4,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-07-09T08:09:54Z",
+      "last_successful_crawl_time": "2026-07-13T04:42:04Z",
       "last_modified_time": "2026-07-09T05:15:08.591063132Z"
     },
     "pypi": {
-      "last_attempt_time": "2026-07-09T08:42:47Z",
+      "last_attempt_time": "2026-07-13T04:51:06Z",
       "last_method": "incremental",
-      "last_downloaded": 3140,
+      "last_downloaded": 222,
       "last_skipped": 0,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-07-09T08:42:47Z",
-      "last_modified_time": "2026-07-09T05:15:08.694008274Z"
+      "last_successful_crawl_time": "2026-07-13T04:51:06Z",
+      "last_modified_time": "2026-07-13T04:11:41.646438483Z"
     },
     "redhat": {
-      "last_attempt_time": "2026-07-09T10:49:55Z",
+      "last_attempt_time": "2026-07-13T10:35:39Z",
       "last_method": "incremental",
       "last_downloaded": 0,
       "last_skipped": 0,
@@ -57,7 +57,7 @@
     }
   },
   "last_run": {
-    "started_at": "2026-07-09T08:42:47Z",
+    "started_at": "2026-07-13T04:51:07Z",
     "output_dir": "/Volumes/DATA/security_advisory/osv-data",
     "method": "incremental",
     "ecosystems": [
@@ -88,7 +88,7 @@
     "limit": null,
     "sync_missing": false,
     "missing_only": false,
-    "finished_at": "2026-07-09T10:49:55Z",
-    "duration_seconds": 7628.09
+    "finished_at": "2026-07-13T10:35:39Z",
+    "duration_seconds": 20672.09
   }
 }

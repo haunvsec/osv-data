@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10177","published":"2026-07-10T21:29:35Z","modified":"2026-07-10T22:01:48.804277166Z","summary":"Malicious code in @jaymara/jsononifier (npm)","affected":[{"package":{"name":"@jaymara/jsononifier","ecosystem":"npm","purl":"pkg:npm/%40jaymara/jsononifier"},"versions":["1.0.0","1.0.2","1.0.1"]}]}

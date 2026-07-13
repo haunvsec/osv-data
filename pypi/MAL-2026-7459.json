@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7459","published":"2026-07-07T11:49:55Z","modified":"2026-07-09T09:33:21.681889640Z","summary":"Malicious code in pygremlinbox-malware-c2-beacon (PyPI)","affected":[{"package":{"name":"pygremlinbox-malware-c2-beacon","ecosystem":"PyPI","purl":"pkg:pypi/pygremlinbox-malware-c2-beacon"},"versions":["2.0.0"]}]}

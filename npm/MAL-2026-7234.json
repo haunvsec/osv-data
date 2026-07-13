@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7234","published":"2026-07-07T12:43:08Z","modified":"2026-07-09T09:32:32.319996207Z","summary":"Malicious code in chai-as-informed (npm)","affected":[{"package":{"name":"chai-as-informed","ecosystem":"npm","purl":"pkg:npm/chai-as-informed"},"versions":["1.2.0"]}]}

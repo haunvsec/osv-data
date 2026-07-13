@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7035","published":"2026-07-07T12:17:09Z","modified":"2026-07-09T09:31:57.969754144Z","summary":"Malicious code in @aoflcorp/freighter (npm)","affected":[{"package":{"name":"@aoflcorp/freighter","ecosystem":"npm","purl":"pkg:npm/%40aoflcorp/freighter"},"versions":["0.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10159","published":"2026-07-10T16:34:59Z","modified":"2026-07-10T17:17:00.955177362Z","summary":"Malicious code in npm-rce-safe-proof-yourname (npm)","affected":[{"package":{"name":"npm-rce-safe-proof-yourname","ecosystem":"npm","purl":"pkg:npm/npm-rce-safe-proof-yourname"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7060","published":"2026-07-07T12:19:20Z","modified":"2026-07-09T09:31:56.189335793Z","summary":"Malicious code in @cashback/postal-premium (npm)","affected":[{"package":{"name":"@cashback/postal-premium","ecosystem":"npm","purl":"pkg:npm/%40cashback/postal-premium"},"versions":["99.9.9"]}]}

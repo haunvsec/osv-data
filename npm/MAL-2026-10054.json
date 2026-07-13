@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10054","published":"2026-07-09T15:31:31Z","modified":"2026-07-09T16:31:54.507970096Z","summary":"Malicious code in chai-smart (npm)","affected":[{"package":{"name":"chai-smart","ecosystem":"npm","purl":"pkg:npm/chai-smart"},"versions":["2.3.5"]}]}

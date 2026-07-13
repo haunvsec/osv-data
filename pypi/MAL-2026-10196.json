@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10196","published":"2026-07-12T11:25:55Z","modified":"2026-07-12T21:31:53.338841951Z","summary":"Malicious code in jupiter-sdk (PyPI)","affected":[{"package":{"name":"jupiter-sdk","ecosystem":"PyPI","purl":"pkg:pypi/jupiter-sdk"},"versions":["0.1.0","0.1.1"]}]}

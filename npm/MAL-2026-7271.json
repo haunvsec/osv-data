@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7271","published":"2026-07-07T12:48:37Z","modified":"2026-07-09T09:32:41.022068002Z","summary":"Malicious code in elf-stats-merry-snowflake-893 (npm)","affected":[{"package":{"name":"elf-stats-merry-snowflake-893","ecosystem":"npm","purl":"pkg:npm/elf-stats-merry-snowflake-893"},"versions":["1.0.0"]}]}

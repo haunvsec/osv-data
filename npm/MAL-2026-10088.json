@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10088","published":"2026-07-09T17:00:49Z","modified":"2026-07-09T17:31:55.418826635Z","summary":"Malicious code in lovable-tager (npm)","affected":[{"package":{"name":"lovable-tager","ecosystem":"npm","purl":"pkg:npm/lovable-tager"},"versions":["1.4.0","1.4.1"]}]}

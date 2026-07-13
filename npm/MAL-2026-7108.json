@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7108","published":"2026-07-07T12:35:20Z","modified":"2026-07-09T09:32:12.897562853Z","summary":"Malicious code in aigularjs (npm)","affected":[{"package":{"name":"aigularjs","ecosystem":"npm","purl":"pkg:npm/aigularjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7092","published":"2026-07-07T12:30:25Z","modified":"2026-07-09T09:32:07.554082969Z","summary":"Malicious code in @spinstorm/typescript-config (npm)","affected":[{"package":{"name":"@spinstorm/typescript-config","ecosystem":"npm","purl":"pkg:npm/%40spinstorm/typescript-config"},"versions":["99.99.99"]}]}

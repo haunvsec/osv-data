@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7071","published":"2026-07-07T12:23:37Z","modified":"2026-07-09T09:32:01.021096113Z","summary":"Malicious code in @gpbw-fcop-ui-packages/theme (npm)","affected":[{"package":{"name":"@gpbw-fcop-ui-packages/theme","ecosystem":"npm","purl":"pkg:npm/%40gpbw-fcop-ui-packages/theme"},"versions":["10.0.9"]}]}

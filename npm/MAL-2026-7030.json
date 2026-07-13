@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7030","published":"2026-07-09T05:53:35Z","modified":"2026-07-09T22:16:59.933521263Z","aliases":["GHSA-vxh6-2g6j-qrrc"],"summary":"Malicious code in clavue-agent-sdk (npm)","affected":[{"package":{"name":"clavue-agent-sdk","ecosystem":"npm","purl":"pkg:npm/clavue-agent-sdk"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

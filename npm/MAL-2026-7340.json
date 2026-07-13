@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7340","published":"2026-07-07T13:03:53Z","modified":"2026-07-09T09:32:59.089112942Z","summary":"Malicious code in picnic-decoder-generator (npm)","affected":[{"package":{"name":"picnic-decoder-generator","ecosystem":"npm","purl":"pkg:npm/picnic-decoder-generator"},"versions":["9999.0.0"]}]}

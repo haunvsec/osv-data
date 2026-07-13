@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7218","published":"2026-07-07T12:41:36Z","modified":"2026-07-09T09:32:28.732264346Z","summary":"Malicious code in bitopro-trade-guard (npm)","affected":[{"package":{"name":"bitopro-trade-guard","ecosystem":"npm","purl":"pkg:npm/bitopro-trade-guard"},"versions":["1.1.0"]}]}

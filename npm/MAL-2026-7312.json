@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7312","published":"2026-07-07T12:57:35Z","modified":"2026-07-09T09:32:50.682977495Z","summary":"Malicious code in lint-prettier (npm)","affected":[{"package":{"name":"lint-prettier","ecosystem":"npm","purl":"pkg:npm/lint-prettier"},"versions":["1.0.4"]}]}

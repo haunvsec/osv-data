@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7436","published":"2026-07-07T13:16:21Z","modified":"2026-07-09T09:33:17.074701528Z","summary":"Malicious code in wazirx-localtestnpm (npm)","affected":[{"package":{"name":"wazirx-localtestnpm","ecosystem":"npm","purl":"pkg:npm/wazirx-localtestnpm"},"versions":["9.9.9"]}]}

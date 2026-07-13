@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10019","published":"2026-07-09T12:25:53Z","modified":"2026-07-11T04:46:53.759576242Z","summary":"Malicious code in client-cookies-agent (npm)","affected":[{"package":{"name":"client-cookies-agent","ecosystem":"npm","purl":"pkg:npm/client-cookies-agent"},"versions":["99.9.5","99.9.6","99.9.7"]}]}

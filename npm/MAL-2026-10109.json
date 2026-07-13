@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10109","published":"2026-07-09T23:05:09Z","modified":"2026-07-09T23:47:00.567829728Z","summary":"Malicious code in validator-string (npm)","affected":[{"package":{"name":"validator-string","ecosystem":"npm","purl":"pkg:npm/validator-string"},"versions":["13.15.36"]}]}

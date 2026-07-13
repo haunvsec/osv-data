@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7217","published":"2026-07-07T12:40:50Z","modified":"2026-07-09T09:32:28.398671329Z","summary":"Malicious code in backoff-table (npm)","affected":[{"package":{"name":"backoff-table","ecosystem":"npm","purl":"pkg:npm/backoff-table"},"versions":["99.9.1"]}]}

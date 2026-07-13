@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10041","published":"2026-07-09T15:34:29Z","modified":"2026-07-09T16:31:52.377977533Z","summary":"Malicious code in chai-as-buffered (npm)","affected":[{"package":{"name":"chai-as-buffered","ecosystem":"npm","purl":"pkg:npm/chai-as-buffered"},"versions":["3.7.24"]}]}

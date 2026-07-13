@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10146","published":"2026-07-10T16:24:50Z","modified":"2026-07-10T17:02:02.142699080Z","aliases":["GHSA-rgrc-mmg8-pgrr"],"summary":"Malicious code in ng-search-api (npm)","affected":[{"package":{"name":"ng-search-api","ecosystem":"npm","purl":"pkg:npm/ng-search-api"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

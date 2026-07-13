@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7457","published":"2026-07-07T11:49:49Z","modified":"2026-07-09T09:33:21.522403028Z","summary":"Malicious code in piirgg (PyPI)","affected":[{"package":{"name":"piirgg","ecosystem":"PyPI","purl":"pkg:pypi/piirgg"},"versions":["0.2","0.3","0.4","0.6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7057","published":"2026-07-07T12:19:08Z","modified":"2026-07-09T09:31:55.677086514Z","summary":"Malicious code in @buglab/pino-pretty-logger (npm)","affected":[{"package":{"name":"@buglab/pino-pretty-logger","ecosystem":"npm","purl":"pkg:npm/%40buglab/pino-pretty-logger"},"versions":["1.1.0"]}]}

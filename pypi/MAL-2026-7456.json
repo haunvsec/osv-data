@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7456","published":"2026-07-07T11:49:47Z","modified":"2026-07-09T09:33:21.166818963Z","summary":"Malicious code in notrandompacketname (PyPI)","affected":[{"package":{"name":"notrandompacketname","ecosystem":"PyPI","purl":"pkg:pypi/notrandompacketname"},"versions":["0.1.10","0.1.11","0.1.12"]}]}

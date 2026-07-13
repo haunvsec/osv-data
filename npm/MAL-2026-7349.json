@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7349","published":"2026-07-07T13:04:37Z","modified":"2026-07-09T09:33:01.082679845Z","summary":"Malicious code in postgres-docker-utils (npm)","affected":[{"package":{"name":"postgres-docker-utils","ecosystem":"npm","purl":"pkg:npm/postgres-docker-utils"},"versions":["99.9.9"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10204","published":"2026-07-12T20:45:48Z","modified":"2026-07-12T21:01:53.488291835Z","summary":"Malicious code in gptcore (npm)","affected":[{"package":{"name":"gptcore","ecosystem":"npm","purl":"pkg:npm/gptcore"},"versions":["4.0.6","4.0.7","4.0.8"]}]}

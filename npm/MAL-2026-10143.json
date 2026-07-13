@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10143","published":"2026-07-10T16:05:17Z","modified":"2026-07-10T17:02:01.690134392Z","aliases":["GHSA-hwmr-cmgq-wr7x"],"summary":"Malicious code in marked-prettier (npm)","affected":[{"package":{"name":"marked-prettier","ecosystem":"npm","purl":"pkg:npm/marked-prettier"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

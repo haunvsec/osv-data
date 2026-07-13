@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7243","published":"2026-07-07T12:43:38Z","modified":"2026-07-09T09:32:34.781631760Z","summary":"Malicious code in chai-extention-utils (npm)","affected":[{"package":{"name":"chai-extention-utils","ecosystem":"npm","purl":"pkg:npm/chai-extention-utils"},"versions":["1.4.1"]}]}

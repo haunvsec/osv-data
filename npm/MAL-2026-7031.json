@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7031","published":"2026-07-09T05:53:35Z","modified":"2026-07-09T22:17:00.402869279Z","aliases":["GHSA-7m5m-ch5w-5q7v"],"summary":"Malicious code in clavuepro (npm)","affected":[{"package":{"name":"clavuepro","ecosystem":"npm","purl":"pkg:npm/clavuepro"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

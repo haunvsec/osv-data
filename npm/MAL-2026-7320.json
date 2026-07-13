@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7320","published":"2026-07-07T12:59:21Z","modified":"2026-07-09T09:32:52.925839035Z","summary":"Malicious code in mngularjs (npm)","affected":[{"package":{"name":"mngularjs","ecosystem":"npm","purl":"pkg:npm/mngularjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

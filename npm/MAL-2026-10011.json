@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10011","published":"2026-07-09T11:17:49Z","modified":"2026-07-09T13:31:48.056102044Z","aliases":["GHSA-j6qf-7f37-jfrh"],"summary":"Malicious code in fusion-client (npm)","affected":[{"package":{"name":"fusion-client","ecosystem":"npm","purl":"pkg:npm/fusion-client"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

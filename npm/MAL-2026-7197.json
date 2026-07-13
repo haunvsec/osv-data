@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7197","published":"2026-07-07T12:38:08Z","modified":"2026-07-09T09:32:24.289152639Z","summary":"Malicious code in anguxarjs (npm)","affected":[{"package":{"name":"anguxarjs","ecosystem":"npm","purl":"pkg:npm/anguxarjs"},"versions":["1.1.4","8.7.6"]}]}

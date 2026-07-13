@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10042","published":"2026-07-09T15:31:23Z","modified":"2026-07-09T16:31:53.092904889Z","summary":"Malicious code in chai-as-disarmed (npm)","affected":[{"package":{"name":"chai-as-disarmed","ecosystem":"npm","purl":"pkg:npm/chai-as-disarmed"},"versions":["3.2.3"]}]}

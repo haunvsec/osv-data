@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7288","published":"2026-07-07T12:51:51Z","modified":"2026-07-09T09:32:44.877381008Z","summary":"Malicious code in fnnote-combined (npm)","affected":[{"package":{"name":"fnnote-combined","ecosystem":"npm","purl":"pkg:npm/fnnote-combined"},"versions":["99.99.99"]}]}

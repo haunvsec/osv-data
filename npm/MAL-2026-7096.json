@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7096","published":"2026-07-07T12:31:05Z","modified":"2026-07-09T09:32:08.502873987Z","summary":"Malicious code in @toprimitive/nif (npm)","affected":[{"package":{"name":"@toprimitive/nif","ecosystem":"npm","purl":"pkg:npm/%40toprimitive/nif"},"versions":["99.9.9"]}]}

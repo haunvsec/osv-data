@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10090","published":"2026-07-09T16:34:31Z","modified":"2026-07-10T17:17:01.936303106Z","summary":"Malicious code in nonenull1 (npm)","affected":[{"package":{"name":"nonenull1","ecosystem":"npm","purl":"pkg:npm/nonenull1"},"versions":["1.2.0","1.3.0","1.4.0","1.0.0","1.5.2","1.5.0","1.6.0","1.5.5","1.5.4","1.5.6"]}]}

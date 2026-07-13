@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7285","published":"2026-07-07T12:50:53Z","modified":"2026-07-09T09:32:43.656795344Z","summary":"Malicious code in fabric-grachics (npm)","affected":[{"package":{"name":"fabric-grachics","ecosystem":"npm","purl":"pkg:npm/fabric-grachics"},"versions":["2.1.7"]}]}

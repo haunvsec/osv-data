@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7238","published":"2026-07-07T12:43:22Z","modified":"2026-07-09T09:32:33.185180755Z","summary":"Malicious code in chai-as-purified (npm)","affected":[{"package":{"name":"chai-as-purified","ecosystem":"npm","purl":"pkg:npm/chai-as-purified"},"versions":["7.1.1"]}]}

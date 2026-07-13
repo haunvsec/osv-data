@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7075","published":"2026-07-07T12:24:08Z","modified":"2026-07-09T09:32:01.874395371Z","summary":"Malicious code in @housecallpro/marketing-site (npm)","affected":[{"package":{"name":"@housecallpro/marketing-site","ecosystem":"npm","purl":"pkg:npm/%40housecallpro/marketing-site"},"versions":["0.0.1"]}]}

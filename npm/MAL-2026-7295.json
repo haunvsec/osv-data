@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7295","published":"2026-07-07T12:54:37Z","modified":"2026-07-09T09:32:46.723078756Z","summary":"Malicious code in hreactjs (npm)","affected":[{"package":{"name":"hreactjs","ecosystem":"npm","purl":"pkg:npm/hreactjs"},"versions":["1.1.1","1.1.2","1.1.4","8.7.6"]}]}

@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2026-3248","published":"2026-05-03T13:49:59Z","modified":"2026-05-03T14:32:43.094338Z","summary":"Malicious code in pwn-control (PyPI)","affected":[{"package":{"name":"pwn-control","ecosystem":"PyPI","purl":"pkg:pypi/pwn-control"},"versions":["1.0"]}]}
+{"schema_version":"1.7.5","id":"MAL-2026-3248","published":"2026-05-03T13:49:59Z","modified":"2026-07-09T09:33:21.669267138Z","summary":"Malicious code in pwn-control (PyPI)","affected":[{"package":{"name":"pwn-control","ecosystem":"PyPI","purl":"pkg:pypi/pwn-control"},"versions":["1.0"]}]}

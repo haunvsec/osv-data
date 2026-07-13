@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7047","published":"2026-07-07T12:18:37Z","modified":"2026-07-09T09:31:53.623524888Z","summary":"Malicious code in @athena-ui-components/pubsub-bridge (npm)","affected":[{"package":{"name":"@athena-ui-components/pubsub-bridge","ecosystem":"npm","purl":"pkg:npm/%40athena-ui-components/pubsub-bridge"},"versions":["0.0.16","0.0.17"]}]}

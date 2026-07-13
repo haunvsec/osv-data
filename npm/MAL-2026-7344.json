@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7344","published":"2026-07-07T13:04:05Z","modified":"2026-07-09T09:32:59.593490544Z","summary":"Malicious code in picnic-store-page-platform (npm)","affected":[{"package":{"name":"picnic-store-page-platform","ecosystem":"npm","purl":"pkg:npm/picnic-store-page-platform"},"versions":["9999.0.0"]}]}

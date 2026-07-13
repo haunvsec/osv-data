@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7326","published":"2026-07-07T13:00:38Z","modified":"2026-07-09T09:32:54.587026117Z","summary":"Malicious code in newsroom-2022 (npm)","affected":[{"package":{"name":"newsroom-2022","ecosystem":"npm","purl":"pkg:npm/newsroom-2022"},"versions":["0.1.0"]}]}

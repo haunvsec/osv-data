@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7452","published":"2026-07-07T11:49:29Z","modified":"2026-07-09T09:33:20.300064668Z","summary":"Malicious code in cyberday26szymon-auth (PyPI)","affected":[{"package":{"name":"cyberday26szymon-auth","ecosystem":"PyPI","purl":"pkg:pypi/cyberday26szymon-auth"},"versions":["0.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7463","published":"2026-07-07T11:49:57Z","modified":"2026-07-09T09:33:22.373322586Z","summary":"Malicious code in pygremlinbox-malware-install-execution (PyPI)","affected":[{"package":{"name":"pygremlinbox-malware-install-execution","ecosystem":"PyPI","purl":"pkg:pypi/pygremlinbox-malware-install-execution"},"versions":["2.0.0"]}]}

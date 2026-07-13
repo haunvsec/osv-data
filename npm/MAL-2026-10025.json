@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10025","published":"2026-07-09T15:14:36Z","modified":"2026-07-09T16:31:56.860828127Z","summary":"Malicious code in @wagni_bot/ethereum-wallet (npm)","affected":[{"package":{"name":"@wagni_bot/ethereum-wallet","ecosystem":"npm","purl":"pkg:npm/%40wagni_bot/ethereum-wallet"},"versions":["1.2.0","1.0.0"]}]}

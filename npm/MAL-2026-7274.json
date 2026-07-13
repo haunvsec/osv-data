@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7274","published":"2026-07-07T12:48:38Z","modified":"2026-07-09T09:32:41.237744904Z","summary":"Malicious code in elf-stats-silvered-sled-455 (npm)","affected":[{"package":{"name":"elf-stats-silvered-sled-455","ecosystem":"npm","purl":"pkg:npm/elf-stats-silvered-sled-455"},"versions":["1.0.0"]}]}

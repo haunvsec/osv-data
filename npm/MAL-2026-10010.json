@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10010","published":"2026-07-09T11:17:49Z","modified":"2026-07-09T13:31:48.053861202Z","aliases":["GHSA-48f9-4ww2-87xr"],"summary":"Malicious code in feedback-api (npm)","affected":[{"package":{"name":"feedback-api","ecosystem":"npm","purl":"pkg:npm/feedback-api"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

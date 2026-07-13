@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7236","published":"2026-07-07T12:43:20Z","modified":"2026-07-09T09:32:32.822236424Z","summary":"Malicious code in chai-as-legit (npm)","affected":[{"package":{"name":"chai-as-legit","ecosystem":"npm","purl":"pkg:npm/chai-as-legit"},"versions":["7.2.3"]}]}

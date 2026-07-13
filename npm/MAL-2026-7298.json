@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7298","published":"2026-07-07T12:54:51Z","modified":"2026-07-09T09:32:47.068511986Z","summary":"Malicious code in icons.generated (npm)","affected":[{"package":{"name":"icons.generated","ecosystem":"npm","purl":"pkg:npm/icons.generated"},"versions":["99.9.13"]}]}

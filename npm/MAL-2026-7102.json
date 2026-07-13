@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7102","published":"2026-07-07T12:33:50Z","modified":"2026-07-09T09:32:10.906350158Z","summary":"Malicious code in @walkme-ng/shared-ui (npm)","affected":[{"package":{"name":"@walkme-ng/shared-ui","ecosystem":"npm","purl":"pkg:npm/%40walkme-ng/shared-ui"},"versions":["9.9.9","9.9.10"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10100","published":"2026-07-09T22:16:53Z","modified":"2026-07-12T23:31:03.515083248Z","summary":"Malicious code in proxy-check-i (PyPI)","affected":[{"package":{"name":"proxy-check-i","ecosystem":"PyPI","purl":"pkg:pypi/proxy-check-i"},"versions":["0.1.0","0.1.1"]}]}

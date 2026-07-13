@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10147","published":"2026-07-10T16:12:23Z","modified":"2026-07-10T19:16:57.960809849Z","aliases":["GHSA-pvwq-8chv-g96r"],"summary":"Malicious code in polygon-gama-apis (npm)","affected":[{"package":{"name":"polygon-gama-apis","ecosystem":"npm","purl":"pkg:npm/polygon-gama-apis"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10107","published":"2026-07-09T23:02:15Z","modified":"2026-07-09T23:47:00.164467039Z","summary":"Malicious code in security-node (npm)","affected":[{"package":{"name":"security-node","ecosystem":"npm","purl":"pkg:npm/security-node"},"versions":["1.1.4"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7293","published":"2026-07-07T12:53:22Z","modified":"2026-07-09T09:32:46.233421075Z","summary":"Malicious code in gontawesome (npm)","affected":[{"package":{"name":"gontawesome","ecosystem":"npm","purl":"pkg:npm/gontawesome"},"versions":["1.1.1","1.1.4","8.7.6"]}]}

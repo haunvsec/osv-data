@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7435","published":"2026-07-07T13:16:20Z","modified":"2026-07-09T09:33:16.844697559Z","summary":"Malicious code in wazir-xlocaletstnpm (npm)","affected":[{"package":{"name":"wazir-xlocaletstnpm","ecosystem":"npm","purl":"pkg:npm/wazir-xlocaletstnpm"},"versions":["9.9.2","9.9.9"]}]}

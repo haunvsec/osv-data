@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10208","published":"2026-07-12T20:49:38Z","modified":"2026-07-12T21:31:53.495760806Z","summary":"Malicious code in @meziizana/frontend-logger (npm)","affected":[{"package":{"name":"@meziizana/frontend-logger","ecosystem":"npm","purl":"pkg:npm/%40meziizana/frontend-logger"},"versions":["10.0.0"]}]}

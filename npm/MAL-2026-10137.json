@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10137","published":"2026-07-10T15:31:38Z","modified":"2026-07-10T21:01:53.783342053Z","aliases":["GHSA-v69h-23wr-hjg4"],"summary":"Malicious code in type-elint (npm)","affected":[{"package":{"name":"type-elint","ecosystem":"npm","purl":"pkg:npm/type-elint"},"versions":["3.3.7"]}]}

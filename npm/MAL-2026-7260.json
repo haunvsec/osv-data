@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7260","published":"2026-07-07T12:48:20Z","modified":"2026-07-09T09:32:39.762593317Z","summary":"Malicious code in elf-stats-festive-pantry-640 (npm)","affected":[{"package":{"name":"elf-stats-festive-pantry-640","ecosystem":"npm","purl":"pkg:npm/elf-stats-festive-pantry-640"},"versions":["1.0.0","1.0.1","1.0.2"]}]}

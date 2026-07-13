@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7307","published":"2026-07-07T12:56:53Z","modified":"2026-07-09T09:32:49.834435542Z","summary":"Malicious code in kreactjs (npm)","affected":[{"package":{"name":"kreactjs","ecosystem":"npm","purl":"pkg:npm/kreactjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

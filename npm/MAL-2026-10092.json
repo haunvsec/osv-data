@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10092","published":"2026-07-09T18:49:09Z","modified":"2026-07-09T21:16:56.969885081Z","summary":"Malicious code in vite-pwa-config (npm)","affected":[{"package":{"name":"vite-pwa-config","ecosystem":"npm","purl":"pkg:npm/vite-pwa-config"},"versions":["1.1.1","1.1.2"]}]}

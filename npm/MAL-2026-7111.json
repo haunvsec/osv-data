@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7111","published":"2026-07-07T12:35:52Z","modified":"2026-07-09T09:32:13.584459572Z","summary":"Malicious code in amazon-data (npm)","affected":[{"package":{"name":"amazon-data","ecosystem":"npm","purl":"pkg:npm/amazon-data"},"versions":["99.1.1"]}]}

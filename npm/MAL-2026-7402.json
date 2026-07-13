@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7402","published":"2026-07-07T13:09:07Z","modified":"2026-07-09T09:33:08.964827799Z","summary":"Malicious code in rn-bitu-user (npm)","affected":[{"package":{"name":"rn-bitu-user","ecosystem":"npm","purl":"pkg:npm/rn-bitu-user"},"versions":["99.0.0"]}]}

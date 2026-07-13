@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10067","published":"2026-07-09T15:48:38Z","modified":"2026-07-10T17:02:04.569756870Z","aliases":["GHSA-rwp8-c6qg-x8g3"],"summary":"Malicious code in polymarket-apis (npm)","affected":[{"package":{"name":"polymarket-apis","ecosystem":"npm","purl":"pkg:npm/polymarket-apis"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

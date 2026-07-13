@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7376","published":"2026-07-07T13:07:51Z","modified":"2026-07-09T09:33:05.754262555Z","summary":"Malicious code in reauctjs (npm)","affected":[{"package":{"name":"reauctjs","ecosystem":"npm","purl":"pkg:npm/reauctjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

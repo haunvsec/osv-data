@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10106","published":"2026-07-09T22:57:12Z","modified":"2026-07-09T23:47:00.341541063Z","summary":"Malicious code in rallycoding (npm)","affected":[{"package":{"name":"rallycoding","ecosystem":"npm","purl":"pkg:npm/rallycoding"},"versions":["3.2.0"]}]}

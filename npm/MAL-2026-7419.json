@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7419","published":"2026-07-07T13:10:35Z","modified":"2026-07-09T09:33:11.210027975Z","summary":"Malicious code in shiphero-dashboard (npm)","affected":[{"package":{"name":"shiphero-dashboard","ecosystem":"npm","purl":"pkg:npm/shiphero-dashboard"},"versions":["1.1.0"]}]}

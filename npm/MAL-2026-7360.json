@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7360","published":"2026-07-07T13:06:21Z","modified":"2026-07-09T09:33:03.712456804Z","summary":"Malicious code in reacetjs (npm)","affected":[{"package":{"name":"reacetjs","ecosystem":"npm","purl":"pkg:npm/reacetjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

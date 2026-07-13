@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10058","published":"2026-07-09T16:20:14Z","modified":"2026-07-09T16:31:50.170857985Z","summary":"Malicious code in cookie-js-ease (npm)","affected":[{"package":{"name":"cookie-js-ease","ecosystem":"npm","purl":"pkg:npm/cookie-js-ease"},"versions":["2.1.7"]}]}

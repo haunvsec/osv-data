@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10077","published":"2026-07-09T15:55:00Z","modified":"2026-07-10T16:31:59.524117871Z","aliases":["GHSA-634c-4fgc-67w9"],"summary":"Malicious code in type-slint (npm)","affected":[{"package":{"name":"type-slint","ecosystem":"npm","purl":"pkg:npm/type-slint"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

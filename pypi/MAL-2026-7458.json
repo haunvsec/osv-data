@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7458","published":"2026-07-07T11:49:54Z","modified":"2026-07-09T09:33:21.677813482Z","summary":"Malicious code in pycryptoshuffle (PyPI)","affected":[{"package":{"name":"pycryptoshuffle","ecosystem":"PyPI","purl":"pkg:pypi/pycryptoshuffle"},"versions":["1.0.6","1.0.7"]}]}

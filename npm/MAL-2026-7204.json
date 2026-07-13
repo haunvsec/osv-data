@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7204","published":"2026-07-07T12:38:22Z","modified":"2026-07-09T09:32:24.646887121Z","summary":"Malicious code in angzlarjs (npm)","affected":[{"package":{"name":"angzlarjs","ecosystem":"npm","purl":"pkg:npm/angzlarjs"},"versions":["1.1.4","8.7.6"]}]}

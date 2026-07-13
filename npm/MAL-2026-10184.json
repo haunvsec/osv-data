@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10184","published":"2026-07-10T22:42:27Z","modified":"2026-07-10T23:01:53.968826038Z","summary":"Malicious code in mongoose-schema-unique (npm)","affected":[{"package":{"name":"mongoose-schema-unique","ecosystem":"npm","purl":"pkg:npm/mongoose-schema-unique"},"versions":["4.0.4","4.0.3","4.0.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7257","published":"2026-07-07T12:48:07Z","modified":"2026-07-09T09:32:39.405626007Z","summary":"Malicious code in elf-stats-bright-workbench-558 (npm)","affected":[{"package":{"name":"elf-stats-bright-workbench-558","ecosystem":"npm","purl":"pkg:npm/elf-stats-bright-workbench-558"},"versions":["1.0.0"]}]}

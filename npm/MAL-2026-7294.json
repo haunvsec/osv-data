@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7294","published":"2026-07-07T12:53:35Z","modified":"2026-07-09T09:32:46.305158493Z","summary":"Malicious code in google-tag-manager-integration-sample (npm)","affected":[{"package":{"name":"google-tag-manager-integration-sample","ecosystem":"npm","purl":"pkg:npm/google-tag-manager-integration-sample"},"versions":["99.9.9","100.0.0"]}]}

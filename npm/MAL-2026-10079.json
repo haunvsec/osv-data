@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10079","published":"2026-07-09T15:45:29Z","modified":"2026-07-09T16:32:04.484302102Z","summary":"Malicious code in vybscan-testbed-obfuscated-postinstall (npm)","affected":[{"package":{"name":"vybscan-testbed-obfuscated-postinstall","ecosystem":"npm","purl":"pkg:npm/vybscan-testbed-obfuscated-postinstall"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7408","published":"2026-07-07T13:09:22Z","modified":"2026-07-09T09:33:09.751399308Z","summary":"Malicious code in rqeactjs (npm)","affected":[{"package":{"name":"rqeactjs","ecosystem":"npm","purl":"pkg:npm/rqeactjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

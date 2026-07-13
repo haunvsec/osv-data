@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7417","published":"2026-07-07T13:09:38Z","modified":"2026-07-09T09:33:10.856330076Z","summary":"Malicious code in rzeactjs (npm)","affected":[{"package":{"name":"rzeactjs","ecosystem":"npm","purl":"pkg:npm/rzeactjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

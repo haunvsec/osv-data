@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7097","published":"2026-07-07T12:31:06Z","modified":"2026-07-09T09:32:08.548295767Z","summary":"Malicious code in @tostringtag/nsettostringtag (npm)","affected":[{"package":{"name":"@tostringtag/nsettostringtag","ecosystem":"npm","purl":"pkg:npm/%40tostringtag/nsettostringtag"},"versions":["99.9.9"]}]}

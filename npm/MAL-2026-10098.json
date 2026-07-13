@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10098","published":"2026-07-09T22:16:42Z","modified":"2026-07-12T21:01:53.202814467Z","summary":"Malicious code in fastify-addone (npm)","affected":[{"package":{"name":"fastify-addone","ecosystem":"npm","purl":"pkg:npm/fastify-addone"},"versions":["5.1.0","5.1.1"]}]}

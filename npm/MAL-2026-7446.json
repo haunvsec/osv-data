@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7446","published":"2026-07-07T13:18:37Z","modified":"2026-07-09T09:33:19.697240766Z","summary":"Malicious code in zircuit-vault (npm)","affected":[{"package":{"name":"zircuit-vault","ecosystem":"npm","purl":"pkg:npm/zircuit-vault"},"versions":["99.0.0"]}]}

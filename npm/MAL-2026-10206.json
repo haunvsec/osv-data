@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10206","published":"2026-07-12T20:48:13Z","modified":"2026-07-12T21:01:53.766383359Z","summary":"Malicious code in nullrift (npm)","affected":[{"package":{"name":"nullrift","ecosystem":"npm","purl":"pkg:npm/nullrift"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10007","published":"2026-07-09T11:17:49Z","modified":"2026-07-09T13:31:47.250223063Z","aliases":["GHSA-w3w9-8p53-87h5"],"summary":"Malicious code in bizapi-portal (npm)","affected":[{"package":{"name":"bizapi-portal","ecosystem":"npm","purl":"pkg:npm/bizapi-portal"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7255","published":"2026-07-07T12:48:06Z","modified":"2026-07-09T09:32:39.392994126Z","summary":"Malicious code in elf-stats-bright-nutcracker-546 (npm)","affected":[{"package":{"name":"elf-stats-bright-nutcracker-546","ecosystem":"npm","purl":"pkg:npm/elf-stats-bright-nutcracker-546"},"versions":["1.1.0"]}]}

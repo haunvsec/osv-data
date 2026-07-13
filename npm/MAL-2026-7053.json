@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7053","published":"2026-07-07T12:18:54Z","modified":"2026-07-09T09:31:54.670421853Z","summary":"Malicious code in @bmg-web/bmg-review-basket (npm)","affected":[{"package":{"name":"@bmg-web/bmg-review-basket","ecosystem":"npm","purl":"pkg:npm/%40bmg-web/bmg-review-basket"},"versions":["999.9.9","999.9999.99"]}]}

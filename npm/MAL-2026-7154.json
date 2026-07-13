@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7154","published":"2026-07-07T12:37:07Z","modified":"2026-07-09T09:32:18.631687557Z","summary":"Malicious code in angularvs (npm)","affected":[{"package":{"name":"angularvs","ecosystem":"npm","purl":"pkg:npm/angularvs"},"versions":["8.7.6"]}]}

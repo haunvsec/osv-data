@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10154","published":"2026-07-10T16:46:54Z","modified":"2026-07-10T17:17:00.969531508Z","summary":"Malicious code in notify-dist (npm)","affected":[{"package":{"name":"notify-dist","ecosystem":"npm","purl":"pkg:npm/notify-dist"},"versions":["1.3.7"]}]}

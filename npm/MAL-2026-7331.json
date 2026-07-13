@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7331","published":"2026-07-07T13:01:53Z","modified":"2026-07-09T09:32:55.970451707Z","summary":"Malicious code in oidcsessioncheck-enduser (npm)","affected":[{"package":{"name":"oidcsessioncheck-enduser","ecosystem":"npm","purl":"pkg:npm/oidcsessioncheck-enduser"},"versions":["99.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7296","published":"2026-07-07T12:54:50Z","modified":"2026-07-09T09:32:46.798714344Z","summary":"Malicious code in iam-scripts (npm)","affected":[{"package":{"name":"iam-scripts","ecosystem":"npm","purl":"pkg:npm/iam-scripts"},"versions":["99.9.9"]}]}

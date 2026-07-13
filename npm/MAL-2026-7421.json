@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7421","published":"2026-07-07T13:10:51Z","modified":"2026-07-09T09:33:11.843894353Z","summary":"Malicious code in sitefinitywebapp (npm)","affected":[{"package":{"name":"sitefinitywebapp","ecosystem":"npm","purl":"pkg:npm/sitefinitywebapp"},"versions":["99.0.0"]}]}

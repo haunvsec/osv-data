@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7465","published":"2026-07-07T11:50:04Z","modified":"2026-07-09T09:33:22.472412816Z","summary":"Malicious code in quatre (PyPI)","affected":[{"package":{"name":"quatre","ecosystem":"PyPI","purl":"pkg:pypi/quatre"},"versions":["3.0.0"]}]}

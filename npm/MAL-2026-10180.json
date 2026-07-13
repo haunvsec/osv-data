@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10180","published":"2026-07-10T22:42:02Z","modified":"2026-07-11T01:01:49.851512691Z","aliases":["GHSA-8qpp-8j53-4wh7"],"summary":"Malicious code in auth-next-gen (npm)","affected":[{"package":{"name":"auth-next-gen","ecosystem":"npm","purl":"pkg:npm/auth-next-gen"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

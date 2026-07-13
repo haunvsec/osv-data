@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7079","published":"2026-07-07T12:24:40Z","modified":"2026-07-09T09:32:03.172503593Z","summary":"Malicious code in @karakuri-web-fgsfgehfg/common (npm)","affected":[{"package":{"name":"@karakuri-web-fgsfgehfg/common","ecosystem":"npm","purl":"pkg:npm/%40karakuri-web-fgsfgehfg/common"},"versions":["1.0.2"]}]}

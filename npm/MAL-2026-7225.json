@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7225","published":"2026-07-07T12:41:50Z","modified":"2026-07-09T09:32:29.573713243Z","summary":"Malicious code in bitu-wallet (npm)","affected":[{"package":{"name":"bitu-wallet","ecosystem":"npm","purl":"pkg:npm/bitu-wallet"},"versions":["99.0.0"]}]}

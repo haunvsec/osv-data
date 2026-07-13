@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10093","published":"2026-07-09T19:18:33Z","modified":"2026-07-09T20:16:49.730814494Z","summary":"Malicious code in @andrewstory18/is-real-odd (npm)","affected":[{"package":{"name":"@andrewstory18/is-real-odd","ecosystem":"npm","purl":"pkg:npm/%40andrewstory18/is-real-odd"},"versions":["2.0.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7104","published":"2026-07-07T12:34:08Z","modified":"2026-07-09T09:32:11.737039596Z","summary":"Malicious code in @xp-utilities/web (npm)","affected":[{"package":{"name":"@xp-utilities/web","ecosystem":"npm","purl":"pkg:npm/%40xp-utilities/web"},"versions":["99.0.0"]}]}

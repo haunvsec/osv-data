@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10006","published":"2026-07-09T11:20:48Z","modified":"2026-07-09T16:32:02.440996716Z","summary":"Malicious code in testing-d3do (npm)","affected":[{"package":{"name":"testing-d3do","ecosystem":"npm","purl":"pkg:npm/testing-d3do"},"versions":["99.9.9"]}]}

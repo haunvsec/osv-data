@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10114","published":"2026-07-10T06:45:55Z","modified":"2026-07-10T08:01:50.829295643Z","summary":"Malicious code in driftpin (npm)","affected":[{"package":{"name":"driftpin","ecosystem":"npm","purl":"pkg:npm/driftpin"},"versions":["1.0.0"]}]}

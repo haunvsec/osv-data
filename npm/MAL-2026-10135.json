@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10135","published":"2026-07-10T16:15:18Z","modified":"2026-07-10T19:16:58.276780953Z","summary":"Malicious code in theta-sdk-js (npm)","affected":[{"package":{"name":"theta-sdk-js","ecosystem":"npm","purl":"pkg:npm/theta-sdk-js"},"versions":["1.2.16","1.2.15","1.2.14","1.2.17"]}]}

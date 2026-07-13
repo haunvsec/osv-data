@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7206","published":"2026-07-07T12:38:37Z","modified":"2026-07-09T09:32:25.017720127Z","summary":"Malicious code in apache-arrow-17 (npm)","affected":[{"package":{"name":"apache-arrow-17","ecosystem":"npm","purl":"pkg:npm/apache-arrow-17"},"versions":["9.9.9"]}]}

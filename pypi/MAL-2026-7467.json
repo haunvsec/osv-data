@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7467","published":"2026-07-07T11:50:07Z","modified":"2026-07-09T09:33:22.925941607Z","summary":"Malicious code in scanvia (PyPI)","affected":[{"package":{"name":"scanvia","ecosystem":"PyPI","purl":"pkg:pypi/scanvia"},"versions":["0.1.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7083","published":"2026-07-07T12:25:36Z","modified":"2026-07-09T09:32:04.049699353Z","summary":"Malicious code in @magcd/pino-pretty-logger (npm)","affected":[{"package":{"name":"@magcd/pino-pretty-logger","ecosystem":"npm","purl":"pkg:npm/%40magcd/pino-pretty-logger"},"versions":["1.1.0"]}]}

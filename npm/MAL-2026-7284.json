@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7284","published":"2026-07-07T12:50:50Z","modified":"2026-07-09T09:32:43.394885842Z","summary":"Malicious code in express-flowlimit (npm)","affected":[{"package":{"name":"express-flowlimit","ecosystem":"npm","purl":"pkg:npm/express-flowlimit"},"versions":["2.2.7","2.2.8","2.2.9"]}]}

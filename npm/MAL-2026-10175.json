@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10175","published":"2026-07-10T21:24:50Z","modified":"2026-07-10T21:31:48.961448218Z","summary":"Malicious code in chai-as-doc (npm)","affected":[{"package":{"name":"chai-as-doc","ecosystem":"npm","purl":"pkg:npm/chai-as-doc"},"versions":["2.3.5"]}]}

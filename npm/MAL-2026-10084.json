@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10084","published":"2026-07-09T17:00:59Z","modified":"2026-07-09T17:31:59.302277481Z","summary":"Malicious code in conversionvaluemanager (npm)","affected":[{"package":{"name":"conversionvaluemanager","ecosystem":"npm","purl":"pkg:npm/conversionvaluemanager"},"versions":["3.0.0"]}]}

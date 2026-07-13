@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7149","published":"2026-07-07T12:37:05Z","modified":"2026-07-09T09:32:18.042292788Z","summary":"Malicious code in angularos (npm)","affected":[{"package":{"name":"angularos","ecosystem":"npm","purl":"pkg:npm/angularos"},"versions":["8.7.6"]}]}

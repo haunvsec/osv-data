@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7325","published":"2026-07-07T13:00:07Z","modified":"2026-07-09T09:32:54.225386612Z","summary":"Malicious code in mx-frontend (npm)","affected":[{"package":{"name":"mx-frontend","ecosystem":"npm","purl":"pkg:npm/mx-frontend"},"versions":["99.9.9"]}]}

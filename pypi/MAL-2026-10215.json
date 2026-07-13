@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10215","published":"2026-07-12T21:59:58Z","modified":"2026-07-12T22:31:50.320712021Z","summary":"Malicious code in fast-dotenv (PyPI)","affected":[{"package":{"name":"fast-dotenv","ecosystem":"PyPI","purl":"pkg:pypi/fast-dotenv"},"versions":["1.0.0"]}]}

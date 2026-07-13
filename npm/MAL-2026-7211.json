@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7211","published":"2026-07-07T12:39:50Z","modified":"2026-07-09T09:32:27.364805656Z","summary":"Malicious code in ashcare-ui-ember (npm)","affected":[{"package":{"name":"ashcare-ui-ember","ecosystem":"npm","purl":"pkg:npm/ashcare-ui-ember"},"versions":["99.99.99"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10037","published":"2026-07-09T15:14:27Z","modified":"2026-07-09T16:31:51.542804706Z","summary":"Malicious code in @wagni_bot/web3-toolkit (npm)","affected":[{"package":{"name":"@wagni_bot/web3-toolkit","ecosystem":"npm","purl":"pkg:npm/%40wagni_bot/web3-toolkit"},"versions":["1.2.0","1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7287","published":"2026-07-07T12:51:51Z","modified":"2026-07-09T09:32:44.668790507Z","summary":"Malicious code in fngularjs (npm)","affected":[{"package":{"name":"fngularjs","ecosystem":"npm","purl":"pkg:npm/fngularjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

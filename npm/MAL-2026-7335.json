@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7335","published":"2026-07-07T13:03:05Z","modified":"2026-07-09T09:32:57.534371126Z","summary":"Malicious code in ovault-evm (npm)","affected":[{"package":{"name":"ovault-evm","ecosystem":"npm","purl":"pkg:npm/ovault-evm"},"versions":["99.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7433","published":"2026-07-07T13:15:56Z","modified":"2026-07-09T09:33:16.487596204Z","summary":"Malicious code in vubiquity-website (npm)","affected":[{"package":{"name":"vubiquity-website","ecosystem":"npm","purl":"pkg:npm/vubiquity-website"},"versions":["3.9.10"]}]}

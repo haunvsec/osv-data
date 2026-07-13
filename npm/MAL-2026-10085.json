@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10085","published":"2026-07-09T16:34:18Z","modified":"2026-07-09T17:31:53.955181073Z","summary":"Malicious code in dependency_confusions (npm)","affected":[{"package":{"name":"dependency_confusions","ecosystem":"npm","purl":"pkg:npm/dependency_confusions"},"versions":["99.9.9"]}]}

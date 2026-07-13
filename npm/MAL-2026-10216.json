@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10216","published":"2026-07-13T00:47:59Z","modified":"2026-07-13T01:01:55.824012394Z","aliases":["GHSA-w2wx-f2m6-332m"],"summary":"Malicious code in node-sysmetrics (npm)","affected":[{"package":{"name":"node-sysmetrics","ecosystem":"npm","purl":"pkg:npm/node-sysmetrics"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7275","published":"2026-07-07T12:48:38Z","modified":"2026-07-09T09:32:41.494413494Z","summary":"Malicious code in elf-stats-snowdusted-bauble-546 (npm)","affected":[{"package":{"name":"elf-stats-snowdusted-bauble-546","ecosystem":"npm","purl":"pkg:npm/elf-stats-snowdusted-bauble-546"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7143","published":"2026-07-07T12:36:52Z","modified":"2026-07-09T09:32:17.291115770Z","summary":"Malicious code in angularfs (npm)","affected":[{"package":{"name":"angularfs","ecosystem":"npm","purl":"pkg:npm/angularfs"},"versions":["8.7.6"]}]}

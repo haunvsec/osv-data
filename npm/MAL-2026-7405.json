@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7405","published":"2026-07-07T13:09:08Z","modified":"2026-07-09T09:33:09.355070195Z","summary":"Malicious code in roblox-lua-promise (npm)","affected":[{"package":{"name":"roblox-lua-promise","ecosystem":"npm","purl":"pkg:npm/roblox-lua-promise"},"versions":["99.9.0"]}]}

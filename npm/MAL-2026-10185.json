@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10185","published":"2026-07-11T00:07:32Z","modified":"2026-07-12T21:31:53.583971966Z","aliases":["GHSA-frr6-2jc6-6fhr"],"summary":"Malicious code in authvaultx (npm)","affected":[{"package":{"name":"authvaultx","ecosystem":"npm","purl":"pkg:npm/authvaultx"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

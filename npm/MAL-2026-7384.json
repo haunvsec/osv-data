@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7384","published":"2026-07-07T13:08:09Z","modified":"2026-07-09T09:33:06.684149211Z","summary":"Malicious code in remactjs (npm)","affected":[{"package":{"name":"remactjs","ecosystem":"npm","purl":"pkg:npm/remactjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

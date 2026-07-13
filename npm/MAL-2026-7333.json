@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7333","published":"2026-07-07T13:02:53Z","modified":"2026-07-09T09:32:57.317222242Z","summary":"Malicious code in oreactjs (npm)","affected":[{"package":{"name":"oreactjs","ecosystem":"npm","purl":"pkg:npm/oreactjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10128","published":"2026-07-10T15:19:50Z","modified":"2026-07-10T15:32:11.574891364Z","summary":"Malicious code in ohcm-culture-formatting (npm)","affected":[{"package":{"name":"ohcm-culture-formatting","ecosystem":"npm","purl":"pkg:npm/ohcm-culture-formatting"},"versions":["5.0.0"]}]}

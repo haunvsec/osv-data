@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7069","published":"2026-07-07T12:23:23Z","modified":"2026-07-09T09:32:00.258697798Z","summary":"Malicious code in @frontembed/lib (npm)","affected":[{"package":{"name":"@frontembed/lib","ecosystem":"npm","purl":"pkg:npm/%40frontembed/lib"},"versions":["99.99.99"]}]}

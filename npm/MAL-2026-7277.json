@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7277","published":"2026-07-07T12:48:51Z","modified":"2026-07-09T09:32:41.853332104Z","summary":"Malicious code in elf-stats-storybook-snowman-513 (npm)","affected":[{"package":{"name":"elf-stats-storybook-snowman-513","ecosystem":"npm","purl":"pkg:npm/elf-stats-storybook-snowman-513"},"versions":["2.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10172","published":"2026-07-10T18:38:06Z","modified":"2026-07-10T19:16:58.270635569Z","summary":"Malicious code in paysafe-payments (npm)","affected":[{"package":{"name":"paysafe-payments","ecosystem":"npm","purl":"pkg:npm/paysafe-payments"},"versions":["1.0.0"]}]}

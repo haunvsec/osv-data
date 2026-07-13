@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7190","published":"2026-07-07T12:38:05Z","modified":"2026-07-09T09:32:22.915207337Z","summary":"Malicious code in anguparjs (npm)","affected":[{"package":{"name":"anguparjs","ecosystem":"npm","purl":"pkg:npm/anguparjs"},"versions":["1.1.4","8.7.6"]}]}

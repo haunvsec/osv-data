@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10050","published":"2026-07-09T15:29:51Z","modified":"2026-07-10T16:16:53.652978520Z","aliases":["GHSA-hqh4-jccw-jxg6"],"summary":"Malicious code in chai-defender (npm)","affected":[{"package":{"name":"chai-defender","ecosystem":"npm","purl":"pkg:npm/chai-defender"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

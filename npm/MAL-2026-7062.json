@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7062","published":"2026-07-07T12:20:25Z","modified":"2026-07-09T09:31:56.294092965Z","summary":"Malicious code in @combinezone/theme (npm)","affected":[{"package":{"name":"@combinezone/theme","ecosystem":"npm","purl":"pkg:npm/%40combinezone/theme"},"versions":["99.9.9","99.9.10"]}]}

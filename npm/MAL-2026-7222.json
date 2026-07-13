@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7222","published":"2026-07-07T12:41:38Z","modified":"2026-07-09T09:32:29.196425142Z","summary":"Malicious code in bitu-sdk (npm)","affected":[{"package":{"name":"bitu-sdk","ecosystem":"npm","purl":"pkg:npm/bitu-sdk"},"versions":["99.0.0"]}]}

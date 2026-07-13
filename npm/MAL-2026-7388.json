@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7388","published":"2026-07-07T13:08:36Z","modified":"2026-07-09T09:33:07.324152262Z","summary":"Malicious code in retactjs (npm)","affected":[{"package":{"name":"retactjs","ecosystem":"npm","purl":"pkg:npm/retactjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

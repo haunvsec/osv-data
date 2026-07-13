@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10076","published":"2026-07-09T15:41:21Z","modified":"2026-07-10T17:02:06.114491573Z","aliases":["GHSA-r8h6-7hvm-3xcp"],"summary":"Malicious code in ts-eslint-jest (npm)","affected":[{"package":{"name":"ts-eslint-jest","ecosystem":"npm","purl":"pkg:npm/ts-eslint-jest"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

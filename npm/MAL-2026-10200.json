@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10200","published":"2026-07-12T20:46:51Z","modified":"2026-07-12T21:01:54.145006050Z","summary":"Malicious code in api-changelly (npm)","affected":[{"package":{"name":"api-changelly","ecosystem":"npm","purl":"pkg:npm/api-changelly"},"versions":["19.2.11"]}]}

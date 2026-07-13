@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7352","published":"2026-07-07T13:05:36Z","modified":"2026-07-09T09:33:02.468734488Z","summary":"Malicious code in pull-request-comment-branch (npm)","affected":[{"package":{"name":"pull-request-comment-branch","ecosystem":"npm","purl":"pkg:npm/pull-request-comment-branch"},"versions":["9.9.1"]}]}

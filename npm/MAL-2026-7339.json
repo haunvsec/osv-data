@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7339","published":"2026-07-07T13:03:50Z","modified":"2026-07-09T09:32:58.996287109Z","summary":"Malicious code in penny-core (npm)","affected":[{"package":{"name":"penny-core","ecosystem":"npm","purl":"pkg:npm/penny-core"},"versions":["99.0.1"]}]}

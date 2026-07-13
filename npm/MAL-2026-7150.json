@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7150","published":"2026-07-07T12:37:06Z","modified":"2026-07-09T09:32:18.269360366Z","summary":"Malicious code in angularps (npm)","affected":[{"package":{"name":"angularps","ecosystem":"npm","purl":"pkg:npm/angularps"},"versions":["1.1.4","8.7.6"]}]}

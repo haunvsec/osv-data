@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7145","published":"2026-07-07T12:36:53Z","modified":"2026-07-09T09:32:17.594554992Z","summary":"Malicious code in angularhs (npm)","affected":[{"package":{"name":"angularhs","ecosystem":"npm","purl":"pkg:npm/angularhs"},"versions":["8.7.6"]}]}

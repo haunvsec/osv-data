@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7342","published":"2026-07-07T13:03:53Z","modified":"2026-07-09T09:32:59.220417294Z","summary":"Malicious code in picnic-store-delivery-miniapp (npm)","affected":[{"package":{"name":"picnic-store-delivery-miniapp","ecosystem":"npm","purl":"pkg:npm/picnic-store-delivery-miniapp"},"versions":["9999.0.0"]}]}

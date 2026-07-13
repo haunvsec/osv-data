@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7280","published":"2026-07-07T12:49:36Z","modified":"2026-07-09T09:32:42.366504394Z","summary":"Malicious code in eslint-plugin-click-ui (npm)","affected":[{"package":{"name":"eslint-plugin-click-ui","ecosystem":"npm","purl":"pkg:npm/eslint-plugin-click-ui"},"versions":["15.5.0"]}]}

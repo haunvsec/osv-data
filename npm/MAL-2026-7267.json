@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7267","published":"2026-07-07T12:48:35Z","modified":"2026-07-09T09:32:40.431777471Z","summary":"Malicious code in elf-stats-marzipan-saddlebag-291 (npm)","affected":[{"package":{"name":"elf-stats-marzipan-saddlebag-291","ecosystem":"npm","purl":"pkg:npm/elf-stats-marzipan-saddlebag-291"},"versions":["1.0.0"]}]}

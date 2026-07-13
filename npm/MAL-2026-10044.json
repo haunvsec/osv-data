@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10044","published":"2026-07-09T15:32:33Z","modified":"2026-07-09T16:31:52.738615585Z","summary":"Malicious code in chai-as-serialized (npm)","affected":[{"package":{"name":"chai-as-serialized","ecosystem":"npm","purl":"pkg:npm/chai-as-serialized"},"versions":["7.0.8"]}]}

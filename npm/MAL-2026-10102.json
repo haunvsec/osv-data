@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10102","published":"2026-07-09T23:10:31Z","modified":"2026-07-09T23:47:00.595786178Z","summary":"Malicious code in dc-repro (npm)","affected":[{"package":{"name":"dc-repro","ecosystem":"npm","purl":"pkg:npm/dc-repro"},"versions":["2.1.2"]}]}

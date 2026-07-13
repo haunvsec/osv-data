@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10153","published":"2026-07-10T16:46:36Z","modified":"2026-07-10T17:17:00.873390387Z","summary":"Malicious code in notifier-log (npm)","affected":[{"package":{"name":"notifier-log","ecosystem":"npm","purl":"pkg:npm/notifier-log"},"versions":["1.3.5"]}]}

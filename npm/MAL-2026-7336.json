@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7336","published":"2026-07-07T13:03:06Z","modified":"2026-07-09T09:32:58.057775408Z","summary":"Malicious code in oztxrk-mfa (npm)","affected":[{"package":{"name":"oztxrk-mfa","ecosystem":"npm","purl":"pkg:npm/oztxrk-mfa"},"versions":["1.0.0"]}]}

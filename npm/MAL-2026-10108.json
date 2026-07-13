@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10108","published":"2026-07-09T23:04:55Z","modified":"2026-07-09T23:47:00.196011237Z","summary":"Malicious code in url-func-registry (npm)","affected":[{"package":{"name":"url-func-registry","ecosystem":"npm","purl":"pkg:npm/url-func-registry"},"versions":["1.0.4"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7258","published":"2026-07-07T12:48:08Z","modified":"2026-07-09T09:32:39.476988570Z","summary":"Malicious code in elf-stats-candlelit-pantry-649 (npm)","affected":[{"package":{"name":"elf-stats-candlelit-pantry-649","ecosystem":"npm","purl":"pkg:npm/elf-stats-candlelit-pantry-649"},"versions":["1.0.0"]}]}

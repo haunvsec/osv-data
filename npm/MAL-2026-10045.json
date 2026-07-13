@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10045","published":"2026-07-09T15:31:55Z","modified":"2026-07-09T16:31:52.934548520Z","summary":"Malicious code in chai-as-sharpened (npm)","affected":[{"package":{"name":"chai-as-sharpened","ecosystem":"npm","purl":"pkg:npm/chai-as-sharpened"},"versions":["7.0.9"]}]}

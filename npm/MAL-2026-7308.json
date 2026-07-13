@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7308","published":"2026-07-07T12:57:07Z","modified":"2026-07-09T09:32:50.039310786Z","summary":"Malicious code in lage-npm (npm)","affected":[{"package":{"name":"lage-npm","ecosystem":"npm","purl":"pkg:npm/lage-npm"},"versions":["99.12.9"]}]}

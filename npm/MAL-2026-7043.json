@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7043","published":"2026-07-07T12:18:24Z","modified":"2026-07-09T09:31:53.079678056Z","summary":"Malicious code in @athena-ui-components/helpers (npm)","affected":[{"package":{"name":"@athena-ui-components/helpers","ecosystem":"npm","purl":"pkg:npm/%40athena-ui-components/helpers"},"versions":["1.1.23","1.1.24"]}]}

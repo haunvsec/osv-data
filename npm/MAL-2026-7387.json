@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7387","published":"2026-07-07T13:08:36Z","modified":"2026-07-09T09:33:07.270033877Z","summary":"Malicious code in resource-library-engine (npm)","affected":[{"package":{"name":"resource-library-engine","ecosystem":"npm","purl":"pkg:npm/resource-library-engine"},"versions":["99.99.99"]}]}

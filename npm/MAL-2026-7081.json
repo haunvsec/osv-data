@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7081","published":"2026-07-07T12:25:26Z","modified":"2026-07-09T09:32:03.774583222Z","summary":"Malicious code in @louisvuitton/configurator-common-lib (npm)","affected":[{"package":{"name":"@louisvuitton/configurator-common-lib","ecosystem":"npm","purl":"pkg:npm/%40louisvuitton/configurator-common-lib"},"versions":["99.99.99"]}]}

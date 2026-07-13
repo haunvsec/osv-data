@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10066","published":"2026-07-09T15:54:52Z","modified":"2026-07-09T16:31:59.897534164Z","summary":"Malicious code in nps-retrieval-diagnostics (npm)","affected":[{"package":{"name":"nps-retrieval-diagnostics","ecosystem":"npm","purl":"pkg:npm/nps-retrieval-diagnostics"},"versions":["9.9.9"]}]}

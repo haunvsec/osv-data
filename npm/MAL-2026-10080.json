@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10080","published":"2026-07-09T15:45:45Z","modified":"2026-07-09T16:32:05.078737603Z","summary":"Malicious code in webrix-docs (npm)","affected":[{"package":{"name":"webrix-docs","ecosystem":"npm","purl":"pkg:npm/webrix-docs"},"versions":["20.2.11"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7212","published":"2026-07-07T12:39:53Z","modified":"2026-07-09T09:32:27.365858055Z","summary":"Malicious code in atgularjs (npm)","affected":[{"package":{"name":"atgularjs","ecosystem":"npm","purl":"pkg:npm/atgularjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

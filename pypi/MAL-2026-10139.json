@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10139","published":"2026-07-10T15:51:13Z","modified":"2026-07-10T17:17:02.071413213Z","summary":"Malicious code in turbocalc (PyPI)","affected":[{"package":{"name":"turbocalc","ecosystem":"PyPI","purl":"pkg:pypi/turbocalc"},"versions":["0.1.0"]}]}

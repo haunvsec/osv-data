@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7112","published":"2026-07-07T12:35:53Z","modified":"2026-07-09T09:32:13.782437525Z","summary":"Malicious code in amgularjs (npm)","affected":[{"package":{"name":"amgularjs","ecosystem":"npm","purl":"pkg:npm/amgularjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

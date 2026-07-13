@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10051","published":"2026-07-09T15:32:06Z","modified":"2026-07-09T16:31:54.106519169Z","summary":"Malicious code in chai-deflect (npm)","affected":[{"package":{"name":"chai-deflect","ecosystem":"npm","purl":"pkg:npm/chai-deflect"},"versions":["1.1.5","1.1.6"]}]}

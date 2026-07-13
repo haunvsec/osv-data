@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7466","published":"2026-07-07T11:50:07Z","modified":"2026-07-09T09:33:22.930153567Z","summary":"Malicious code in scan-checker (PyPI)","affected":[{"package":{"name":"scan-checker","ecosystem":"PyPI","purl":"pkg:pypi/scan-checker"},"versions":["0.1.0"]}]}

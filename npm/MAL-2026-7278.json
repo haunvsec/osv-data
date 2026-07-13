@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7278","published":"2026-07-07T12:48:51Z","modified":"2026-07-09T09:32:41.916289390Z","summary":"Malicious code in elf-stats-storybook-workshop-935 (npm)","affected":[{"package":{"name":"elf-stats-storybook-workshop-935","ecosystem":"npm","purl":"pkg:npm/elf-stats-storybook-workshop-935"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10182","published":"2026-07-10T22:42:45Z","modified":"2026-07-10T23:01:53.717524481Z","summary":"Malicious code in express-guardian (npm)","affected":[{"package":{"name":"express-guardian","ecosystem":"npm","purl":"pkg:npm/express-guardian"},"versions":["1.4.1","1.4.3"]}]}

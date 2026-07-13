@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10152","published":"2026-07-10T16:46:28Z","modified":"2026-07-10T17:17:02.359630283Z","summary":"Malicious code in notifier-funcs (npm)","affected":[{"package":{"name":"notifier-funcs","ecosystem":"npm","purl":"pkg:npm/notifier-funcs"},"versions":["1.3.4"]}]}

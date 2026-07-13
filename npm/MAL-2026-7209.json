@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7209","published":"2026-07-07T12:39:23Z","modified":"2026-07-09T09:32:26.768183531Z","summary":"Malicious code in areactjs (npm)","affected":[{"package":{"name":"areactjs","ecosystem":"npm","purl":"pkg:npm/areactjs"},"versions":["1.1.1","1.1.4","8.7.6"]}]}

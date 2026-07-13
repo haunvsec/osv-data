@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7068","published":"2026-07-07T12:21:51Z","modified":"2026-07-09T09:31:59.417118119Z","summary":"Malicious code in @endurosat/stellar-ui (npm)","affected":[{"package":{"name":"@endurosat/stellar-ui","ecosystem":"npm","purl":"pkg:npm/%40endurosat/stellar-ui"},"versions":["12.5.6"]}]}

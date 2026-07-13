@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10197","published":"2026-07-12T11:23:55Z","modified":"2026-07-12T15:31:57.002719911Z","summary":"Malicious code in metemask-sdk (PyPI)","affected":[{"package":{"name":"metemask-sdk","ecosystem":"PyPI","purl":"pkg:pypi/metemask-sdk"},"versions":["1.2.0","1.2.1"]}]}

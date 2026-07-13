@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7337","published":"2026-07-07T13:03:37Z","modified":"2026-07-09T09:32:58.611672703Z","summary":"Malicious code in paypal-legal-components (npm)","affected":[{"package":{"name":"paypal-legal-components","ecosystem":"npm","purl":"pkg:npm/paypal-legal-components"},"versions":["99.0.0"]}]}

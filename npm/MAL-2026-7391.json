@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7391","published":"2026-07-07T13:08:37Z","modified":"2026-07-09T09:33:07.671311556Z","summary":"Malicious code in rewactjs (npm)","affected":[{"package":{"name":"rewactjs","ecosystem":"npm","purl":"pkg:npm/rewactjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

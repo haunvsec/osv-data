@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10205","published":"2026-07-12T20:47:17Z","modified":"2026-07-12T21:01:53.661194256Z","summary":"Malicious code in library-explorer (npm)","affected":[{"package":{"name":"library-explorer","ecosystem":"npm","purl":"pkg:npm/library-explorer"},"versions":["25.2.1"]}]}

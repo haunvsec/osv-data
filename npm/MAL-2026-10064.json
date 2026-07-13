@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10064","published":"2026-07-09T15:55:43Z","modified":"2026-07-09T23:02:01.589213680Z","summary":"Malicious code in multer-orm (npm)","affected":[{"package":{"name":"multer-orm","ecosystem":"npm","purl":"pkg:npm/multer-orm"},"versions":["2.0.6","2.0.2","2.0.7","2.0.5","2.0.4","2.0.3"]}]}

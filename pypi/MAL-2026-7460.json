@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7460","published":"2026-07-07T11:49:56Z","modified":"2026-07-09T09:33:22.015167111Z","summary":"Malicious code in pygremlinbox-malware-code-obfuscation (PyPI)","affected":[{"package":{"name":"pygremlinbox-malware-code-obfuscation","ecosystem":"PyPI","purl":"pkg:pypi/pygremlinbox-malware-code-obfuscation"},"versions":["2.0.0"]}]}

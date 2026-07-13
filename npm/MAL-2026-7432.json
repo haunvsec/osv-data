@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7432","published":"2026-07-07T13:15:54Z","modified":"2026-07-09T09:33:16.192523217Z","summary":"Malicious code in vscode-component-explorer (npm)","affected":[{"package":{"name":"vscode-component-explorer","ecosystem":"npm","purl":"pkg:npm/vscode-component-explorer"},"versions":["99.9.9","99.9.15"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7375","published":"2026-07-07T13:07:51Z","modified":"2026-07-09T09:33:05.628714295Z","summary":"Malicious code in reatctjs (npm)","affected":[{"package":{"name":"reatctjs","ecosystem":"npm","purl":"pkg:npm/reatctjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

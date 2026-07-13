@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7365","published":"2026-07-07T13:06:36Z","modified":"2026-07-09T09:33:04.326640431Z","summary":"Malicious code in react-datepicker-next (npm)","affected":[{"package":{"name":"react-datepicker-next","ecosystem":"npm","purl":"pkg:npm/react-datepicker-next"},"versions":["93.98.5"]}]}

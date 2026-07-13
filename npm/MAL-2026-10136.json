@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10136","published":"2026-07-10T15:39:56Z","modified":"2026-07-10T16:31:59.449297214Z","summary":"Malicious code in transform-es2015-sticky-regex (npm)","affected":[{"package":{"name":"transform-es2015-sticky-regex","ecosystem":"npm","purl":"pkg:npm/transform-es2015-sticky-regex"},"versions":["6.24.3"]}]}

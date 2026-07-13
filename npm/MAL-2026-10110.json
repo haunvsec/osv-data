@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10110","published":"2026-07-10T02:56:04Z","modified":"2026-07-10T15:33:27.952428775Z","aliases":["GHSA-5v8m-v9mp-gf8h"],"summary":"Malicious code in nodemon-patch (npm)","affected":[{"package":{"name":"nodemon-patch","ecosystem":"npm","purl":"pkg:npm/nodemon-patch"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

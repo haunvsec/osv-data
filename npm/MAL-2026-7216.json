@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7216","published":"2026-07-07T12:40:37Z","modified":"2026-07-09T09:32:28.330920264Z","summary":"Malicious code in babelcode_js (npm)","affected":[{"package":{"name":"babelcode_js","ecosystem":"npm","purl":"pkg:npm/babelcode_js"},"versions":["99.12.9"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7220","published":"2026-07-07T12:41:37Z","modified":"2026-07-09T09:32:29.089252303Z","summary":"Malicious code in bitu-core (npm)","affected":[{"package":{"name":"bitu-core","ecosystem":"npm","purl":"pkg:npm/bitu-core"},"versions":["99.0.0"]}]}

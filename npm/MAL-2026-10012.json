@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10012","published":"2026-07-09T11:26:45Z","modified":"2026-07-09T16:31:58.385733958Z","aliases":["GHSA-frcx-7v83-jfwx"],"summary":"Malicious code in mchain-sdk (npm)","affected":[{"package":{"name":"mchain-sdk","ecosystem":"npm","purl":"pkg:npm/mchain-sdk"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

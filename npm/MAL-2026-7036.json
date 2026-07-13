@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7036","published":"2026-07-07T12:17:20Z","modified":"2026-07-09T09:31:57.803127707Z","summary":"Malicious code in @app-tray-ui/stencil-component (npm)","affected":[{"package":{"name":"@app-tray-ui/stencil-component","ecosystem":"npm","purl":"pkg:npm/%40app-tray-ui/stencil-component"},"versions":["10.1.0"]}]}

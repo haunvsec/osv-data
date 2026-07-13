@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10210","published":"2026-07-12T20:55:56Z","modified":"2026-07-12T21:31:52.885466398Z","summary":"Malicious code in mcp-notes-server-poc-praetorian (npm)","affected":[{"package":{"name":"mcp-notes-server-poc-praetorian","ecosystem":"npm","purl":"pkg:npm/mcp-notes-server-poc-praetorian"},"versions":["0.1.0"]}]}

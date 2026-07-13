@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7330","published":"2026-07-07T13:01:36Z","modified":"2026-07-09T09:32:55.773725725Z","summary":"Malicious code in nreactjs (npm)","affected":[{"package":{"name":"nreactjs","ecosystem":"npm","purl":"pkg:npm/nreactjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

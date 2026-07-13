@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7226","published":"2026-07-07T12:41:53Z","modified":"2026-07-09T09:32:29.808054414Z","summary":"Malicious code in bmg-user-interaction-tracker (npm)","affected":[{"package":{"name":"bmg-user-interaction-tracker","ecosystem":"npm","purl":"pkg:npm/bmg-user-interaction-tracker"},"versions":["999.9.9"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10119","published":"2026-07-10T12:10:53Z","modified":"2026-07-10T13:31:03.747574430Z","summary":"Malicious code in sankislayer (PyPI)","affected":[{"package":{"name":"sankislayer","ecosystem":"PyPI","purl":"pkg:pypi/sankislayer"},"versions":["1.0.0"]}]}

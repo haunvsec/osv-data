@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7304","published":"2026-07-07T12:55:53Z","modified":"2026-07-09T09:32:48.073547501Z","summary":"Malicious code in ixpresso-core (npm)","affected":[{"package":{"name":"ixpresso-core","ecosystem":"npm","purl":"pkg:npm/ixpresso-core"},"versions":["1.0.0","1.0.1","1.0.2"]}]}

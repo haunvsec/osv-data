@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7395","published":"2026-07-07T13:08:51Z","modified":"2026-07-09T09:33:08.116022588Z","summary":"Malicious code in rheactjs (npm)","affected":[{"package":{"name":"rheactjs","ecosystem":"npm","purl":"pkg:npm/rheactjs"},"versions":["1.1.2","1.1.4","8.7.6"]}]}

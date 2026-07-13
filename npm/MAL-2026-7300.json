@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7300","published":"2026-07-07T12:54:52Z","modified":"2026-07-09T09:32:47.370281831Z","summary":"Malicious code in ict-ui-carbon (npm)","affected":[{"package":{"name":"ict-ui-carbon","ecosystem":"npm","purl":"pkg:npm/ict-ui-carbon"},"versions":["99.99.99"]}]}

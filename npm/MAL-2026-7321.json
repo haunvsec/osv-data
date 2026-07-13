@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7321","published":"2026-07-07T12:59:23Z","modified":"2026-07-09T09:32:53.367202780Z","summary":"Malicious code in modustack (npm)","affected":[{"package":{"name":"modustack","ecosystem":"npm","purl":"pkg:npm/modustack"},"versions":["1.0.1","1.0.3","1.0.4"]}]}

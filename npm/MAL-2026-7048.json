@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7048","published":"2026-07-07T12:18:37Z","modified":"2026-07-09T09:31:53.716563691Z","summary":"Malicious code in @athena-ui-components/user-activity (npm)","affected":[{"package":{"name":"@athena-ui-components/user-activity","ecosystem":"npm","purl":"pkg:npm/%40athena-ui-components/user-activity"},"versions":["1.9.35","1.9.36"]}]}

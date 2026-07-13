@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7032","published":"2026-07-09T05:53:35Z","modified":"2026-07-09T07:31:44.680662893Z","aliases":["GHSA-f5r3-gf4p-pf67"],"summary":"Malicious code in myclaude-code (npm)","affected":[{"package":{"name":"myclaude-code","ecosystem":"npm","purl":"pkg:npm/myclaude-code"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

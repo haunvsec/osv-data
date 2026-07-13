@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7438","published":"2026-07-07T13:16:50Z","modified":"2026-07-09T09:33:17.436644956Z","summary":"Malicious code in whaleco-assets-json (npm)","affected":[{"package":{"name":"whaleco-assets-json","ecosystem":"npm","purl":"pkg:npm/whaleco-assets-json"},"versions":["99.9.9","100.0.5"]}]}

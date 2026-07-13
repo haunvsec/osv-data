@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10151","published":"2026-07-10T16:54:54Z","modified":"2026-07-10T17:17:01.884296906Z","summary":"Malicious code in buffer-util-internal (npm)","affected":[{"package":{"name":"buffer-util-internal","ecosystem":"npm","purl":"pkg:npm/buffer-util-internal"},"versions":["1.0.13","1.0.14"]}]}

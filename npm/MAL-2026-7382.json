@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7382","published":"2026-07-07T13:08:07Z","modified":"2026-07-09T09:33:06.403478469Z","summary":"Malicious code in rei-internal-logger (npm)","affected":[{"package":{"name":"rei-internal-logger","ecosystem":"npm","purl":"pkg:npm/rei-internal-logger"},"versions":["99.9.9","100.0.0"]}]}
