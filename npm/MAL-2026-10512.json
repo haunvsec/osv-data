@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10512","published":"2026-07-13T22:17:03Z","modified":"2026-07-13T22:46:55.309539329Z","aliases":["GHSA-h8x5-f48q-v2h7"],"summary":"Malicious code in type-unique (npm)","affected":[{"package":{"name":"type-unique","ecosystem":"npm","purl":"pkg:npm/type-unique"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10331","published":"2026-07-13T06:27:39Z","modified":"2026-07-13T07:32:03.068998388Z","aliases":["GHSA-7m92-3w8w-hxrp"],"summary":"Malicious code in kirkland (npm)","affected":[{"package":{"name":"kirkland","ecosystem":"npm","purl":"pkg:npm/kirkland"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

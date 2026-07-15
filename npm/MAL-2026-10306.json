@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10306","published":"2026-07-13T06:27:40Z","modified":"2026-07-13T09:16:58.412222843Z","aliases":["GHSA-98c4-6856-4822"],"summary":"Malicious code in imillegal1 (npm)","affected":[{"package":{"name":"imillegal1","ecosystem":"npm","purl":"pkg:npm/imillegal1"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

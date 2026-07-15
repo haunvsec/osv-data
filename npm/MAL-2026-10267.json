@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10267","published":"2026-07-13T06:27:42Z","modified":"2026-07-13T09:16:54.786442481Z","aliases":["GHSA-fwjx-23mw-83cp"],"summary":"Malicious code in abuden226 (npm)","affected":[{"package":{"name":"abuden226","ecosystem":"npm","purl":"pkg:npm/abuden226"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

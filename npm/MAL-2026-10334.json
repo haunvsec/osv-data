@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10334","published":"2026-07-13T06:27:39Z","modified":"2026-07-14T07:19:13.333106257Z","aliases":["GHSA-wq56-6fvg-rgjg"],"summary":"Malicious code in midnightrush (npm)","affected":[{"package":{"name":"midnightrush","ecosystem":"npm","purl":"pkg:npm/midnightrush"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10552","published":"2026-07-14T05:21:51Z","modified":"2026-07-14T18:49:33.902190601Z","summary":"Malicious code in eth-dev (npm)","affected":[{"package":{"name":"eth-dev","ecosystem":"npm","purl":"pkg:npm/eth-dev"},"versions":["1.0.1","1.0.0","1.0.2","1.0.3","1.0.4"]}]}

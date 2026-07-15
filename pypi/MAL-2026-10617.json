@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10617","published":"2026-07-14T20:02:31Z","modified":"2026-07-14T20:49:31.761964502Z","summary":"Malicious code in cosmos-cuda (PyPI)","affected":[{"package":{"name":"cosmos-cuda","ecosystem":"PyPI","purl":"pkg:pypi/cosmos-cuda"},"versions":["9999.0.0","9999.0.1"]}]}

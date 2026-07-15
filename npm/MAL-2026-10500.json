@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10500","published":"2026-07-13T21:31:57Z","modified":"2026-07-13T22:01:56.913463015Z","summary":"Malicious code in express-bunker (npm)","affected":[{"package":{"name":"express-bunker","ecosystem":"npm","purl":"pkg:npm/express-bunker"},"versions":["6.1.0"]}]}

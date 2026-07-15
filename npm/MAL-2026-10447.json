@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10447","published":"2026-07-13T14:03:08Z","modified":"2026-07-13T19:01:56.609148252Z","aliases":["GHSA-pw78-w6gv-hfcr"],"summary":"Malicious code in remarkable-table (npm)","affected":[{"package":{"name":"remarkable-table","ecosystem":"npm","purl":"pkg:npm/remarkable-table"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

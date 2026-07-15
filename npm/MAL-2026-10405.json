@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10405","published":"2026-07-13T06:53:07Z","modified":"2026-07-13T07:47:00.903871083Z","summary":"Malicious code in @torbeck/heap (npm)","affected":[{"package":{"name":"@torbeck/heap","ecosystem":"npm","purl":"pkg:npm/%40torbeck/heap"},"versions":["4.3.14","4.3.11","4.3.10"]}]}

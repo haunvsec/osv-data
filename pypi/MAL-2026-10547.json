@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10547","published":"2026-07-14T03:56:56Z","modified":"2026-07-14T04:46:59.183692344Z","summary":"Malicious code in pokee-data-utils (PyPI)","affected":[{"package":{"name":"pokee-data-utils","ecosystem":"PyPI","purl":"pkg:pypi/pokee-data-utils"},"versions":["1.0.1"]}]}

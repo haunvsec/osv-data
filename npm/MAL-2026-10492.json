@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10492","published":"2026-07-13T20:54:40Z","modified":"2026-07-13T21:31:55.428495949Z","summary":"Malicious code in font-huge (npm)","affected":[{"package":{"name":"font-huge","ecosystem":"npm","purl":"pkg:npm/font-huge"},"versions":["2.5.3"]}]}

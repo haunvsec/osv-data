@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10463","published":"2026-07-13T17:37:21Z","modified":"2026-07-13T18:16:55.314436319Z","summary":"Malicious code in node-path-addon (npm)","affected":[{"package":{"name":"node-path-addon","ecosystem":"npm","purl":"pkg:npm/node-path-addon"},"versions":["1.0.8"]}]}

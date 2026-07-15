@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10472","published":"2026-07-13T19:34:41Z","modified":"2026-07-13T19:46:54.409539112Z","summary":"Malicious code in @torbeck/priority-queue (npm)","affected":[{"package":{"name":"@torbeck/priority-queue","ecosystem":"npm","purl":"pkg:npm/%40torbeck/priority-queue"},"versions":["6.3.9","6.3.7","6.3.6"]}]}

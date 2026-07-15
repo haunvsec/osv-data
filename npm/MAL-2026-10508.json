@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10508","published":"2026-07-13T22:11:54Z","modified":"2026-07-13T22:31:56.583852930Z","summary":"Malicious code in nodemon-elint (npm)","affected":[{"package":{"name":"nodemon-elint","ecosystem":"npm","purl":"pkg:npm/nodemon-elint"},"versions":["3.1.13"]}]}

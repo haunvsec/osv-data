@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10354","published":"2026-07-13T06:27:41Z","modified":"2026-07-13T09:17:03.186563103Z","aliases":["GHSA-3f8x-cq42-265w"],"summary":"Malicious code in nottuff29 (npm)","affected":[{"package":{"name":"nottuff29","ecosystem":"npm","purl":"pkg:npm/nottuff29"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

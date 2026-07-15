@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10491","published":"2026-07-13T21:00:08Z","modified":"2026-07-13T21:31:54.809140135Z","summary":"Malicious code in assertcoreutils (npm)","affected":[{"package":{"name":"assertcoreutils","ecosystem":"npm","purl":"pkg:npm/assertcoreutils"},"versions":["2.3.2","2.3.3"]}]}

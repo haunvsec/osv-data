@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10305","published":"2026-07-13T06:27:39Z","modified":"2026-07-14T07:19:10.719525232Z","aliases":["GHSA-8c24-4468-4rgj"],"summary":"Malicious code in ilovefemboys (npm)","affected":[{"package":{"name":"ilovefemboys","ecosystem":"npm","purl":"pkg:npm/ilovefemboys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10407","published":"2026-07-13T06:51:07Z","modified":"2026-07-13T07:47:00.840740744Z","summary":"Malicious code in awesome-terminal (npm)","affected":[{"package":{"name":"awesome-terminal","ecosystem":"npm","purl":"pkg:npm/awesome-terminal"},"versions":["1.0.3"]}]}

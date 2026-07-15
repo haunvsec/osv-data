@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10530","published":"2026-07-14T03:53:29Z","modified":"2026-07-14T04:47:00.354203738Z","summary":"Malicious code in cbr-internal-utils (npm)","affected":[{"package":{"name":"cbr-internal-utils","ecosystem":"npm","purl":"pkg:npm/cbr-internal-utils"},"versions":["2.2.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10440","published":"2026-07-13T09:21:55Z","modified":"2026-07-13T19:01:56.704717505Z","aliases":["GHSA-rw86-h32r-9xf5"],"summary":"Malicious code in type-context (npm)","affected":[{"package":{"name":"type-context","ecosystem":"npm","purl":"pkg:npm/type-context"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

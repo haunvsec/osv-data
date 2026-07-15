@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10280","published":"2026-07-13T06:27:41Z","modified":"2026-07-13T09:16:56.342140958Z","aliases":["GHSA-7v8w-8gfp-hcv3"],"summary":"Malicious code in abuden4 (npm)","affected":[{"package":{"name":"abuden4","ecosystem":"npm","purl":"pkg:npm/abuden4"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

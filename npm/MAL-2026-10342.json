@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10342","published":"2026-07-13T06:27:41Z","modified":"2026-07-13T09:17:01.310128552Z","aliases":["GHSA-357m-v9rc-p2jh"],"summary":"Malicious code in nottuff16 (npm)","affected":[{"package":{"name":"nottuff16","ecosystem":"npm","purl":"pkg:npm/nottuff16"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10618","published":"2026-07-14T20:06:55Z","modified":"2026-07-14T20:49:31.090506704Z","summary":"Malicious code in cosmos-gradio (PyPI)","affected":[{"package":{"name":"cosmos-gradio","ecosystem":"PyPI","purl":"pkg:pypi/cosmos-gradio"},"versions":["9999.0.0","9999.0.1"]}]}

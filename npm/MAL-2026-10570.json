@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10570","published":"2026-07-14T05:09:02Z","modified":"2026-07-14T06:19:19.557170011Z","aliases":["GHSA-chfc-f2cm-2wf8"],"summary":"Malicious code in valid-scope (npm)","affected":[{"package":{"name":"valid-scope","ecosystem":"npm","purl":"pkg:npm/valid-scope"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

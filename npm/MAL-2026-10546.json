@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10546","published":"2026-07-14T04:13:11Z","modified":"2026-07-14T04:46:59.041140717Z","summary":"Malicious code in viteplugiin (npm)","affected":[{"package":{"name":"viteplugiin","ecosystem":"npm","purl":"pkg:npm/viteplugiin"},"versions":["1.0.28"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10470","published":"2026-07-13T18:50:08Z","modified":"2026-07-13T19:16:55.948444753Z","summary":"Malicious code in @uw010010/vite-tree (npm)","affected":[{"package":{"name":"@uw010010/vite-tree","ecosystem":"npm","purl":"pkg:npm/%40uw010010/vite-tree"},"versions":["3.4.3","3.6.1","3.4.2"]}]}

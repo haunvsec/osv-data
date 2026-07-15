@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10296","published":"2026-07-13T06:27:39Z","modified":"2026-07-14T07:19:27.035647088Z","aliases":["GHSA-p2r6-86wx-rc38"],"summary":"Malicious code in bomboclatwallahi (npm)","affected":[{"package":{"name":"bomboclatwallahi","ecosystem":"npm","purl":"pkg:npm/bomboclatwallahi"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

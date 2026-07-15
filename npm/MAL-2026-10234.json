@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10234","published":"2026-07-13T00:00:00Z","modified":"2026-07-14T03:32:00.824005604Z","aliases":["GHSA-63pr-5274-mfh7"],"summary":"Malicious code in slds-lsp-client (npm)","affected":[{"package":{"name":"slds-lsp-client","ecosystem":"npm","purl":"pkg:npm/slds-lsp-client"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

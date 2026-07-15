@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10528","published":"2026-07-14T03:33:41Z","modified":"2026-07-14T04:47:00.353815320Z","summary":"Malicious code in @vitets/vite-ts (npm)","affected":[{"package":{"name":"@vitets/vite-ts","ecosystem":"npm","purl":"pkg:npm/%40vitets/vite-ts"},"versions":["1.5.10"]}]}

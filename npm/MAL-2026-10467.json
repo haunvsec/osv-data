@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10467","published":"2026-07-13T17:38:01Z","modified":"2026-07-13T20:01:57.799800053Z","aliases":["GHSA-2957-xv6c-9vvm"],"summary":"Malicious code in polymarket-stake-kelly-math (npm)","affected":[{"package":{"name":"polymarket-stake-kelly-math","ecosystem":"npm","purl":"pkg:npm/polymarket-stake-kelly-math"},"versions":["3.8.2"]}]}

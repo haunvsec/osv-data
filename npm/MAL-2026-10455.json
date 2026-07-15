@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10455","published":"2026-07-13T18:09:30Z","modified":"2026-07-13T18:16:56.263050358Z","summary":"Malicious code in @origindev/ethaccount (npm)","affected":[{"package":{"name":"@origindev/ethaccount","ecosystem":"npm","purl":"pkg:npm/%40origindev/ethaccount"},"versions":["1.0.0","1.0.1"]}]}

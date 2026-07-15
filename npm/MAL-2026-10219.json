@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10219","published":"2026-07-13T04:16:07Z","modified":"2026-07-13T05:01:59.934343203Z","summary":"Malicious code in chai-as-precision (npm)","affected":[{"package":{"name":"chai-as-precision","ecosystem":"npm","purl":"pkg:npm/chai-as-precision"},"versions":["7.0.6"]}]}

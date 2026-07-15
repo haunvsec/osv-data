@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10596","published":"2026-07-14T17:14:49Z","modified":"2026-07-14T17:49:21.333685078Z","aliases":["GHSA-qv85-w97v-vpp2"],"summary":"Malicious code in @ayunlove/bails (npm)","affected":[{"package":{"name":"@ayunlove/bails","ecosystem":"npm","purl":"pkg:npm/%40ayunlove/bails"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

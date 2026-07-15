@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10435","published":"2026-07-13T09:24:42Z","modified":"2026-07-13T10:47:05.731696535Z","summary":"Malicious code in fetchcraft (npm)","affected":[{"package":{"name":"fetchcraft","ecosystem":"npm","purl":"pkg:npm/fetchcraft"},"versions":["1.0.1","1.0.0"]}]}

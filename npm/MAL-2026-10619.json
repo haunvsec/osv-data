@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10619","published":"2026-07-14T20:47:33Z","modified":"2026-07-14T21:04:40.998199654Z","summary":"Malicious code in @vite-js/vui (npm)","affected":[{"package":{"name":"@vite-js/vui","ecosystem":"npm","purl":"pkg:npm/%40vite-js/vui"},"versions":["7.14.16"]}]}

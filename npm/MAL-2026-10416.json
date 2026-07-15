@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10416","published":"2026-07-13T06:17:05Z","modified":"2026-07-14T07:19:11.056090760Z","aliases":["GHSA-hwmq-4g98-3x4p"],"summary":"Malicious code in kuaishou (npm)","affected":[{"package":{"name":"kuaishou","ecosystem":"npm","purl":"pkg:npm/kuaishou"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

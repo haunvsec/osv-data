@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10515","published":"2026-07-13T22:19:16Z","modified":"2026-07-13T23:01:52.575402727Z","aliases":["GHSA-62c9-p25c-7xxm"],"summary":"Malicious code in nodemon-web (npm)","affected":[{"package":{"name":"nodemon-web","ecosystem":"npm","purl":"pkg:npm/nodemon-web"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

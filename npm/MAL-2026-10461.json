@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10461","published":"2026-07-13T17:38:10Z","modified":"2026-07-13T18:16:55.003391661Z","summary":"Malicious code in gptlite (npm)","affected":[{"package":{"name":"gptlite","ecosystem":"npm","purl":"pkg:npm/gptlite"},"versions":["4.0.8"]}]}

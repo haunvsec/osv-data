@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10585","published":"2026-07-14T14:00:08Z","modified":"2026-07-14T14:49:18.973788963Z","summary":"Malicious code in cheeriobox (npm)","affected":[{"package":{"name":"cheeriobox","ecosystem":"npm","purl":"pkg:npm/cheeriobox"},"versions":["1.0.0"]}]}

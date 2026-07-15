@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10235","published":"2026-07-06T00:00:00Z","modified":"2026-07-14T03:31:58.163126685Z","aliases":["GHSA-89rr-3jxw-7hhm"],"summary":"Malicious code in tme-error (npm)","affected":[{"package":{"name":"tme-error","ecosystem":"npm","purl":"pkg:npm/tme-error"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

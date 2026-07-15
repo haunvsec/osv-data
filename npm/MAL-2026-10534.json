@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10534","published":"2026-07-14T03:36:50Z","modified":"2026-07-14T15:04:31.461333191Z","aliases":["GHSA-6hf9-8x52-w6g3"],"summary":"Malicious code in motion-pull (npm)","affected":[{"package":{"name":"motion-pull","ecosystem":"npm","purl":"pkg:npm/motion-pull"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

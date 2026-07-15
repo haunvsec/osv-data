@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10588","published":"2026-07-14T14:00:27Z","modified":"2026-07-14T14:49:14.356203891Z","summary":"Malicious code in momenntjs (npm)","affected":[{"package":{"name":"momenntjs","ecosystem":"npm","purl":"pkg:npm/momenntjs"},"versions":["1.0.0"]}]}

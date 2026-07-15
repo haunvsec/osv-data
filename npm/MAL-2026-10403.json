@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10403","published":"2026-07-13T05:58:14Z","modified":"2026-07-13T07:47:06.042483212Z","summary":"Malicious code in @iana-rzms/bff-sdk (npm)","affected":[{"package":{"name":"@iana-rzms/bff-sdk","ecosystem":"npm","purl":"pkg:npm/%40iana-rzms/bff-sdk"},"versions":["1.0.0"]}]}

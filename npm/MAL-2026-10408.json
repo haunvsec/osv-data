@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10408","published":"2026-07-13T06:49:21Z","modified":"2026-07-13T07:47:00.997170363Z","summary":"Malicious code in chain-js-utils (npm)","affected":[{"package":{"name":"chain-js-utils","ecosystem":"npm","purl":"pkg:npm/chain-js-utils"},"versions":["2.1.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10454","published":"2026-07-13T16:42:43Z","modified":"2026-07-14T07:19:13.445260333Z","aliases":["GHSA-p75m-7xf4-8cqw"],"summary":"Malicious code in nodemon-async (npm)","affected":[{"package":{"name":"nodemon-async","ecosystem":"npm","purl":"pkg:npm/nodemon-async"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10288","published":"2026-07-13T06:27:39Z","modified":"2026-07-13T10:47:05.695353989Z","aliases":["GHSA-rwpw-7393-4jg2"],"summary":"Malicious code in backup4-gasp (npm)","affected":[{"package":{"name":"backup4-gasp","ecosystem":"npm","purl":"pkg:npm/backup4-gasp"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

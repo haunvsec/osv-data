@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10581","published":"2026-07-14T12:54:30Z","modified":"2026-07-14T13:49:29.369398081Z","summary":"Malicious code in process-status-widget (npm)","affected":[{"package":{"name":"process-status-widget","ecosystem":"npm","purl":"pkg:npm/process-status-widget"},"versions":["99.9.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10569","published":"2026-07-14T05:09:02Z","modified":"2026-07-14T06:19:18.281398024Z","aliases":["GHSA-rr2q-r4vq-r6cm"],"summary":"Malicious code in temp-cloak (npm)","affected":[{"package":{"name":"temp-cloak","ecosystem":"npm","purl":"pkg:npm/temp-cloak"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

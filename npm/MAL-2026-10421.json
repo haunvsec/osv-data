@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10421","published":"2026-07-13T07:01:27Z","modified":"2026-07-13T07:47:03.584119814Z","summary":"Malicious code in portway (npm)","affected":[{"package":{"name":"portway","ecosystem":"npm","purl":"pkg:npm/portway"},"versions":["99.9.1"]}]}

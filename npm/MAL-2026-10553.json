@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10553","published":"2026-07-14T05:09:20Z","modified":"2026-07-14T13:49:28.482687691Z","summary":"Malicious code in home-mp-commons (npm)","affected":[{"package":{"name":"home-mp-commons","ecosystem":"npm","purl":"pkg:npm/home-mp-commons"},"versions":["999.0.1","999.0.3"]}]}

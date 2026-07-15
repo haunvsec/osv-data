@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10409","published":"2026-07-13T06:58:13Z","modified":"2026-07-13T07:47:01.049623242Z","summary":"Malicious code in cold-debug-elevator (npm)","affected":[{"package":{"name":"cold-debug-elevator","ecosystem":"npm","purl":"pkg:npm/cold-debug-elevator"},"versions":["1.0.4","1.0.1","1.0.3"]}]}

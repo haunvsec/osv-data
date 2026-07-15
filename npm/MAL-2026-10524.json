@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10524","published":"2026-07-14T03:36:38Z","modified":"2026-07-14T04:46:59.206348953Z","summary":"Malicious code in @velkov/isows (npm)","affected":[{"package":{"name":"@velkov/isows","ecosystem":"npm","purl":"pkg:npm/%40velkov/isows"},"versions":["1.0.10"]}]}

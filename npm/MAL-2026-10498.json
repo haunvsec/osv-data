@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10498","published":"2026-07-13T21:32:29Z","modified":"2026-07-13T22:01:56.072882885Z","summary":"Malicious code in eslint-angular-react (npm)","affected":[{"package":{"name":"eslint-angular-react","ecosystem":"npm","purl":"pkg:npm/eslint-angular-react"},"versions":["110.0.1"]}]}

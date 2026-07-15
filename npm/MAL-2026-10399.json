@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10399","published":"2026-07-13T05:14:20Z","modified":"2026-07-13T07:47:05.572119813Z","summary":"Malicious code in @equansservices/codex (npm)","affected":[{"package":{"name":"@equansservices/codex","ecosystem":"npm","purl":"pkg:npm/%40equansservices/codex"},"versions":["1.0.1"]}]}

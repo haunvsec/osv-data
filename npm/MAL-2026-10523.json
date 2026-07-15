@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10523","published":"2026-07-14T03:34:01Z","modified":"2026-07-14T04:46:59.107836631Z","summary":"Malicious code in @tabrex/bs58 (npm)","affected":[{"package":{"name":"@tabrex/bs58","ecosystem":"npm","purl":"pkg:npm/%40tabrex/bs58"},"versions":["6.0.3"]}]}

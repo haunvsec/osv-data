@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10289","published":"2026-07-13T06:27:39Z","modified":"2026-07-13T10:47:03.984384854Z","aliases":["GHSA-cjhm-8r3j-gcvx"],"summary":"Malicious code in backup5-updated (npm)","affected":[{"package":{"name":"backup5-updated","ecosystem":"npm","purl":"pkg:npm/backup5-updated"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

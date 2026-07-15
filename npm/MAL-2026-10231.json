@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10231","published":"2026-07-06T00:00:00Z","modified":"2026-07-14T03:31:57.503072494Z","aliases":["GHSA-96hr-p56w-4x2m"],"summary":"Malicious code in enbd-react-logger (npm)","affected":[{"package":{"name":"enbd-react-logger","ecosystem":"npm","purl":"pkg:npm/enbd-react-logger"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10413","published":"2026-07-13T06:51:45Z","modified":"2026-07-13T07:47:02.301212494Z","summary":"Malicious code in eth-base (npm)","affected":[{"package":{"name":"eth-base","ecosystem":"npm","purl":"pkg:npm/eth-base"},"versions":["1.0.0"]}]}

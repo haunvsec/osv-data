@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10506","published":"2026-07-13T22:07:46Z","modified":"2026-07-14T17:49:20.092040858Z","aliases":["GHSA-qgvj-fw22-j5v6"],"summary":"Malicious code in node-fsagent (npm)","affected":[{"package":{"name":"node-fsagent","ecosystem":"npm","purl":"pkg:npm/node-fsagent"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

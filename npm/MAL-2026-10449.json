@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10449","published":"2026-07-13T14:20:42Z","modified":"2026-07-13T15:49:13.577500773Z","summary":"Malicious code in auth-gen-next (npm)","affected":[{"package":{"name":"auth-gen-next","ecosystem":"npm","purl":"pkg:npm/auth-gen-next"},"versions":["1.7.13"]}]}

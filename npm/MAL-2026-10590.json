@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10590","published":"2026-07-14T13:59:47Z","modified":"2026-07-14T14:49:15.007830445Z","summary":"Malicious code in openaiwrapper (npm)","affected":[{"package":{"name":"openaiwrapper","ecosystem":"npm","purl":"pkg:npm/openaiwrapper"},"versions":["1.0.0"]}]}

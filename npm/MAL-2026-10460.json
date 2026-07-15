@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10460","published":"2026-07-13T17:37:30Z","modified":"2026-07-13T18:16:56.880055764Z","summary":"Malicious code in datavaultx (npm)","affected":[{"package":{"name":"datavaultx","ecosystem":"npm","purl":"pkg:npm/datavaultx"},"versions":["1.7.1"]}]}

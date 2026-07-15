@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10504","published":"2026-07-13T22:10:30Z","modified":"2026-07-13T22:31:56.856037858Z","summary":"Malicious code in chai-as-verified (npm)","affected":[{"package":{"name":"chai-as-verified","ecosystem":"npm","purl":"pkg:npm/chai-as-verified"},"versions":["7.1.5"]}]}

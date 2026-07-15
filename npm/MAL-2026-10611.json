@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10611","published":"2026-07-14T19:48:36Z","modified":"2026-07-14T20:49:32.300358340Z","summary":"Malicious code in @web3-helpers/core (npm)","affected":[{"package":{"name":"@web3-helpers/core","ecosystem":"npm","purl":"pkg:npm/%40web3-helpers/core"},"versions":["1.0.2","1.0.1","1.0.5","1.0.3","1.0.0","1.0.4","1.0.6"]}]}

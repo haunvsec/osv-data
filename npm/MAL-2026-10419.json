@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10419","published":"2026-07-13T07:01:34Z","modified":"2026-07-13T07:47:03.422131501Z","summary":"Malicious code in notifications-broadcast (npm)","affected":[{"package":{"name":"notifications-broadcast","ecosystem":"npm","purl":"pkg:npm/notifications-broadcast"},"versions":["99.9.1"]}]}

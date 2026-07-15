@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10297","published":"2026-07-13T06:27:39Z","modified":"2026-07-14T07:19:07.362281885Z","aliases":["GHSA-j4pr-j9jm-rj9c"],"summary":"Malicious code in captainindia (npm)","affected":[{"package":{"name":"captainindia","ecosystem":"npm","purl":"pkg:npm/captainindia"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

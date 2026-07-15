@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10486","published":"2026-07-13T20:43:55Z","modified":"2026-07-13T21:01:57.010157227Z","summary":"Malicious code in @omniwatch-wick/cli (npm)","affected":[{"package":{"name":"@omniwatch-wick/cli","ecosystem":"npm","purl":"pkg:npm/%40omniwatch-wick/cli"},"versions":["0.1.2"]}]}

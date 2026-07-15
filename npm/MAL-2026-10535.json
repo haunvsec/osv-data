@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10535","published":"2026-07-14T03:57:12Z","modified":"2026-07-14T04:46:57.604524504Z","summary":"Malicious code in my-empty-package (npm)","affected":[{"package":{"name":"my-empty-package","ecosystem":"npm","purl":"pkg:npm/my-empty-package"},"versions":["1.0.0"]}]}

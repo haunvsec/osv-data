@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10458","published":"2026-07-13T17:37:53Z","modified":"2026-07-13T18:16:56.650194052Z","summary":"Malicious code in compliancepolicyserv (npm)","affected":[{"package":{"name":"compliancepolicyserv","ecosystem":"npm","purl":"pkg:npm/compliancepolicyserv"},"versions":["9.9.11"]}]}

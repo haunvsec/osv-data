@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10522","published":"2026-07-14T02:52:19Z","modified":"2026-07-14T07:19:09.418682067Z","aliases":["GHSA-94ph-qqm7-h26r"],"summary":"Malicious code in flick-test-app (npm)","affected":[{"package":{"name":"flick-test-app","ecosystem":"npm","purl":"pkg:npm/flick-test-app"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

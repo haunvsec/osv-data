@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10510","published":"2026-07-13T22:17:20Z","modified":"2026-07-13T22:46:55.313114384Z","aliases":["GHSA-q9rm-w335-55w5"],"summary":"Malicious code in type-astr (npm)","affected":[{"package":{"name":"type-astr","ecosystem":"npm","purl":"pkg:npm/type-astr"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

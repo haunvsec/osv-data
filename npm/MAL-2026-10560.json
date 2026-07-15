@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10560","published":"2026-07-14T05:09:02Z","modified":"2026-07-14T06:19:10.801605949Z","aliases":["GHSA-85m7-f7fw-3h7f"],"summary":"Malicious code in clipboard-drop (npm)","affected":[{"package":{"name":"clipboard-drop","ecosystem":"npm","purl":"pkg:npm/clipboard-drop"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

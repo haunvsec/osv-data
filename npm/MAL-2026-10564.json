@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10564","published":"2026-07-14T05:12:39Z","modified":"2026-07-14T13:49:29.105961228Z","aliases":["GHSA-cc9r-4374-69qj"],"summary":"Malicious code in micro-ui-loader (npm)","affected":[{"package":{"name":"micro-ui-loader","ecosystem":"npm","purl":"pkg:npm/micro-ui-loader"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

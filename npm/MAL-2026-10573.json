@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10573","published":"2026-07-14T05:58:06Z","modified":"2026-07-14T07:19:10.211687532Z","summary":"Malicious code in harpoon-package (npm)","affected":[{"package":{"name":"harpoon-package","ecosystem":"npm","purl":"pkg:npm/harpoon-package"},"versions":["1.1.0","1.0.0","1.2.0"]}]}

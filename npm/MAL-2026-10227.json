@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10227","published":"2026-07-06T00:00:00Z","modified":"2026-07-14T03:32:00.275458025Z","aliases":["GHSA-f4fv-qwcg-667v"],"summary":"Malicious code in box-react-uix (npm)","affected":[{"package":{"name":"box-react-uix","ecosystem":"npm","purl":"pkg:npm/box-react-uix"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

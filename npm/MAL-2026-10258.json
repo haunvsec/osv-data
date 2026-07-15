@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10258","published":"2026-07-13T06:27:42Z","modified":"2026-07-13T09:16:53.137213956Z","aliases":["GHSA-27j2-xj3j-rm76"],"summary":"Malicious code in abuden215 (npm)","affected":[{"package":{"name":"abuden215","ecosystem":"npm","purl":"pkg:npm/abuden215"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

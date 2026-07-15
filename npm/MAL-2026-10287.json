@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10287","published":"2026-07-13T06:27:39Z","modified":"2026-07-13T10:47:05.538783904Z","aliases":["GHSA-8w5w-mhwr-m53r"],"summary":"Malicious code in backup3-ff (npm)","affected":[{"package":{"name":"backup3-ff","ecosystem":"npm","purl":"pkg:npm/backup3-ff"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

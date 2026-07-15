@@ -1,6 +1,6 @@
 {
-  "last_crawl_time": "2026-07-13T04:51:06Z",
-  "last_attempt_time": "2026-07-13T10:35:39Z",
+  "last_crawl_time": "2026-07-15T07:22:06Z",
+  "last_attempt_time": "2026-07-15T07:22:06Z",
   "source": "osv-vulnerabilities-gcs",
   "source_url": "https://storage.googleapis.com/osv-vulnerabilities",
   "method": "incremental",
@@ -11,53 +11,52 @@
     "redhat"
   ],
   "ecosystem_counts": {
-    "maven": 6799,
-    "npm": 222776,
-    "pypi": 22856,
-    "redhat": 21157
+    "maven": 6804,
+    "npm": 223182,
+    "pypi": 24286,
+    "redhat": 21255
   },
-  "total_vulnerabilities": 273588,
+  "total_vulnerabilities": 275527,
   "ecosystem_state": {
     "maven": {
-      "last_attempt_time": "2026-07-13T04:08:37Z",
+      "last_attempt_time": "2026-07-15T00:36:50Z",
       "last_method": "incremental",
-      "last_downloaded": 26,
+      "last_downloaded": 13,
       "last_skipped": 0,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-07-13T04:08:37Z",
-      "last_modified_time": "2026-07-10T21:45:19.375278783Z"
+      "last_successful_crawl_time": "2026-07-15T00:36:50Z",
+      "last_modified_time": "2026-07-14T22:29:46.495644427Z"
     },
     "npm": {
-      "last_attempt_time": "2026-07-13T04:42:04Z",
+      "last_attempt_time": "2026-07-15T01:09:24Z",
       "last_method": "incremental",
-      "last_downloaded": 1182,
-      "last_skipped": 4,
+      "last_downloaded": 519,
+      "last_skipped": 1143,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-07-13T04:42:04Z",
-      "last_modified_time": "2026-07-09T05:15:08.591063132Z"
+      "last_successful_crawl_time": "2026-07-15T01:09:24Z",
+      "last_modified_time": "2026-07-14T21:04:41.33459606Z"
     },
     "pypi": {
-      "last_attempt_time": "2026-07-13T04:51:06Z",
+      "last_attempt_time": "2026-07-15T01:40:35Z",
       "last_method": "incremental",
-      "last_downloaded": 222,
+      "last_downloaded": 3030,
       "last_skipped": 0,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-07-13T04:51:06Z",
-      "last_modified_time": "2026-07-13T04:11:41.646438483Z"
+      "last_successful_crawl_time": "2026-07-15T01:40:35Z",
+      "last_modified_time": "2026-07-14T21:04:40.883400049Z"
     },
     "redhat": {
-      "last_attempt_time": "2026-07-13T10:35:39Z",
+      "last_attempt_time": "2026-07-15T07:22:06Z",
       "last_method": "incremental",
-      "last_downloaded": 0,
-      "last_skipped": 0,
+      "last_downloaded": 7541,
+      "last_skipped": 10744,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-06-08T12:04:41Z",
-      "last_modified_time": "2026-06-08T10:29:21.513685508Z",
-      "last_error": "Red Hat: aborting incremental after 25 consecutive download failures"
+      "last_successful_crawl_time": "2026-07-15T07:22:06Z",
+      "last_modified_time": "2026-06-08T10:29:21.513685508Z"
     }
   },
   "last_run": {
-    "started_at": "2026-07-13T04:51:07Z",
+    "started_at": "2026-07-15T01:40:36Z",
     "output_dir": "/Volumes/DATA/security_advisory/osv-data",
     "method": "incremental",
     "ecosystems": [
@@ -67,28 +66,22 @@
       {
         "ecosystem": "redhat",
         "method": "incremental",
-        "downloaded": 0,
-        "skipped": 0,
+        "downloaded": 7541,
+        "skipped": 10744,
         "indexed": 0,
         "existing": 0,
         "latest_modified_time": null,
-        "success": false,
-        "error": "Red Hat: aborting incremental after 25 consecutive download failures"
+        "success": true
       }
     ],
-    "vulns_downloaded": 0,
-    "vulns_skipped": 1,
-    "errors": [
-      {
-        "ecosystem": "redhat",
-        "error": "Red Hat: aborting incremental after 25 consecutive download failures"
-      }
-    ],
+    "vulns_downloaded": 7541,
+    "vulns_skipped": 10744,
+    "errors": [],
     "dry_run": false,
     "limit": null,
     "sync_missing": false,
     "missing_only": false,
-    "finished_at": "2026-07-13T10:35:39Z",
-    "duration_seconds": 20672.09
+    "finished_at": "2026-07-15T07:22:06Z",
+    "duration_seconds": 20489.85
   }
 }

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10487","published":"2026-07-13T20:43:22Z","modified":"2026-07-13T21:01:57.161138218Z","summary":"Malicious code in @outsmartly/metaobjects (npm)","affected":[{"package":{"name":"@outsmartly/metaobjects","ecosystem":"npm","purl":"pkg:npm/%40outsmartly/metaobjects"},"versions":["0.3.3-rc.1"]}]}

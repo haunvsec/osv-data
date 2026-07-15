@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10233","published":"2026-07-06T00:00:00Z","modified":"2026-07-14T03:31:57.902646712Z","aliases":["GHSA-3r2r-29px-gqp6"],"summary":"Malicious code in sams-sr-sdk-h5 (npm)","affected":[{"package":{"name":"sams-sr-sdk-h5","ecosystem":"npm","purl":"pkg:npm/sams-sr-sdk-h5"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

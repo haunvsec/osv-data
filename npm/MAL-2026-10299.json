@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10299","published":"2026-07-13T06:27:39Z","modified":"2026-07-14T07:19:07.622544924Z","aliases":["GHSA-f3cg-jgrj-f48c"],"summary":"Malicious code in crazynut (npm)","affected":[{"package":{"name":"crazynut","ecosystem":"npm","purl":"pkg:npm/crazynut"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

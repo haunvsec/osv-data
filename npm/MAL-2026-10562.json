@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10562","published":"2026-07-14T05:09:02Z","modified":"2026-07-14T06:19:16.745915226Z","aliases":["GHSA-8853-3cv6-g8q4"],"summary":"Malicious code in duration-kit (npm)","affected":[{"package":{"name":"duration-kit","ecosystem":"npm","purl":"pkg:npm/duration-kit"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

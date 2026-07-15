@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10285","published":"2026-07-13T06:27:39Z","modified":"2026-07-13T10:47:03.212276090Z","aliases":["GHSA-5v83-r2g7-g234"],"summary":"Malicious code in backup1-gg (npm)","affected":[{"package":{"name":"backup1-gg","ecosystem":"npm","purl":"pkg:npm/backup1-gg"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

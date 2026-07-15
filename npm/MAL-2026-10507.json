@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10507","published":"2026-07-13T22:12:25Z","modified":"2026-07-14T15:04:31.591282625Z","aliases":["GHSA-7gjf-8j8g-xm9p"],"summary":"Malicious code in nodemon-delog (npm)","affected":[{"package":{"name":"nodemon-delog","ecosystem":"npm","purl":"pkg:npm/nodemon-delog"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

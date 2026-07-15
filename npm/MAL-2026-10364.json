@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10364","published":"2026-07-13T06:27:39Z","modified":"2026-07-14T07:19:14.787298365Z","aliases":["GHSA-m248-4qv7-2hhj"],"summary":"Malicious code in pasirianspirit (npm)","affected":[{"package":{"name":"pasirianspirit","ecosystem":"npm","purl":"pkg:npm/pasirianspirit"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

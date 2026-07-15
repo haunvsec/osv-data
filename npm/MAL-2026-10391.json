@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10391","published":"2026-07-13T06:30:31Z","modified":"2026-07-13T09:17:04.866052591Z","aliases":["GHSA-83fp-39mc-pvp5"],"summary":"Malicious code in tipsen-last (npm)","affected":[{"package":{"name":"tipsen-last","ecosystem":"npm","purl":"pkg:npm/tipsen-last"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10579","published":"2026-07-14T12:58:33Z","modified":"2026-07-14T13:49:27.156673838Z","summary":"Malicious code in bimi-maker (npm)","affected":[{"package":{"name":"bimi-maker","ecosystem":"npm","purl":"pkg:npm/bimi-maker"},"versions":["8.2.4"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10417","published":"2026-07-13T06:54:44Z","modified":"2026-07-13T07:47:04.843058836Z","summary":"Malicious code in minigptcore (npm)","affected":[{"package":{"name":"minigptcore","ecosystem":"npm","purl":"pkg:npm/minigptcore"},"versions":["4.0.8"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10462","published":"2026-07-13T17:48:34Z","modified":"2026-07-13T18:16:55.186150095Z","summary":"Malicious code in hehehee (npm)","affected":[{"package":{"name":"hehehee","ecosystem":"npm","purl":"pkg:npm/hehehee"},"versions":["1.0.9"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10616","published":"2026-07-14T19:49:16Z","modified":"2026-07-14T20:49:31.050421793Z","summary":"Malicious code in smb-portal-uikit (npm)","affected":[{"package":{"name":"smb-portal-uikit","ecosystem":"npm","purl":"pkg:npm/smb-portal-uikit"},"versions":["18.1.1"]}]}

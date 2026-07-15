@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10620","published":"2026-07-14T20:29:21Z","modified":"2026-07-14T21:04:41.334596060Z","summary":"Malicious code in ahooks-3.7.8 (npm)","affected":[{"package":{"name":"ahooks-3.7.8","ecosystem":"npm","purl":"pkg:npm/ahooks-3.7.8"},"versions":["13.1.1"]}]}

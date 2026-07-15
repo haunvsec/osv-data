@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10459","published":"2026-07-13T17:37:46Z","modified":"2026-07-13T18:16:56.563353484Z","summary":"Malicious code in connectedmerchantsserv (npm)","affected":[{"package":{"name":"connectedmerchantsserv","ecosystem":"npm","purl":"pkg:npm/connectedmerchantsserv"},"versions":["9.9.11"]}]}

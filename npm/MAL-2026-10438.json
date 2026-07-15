@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10438","published":"2026-07-13T09:22:42Z","modified":"2026-07-13T10:47:05.998835027Z","summary":"Malicious code in netspeedutil (npm)","affected":[{"package":{"name":"netspeedutil","ecosystem":"npm","purl":"pkg:npm/netspeedutil"},"versions":["1.0.13"]}]}

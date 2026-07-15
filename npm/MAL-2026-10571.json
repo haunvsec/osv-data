@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10571","published":"2026-07-14T06:17:33Z","modified":"2026-07-14T07:19:24.744677483Z","summary":"Malicious code in @wrenfield/viem (npm)","affected":[{"package":{"name":"@wrenfield/viem","ecosystem":"npm","purl":"pkg:npm/%40wrenfield/viem"},"versions":["2.53.4"]}]}

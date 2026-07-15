@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10410","published":"2026-07-13T06:48:44Z","modified":"2026-07-13T07:47:02.066396364Z","summary":"Malicious code in cookie-phase (npm)","affected":[{"package":{"name":"cookie-phase","ecosystem":"npm","purl":"pkg:npm/cookie-phase"},"versions":["2.3.5"]}]}

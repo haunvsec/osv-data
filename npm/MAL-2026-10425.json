@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10425","published":"2026-07-13T06:55:05Z","modified":"2026-07-13T07:47:04.838603177Z","summary":"Malicious code in trinity-scheme (npm)","affected":[{"package":{"name":"trinity-scheme","ecosystem":"npm","purl":"pkg:npm/trinity-scheme"},"versions":["20.0.0"]}]}

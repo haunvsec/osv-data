@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10533","published":"2026-07-14T03:51:36Z","modified":"2026-07-14T04:46:57.600970725Z","summary":"Malicious code in lusha-iam-widgets (npm)","affected":[{"package":{"name":"lusha-iam-widgets","ecosystem":"npm","purl":"pkg:npm/lusha-iam-widgets"},"versions":["1.5.2"]}]}

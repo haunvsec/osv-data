@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10378","published":"2026-07-13T06:27:40Z","modified":"2026-07-13T10:47:01.398055755Z","aliases":["GHSA-j7fv-9fc8-9mhc"],"summary":"Malicious code in sixseven6 (npm)","affected":[{"package":{"name":"sixseven6","ecosystem":"npm","purl":"pkg:npm/sixseven6"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

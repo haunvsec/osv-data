@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10465","published":"2026-07-13T17:36:43Z","modified":"2026-07-13T18:16:55.603905696Z","summary":"Malicious code in node-sysmon-native (npm)","affected":[{"package":{"name":"node-sysmon-native","ecosystem":"npm","purl":"pkg:npm/node-sysmon-native"},"versions":["1.0.0","1.0.1","1.0.2"]}]}

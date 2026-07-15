@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10529","published":"2026-07-14T03:35:58Z","modified":"2026-07-14T04:47:00.245477713Z","summary":"Malicious code in @wrenfield/abitype (npm)","affected":[{"package":{"name":"@wrenfield/abitype","ecosystem":"npm","purl":"pkg:npm/%40wrenfield/abitype"},"versions":["1.2.6","1.2.7"]}]}

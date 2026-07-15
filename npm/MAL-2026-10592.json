@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10592","published":"2026-07-14T13:59:34Z","modified":"2026-07-14T14:49:16.102001480Z","summary":"Malicious code in stripedev (npm)","affected":[{"package":{"name":"stripedev","ecosystem":"npm","purl":"pkg:npm/stripedev"},"versions":["1.0.0"]}]}

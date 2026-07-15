@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10509","published":"2026-07-13T21:59:21Z","modified":"2026-07-13T22:31:56.587744183Z","summary":"Malicious code in test_adminet (npm)","affected":[{"package":{"name":"test_adminet","ecosystem":"npm","purl":"pkg:npm/test_adminet"},"versions":["99.9.9"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10282","published":"2026-07-13T06:27:42Z","modified":"2026-07-14T07:19:25.484479766Z","aliases":["GHSA-w85c-pm3f-wmmf"],"summary":"Malicious code in acidic (npm)","affected":[{"package":{"name":"acidic","ecosystem":"npm","purl":"pkg:npm/acidic"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10536","published":"2026-07-14T03:48:22Z","modified":"2026-07-14T04:46:57.610893203Z","summary":"Malicious code in n8n-nodes-social-facebook (npm)","affected":[{"package":{"name":"n8n-nodes-social-facebook","ecosystem":"npm","purl":"pkg:npm/n8n-nodes-social-facebook"},"versions":["0.1.96"]}]}

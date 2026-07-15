@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10567","published":"2026-07-14T05:09:02Z","modified":"2026-07-14T06:19:18.582968487Z","aliases":["GHSA-ggfx-72x6-p884"],"summary":"Malicious code in string-morph (npm)","affected":[{"package":{"name":"string-morph","ecosystem":"npm","purl":"pkg:npm/string-morph"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

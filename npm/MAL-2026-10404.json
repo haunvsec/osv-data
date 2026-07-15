@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10404","published":"2026-07-13T07:03:37Z","modified":"2026-07-13T07:47:06.092747044Z","summary":"Malicious code in @ica-gaming/slot-engine (npm)","affected":[{"package":{"name":"@ica-gaming/slot-engine","ecosystem":"npm","purl":"pkg:npm/%40ica-gaming/slot-engine"},"versions":["1.1.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-7094","published":"2026-07-07T12:30:41Z","modified":"2026-07-09T09:32:08.004373010Z","summary":"Malicious code in @tc-core/member-service (npm)","affected":[{"package":{"name":"@tc-core/member-service","ecosystem":"npm","purl":"pkg:npm/%40tc-core/member-service"},"versions":["0.0.0-defensive-callback"]}]}

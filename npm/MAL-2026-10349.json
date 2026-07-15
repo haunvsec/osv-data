@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10349","published":"2026-07-13T06:27:41Z","modified":"2026-07-13T09:17:02.144655047Z","aliases":["GHSA-jpc2-mw4c-hfgq"],"summary":"Malicious code in nottuff22 (npm)","affected":[{"package":{"name":"nottuff22","ecosystem":"npm","purl":"pkg:npm/nottuff22"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10439","published":"2026-07-13T09:21:48Z","modified":"2026-07-13T10:47:00.793361160Z","summary":"Malicious code in react-hot-svg (npm)","affected":[{"package":{"name":"react-hot-svg","ecosystem":"npm","purl":"pkg:npm/react-hot-svg"},"versions":["1.1.5","1.1.4"]}]}

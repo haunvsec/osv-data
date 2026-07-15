@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10624","published":"2026-07-14T20:17:42Z","modified":"2026-07-14T21:04:40.883400049Z","summary":"Malicious code in tronwe (PyPI)","affected":[{"package":{"name":"tronwe","ecosystem":"PyPI","purl":"pkg:pypi/tronwe"},"versions":["0.0.1"]}]}

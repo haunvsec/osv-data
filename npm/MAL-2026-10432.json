@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10432","published":"2026-07-13T09:21:32Z","modified":"2026-07-13T10:47:05.518167441Z","summary":"Malicious code in animated-css-kit (npm)","affected":[{"package":{"name":"animated-css-kit","ecosystem":"npm","purl":"pkg:npm/animated-css-kit"},"versions":["1.0.1"]}]}

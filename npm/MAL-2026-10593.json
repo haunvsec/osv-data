@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10593","published":"2026-07-14T13:59:56Z","modified":"2026-07-14T14:49:16.376085990Z","summary":"Malicious code in twiliobox (npm)","affected":[{"package":{"name":"twiliobox","ecosystem":"npm","purl":"pkg:npm/twiliobox"},"versions":["1.0.0"]}]}

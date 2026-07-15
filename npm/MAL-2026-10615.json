@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10615","published":"2026-07-14T19:49:26Z","modified":"2026-07-14T20:49:30.823891533Z","summary":"Malicious code in smb-common-uikit (npm)","affected":[{"package":{"name":"smb-common-uikit","ecosystem":"npm","purl":"pkg:npm/smb-common-uikit"},"versions":["15.2.0"]}]}

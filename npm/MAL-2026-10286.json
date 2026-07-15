@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10286","published":"2026-07-13T06:27:39Z","modified":"2026-07-13T10:47:03.882218892Z","aliases":["GHSA-5wxc-4vm4-55cx"],"summary":"Malicious code in backup2-asd (npm)","affected":[{"package":{"name":"backup2-asd","ecosystem":"npm","purl":"pkg:npm/backup2-asd"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

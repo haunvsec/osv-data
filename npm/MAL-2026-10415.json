@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10415","published":"2026-07-13T07:01:44Z","modified":"2026-07-13T07:47:02.845237449Z","summary":"Malicious code in frontend-regulations (npm)","affected":[{"package":{"name":"frontend-regulations","ecosystem":"npm","purl":"pkg:npm/frontend-regulations"},"versions":["99.9.1"]}]}

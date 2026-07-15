@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10429","published":"2026-07-13T08:30:08Z","modified":"2026-07-14T07:19:20.848029204Z","aliases":["GHSA-54gp-rw59-mwf2"],"summary":"Malicious code in @nsub/nitxe (npm)","affected":[{"package":{"name":"@nsub/nitxe","ecosystem":"npm","purl":"pkg:npm/%40nsub/nitxe"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

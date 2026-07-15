@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10384","published":"2026-07-13T06:27:40Z","modified":"2026-07-13T10:47:05.234559746Z","aliases":["GHSA-2qw4-g5r6-hcr5"],"summary":"Malicious code in speed3 (npm)","affected":[{"package":{"name":"speed3","ecosystem":"npm","purl":"pkg:npm/speed3"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

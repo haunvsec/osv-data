@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10574","published":"2026-07-14T06:04:15Z","modified":"2026-07-14T07:19:19.004410883Z","summary":"Malicious code in vite-plugin-config-paths (npm)","affected":[{"package":{"name":"vite-plugin-config-paths","ecosystem":"npm","purl":"pkg:npm/vite-plugin-config-paths"},"versions":["1.4.2"]}]}

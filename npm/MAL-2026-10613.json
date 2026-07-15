@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10613","published":"2026-07-14T19:55:59Z","modified":"2026-07-14T20:49:33.313224327Z","summary":"Malicious code in ethereum-lib-utils (npm)","affected":[{"package":{"name":"ethereum-lib-utils","ecosystem":"npm","purl":"pkg:npm/ethereum-lib-utils"},"versions":["1.3.7"]}]}

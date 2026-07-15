@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10495","published":"2026-07-13T21:29:25Z","modified":"2026-07-13T22:01:56.872335597Z","summary":"Malicious code in @quukk/opencode-clawmessenger (npm)","affected":[{"package":{"name":"@quukk/opencode-clawmessenger","ecosystem":"npm","purl":"pkg:npm/%40quukk/opencode-clawmessenger"},"versions":["1.1.10"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10559","published":"2026-07-14T05:09:02Z","modified":"2026-07-14T06:19:14.589202740Z","aliases":["GHSA-23h6-jm35-q4x7"],"summary":"Malicious code in avatar-forge (npm)","affected":[{"package":{"name":"avatar-forge","ecosystem":"npm","purl":"pkg:npm/avatar-forge"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

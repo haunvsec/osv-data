@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10489","published":"2026-07-13T20:49:47Z","modified":"2026-07-14T20:49:30.127052838Z","summary":"Malicious code in permcserver (npm)","affected":[{"package":{"name":"permcserver","ecosystem":"npm","purl":"pkg:npm/permcserver"},"versions":["1.0.1","1.0.0","1.0.3","1.0.4"]}]}

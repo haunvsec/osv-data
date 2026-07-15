@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10423","published":"2026-07-13T06:56:32Z","modified":"2026-07-13T07:47:03.590198726Z","summary":"Malicious code in supertokens-web (npm)","affected":[{"package":{"name":"supertokens-web","ecosystem":"npm","purl":"pkg:npm/supertokens-web"},"versions":["1.16.0"]}]}

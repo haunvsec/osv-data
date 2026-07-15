@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10488","published":"2026-07-13T20:49:56Z","modified":"2026-07-13T21:01:56.766213760Z","summary":"Malicious code in permcarmserver (npm)","affected":[{"package":{"name":"permcarmserver","ecosystem":"npm","purl":"pkg:npm/permcarmserver"},"versions":["1.0.0"]}]}

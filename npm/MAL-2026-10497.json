@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10497","published":"2026-07-13T21:44:42Z","modified":"2026-07-13T22:01:57.310382535Z","summary":"Malicious code in ddok-modal (npm)","affected":[{"package":{"name":"ddok-modal","ecosystem":"npm","purl":"pkg:npm/ddok-modal"},"versions":["1.0.0"]}]}

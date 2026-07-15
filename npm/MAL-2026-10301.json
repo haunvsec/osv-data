@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10301","published":"2026-07-13T06:27:39Z","modified":"2026-07-14T07:19:08.562792888Z","aliases":["GHSA-95g2-38r2-hcj9"],"summary":"Malicious code in fflc-updated (npm)","affected":[{"package":{"name":"fflc-updated","ecosystem":"npm","purl":"pkg:npm/fflc-updated"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

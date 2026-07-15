@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10363","published":"2026-07-13T06:12:53Z","modified":"2026-07-13T07:32:06.982471905Z","aliases":["GHSA-6p8x-rqq9-f5hm"],"summary":"Malicious code in openai-apps (npm)","affected":[{"package":{"name":"openai-apps","ecosystem":"npm","purl":"pkg:npm/openai-apps"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10466","published":"2026-07-13T17:38:18Z","modified":"2026-07-13T18:16:56.398679377Z","summary":"Malicious code in polymarket-math-stake-kelly (npm)","affected":[{"package":{"name":"polymarket-math-stake-kelly","ecosystem":"npm","purl":"pkg:npm/polymarket-math-stake-kelly"},"versions":["3.7.2"]}]}

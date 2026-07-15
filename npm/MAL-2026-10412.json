@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10412","published":"2026-07-13T06:56:15Z","modified":"2026-07-13T07:47:02.066732193Z","summary":"Malicious code in env-stream (npm)","affected":[{"package":{"name":"env-stream","ecosystem":"npm","purl":"pkg:npm/env-stream"},"versions":["1.0.1","1.0.2"]}]}

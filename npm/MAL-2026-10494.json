@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10494","published":"2026-07-13T21:29:00Z","modified":"2026-07-13T22:01:57.020409319Z","summary":"Malicious code in @quickcall/krew (npm)","affected":[{"package":{"name":"@quickcall/krew","ecosystem":"npm","purl":"pkg:npm/%40quickcall/krew"},"versions":["0.1.7"]}]}

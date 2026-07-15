@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10516","published":"2026-07-13T22:48:52Z","modified":"2026-07-13T23:01:52.475567487Z","summary":"Malicious code in polymarket-bot-logger (npm)","affected":[{"package":{"name":"polymarket-bot-logger","ecosystem":"npm","purl":"pkg:npm/polymarket-bot-logger"},"versions":["1.0.1"]}]}

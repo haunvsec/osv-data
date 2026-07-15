@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10303","published":"2026-07-13T06:12:52Z","modified":"2026-07-13T07:31:59.211007573Z","aliases":["GHSA-q3m9-9f7f-9rjp"],"summary":"Malicious code in gpapps (npm)","affected":[{"package":{"name":"gpapps","ecosystem":"npm","purl":"pkg:npm/gpapps"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

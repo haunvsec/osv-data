@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10518","published":"2026-07-14T02:29:39Z","modified":"2026-07-14T03:16:56.443518236Z","summary":"Malicious code in chai-as-auth (npm)","affected":[{"package":{"name":"chai-as-auth","ecosystem":"npm","purl":"pkg:npm/chai-as-auth"},"versions":["2.3.5"]}]}

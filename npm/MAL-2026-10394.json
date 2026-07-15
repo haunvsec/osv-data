@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10394","published":"2026-07-13T06:12:52Z","modified":"2026-07-13T07:32:11.237998489Z","aliases":["GHSA-5w28-c486-hwhp"],"summary":"Malicious code in vibewise (npm)","affected":[{"package":{"name":"vibewise","ecosystem":"npm","purl":"pkg:npm/vibewise"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

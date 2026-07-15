@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10228","published":"2026-07-13T00:00:00Z","modified":"2026-07-14T03:31:57.360571988Z","aliases":["GHSA-vw6g-629w-6hgx"],"summary":"Malicious code in chat-adapter-zoom (npm)","affected":[{"package":{"name":"chat-adapter-zoom","ecosystem":"npm","purl":"pkg:npm/chat-adapter-zoom"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

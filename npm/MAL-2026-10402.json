@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10402","published":"2026-07-13T06:00:14Z","modified":"2026-07-13T07:47:05.666711313Z","summary":"Malicious code in @gleamkit/ws (npm)","affected":[{"package":{"name":"@gleamkit/ws","ecosystem":"npm","purl":"pkg:npm/%40gleamkit/ws"},"versions":["8.21.3"]}]}

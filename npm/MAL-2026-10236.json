@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10236","published":"2026-07-06T00:00:00Z","modified":"2026-07-14T03:31:58.942380493Z","aliases":["GHSA-w846-5p2c-7hwq"],"summary":"Malicious code in tme-xca (npm)","affected":[{"package":{"name":"tme-xca","ecosystem":"npm","purl":"pkg:npm/tme-xca"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10420","published":"2026-07-13T06:59:11Z","modified":"2026-07-13T14:31:57.533680558Z","summary":"Malicious code in path-addon-extend (npm)","affected":[{"package":{"name":"path-addon-extend","ecosystem":"npm","purl":"pkg:npm/path-addon-extend"},"versions":["1.0.7","1.0.8","1.0.10"]}]}

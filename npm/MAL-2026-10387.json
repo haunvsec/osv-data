@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10387","published":"2026-07-13T06:27:39Z","modified":"2026-07-14T07:19:16.739123472Z","aliases":["GHSA-2hh4-hfw3-mgxv"],"summary":"Malicious code in thebigyahu (npm)","affected":[{"package":{"name":"thebigyahu","ecosystem":"npm","purl":"pkg:npm/thebigyahu"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

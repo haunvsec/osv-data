@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10450","published":"2026-07-13T14:22:43Z","modified":"2026-07-13T15:47:28.989318319Z","summary":"Malicious code in font-hub (npm)","affected":[{"package":{"name":"font-hub","ecosystem":"npm","purl":"pkg:npm/font-hub"},"versions":["1.5.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10543","published":"2026-07-14T03:38:30Z","modified":"2026-07-14T04:46:58.945697266Z","summary":"Malicious code in skrill-payments (npm)","affected":[{"package":{"name":"skrill-payments","ecosystem":"npm","purl":"pkg:npm/skrill-payments"},"versions":["1.0.0"]}]}

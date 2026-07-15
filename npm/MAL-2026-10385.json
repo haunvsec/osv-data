@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10385","published":"2026-07-13T06:27:40Z","modified":"2026-07-13T10:46:59.262691832Z","aliases":["GHSA-hgpr-8grf-chrq"],"summary":"Malicious code in speed5 (npm)","affected":[{"package":{"name":"speed5","ecosystem":"npm","purl":"pkg:npm/speed5"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

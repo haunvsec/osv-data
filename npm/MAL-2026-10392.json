@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10392","published":"2026-07-13T06:30:32Z","modified":"2026-07-13T09:17:04.878375468Z","aliases":["GHSA-r7j6-rpc2-h6xh"],"summary":"Malicious code in tipsen-last-pls (npm)","affected":[{"package":{"name":"tipsen-last-pls","ecosystem":"npm","purl":"pkg:npm/tipsen-last-pls"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

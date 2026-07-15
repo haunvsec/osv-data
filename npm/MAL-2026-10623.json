@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10623","published":"2026-07-14T20:29:55Z","modified":"2026-07-14T21:04:40.795395699Z","summary":"Malicious code in http-ws-listener (npm)","affected":[{"package":{"name":"http-ws-listener","ecosystem":"npm","purl":"pkg:npm/http-ws-listener"},"versions":["1.0.5"]}]}

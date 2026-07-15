@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10519","published":"2026-07-14T02:29:52Z","modified":"2026-07-14T03:16:56.430811936Z","summary":"Malicious code in chai-as-sets (npm)","affected":[{"package":{"name":"chai-as-sets","ecosystem":"npm","purl":"pkg:npm/chai-as-sets"},"versions":["3.1.3"]}]}

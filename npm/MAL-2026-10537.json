@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10537","published":"2026-07-14T03:53:07Z","modified":"2026-07-14T04:46:57.621851647Z","summary":"Malicious code in neon-postgres (npm)","affected":[{"package":{"name":"neon-postgres","ecosystem":"npm","purl":"pkg:npm/neon-postgres"},"versions":["3.5.0","3.5.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10493","published":"2026-07-13T21:04:34Z","modified":"2026-07-13T21:31:55.100156693Z","summary":"Malicious code in insomnia-plugin-poc-m4gester-run (npm)","affected":[{"package":{"name":"insomnia-plugin-poc-m4gester-run","ecosystem":"npm","purl":"pkg:npm/insomnia-plugin-poc-m4gester-run"},"versions":["1.0.0"]}]}

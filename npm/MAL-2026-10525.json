@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10525","published":"2026-07-14T03:33:51Z","modified":"2026-07-14T04:47:00.248353527Z","summary":"Malicious code in @vite-mcp/vite-type (npm)","affected":[{"package":{"name":"@vite-mcp/vite-type","ecosystem":"npm","purl":"pkg:npm/%40vite-mcp/vite-type"},"versions":["6.44.1"]}]}

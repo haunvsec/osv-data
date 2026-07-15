@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10464","published":"2026-07-13T17:37:03Z","modified":"2026-07-13T18:16:55.513646851Z","summary":"Malicious code in node-procmetrics-data (npm)","affected":[{"package":{"name":"node-procmetrics-data","ecosystem":"npm","purl":"pkg:npm/node-procmetrics-data"},"versions":["1.0.1"]}]}

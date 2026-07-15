@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10561","published":"2026-07-14T05:09:02Z","modified":"2026-07-14T06:19:15.879767745Z","aliases":["GHSA-wx59-xwhx-3mmv"],"summary":"Malicious code in dom-weave (npm)","affected":[{"package":{"name":"dom-weave","ecosystem":"npm","purl":"pkg:npm/dom-weave"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

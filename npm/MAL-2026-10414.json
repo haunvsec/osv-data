@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10414","published":"2026-07-13T06:55:20Z","modified":"2026-07-13T07:47:04.840113079Z","summary":"Malicious code in express-request-engine (npm)","affected":[{"package":{"name":"express-request-engine","ecosystem":"npm","purl":"pkg:npm/express-request-engine"},"versions":["3.6.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10531","published":"2026-07-14T04:02:57Z","modified":"2026-07-14T04:47:00.502815704Z","summary":"Malicious code in chain-devkit (npm)","affected":[{"package":{"name":"chain-devkit","ecosystem":"npm","purl":"pkg:npm/chain-devkit"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10393","published":"2026-07-13T06:30:31Z","modified":"2026-07-13T09:17:04.859138457Z","aliases":["GHSA-q256-mmcv-pqmq"],"summary":"Malicious code in tipsen-poc-again (npm)","affected":[{"package":{"name":"tipsen-poc-again","ecosystem":"npm","purl":"pkg:npm/tipsen-poc-again"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

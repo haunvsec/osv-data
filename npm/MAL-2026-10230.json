@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10230","published":"2026-07-06T00:00:00Z","modified":"2026-07-14T03:31:57.472261997Z","aliases":["GHSA-8g7r-j4vg-8w9q"],"summary":"Malicious code in enbd-react-lib (npm)","affected":[{"package":{"name":"enbd-react-lib","ecosystem":"npm","purl":"pkg:npm/enbd-react-lib"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

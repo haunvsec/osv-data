@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10433","published":"2026-07-13T09:21:39Z","modified":"2026-07-13T10:47:04.280678064Z","summary":"Malicious code in chain-guardian (npm)","affected":[{"package":{"name":"chain-guardian","ecosystem":"npm","purl":"pkg:npm/chain-guardian"},"versions":["1.1.0"]}]}

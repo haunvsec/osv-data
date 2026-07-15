@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10532","published":"2026-07-14T03:54:52Z","modified":"2026-07-14T04:46:57.652142159Z","summary":"Malicious code in fluterjs (npm)","affected":[{"package":{"name":"fluterjs","ecosystem":"npm","purl":"pkg:npm/fluterjs"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10400","published":"2026-07-13T05:14:28Z","modified":"2026-07-13T07:47:04.181218061Z","summary":"Malicious code in @equansservices/tool (npm)","affected":[{"package":{"name":"@equansservices/tool","ecosystem":"npm","purl":"pkg:npm/%40equansservices/tool"},"versions":["1.0.2"]}]}

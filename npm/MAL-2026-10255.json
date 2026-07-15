@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10255","published":"2026-07-13T06:27:42Z","modified":"2026-07-13T09:16:52.658786009Z","aliases":["GHSA-rx3v-j544-22mx"],"summary":"Malicious code in abuden212 (npm)","affected":[{"package":{"name":"abuden212","ecosystem":"npm","purl":"pkg:npm/abuden212"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

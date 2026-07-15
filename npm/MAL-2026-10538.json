@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10538","published":"2026-07-14T03:38:17Z","modified":"2026-07-14T04:46:57.977038948Z","summary":"Malicious code in neteller (npm)","affected":[{"package":{"name":"neteller","ecosystem":"npm","purl":"pkg:npm/neteller"},"versions":["1.0.0"]}]}

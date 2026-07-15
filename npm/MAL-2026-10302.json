@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10302","published":"2026-07-13T06:12:52Z","modified":"2026-07-13T07:31:59.154821311Z","aliases":["GHSA-jqmp-phjr-8wgf"],"summary":"Malicious code in gpapp (npm)","affected":[{"package":{"name":"gpapp","ecosystem":"npm","purl":"pkg:npm/gpapp"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

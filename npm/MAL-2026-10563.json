@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10563","published":"2026-07-14T05:09:02Z","modified":"2026-07-14T06:19:16.799466950Z","aliases":["GHSA-hxh5-f4r5-8m6g"],"summary":"Malicious code in humanize-kit (npm)","affected":[{"package":{"name":"humanize-kit","ecosystem":"npm","purl":"pkg:npm/humanize-kit"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

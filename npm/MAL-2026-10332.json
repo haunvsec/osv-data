@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10332","published":"2026-07-13T06:27:39Z","modified":"2026-07-14T07:19:11.825051719Z","aliases":["GHSA-5qp2-5jqf-v9h3"],"summary":"Malicious code in lowkeybored (npm)","affected":[{"package":{"name":"lowkeybored","ecosystem":"npm","purl":"pkg:npm/lowkeybored"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

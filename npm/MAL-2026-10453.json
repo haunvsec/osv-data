@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10453","published":"2026-07-13T14:22:59Z","modified":"2026-07-13T15:49:13.573329223Z","summary":"Malicious code in router-processor (npm)","affected":[{"package":{"name":"router-processor","ecosystem":"npm","purl":"pkg:npm/router-processor"},"versions":["1.5.2"]}]}

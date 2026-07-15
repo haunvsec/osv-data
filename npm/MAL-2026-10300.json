@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10300","published":"2026-07-13T06:12:53Z","modified":"2026-07-13T07:31:58.513642Z","aliases":["GHSA-rj7x-4vm3-g5qh"],"summary":"Malicious code in dogfood-search (npm)","affected":[{"package":{"name":"dogfood-search","ecosystem":"npm","purl":"pkg:npm/dogfood-search"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

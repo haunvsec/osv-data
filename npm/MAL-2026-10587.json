@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10587","published":"2026-07-14T14:00:55Z","modified":"2026-07-14T14:49:19.909685214Z","summary":"Malicious code in dayjscore (npm)","affected":[{"package":{"name":"dayjscore","ecosystem":"npm","purl":"pkg:npm/dayjscore"},"versions":["1.0.0"]}]}

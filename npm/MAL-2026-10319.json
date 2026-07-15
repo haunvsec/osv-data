@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10319","published":"2026-07-13T06:27:41Z","modified":"2026-07-13T09:17:00.063312338Z","aliases":["GHSA-r778-v7v3-vhf9"],"summary":"Malicious code in ishowfeet17 (npm)","affected":[{"package":{"name":"ishowfeet17","ecosystem":"npm","purl":"pkg:npm/ishowfeet17"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

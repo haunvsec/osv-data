@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10237","published":"2026-07-06T00:00:00Z","modified":"2026-07-14T07:19:18.755462066Z","aliases":["GHSA-fh7f-j6p7-m9h7"],"summary":"Malicious code in tme-xca-react (npm)","affected":[{"package":{"name":"tme-xca-react","ecosystem":"npm","purl":"pkg:npm/tme-xca-react"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

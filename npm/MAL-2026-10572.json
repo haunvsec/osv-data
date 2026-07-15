@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10572","published":"2026-07-14T05:57:40Z","modified":"2026-07-14T16:49:21.855022185Z","summary":"Malicious code in eth-wallet-helpers (npm)","affected":[{"package":{"name":"eth-wallet-helpers","ecosystem":"npm","purl":"pkg:npm/eth-wallet-helpers"},"versions":["1.0.0","1.0.2","1.0.1","1.0.3"]}]}

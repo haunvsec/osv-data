@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10284","published":"2026-07-13T06:12:52Z","modified":"2026-07-13T07:31:55.822344507Z","aliases":["GHSA-w8x5-m86w-956v"],"summary":"Malicious code in apps-gpt (npm)","affected":[{"package":{"name":"apps-gpt","ecosystem":"npm","purl":"pkg:npm/apps-gpt"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10396","published":"2026-07-13T06:27:39Z","modified":"2026-07-14T07:19:19.934988071Z","aliases":["GHSA-h2gh-rhc4-98p2"],"summary":"Malicious code in whatsadmaidk (npm)","affected":[{"package":{"name":"whatsadmaidk","ecosystem":"npm","purl":"pkg:npm/whatsadmaidk"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

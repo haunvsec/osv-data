@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10511","published":"2026-07-13T22:17:10Z","modified":"2026-07-13T22:46:55.321365933Z","aliases":["GHSA-w8hw-4vch-mrj4"],"summary":"Malicious code in type-swap (npm)","affected":[{"package":{"name":"type-swap","ecosystem":"npm","purl":"pkg:npm/type-swap"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

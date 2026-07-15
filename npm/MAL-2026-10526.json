@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10526","published":"2026-07-14T03:33:15Z","modified":"2026-07-14T04:46:59.111914190Z","summary":"Malicious code in @vite-pro/vite-ui (npm)","affected":[{"package":{"name":"@vite-pro/vite-ui","ecosystem":"npm","purl":"pkg:npm/%40vite-pro/vite-ui"},"versions":["2.5.10"]}]}

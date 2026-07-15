@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10502","published":"2026-07-13T21:34:00Z","modified":"2026-07-13T22:01:56.579140364Z","summary":"Malicious code in gamified-trading-system (npm)","affected":[{"package":{"name":"gamified-trading-system","ecosystem":"npm","purl":"pkg:npm/gamified-trading-system"},"versions":["3.6.2","3.1.0"]}]}

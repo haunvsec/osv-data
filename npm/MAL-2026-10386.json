@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10386","published":"2026-07-13T06:27:42Z","modified":"2026-07-14T07:19:16.334369075Z","aliases":["GHSA-pw55-4833-m3q2"],"summary":"Malicious code in testdonotredeemit (npm)","affected":[{"package":{"name":"testdonotredeemit","ecosystem":"npm","purl":"pkg:npm/testdonotredeemit"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

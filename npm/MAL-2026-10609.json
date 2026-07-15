@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10609","published":"2026-07-14T17:56:34Z","modified":"2026-07-14T18:49:34.151922035Z","summary":"Malicious code in utils-style-engine (npm)","affected":[{"package":{"name":"utils-style-engine","ecosystem":"npm","purl":"pkg:npm/utils-style-engine"},"versions":["10.2.4"]}]}

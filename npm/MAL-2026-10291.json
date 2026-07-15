@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10291","published":"2026-07-13T06:27:40Z","modified":"2026-07-13T09:16:56.854903676Z","aliases":["GHSA-cv9h-3xg8-22j6"],"summary":"Malicious code in backupsitetuff10 (npm)","affected":[{"package":{"name":"backupsitetuff10","ecosystem":"npm","purl":"pkg:npm/backupsitetuff10"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

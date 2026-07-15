@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10401","published":"2026-07-13T05:15:09Z","modified":"2026-07-13T07:47:05.671816260Z","summary":"Malicious code in @espn-ping/react-dmed-oauth (npm)","affected":[{"package":{"name":"@espn-ping/react-dmed-oauth","ecosystem":"npm","purl":"pkg:npm/%40espn-ping/react-dmed-oauth"},"versions":["666.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10434","published":"2026-07-13T09:22:28Z","modified":"2026-07-13T10:47:05.779119308Z","summary":"Malicious code in env-fast (npm)","affected":[{"package":{"name":"env-fast","ecosystem":"npm","purl":"pkg:npm/env-fast"},"versions":["1.0.0"]}]}

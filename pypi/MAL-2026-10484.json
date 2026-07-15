@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10484","published":"2026-07-13T19:50:59Z","modified":"2026-07-13T22:01:57.093483374Z","summary":"Malicious code in browser-use-headless (PyPI)","affected":[{"package":{"name":"browser-use-headless","ecosystem":"PyPI","purl":"pkg:pypi/browser-use-headless"},"versions":["0.1.4"]}]}

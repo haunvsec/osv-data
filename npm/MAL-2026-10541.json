@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10541","published":"2026-07-14T03:47:41Z","modified":"2026-07-14T04:46:57.833402553Z","summary":"Malicious code in proxy-seller-mcp (npm)","affected":[{"package":{"name":"proxy-seller-mcp","ecosystem":"npm","purl":"pkg:npm/proxy-seller-mcp"},"versions":["0.1.7"]}]}

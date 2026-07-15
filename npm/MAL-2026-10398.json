@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10398","published":"2026-07-13T05:14:59Z","modified":"2026-07-13T07:47:04.390599487Z","summary":"Malicious code in @db-tools/main-app (npm)","affected":[{"package":{"name":"@db-tools/main-app","ecosystem":"npm","purl":"pkg:npm/%40db-tools/main-app"},"versions":["2026.6.30"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10422","published":"2026-07-13T07:00:55Z","modified":"2026-07-13T07:47:03.597572972Z","summary":"Malicious code in sso-users-detection (npm)","affected":[{"package":{"name":"sso-users-detection","ecosystem":"npm","purl":"pkg:npm/sso-users-detection"},"versions":["99.9.1"]}]}

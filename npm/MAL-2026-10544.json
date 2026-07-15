@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10544","published":"2026-07-14T03:38:10Z","modified":"2026-07-14T04:46:58.943225174Z","summary":"Malicious code in skrill-sdk (npm)","affected":[{"package":{"name":"skrill-sdk","ecosystem":"npm","purl":"pkg:npm/skrill-sdk"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10583","published":"2026-07-14T14:00:35Z","modified":"2026-07-14T14:49:17.971605003Z","summary":"Malicious code in chalkdev (npm)","affected":[{"package":{"name":"chalkdev","ecosystem":"npm","purl":"pkg:npm/chalkdev"},"versions":["1.0.0"]}]}

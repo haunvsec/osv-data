@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10418","published":"2026-07-13T06:49:02Z","modified":"2026-07-13T07:47:03.381885006Z","summary":"Malicious code in note-utilities (npm)","affected":[{"package":{"name":"note-utilities","ecosystem":"npm","purl":"pkg:npm/note-utilities"},"versions":["2.1.2"]}]}

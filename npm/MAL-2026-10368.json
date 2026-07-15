@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10368","published":"2026-07-13T06:27:40Z","modified":"2026-07-13T10:47:01.749424789Z","aliases":["GHSA-7cmm-3v8x-x8gc"],"summary":"Malicious code in ratelimitsucks3 (npm)","affected":[{"package":{"name":"ratelimitsucks3","ecosystem":"npm","purl":"pkg:npm/ratelimitsucks3"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

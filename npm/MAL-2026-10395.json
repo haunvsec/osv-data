@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10395","published":"2026-07-13T06:12:52Z","modified":"2026-07-13T07:32:11.240347538Z","aliases":["GHSA-c576-6fr6-958p"],"summary":"Malicious code in vibewise-cli (npm)","affected":[{"package":{"name":"vibewise-cli","ecosystem":"npm","purl":"pkg:npm/vibewise-cli"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

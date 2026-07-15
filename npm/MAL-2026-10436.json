@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10436","published":"2026-07-13T09:22:35Z","modified":"2026-07-13T10:47:05.780768219Z","summary":"Malicious code in jest-formatter (npm)","affected":[{"package":{"name":"jest-formatter","ecosystem":"npm","purl":"pkg:npm/jest-formatter"},"versions":["1.0.0"]}]}

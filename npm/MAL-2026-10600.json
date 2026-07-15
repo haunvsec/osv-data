@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10600","published":"2026-07-14T17:56:25Z","modified":"2026-07-14T18:49:30.154572288Z","summary":"Malicious code in @public-for-cdao/api (npm)","affected":[{"package":{"name":"@public-for-cdao/api","ecosystem":"npm","purl":"pkg:npm/%40public-for-cdao/api"},"versions":["99.99.99"]}]}
