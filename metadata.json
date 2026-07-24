@@ -1,6 +1,6 @@
 {
   "last_crawl_time": "2026-07-24T00:49:15Z",
-  "last_attempt_time": "2026-07-24T02:30:38Z",
+  "last_attempt_time": "2026-07-24T05:34:49Z",
   "source": "osv-vulnerabilities-gcs",
   "source_url": "https://storage.googleapis.com/osv-vulnerabilities",
   "method": "incremental",
@@ -46,7 +46,7 @@
       "last_modified_time": "2026-07-23T21:48:56.863877277Z"
     },
     "redhat": {
-      "last_attempt_time": "2026-07-24T02:30:38Z",
+      "last_attempt_time": "2026-07-24T05:34:49Z",
       "last_method": "incremental",
       "last_downloaded": 0,
       "last_skipped": 0,
@@ -57,7 +57,7 @@
     }
   },
   "last_run": {
-    "started_at": "2026-07-24T00:49:16Z",
+    "started_at": "2026-07-24T03:33:11Z",
     "output_dir": "/Volumes/DATA/security_advisory/osv-data",
     "method": "incremental",
     "ecosystems": [
@@ -88,7 +88,7 @@
     "limit": null,
     "sync_missing": false,
     "missing_only": false,
-    "finished_at": "2026-07-24T02:30:38Z",
-    "duration_seconds": 6082.19
+    "finished_at": "2026-07-24T05:34:49Z",
+    "duration_seconds": 7297.57
   }
 }
