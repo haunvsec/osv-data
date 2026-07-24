@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10742","published":"2026-07-16T18:33:15Z","modified":"2026-07-16T19:19:50.462003247Z","summary":"Malicious code in node-as-api (npm)","affected":[{"package":{"name":"node-as-api","ecosystem":"npm","purl":"pkg:npm/node-as-api"},"versions":["2.1.6"]}]}

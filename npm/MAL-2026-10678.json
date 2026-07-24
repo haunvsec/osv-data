@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10678","published":"2026-07-15T11:30:22Z","modified":"2026-07-15T11:49:25.975693145Z","summary":"Malicious code in ls-env-config (npm)","affected":[{"package":{"name":"ls-env-config","ecosystem":"npm","purl":"pkg:npm/ls-env-config"},"versions":["1.0.5"]}]}

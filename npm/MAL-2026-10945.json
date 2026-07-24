@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10945","published":"2026-07-20T00:00:00Z","modified":"2026-07-23T07:53:00.131762821Z","summary":"Malicious code in zer0onetencent2 (npm)","affected":[{"package":{"name":"zer0onetencent2","ecosystem":"npm","purl":"pkg:npm/zer0onetencent2"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

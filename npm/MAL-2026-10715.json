@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10715","published":"2026-07-16T11:20:52Z","modified":"2026-07-17T03:19:26.727943218Z","summary":"Malicious code in @hibachi-xyz/types (npm)","affected":[{"package":{"name":"@hibachi-xyz/types","ecosystem":"npm","purl":"pkg:npm/%40hibachi-xyz/types"},"versions":["99.0.0"]}]}

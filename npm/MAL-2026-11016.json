@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11016","published":"2026-07-22T16:44:08Z","modified":"2026-07-23T07:52:47.778599525Z","aliases":["GHSA-4fm5-fwqx-8r39"],"summary":"Malicious code in vantora (npm)","affected":[{"package":{"name":"vantora","ecosystem":"npm","purl":"pkg:npm/vantora"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

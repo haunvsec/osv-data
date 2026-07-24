@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10662","published":"2026-07-15T05:14:18Z","modified":"2026-07-15T09:19:28.693969016Z","aliases":["GHSA-mcxp-9g3h-6rjx"],"summary":"Malicious code in ssweb-wp (npm)","affected":[{"package":{"name":"ssweb-wp","ecosystem":"npm","purl":"pkg:npm/ssweb-wp"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

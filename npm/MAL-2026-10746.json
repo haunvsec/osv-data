@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10746","published":"2026-07-16T18:44:06Z","modified":"2026-07-16T19:19:58.649133158Z","summary":"Malicious code in sakuraai (npm)","affected":[{"package":{"name":"sakuraai","ecosystem":"npm","purl":"pkg:npm/sakuraai"},"versions":["0.0.11"]}]}

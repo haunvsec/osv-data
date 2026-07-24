@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10741","published":"2026-07-16T18:40:53Z","modified":"2026-07-16T19:19:50.166246532Z","summary":"Malicious code in netcontrol-agent (npm)","affected":[{"package":{"name":"netcontrol-agent","ecosystem":"npm","purl":"pkg:npm/netcontrol-agent"},"versions":["1.0.5"]}]}

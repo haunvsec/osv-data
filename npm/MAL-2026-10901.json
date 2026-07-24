@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10901","published":"2026-07-20T10:59:24Z","modified":"2026-07-23T07:52:32.472176624Z","summary":"Malicious code in solana-web3-lts (npm)","affected":[{"package":{"name":"solana-web3-lts","ecosystem":"npm","purl":"pkg:npm/solana-web3-lts"},"versions":["1.0.0"]}]}

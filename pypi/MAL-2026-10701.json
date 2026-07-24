@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10701","published":"2026-07-16T14:12:05Z","modified":"2026-07-16T15:19:24.309314044Z","summary":"Malicious code in discord-telemetry (PyPI)","affected":[{"package":{"name":"discord-telemetry","ecosystem":"PyPI","purl":"pkg:pypi/discord-telemetry"},"versions":["0.1.0","0.1.1","0.1.2","0.1.3","0.1.4","0.1.5"]}]}

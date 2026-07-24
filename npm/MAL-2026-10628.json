@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10628","published":"2026-07-15T02:58:00Z","modified":"2026-07-15T05:19:42.337781689Z","summary":"Malicious code in ai-explain (npm)","affected":[{"package":{"name":"ai-explain","ecosystem":"npm","purl":"pkg:npm/ai-explain"},"versions":["0.3.4"]}]}

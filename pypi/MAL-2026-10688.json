@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10688","published":"2026-07-15T17:29:10Z","modified":"2026-07-19T20:32:36.202772207Z","summary":"Malicious code in log-guru (PyPI)","affected":[{"package":{"name":"log-guru","ecosystem":"PyPI","purl":"pkg:pypi/log-guru"},"versions":["0.7.8"]}]}

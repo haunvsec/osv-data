@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10866","published":"2026-07-20T05:15:31Z","modified":"2026-07-23T07:53:03.292381088Z","summary":"Malicious code in nemopush (PyPI)","affected":[{"package":{"name":"nemopush","ecosystem":"PyPI","purl":"pkg:pypi/nemopush"},"versions":["0.1.0","0.1.1","0.1.2","0.1.3"]}]}

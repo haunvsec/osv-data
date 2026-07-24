@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10638","published":"2026-07-15T04:02:35Z","modified":"2026-07-16T23:49:26.730447531Z","aliases":["GHSA-548c-qh8j-h895"],"summary":"Malicious code in monogrok (npm)","affected":[{"package":{"name":"monogrok","ecosystem":"npm","purl":"pkg:npm/monogrok"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

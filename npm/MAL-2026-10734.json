@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10734","published":"2026-07-16T18:38:23Z","modified":"2026-07-16T19:19:45.987419450Z","summary":"Malicious code in infrastructure-common (npm)","affected":[{"package":{"name":"infrastructure-common","ecosystem":"npm","purl":"pkg:npm/infrastructure-common"},"versions":["99.9.9"]}]}

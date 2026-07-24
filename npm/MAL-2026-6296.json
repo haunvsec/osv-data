@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2026-6296","published":"2026-06-23T14:09:56Z","modified":"2026-06-23T14:31:20.329405282Z","summary":"Malicious code in myebaynode (npm)","affected":[{"package":{"name":"myebaynode","ecosystem":"npm","purl":"pkg:npm/myebaynode"},"versions":["99.0.0"]}]}
+{"schema_version":"1.7.5","id":"MAL-2026-6296","published":"2026-06-23T14:09:56Z","modified":"2026-07-23T07:51:57.892544763Z","summary":"Malicious code in myebaynode (npm)","affected":[{"package":{"name":"myebaynode","ecosystem":"npm","purl":"pkg:npm/myebaynode"},"versions":["99.0.0"]}]}

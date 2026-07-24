@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10871","published":"2026-07-20T10:17:13Z","modified":"2026-07-23T07:50:01.198232180Z","summary":"Malicious code in @azure-lab-services/ml-ts (npm)","affected":[{"package":{"name":"@azure-lab-services/ml-ts","ecosystem":"npm","purl":"pkg:npm/%40azure-lab-services/ml-ts"},"versions":["99.0.0"]}]}

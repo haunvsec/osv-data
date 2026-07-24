@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10996","published":"2026-07-22T20:24:58Z","modified":"2026-07-23T07:51:42.369076971Z","summary":"Malicious code in init-js-examples (npm)","affected":[{"package":{"name":"init-js-examples","ecosystem":"npm","purl":"pkg:npm/init-js-examples"},"versions":["1.0.0"]}]}

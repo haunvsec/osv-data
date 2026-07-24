@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10686","published":"2026-07-15T17:11:07Z","modified":"2026-07-15T17:49:19.227325504Z","summary":"Malicious code in @ddh-libraries/analytics (npm)","affected":[{"package":{"name":"@ddh-libraries/analytics","ecosystem":"npm","purl":"pkg:npm/%40ddh-libraries/analytics"},"versions":["99.0.0"]}]}

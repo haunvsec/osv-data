@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10915","published":"2026-07-17T22:48:25Z","modified":"2026-07-23T07:53:01.762970136Z","summary":"Malicious code in dwh-kafka-client (PyPI)","affected":[{"package":{"name":"dwh-kafka-client","ecosystem":"PyPI","purl":"pkg:pypi/dwh-kafka-client"},"versions":["0.0.1"]}]}

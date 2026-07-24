@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10667","published":"2026-07-15T06:19:56Z","modified":"2026-07-15T07:19:24.947098895Z","aliases":["GHSA-f59f-vj5q-c725"],"summary":"Malicious code in true (npm)","affected":[{"package":{"name":"true","ecosystem":"npm","purl":"pkg:npm/true"},"versions":["0.0.4","0.0.3","0.0.2","0.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10894","published":"2026-07-20T10:42:41Z","modified":"2026-07-23T07:51:26.325502903Z","summary":"Malicious code in exodus-checkout (npm)","affected":[{"package":{"name":"exodus-checkout","ecosystem":"npm","purl":"pkg:npm/exodus-checkout"},"versions":["99.0.0-canary.1"]}]}

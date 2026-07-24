@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10720","published":"2026-07-16T18:39:32Z","modified":"2026-07-16T19:19:38.149922360Z","summary":"Malicious code in @vibelet/cli (npm)","affected":[{"package":{"name":"@vibelet/cli","ecosystem":"npm","purl":"pkg:npm/%40vibelet/cli"},"versions":["1.2.154"]}]}

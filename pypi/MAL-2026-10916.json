@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10916","published":"2026-07-18T14:13:52Z","modified":"2026-07-23T07:53:04.184665793Z","summary":"Malicious code in python-devplatform-client (PyPI)","affected":[{"package":{"name":"python-devplatform-client","ecosystem":"PyPI","purl":"pkg:pypi/python-devplatform-client"},"versions":["0.0.1","8.5.3","8.5.4"]}]}

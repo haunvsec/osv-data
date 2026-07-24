@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10717","published":"2026-07-16T18:41:22Z","modified":"2026-07-16T19:19:57.789198056Z","summary":"Malicious code in @onescience/onecode (npm)","affected":[{"package":{"name":"@onescience/onecode","ecosystem":"npm","purl":"pkg:npm/%40onescience/onecode"},"versions":["1.14.50-202607161038","1.14.50-202607161710","1.14.50-202607161139"]}]}

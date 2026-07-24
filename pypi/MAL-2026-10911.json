@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10911","published":"2026-07-20T10:13:29Z","modified":"2026-07-23T07:53:03.281918710Z","summary":"Malicious code in mysuperlicense (PyPI)","affected":[{"package":{"name":"mysuperlicense","ecosystem":"PyPI","purl":"pkg:pypi/mysuperlicense"},"versions":["0.1.0"]}]}

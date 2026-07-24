@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10959","published":"2026-07-20T00:00:00Z","modified":"2026-07-23T07:51:42.955633071Z","summary":"Malicious code in iphouse-core (npm)","affected":[{"package":{"name":"iphouse-core","ecosystem":"npm","purl":"pkg:npm/iphouse-core"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

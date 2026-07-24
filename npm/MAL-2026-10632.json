@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10632","published":"2026-07-14T22:16:11Z","modified":"2026-07-15T05:19:50.701463249Z","summary":"Malicious code in cppt-common (npm)","affected":[{"package":{"name":"cppt-common","ecosystem":"npm","purl":"pkg:npm/cppt-common"},"versions":["13.1.1"]}]}

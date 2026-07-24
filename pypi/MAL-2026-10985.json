@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10985","published":"2026-07-21T15:24:17Z","modified":"2026-07-23T07:53:00.343008371Z","summary":"Malicious code in animated-octo-spoon (PyPI)","affected":[{"package":{"name":"animated-octo-spoon","ecosystem":"PyPI","purl":"pkg:pypi/animated-octo-spoon"},"versions":["0.1.0","0.1.1"]}]}

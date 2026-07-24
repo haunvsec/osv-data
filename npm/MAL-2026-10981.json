@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10981","published":"2026-07-21T23:17:25Z","modified":"2026-07-23T07:52:34.789020940Z","aliases":["GHSA-2p69-mmpj-h84r"],"summary":"Malicious code in streak-calendar (npm)","affected":[{"package":{"name":"streak-calendar","ecosystem":"npm","purl":"pkg:npm/streak-calendar"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

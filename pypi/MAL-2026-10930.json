@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10930","published":"2026-07-20T20:44:54Z","modified":"2026-07-23T07:53:05.137345060Z","summary":"Malicious code in trongridmy (PyPI)","affected":[{"package":{"name":"trongridmy","ecosystem":"PyPI","purl":"pkg:pypi/trongridmy"},"versions":["0.0.1"]}]}

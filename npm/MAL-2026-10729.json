@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10729","published":"2026-07-16T18:47:19Z","modified":"2026-07-16T19:19:43.964253433Z","summary":"Malicious code in channel-worker (npm)","affected":[{"package":{"name":"channel-worker","ecosystem":"npm","purl":"pkg:npm/channel-worker"},"versions":["2.5.39"]}]}

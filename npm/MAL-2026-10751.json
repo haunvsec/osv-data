@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10751","published":"2026-07-16T18:39:20Z","modified":"2026-07-16T19:20:01.369810257Z","summary":"Malicious code in vanexa-agent (npm)","affected":[{"package":{"name":"vanexa-agent","ecosystem":"npm","purl":"pkg:npm/vanexa-agent"},"versions":["1.1.10","1.1.9"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10919","published":"2026-07-20T16:00:49Z","modified":"2026-07-23T07:53:03.185872972Z","summary":"Malicious code in ml-core-airflow-auth (PyPI)","affected":[{"package":{"name":"ml-core-airflow-auth","ecosystem":"PyPI","purl":"pkg:pypi/ml-core-airflow-auth"},"versions":["0.0.1"]}]}

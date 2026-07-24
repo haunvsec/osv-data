@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10986","published":"2026-07-21T20:44:12Z","modified":"2026-07-23T07:53:00.776253185Z","summary":"Malicious code in comp-colors (PyPI)","affected":[{"package":{"name":"comp-colors","ecosystem":"PyPI","purl":"pkg:pypi/comp-colors"},"versions":["0.1.5"]}]}

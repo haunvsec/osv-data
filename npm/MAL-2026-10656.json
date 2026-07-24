@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10656","published":"2026-07-07T08:44:11Z","modified":"2026-07-15T06:04:29.068537177Z","summary":"Malicious code in @pimy-b2cweb/frontend-lib (npm)","affected":[{"package":{"name":"@pimy-b2cweb/frontend-lib","ecosystem":"npm","purl":"pkg:npm/%40pimy-b2cweb/frontend-lib"},"versions":["99.99.99"]}]}

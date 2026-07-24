@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10910","published":"2026-07-20T10:13:29Z","modified":"2026-07-23T07:53:03.272906048Z","summary":"Malicious code in mysupergoodpython (PyPI)","affected":[{"package":{"name":"mysupergoodpython","ecosystem":"PyPI","purl":"pkg:pypi/mysupergoodpython"},"versions":["0.1.0"]}]}

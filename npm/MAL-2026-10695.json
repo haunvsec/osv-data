@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10695","published":"2026-07-16T08:13:04Z","modified":"2026-07-16T09:19:15.498016169Z","aliases":["GHSA-g5cv-hmr5-x42p"],"summary":"Malicious code in ai-p2p (npm)","affected":[{"package":{"name":"ai-p2p","ecosystem":"npm","purl":"pkg:npm/ai-p2p"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

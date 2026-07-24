@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10934","published":"2026-07-20T00:00:00Z","modified":"2026-07-23T07:52:45.337168594Z","summary":"Malicious code in twilio-internal (npm)","affected":[{"package":{"name":"twilio-internal","ecosystem":"npm","purl":"pkg:npm/twilio-internal"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

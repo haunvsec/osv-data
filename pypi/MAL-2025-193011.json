@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2025-193011","published":"2025-12-31T16:40:04Z","modified":"2026-02-26T10:05:43.408411Z","summary":"Malicious code in requeses (PyPI)","affected":[{"package":{"name":"requeses","ecosystem":"PyPI","purl":"pkg:pypi/requeses"},"versions":["1.0.0"]}]}
+{"schema_version":"1.7.5","id":"MAL-2025-193011","published":"2025-12-31T16:40:04Z","modified":"2026-07-20T06:32:29.699913692Z","summary":"Malicious code in requeses (PyPI)","affected":[{"package":{"name":"requeses","ecosystem":"PyPI","purl":"pkg:pypi/requeses"},"versions":["1.0.0"]}]}

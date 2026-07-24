@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10740","published":"2026-07-16T18:38:13Z","modified":"2026-07-16T19:19:50.051504373Z","summary":"Malicious code in myreviews-core (npm)","affected":[{"package":{"name":"myreviews-core","ecosystem":"npm","purl":"pkg:npm/myreviews-core"},"versions":["99.0.0"]}]}

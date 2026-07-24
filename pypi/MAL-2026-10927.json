@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10927","published":"2026-07-20T17:53:19Z","modified":"2026-07-23T07:53:04.436740395Z","summary":"Malicious code in roles-royce (PyPI)","affected":[{"package":{"name":"roles-royce","ecosystem":"PyPI","purl":"pkg:pypi/roles-royce"},"versions":["2.1.1"]}]}

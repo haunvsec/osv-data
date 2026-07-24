@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2026-6370","published":"2026-06-24T04:00:01Z","modified":"2026-06-24T05:01:21.276179459Z","summary":"Malicious code in hyperpure (npm)","affected":[{"package":{"name":"hyperpure","ecosystem":"npm","purl":"pkg:npm/hyperpure"},"versions":["1.0.0"]}]}
+{"schema_version":"1.7.5","id":"MAL-2026-6370","published":"2026-06-24T04:00:01Z","modified":"2026-07-23T07:51:40.596399772Z","summary":"Malicious code in hyperpure (npm)","affected":[{"package":{"name":"hyperpure","ecosystem":"npm","purl":"pkg:npm/hyperpure"},"versions":["1.0.0"]}]}

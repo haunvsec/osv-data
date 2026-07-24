@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2025-193007","published":"2025-12-31T14:49:05Z","modified":"2026-02-26T10:12:29.545539Z","summary":"Malicious code in aiogrem (PyPI)","affected":[{"package":{"name":"aiogrem","ecosystem":"PyPI","purl":"pkg:pypi/aiogrem"},"versions":["0.2"]}]}
+{"schema_version":"1.7.5","id":"MAL-2025-193007","published":"2025-12-31T14:49:05Z","modified":"2026-07-20T06:32:28.176620187Z","summary":"Malicious code in aiogrem (PyPI)","affected":[{"package":{"name":"aiogrem","ecosystem":"PyPI","purl":"pkg:pypi/aiogrem"},"versions":["0.2"]}]}

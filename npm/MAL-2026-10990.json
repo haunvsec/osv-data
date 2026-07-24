@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10990","published":"2026-07-21T00:00:00Z","modified":"2026-07-23T07:52:43.656702383Z","summary":"Malicious code in ts-vitest (npm)","affected":[{"package":{"name":"ts-vitest","ecosystem":"npm","purl":"pkg:npm/ts-vitest"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10995","published":"2026-07-22T20:27:26Z","modified":"2026-07-23T07:51:35.099571363Z","summary":"Malicious code in habingeer (npm)","affected":[{"package":{"name":"habingeer","ecosystem":"npm","purl":"pkg:npm/habingeer"},"versions":["2.1.6"]}]}

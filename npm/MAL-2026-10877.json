@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10877","published":"2026-07-20T10:19:38Z","modified":"2026-07-23T07:50:10.030112889Z","summary":"Malicious code in @dxcl/log-function-js (npm)","affected":[{"package":{"name":"@dxcl/log-function-js","ecosystem":"npm","purl":"pkg:npm/%40dxcl/log-function-js"},"versions":["99.99.99"]}]}

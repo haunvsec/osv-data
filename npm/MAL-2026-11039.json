@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11039","published":"2026-07-23T18:47:54Z","modified":"2026-07-23T23:05:08.519409558Z","aliases":["GHSA-vpgm-qmgp-w4h4"],"summary":"Malicious code in yuinpm (npm)","affected":[{"package":{"name":"yuinpm","ecosystem":"npm","purl":"pkg:npm/yuinpm"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10718","published":"2026-07-16T18:42:59Z","modified":"2026-07-16T19:19:58.148900214Z","summary":"Malicious code in @sciagent/cli (npm)","affected":[{"package":{"name":"@sciagent/cli","ecosystem":"npm","purl":"pkg:npm/%40sciagent/cli"},"versions":["1.0.68","1.0.69"]}]}

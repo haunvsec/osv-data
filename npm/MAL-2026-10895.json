@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10895","published":"2026-07-20T10:42:42Z","modified":"2026-07-23T07:51:27.125675263Z","summary":"Malicious code in exodus-payments (npm)","affected":[{"package":{"name":"exodus-payments","ecosystem":"npm","purl":"pkg:npm/exodus-payments"},"versions":["99.0.0-canary.1"]}]}

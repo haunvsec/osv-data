@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10673","published":"2026-07-15T10:03:12Z","modified":"2026-07-15T11:04:16.568264453Z","aliases":["GHSA-2cjx-v4hm-f5gf"],"summary":"Malicious code in gulp-jscrambler (npm)","affected":[{"package":{"name":"gulp-jscrambler","ecosystem":"npm","purl":"pkg:npm/gulp-jscrambler"},"versions":["8.6.2"]}]}

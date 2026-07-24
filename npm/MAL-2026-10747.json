@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10747","published":"2026-07-16T18:41:49Z","modified":"2026-07-16T19:19:58.885145018Z","summary":"Malicious code in sensorium-mcp (npm)","affected":[{"package":{"name":"sensorium-mcp","ecosystem":"npm","purl":"pkg:npm/sensorium-mcp"},"versions":["3.0.95"]}]}

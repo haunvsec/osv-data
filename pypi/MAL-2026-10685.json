@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10685","published":"2026-07-15T15:33:11Z","modified":"2026-07-15T16:49:27.572024466Z","summary":"Malicious code in trongridweb (PyPI)","affected":[{"package":{"name":"trongridweb","ecosystem":"PyPI","purl":"pkg:pypi/trongridweb"},"versions":["0.0.1"]}]}

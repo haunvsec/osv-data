@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10982","published":"2026-07-21T23:17:25Z","modified":"2026-07-23T07:52:35.061587717Z","aliases":["GHSA-2v57-6hmf-hpfj"],"summary":"Malicious code in streak-daycount (npm)","affected":[{"package":{"name":"streak-daycount","ecosystem":"npm","purl":"pkg:npm/streak-daycount"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

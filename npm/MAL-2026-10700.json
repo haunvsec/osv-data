@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10700","published":"2026-07-16T14:26:20Z","modified":"2026-07-16T19:20:01.084577502Z","summary":"Malicious code in time-format-kit (npm)","affected":[{"package":{"name":"time-format-kit","ecosystem":"npm","purl":"pkg:npm/time-format-kit"},"versions":["1.0.2","1.0.0","1.0.1"]}]}

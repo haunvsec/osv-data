@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2025-192943","published":"2025-12-26T20:03:22Z","modified":"2026-02-26T10:05:41.462044Z","summary":"Malicious code in telegrem (PyPI)","affected":[{"package":{"name":"telegrem","ecosystem":"PyPI","purl":"pkg:pypi/telegrem"},"versions":["0.2"]}]}
+{"schema_version":"1.7.5","id":"MAL-2025-192943","published":"2025-12-26T20:03:22Z","modified":"2026-07-20T06:32:31.435220816Z","summary":"Malicious code in telegrem (PyPI)","affected":[{"package":{"name":"telegrem","ecosystem":"PyPI","purl":"pkg:pypi/telegrem"},"versions":["0.2"]}]}

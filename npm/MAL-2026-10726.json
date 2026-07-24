@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10726","published":"2026-07-16T18:39:39Z","modified":"2026-07-23T07:54:19.529025918Z","withdrawn":"2026-07-17T08:42:02Z","summary":"Malicious code in astro (npm)","affected":[{"package":{"name":"astro","ecosystem":"npm","purl":"pkg:npm/astro"},"versions":["7.1.0"]}]}

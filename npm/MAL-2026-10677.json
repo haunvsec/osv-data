@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10677","published":"2026-07-15T11:28:20Z","modified":"2026-07-15T11:49:25.700874157Z","summary":"Malicious code in deployowl (npm)","affected":[{"package":{"name":"deployowl","ecosystem":"npm","purl":"pkg:npm/deployowl"},"versions":["2.1.0"]}]}

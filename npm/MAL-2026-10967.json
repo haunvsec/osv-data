@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10967","published":"2026-07-21T05:04:18Z","modified":"2026-07-23T07:51:14.857149515Z","summary":"Malicious code in commonweb-moneymovement (npm)","affected":[{"package":{"name":"commonweb-moneymovement","ecosystem":"npm","purl":"pkg:npm/commonweb-moneymovement"},"versions":["99.9.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10753","published":"2026-07-16T18:42:27Z","modified":"2026-07-16T19:20:02.479773680Z","summary":"Malicious code in a3s-code (PyPI)","affected":[{"package":{"name":"a3s-code","ecosystem":"PyPI","purl":"pkg:pypi/a3s-code"},"versions":["5.2.8","5.3.3"]}]}

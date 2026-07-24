@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10865","published":"2026-07-20T05:12:24Z","modified":"2026-07-23T07:53:03.190632339Z","summary":"Malicious code in kimitalk (PyPI)","affected":[{"package":{"name":"kimitalk","ecosystem":"PyPI","purl":"pkg:pypi/kimitalk"},"versions":["0.1.0","0.1.1","0.1.2"]}]}

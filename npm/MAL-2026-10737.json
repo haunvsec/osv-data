@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10737","published":"2026-07-16T18:37:14Z","modified":"2026-07-16T19:19:47.756072334Z","summary":"Malicious code in mmagrt (npm)","affected":[{"package":{"name":"mmagrt","ecosystem":"npm","purl":"pkg:npm/mmagrt"},"versions":["0.1.10"]}]}

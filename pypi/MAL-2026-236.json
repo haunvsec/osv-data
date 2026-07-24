@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2026-236","published":"2026-01-12T20:55:06Z","modified":"2026-02-26T10:12:32.079855Z","summary":"Malicious code in graponater (PyPI)","affected":[{"package":{"name":"graponater","ecosystem":"PyPI","purl":"pkg:pypi/graponater"},"versions":["1.0.0"]}]}
+{"schema_version":"1.7.5","id":"MAL-2026-236","published":"2026-01-12T20:55:06Z","modified":"2026-07-20T06:32:28.200111093Z","summary":"Malicious code in graponater (PyPI)","affected":[{"package":{"name":"graponater","ecosystem":"PyPI","purl":"pkg:pypi/graponater"},"versions":["1.0.0"]}]}

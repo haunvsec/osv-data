@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10972","published":"2026-07-21T05:00:53Z","modified":"2026-07-23T07:52:25.331123795Z","summary":"Malicious code in signzy-field-level-encrypter (npm)","affected":[{"package":{"name":"signzy-field-level-encrypter","ecosystem":"npm","purl":"pkg:npm/signzy-field-level-encrypter"},"versions":["12.9.13","12.9.12"]}]}

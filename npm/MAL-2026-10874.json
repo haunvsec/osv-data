@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10874","published":"2026-07-20T10:19:30Z","modified":"2026-07-23T07:50:08.070352754Z","summary":"Malicious code in @dxcl/fund-js (npm)","affected":[{"package":{"name":"@dxcl/fund-js","ecosystem":"npm","purl":"pkg:npm/%40dxcl/fund-js"},"versions":["99.99.99"]}]}

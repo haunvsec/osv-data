@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10708","published":"2026-07-16T18:48:49Z","modified":"2026-07-16T19:19:54.590007302Z","summary":"Malicious code in @aicommander/agent (npm)","affected":[{"package":{"name":"@aicommander/agent","ecosystem":"npm","purl":"pkg:npm/%40aicommander/agent"},"versions":["1.0.34"]}]}

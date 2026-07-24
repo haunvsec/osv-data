@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10948","published":"2026-07-20T00:00:00Z","modified":"2026-07-23T07:49:57.080056617Z","summary":"Malicious code in @akrai/report_new (npm)","affected":[{"package":{"name":"@akrai/report_new","ecosystem":"npm","purl":"pkg:npm/%40akrai/report_new"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

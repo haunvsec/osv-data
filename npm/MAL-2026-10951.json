@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10951","published":"2026-07-20T00:00:00Z","modified":"2026-07-23T07:50:21.665545599Z","summary":"Malicious code in @markscan/api (npm)","affected":[{"package":{"name":"@markscan/api","ecosystem":"npm","purl":"pkg:npm/%40markscan/api"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

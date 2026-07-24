@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10655","published":"2026-07-07T08:50:52Z","modified":"2026-07-15T06:04:27.987202954Z","summary":"Malicious code in @pimy-b2cweb/apiclient-b2cweb-r2 (npm)","affected":[{"package":{"name":"@pimy-b2cweb/apiclient-b2cweb-r2","ecosystem":"npm","purl":"pkg:npm/%40pimy-b2cweb/apiclient-b2cweb-r2"},"versions":["99.99.99"]}]}

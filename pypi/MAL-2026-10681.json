@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10681","published":"2026-07-15T14:29:25Z","modified":"2026-07-15T16:49:27.673179700Z","summary":"Malicious code in xyq-drama-skill (PyPI)","affected":[{"package":{"name":"xyq-drama-skill","ecosystem":"PyPI","purl":"pkg:pypi/xyq-drama-skill"},"versions":["0.1.0","0.2.0","0.3.0"]}]}

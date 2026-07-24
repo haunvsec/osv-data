@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10879","published":"2026-07-20T10:19:40Z","modified":"2026-07-23T07:50:10.382650839Z","summary":"Malicious code in @dxcl/user-js (npm)","affected":[{"package":{"name":"@dxcl/user-js","ecosystem":"npm","purl":"pkg:npm/%40dxcl/user-js"},"versions":["99.99.99"]}]}

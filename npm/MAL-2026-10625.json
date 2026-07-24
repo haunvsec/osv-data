@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10625","published":"2026-07-15T02:11:09Z","modified":"2026-07-15T07:49:19.238545828Z","summary":"Malicious code in @leviosa86com/leviosa86-test (npm)","affected":[{"package":{"name":"@leviosa86com/leviosa86-test","ecosystem":"npm","purl":"pkg:npm/%40leviosa86com/leviosa86-test"},"versions":["6.2.1","6.0.0","4.999.0","5.999.0"]}]}

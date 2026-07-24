@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10684","published":"2026-07-15T15:45:21Z","modified":"2026-07-15T16:49:27.669629300Z","summary":"Malicious code in react-hook-scripts (npm)","affected":[{"package":{"name":"react-hook-scripts","ecosystem":"npm","purl":"pkg:npm/react-hook-scripts"},"versions":["5.4.2"]}]}

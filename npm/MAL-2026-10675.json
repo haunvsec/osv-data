@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10675","published":"2026-07-15T10:39:15Z","modified":"2026-07-15T11:49:26.504532177Z","summary":"Malicious code in ac-raf-emitter (npm)","affected":[{"package":{"name":"ac-raf-emitter","ecosystem":"npm","purl":"pkg:npm/ac-raf-emitter"},"versions":["3.0.1"]}]}

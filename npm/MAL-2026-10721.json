@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10721","published":"2026-07-16T18:46:02Z","modified":"2026-07-16T19:19:39.195750653Z","summary":"Malicious code in @whalent/agent (npm)","affected":[{"package":{"name":"@whalent/agent","ecosystem":"npm","purl":"pkg:npm/%40whalent/agent"},"versions":["0.3.231"]}]}

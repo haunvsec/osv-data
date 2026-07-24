@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10920","published":"2026-07-20T17:03:57Z","modified":"2026-07-23T07:50:55.410123524Z","aliases":["GHSA-crmc-3m53-3crf"],"summary":"Malicious code in alb-lambda-cdk (npm)","affected":[{"package":{"name":"alb-lambda-cdk","ecosystem":"npm","purl":"pkg:npm/alb-lambda-cdk"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

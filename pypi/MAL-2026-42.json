@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2026-42","published":"2026-01-05T01:09:06Z","modified":"2026-02-26T10:05:41.493814Z","summary":"Malicious code in pyrogrom (PyPI)","affected":[{"package":{"name":"pyrogrom","ecosystem":"PyPI","purl":"pkg:pypi/pyrogrom"},"versions":["0.3"]}]}
+{"schema_version":"1.7.5","id":"MAL-2026-42","published":"2026-01-05T01:09:06Z","modified":"2026-07-20T06:32:29.703314122Z","summary":"Malicious code in pyrogrom (PyPI)","affected":[{"package":{"name":"pyrogrom","ecosystem":"PyPI","purl":"pkg:pypi/pyrogrom"},"versions":["0.3"]}]}

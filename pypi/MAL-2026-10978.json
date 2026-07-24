@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10978","published":"2026-07-21T09:07:25Z","modified":"2026-07-23T07:53:04.488820909Z","summary":"Malicious code in reimagined-broccoli (PyPI)","affected":[{"package":{"name":"reimagined-broccoli","ecosystem":"PyPI","purl":"pkg:pypi/reimagined-broccoli"},"versions":["0.1.0"]}]}

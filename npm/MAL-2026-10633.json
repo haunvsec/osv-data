@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10633","published":"2026-07-15T03:56:05Z","modified":"2026-07-15T05:19:51.003224680Z","summary":"Malicious code in creditgauge (npm)","affected":[{"package":{"name":"creditgauge","ecosystem":"npm","purl":"pkg:npm/creditgauge"},"versions":["1.0.0"]}]}

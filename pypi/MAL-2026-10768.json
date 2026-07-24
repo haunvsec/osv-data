@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10768","published":"2026-07-17T11:32:05Z","modified":"2026-07-23T07:53:05.160377090Z","aliases":["GHSA-hx6g-6877-qvg8"],"summary":"Malicious code in trongridev (PyPI)","affected":[{"package":{"name":"trongridev","ecosystem":"PyPI","purl":"pkg:pypi/trongridev"},"versions":["0.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10769","published":"2026-07-17T12:44:58Z","modified":"2026-07-23T07:51:22.691326817Z","aliases":["GHSA-68c2-54w2-m326"],"summary":"Malicious code in easyway2 (npm)","affected":[{"package":{"name":"easyway2","ecosystem":"npm","purl":"pkg:npm/easyway2"},"versions":["1.0.3","1.0.7"]}]}

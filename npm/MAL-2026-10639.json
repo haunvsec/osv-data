@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10639","published":"2026-07-15T03:56:52Z","modified":"2026-07-15T05:20:08.875481861Z","summary":"Malicious code in ogensec-sdk (npm)","affected":[{"package":{"name":"ogensec-sdk","ecosystem":"npm","purl":"pkg:npm/ogensec-sdk"},"versions":["1.2.1","1.1.1"]}]}

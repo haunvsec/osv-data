@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10759","published":"2026-07-16T18:39:47Z","modified":"2026-07-16T19:20:03.264202410Z","summary":"Malicious code in ryry-cli (PyPI)","affected":[{"package":{"name":"ryry-cli","ecosystem":"PyPI","purl":"pkg:pypi/ryry-cli"},"versions":["6.28","6.26"]}]}

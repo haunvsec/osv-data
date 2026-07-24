@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10714","published":"2026-07-16T11:10:58Z","modified":"2026-07-17T03:19:25.979414111Z","summary":"Malicious code in @hibachi-xyz/sdk (npm)","affected":[{"package":{"name":"@hibachi-xyz/sdk","ecosystem":"npm","purl":"pkg:npm/%40hibachi-xyz/sdk"},"versions":["99.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10875","published":"2026-07-20T10:19:31Z","modified":"2026-07-23T07:50:08.635041432Z","summary":"Malicious code in @dxcl/http-common-js (npm)","affected":[{"package":{"name":"@dxcl/http-common-js","ecosystem":"npm","purl":"pkg:npm/%40dxcl/http-common-js"},"versions":["99.99.99"]}]}

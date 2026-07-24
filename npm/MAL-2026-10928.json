@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10928","published":"2026-07-20T19:29:50Z","modified":"2026-07-23T07:52:47.474977492Z","aliases":["GHSA-9g67-fm87-8p6v"],"summary":"Malicious code in upjsma (npm)","affected":[{"package":{"name":"upjsma","ecosystem":"npm","purl":"pkg:npm/upjsma"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

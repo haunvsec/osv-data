@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11000","published":"2026-07-22T20:40:28Z","modified":"2026-07-23T07:50:58.837596394Z","summary":"Malicious code in application-util (npm)","affected":[{"package":{"name":"application-util","ecosystem":"npm","purl":"pkg:npm/application-util"},"versions":["2.1.6"]}]}

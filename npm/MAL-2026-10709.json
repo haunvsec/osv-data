@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10709","published":"2026-07-16T18:47:27Z","modified":"2026-07-16T19:19:55.192104962Z","summary":"Malicious code in @cyberrant-rantai/rantai (npm)","affected":[{"package":{"name":"@cyberrant-rantai/rantai","ecosystem":"npm","purl":"pkg:npm/%40cyberrant-rantai/rantai"},"versions":["1.0.15"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10980","published":"2026-07-21T17:03:30Z","modified":"2026-07-23T07:52:05.972662024Z","aliases":["GHSA-x724-q7wp-wx6q"],"summary":"Malicious code in nolby (npm)","affected":[{"package":{"name":"nolby","ecosystem":"npm","purl":"pkg:npm/nolby"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

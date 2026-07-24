@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11009","published":"2026-07-22T16:44:08Z","modified":"2026-07-23T07:51:04.077798917Z","aliases":["GHSA-7wwx-476f-c8gm"],"summary":"Malicious code in calmora (npm)","affected":[{"package":{"name":"calmora","ecosystem":"npm","purl":"pkg:npm/calmora"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

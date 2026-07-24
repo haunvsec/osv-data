@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10725","published":"2026-07-16T18:44:25Z","modified":"2026-07-16T19:19:40.598295076Z","summary":"Malicious code in agentto (npm)","affected":[{"package":{"name":"agentto","ecosystem":"npm","purl":"pkg:npm/agentto"},"versions":["0.5.36"]}]}

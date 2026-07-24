@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10736","published":"2026-07-16T18:47:08Z","modified":"2026-07-16T19:19:47.599096557Z","summary":"Malicious code in memtry-cli (npm)","affected":[{"package":{"name":"memtry-cli","ecosystem":"npm","purl":"pkg:npm/memtry-cli"},"versions":["1.0.4"]}]}

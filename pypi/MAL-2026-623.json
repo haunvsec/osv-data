@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2026-623","published":"2026-02-01T19:10:30Z","modified":"2026-02-26T10:12:44.973080Z","summary":"Malicious code in marshl (PyPI)","affected":[{"package":{"name":"marshl","ecosystem":"PyPI","purl":"pkg:pypi/marshl"},"versions":["0.3"]}]}
+{"schema_version":"1.7.5","id":"MAL-2026-623","published":"2026-02-01T19:10:30Z","modified":"2026-07-20T06:32:28.205900341Z","summary":"Malicious code in marshl (PyPI)","affected":[{"package":{"name":"marshl","ecosystem":"PyPI","purl":"pkg:pypi/marshl"},"versions":["0.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11005","published":"2026-07-22T20:32:15Z","modified":"2026-07-23T07:52:01.964692309Z","summary":"Malicious code in n8n-nodes-quick-utils (npm)","affected":[{"package":{"name":"n8n-nodes-quick-utils","ecosystem":"npm","purl":"pkg:npm/n8n-nodes-quick-utils"},"versions":["1.0.2","1.0.0","1.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10756","published":"2026-07-16T18:43:08Z","modified":"2026-07-23T07:53:01.046289142Z","summary":"Malicious code in darkglitch (PyPI)","affected":[{"package":{"name":"darkglitch","ecosystem":"PyPI","purl":"pkg:pypi/darkglitch"},"versions":["1.2.0","1.2.9"]}]}

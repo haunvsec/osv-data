@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10691","published":"2026-07-15T23:59:04Z","modified":"2026-07-16T19:19:46.303161971Z","aliases":["GHSA-4jf7-q8jf-84cg"],"summary":"Malicious code in internallib_v907 (npm)","affected":[{"package":{"name":"internallib_v907","ecosystem":"npm","purl":"pkg:npm/internallib_v907"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

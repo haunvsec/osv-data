@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10977","published":"2026-07-21T08:23:35Z","modified":"2026-07-23T07:53:03.171993830Z","summary":"Malicious code in lebinfmt (PyPI)","affected":[{"package":{"name":"lebinfmt","ecosystem":"PyPI","purl":"pkg:pypi/lebinfmt"},"versions":["1.0.0"]}]}

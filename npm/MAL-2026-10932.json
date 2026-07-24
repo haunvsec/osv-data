@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10932","published":"2026-07-20T00:00:00Z","modified":"2026-07-23T07:52:43.861369823Z","summary":"Malicious code in twilio-assets (npm)","affected":[{"package":{"name":"twilio-assets","ecosystem":"npm","purl":"pkg:npm/twilio-assets"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

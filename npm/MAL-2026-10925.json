@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10925","published":"2026-07-20T17:42:36Z","modified":"2026-07-23T07:52:40.562418649Z","summary":"Malicious code in tilaver-mfa (npm)","affected":[{"package":{"name":"tilaver-mfa","ecosystem":"npm","purl":"pkg:npm/tilaver-mfa"},"versions":["1.0.0"]}]}

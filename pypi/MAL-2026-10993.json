@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10993","published":"2026-07-22T18:09:16Z","modified":"2026-07-23T07:53:04.832926499Z","summary":"Malicious code in torch-musa (PyPI)","affected":[{"package":{"name":"torch-musa","ecosystem":"PyPI","purl":"pkg:pypi/torch-musa"},"versions":["0.0.0","1.0.0"]}]}

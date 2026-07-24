@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10635","published":"2026-07-15T04:20:08Z","modified":"2026-07-15T05:19:57.219468636Z","summary":"Malicious code in gmail-changer (npm)","affected":[{"package":{"name":"gmail-changer","ecosystem":"npm","purl":"pkg:npm/gmail-changer"},"versions":["2.0.2"]}]}

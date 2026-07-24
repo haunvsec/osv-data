@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10694","published":"2026-07-16T07:28:12Z","modified":"2026-07-16T19:20:01.900069062Z","aliases":["GHSA-9f89-97fj-pqmp"],"summary":"Malicious code in vor8zakon (npm)","affected":[{"package":{"name":"vor8zakon","ecosystem":"npm","purl":"pkg:npm/vor8zakon"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

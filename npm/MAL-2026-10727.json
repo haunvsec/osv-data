@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10727","published":"2026-07-16T18:45:35Z","modified":"2026-07-16T19:19:42.690490301Z","summary":"Malicious code in axios-test-one (npm)","affected":[{"package":{"name":"axios-test-one","ecosystem":"npm","purl":"pkg:npm/axios-test-one"},"versions":["1.19.0"]}]}

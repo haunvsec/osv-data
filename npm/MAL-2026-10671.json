@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10671","published":"2026-07-15T07:56:21Z","modified":"2026-07-15T09:19:28.406566240Z","summary":"Malicious code in spytrack (npm)","affected":[{"package":{"name":"spytrack","ecosystem":"npm","purl":"pkg:npm/spytrack"},"versions":["1.1.0"]}]}

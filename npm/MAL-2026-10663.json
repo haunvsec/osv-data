@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10663","published":"2026-07-15T05:14:17Z","modified":"2026-07-15T06:19:22.756909263Z","aliases":["GHSA-chjv-gxch-4gwg"],"summary":"Malicious code in zaldy-baileys (npm)","affected":[{"package":{"name":"zaldy-baileys","ecosystem":"npm","purl":"pkg:npm/zaldy-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

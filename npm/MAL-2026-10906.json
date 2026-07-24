@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10906","published":"2026-07-20T11:05:26Z","modified":"2026-07-23T07:52:59.668869993Z","summary":"Malicious code in your-unique-package-name1337 (npm)","affected":[{"package":{"name":"your-unique-package-name1337","ecosystem":"npm","purl":"pkg:npm/your-unique-package-name1337"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10745","published":"2026-07-16T18:45:27Z","modified":"2026-07-16T19:19:38.013624317Z","summary":"Malicious code in phantomx-tool-client (npm)","affected":[{"package":{"name":"phantomx-tool-client","ecosystem":"npm","purl":"pkg:npm/phantomx-tool-client"},"versions":["1.0.8"]}]}

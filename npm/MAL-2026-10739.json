@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10739","published":"2026-07-16T18:37:57Z","modified":"2026-07-16T19:19:49.058547661Z","summary":"Malicious code in mw-server-util (npm)","affected":[{"package":{"name":"mw-server-util","ecosystem":"npm","purl":"pkg:npm/mw-server-util"},"versions":["2.0.1","2.0.0"]}]}

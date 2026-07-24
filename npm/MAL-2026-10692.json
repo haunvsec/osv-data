@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10692","published":"2026-07-16T01:29:23Z","modified":"2026-07-16T03:19:12.027332811Z","aliases":["GHSA-r98c-r926-c796"],"summary":"Malicious code in nyt-cms (npm)","affected":[{"package":{"name":"nyt-cms","ecosystem":"npm","purl":"pkg:npm/nyt-cms"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10778","published":"2026-07-18T09:05:46Z","modified":"2026-07-18T10:19:42.445402731Z","summary":"Malicious code in relativity-pdfjs-dist (npm)","affected":[{"package":{"name":"relativity-pdfjs-dist","ecosystem":"npm","purl":"pkg:npm/relativity-pdfjs-dist"},"versions":["5.8.2","99.9.9"]}]}

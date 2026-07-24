@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10660","published":"2026-07-15T05:14:17Z","modified":"2026-07-15T06:19:21.635512369Z","aliases":["GHSA-hp4j-58vc-g6px"],"summary":"Malicious code in saurus-assets (npm)","affected":[{"package":{"name":"saurus-assets","ecosystem":"npm","purl":"pkg:npm/saurus-assets"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

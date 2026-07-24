@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10730","published":"2026-07-16T18:45:06Z","modified":"2026-07-16T19:19:44.245608511Z","summary":"Malicious code in codeam-cli (npm)","affected":[{"package":{"name":"codeam-cli","ecosystem":"npm","purl":"pkg:npm/codeam-cli"},"versions":["2.61.1","2.61.3"]}]}

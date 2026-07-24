@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10921","published":"2026-07-20T17:03:57Z","modified":"2026-07-23T07:51:42.373894342Z","aliases":["GHSA-qg52-c79f-3q5c"],"summary":"Malicious code in iot-kfh-s3 (npm)","affected":[{"package":{"name":"iot-kfh-s3","ecosystem":"npm","purl":"pkg:npm/iot-kfh-s3"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

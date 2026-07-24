@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10889","published":"2026-07-20T10:26:56Z","modified":"2026-07-23T07:50:34.217021591Z","summary":"Malicious code in @public-for-cdao/utils (npm)","affected":[{"package":{"name":"@public-for-cdao/utils","ecosystem":"npm","purl":"pkg:npm/%40public-for-cdao/utils"},"versions":["99.99.99"]}]}

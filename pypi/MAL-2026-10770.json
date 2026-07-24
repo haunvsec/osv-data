@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10770","published":"2026-07-17T13:49:45Z","modified":"2026-07-23T21:48:56.863877277Z","summary":"Malicious code in govpkg (PyPI)","affected":[{"package":{"name":"govpkg","ecosystem":"PyPI","purl":"pkg:pypi/govpkg"},"versions":["0.1.0","0.2.0"]}]}

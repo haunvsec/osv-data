@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10738","published":"2026-07-16T18:36:24Z","modified":"2026-07-16T19:19:48.580702971Z","summary":"Malicious code in mui-option (npm)","affected":[{"package":{"name":"mui-option","ecosystem":"npm","purl":"pkg:npm/mui-option"},"versions":["1.0.0"]}]}

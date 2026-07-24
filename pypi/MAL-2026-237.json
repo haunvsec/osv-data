@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2026-237","published":"2026-01-12T23:05:42Z","modified":"2026-02-26T10:04:20.335425Z","summary":"Malicious code in formater (PyPI)","affected":[{"package":{"name":"formater","ecosystem":"PyPI","purl":"pkg:pypi/formater"},"versions":["1.0.0","1.0.1"]}]}
+{"schema_version":"1.7.5","id":"MAL-2026-237","published":"2026-01-12T23:05:42Z","modified":"2026-07-20T06:32:28.202743517Z","summary":"Malicious code in formater (PyPI)","affected":[{"package":{"name":"formater","ecosystem":"PyPI","purl":"pkg:pypi/formater"},"versions":["1.0.0","1.0.1"]}]}

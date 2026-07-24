@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10712","published":"2026-07-16T18:35:03Z","modified":"2026-07-16T19:19:56.371322099Z","summary":"Malicious code in @hibachi-xyz/common (npm)","affected":[{"package":{"name":"@hibachi-xyz/common","ecosystem":"npm","purl":"pkg:npm/%40hibachi-xyz/common"},"versions":["99.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10994","published":"2026-07-22T20:25:42Z","modified":"2026-07-23T07:50:58.254090908Z","summary":"Malicious code in app-data-ist (npm)","affected":[{"package":{"name":"app-data-ist","ecosystem":"npm","purl":"pkg:npm/app-data-ist"},"versions":["2.1.6"]}]}

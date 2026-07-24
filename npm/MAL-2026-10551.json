@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10551","published":"2026-07-14T05:09:30Z","modified":"2026-07-15T19:06:40.193391661Z","summary":"Malicious code in elsisi-cli (npm)","affected":[{"package":{"name":"elsisi-cli","ecosystem":"npm","purl":"pkg:npm/elsisi-cli"},"versions":["9.9.9"]}]}

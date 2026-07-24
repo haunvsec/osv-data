@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10640","published":"2026-07-15T03:41:24Z","modified":"2026-07-15T05:20:10.843510819Z","summary":"Malicious code in polygon-toolkit-validation (npm)","affected":[{"package":{"name":"polygon-toolkit-validation","ecosystem":"npm","purl":"pkg:npm/polygon-toolkit-validation"},"versions":["1.0.9","1.1.0"]}]}

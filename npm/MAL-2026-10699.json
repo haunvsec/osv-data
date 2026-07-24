@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10699","published":"2026-07-16T13:11:00Z","modified":"2026-07-16T13:49:20.906176119Z","summary":"Malicious code in http-req-lite (npm)","affected":[{"package":{"name":"http-req-lite","ecosystem":"npm","purl":"pkg:npm/http-req-lite"},"versions":["1.0.0"]}]}

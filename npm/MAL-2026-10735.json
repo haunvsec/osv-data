@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10735","published":"2026-07-16T18:34:56Z","modified":"2026-07-16T19:19:47.286265258Z","summary":"Malicious code in isite (npm)","affected":[{"package":{"name":"isite","ecosystem":"npm","purl":"pkg:npm/isite"},"versions":["2026.7.2"]}]}

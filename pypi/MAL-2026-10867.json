@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10867","published":"2026-07-20T05:19:03Z","modified":"2026-07-23T07:53:05.311020897Z","summary":"Malicious code in vantrala (PyPI)","affected":[{"package":{"name":"vantrala","ecosystem":"PyPI","purl":"pkg:pypi/vantrala"},"versions":["0.1.1"]}]}

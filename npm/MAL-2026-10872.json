@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10872","published":"2026-07-20T10:19:29Z","modified":"2026-07-23T07:50:06.862543937Z","summary":"Malicious code in @dxcl/account-js (npm)","affected":[{"package":{"name":"@dxcl/account-js","ecosystem":"npm","purl":"pkg:npm/%40dxcl/account-js"},"versions":["99.99.99"]}]}

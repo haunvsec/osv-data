@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10907","published":"2026-07-20T10:13:14Z","modified":"2026-07-23T07:53:01.722167472Z","summary":"Malicious code in hello-world-test-mh2 (PyPI)","affected":[{"package":{"name":"hello-world-test-mh2","ecosystem":"PyPI","purl":"pkg:pypi/hello-world-test-mh2"},"versions":["0.0.1"]}]}

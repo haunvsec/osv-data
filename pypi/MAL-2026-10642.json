@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10642","published":"2026-07-15T03:52:35Z","modified":"2026-07-15T05:20:20.124995361Z","summary":"Malicious code in data-proxy-for-test (PyPI)","affected":[{"package":{"name":"data-proxy-for-test","ecosystem":"PyPI","purl":"pkg:pypi/data-proxy-for-test"},"versions":["0.1.1"]}]}

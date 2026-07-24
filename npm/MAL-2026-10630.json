@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10630","published":"2026-07-15T01:21:59Z","modified":"2026-07-15T05:19:47.445849616Z","summary":"Malicious code in chai-as-byte (npm)","affected":[{"package":{"name":"chai-as-byte","ecosystem":"npm","purl":"pkg:npm/chai-as-byte"},"versions":["3.1.5","3.1.6"]}]}

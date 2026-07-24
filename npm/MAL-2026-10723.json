@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10723","published":"2026-07-16T18:44:35Z","modified":"2026-07-16T19:19:39.546762408Z","summary":"Malicious code in @yeaft/webchat-agent (npm)","affected":[{"package":{"name":"@yeaft/webchat-agent","ecosystem":"npm","purl":"pkg:npm/%40yeaft/webchat-agent"},"versions":["1.0.171"]}]}

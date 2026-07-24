@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10680","published":"2026-07-15T10:51:05Z","modified":"2026-07-15T11:49:26.106090856Z","summary":"Malicious code in syncgrove (npm)","affected":[{"package":{"name":"syncgrove","ecosystem":"npm","purl":"pkg:npm/syncgrove"},"versions":["1.4.0"]}]}

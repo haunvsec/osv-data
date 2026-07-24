@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11032","published":"2026-07-23T19:00:50Z","modified":"2026-07-23T23:05:11.643699493Z","aliases":["GHSA-vh7h-h87g-qv6x"],"summary":"Malicious code in chai-as-stringify (npm)","affected":[{"package":{"name":"chai-as-stringify","ecosystem":"npm","purl":"pkg:npm/chai-as-stringify"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

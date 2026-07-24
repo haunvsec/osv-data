@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10689","published":"2026-07-15T17:30:11Z","modified":"2026-07-19T20:32:36.259988975Z","summary":"Malicious code in pylogora (PyPI)","affected":[{"package":{"name":"pylogora","ecosystem":"PyPI","purl":"pkg:pypi/pylogora"},"versions":["0.7.8"]}]}

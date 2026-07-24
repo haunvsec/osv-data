@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10705","published":"2026-07-16T18:41:12Z","modified":"2026-07-16T19:19:53.786570429Z","summary":"Malicious code in @agent-link/agent (npm)","affected":[{"package":{"name":"@agent-link/agent","ecosystem":"npm","purl":"pkg:npm/%40agent-link/agent"},"versions":["0.1.269"]}]}

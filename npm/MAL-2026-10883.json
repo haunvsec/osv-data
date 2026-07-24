@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10883","published":"2026-07-20T10:26:41Z","modified":"2026-07-23T07:50:28.716916495Z","summary":"Malicious code in @public-for-cdao/bot (npm)","affected":[{"package":{"name":"@public-for-cdao/bot","ecosystem":"npm","purl":"pkg:npm/%40public-for-cdao/bot"},"versions":["99.99.99"]}]}

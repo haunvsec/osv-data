@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10949","published":"2026-07-20T00:00:00Z","modified":"2026-07-23T07:50:18.373477790Z","summary":"Malicious code in @iphouse/api (npm)","affected":[{"package":{"name":"@iphouse/api","ecosystem":"npm","purl":"pkg:npm/%40iphouse/api"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10697","published":"2026-07-16T08:13:03Z","modified":"2026-07-16T09:19:14.353397097Z","aliases":["GHSA-f4xq-pw58-878h"],"summary":"Malicious code in websight-p2p (npm)","affected":[{"package":{"name":"websight-p2p","ecosystem":"npm","purl":"pkg:npm/websight-p2p"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

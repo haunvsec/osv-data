@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10946","published":"2026-07-20T00:00:00Z","modified":"2026-07-23T07:49:56.229451772Z","summary":"Malicious code in @akrai/core (npm)","affected":[{"package":{"name":"@akrai/core","ecosystem":"npm","purl":"pkg:npm/%40akrai/core"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

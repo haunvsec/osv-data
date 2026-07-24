@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2026-468","published":"2026-01-22T20:16:29Z","modified":"2026-02-26T10:05:40.179113Z","summary":"Malicious code in urlsser (PyPI)","affected":[{"package":{"name":"urlsser","ecosystem":"PyPI","purl":"pkg:pypi/urlsser"},"versions":["0.2"]}]}
+{"schema_version":"1.7.5","id":"MAL-2026-468","published":"2026-01-22T20:16:29Z","modified":"2026-07-20T06:32:31.443585589Z","summary":"Malicious code in urlsser (PyPI)","affected":[{"package":{"name":"urlsser","ecosystem":"PyPI","purl":"pkg:pypi/urlsser"},"versions":["0.2"]}]}

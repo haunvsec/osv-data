@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10634","published":"2026-07-15T03:57:41Z","modified":"2026-07-15T05:19:51.575773830Z","summary":"Malicious code in estore-client (npm)","affected":[{"package":{"name":"estore-client","ecosystem":"npm","purl":"pkg:npm/estore-client"},"versions":["5.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10923","published":"2026-07-20T17:03:57Z","modified":"2026-07-23T07:51:52.224286362Z","aliases":["GHSA-xm8f-w286-57x5"],"summary":"Malicious code in lwc-slds-lbc (npm)","affected":[{"package":{"name":"lwc-slds-lbc","ecosystem":"npm","purl":"pkg:npm/lwc-slds-lbc"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10683","published":"2026-07-15T15:38:41Z","modified":"2026-07-15T16:49:27.568038986Z","summary":"Malicious code in formatters.ts (npm)","affected":[{"package":{"name":"formatters.ts","ecosystem":"npm","purl":"pkg:npm/formatters.ts"},"versions":["14.2.1"]}]}

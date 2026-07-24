@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10707","published":"2026-07-16T18:48:58Z","modified":"2026-07-16T19:19:54.286865677Z","summary":"Malicious code in @ai-support-agent/cli (npm)","affected":[{"package":{"name":"@ai-support-agent/cli","ecosystem":"npm","purl":"pkg:npm/%40ai-support-agent/cli"},"versions":["0.3.2-beta.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10988","published":"2026-07-21T16:05:53Z","modified":"2026-07-23T07:52:18.963829482Z","aliases":["GHSA-5jr9-f9w4-93v3"],"summary":"Malicious code in react-tabulix-ui (npm)","affected":[{"package":{"name":"react-tabulix-ui","ecosystem":"npm","purl":"pkg:npm/react-tabulix-ui"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10764","published":"2026-07-16T00:00:00Z","modified":"2026-07-23T07:52:36.786121053Z","aliases":["GHSA-j5f4-f3f3-634h"],"summary":"Malicious code in syft-acp-atoms (npm)","affected":[{"package":{"name":"syft-acp-atoms","ecosystem":"npm","purl":"pkg:npm/syft-acp-atoms"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

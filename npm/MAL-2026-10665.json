@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10665","published":"2026-07-15T06:35:37Z","modified":"2026-07-15T10:49:21.442529570Z","aliases":["GHSA-mxxc-f6p6-98j7"],"summary":"Malicious code in @fhkry/x-baileys (npm)","affected":[{"package":{"name":"@fhkry/x-baileys","ecosystem":"npm","purl":"pkg:npm/%40fhkry/x-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

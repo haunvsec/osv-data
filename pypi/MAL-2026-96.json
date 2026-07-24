@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2026-96","published":"2026-01-06T14:21:10Z","modified":"2026-02-26T10:05:44.496154Z","summary":"Malicious code in pycolorom (PyPI)","affected":[{"package":{"name":"pycolorom","ecosystem":"PyPI","purl":"pkg:pypi/pycolorom"},"versions":["1.0.1"]}]}
+{"schema_version":"1.7.5","id":"MAL-2026-96","published":"2026-01-06T14:21:10Z","modified":"2026-07-20T06:32:29.727082025Z","summary":"Malicious code in pycolorom (PyPI)","affected":[{"package":{"name":"pycolorom","ecosystem":"PyPI","purl":"pkg:pypi/pycolorom"},"versions":["1.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10637","published":"2026-07-15T00:01:17Z","modified":"2026-07-15T05:20:04.537192755Z","summary":"Malicious code in mc-reg (npm)","affected":[{"package":{"name":"mc-reg","ecosystem":"npm","purl":"pkg:npm/mc-reg"},"versions":["1.0.3","1.0.4"]}]}

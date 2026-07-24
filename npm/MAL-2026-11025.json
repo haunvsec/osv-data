@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11025","published":"2026-07-23T01:06:10Z","modified":"2026-07-23T08:05:02.886669650Z","aliases":["GHSA-vxfh-w38r-2g54"],"summary":"Malicious code in da-sc-sdk (npm)","affected":[{"package":{"name":"da-sc-sdk","ecosystem":"npm","purl":"pkg:npm/da-sc-sdk"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

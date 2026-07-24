@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10644","published":"2026-07-14T23:58:43Z","modified":"2026-07-15T05:20:20.169714286Z","summary":"Malicious code in proxy-checker-j (PyPI)","affected":[{"package":{"name":"proxy-checker-j","ecosystem":"PyPI","purl":"pkg:pypi/proxy-checker-j"},"versions":["0.1.0"]}]}

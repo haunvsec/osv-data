@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11014","published":"2026-07-22T17:10:01Z","modified":"2026-07-23T07:51:47.037742275Z","aliases":["GHSA-5mgj-24pj-pj6f"],"summary":"Malicious code in kijai (npm)","affected":[{"package":{"name":"kijai","ecosystem":"npm","purl":"pkg:npm/kijai"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

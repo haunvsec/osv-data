@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10896","published":"2026-07-20T10:43:41Z","modified":"2026-07-23T07:51:29.973859658Z","summary":"Malicious code in flow-eslint-oxidized (npm)","affected":[{"package":{"name":"flow-eslint-oxidized","ecosystem":"npm","purl":"pkg:npm/flow-eslint-oxidized"},"versions":["0.0.1","74.2.1"]}]}

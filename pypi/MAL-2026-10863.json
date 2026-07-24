@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10863","published":"2026-07-20T02:36:22Z","modified":"2026-07-23T07:53:04.501554575Z","summary":"Malicious code in telebot-bot-run (PyPI)","affected":[{"package":{"name":"telebot-bot-run","ecosystem":"PyPI","purl":"pkg:pypi/telebot-bot-run"},"versions":["0.5","0.3","0.4"]}]}

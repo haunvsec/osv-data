@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10773","published":"2026-07-17T23:08:43Z","modified":"2026-07-17T23:49:25.071990285Z","aliases":["GHSA-89mf-39r2-ff96"],"summary":"Malicious code in telemetry-axios (npm)","affected":[{"package":{"name":"telemetry-axios","ecosystem":"npm","purl":"pkg:npm/telemetry-axios"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

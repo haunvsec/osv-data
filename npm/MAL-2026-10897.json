@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10897","published":"2026-07-20T10:45:09Z","modified":"2026-07-23T07:51:34.289907744Z","summary":"Malicious code in golan125-homepage-test (npm)","affected":[{"package":{"name":"golan125-homepage-test","ecosystem":"npm","purl":"pkg:npm/golan125-homepage-test"},"versions":["1.0.0"]}]}

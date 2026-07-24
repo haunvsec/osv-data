@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10765","published":"2026-07-16T00:00:00Z","modified":"2026-07-23T07:52:37.076848869Z","aliases":["GHSA-289v-6j56-44w8"],"summary":"Malicious code in syft-acp-core (npm)","affected":[{"package":{"name":"syft-acp-core","ecosystem":"npm","purl":"pkg:npm/syft-acp-core"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10760","published":"2026-07-16T20:50:52Z","modified":"2026-07-16T21:32:29.034263007Z","summary":"Malicious code in abseil-py (PyPI)","affected":[{"package":{"name":"abseil-py","ecosystem":"PyPI","purl":"pkg:pypi/abseil-py"},"versions":["0.1.0"]}]}

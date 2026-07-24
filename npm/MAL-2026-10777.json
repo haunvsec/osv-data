@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10777","published":"2026-07-17T13:26:26Z","modified":"2026-07-23T07:52:01.400108814Z","summary":"Malicious code in n8n-nodes-probe (npm)","affected":[{"package":{"name":"n8n-nodes-probe","ecosystem":"npm","purl":"pkg:npm/n8n-nodes-probe"},"versions":["1.0.6","1.0.2","1.0.1","1.0.5","1.0.0","1.0.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11028","published":"2026-07-23T01:06:10Z","modified":"2026-07-23T08:04:56.197919234Z","aliases":["GHSA-fhpm-cq57-j289"],"summary":"Malicious code in helix-deploy (npm)","affected":[{"package":{"name":"helix-deploy","ecosystem":"npm","purl":"pkg:npm/helix-deploy"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

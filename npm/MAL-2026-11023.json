@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11023","published":"2026-07-23T01:01:28Z","modified":"2026-07-23T08:04:59.699284616Z","aliases":["GHSA-qj7h-vp7h-8v85"],"summary":"Malicious code in bs58-88 (npm)","affected":[{"package":{"name":"bs58-88","ecosystem":"npm","purl":"pkg:npm/bs58-88"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

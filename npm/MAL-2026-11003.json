@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11003","published":"2026-07-22T20:36:06Z","modified":"2026-07-23T07:52:00.054069652Z","summary":"Malicious code in n8n-nodes-net-utils (npm)","affected":[{"package":{"name":"n8n-nodes-net-utils","ecosystem":"npm","purl":"pkg:npm/n8n-nodes-net-utils"},"versions":["1.0.2","1.0.0","1.0.1"]}]}

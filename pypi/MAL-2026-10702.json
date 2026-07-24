@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10702","published":"2026-07-16T16:25:06Z","modified":"2026-07-16T17:47:24.536482673Z","summary":"Malicious code in discordia-telemetria (PyPI)","affected":[{"package":{"name":"discordia-telemetria","ecosystem":"PyPI","purl":"pkg:pypi/discordia-telemetria"},"versions":["0.1.1","0.1.2"]}]}

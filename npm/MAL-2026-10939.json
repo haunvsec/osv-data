@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10939","published":"2026-07-21T00:39:41Z","modified":"2026-07-23T07:51:07.110972383Z","aliases":["GHSA-vc32-h28h-pmhm"],"summary":"Malicious code in chai-as-reddit (npm)","affected":[{"package":{"name":"chai-as-reddit","ecosystem":"npm","purl":"pkg:npm/chai-as-reddit"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

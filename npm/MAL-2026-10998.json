@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10998","published":"2026-07-22T20:29:00Z","modified":"2026-07-23T07:52:01.262885736Z","summary":"Malicious code in n8n-nodes-port-scanner (npm)","affected":[{"package":{"name":"n8n-nodes-port-scanner","ecosystem":"npm","purl":"pkg:npm/n8n-nodes-port-scanner"},"versions":["1.0.2","1.0.1","1.0.0"]}]}

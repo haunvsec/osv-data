@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10758","published":"2026-07-16T18:48:40Z","modified":"2026-07-16T19:20:02.518100770Z","summary":"Malicious code in mfq-private-encoder (PyPI)","affected":[{"package":{"name":"mfq-private-encoder","ecosystem":"PyPI","purl":"pkg:pypi/mfq-private-encoder"},"versions":["1.0.0"]}]}

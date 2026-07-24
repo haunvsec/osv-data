@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10654","published":"2026-07-15T04:32:04Z","modified":"2026-07-15T06:04:28.295463949Z","summary":"Malicious code in @debile/require-dir (npm)","affected":[{"package":{"name":"@debile/require-dir","ecosystem":"npm","purl":"pkg:npm/%40debile/require-dir"},"versions":["1.9.1","1.9.2"]}]}

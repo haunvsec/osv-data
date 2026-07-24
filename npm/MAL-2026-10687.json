@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10687","published":"2026-07-15T17:54:33Z","modified":"2026-07-15T18:19:27.563978335Z","summary":"Malicious code in selparsecss-selector (npm)","affected":[{"package":{"name":"selparsecss-selector","ecosystem":"npm","purl":"pkg:npm/selparsecss-selector"},"versions":["1.1.0","2.0.0","1.0.0","2.1.0"]}]}

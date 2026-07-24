@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10941","published":"2026-07-20T00:00:00Z","modified":"2026-07-23T07:50:51.828030759Z","summary":"Malicious code in aftermath-finance (npm)","affected":[{"package":{"name":"aftermath-finance","ecosystem":"npm","purl":"pkg:npm/aftermath-finance"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10728","published":"2026-07-16T18:46:49Z","modified":"2026-07-16T19:19:42.939608404Z","summary":"Malicious code in bvm-core (npm)","affected":[{"package":{"name":"bvm-core","ecosystem":"npm","purl":"pkg:npm/bvm-core"},"versions":["1.1.43","1.1.42"]}]}

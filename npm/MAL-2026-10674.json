@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10674","published":"2026-07-15T10:01:57Z","modified":"2026-07-15T11:04:16.863552120Z","aliases":["GHSA-v442-7fpg-636g"],"summary":"Malicious code in jscrambler-metro-plugin (npm)","affected":[{"package":{"name":"jscrambler-metro-plugin","ecosystem":"npm","purl":"pkg:npm/jscrambler-metro-plugin"},"versions":["9.0.2"]}]}

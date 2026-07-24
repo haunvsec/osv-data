@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10873","published":"2026-07-20T10:19:30Z","modified":"2026-07-23T07:50:07.991495079Z","summary":"Malicious code in @dxcl/customer-js (npm)","affected":[{"package":{"name":"@dxcl/customer-js","ecosystem":"npm","purl":"pkg:npm/%40dxcl/customer-js"},"versions":["99.99.99"]}]}

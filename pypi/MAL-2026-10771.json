@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10771","published":"2026-07-17T21:17:19Z","modified":"2026-07-23T07:53:05.153003047Z","aliases":["GHSA-4fhx-73c8-xxhv"],"summary":"Malicious code in trongridme (PyPI)","affected":[{"package":{"name":"trongridme","ecosystem":"PyPI","purl":"pkg:pypi/trongridme"},"versions":["0.0.1"]}]}

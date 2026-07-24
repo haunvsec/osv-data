@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10666","published":"2026-07-15T06:19:59Z","modified":"2026-07-15T10:49:22.140029938Z","aliases":["GHSA-886f-w6pq-7w7j"],"summary":"Malicious code in crypto-hasher (npm)","affected":[{"package":{"name":"crypto-hasher","ecosystem":"npm","purl":"pkg:npm/crypto-hasher"},"versions":["3.1.3","3.1.2"]}]}

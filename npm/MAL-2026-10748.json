@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10748","published":"2026-07-16T18:33:06Z","modified":"2026-07-16T19:19:59.456170246Z","summary":"Malicious code in string-formatter-pro (npm)","affected":[{"package":{"name":"string-formatter-pro","ecosystem":"npm","purl":"pkg:npm/string-formatter-pro"},"versions":["1.0.1","1.0.0"]}]}

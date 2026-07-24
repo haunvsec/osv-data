@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10626","published":"2026-07-15T01:09:12Z","modified":"2026-07-15T05:19:39.736112998Z","summary":"Malicious code in @react-case/option (npm)","affected":[{"package":{"name":"@react-case/option","ecosystem":"npm","purl":"pkg:npm/%40react-case/option"},"versions":["1.0.0"]}]}

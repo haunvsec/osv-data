@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10936","published":"2026-07-20T00:00:00Z","modified":"2026-07-23T07:52:45.742562966Z","summary":"Malicious code in twilio-platform-request (npm)","affected":[{"package":{"name":"twilio-platform-request","ecosystem":"npm","purl":"pkg:npm/twilio-platform-request"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

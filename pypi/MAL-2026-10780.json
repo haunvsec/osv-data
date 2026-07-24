@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10780","published":"2026-07-19T19:51:18Z","modified":"2026-07-19T20:32:36.252241914Z","summary":"Malicious code in data-parser-utils (PyPI)","affected":[{"package":{"name":"data-parser-utils","ecosystem":"PyPI","purl":"pkg:pypi/data-parser-utils"},"versions":["2.4.1"]}]}

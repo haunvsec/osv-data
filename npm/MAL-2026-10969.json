@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10969","published":"2026-07-21T04:50:51Z","modified":"2026-07-23T07:51:15.421168140Z","summary":"Malicious code in commonweb-wallet (npm)","affected":[{"package":{"name":"commonweb-wallet","ecosystem":"npm","purl":"pkg:npm/commonweb-wallet"},"versions":["99.9.1"]}]}

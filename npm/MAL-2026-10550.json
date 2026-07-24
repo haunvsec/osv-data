@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10550","published":"2026-07-14T04:35:12Z","modified":"2026-07-15T19:05:40.892282684Z","summary":"Malicious code in better-tailwindcss (npm)","affected":[{"package":{"name":"better-tailwindcss","ecosystem":"npm","purl":"pkg:npm/better-tailwindcss"},"versions":["4.6.3"]}]}

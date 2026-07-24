@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10651","published":"2026-07-14T23:41:49Z","modified":"2026-07-15T09:19:25.133048638Z","aliases":["GHSA-35fw-734c-r8xf"],"summary":"Malicious code in iwsdk (npm)","affected":[{"package":{"name":"iwsdk","ecosystem":"npm","purl":"pkg:npm/iwsdk"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

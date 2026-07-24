@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10643","published":"2026-07-15T03:52:02Z","modified":"2026-07-19T20:32:36.181325495Z","summary":"Malicious code in ethereum-input-decorder (PyPI)","affected":[{"package":{"name":"ethereum-input-decorder","ecosystem":"PyPI","purl":"pkg:pypi/ethereum-input-decorder"},"versions":["1.2.4","1.2.2"]}]}

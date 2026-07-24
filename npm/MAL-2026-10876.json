@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10876","published":"2026-07-20T10:19:32Z","modified":"2026-07-23T07:50:09.071955306Z","summary":"Malicious code in @dxcl/indicators-js (npm)","affected":[{"package":{"name":"@dxcl/indicators-js","ecosystem":"npm","purl":"pkg:npm/%40dxcl/indicators-js"},"versions":["99.99.99"]}]}

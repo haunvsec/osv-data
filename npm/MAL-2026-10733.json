@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10733","published":"2026-07-16T18:37:30Z","modified":"2026-07-16T19:19:45.308499570Z","summary":"Malicious code in idlive-document-capture-web (npm)","affected":[{"package":{"name":"idlive-document-capture-web","ecosystem":"npm","purl":"pkg:npm/idlive-document-capture-web"},"versions":["14.2.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10650","published":"2026-07-14T23:41:49Z","modified":"2026-07-15T09:19:24.863108177Z","aliases":["GHSA-r9fr-8w7j-4vj6"],"summary":"Malicious code in install-skia (npm)","affected":[{"package":{"name":"install-skia","ecosystem":"npm","purl":"pkg:npm/install-skia"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

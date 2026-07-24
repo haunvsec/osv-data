@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-10668","published":"2026-07-15T07:56:38Z","modified":"2026-07-15T09:19:29.632347443Z","summary":"Malicious code in chain-as-log (npm)","affected":[{"package":{"name":"chain-as-log","ecosystem":"npm","purl":"pkg:npm/chain-as-log"},"versions":["3.0.1"]}]}
