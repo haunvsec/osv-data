@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11055","published":"2026-07-25T08:20:10Z","modified":"2026-07-25T09:06:43.651944445Z","summary":"Malicious code in fundraiserservicepp (npm)","affected":[{"package":{"name":"fundraiserservicepp","ecosystem":"npm","purl":"pkg:npm/fundraiserservicepp"},"versions":["1.5.0"]}]}

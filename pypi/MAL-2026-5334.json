@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2026-5334","published":"2026-06-08T20:47:35Z","modified":"2026-06-11T02:31:32.019535549Z","summary":"Malicious code in spaysrbx (PyPI)","affected":[{"package":{"name":"spaysrbx","ecosystem":"PyPI","purl":"pkg:pypi/spaysrbx"},"versions":["0.3.0"]}]}
+{"schema_version":"1.7.5","id":"MAL-2026-5334","published":"2026-06-08T20:47:35Z","modified":"2026-07-24T20:18:17.498510001Z","summary":"Malicious code in spaysrbx (PyPI)","affected":[{"package":{"name":"spaysrbx","ecosystem":"PyPI","purl":"pkg:pypi/spaysrbx"},"versions":["0.3.0"]}]}

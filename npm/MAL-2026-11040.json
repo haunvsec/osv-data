@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11040","published":"2026-07-22T13:00:59Z","modified":"2026-07-24T01:05:12.884238574Z","summary":"Malicious code in react-tabulix-extended (npm)","affected":[{"package":{"name":"react-tabulix-extended","ecosystem":"npm","purl":"pkg:npm/react-tabulix-extended"},"versions":["0.1.7"]}]}

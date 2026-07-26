@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11061","published":"2026-07-25T10:04:20Z","modified":"2026-07-25T10:51:56.418257003Z","summary":"Malicious code in identityscimapiserv (npm)","affected":[{"package":{"name":"identityscimapiserv","ecosystem":"npm","purl":"pkg:npm/identityscimapiserv"},"versions":["28.0.0"]}]}

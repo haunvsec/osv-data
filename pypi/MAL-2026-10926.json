@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2026-10926","published":"2026-07-20T17:49:55Z","modified":"2026-07-23T07:53:01.632775890Z","summary":"Malicious code in defi-kit (PyPI)","affected":[{"package":{"name":"defi-kit","ecosystem":"PyPI","purl":"pkg:pypi/defi-kit"},"versions":["2.1.1"]}]}
+{"schema_version":"1.7.5","id":"MAL-2026-10926","published":"2026-07-20T17:49:55Z","modified":"2026-07-24T10:33:21.516348776Z","summary":"Malicious code in defi-kit (PyPI)","affected":[{"package":{"name":"defi-kit","ecosystem":"PyPI","purl":"pkg:pypi/defi-kit"},"versions":["2.1.1"]}]}

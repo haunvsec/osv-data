@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2026-5173","published":"2026-06-03T11:09:39Z","modified":"2026-06-09T10:46:30.144804217Z","summary":"Malicious code in spadata (PyPI)","affected":[{"package":{"name":"spadata","ecosystem":"PyPI","purl":"pkg:pypi/spadata"},"versions":["0.1.0","0.1.1"]}]}
+{"schema_version":"1.7.5","id":"MAL-2026-5173","published":"2026-06-03T11:09:39Z","modified":"2026-07-24T20:18:17.570544217Z","summary":"Malicious code in spadata (PyPI)","affected":[{"package":{"name":"spadata","ecosystem":"PyPI","purl":"pkg:pypi/spadata"},"versions":["0.1.0","0.1.1"]}]}

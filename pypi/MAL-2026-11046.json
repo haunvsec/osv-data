@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11046","published":"2026-07-24T10:10:17Z","modified":"2026-07-24T11:33:07.431129850Z","summary":"Malicious code in intel-cicd-repo-infrastructure (PyPI)","affected":[{"package":{"name":"intel-cicd-repo-infrastructure","ecosystem":"PyPI","purl":"pkg:pypi/intel-cicd-repo-infrastructure"},"versions":["0.0.0","1.0.0"]}]}

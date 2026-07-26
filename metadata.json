@@ -1,6 +1,6 @@
 {
-  "last_crawl_time": "2026-07-24T00:49:15Z",
-  "last_attempt_time": "2026-07-24T05:34:49Z",
+  "last_crawl_time": "2026-07-26T10:59:59Z",
+  "last_attempt_time": "2026-07-26T10:59:59Z",
   "source": "osv-vulnerabilities-gcs",
   "source_url": "https://storage.googleapis.com/osv-vulnerabilities",
   "method": "incremental",
@@ -11,53 +11,52 @@
     "redhat"
   ],
   "ecosystem_counts": {
-    "maven": 6843,
-    "npm": 223687,
-    "pypi": 24524,
-    "redhat": 21456
+    "maven": 6860,
+    "npm": 223759,
+    "pypi": 24565,
+    "redhat": 21468
   },
-  "total_vulnerabilities": 276510,
+  "total_vulnerabilities": 276652,
   "ecosystem_state": {
     "maven": {
-      "last_attempt_time": "2026-07-24T00:39:07Z",
+      "last_attempt_time": "2026-07-25T14:47:43Z",
       "last_method": "incremental",
-      "last_downloaded": 3,
+      "last_downloaded": 37,
       "last_skipped": 0,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-07-24T00:39:07Z",
-      "last_modified_time": "2026-07-23T22:29:34.272229366Z"
+      "last_successful_crawl_time": "2026-07-25T14:47:43Z",
+      "last_modified_time": "2026-07-25T03:29:38.369051139Z"
     },
     "npm": {
-      "last_attempt_time": "2026-07-24T00:47:33Z",
+      "last_attempt_time": "2026-07-25T14:48:32Z",
       "last_method": "incremental",
-      "last_downloaded": 49,
-      "last_skipped": 999,
+      "last_downloaded": 94,
+      "last_skipped": 0,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-07-24T00:47:33Z",
-      "last_modified_time": "2026-07-23T23:05:12.906475181Z"
+      "last_successful_crawl_time": "2026-07-25T14:48:32Z",
+      "last_modified_time": "2026-07-25T12:22:54.940940289Z"
     },
     "pypi": {
-      "last_attempt_time": "2026-07-24T00:49:15Z",
+      "last_attempt_time": "2026-07-25T14:48:57Z",
       "last_method": "incremental",
-      "last_downloaded": 195,
+      "last_downloaded": 50,
       "last_skipped": 0,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-07-24T00:49:15Z",
-      "last_modified_time": "2026-07-23T21:48:56.863877277Z"
+      "last_successful_crawl_time": "2026-07-25T14:48:57Z",
+      "last_modified_time": "2026-07-24T22:48:40.716944342Z"
     },
     "redhat": {
-      "last_attempt_time": "2026-07-24T05:34:49Z",
+      "last_attempt_time": "2026-07-26T10:59:59Z",
       "last_method": "incremental",
-      "last_downloaded": 0,
-      "last_skipped": 0,
+      "last_downloaded": 1082,
+      "last_skipped": 17474,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-07-15T07:22:06Z",
-      "last_modified_time": "2026-06-08T10:29:21.513685508Z",
-      "last_error": "Red Hat: aborting incremental after 25 consecutive download failures"
+      "last_successful_crawl_time": "2026-07-26T10:59:59Z",
+      "last_modified_time": "2026-06-08T10:29:21.513685508Z"
     }
   },
   "last_run": {
-    "started_at": "2026-07-24T03:33:11Z",
+    "started_at": "2026-07-25T14:48:57Z",
     "output_dir": "/Volumes/DATA/security_advisory/osv-data",
     "method": "incremental",
     "ecosystems": [
@@ -67,28 +66,22 @@
       {
         "ecosystem": "redhat",
         "method": "incremental",
-        "downloaded": 0,
-        "skipped": 0,
+        "downloaded": 1082,
+        "skipped": 17474,
         "indexed": 0,
         "existing": 0,
         "latest_modified_time": null,
-        "success": false,
-        "error": "Red Hat: aborting incremental after 25 consecutive download failures"
+        "success": true
       }
     ],
-    "vulns_downloaded": 0,
-    "vulns_skipped": 1,
-    "errors": [
-      {
-        "ecosystem": "redhat",
-        "error": "Red Hat: aborting incremental after 25 consecutive download failures"
-      }
-    ],
+    "vulns_downloaded": 1082,
+    "vulns_skipped": 17474,
+    "errors": [],
     "dry_run": false,
     "limit": null,
     "sync_missing": false,
     "missing_only": false,
-    "finished_at": "2026-07-24T05:34:49Z",
-    "duration_seconds": 7297.57
+    "finished_at": "2026-07-26T10:59:59Z",
+    "duration_seconds": 72662.25
   }
 }

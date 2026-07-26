@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2026-5345","published":"2026-06-09T10:15:49Z","modified":"2026-06-11T01:31:30.533321891Z","summary":"Malicious code in dstill (PyPI)","affected":[{"package":{"name":"dstill","ecosystem":"PyPI","purl":"pkg:pypi/dstill"},"versions":["0.3.0"]}]}
+{"schema_version":"1.7.5","id":"MAL-2026-5345","published":"2026-06-09T10:15:49Z","modified":"2026-07-24T20:18:17.893601837Z","summary":"Malicious code in dstill (PyPI)","affected":[{"package":{"name":"dstill","ecosystem":"PyPI","purl":"pkg:pypi/dstill"},"versions":["0.3.0"]}]}

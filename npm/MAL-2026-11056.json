@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11056","published":"2026-07-25T09:28:35Z","modified":"2026-07-25T09:52:34.721830816Z","summary":"Malicious code in gpaas-paypal (npm)","affected":[{"package":{"name":"gpaas-paypal","ecosystem":"npm","purl":"pkg:npm/gpaas-paypal"},"versions":["28.0.0"]}]}

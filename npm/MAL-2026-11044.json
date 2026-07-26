@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11044","published":"2026-07-20T00:00:00Z","modified":"2026-07-24T07:20:08.188475787Z","summary":"Malicious code in tailwind-gutenberg-block-zero (npm)","affected":[{"package":{"name":"tailwind-gutenberg-block-zero","ecosystem":"npm","purl":"pkg:npm/tailwind-gutenberg-block-zero"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11041","published":"2026-07-24T02:57:49Z","modified":"2026-07-24T04:50:12.374012315Z","summary":"Malicious code in @daylightqc/date-fmt-lite (npm)","affected":[{"package":{"name":"@daylightqc/date-fmt-lite","ecosystem":"npm","purl":"pkg:npm/%40daylightqc/date-fmt-lite"},"versions":["1.1.1","1.0.1","1.0.0"]}]}
