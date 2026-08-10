@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12510","published":"2026-08-05T13:14:26Z","modified":"2026-08-05T14:35:12.468675038Z","summary":"Malicious code in anthropic-setup (npm)","affected":[{"package":{"name":"anthropic-setup","ecosystem":"npm","purl":"pkg:npm/anthropic-setup"},"versions":["1.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13549","published":"2026-08-07T12:37:06Z","modified":"2026-08-07T13:20:27.785548635Z","summary":"Malicious code in dojo-rn-interview (npm)","affected":[{"package":{"name":"dojo-rn-interview","ecosystem":"npm","purl":"pkg:npm/dojo-rn-interview"},"versions":["1.0.1"]}]}

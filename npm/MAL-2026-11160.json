@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11160","published":"2026-07-28T21:04:30Z","modified":"2026-08-05T07:19:57.376497530Z","aliases":["GHSA-x4p3-wjxx-m4x5"],"summary":"Malicious code in @joyfill/components (npm)","affected":[{"package":{"name":"@joyfill/components","ecosystem":"npm","purl":"pkg:npm/%40joyfill/components"},"versions":["4.0.0-rc24-2773-beta.4"]}]}

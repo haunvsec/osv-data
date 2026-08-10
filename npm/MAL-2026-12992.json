@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12992","published":"2026-08-05T14:38:31Z","modified":"2026-08-05T15:51:31.523063281Z","summary":"Malicious code in bnpl-blocks-mobile-bnpl-header-search (npm)","affected":[{"package":{"name":"bnpl-blocks-mobile-bnpl-header-search","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-mobile-bnpl-header-search"},"versions":["35.3.7"]}]}

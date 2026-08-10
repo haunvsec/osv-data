@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13158","published":"2026-08-05T15:13:53Z","modified":"2026-08-05T15:52:50.853303786Z","summary":"Malicious code in dolyame-ui-group (npm)","affected":[{"package":{"name":"dolyame-ui-group","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-group"},"versions":["35.9.7"]}]}

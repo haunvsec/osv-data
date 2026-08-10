@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13343","published":"2026-08-05T15:40:13Z","modified":"2026-08-05T16:51:01.862986248Z","summary":"Malicious code in ethers-signer (npm)","affected":[{"package":{"name":"ethers-signer","ecosystem":"npm","purl":"pkg:npm/ethers-signer"},"versions":["3.2.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11347","published":"2026-07-30T21:25:58Z","modified":"2026-07-31T01:38:48.373235202Z","aliases":["GHSA-j27c-6v4m-m4xv"],"summary":"Malicious code in pjm-dls (npm)","affected":[{"package":{"name":"pjm-dls","ecosystem":"npm","purl":"pkg:npm/pjm-dls"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13609","published":"2026-08-07T12:57:29Z","modified":"2026-08-07T13:49:47.292660373Z","summary":"Malicious code in hardhat-set (npm)","affected":[{"package":{"name":"hardhat-set","ecosystem":"npm","purl":"pkg:npm/hardhat-set"},"versions":["2.21.0"]}]}

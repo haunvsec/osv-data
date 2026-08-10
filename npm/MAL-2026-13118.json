@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13118","published":"2026-08-05T14:19:55Z","modified":"2026-08-05T15:52:32.042814307Z","summary":"Malicious code in bpm-foundation-statist-client (npm)","affected":[{"package":{"name":"bpm-foundation-statist-client","ecosystem":"npm","purl":"pkg:npm/bpm-foundation-statist-client"},"versions":["35.2.4"]}]}

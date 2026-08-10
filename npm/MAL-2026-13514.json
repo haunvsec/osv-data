@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13514","published":"2026-08-07T12:11:32Z","modified":"2026-08-07T12:35:17.704728936Z","summary":"Malicious code in eacq-core (npm)","affected":[{"package":{"name":"eacq-core","ecosystem":"npm","purl":"pkg:npm/eacq-core"},"versions":["35.8.1"]}]}

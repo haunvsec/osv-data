@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12334","published":"2026-08-05T13:04:48Z","modified":"2026-08-06T23:50:04.283211601Z","summary":"Malicious code in ach-detail (npm)","affected":[{"package":{"name":"ach-detail","ecosystem":"npm","purl":"pkg:npm/ach-detail"},"versions":["99.0.2","99.0.1"]}]}

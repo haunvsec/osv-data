@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12135","published":"2026-08-05T09:08:36Z","modified":"2026-08-05T10:05:45.475263581Z","summary":"Malicious code in accounts-offers (npm)","affected":[{"package":{"name":"accounts-offers","ecosystem":"npm","purl":"pkg:npm/accounts-offers"},"versions":["0.0.1"]}]}

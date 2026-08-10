@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11405","published":"2026-07-30T22:00:10Z","modified":"2026-07-31T01:39:24.754149953Z","aliases":["GHSA-vqq8-5rp9-328w"],"summary":"Malicious code in ttest3333 (npm)","affected":[{"package":{"name":"ttest3333","ecosystem":"npm","purl":"pkg:npm/ttest3333"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

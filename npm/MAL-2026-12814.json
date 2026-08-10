@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12814","published":"2026-08-05T13:15:05Z","modified":"2026-08-05T14:37:28.598262616Z","summary":"Malicious code in umber-root (npm)","affected":[{"package":{"name":"umber-root","ecosystem":"npm","purl":"pkg:npm/umber-root"},"versions":["1.1.0","1.1.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13458","published":"2026-08-06T19:46:25Z","modified":"2026-08-06T23:50:21.089016055Z","summary":"Malicious code in squeez (npm)","affected":[{"package":{"name":"squeez","ecosystem":"npm","purl":"pkg:npm/squeez"},"versions":["1.40.0","1.44.1","1.42.1","1.38.0"]}]}

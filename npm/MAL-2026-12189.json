@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12189","published":"2026-08-05T09:08:43Z","modified":"2026-08-05T10:06:14.225631162Z","summary":"Malicious code in react-scroll-disable (npm)","affected":[{"package":{"name":"react-scroll-disable","ecosystem":"npm","purl":"pkg:npm/react-scroll-disable"},"versions":["2.5.2"]}]}

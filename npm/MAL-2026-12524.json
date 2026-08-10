@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12524","published":"2026-08-05T14:18:58Z","modified":"2026-08-05T14:34:56.482675655Z","summary":"Malicious code in cards-forms-clone-cards-core-clone (npm)","affected":[{"package":{"name":"cards-forms-clone-cards-core-clone","ecosystem":"npm","purl":"pkg:npm/cards-forms-clone-cards-core-clone"},"versions":["35.4.9"]}]}

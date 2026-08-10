@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12032","published":"2026-08-05T01:00:50Z","modified":"2026-08-05T14:35:11.572162522Z","summary":"Malicious code in add-two-numbers-x7q9m (npm)","affected":[{"package":{"name":"add-two-numbers-x7q9m","ecosystem":"npm","purl":"pkg:npm/add-two-numbers-x7q9m"},"versions":["1.0.0","1.0.1"]}]}

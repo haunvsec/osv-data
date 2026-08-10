@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12128","published":"2026-08-05T09:10:28Z","modified":"2026-08-05T10:05:42.172227835Z","summary":"Malicious code in aasp-tent-aasp-tent-core (npm)","affected":[{"package":{"name":"aasp-tent-aasp-tent-core","ecosystem":"npm","purl":"pkg:npm/aasp-tent-aasp-tent-core"},"versions":["0.0.2","33.4.6"]}]}

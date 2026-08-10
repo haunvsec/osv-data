@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13498","published":"2026-08-07T12:14:25Z","modified":"2026-08-07T12:35:28.128216273Z","summary":"Malicious code in ded-pwa-ded-pwa-core (npm)","affected":[{"package":{"name":"ded-pwa-ded-pwa-core","ecosystem":"npm","purl":"pkg:npm/ded-pwa-ded-pwa-core"},"versions":["35.6.3"]}]}

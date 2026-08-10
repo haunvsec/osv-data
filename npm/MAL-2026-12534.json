@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12534","published":"2026-08-05T14:16:22Z","modified":"2026-08-05T14:35:04.854527406Z","summary":"Malicious code in cardsmobile-notifications (npm)","affected":[{"package":{"name":"cardsmobile-notifications","ecosystem":"npm","purl":"pkg:npm/cardsmobile-notifications"},"versions":["35.7.6"]}]}

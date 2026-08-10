@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12006","published":"2026-08-04T17:39:09Z","modified":"2026-08-05T10:05:25.672377330Z","aliases":["GHSA-vgg6-7x38-g434"],"summary":"Malicious code in @jsimplify/errno (npm)","affected":[{"package":{"name":"@jsimplify/errno","ecosystem":"npm","purl":"pkg:npm/%40jsimplify/errno"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

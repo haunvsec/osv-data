@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12579","published":"2026-08-05T14:10:52Z","modified":"2026-08-05T14:35:33.197741847Z","summary":"Malicious code in checkout-mobile-promocode (npm)","affected":[{"package":{"name":"checkout-mobile-promocode","ecosystem":"npm","purl":"pkg:npm/checkout-mobile-promocode"},"versions":["35.6.9"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12973","published":"2026-08-05T14:42:32Z","modified":"2026-08-05T15:51:23.162246321Z","summary":"Malicious code in bnpl-blocks-independent-bnpl-tiles (npm)","affected":[{"package":{"name":"bnpl-blocks-independent-bnpl-tiles","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-independent-bnpl-tiles"},"versions":["35.8.9"]}]}

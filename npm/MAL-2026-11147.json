@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11147","published":"2026-07-28T13:43:24Z","modified":"2026-08-05T14:37:21.596610513Z","summary":"Malicious code in simple-probe-utils (npm)","affected":[{"package":{"name":"simple-probe-utils","ecosystem":"npm","purl":"pkg:npm/simple-probe-utils"},"versions":["1.0.1","1.0.0"]}]}

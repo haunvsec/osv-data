@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13644","published":"2026-08-08T00:46:12Z","modified":"2026-08-08T01:04:45.955652907Z","summary":"Malicious code in sme-rko-finance-front-operations-pegasus (npm)","affected":[{"package":{"name":"sme-rko-finance-front-operations-pegasus","ecosystem":"npm","purl":"pkg:npm/sme-rko-finance-front-operations-pegasus"},"versions":["35.8.1"]}]}

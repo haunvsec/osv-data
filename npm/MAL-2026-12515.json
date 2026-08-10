@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12515","published":"2026-08-05T14:19:29Z","modified":"2026-08-05T14:35:14.911926849Z","summary":"Malicious code in bpm-foundation-test-jest (npm)","affected":[{"package":{"name":"bpm-foundation-test-jest","ecosystem":"npm","purl":"pkg:npm/bpm-foundation-test-jest"},"versions":["35.9.3"]}]}

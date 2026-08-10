@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12226","published":"2026-08-05T09:16:23Z","modified":"2026-08-05T10:06:33.582679075Z","summary":"Malicious code in time-webkit-tag (npm)","affected":[{"package":{"name":"time-webkit-tag","ecosystem":"npm","purl":"pkg:npm/time-webkit-tag"},"versions":["20.1.6"]}]}

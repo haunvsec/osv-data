@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11087","published":"2026-07-27T05:33:46Z","modified":"2026-08-04T23:05:15.437172495Z","aliases":["GHSA-g6f3-9j93-879j"],"summary":"Malicious code in kalipto-runtime (npm)","affected":[{"package":{"name":"kalipto-runtime","ecosystem":"npm","purl":"pkg:npm/kalipto-runtime"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

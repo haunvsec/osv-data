@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11500","published":"2026-08-03T03:06:14Z","modified":"2026-08-05T07:21:31.573964137Z","aliases":["GHSA-7xhc-fvmj-h5xj"],"summary":"Malicious code in tailwind-anim (npm)","affected":[{"package":{"name":"tailwind-anim","ecosystem":"npm","purl":"pkg:npm/tailwind-anim"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

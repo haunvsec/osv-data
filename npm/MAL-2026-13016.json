@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13016","published":"2026-08-05T14:37:23Z","modified":"2026-08-05T15:51:43.436902637Z","summary":"Malicious code in bnpl-blocks-seo-tools (npm)","affected":[{"package":{"name":"bnpl-blocks-seo-tools","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-seo-tools"},"versions":["35.2.3"]}]}

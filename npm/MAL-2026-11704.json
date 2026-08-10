@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11704","published":"2026-08-04T15:24:50Z","modified":"2026-08-05T08:50:52.506772230Z","aliases":["GHSA-44c7-hpvm-cp2f"],"summary":"Malicious code in @or-sdk/keys (npm)","affected":[{"package":{"name":"@or-sdk/keys","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/keys"},"versions":["1.2.6","1.2.7","1.2.8"]}]}

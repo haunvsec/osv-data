@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12811","published":"2026-08-05T13:33:47Z","modified":"2026-08-05T14:37:26.342571141Z","summary":"Malicious code in ts-poly-utls (npm)","affected":[{"package":{"name":"ts-poly-utls","ecosystem":"npm","purl":"pkg:npm/ts-poly-utls"},"versions":["1.2.4"]}]}

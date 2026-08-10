@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11411","published":"2026-07-30T21:25:58Z","modified":"2026-07-31T01:39:28.027060890Z","aliases":["GHSA-m6qc-p4mr-59vf"],"summary":"Malicious code in xp-node-logger (npm)","affected":[{"package":{"name":"xp-node-logger","ecosystem":"npm","purl":"pkg:npm/xp-node-logger"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

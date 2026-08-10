@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12531","published":"2026-08-05T14:17:21Z","modified":"2026-08-05T14:35:02.447079613Z","summary":"Malicious code in cardsmobile-data-utils (npm)","affected":[{"package":{"name":"cardsmobile-data-utils","ecosystem":"npm","purl":"pkg:npm/cardsmobile-data-utils"},"versions":["35.6.2"]}]}

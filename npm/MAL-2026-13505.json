@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13505","published":"2026-08-07T12:13:18Z","modified":"2026-08-07T12:35:09.250921615Z","summary":"Malicious code in dolyame-ui-iconloaderhoc (npm)","affected":[{"package":{"name":"dolyame-ui-iconloaderhoc","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-iconloaderhoc"},"versions":["35.8.1"]}]}

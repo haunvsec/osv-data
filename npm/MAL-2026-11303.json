@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11303","published":"2026-07-30T22:49:53Z","modified":"2026-07-31T01:38:22.130602476Z","aliases":["GHSA-4qc8-p57w-wf57"],"summary":"Malicious code in express-bubble (npm)","affected":[{"package":{"name":"express-bubble","ecosystem":"npm","purl":"pkg:npm/express-bubble"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

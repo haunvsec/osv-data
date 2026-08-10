@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12684","published":"2026-08-05T13:55:26Z","modified":"2026-08-05T14:36:24.135808265Z","summary":"Malicious code in delivery-ci-unit (npm)","affected":[{"package":{"name":"delivery-ci-unit","ecosystem":"npm","purl":"pkg:npm/delivery-ci-unit"},"versions":["35.9.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13354","published":"2026-08-05T15:39:42Z","modified":"2026-08-05T16:51:11.462063501Z","summary":"Malicious code in web3-utils-crypto (npm)","affected":[{"package":{"name":"web3-utils-crypto","ecosystem":"npm","purl":"pkg:npm/web3-utils-crypto"},"versions":["1.10.4"]}]}

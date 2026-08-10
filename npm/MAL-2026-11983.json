@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11983","published":"2026-08-04T15:53:42Z","modified":"2026-08-05T07:21:24.753971059Z","aliases":["GHSA-8q52-v99f-4q28"],"summary":"Malicious code in qlik-modifiers (npm)","affected":[{"package":{"name":"qlik-modifiers","ecosystem":"npm","purl":"pkg:npm/qlik-modifiers"},"versions":["0.10.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12505","published":"2026-08-05T13:38:10Z","modified":"2026-08-05T14:35:00.703677461Z","summary":"Malicious code in @kyronixai/executer (npm)","affected":[{"package":{"name":"@kyronixai/executer","ecosystem":"npm","purl":"pkg:npm/%40kyronixai/executer"},"versions":["1.0.5"]}]}

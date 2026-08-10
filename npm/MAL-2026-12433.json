@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12433","published":"2026-08-05T12:35:49Z","modified":"2026-08-05T13:35:53.923232902Z","summary":"Malicious code in saas-f-lego-landings (npm)","affected":[{"package":{"name":"saas-f-lego-landings","ecosystem":"npm","purl":"pkg:npm/saas-f-lego-landings"},"versions":["20.7.5"]}]}

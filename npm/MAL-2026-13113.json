@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13113","published":"2026-08-05T14:20:38Z","modified":"2026-08-05T15:52:29.628627476Z","summary":"Malicious code in bpm-foundation-nest-keycloak-connect (npm)","affected":[{"package":{"name":"bpm-foundation-nest-keycloak-connect","ecosystem":"npm","purl":"pkg:npm/bpm-foundation-nest-keycloak-connect"},"versions":["35.8.6"]}]}

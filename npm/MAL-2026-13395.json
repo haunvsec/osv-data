@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13395","published":"2026-08-06T12:57:14Z","modified":"2026-08-06T14:34:55.596245187Z","summary":"Malicious code in @activepieces/piece-google-contacts (npm)","affected":[{"package":{"name":"@activepieces/piece-google-contacts","ecosystem":"npm","purl":"pkg:npm/%40activepieces/piece-google-contacts"},"versions":["0.4.8","0.4.7"]}]}

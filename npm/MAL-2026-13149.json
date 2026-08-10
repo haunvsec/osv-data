@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13149","published":"2026-08-05T15:15:56Z","modified":"2026-08-05T15:52:46.287932244Z","summary":"Malicious code in dolyame-ui-constants (npm)","affected":[{"package":{"name":"dolyame-ui-constants","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-constants"},"versions":["35.5.9"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12648","published":"2026-08-05T14:00:58Z","modified":"2026-08-05T14:36:06.818322639Z","summary":"Malicious code in claims-use-visual-viewport-resizing (npm)","affected":[{"package":{"name":"claims-use-visual-viewport-resizing","ecosystem":"npm","purl":"pkg:npm/claims-use-visual-viewport-resizing"},"versions":["35.2.8"]}]}

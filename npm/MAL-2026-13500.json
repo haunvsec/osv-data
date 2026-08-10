@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13500","published":"2026-08-07T12:14:41Z","modified":"2026-08-07T12:35:09.149550524Z","summary":"Malicious code in delivery-ci-dpat (npm)","affected":[{"package":{"name":"delivery-ci-dpat","ecosystem":"npm","purl":"pkg:npm/delivery-ci-dpat"},"versions":["35.1.5"]}]}

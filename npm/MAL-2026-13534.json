@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13534","published":"2026-08-07T12:31:52Z","modified":"2026-08-07T13:20:18.604854780Z","summary":"Malicious code in ded-pwa-c-boxy-di (npm)","affected":[{"package":{"name":"ded-pwa-c-boxy-di","ecosystem":"npm","purl":"pkg:npm/ded-pwa-c-boxy-di"},"versions":["35.2.2"]}]}

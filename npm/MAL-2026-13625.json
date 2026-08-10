@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13625","published":"2026-08-07T17:25:02Z","modified":"2026-08-07T18:05:07.616176961Z","summary":"Malicious code in @depup/nuxt (npm)","affected":[{"package":{"name":"@depup/nuxt","ecosystem":"npm","purl":"pkg:npm/%40depup/nuxt"},"versions":["4.5.0-depup.0"]}]}

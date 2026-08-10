@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12117","published":"2026-08-05T09:04:51Z","modified":"2026-08-05T10:05:25.361244768Z","summary":"Malicious code in 1239i32049i (npm)","affected":[{"package":{"name":"1239i32049i","ecosystem":"npm","purl":"pkg:npm/1239i32049i"},"versions":["0.1.0"]}]}

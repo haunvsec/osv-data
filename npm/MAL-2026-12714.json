@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12714","published":"2026-08-05T13:49:31Z","modified":"2026-08-06T01:20:29.026942840Z","aliases":["GHSA-955v-2fx5-8jjw"],"summary":"Malicious code in devplatform-i18n (npm)","affected":[{"package":{"name":"devplatform-i18n","ecosystem":"npm","purl":"pkg:npm/devplatform-i18n"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

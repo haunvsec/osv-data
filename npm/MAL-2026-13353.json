@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13353","published":"2026-08-05T15:55:02Z","modified":"2026-08-05T16:51:10.083331303Z","summary":"Malicious code in stellarfixer (npm)","affected":[{"package":{"name":"stellarfixer","ecosystem":"npm","purl":"pkg:npm/stellarfixer"},"versions":["1.0.0"]}]}

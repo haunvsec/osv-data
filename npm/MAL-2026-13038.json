@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13038","published":"2026-08-05T14:31:50Z","modified":"2026-08-05T15:51:53.745193586Z","summary":"Malicious code in boxy-deps-calculator (npm)","affected":[{"package":{"name":"boxy-deps-calculator","ecosystem":"npm","purl":"pkg:npm/boxy-deps-calculator"},"versions":["35.9.5"]}]}

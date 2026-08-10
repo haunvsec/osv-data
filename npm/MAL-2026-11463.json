@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11463","published":"2026-07-31T21:53:22Z","modified":"2026-08-04T23:05:08.451012884Z","aliases":["GHSA-7gxf-x4v3-6vq7"],"summary":"Malicious code in goldenflow-js (npm)","affected":[{"package":{"name":"goldenflow-js","ecosystem":"npm","purl":"pkg:npm/goldenflow-js"},"versions":["1.0.0"]}]}

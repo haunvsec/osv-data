@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12497","published":"2026-08-05T12:58:36Z","modified":"2026-08-05T13:36:25.207299367Z","summary":"Malicious code in vscode-designer-14 (npm)","affected":[{"package":{"name":"vscode-designer-14","ecosystem":"npm","purl":"pkg:npm/vscode-designer-14"},"versions":["14.0.1"]}]}

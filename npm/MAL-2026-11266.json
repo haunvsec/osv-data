@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11266","published":"2026-07-30T21:25:58Z","modified":"2026-07-31T01:37:50.258360107Z","aliases":["GHSA-f7m4-4g35-5599"],"summary":"Malicious code in columns_changed (npm)","affected":[{"package":{"name":"columns_changed","ecosystem":"npm","purl":"pkg:npm/columns_changed"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

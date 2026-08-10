@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13551","published":"2026-08-07T12:25:15Z","modified":"2026-08-07T13:20:28.225471339Z","summary":"Malicious code in dolyame-boxy-independent-bnpl-faq (npm)","affected":[{"package":{"name":"dolyame-boxy-independent-bnpl-faq","ecosystem":"npm","purl":"pkg:npm/dolyame-boxy-independent-bnpl-faq"},"versions":["35.8.7"]}]}

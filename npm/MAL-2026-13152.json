@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13152","published":"2026-08-05T15:14:16Z","modified":"2026-08-05T15:52:48.394320657Z","summary":"Malicious code in dolyame-ui-dropdown (npm)","affected":[{"package":{"name":"dolyame-ui-dropdown","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-dropdown"},"versions":["35.6.2"]}]}

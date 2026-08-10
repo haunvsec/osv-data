@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13330","published":"2026-08-05T15:20:44Z","modified":"2026-08-05T16:50:56.254407102Z","summary":"Malicious code in dolyame-boxy-independent-bnpl-swagger (npm)","affected":[{"package":{"name":"dolyame-boxy-independent-bnpl-swagger","ecosystem":"npm","purl":"pkg:npm/dolyame-boxy-independent-bnpl-swagger"},"versions":["35.6.8"]}]}

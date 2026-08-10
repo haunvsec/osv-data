@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11118","published":"2026-07-28T08:17:41Z","modified":"2026-08-04T22:04:54.917244021Z","summary":"Malicious code in array-sort-helper (npm)","affected":[{"package":{"name":"array-sort-helper","ecosystem":"npm","purl":"pkg:npm/array-sort-helper"},"versions":["1.0.0"]}]}

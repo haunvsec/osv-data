@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11982","published":"2026-08-04T15:50:25Z","modified":"2026-08-05T07:21:24.468533005Z","aliases":["GHSA-6pc2-3g2j-m6wg"],"summary":"Malicious code in qlik-chart-modules (npm)","affected":[{"package":{"name":"qlik-chart-modules","ecosystem":"npm","purl":"pkg:npm/qlik-chart-modules"},"versions":["1.1.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12344","published":"2026-08-05T12:55:53Z","modified":"2026-08-05T13:35:00.813040405Z","summary":"Malicious code in caldora (npm)","affected":[{"package":{"name":"caldora","ecosystem":"npm","purl":"pkg:npm/caldora"},"versions":["1.0.0"]}]}

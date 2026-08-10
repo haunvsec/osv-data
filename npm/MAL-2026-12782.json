@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12782","published":"2026-08-05T13:40:23Z","modified":"2026-08-05T14:37:08.686219382Z","summary":"Malicious code in devplatform-spa-plugin-thermostat (npm)","affected":[{"package":{"name":"devplatform-spa-plugin-thermostat","ecosystem":"npm","purl":"pkg:npm/devplatform-spa-plugin-thermostat"},"versions":["35.9.9"]}]}

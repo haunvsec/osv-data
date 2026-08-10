@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13352","published":"2026-08-05T15:49:02Z","modified":"2026-08-05T16:51:09.260024892Z","summary":"Malicious code in stellar-api-core (npm)","affected":[{"package":{"name":"stellar-api-core","ecosystem":"npm","purl":"pkg:npm/stellar-api-core"},"versions":["1.0.5"]}]}

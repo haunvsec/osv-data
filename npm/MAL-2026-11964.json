@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11964","published":"2026-08-04T10:40:07Z","modified":"2026-08-05T01:49:49.019381370Z","aliases":["GHSA-mxgw-gq2g-4fq9"],"summary":"Malicious code in cacheable-request (npm)","affected":[{"package":{"name":"cacheable-request","ecosystem":"npm","purl":"pkg:npm/cacheable-request"},"versions":["13.0.20"]}]}

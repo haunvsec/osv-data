@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12617","published":"2026-08-05T14:04:14Z","modified":"2026-08-05T14:35:51.304686664Z","summary":"Malicious code in claims-format-masked-phone-number (npm)","affected":[{"package":{"name":"claims-format-masked-phone-number","ecosystem":"npm","purl":"pkg:npm/claims-format-masked-phone-number"},"versions":["35.9.8"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13185","published":"2026-08-05T15:09:25Z","modified":"2026-08-05T15:53:03.788657202Z","summary":"Malicious code in dolyame-ui-stepper (npm)","affected":[{"package":{"name":"dolyame-ui-stepper","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-stepper"},"versions":["35.7.5"]}]}

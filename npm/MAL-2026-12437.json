@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12437","published":"2026-08-05T12:33:59Z","modified":"2026-08-06T09:34:48.480800187Z","aliases":["GHSA-qw5j-q6g9-pqhf"],"summary":"Malicious code in simplipayng (npm)","affected":[{"package":{"name":"simplipayng","ecosystem":"npm","purl":"pkg:npm/simplipayng"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

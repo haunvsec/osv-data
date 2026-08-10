@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12971","published":"2026-08-05T14:43:08Z","modified":"2026-08-05T15:51:22.045915838Z","summary":"Malicious code in bnpl-blocks-independent-bnpl-table (npm)","affected":[{"package":{"name":"bnpl-blocks-independent-bnpl-table","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-independent-bnpl-table"},"versions":["35.3.7"]}]}

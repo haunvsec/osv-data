@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11476","published":"2026-07-31T21:53:22Z","modified":"2026-08-05T06:36:24.606177039Z","aliases":["GHSA-h574-ghq2-gh4p"],"summary":"Malicious code in polyprompt (npm)","affected":[{"package":{"name":"polyprompt","ecosystem":"npm","purl":"pkg:npm/polyprompt"},"versions":["1.0.0"]}]}

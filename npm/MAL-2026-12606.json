@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12606","published":"2026-08-05T14:06:16Z","modified":"2026-08-05T14:35:45.888058704Z","summary":"Malicious code in claims-api-clients-shared (npm)","affected":[{"package":{"name":"claims-api-clients-shared","ecosystem":"npm","purl":"pkg:npm/claims-api-clients-shared"},"versions":["35.1.9"]}]}

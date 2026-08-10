@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12035","published":"2026-08-05T01:31:03Z","modified":"2026-08-05T01:49:47.486261513Z","summary":"Malicious code in bigops-auth-utils (npm)","affected":[{"package":{"name":"bigops-auth-utils","ecosystem":"npm","purl":"pkg:npm/bigops-auth-utils"},"versions":["35.4.5"]}]}

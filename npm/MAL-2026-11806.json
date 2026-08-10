@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11806","published":"2026-08-04T15:49:51Z","modified":"2026-08-05T07:20:43.535987973Z","aliases":["GHSA-h8h2-v2pq-f2j2"],"summary":"Malicious code in @qlik/sprout-gesture (npm)","affected":[{"package":{"name":"@qlik/sprout-gesture","ecosystem":"npm","purl":"pkg:npm/%40qlik/sprout-gesture"},"versions":["0.0.13"]}]}

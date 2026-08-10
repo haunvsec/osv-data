@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12064","published":"2026-08-05T01:47:56Z","modified":"2026-08-05T07:21:06.129595822Z","summary":"Malicious code in ckcc-protocol (npm)","affected":[{"package":{"name":"ckcc-protocol","ecosystem":"npm","purl":"pkg:npm/ckcc-protocol"},"versions":["1.0.0","1.0.3","1.0.2","1.0.1"]}]}

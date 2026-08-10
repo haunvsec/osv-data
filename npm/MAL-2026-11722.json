@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11722","published":"2026-08-04T15:19:14Z","modified":"2026-08-05T08:51:00.659845406Z","aliases":["GHSA-hg4q-qmv8-6g5r"],"summary":"Malicious code in @or-sdk/qna (npm)","affected":[{"package":{"name":"@or-sdk/qna","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/qna"},"versions":["3.4.2","3.4.3","3.4.4"]}]}

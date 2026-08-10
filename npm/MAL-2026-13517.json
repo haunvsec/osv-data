@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13517","published":"2026-08-07T12:09:27Z","modified":"2026-08-07T12:35:19.026426452Z","summary":"Malicious code in gas-diff-core (npm)","affected":[{"package":{"name":"gas-diff-core","ecosystem":"npm","purl":"pkg:npm/gas-diff-core"},"versions":["1.0.0"]}]}

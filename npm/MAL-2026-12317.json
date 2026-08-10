@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12317","published":"2026-08-05T13:01:22Z","modified":"2026-08-05T13:35:08.779075988Z","summary":"Malicious code in @cryptosrvc/shift-sdk-v4 (npm)","affected":[{"package":{"name":"@cryptosrvc/shift-sdk-v4","ecosystem":"npm","purl":"pkg:npm/%40cryptosrvc/shift-sdk-v4"},"versions":["1.0.77"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13401","published":"2026-08-06T12:30:20Z","modified":"2026-08-06T13:34:42.557766235Z","summary":"Malicious code in helmet-pro (npm)","affected":[{"package":{"name":"helmet-pro","ecosystem":"npm","purl":"pkg:npm/helmet-pro"},"versions":["10.0.4"]}]}

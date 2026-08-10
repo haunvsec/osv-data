@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12703","published":"2026-08-05T13:52:24Z","modified":"2026-08-05T14:36:32.833760033Z","summary":"Malicious code in devplatform-cli-plugin-test (npm)","affected":[{"package":{"name":"devplatform-cli-plugin-test","ecosystem":"npm","purl":"pkg:npm/devplatform-cli-plugin-test"},"versions":["35.4.5"]}]}

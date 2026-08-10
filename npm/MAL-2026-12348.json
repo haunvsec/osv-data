@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12348","published":"2026-08-05T12:59:03Z","modified":"2026-08-05T13:35:02.439863602Z","summary":"Malicious code in chai-as-rendered (npm)","affected":[{"package":{"name":"chai-as-rendered","ecosystem":"npm","purl":"pkg:npm/chai-as-rendered"},"versions":["1.2.0"]}]}

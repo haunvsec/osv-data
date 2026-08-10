@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12548","published":"2026-08-05T14:14:04Z","modified":"2026-08-05T14:35:18.058034984Z","summary":"Malicious code in checkout-commit-pos-order-am (npm)","affected":[{"package":{"name":"checkout-commit-pos-order-am","ecosystem":"npm","purl":"pkg:npm/checkout-commit-pos-order-am"},"versions":["35.8.4"]}]}

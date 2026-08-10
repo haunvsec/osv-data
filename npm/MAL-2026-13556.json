@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13556","published":"2026-08-07T12:30:27Z","modified":"2026-08-07T13:20:30.985304928Z","summary":"Malicious code in dolyame-ui-carouselline (npm)","affected":[{"package":{"name":"dolyame-ui-carouselline","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-carouselline"},"versions":["35.8.1"]}]}

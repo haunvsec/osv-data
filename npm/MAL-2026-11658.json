@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11658","published":"2026-08-04T15:20:50Z","modified":"2026-08-05T08:50:30.653472043Z","aliases":["GHSA-5xq8-fw2q-2fwv"],"summary":"Malicious code in @onereach/ts-memoize (npm)","affected":[{"package":{"name":"@onereach/ts-memoize","ecosystem":"npm","purl":"pkg:npm/%40onereach/ts-memoize"},"versions":["1.0.2","1.0.3","1.0.4"]}]}

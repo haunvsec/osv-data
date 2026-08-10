@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12812","published":"2026-08-05T13:14:43Z","modified":"2026-08-06T01:21:41.296560224Z","aliases":["GHSA-99wx-749q-58xh"],"summary":"Malicious code in ts-toolkit-plus (npm)","affected":[{"package":{"name":"ts-toolkit-plus","ecosystem":"npm","purl":"pkg:npm/ts-toolkit-plus"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

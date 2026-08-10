@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13046","published":"2026-08-05T14:31:44Z","modified":"2026-08-05T15:51:57.150527339Z","summary":"Malicious code in boxy-fixture-pendel (npm)","affected":[{"package":{"name":"boxy-fixture-pendel","ecosystem":"npm","purl":"pkg:npm/boxy-fixture-pendel"},"versions":["35.8.9"]}]}

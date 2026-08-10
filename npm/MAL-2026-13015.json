@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13015","published":"2026-08-05T14:36:40Z","modified":"2026-08-05T15:51:43.407474445Z","summary":"Malicious code in bnpl-blocks-scroll (npm)","affected":[{"package":{"name":"bnpl-blocks-scroll","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-scroll"},"versions":["35.2.6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12535","published":"2026-08-05T14:17:49Z","modified":"2026-08-05T14:35:05.438954605Z","summary":"Malicious code in cardsmobile-rs-api (npm)","affected":[{"package":{"name":"cardsmobile-rs-api","ecosystem":"npm","purl":"pkg:npm/cardsmobile-rs-api"},"versions":["35.5.6"]}]}

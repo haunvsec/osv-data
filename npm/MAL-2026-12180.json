@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12180","published":"2026-08-05T09:16:43Z","modified":"2026-08-05T18:19:46.349387632Z","summary":"Malicious code in geocode-quick (npm)","affected":[{"package":{"name":"geocode-quick","ecosystem":"npm","purl":"pkg:npm/geocode-quick"},"versions":["1.0.3","1.0.2"]}]}

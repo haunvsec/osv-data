@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11312","published":"2026-07-30T22:51:47Z","modified":"2026-07-31T01:38:26.950819200Z","aliases":["GHSA-cg95-x585-4q9p"],"summary":"Malicious code in fs-extra-master (npm)","affected":[{"package":{"name":"fs-extra-master","ecosystem":"npm","purl":"pkg:npm/fs-extra-master"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

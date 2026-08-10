@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13265","published":"2026-08-05T15:30:44Z","modified":"2026-08-05T16:50:23.957452569Z","summary":"Malicious code in devplatform-supafetch (npm)","affected":[{"package":{"name":"devplatform-supafetch","ecosystem":"npm","purl":"pkg:npm/devplatform-supafetch"},"versions":["35.2.1"]}]}

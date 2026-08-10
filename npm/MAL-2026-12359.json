@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12359","published":"2026-08-05T12:59:52Z","modified":"2026-08-05T13:35:16.877120382Z","summary":"Malicious code in crypto-javas (npm)","affected":[{"package":{"name":"crypto-javas","ecosystem":"npm","purl":"pkg:npm/crypto-javas"},"versions":["2.0.4","2.0.7","2.0.8"]}]}

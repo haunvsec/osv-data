@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12329","published":"2026-08-05T13:02:35Z","modified":"2026-08-05T13:34:52.597715387Z","summary":"Malicious code in @shiftmarkets/shift-sdk-v4 (npm)","affected":[{"package":{"name":"@shiftmarkets/shift-sdk-v4","ecosystem":"npm","purl":"pkg:npm/%40shiftmarkets/shift-sdk-v4"},"versions":["1.0.77"]}]}

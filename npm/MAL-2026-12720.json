@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12720","published":"2026-08-05T13:50:29Z","modified":"2026-08-05T14:36:41.134282111Z","summary":"Malicious code in devplatform-markdown (npm)","affected":[{"package":{"name":"devplatform-markdown","ecosystem":"npm","purl":"pkg:npm/devplatform-markdown"},"versions":["35.9.6"]}]}

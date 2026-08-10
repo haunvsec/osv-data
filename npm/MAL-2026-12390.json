@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12390","published":"2026-08-05T12:35:59Z","modified":"2026-08-05T13:35:31.606881244Z","summary":"Malicious code in hubert-document-actual-insurance-rules-am (npm)","affected":[{"package":{"name":"hubert-document-actual-insurance-rules-am","ecosystem":"npm","purl":"pkg:npm/hubert-document-actual-insurance-rules-am"},"versions":["20.5.6"]}]}

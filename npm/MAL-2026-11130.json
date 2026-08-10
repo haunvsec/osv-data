@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11130","published":"2026-07-28T13:38:38Z","modified":"2026-07-28T14:37:23.024962549Z","summary":"Malicious code in array-node-utils (npm)","affected":[{"package":{"name":"array-node-utils","ecosystem":"npm","purl":"pkg:npm/array-node-utils"},"versions":["1.0.9"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13231","published":"2026-08-05T15:37:31Z","modified":"2026-08-05T16:50:03.719220625Z","summary":"Malicious code in bigops-outgoing-call (npm)","affected":[{"package":{"name":"bigops-outgoing-call","ecosystem":"npm","purl":"pkg:npm/bigops-outgoing-call"},"versions":["35.1.6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11418","published":"2026-07-31T14:23:31Z","modified":"2026-08-04T22:05:24.553921242Z","summary":"Malicious code in catalogai (PyPI)","affected":[{"package":{"name":"catalogai","ecosystem":"PyPI","purl":"pkg:pypi/catalogai"},"versions":["0.1.2"]}]}

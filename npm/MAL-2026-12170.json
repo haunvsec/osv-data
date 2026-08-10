@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12170","published":"2026-08-05T08:44:18Z","modified":"2026-08-05T10:06:03.487412124Z","summary":"Malicious code in bigops-info-notices (npm)","affected":[{"package":{"name":"bigops-info-notices","ecosystem":"npm","purl":"pkg:npm/bigops-info-notices"},"versions":["35.9.8"]}]}

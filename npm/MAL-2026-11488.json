@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11488","published":"2026-08-01T03:43:30Z","modified":"2026-08-04T23:05:37.405017822Z","aliases":["GHSA-fxj3-2jph-p7mg"],"summary":"Malicious code in test-dev-boot (npm)","affected":[{"package":{"name":"test-dev-boot","ecosystem":"npm","purl":"pkg:npm/test-dev-boot"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

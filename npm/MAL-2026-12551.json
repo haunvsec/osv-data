@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12551","published":"2026-08-05T14:15:56Z","modified":"2026-08-05T14:35:19.439939706Z","summary":"Malicious code in checkout-create-draft-agreement-am (npm)","affected":[{"package":{"name":"checkout-create-draft-agreement-am","ecosystem":"npm","purl":"pkg:npm/checkout-create-draft-agreement-am"},"versions":["35.1.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13568","published":"2026-08-07T12:28:18Z","modified":"2026-08-07T13:20:36.748691816Z","summary":"Malicious code in dolyame-ui-eventoutside (npm)","affected":[{"package":{"name":"dolyame-ui-eventoutside","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-eventoutside"},"versions":["35.8.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12851","published":"2026-08-05T14:59:26Z","modified":"2026-08-06T01:20:03.109787620Z","aliases":["GHSA-9mgc-3qcp-rwph"],"summary":"Malicious code in bigops-ui-themes (npm)","affected":[{"package":{"name":"bigops-ui-themes","ecosystem":"npm","purl":"pkg:npm/bigops-ui-themes"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

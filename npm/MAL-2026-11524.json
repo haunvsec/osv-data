@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11524","published":"2026-08-04T11:19:14Z","modified":"2026-08-05T00:37:58.501913989Z","aliases":["GHSA-3p9h-f68w-m6fx"],"summary":"Malicious code in keyv (npm)","affected":[{"package":{"name":"keyv","ecosystem":"npm","purl":"pkg:npm/keyv"},"versions":["6.0.0"]}]}

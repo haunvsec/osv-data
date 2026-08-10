@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12165","published":"2026-08-05T08:44:58Z","modified":"2026-08-05T10:06:01.202130411Z","summary":"Malicious code in bigops-external-auth (npm)","affected":[{"package":{"name":"bigops-external-auth","ecosystem":"npm","purl":"pkg:npm/bigops-external-auth"},"versions":["35.1.6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12883","published":"2026-08-05T14:55:58Z","modified":"2026-08-05T15:50:41.281946769Z","summary":"Malicious code in bnpl-blocks-atom-bnpl-no-index-link (npm)","affected":[{"package":{"name":"bnpl-blocks-atom-bnpl-no-index-link","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-atom-bnpl-no-index-link"},"versions":["35.1.2"]}]}

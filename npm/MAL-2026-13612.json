@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13612","published":"2026-08-07T13:43:51Z","modified":"2026-08-07T14:49:44.745943920Z","summary":"Malicious code in transform-es2015-unicode-regex (npm)","affected":[{"package":{"name":"transform-es2015-unicode-regex","ecosystem":"npm","purl":"pkg:npm/transform-es2015-unicode-regex"},"versions":["6.24.1"]}]}

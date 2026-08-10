@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11537","published":"2026-08-04T22:05:57Z","modified":"2026-08-04T23:05:01.253865113Z","summary":"Malicious code in discord-vibegrations-api-natives (npm)","affected":[{"package":{"name":"discord-vibegrations-api-natives","ecosystem":"npm","purl":"pkg:npm/discord-vibegrations-api-natives"},"versions":["1.0.5"]}]}

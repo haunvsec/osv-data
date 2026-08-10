@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11136","published":"2026-07-28T13:28:21Z","modified":"2026-08-04T22:05:04.768758567Z","aliases":["GHSA-4w4v-pw3v-q85q"],"summary":"Malicious code in fluid-type-ui (npm)","affected":[{"package":{"name":"fluid-type-ui","ecosystem":"npm","purl":"pkg:npm/fluid-type-ui"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

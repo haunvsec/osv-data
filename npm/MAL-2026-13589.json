@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13589","published":"2026-08-07T12:27:12Z","modified":"2026-08-07T13:20:48.987918264Z","summary":"Malicious code in dolyame-ui-memoizeweak (npm)","affected":[{"package":{"name":"dolyame-ui-memoizeweak","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-memoizeweak"},"versions":["35.8.1"]}]}

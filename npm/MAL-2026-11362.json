@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11362","published":"2026-07-30T22:49:53Z","modified":"2026-07-31T01:38:59.082184383Z","aliases":["GHSA-wpxf-fg7q-h6gv"],"summary":"Malicious code in qserver (npm)","affected":[{"package":{"name":"qserver","ecosystem":"npm","purl":"pkg:npm/qserver"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

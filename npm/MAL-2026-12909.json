@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12909","published":"2026-08-05T14:51:23Z","modified":"2026-08-05T15:50:53.501631198Z","summary":"Malicious code in bnpl-blocks-data-schema-generator (npm)","affected":[{"package":{"name":"bnpl-blocks-data-schema-generator","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-data-schema-generator"},"versions":["35.2.1"]}]}

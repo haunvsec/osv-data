@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13234","published":"2026-08-05T15:36:04Z","modified":"2026-08-05T16:50:04.995879765Z","summary":"Malicious code in bigops-procedure-player (npm)","affected":[{"package":{"name":"bigops-procedure-player","ecosystem":"npm","purl":"pkg:npm/bigops-procedure-player"},"versions":["35.8.2"]}]}

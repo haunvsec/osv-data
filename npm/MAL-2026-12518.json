@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12518","published":"2026-08-05T13:13:32Z","modified":"2026-08-05T14:35:16.361810729Z","summary":"Malicious code in break-after (npm)","affected":[{"package":{"name":"break-after","ecosystem":"npm","purl":"pkg:npm/break-after"},"versions":["9999.0.0"]}]}

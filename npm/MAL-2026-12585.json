@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12585","published":"2026-08-05T14:09:46Z","modified":"2026-08-05T14:35:36.031607459Z","summary":"Malicious code in checkout-pay-widget-logic (npm)","affected":[{"package":{"name":"checkout-pay-widget-logic","ecosystem":"npm","purl":"pkg:npm/checkout-pay-widget-logic"},"versions":["35.3.2"]}]}

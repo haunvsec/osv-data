@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12984","published":"2026-08-05T14:41:32Z","modified":"2026-08-05T15:51:28.554246427Z","summary":"Malicious code in bnpl-blocks-mobile-bnpl-category-gallery (npm)","affected":[{"package":{"name":"bnpl-blocks-mobile-bnpl-category-gallery","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-mobile-bnpl-category-gallery"},"versions":["35.6.5"]}]}

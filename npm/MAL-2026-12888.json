@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12888","published":"2026-08-05T14:55:17Z","modified":"2026-08-05T15:50:44.049982833Z","summary":"Malicious code in bnpl-blocks-atom-bnpl-radio (npm)","affected":[{"package":{"name":"bnpl-blocks-atom-bnpl-radio","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-atom-bnpl-radio"},"versions":["35.4.8"]}]}

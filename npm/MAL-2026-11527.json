@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11527","published":"2026-08-04T21:14:00Z","modified":"2026-08-04T22:05:16.500581490Z","summary":"Malicious code in streak-metricsaz (npm)","affected":[{"package":{"name":"streak-metricsaz","ecosystem":"npm","purl":"pkg:npm/streak-metricsaz"},"versions":["1.0.0"]}]}

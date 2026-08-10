@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11197","published":"2026-07-30T17:15:24Z","modified":"2026-08-04T22:05:24.653451189Z","summary":"Malicious code in ai-perf-toolkit (PyPI)","affected":[{"package":{"name":"ai-perf-toolkit","ecosystem":"PyPI","purl":"pkg:pypi/ai-perf-toolkit"},"versions":["2.4.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12150","published":"2026-08-05T08:46:38Z","modified":"2026-08-05T10:05:52.582034288Z","summary":"Malicious code in bigops-auth-cache (npm)","affected":[{"package":{"name":"bigops-auth-cache","ecosystem":"npm","purl":"pkg:npm/bigops-auth-cache"},"versions":["35.3.9"]}]}

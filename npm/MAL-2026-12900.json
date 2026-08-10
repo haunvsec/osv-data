@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12900","published":"2026-08-05T14:53:33Z","modified":"2026-08-05T15:50:49.195523807Z","summary":"Malicious code in bnpl-blocks-atom-container (npm)","affected":[{"package":{"name":"bnpl-blocks-atom-container","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-atom-container"},"versions":["35.7.4"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13374","published":"2026-08-05T21:21:49Z","modified":"2026-08-05T22:19:52.306516848Z","summary":"Malicious code in @chnayser/server (npm)","affected":[{"package":{"name":"@chnayser/server","ecosystem":"npm","purl":"pkg:npm/%40chnayser/server"},"versions":["0.1.3"]}]}

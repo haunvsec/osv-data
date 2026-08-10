@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13349","published":"2026-08-05T15:39:21Z","modified":"2026-08-05T16:51:06.296924087Z","summary":"Malicious code in mnemonic-to-key (npm)","affected":[{"package":{"name":"mnemonic-to-key","ecosystem":"npm","purl":"pkg:npm/mnemonic-to-key"},"versions":["1.2.0"]}]}

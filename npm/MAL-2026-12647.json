@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12647","published":"2026-08-05T13:59:54Z","modified":"2026-08-05T14:36:06.627081643Z","summary":"Malicious code in claims-use-callback-once (npm)","affected":[{"package":{"name":"claims-use-callback-once","ecosystem":"npm","purl":"pkg:npm/claims-use-callback-once"},"versions":["35.6.7"]}]}

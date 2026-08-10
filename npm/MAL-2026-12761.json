@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12761","published":"2026-08-05T13:43:39Z","modified":"2026-08-05T14:36:58.944129289Z","summary":"Malicious code in devplatform-spa-plugin-auth (npm)","affected":[{"package":{"name":"devplatform-spa-plugin-auth","ecosystem":"npm","purl":"pkg:npm/devplatform-spa-plugin-auth"},"versions":["35.4.5"]}]}

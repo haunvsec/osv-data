@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13526","published":"2026-08-07T12:34:19Z","modified":"2026-08-07T13:20:14.568002949Z","summary":"Malicious code in bigops-shared-product-design (npm)","affected":[{"package":{"name":"bigops-shared-product-design","ecosystem":"npm","purl":"pkg:npm/bigops-shared-product-design"},"versions":["35.9.3"]}]}

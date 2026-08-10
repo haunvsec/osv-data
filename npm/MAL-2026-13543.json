@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13543","published":"2026-08-07T12:28:10Z","modified":"2026-08-07T13:20:24.143775219Z","summary":"Malicious code in devplatform-api-v1-resources (npm)","affected":[{"package":{"name":"devplatform-api-v1-resources","ecosystem":"npm","purl":"pkg:npm/devplatform-api-v1-resources"},"versions":["35.4.7"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13684","published":"2026-08-10T08:20:53Z","modified":"2026-08-10T08:50:00.113390955Z","summary":"Malicious code in @ssgw/icon (npm)","affected":[{"package":{"name":"@ssgw/icon","ecosystem":"npm","purl":"pkg:npm/%40ssgw/icon"},"versions":["9.999.999"]}]}

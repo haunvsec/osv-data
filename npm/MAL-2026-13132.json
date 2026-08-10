@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13132","published":"2026-08-05T15:17:50Z","modified":"2026-08-05T15:52:37.701189034Z","summary":"Malicious code in dolyame-boxy-stories-of-block (npm)","affected":[{"package":{"name":"dolyame-boxy-stories-of-block","ecosystem":"npm","purl":"pkg:npm/dolyame-boxy-stories-of-block"},"versions":["35.8.6"]}]}

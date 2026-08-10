@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12306","published":"2026-08-05T09:13:43Z","modified":"2026-08-05T10:07:09.967760618Z","summary":"Malicious code in twork-products-taiga2-products-mobile (npm)","affected":[{"package":{"name":"twork-products-taiga2-products-mobile","ecosystem":"npm","purl":"pkg:npm/twork-products-taiga2-products-mobile"},"versions":["20.6.6"]}]}

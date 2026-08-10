@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12732","published":"2026-08-05T13:48:27Z","modified":"2026-08-05T14:36:46.723658579Z","summary":"Malicious code in devplatform-po-loader (npm)","affected":[{"package":{"name":"devplatform-po-loader","ecosystem":"npm","purl":"pkg:npm/devplatform-po-loader"},"versions":["35.1.8"]}]}

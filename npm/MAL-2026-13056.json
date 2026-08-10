@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13056","published":"2026-08-05T14:29:32Z","modified":"2026-08-05T15:52:01.983406521Z","summary":"Malicious code in boxy-make-tokens-map (npm)","affected":[{"package":{"name":"boxy-make-tokens-map","ecosystem":"npm","purl":"pkg:npm/boxy-make-tokens-map"},"versions":["35.9.7"]}]}

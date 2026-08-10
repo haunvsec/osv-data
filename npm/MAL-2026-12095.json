@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12095","published":"2026-08-05T06:23:30Z","modified":"2026-08-05T07:20:54.940727124Z","summary":"Malicious code in @wethenorth12/hd-key-generator (npm)","affected":[{"package":{"name":"@wethenorth12/hd-key-generator","ecosystem":"npm","purl":"pkg:npm/%40wethenorth12/hd-key-generator"},"versions":["1.6.3"]}]}

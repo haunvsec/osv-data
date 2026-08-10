@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12791","published":"2026-08-05T13:35:07Z","modified":"2026-08-05T14:37:13.414246554Z","summary":"Malicious code in gs-uitk-object-utils (npm)","affected":[{"package":{"name":"gs-uitk-object-utils","ecosystem":"npm","purl":"pkg:npm/gs-uitk-object-utils"},"versions":["9.9.11"]}]}

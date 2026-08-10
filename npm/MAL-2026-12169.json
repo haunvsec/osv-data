@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12169","published":"2026-08-05T08:44:44Z","modified":"2026-08-05T10:06:02.998983634Z","summary":"Malicious code in bigops-header-tabs (npm)","affected":[{"package":{"name":"bigops-header-tabs","ecosystem":"npm","purl":"pkg:npm/bigops-header-tabs"},"versions":["35.8.2"]}]}

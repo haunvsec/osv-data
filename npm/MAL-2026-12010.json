@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12010","published":"2026-08-04T13:01:34Z","modified":"2026-08-05T10:05:27.027553520Z","aliases":["GHSA-c7r2-p8ff-5ffp"],"summary":"Malicious code in @keyv/compress-gzip (npm)","affected":[{"package":{"name":"@keyv/compress-gzip","ecosystem":"npm","purl":"pkg:npm/%40keyv/compress-gzip"},"versions":["6.0.0"]}]}

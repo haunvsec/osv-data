@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12676","published":"2026-08-05T13:55:51Z","modified":"2026-08-05T14:36:21.118953552Z","summary":"Malicious code in delivery-ci-microforms (npm)","affected":[{"package":{"name":"delivery-ci-microforms","ecosystem":"npm","purl":"pkg:npm/delivery-ci-microforms"},"versions":["35.3.5"]}]}

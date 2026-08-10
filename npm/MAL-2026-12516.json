@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12516","published":"2026-08-05T14:18:43Z","modified":"2026-08-05T14:35:15.234524749Z","summary":"Malicious code in bpm-foundation-testing (npm)","affected":[{"package":{"name":"bpm-foundation-testing","ecosystem":"npm","purl":"pkg:npm/bpm-foundation-testing"},"versions":["35.4.3"]}]}

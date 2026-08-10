@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12076","published":"2026-08-05T01:40:03Z","modified":"2026-08-05T03:20:55.787475544Z","summary":"Malicious code in tinkoff-cache-path (npm)","affected":[{"package":{"name":"tinkoff-cache-path","ecosystem":"npm","purl":"pkg:npm/tinkoff-cache-path"},"versions":["20.8.3"]}]}

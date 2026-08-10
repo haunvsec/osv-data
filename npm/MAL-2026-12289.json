@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12289","published":"2026-08-05T09:15:13Z","modified":"2026-08-05T10:07:02.260078575Z","summary":"Malicious code in twork-data-services-counterfree (npm)","affected":[{"package":{"name":"twork-data-services-counterfree","ecosystem":"npm","purl":"pkg:npm/twork-data-services-counterfree"},"versions":["20.1.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11188","published":"2026-07-29T16:07:07Z","modified":"2026-07-30T04:36:06.287713897Z","aliases":["GHSA-2p2c-gx9p-5wg8"],"summary":"Malicious code in open-worker-cli (npm)","affected":[{"package":{"name":"open-worker-cli","ecosystem":"npm","purl":"pkg:npm/open-worker-cli"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

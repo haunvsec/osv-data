@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12650","published":"2026-08-05T14:00:22Z","modified":"2026-08-05T14:36:08.048800382Z","summary":"Malicious code in cnb-cnb-core (npm)","affected":[{"package":{"name":"cnb-cnb-core","ecosystem":"npm","purl":"pkg:npm/cnb-cnb-core"},"versions":["35.2.7"]}]}

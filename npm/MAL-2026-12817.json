@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12817","published":"2026-08-05T14:58:57Z","modified":"2026-08-06T01:20:08.011822730Z","aliases":["GHSA-7c8x-hmc9-qmh3"],"summary":"Malicious code in beaver-ui-list (npm)","affected":[{"package":{"name":"beaver-ui-list","ecosystem":"npm","purl":"pkg:npm/beaver-ui-list"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

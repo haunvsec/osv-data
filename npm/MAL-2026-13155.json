@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13155","published":"2026-08-05T15:14:34Z","modified":"2026-08-05T15:52:49.353725372Z","summary":"Malicious code in dolyame-ui-flag (npm)","affected":[{"package":{"name":"dolyame-ui-flag","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-flag"},"versions":["35.7.6"]}]}

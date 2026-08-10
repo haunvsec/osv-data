@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12103","published":"2026-08-05T06:23:44Z","modified":"2026-08-05T07:20:58.148014928Z","summary":"Malicious code in @wethenorth12/spl-token-utils (npm)","affected":[{"package":{"name":"@wethenorth12/spl-token-utils","ecosystem":"npm","purl":"pkg:npm/%40wethenorth12/spl-token-utils"},"versions":["1.4.2"]}]}

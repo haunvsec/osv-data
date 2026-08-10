@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11503","published":"2026-08-03T20:34:47Z","modified":"2026-08-04T22:05:26.021875566Z","summary":"Malicious code in instalogin1234 (PyPI)","affected":[{"package":{"name":"instalogin1234","ecosystem":"PyPI","purl":"pkg:pypi/instalogin1234"},"versions":["0.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13367","published":"2026-08-05T18:12:01Z","modified":"2026-08-05T19:19:47.016062921Z","summary":"Malicious code in clawtrl-wallet (npm)","affected":[{"package":{"name":"clawtrl-wallet","ecosystem":"npm","purl":"pkg:npm/clawtrl-wallet"},"versions":["1.5.1"]}]}

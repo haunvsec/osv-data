@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11470","published":"2026-07-31T21:53:47Z","modified":"2026-08-04T23:05:16.254297016Z","aliases":["GHSA-993p-762h-628r"],"summary":"Malicious code in kip-mcp-http (npm)","affected":[{"package":{"name":"kip-mcp-http","ecosystem":"npm","purl":"pkg:npm/kip-mcp-http"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12252","published":"2026-08-05T09:03:45Z","modified":"2026-08-05T10:06:45.250717990Z","summary":"Malicious code in tinkoff-pwa-confac-types (npm)","affected":[{"package":{"name":"tinkoff-pwa-confac-types","ecosystem":"npm","purl":"pkg:npm/tinkoff-pwa-confac-types"},"versions":["20.7.7"]}]}

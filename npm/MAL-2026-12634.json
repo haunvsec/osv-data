@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12634","published":"2026-08-05T14:02:24Z","modified":"2026-08-05T14:35:59.769114229Z","summary":"Malicious code in claims-payout-offer-domain (npm)","affected":[{"package":{"name":"claims-payout-offer-domain","ecosystem":"npm","purl":"pkg:npm/claims-payout-offer-domain"},"versions":["35.6.1"]}]}

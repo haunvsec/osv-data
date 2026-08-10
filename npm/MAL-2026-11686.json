@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11686","published":"2026-08-04T13:20:09Z","modified":"2026-08-05T08:50:42.644256012Z","aliases":["GHSA-hj82-vqh6-4cjp"],"summary":"Malicious code in @or-sdk/data-hub-svc (npm)","affected":[{"package":{"name":"@or-sdk/data-hub-svc","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/data-hub-svc"},"versions":["2.3.5","2.3.6","2.3.7"]}]}

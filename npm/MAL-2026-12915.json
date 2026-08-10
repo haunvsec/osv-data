@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12915","published":"2026-08-05T14:51:32Z","modified":"2026-08-05T15:50:56.198179921Z","summary":"Malicious code in bnpl-blocks-desktop-bnpl-button-set (npm)","affected":[{"package":{"name":"bnpl-blocks-desktop-bnpl-button-set","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-desktop-bnpl-button-set"},"versions":["35.3.7"]}]}

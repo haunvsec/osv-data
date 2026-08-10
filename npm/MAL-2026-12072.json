@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12072","published":"2026-08-05T01:43:24Z","modified":"2026-08-05T03:20:54.206468831Z","summary":"Malicious code in specials-obid-webpack (npm)","affected":[{"package":{"name":"specials-obid-webpack","ecosystem":"npm","purl":"pkg:npm/specials-obid-webpack"},"versions":["20.5.4"]}]}

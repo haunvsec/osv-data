@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12008","published":"2026-08-04T13:01:24Z","modified":"2026-08-05T10:05:25.844408521Z","aliases":["GHSA-cfpv-cpwm-6ff5"],"summary":"Malicious code in @keyv/cloudflare-kv (npm)","affected":[{"package":{"name":"@keyv/cloudflare-kv","ecosystem":"npm","purl":"pkg:npm/%40keyv/cloudflare-kv"},"versions":["6.0.0"]}]}

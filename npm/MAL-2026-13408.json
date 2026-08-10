@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13408","published":"2026-08-06T13:17:58Z","modified":"2026-08-06T14:34:55.287028931Z","summary":"Malicious code in @activepieces/piece-base44 (npm)","affected":[{"package":{"name":"@activepieces/piece-base44","ecosystem":"npm","purl":"pkg:npm/%40activepieces/piece-base44"},"versions":["0.1.7"]}]}

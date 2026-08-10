@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11249","published":"2026-07-30T21:25:58Z","modified":"2026-07-31T01:37:39.929128702Z","aliases":["GHSA-gvh7-xc8j-qqwc"],"summary":"Malicious code in bn.js-4 (npm)","affected":[{"package":{"name":"bn.js-4","ecosystem":"npm","purl":"pkg:npm/bn.js-4"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

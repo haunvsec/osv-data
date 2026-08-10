@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12794","published":"2026-08-05T13:13:22Z","modified":"2026-08-05T14:37:14.688576251Z","summary":"Malicious code in karapace-docs (npm)","affected":[{"package":{"name":"karapace-docs","ecosystem":"npm","purl":"pkg:npm/karapace-docs"},"versions":["1.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13168","published":"2026-08-05T15:12:04Z","modified":"2026-08-05T15:52:55.094465537Z","summary":"Malicious code in dolyame-ui-mixins (npm)","affected":[{"package":{"name":"dolyame-ui-mixins","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-mixins"},"versions":["35.1.4"]}]}

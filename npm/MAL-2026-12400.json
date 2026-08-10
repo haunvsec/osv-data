@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12400","published":"2026-08-05T13:02:02Z","modified":"2026-08-05T13:35:37.136979127Z","summary":"Malicious code in matlab-azure-devops-extension (npm)","affected":[{"package":{"name":"matlab-azure-devops-extension","ecosystem":"npm","purl":"pkg:npm/matlab-azure-devops-extension"},"versions":["1.0.1"]}]}

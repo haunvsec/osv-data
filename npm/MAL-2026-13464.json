@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13464","published":"2026-08-06T19:34:20Z","modified":"2026-08-06T23:50:25.914168965Z","summary":"Malicious code in vite-svg-parse (npm)","affected":[{"package":{"name":"vite-svg-parse","ecosystem":"npm","purl":"pkg:npm/vite-svg-parse"},"versions":["1.1.3"]}]}

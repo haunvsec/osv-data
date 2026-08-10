@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13372","published":"2026-08-05T17:48:56Z","modified":"2026-08-05T22:19:51.501332464Z","summary":"Malicious code in eth-account-wallet (PyPI)","affected":[{"package":{"name":"eth-account-wallet","ecosystem":"PyPI","purl":"pkg:pypi/eth-account-wallet"},"versions":["0.11.2"]}]}

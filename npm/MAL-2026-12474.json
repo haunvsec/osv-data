@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12474","published":"2026-08-05T12:36:21Z","modified":"2026-08-05T13:36:14.764955585Z","summary":"Malicious code in taiga-ui-proprietary-navigation (npm)","affected":[{"package":{"name":"taiga-ui-proprietary-navigation","ecosystem":"npm","purl":"pkg:npm/taiga-ui-proprietary-navigation"},"versions":["20.1.2"]}]}

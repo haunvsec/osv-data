@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13469","published":"2026-08-06T19:23:10Z","modified":"2026-08-06T23:50:29.403493775Z","summary":"Malicious code in xxdxax (npm)","affected":[{"package":{"name":"xxdxax","ecosystem":"npm","purl":"pkg:npm/xxdxax"},"versions":["1.0.0","1.0.1"]}]}

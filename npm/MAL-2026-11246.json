@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11246","published":"2026-07-30T21:50:14Z","modified":"2026-07-31T01:37:37.862928942Z","aliases":["GHSA-r3x2-f3fq-4ph8"],"summary":"Malicious code in base-x-ts (npm)","affected":[{"package":{"name":"base-x-ts","ecosystem":"npm","purl":"pkg:npm/base-x-ts"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

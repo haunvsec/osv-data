@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13399","published":"2026-08-06T12:30:47Z","modified":"2026-08-06T13:34:54.754971530Z","summary":"Malicious code in agenthub-multiagent-mcp (npm)","affected":[{"package":{"name":"agenthub-multiagent-mcp","ecosystem":"npm","purl":"pkg:npm/agenthub-multiagent-mcp"},"versions":["1.57.0"]}]}

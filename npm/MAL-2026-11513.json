@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11513","published":"2026-08-03T15:49:54Z","modified":"2026-08-04T23:05:13.651483340Z","aliases":["GHSA-f4rq-x75f-gx73"],"summary":"Malicious code in internallib_v568 (npm)","affected":[{"package":{"name":"internallib_v568","ecosystem":"npm","purl":"pkg:npm/internallib_v568"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

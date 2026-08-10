@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12889","published":"2026-08-05T14:56:15Z","modified":"2026-08-05T15:50:44.253506425Z","summary":"Malicious code in bnpl-blocks-atom-bnpl-range (npm)","affected":[{"package":{"name":"bnpl-blocks-atom-bnpl-range","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-atom-bnpl-range"},"versions":["35.6.6"]}]}

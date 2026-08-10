@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13484","published":"2026-08-06T23:57:08Z","modified":"2026-08-07T01:19:50.107139538Z","summary":"Malicious code in merge-grid-stats (npm)","affected":[{"package":{"name":"merge-grid-stats","ecosystem":"npm","purl":"pkg:npm/merge-grid-stats"},"versions":["1.2.0","1.3.0","1.4.0","1.5.0","1.1.0","1.0.1","1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12112","published":"2026-08-05T06:18:00Z","modified":"2026-08-05T07:21:18.216190838Z","summary":"Malicious code in mnemonic-utils (npm)","affected":[{"package":{"name":"mnemonic-utils","ecosystem":"npm","purl":"pkg:npm/mnemonic-utils"},"versions":["1.0.1","1.0.2","1.0.0"]}]}

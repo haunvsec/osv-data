@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11258","published":"2026-07-30T22:02:45Z","modified":"2026-07-31T01:37:44.025313928Z","aliases":["GHSA-vcp3-wggf-xmf4"],"summary":"Malicious code in chalk-helper (npm)","affected":[{"package":{"name":"chalk-helper","ecosystem":"npm","purl":"pkg:npm/chalk-helper"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13382","published":"2026-08-05T13:20:15Z","modified":"2026-08-06T01:21:12.013846492Z","aliases":["GHSA-qc45-qw25-9w37"],"summary":"Malicious code in polyclob-api (npm)","affected":[{"package":{"name":"polyclob-api","ecosystem":"npm","purl":"pkg:npm/polyclob-api"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

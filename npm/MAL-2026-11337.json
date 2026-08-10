@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11337","published":"2026-07-30T22:07:22Z","modified":"2026-07-31T01:38:42.139484358Z","aliases":["GHSA-64cv-9vqh-jmc7"],"summary":"Malicious code in ncc-hyperapp (npm)","affected":[{"package":{"name":"ncc-hyperapp","ecosystem":"npm","purl":"pkg:npm/ncc-hyperapp"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

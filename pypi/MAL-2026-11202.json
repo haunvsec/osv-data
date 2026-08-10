@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11202","published":"2026-07-30T21:43:14Z","modified":"2026-08-04T22:05:25.958055841Z","summary":"Malicious code in ml-shared (PyPI)","affected":[{"package":{"name":"ml-shared","ecosystem":"PyPI","purl":"pkg:pypi/ml-shared"},"versions":["6.3.0","8.8.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12319","published":"2026-08-05T13:04:58Z","modified":"2026-08-05T13:35:05.565824050Z","summary":"Malicious code in @kite-js-tools/core (npm)","affected":[{"package":{"name":"@kite-js-tools/core","ecosystem":"npm","purl":"pkg:npm/%40kite-js-tools/core"},"versions":["1.0.0"]}]}

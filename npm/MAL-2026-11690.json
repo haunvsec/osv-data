@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11690","published":"2026-08-04T15:24:38Z","modified":"2026-08-05T08:50:45.071757263Z","aliases":["GHSA-cch9-6x9x-8g2p"],"summary":"Malicious code in @or-sdk/druid (npm)","affected":[{"package":{"name":"@or-sdk/druid","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/druid"},"versions":["1.4.7","1.4.8","1.4.9"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13204","published":"2026-08-05T15:08:10Z","modified":"2026-08-05T15:53:11.918585273Z","summary":"Malicious code in dwsai-dwsai-core (npm)","affected":[{"package":{"name":"dwsai-dwsai-core","ecosystem":"npm","purl":"pkg:npm/dwsai-dwsai-core"},"versions":["35.8.4"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11126","published":"2026-07-28T13:29:47Z","modified":"2026-07-28T14:37:21.287048291Z","summary":"Malicious code in app-sim-layer (npm)","affected":[{"package":{"name":"app-sim-layer","ecosystem":"npm","purl":"pkg:npm/app-sim-layer"},"versions":["2.1.6"]}]}

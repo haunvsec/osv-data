@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12392","published":"2026-08-05T13:01:07Z","modified":"2026-08-05T13:35:32.131402435Z","summary":"Malicious code in hyper-kube-config (npm)","affected":[{"package":{"name":"hyper-kube-config","ecosystem":"npm","purl":"pkg:npm/hyper-kube-config"},"versions":["1.1.1"]}]}

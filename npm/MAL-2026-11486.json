@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11486","published":"2026-07-31T21:53:22Z","modified":"2026-08-04T23:05:31.797545741Z","aliases":["GHSA-972c-x84x-rm4f"],"summary":"Malicious code in smart-npv-mcp (npm)","affected":[{"package":{"name":"smart-npv-mcp","ecosystem":"npm","purl":"pkg:npm/smart-npv-mcp"},"versions":["1.0.0"]}]}

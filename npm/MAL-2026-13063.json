@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13063","published":"2026-08-05T14:28:35Z","modified":"2026-08-05T15:52:04.330304750Z","summary":"Malicious code in boxy-maker-scroll (npm)","affected":[{"package":{"name":"boxy-maker-scroll","ecosystem":"npm","purl":"pkg:npm/boxy-maker-scroll"},"versions":["35.6.7"]}]}

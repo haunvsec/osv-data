@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13154","published":"2026-08-05T15:14:41Z","modified":"2026-08-05T15:52:48.801162126Z","summary":"Malicious code in dolyame-ui-filter (npm)","affected":[{"package":{"name":"dolyame-ui-filter","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-filter"},"versions":["35.5.3"]}]}

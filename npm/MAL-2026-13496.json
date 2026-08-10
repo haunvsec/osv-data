@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13496","published":"2026-08-07T12:12:54Z","modified":"2026-08-07T12:35:27.728067184Z","summary":"Malicious code in ded-pwa-c-cms (npm)","affected":[{"package":{"name":"ded-pwa-c-cms","ecosystem":"npm","purl":"pkg:npm/ded-pwa-c-cms"},"versions":["35.9.9"]}]}

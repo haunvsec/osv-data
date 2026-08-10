@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12233","published":"2026-08-05T09:04:10Z","modified":"2026-08-05T10:06:36.209170890Z","summary":"Malicious code in tinkoff-boxy-independent-kasko-form (npm)","affected":[{"package":{"name":"tinkoff-boxy-independent-kasko-form","ecosystem":"npm","purl":"pkg:npm/tinkoff-boxy-independent-kasko-form"},"versions":["20.1.3"]}]}

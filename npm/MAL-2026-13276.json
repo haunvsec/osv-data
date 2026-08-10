@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13276","published":"2026-08-05T15:28:59Z","modified":"2026-08-05T16:50:30.052115343Z","summary":"Malicious code in dippy-invertor (npm)","affected":[{"package":{"name":"dippy-invertor","ecosystem":"npm","purl":"pkg:npm/dippy-invertor"},"versions":["35.1.6"]}]}

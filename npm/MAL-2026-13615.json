@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13615","published":"2026-08-07T16:34:12Z","modified":"2026-08-07T17:04:53.722124952Z","summary":"Malicious code in agenthub-ai (npm)","affected":[{"package":{"name":"agenthub-ai","ecosystem":"npm","purl":"pkg:npm/agenthub-ai"},"versions":["0.20.1","0.20.2","0.20.4","0.20.3"]}]}

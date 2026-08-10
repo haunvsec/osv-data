@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12649","published":"2026-08-05T14:00:13Z","modified":"2026-08-05T14:36:07.154164789Z","summary":"Malicious code in clients-structure (npm)","affected":[{"package":{"name":"clients-structure","ecosystem":"npm","purl":"pkg:npm/clients-structure"},"versions":["35.9.8"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12571","published":"2026-08-05T14:10:29Z","modified":"2026-08-05T14:35:29.259279226Z","summary":"Malicious code in checkout-mobile-accounts-old (npm)","affected":[{"package":{"name":"checkout-mobile-accounts-old","ecosystem":"npm","purl":"pkg:npm/checkout-mobile-accounts-old"},"versions":["35.6.6"]}]}

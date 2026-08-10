@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13083","published":"2026-08-05T14:25:52Z","modified":"2026-08-05T15:52:14.293400563Z","summary":"Malicious code in boxy-sitree (npm)","affected":[{"package":{"name":"boxy-sitree","ecosystem":"npm","purl":"pkg:npm/boxy-sitree"},"versions":["35.8.7"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13366","published":"2026-08-05T18:08:10Z","modified":"2026-08-05T19:19:48.965662574Z","summary":"Malicious code in @workoscalif/sudoku (npm)","affected":[{"package":{"name":"@workoscalif/sudoku","ecosystem":"npm","purl":"pkg:npm/%40workoscalif/sudoku"},"versions":["1.4.0"]}]}

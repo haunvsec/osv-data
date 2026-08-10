@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12656","published":"2026-08-05T13:58:28Z","modified":"2026-08-05T14:36:10.717434587Z","summary":"Malicious code in cobrowsing-logger (npm)","affected":[{"package":{"name":"cobrowsing-logger","ecosystem":"npm","purl":"pkg:npm/cobrowsing-logger"},"versions":["35.7.7"]}]}

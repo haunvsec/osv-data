@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13281","published":"2026-08-05T15:29:07Z","modified":"2026-08-05T16:50:31.861327242Z","summary":"Malicious code in docsmate-docsmate-core (npm)","affected":[{"package":{"name":"docsmate-docsmate-core","ecosystem":"npm","purl":"pkg:npm/docsmate-docsmate-core"},"versions":["35.9.3"]}]}

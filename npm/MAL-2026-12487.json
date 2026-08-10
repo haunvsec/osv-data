@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12487","published":"2026-08-05T12:23:12Z","modified":"2026-08-05T13:36:21.209900184Z","summary":"Malicious code in travel-core-utils-object (npm)","affected":[{"package":{"name":"travel-core-utils-object","ecosystem":"npm","purl":"pkg:npm/travel-core-utils-object"},"versions":["20.3.4"]}]}

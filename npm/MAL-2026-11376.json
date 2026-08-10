@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11376","published":"2026-07-31T00:52:45Z","modified":"2026-07-31T01:39:07.138090296Z","aliases":["GHSA-xgm9-mpc5-qf5w"],"summary":"Malicious code in scketio (npm)","affected":[{"package":{"name":"scketio","ecosystem":"npm","purl":"pkg:npm/scketio"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

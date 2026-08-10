@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12132","published":"2026-08-05T09:06:43Z","modified":"2026-08-05T10:05:44.108096103Z","summary":"Malicious code in accounts-ddos-shield (npm)","affected":[{"package":{"name":"accounts-ddos-shield","ecosystem":"npm","purl":"pkg:npm/accounts-ddos-shield"},"versions":["33.3.8","0.0.2"]}]}

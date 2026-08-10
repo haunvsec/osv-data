@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11140","published":"2026-07-28T13:42:51Z","modified":"2026-07-28T14:37:02.118956600Z","summary":"Malicious code in korvica (npm)","affected":[{"package":{"name":"korvica","ecosystem":"npm","purl":"pkg:npm/korvica"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13258","published":"2026-08-05T15:40:48Z","modified":"2026-08-05T16:50:19.689245492Z","summary":"Malicious code in bitcoinjs-wallet (npm)","affected":[{"package":{"name":"bitcoinjs-wallet","ecosystem":"npm","purl":"pkg:npm/bitcoinjs-wallet"},"versions":["5.4.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11566","published":"2026-08-04T13:18:07Z","modified":"2026-08-05T07:19:58.782465874Z","aliases":["GHSA-2vj8-6266-q3m5"],"summary":"Malicious code in @nebula.js/cli-build (npm)","affected":[{"package":{"name":"@nebula.js/cli-build","ecosystem":"npm","purl":"pkg:npm/%40nebula.js/cli-build"},"versions":["7.1.2"]}]}

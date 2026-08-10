@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12780","published":"2026-08-05T13:40:11Z","modified":"2026-08-05T14:37:07.537556438Z","summary":"Malicious code in devplatform-spa-plugin-sentry (npm)","affected":[{"package":{"name":"devplatform-spa-plugin-sentry","ecosystem":"npm","purl":"pkg:npm/devplatform-spa-plugin-sentry"},"versions":["35.1.1"]}]}

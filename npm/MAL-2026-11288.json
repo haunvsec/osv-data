@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11288","published":"2026-07-30T22:04:11Z","modified":"2026-07-31T01:38:11.439394799Z","aliases":["GHSA-692q-284v-2hgw"],"summary":"Malicious code in ekspress (npm)","affected":[{"package":{"name":"ekspress","ecosystem":"npm","purl":"pkg:npm/ekspress"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

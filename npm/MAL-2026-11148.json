@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11148","published":"2026-07-28T13:42:45Z","modified":"2026-07-28T14:37:12.446556974Z","summary":"Malicious code in streak-core-lib (npm)","affected":[{"package":{"name":"streak-core-lib","ecosystem":"npm","purl":"pkg:npm/streak-core-lib"},"versions":["1.0.0"]}]}

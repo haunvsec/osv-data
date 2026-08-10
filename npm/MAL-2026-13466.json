@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13466","published":"2026-08-06T19:10:40Z","modified":"2026-08-07T01:19:49.581849153Z","summary":"Malicious code in wormgpt-cli (npm)","affected":[{"package":{"name":"wormgpt-cli","ecosystem":"npm","purl":"pkg:npm/wormgpt-cli"},"versions":["1.0.0","1.0.3","1.0.8","1.0.4","1.0.7","1.0.2","1.0.5","1.0.1","1.0.6"]}]}

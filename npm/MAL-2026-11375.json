@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11375","published":"2026-07-30T21:17:02Z","modified":"2026-07-31T01:39:06.862830386Z","aliases":["GHSA-8xj6-6h67-j7p3"],"summary":"Malicious code in rumjs (npm)","affected":[{"package":{"name":"rumjs","ecosystem":"npm","purl":"pkg:npm/rumjs"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

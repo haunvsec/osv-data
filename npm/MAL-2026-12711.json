@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12711","published":"2026-08-05T13:51:25Z","modified":"2026-08-05T14:36:37.421324188Z","summary":"Malicious code in devplatform-hooks (npm)","affected":[{"package":{"name":"devplatform-hooks","ecosystem":"npm","purl":"pkg:npm/devplatform-hooks"},"versions":["35.2.1"]}]}

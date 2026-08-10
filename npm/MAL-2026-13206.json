@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13206","published":"2026-08-05T15:06:37Z","modified":"2026-08-05T15:53:12.238350465Z","summary":"Malicious code in eacq-acq-menu-core (npm)","affected":[{"package":{"name":"eacq-acq-menu-core","ecosystem":"npm","purl":"pkg:npm/eacq-acq-menu-core"},"versions":["35.9.7"]}]}

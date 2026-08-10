@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13438","published":"2026-08-06T16:16:37Z","modified":"2026-08-06T23:50:06.319066115Z","summary":"Malicious code in cewe-npm-cops (npm)","affected":[{"package":{"name":"cewe-npm-cops","ecosystem":"npm","purl":"pkg:npm/cewe-npm-cops"},"versions":["99.9.9"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11807","published":"2026-08-04T15:54:38Z","modified":"2026-08-05T07:20:43.855409753Z","aliases":["GHSA-4hhj-rpx3-pw9f"],"summary":"Malicious code in @qlik/sprout-icons (npm)","affected":[{"package":{"name":"@qlik/sprout-icons","ecosystem":"npm","purl":"pkg:npm/%40qlik/sprout-icons"},"versions":["0.12.3"]}]}

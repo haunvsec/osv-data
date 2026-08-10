@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12142","published":"2026-08-05T08:55:07Z","modified":"2026-08-05T10:05:49.000680832Z","summary":"Malicious code in beaver-ui-ai-chat-layout (npm)","affected":[{"package":{"name":"beaver-ui-ai-chat-layout","ecosystem":"npm","purl":"pkg:npm/beaver-ui-ai-chat-layout"},"versions":["0.0.1"]}]}

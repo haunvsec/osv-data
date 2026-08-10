@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12025","published":"2026-08-04T13:02:00Z","modified":"2026-08-05T10:05:33.744570352Z","aliases":["GHSA-2x7p-3882-mgcg"],"summary":"Malicious code in @keyv/valkey (npm)","affected":[{"package":{"name":"@keyv/valkey","ecosystem":"npm","purl":"pkg:npm/%40keyv/valkey"},"versions":["6.0.0"]}]}

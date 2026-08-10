@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12036","published":"2026-08-05T01:00:29Z","modified":"2026-08-05T01:49:47.774563590Z","summary":"Malicious code in bigops-chat-tmsg (npm)","affected":[{"package":{"name":"bigops-chat-tmsg","ecosystem":"npm","purl":"pkg:npm/bigops-chat-tmsg"},"versions":["35.8.5"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12394","published":"2026-08-05T13:05:06Z","modified":"2026-08-05T13:35:33.232117080Z","summary":"Malicious code in jquery.ui.core (npm)","affected":[{"package":{"name":"jquery.ui.core","ecosystem":"npm","purl":"pkg:npm/jquery.ui.core"},"versions":["9999.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12138","published":"2026-08-05T08:50:47Z","modified":"2026-08-05T10:05:46.714338367Z","summary":"Malicious code in agent-bot-api (npm)","affected":[{"package":{"name":"agent-bot-api","ecosystem":"npm","purl":"pkg:npm/agent-bot-api"},"versions":["1.0.0","1.0.1"]}]}

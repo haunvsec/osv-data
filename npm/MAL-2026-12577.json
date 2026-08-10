@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12577","published":"2026-08-05T14:10:44Z","modified":"2026-08-05T14:35:32.095885060Z","summary":"Malicious code in checkout-mobile-legal (npm)","affected":[{"package":{"name":"checkout-mobile-legal","ecosystem":"npm","purl":"pkg:npm/checkout-mobile-legal"},"versions":["35.8.8"]}]}

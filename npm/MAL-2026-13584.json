@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13584","published":"2026-08-07T12:33:03Z","modified":"2026-08-07T13:20:45.581950285Z","summary":"Malicious code in dolyame-ui-inputsecure (npm)","affected":[{"package":{"name":"dolyame-ui-inputsecure","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-inputsecure"},"versions":["35.8.1"]}]}

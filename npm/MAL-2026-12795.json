@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12795","published":"2026-08-05T13:15:58Z","modified":"2026-08-05T14:37:14.942382670Z","summary":"Malicious code in knowledge-grader (npm)","affected":[{"package":{"name":"knowledge-grader","ecosystem":"npm","purl":"pkg:npm/knowledge-grader"},"versions":["1.0.1"]}]}

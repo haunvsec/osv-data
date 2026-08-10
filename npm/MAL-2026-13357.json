@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13357","published":"2026-08-05T17:18:39Z","modified":"2026-08-05T18:19:48.590204053Z","summary":"Malicious code in app-hsu-layer (npm)","affected":[{"package":{"name":"app-hsu-layer","ecosystem":"npm","purl":"pkg:npm/app-hsu-layer"},"versions":["2.1.7","2.1.6"]}]}

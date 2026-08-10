@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13630","published":"2026-08-08T00:47:57Z","modified":"2026-08-08T01:04:57.248320504Z","summary":"Malicious code in @rbx-ts/services (npm)","affected":[{"package":{"name":"@rbx-ts/services","ecosystem":"npm","purl":"pkg:npm/%40rbx-ts/services"},"versions":["1.6.0"]}]}

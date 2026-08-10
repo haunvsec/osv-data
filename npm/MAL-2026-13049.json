@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13049","published":"2026-08-05T14:31:01Z","modified":"2026-08-05T15:51:58.629925447Z","summary":"Malicious code in boxy-get-retry-url (npm)","affected":[{"package":{"name":"boxy-get-retry-url","ecosystem":"npm","purl":"pkg:npm/boxy-get-retry-url"},"versions":["35.4.4"]}]}

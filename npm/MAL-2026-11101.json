@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11101","published":"2026-07-27T23:02:28Z","modified":"2026-08-04T23:05:20.403164604Z","aliases":["GHSA-3v24-55c2-cpp9"],"summary":"Malicious code in motion-forge-css (npm)","affected":[{"package":{"name":"motion-forge-css","ecosystem":"npm","purl":"pkg:npm/motion-forge-css"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

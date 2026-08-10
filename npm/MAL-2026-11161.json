@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11161","published":"2026-07-28T21:05:44Z","modified":"2026-08-05T07:19:58.345034367Z","aliases":["GHSA-887f-rwr9-wp54"],"summary":"Malicious code in @joyfill/layouts (npm)","affected":[{"package":{"name":"@joyfill/layouts","ecosystem":"npm","purl":"pkg:npm/%40joyfill/layouts"},"versions":["0.1.2-2773.beta.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13260","published":"2026-08-05T15:31:12Z","modified":"2026-08-05T16:50:21.804201620Z","summary":"Malicious code in devplatform-spa-plugin-s3 (npm)","affected":[{"package":{"name":"devplatform-spa-plugin-s3","ecosystem":"npm","purl":"pkg:npm/devplatform-spa-plugin-s3"},"versions":["35.5.9"]}]}

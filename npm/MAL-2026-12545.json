@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12545","published":"2026-08-05T14:15:08Z","modified":"2026-08-05T14:35:10.301354965Z","summary":"Malicious code in checkout-bnpl-logic (npm)","affected":[{"package":{"name":"checkout-bnpl-logic","ecosystem":"npm","purl":"pkg:npm/checkout-bnpl-logic"},"versions":["35.9.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11181","published":"2026-07-29T05:25:40Z","modified":"2026-08-05T07:21:06.038204915Z","aliases":["GHSA-257g-ggr2-j398"],"summary":"Malicious code in chain-manager (npm)","affected":[{"package":{"name":"chain-manager","ecosystem":"npm","purl":"pkg:npm/chain-manager"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

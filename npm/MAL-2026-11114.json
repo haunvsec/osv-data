@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11114","published":"2026-07-09T00:00:00Z","modified":"2026-08-05T07:20:49.065118003Z","summary":"Malicious code in @wagni_bot/polygon (npm)","affected":[{"package":{"name":"@wagni_bot/polygon","ecosystem":"npm","purl":"pkg:npm/%40wagni_bot/polygon"},"versions":["1.0.0"]}]}

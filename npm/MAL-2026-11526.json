@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11526","published":"2026-08-04T21:11:37Z","modified":"2026-08-04T22:05:11.047454597Z","summary":"Malicious code in nagix-nodejs (npm)","affected":[{"package":{"name":"nagix-nodejs","ecosystem":"npm","purl":"pkg:npm/nagix-nodejs"},"versions":["2.1.6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12066","published":"2026-08-05T01:45:23Z","modified":"2026-08-05T03:20:49.395057260Z","summary":"Malicious code in hubert-appointment-v2-task-create-am (npm)","affected":[{"package":{"name":"hubert-appointment-v2-task-create-am","ecosystem":"npm","purl":"pkg:npm/hubert-appointment-v2-task-create-am"},"versions":["20.4.4"]}]}

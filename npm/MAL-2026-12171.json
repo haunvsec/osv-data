@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12171","published":"2026-08-05T08:46:55Z","modified":"2026-08-05T10:06:03.752092991Z","summary":"Malicious code in bigops-informer (npm)","affected":[{"package":{"name":"bigops-informer","ecosystem":"npm","purl":"pkg:npm/bigops-informer"},"versions":["35.4.8"]}]}

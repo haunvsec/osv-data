@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12017","published":"2026-08-04T13:03:51Z","modified":"2026-08-05T10:05:29.709659270Z","aliases":["GHSA-h8h5-wqhj-grm7"],"summary":"Malicious code in @keyv/mongo (npm)","affected":[{"package":{"name":"@keyv/mongo","ecosystem":"npm","purl":"pkg:npm/%40keyv/mongo"},"versions":["6.0.0"]}]}

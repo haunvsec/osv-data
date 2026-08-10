@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12549","published":"2026-08-05T14:13:56Z","modified":"2026-08-05T14:35:18.945033593Z","summary":"Malicious code in checkout-confirm-pos-order-sms-am (npm)","affected":[{"package":{"name":"checkout-confirm-pos-order-sms-am","ecosystem":"npm","purl":"pkg:npm/checkout-confirm-pos-order-sms-am"},"versions":["35.6.4"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12664","published":"2026-08-05T13:58:43Z","modified":"2026-08-05T14:36:14.383415002Z","summary":"Malicious code in constructor-blocks-renderer-mailings (npm)","affected":[{"package":{"name":"constructor-blocks-renderer-mailings","ecosystem":"npm","purl":"pkg:npm/constructor-blocks-renderer-mailings"},"versions":["35.3.3"]}]}

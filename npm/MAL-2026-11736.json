@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11736","published":"2026-08-04T15:24:29Z","modified":"2026-08-05T08:51:07.254209009Z","aliases":["GHSA-vmj9-j3m3-jj66"],"summary":"Malicious code in @or-sdk/view-templates (npm)","affected":[{"package":{"name":"@or-sdk/view-templates","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/view-templates"},"versions":["2.2.5","2.2.6","2.2.7"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13072","published":"2026-08-05T14:26:54Z","modified":"2026-08-05T15:52:09.501708459Z","summary":"Malicious code in boxy-mmb-types (npm)","affected":[{"package":{"name":"boxy-mmb-types","ecosystem":"npm","purl":"pkg:npm/boxy-mmb-types"},"versions":["35.4.1"]}]}

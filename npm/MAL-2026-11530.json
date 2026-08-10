@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11530","published":"2026-08-04T22:09:03Z","modified":"2026-08-04T23:04:46.977468411Z","summary":"Malicious code in @zzzgenesis00/etherjs (npm)","affected":[{"package":{"name":"@zzzgenesis00/etherjs","ecosystem":"npm","purl":"pkg:npm/%40zzzgenesis00/etherjs"},"versions":["6.15.0"]}]}

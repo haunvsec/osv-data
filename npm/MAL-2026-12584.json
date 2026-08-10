@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12584","published":"2026-08-05T14:10:14Z","modified":"2026-08-05T14:35:36.003982080Z","summary":"Malicious code in checkout-pay-button-logic (npm)","affected":[{"package":{"name":"checkout-pay-button-logic","ecosystem":"npm","purl":"pkg:npm/checkout-pay-button-logic"},"versions":["35.3.8"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13507","published":"2026-08-07T12:14:49Z","modified":"2026-08-07T12:35:12.992084128Z","summary":"Malicious code in dolyame-ui-inputcolor (npm)","affected":[{"package":{"name":"dolyame-ui-inputcolor","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-inputcolor"},"versions":["35.8.1"]}]}

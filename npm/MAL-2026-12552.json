@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12552","published":"2026-08-05T14:14:50Z","modified":"2026-08-05T14:35:20.236225511Z","summary":"Malicious code in checkout-create-token (npm)","affected":[{"package":{"name":"checkout-create-token","ecosystem":"npm","purl":"pkg:npm/checkout-create-token"},"versions":["35.5.6"]}]}

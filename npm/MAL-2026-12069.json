@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12069","published":"2026-08-05T01:42:09Z","modified":"2026-08-06T01:21:05.895043785Z","aliases":["GHSA-m63g-4mj7-6989"],"summary":"Malicious code in nxify-unic (npm)","affected":[{"package":{"name":"nxify-unic","ecosystem":"npm","purl":"pkg:npm/nxify-unic"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

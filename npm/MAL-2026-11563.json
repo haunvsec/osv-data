@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11563","published":"2026-08-04T18:00:00Z","modified":"2026-08-05T00:34:57.977224103Z","summary":"Malicious code in @deliveroo/reevent (npm)","affected":[{"package":{"name":"@deliveroo/reevent","ecosystem":"npm","purl":"pkg:npm/%40deliveroo/reevent"},"versions":["1.0.1"]}]}

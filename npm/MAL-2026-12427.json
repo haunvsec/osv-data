@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12427","published":"2026-08-05T13:00:07Z","modified":"2026-08-05T13:35:50.987818425Z","summary":"Malicious code in remote_session_elements (npm)","affected":[{"package":{"name":"remote_session_elements","ecosystem":"npm","purl":"pkg:npm/remote_session_elements"},"versions":["9999.0.0"]}]}

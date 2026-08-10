@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11306","published":"2026-07-30T22:49:53Z","modified":"2026-07-31T01:38:23.772528492Z","aliases":["GHSA-vm63-359p-h56j"],"summary":"Malicious code in express-wrapper (npm)","affected":[{"package":{"name":"express-wrapper","ecosystem":"npm","purl":"pkg:npm/express-wrapper"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

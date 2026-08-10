@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12967","published":"2026-08-05T14:44:09Z","modified":"2026-08-05T15:51:20.792620454Z","summary":"Malicious code in bnpl-blocks-independent-bnpl-product-grid (npm)","affected":[{"package":{"name":"bnpl-blocks-independent-bnpl-product-grid","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-independent-bnpl-product-grid"},"versions":["35.5.5"]}]}

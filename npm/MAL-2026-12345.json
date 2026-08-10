@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12345","published":"2026-08-05T12:24:56Z","modified":"2026-08-05T13:35:01.179693052Z","summary":"Malicious code in calendar-streak-core (npm)","affected":[{"package":{"name":"calendar-streak-core","ecosystem":"npm","purl":"pkg:npm/calendar-streak-core"},"versions":["1.0.0"]}]}

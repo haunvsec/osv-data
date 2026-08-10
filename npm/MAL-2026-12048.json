@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12048","published":"2026-08-05T01:32:48Z","modified":"2026-08-05T01:49:54.882368809Z","summary":"Malicious code in tinkoff-boxy-desktop-features-banner (npm)","affected":[{"package":{"name":"tinkoff-boxy-desktop-features-banner","ecosystem":"npm","purl":"pkg:npm/tinkoff-boxy-desktop-features-banner"},"versions":["20.2.4"]}]}

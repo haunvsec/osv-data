@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11717","published":"2026-08-04T15:24:30Z","modified":"2026-08-05T08:50:59.214177945Z","aliases":["GHSA-5w5r-mh69-mjh2"],"summary":"Malicious code in @or-sdk/permissions (npm)","affected":[{"package":{"name":"@or-sdk/permissions","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/permissions"},"versions":["2.8.1","2.8.2","2.8.3"]}]}

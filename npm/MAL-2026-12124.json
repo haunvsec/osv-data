@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12124","published":"2026-08-05T08:43:16Z","modified":"2026-08-05T10:05:40.348459670Z","summary":"Malicious code in @zzzgenesis00/tronweb3 (npm)","affected":[{"package":{"name":"@zzzgenesis00/tronweb3","ecosystem":"npm","purl":"pkg:npm/%40zzzgenesis00/tronweb3"},"versions":["5.3.2"]}]}

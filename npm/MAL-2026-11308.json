@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11308","published":"2026-07-30T22:04:11Z","modified":"2026-07-31T01:38:24.828592359Z","aliases":["GHSA-9wgj-2979-wcq2"],"summary":"Malicious code in express.jd (npm)","affected":[{"package":{"name":"express.jd","ecosystem":"npm","purl":"pkg:npm/express.jd"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

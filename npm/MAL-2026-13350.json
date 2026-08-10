@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13350","published":"2026-08-05T15:50:58Z","modified":"2026-08-05T16:51:07.233374283Z","summary":"Malicious code in native-hello-plugin (npm)","affected":[{"package":{"name":"native-hello-plugin","ecosystem":"npm","purl":"pkg:npm/native-hello-plugin"},"versions":["1.2.0"]}]}

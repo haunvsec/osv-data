@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12328","published":"2026-08-05T12:24:34Z","modified":"2026-08-06T09:34:53.904137514Z","aliases":["GHSA-x23q-mgjg-53mq"],"summary":"Malicious code in @rentwise/common (npm)","affected":[{"package":{"name":"@rentwise/common","ecosystem":"npm","purl":"pkg:npm/%40rentwise/common"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11796","published":"2026-08-04T15:49:20Z","modified":"2026-08-05T07:20:39.944031633Z","aliases":["GHSA-f6jv-v6m4-m7h4"],"summary":"Malicious code in @qlik/eslint-config-svelte (npm)","affected":[{"package":{"name":"@qlik/eslint-config-svelte","ecosystem":"npm","purl":"pkg:npm/%40qlik/eslint-config-svelte"},"versions":["0.1.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11370","published":"2026-07-30T22:04:11Z","modified":"2026-07-31T01:39:03.661656668Z","aliases":["GHSA-qxw9-cxcm-h598"],"summary":"Malicious code in reakt.js (npm)","affected":[{"package":{"name":"reakt.js","ecosystem":"npm","purl":"pkg:npm/reakt.js"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

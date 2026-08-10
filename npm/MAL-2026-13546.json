@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13546","published":"2026-08-07T12:28:26Z","modified":"2026-08-07T13:20:24.932565619Z","summary":"Malicious code in devplatform-spa-plugin-feature-toggle (npm)","affected":[{"package":{"name":"devplatform-spa-plugin-feature-toggle","ecosystem":"npm","purl":"pkg:npm/devplatform-spa-plugin-feature-toggle"},"versions":["35.7.4"]}]}

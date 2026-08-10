@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11184","published":"2026-07-29T16:07:07Z","modified":"2026-07-30T04:36:03.964986878Z","aliases":["GHSA-fh6v-xfxj-m87q"],"summary":"Malicious code in feedback-ai-sdk (npm)","affected":[{"package":{"name":"feedback-ai-sdk","ecosystem":"npm","purl":"pkg:npm/feedback-ai-sdk"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

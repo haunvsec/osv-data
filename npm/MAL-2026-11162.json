@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11162","published":"2026-07-28T16:20:08Z","modified":"2026-07-29T05:06:13.680654625Z","aliases":["GHSA-7w6g-48pj-7977"],"summary":"Malicious code in aone-kit (npm)","affected":[{"package":{"name":"aone-kit","ecosystem":"npm","purl":"pkg:npm/aone-kit"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

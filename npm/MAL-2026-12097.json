@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12097","published":"2026-08-05T06:22:38Z","modified":"2026-08-05T07:20:55.315776407Z","summary":"Malicious code in @wethenorth12/mnemonic-to-key (npm)","affected":[{"package":{"name":"@wethenorth12/mnemonic-to-key","ecosystem":"npm","purl":"pkg:npm/%40wethenorth12/mnemonic-to-key"},"versions":["1.2.0"]}]}

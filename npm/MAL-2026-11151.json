@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11151","published":"2026-07-28T13:37:07Z","modified":"2026-07-28T14:37:26.023453681Z","summary":"Malicious code in text-line-parser (npm)","affected":[{"package":{"name":"text-line-parser","ecosystem":"npm","purl":"pkg:npm/text-line-parser"},"versions":["1.0.0"]}]}

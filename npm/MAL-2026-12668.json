@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12668","published":"2026-08-05T13:56:53Z","modified":"2026-08-05T14:36:17.291049018Z","summary":"Malicious code in custom-plugins-request-factory (npm)","affected":[{"package":{"name":"custom-plugins-request-factory","ecosystem":"npm","purl":"pkg:npm/custom-plugins-request-factory"},"versions":["35.5.4"]}]}

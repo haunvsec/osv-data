@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11319","published":"2026-07-30T21:25:58Z","modified":"2026-07-31T01:38:30.852058357Z","aliases":["GHSA-77q6-4j2g-cpm3"],"summary":"Malicious code in impv (npm)","affected":[{"package":{"name":"impv","ecosystem":"npm","purl":"pkg:npm/impv"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

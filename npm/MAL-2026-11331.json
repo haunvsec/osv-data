@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11331","published":"2026-07-30T22:49:17Z","modified":"2026-07-31T01:38:38.871751678Z","aliases":["GHSA-g4wx-r72j-qg7j"],"summary":"Malicious code in merg-descripters (npm)","affected":[{"package":{"name":"merg-descripters","ecosystem":"npm","purl":"pkg:npm/merg-descripters"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

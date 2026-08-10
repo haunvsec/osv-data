@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12587","published":"2026-08-05T14:08:34Z","modified":"2026-08-05T14:35:37.761072147Z","summary":"Malicious code in checkout-postpone-until-render (npm)","affected":[{"package":{"name":"checkout-postpone-until-render","ecosystem":"npm","purl":"pkg:npm/checkout-postpone-until-render"},"versions":["35.2.4"]}]}

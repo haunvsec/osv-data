@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12613","published":"2026-08-05T14:05:44Z","modified":"2026-08-05T14:35:49.645900646Z","summary":"Malicious code in claims-domain (npm)","affected":[{"package":{"name":"claims-domain","ecosystem":"npm","purl":"pkg:npm/claims-domain"},"versions":["35.6.7"]}]}

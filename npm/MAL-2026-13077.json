@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13077","published":"2026-08-05T14:28:16Z","modified":"2026-08-05T15:52:11.544186545Z","summary":"Malicious code in boxy-render-unwrap (npm)","affected":[{"package":{"name":"boxy-render-unwrap","ecosystem":"npm","purl":"pkg:npm/boxy-render-unwrap"},"versions":["35.7.9"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11085","published":"2026-07-27T01:03:56Z","modified":"2026-07-27T10:08:29.335241345Z","aliases":["GHSA-r3jh-34p6-m7xp"],"summary":"Malicious code in fazzanime (npm)","affected":[{"package":{"name":"fazzanime","ecosystem":"npm","purl":"pkg:npm/fazzanime"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

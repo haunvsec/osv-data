@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11200","published":"2026-07-30T21:48:58Z","modified":"2026-07-30T22:18:19.128026939Z","summary":"Malicious code in ml-fdbk-shared (PyPI)","affected":[{"package":{"name":"ml-fdbk-shared","ecosystem":"PyPI","purl":"pkg:pypi/ml-fdbk-shared"},"versions":["1.0.0","2.3.1"]}]}

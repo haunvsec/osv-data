@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12091","published":"2026-08-05T06:24:22Z","modified":"2026-08-05T07:20:52.319985384Z","summary":"Malicious code in @wethenorth12/env-loader (npm)","affected":[{"package":{"name":"@wethenorth12/env-loader","ecosystem":"npm","purl":"pkg:npm/%40wethenorth12/env-loader"},"versions":["4.2.0"]}]}

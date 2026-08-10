@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11789","published":"2026-08-04T15:48:20Z","modified":"2026-08-05T08:51:10.603350049Z","aliases":["GHSA-82x8-wp99-8jjj"],"summary":"Malicious code in @qlik/embed-react (npm)","affected":[{"package":{"name":"@qlik/embed-react","ecosystem":"npm","purl":"pkg:npm/%40qlik/embed-react"},"versions":["2.5.3"]}]}

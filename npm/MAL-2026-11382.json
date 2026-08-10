@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11382","published":"2026-07-31T00:52:46Z","modified":"2026-07-31T01:39:11.059832805Z","aliases":["GHSA-9gmr-4p5m-j5vr"],"summary":"Malicious code in socketi (npm)","affected":[{"package":{"name":"socketi","ecosystem":"npm","purl":"pkg:npm/socketi"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

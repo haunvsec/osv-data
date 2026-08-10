@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11397","published":"2026-07-30T22:05:27Z","modified":"2026-07-31T01:39:19.942709587Z","aliases":["GHSA-9hj6-prhx-4vq7"],"summary":"Malicious code in testsetset (npm)","affected":[{"package":{"name":"testsetset","ecosystem":"npm","purl":"pkg:npm/testsetset"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

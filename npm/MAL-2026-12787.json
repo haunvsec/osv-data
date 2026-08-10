@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12787","published":"2026-08-05T13:15:13Z","modified":"2026-08-05T14:37:11.231622431Z","summary":"Malicious code in dynstrg-howto (npm)","affected":[{"package":{"name":"dynstrg-howto","ecosystem":"npm","purl":"pkg:npm/dynstrg-howto"},"versions":["1.0.1"]}]}

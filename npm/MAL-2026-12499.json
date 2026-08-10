@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12499","published":"2026-08-05T12:53:28Z","modified":"2026-08-06T01:21:44.927090561Z","aliases":["GHSA-xf3p-c585-94jr"],"summary":"Malicious code in wallet-analytics (npm)","affected":[{"package":{"name":"wallet-analytics","ecosystem":"npm","purl":"pkg:npm/wallet-analytics"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

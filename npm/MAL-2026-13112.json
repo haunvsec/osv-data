@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13112","published":"2026-08-05T14:21:00Z","modified":"2026-08-05T15:52:29.384527094Z","summary":"Malicious code in bpm-foundation-linters (npm)","affected":[{"package":{"name":"bpm-foundation-linters","ecosystem":"npm","purl":"pkg:npm/bpm-foundation-linters"},"versions":["35.3.9"]}]}

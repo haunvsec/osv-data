@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11650","published":"2026-08-04T15:19:24Z","modified":"2026-08-05T08:50:27.784007100Z","aliases":["GHSA-c8qf-7xhp-qpr9"],"summary":"Malicious code in @onereach/slack-helpers (npm)","affected":[{"package":{"name":"@onereach/slack-helpers","ecosystem":"npm","purl":"pkg:npm/%40onereach/slack-helpers"},"versions":["1.0.3","1.0.4","1.0.5"]}]}

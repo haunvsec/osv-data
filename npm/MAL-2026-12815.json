@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12815","published":"2026-08-05T13:18:35Z","modified":"2026-08-05T14:37:28.566898773Z","summary":"Malicious code in widget-forge (npm)","affected":[{"package":{"name":"widget-forge","ecosystem":"npm","purl":"pkg:npm/widget-forge"},"versions":["9999.0.0"]}]}

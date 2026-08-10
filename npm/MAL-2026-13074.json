@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13074","published":"2026-08-05T14:27:29Z","modified":"2026-08-05T15:52:10.381718073Z","summary":"Malicious code in boxy-page-story (npm)","affected":[{"package":{"name":"boxy-page-story","ecosystem":"npm","purl":"pkg:npm/boxy-page-story"},"versions":["35.8.5"]}]}

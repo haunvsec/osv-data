@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11365","published":"2026-07-30T22:42:47Z","modified":"2026-07-31T01:39:00.334827643Z","aliases":["GHSA-98mq-h6cv-m583"],"summary":"Malicious code in react-ag-grid (npm)","affected":[{"package":{"name":"react-ag-grid","ecosystem":"npm","purl":"pkg:npm/react-ag-grid"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

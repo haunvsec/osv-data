@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11507","published":"2026-08-03T15:41:21Z","modified":"2026-08-04T22:04:56.393450993Z","aliases":["GHSA-xjhx-6v3c-9cqp"],"summary":"Malicious code in beaver-ui-grid (npm)","affected":[{"package":{"name":"beaver-ui-grid","ecosystem":"npm","purl":"pkg:npm/beaver-ui-grid"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

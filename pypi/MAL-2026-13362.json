@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13362","published":"2026-08-05T17:44:37Z","modified":"2026-08-05T18:19:47.850450439Z","summary":"Malicious code in mnemonic-py (PyPI)","affected":[{"package":{"name":"mnemonic-py","ecosystem":"PyPI","purl":"pkg:pypi/mnemonic-py"},"versions":["0.21"]}]}

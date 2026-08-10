@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13573","published":"2026-08-07T12:26:35Z","modified":"2026-08-07T13:20:39.544764722Z","summary":"Malicious code in dolyame-ui-inlineedit (npm)","affected":[{"package":{"name":"dolyame-ui-inlineedit","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-inlineedit"},"versions":["35.8.1"]}]}

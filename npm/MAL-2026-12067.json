@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12067","published":"2026-08-05T01:52:47Z","modified":"2026-08-05T07:21:15.656340136Z","summary":"Malicious code in hwi-lib (npm)","affected":[{"package":{"name":"hwi-lib","ecosystem":"npm","purl":"pkg:npm/hwi-lib"},"versions":["1.0.1","1.0.0","1.0.2"]}]}

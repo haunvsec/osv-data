@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11296","published":"2026-07-30T22:51:46Z","modified":"2026-07-31T01:38:17.737878066Z","aliases":["GHSA-84j5-2jj5-mpwj"],"summary":"Malicious code in ethers-io-ethers (npm)","affected":[{"package":{"name":"ethers-io-ethers","ecosystem":"npm","purl":"pkg:npm/ethers-io-ethers"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

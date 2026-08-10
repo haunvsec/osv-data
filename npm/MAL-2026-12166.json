@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12166","published":"2026-08-05T08:47:13Z","modified":"2026-08-05T10:06:01.809151869Z","summary":"Malicious code in bigops-figma-to-html (npm)","affected":[{"package":{"name":"bigops-figma-to-html","ecosystem":"npm","purl":"pkg:npm/bigops-figma-to-html"},"versions":["35.5.5"]}]}

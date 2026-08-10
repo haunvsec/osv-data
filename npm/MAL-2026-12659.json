@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12659","published":"2026-08-05T13:58:01Z","modified":"2026-08-05T14:36:11.998087095Z","summary":"Malicious code in cobrowsing-utils (npm)","affected":[{"package":{"name":"cobrowsing-utils","ecosystem":"npm","purl":"pkg:npm/cobrowsing-utils"},"versions":["35.7.3"]}]}

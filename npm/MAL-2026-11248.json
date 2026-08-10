@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11248","published":"2026-07-30T22:35:37Z","modified":"2026-07-31T01:37:39.629421833Z","aliases":["GHSA-8mww-mrp7-gg4g"],"summary":"Malicious code in blbird (npm)","affected":[{"package":{"name":"blbird","ecosystem":"npm","purl":"pkg:npm/blbird"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

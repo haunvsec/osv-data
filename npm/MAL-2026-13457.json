@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13457","published":"2026-08-06T19:48:01Z","modified":"2026-08-06T23:50:20.421614873Z","summary":"Malicious code in shadowx-fca (npm)","affected":[{"package":{"name":"shadowx-fca","ecosystem":"npm","purl":"pkg:npm/shadowx-fca"},"versions":["10.0.0","10.1.0"]}]}

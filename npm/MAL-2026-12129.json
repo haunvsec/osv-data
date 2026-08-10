@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12129","published":"2026-08-05T09:07:08Z","modified":"2026-08-05T10:05:42.476541462Z","summary":"Malicious code in accounts-appointment (npm)","affected":[{"package":{"name":"accounts-appointment","ecosystem":"npm","purl":"pkg:npm/accounts-appointment"},"versions":["33.2.6","0.0.2"]}]}

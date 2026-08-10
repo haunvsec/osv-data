@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13502","published":"2026-08-07T12:12:04Z","modified":"2026-08-07T12:35:10.040259486Z","summary":"Malicious code in devplatform-react-mcp (npm)","affected":[{"package":{"name":"devplatform-react-mcp","ecosystem":"npm","purl":"pkg:npm/devplatform-react-mcp"},"versions":["35.5.6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12389","published":"2026-08-05T12:48:10Z","modified":"2026-08-05T13:35:30.481073324Z","summary":"Malicious code in github-app-sts-action (npm)","affected":[{"package":{"name":"github-app-sts-action","ecosystem":"npm","purl":"pkg:npm/github-app-sts-action"},"versions":["1.0.1"]}]}

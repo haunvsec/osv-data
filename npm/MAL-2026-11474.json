@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11474","published":"2026-07-31T22:00:03Z","modified":"2026-08-04T23:05:23.195225583Z","aliases":["GHSA-433p-gj42-fh44"],"summary":"Malicious code in paraglide-js (npm)","affected":[{"package":{"name":"paraglide-js","ecosystem":"npm","purl":"pkg:npm/paraglide-js"},"versions":["1.0.1"]}]}

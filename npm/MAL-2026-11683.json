@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11683","published":"2026-08-04T13:20:29Z","modified":"2026-08-05T07:20:28.847456725Z","aliases":["GHSA-xxv6-xr99-f75g"],"summary":"Malicious code in @or-sdk/contacts (npm)","affected":[{"package":{"name":"@or-sdk/contacts","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/contacts"},"versions":["4.7.5","4.7.6","4.7.7"]}]}

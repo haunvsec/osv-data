@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12625","published":"2026-08-05T14:03:16Z","modified":"2026-08-05T14:35:55.443566106Z","summary":"Malicious code in claims-historical-claims-domain (npm)","affected":[{"package":{"name":"claims-historical-claims-domain","ecosystem":"npm","purl":"pkg:npm/claims-historical-claims-domain"},"versions":["35.4.4"]}]}

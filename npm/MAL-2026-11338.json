@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11338","published":"2026-07-30T22:07:22Z","modified":"2026-07-31T01:38:43.132622052Z","aliases":["GHSA-865v-rvmq-73cp"],"summary":"Malicious code in ncc-web (npm)","affected":[{"package":{"name":"ncc-web","ecosystem":"npm","purl":"pkg:npm/ncc-web"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

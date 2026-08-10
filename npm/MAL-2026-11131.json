@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11131","published":"2026-07-28T13:32:35Z","modified":"2026-07-28T14:37:23.930221744Z","summary":"Malicious code in basic-vite (npm)","affected":[{"package":{"name":"basic-vite","ecosystem":"npm","purl":"pkg:npm/basic-vite"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11361","published":"2026-07-30T22:34:46Z","modified":"2026-07-31T01:38:57.958057026Z","aliases":["GHSA-8hpf-vg2v-v9wc"],"summary":"Malicious code in puppetewebr (npm)","affected":[{"package":{"name":"puppetewebr","ecosystem":"npm","purl":"pkg:npm/puppetewebr"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

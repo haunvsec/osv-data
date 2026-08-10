@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11528","published":"2026-08-04T22:04:54Z","modified":"2026-08-04T23:04:43.092660002Z","summary":"Malicious code in @ks-openclaw/kim (npm)","affected":[{"package":{"name":"@ks-openclaw/kim","ecosystem":"npm","purl":"pkg:npm/%40ks-openclaw/kim"},"versions":["99.0.0","99.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12249","published":"2026-08-05T08:57:00Z","modified":"2026-08-05T10:06:44.045477953Z","summary":"Malicious code in tinkoff-pfp-block-mobile-panels (npm)","affected":[{"package":{"name":"tinkoff-pfp-block-mobile-panels","ecosystem":"npm","purl":"pkg:npm/tinkoff-pfp-block-mobile-panels"},"versions":["20.2.7"]}]}

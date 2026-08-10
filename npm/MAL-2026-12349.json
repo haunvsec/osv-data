@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12349","published":"2026-08-05T12:55:26Z","modified":"2026-08-05T13:35:03.238686013Z","summary":"Malicious code in chai-assertions-plus (npm)","affected":[{"package":{"name":"chai-assertions-plus","ecosystem":"npm","purl":"pkg:npm/chai-assertions-plus"},"versions":["6.0.6","6.0.5"]}]}

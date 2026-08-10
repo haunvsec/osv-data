@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12717","published":"2026-08-05T13:49:40Z","modified":"2026-08-05T14:36:39.539145707Z","summary":"Malicious code in devplatform-jscodeshift-plugin (npm)","affected":[{"package":{"name":"devplatform-jscodeshift-plugin","ecosystem":"npm","purl":"pkg:npm/devplatform-jscodeshift-plugin"},"versions":["35.4.1"]}]}

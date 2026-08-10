@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12428","published":"2026-08-05T12:25:23Z","modified":"2026-08-05T13:35:51.314118923Z","summary":"Malicious code in rollup-packages-node-polyfills (npm)","affected":[{"package":{"name":"rollup-packages-node-polyfills","ecosystem":"npm","purl":"pkg:npm/rollup-packages-node-polyfills"},"versions":["0.13.2","0.0.1","0.13.1","0.13.0"]}]}

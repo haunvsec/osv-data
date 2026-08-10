@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11971","published":"2026-08-04T10:43:17Z","modified":"2026-08-05T00:37:55.422077637Z","aliases":["GHSA-8jxr-wprf-45g8"],"summary":"Malicious code in flat-cache (npm)","affected":[{"package":{"name":"flat-cache","ecosystem":"npm","purl":"pkg:npm/flat-cache"},"versions":["6.1.24"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12566","published":"2026-08-05T14:12:02Z","modified":"2026-08-05T14:35:27.345830458Z","summary":"Malicious code in checkout-iframe (npm)","affected":[{"package":{"name":"checkout-iframe","ecosystem":"npm","purl":"pkg:npm/checkout-iframe"},"versions":["35.7.1"]}]}

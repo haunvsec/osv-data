@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12157","published":"2026-08-05T08:45:15Z","modified":"2026-08-05T10:05:57.661961489Z","summary":"Malicious code in bigops-chats (npm)","affected":[{"package":{"name":"bigops-chats","ecosystem":"npm","purl":"pkg:npm/bigops-chats"},"versions":["35.9.6"]}]}

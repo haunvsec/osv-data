@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12139","published":"2026-08-05T08:53:00Z","modified":"2026-08-05T10:05:47.678021132Z","summary":"Malicious code in akamai-sensorv3 (npm)","affected":[{"package":{"name":"akamai-sensorv3","ecosystem":"npm","purl":"pkg:npm/akamai-sensorv3"},"versions":["1.0.0"]}]}

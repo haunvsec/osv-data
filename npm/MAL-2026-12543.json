@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12543","published":"2026-08-05T14:16:04Z","modified":"2026-08-05T14:35:09.137628363Z","summary":"Malicious code in checkout-base-analytics-data (npm)","affected":[{"package":{"name":"checkout-base-analytics-data","ecosystem":"npm","purl":"pkg:npm/checkout-base-analytics-data"},"versions":["35.9.1"]}]}

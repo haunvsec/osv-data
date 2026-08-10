@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13624","published":"2026-08-07T17:25:09Z","modified":"2026-08-07T18:05:07.243123677Z","summary":"Malicious code in @depup/memfs (npm)","affected":[{"package":{"name":"@depup/memfs","ecosystem":"npm","purl":"pkg:npm/%40depup/memfs"},"versions":["4.67.0-depup.0"]}]}

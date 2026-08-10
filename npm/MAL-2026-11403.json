@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11403","published":"2026-07-30T22:05:27Z","modified":"2026-07-31T01:39:23.349937642Z","aliases":["GHSA-2rj9-jmvj-4cr8"],"summary":"Malicious code in tsetnpmackage (npm)","affected":[{"package":{"name":"tsetnpmackage","ecosystem":"npm","purl":"pkg:npm/tsetnpmackage"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

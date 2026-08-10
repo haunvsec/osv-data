@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2026-11043","published":"2026-07-20T00:00:00Z","modified":"2026-07-24T07:05:20.943206092Z","summary":"Malicious code in supplyhub (npm)","affected":[{"package":{"name":"supplyhub","ecosystem":"npm","purl":"pkg:npm/supplyhub"},"versions":["1.0.2"]}]}
+{"schema_version":"1.7.5","id":"MAL-2026-11043","published":"2026-07-20T00:00:00Z","modified":"2026-07-28T14:36:51.914080464Z","summary":"Malicious code in supplyhub (npm)","affected":[{"package":{"name":"supplyhub","ecosystem":"npm","purl":"pkg:npm/supplyhub"},"versions":["1.0.2"]}]}

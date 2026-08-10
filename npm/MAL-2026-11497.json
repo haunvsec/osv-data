@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11497","published":"2026-07-31T16:10:06Z","modified":"2026-08-04T23:05:43.292063681Z","aliases":["GHSA-3w4v-4hp3-9934"],"summary":"Malicious code in vite-tsconfig-svg (npm)","affected":[{"package":{"name":"vite-tsconfig-svg","ecosystem":"npm","purl":"pkg:npm/vite-tsconfig-svg"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

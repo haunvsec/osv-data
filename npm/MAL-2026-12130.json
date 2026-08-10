@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12130","published":"2026-08-05T09:07:00Z","modified":"2026-08-05T10:05:43.694991243Z","summary":"Malicious code in accounts-card-design-picker (npm)","affected":[{"package":{"name":"accounts-card-design-picker","ecosystem":"npm","purl":"pkg:npm/accounts-card-design-picker"},"versions":["33.5.1","0.0.2"]}]}

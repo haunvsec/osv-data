@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12099","published":"2026-08-05T06:23:53Z","modified":"2026-08-05T07:20:56.534535753Z","summary":"Malicious code in @wethenorth12/playwrite (npm)","affected":[{"package":{"name":"@wethenorth12/playwrite","ecosystem":"npm","purl":"pkg:npm/%40wethenorth12/playwrite"},"versions":["1.48.0"]}]}

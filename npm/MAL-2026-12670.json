@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12670","published":"2026-08-05T13:58:09Z","modified":"2026-08-05T14:36:18.590864213Z","summary":"Malicious code in dc-dc-core (npm)","affected":[{"package":{"name":"dc-dc-core","ecosystem":"npm","purl":"pkg:npm/dc-dc-core"},"versions":["35.3.3"]}]}

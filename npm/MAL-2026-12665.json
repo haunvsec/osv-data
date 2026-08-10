@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12665","published":"2026-08-05T13:58:51Z","modified":"2026-08-05T14:36:14.656032933Z","summary":"Malicious code in contract-contract-builder (npm)","affected":[{"package":{"name":"contract-contract-builder","ecosystem":"npm","purl":"pkg:npm/contract-contract-builder"},"versions":["35.5.2"]}]}

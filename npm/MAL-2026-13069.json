@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13069","published":"2026-08-05T14:27:47Z","modified":"2026-08-05T15:52:08.134085309Z","summary":"Malicious code in boxy-mm-advisor (npm)","affected":[{"package":{"name":"boxy-mm-advisor","ecosystem":"npm","purl":"pkg:npm/boxy-mm-advisor"},"versions":["35.3.2"]}]}

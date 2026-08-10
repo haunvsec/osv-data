@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13203","published":"2026-08-05T15:07:27Z","modified":"2026-08-05T15:53:11.402369229Z","summary":"Malicious code in dws-frontend-dws-frontend-core (npm)","affected":[{"package":{"name":"dws-frontend-dws-frontend-core","ecosystem":"npm","purl":"pkg:npm/dws-frontend-dws-frontend-core"},"versions":["35.4.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12693","published":"2026-08-05T13:53:17Z","modified":"2026-08-05T14:36:28.923352611Z","summary":"Malicious code in devplatform-api-v1-endpoint (npm)","affected":[{"package":{"name":"devplatform-api-v1-endpoint","ecosystem":"npm","purl":"pkg:npm/devplatform-api-v1-endpoint"},"versions":["35.9.8"]}]}

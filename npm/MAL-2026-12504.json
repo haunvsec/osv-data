@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12504","published":"2026-08-05T13:09:23Z","modified":"2026-08-06T23:49:59.429352331Z","summary":"Malicious code in @cy4dev/cydemo-bg-color (npm)","affected":[{"package":{"name":"@cy4dev/cydemo-bg-color","ecosystem":"npm","purl":"pkg:npm/%40cy4dev/cydemo-bg-color"},"versions":["5.0.0","7.0.0","6.0.0","4.0.0"]}]}

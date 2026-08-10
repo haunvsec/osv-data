@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11782","published":"2026-08-04T13:23:46Z","modified":"2026-08-05T08:51:08.475648268Z","aliases":["GHSA-4p68-ppf4-vjwc"],"summary":"Malicious code in @picsart/gen-ai (npm)","affected":[{"package":{"name":"@picsart/gen-ai","ecosystem":"npm","purl":"pkg:npm/%40picsart/gen-ai"},"versions":["2.55.11"]}]}

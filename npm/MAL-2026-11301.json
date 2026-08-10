@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11301","published":"2026-07-30T22:34:11Z","modified":"2026-07-31T01:38:20.872672738Z","aliases":["GHSA-grfv-7rvr-chw4"],"summary":"Malicious code in etwl (npm)","affected":[{"package":{"name":"etwl","ecosystem":"npm","purl":"pkg:npm/etwl"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11170","published":"2026-07-29T08:30:33Z","modified":"2026-08-05T06:35:08.478069597Z","summary":"Malicious code in @finxsecdemo/utils (npm)","affected":[{"package":{"name":"@finxsecdemo/utils","ecosystem":"npm","purl":"pkg:npm/%40finxsecdemo/utils"},"versions":["1.0.2"]}]}

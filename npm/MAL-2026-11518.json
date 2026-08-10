@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11518","published":"2026-08-04T09:10:31Z","modified":"2026-08-04T23:05:05.220353369Z","summary":"Malicious code in exnesss (npm)","affected":[{"package":{"name":"exnesss","ecosystem":"npm","purl":"pkg:npm/exnesss"},"versions":["0.0.1"]}]}

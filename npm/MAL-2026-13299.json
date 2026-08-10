@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13299","published":"2026-08-05T15:26:05Z","modified":"2026-08-05T16:50:41.017331913Z","summary":"Malicious code in dolyame-boxy-component-story-name (npm)","affected":[{"package":{"name":"dolyame-boxy-component-story-name","ecosystem":"npm","purl":"pkg:npm/dolyame-boxy-component-story-name"},"versions":["35.3.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12009","published":"2026-08-04T13:01:33Z","modified":"2026-08-05T10:05:26.711594033Z","aliases":["GHSA-mvqh-vgj4-mxx9"],"summary":"Malicious code in @keyv/compress-brotli (npm)","affected":[{"package":{"name":"@keyv/compress-brotli","ecosystem":"npm","purl":"pkg:npm/%40keyv/compress-brotli"},"versions":["6.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11313","published":"2026-07-30T22:51:47Z","modified":"2026-07-31T01:38:27.740066494Z","aliases":["GHSA-224j-655w-2vrq"],"summary":"Malicious code in fsextrra (npm)","affected":[{"package":{"name":"fsextrra","ecosystem":"npm","purl":"pkg:npm/fsextrra"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

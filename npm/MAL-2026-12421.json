@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12421","published":"2026-08-05T12:31:04Z","modified":"2026-08-05T13:35:47.578330565Z","summary":"Malicious code in pvm-autodoc (npm)","affected":[{"package":{"name":"pvm-autodoc","ecosystem":"npm","purl":"pkg:npm/pvm-autodoc"},"versions":["20.4.6"]}]}

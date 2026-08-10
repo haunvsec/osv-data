@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12760","published":"2026-08-05T13:44:37Z","modified":"2026-08-05T14:36:58.323731813Z","summary":"Malicious code in devplatform-spa-plugin-analytics (npm)","affected":[{"package":{"name":"devplatform-spa-plugin-analytics","ecosystem":"npm","purl":"pkg:npm/devplatform-spa-plugin-analytics"},"versions":["35.5.7"]}]}

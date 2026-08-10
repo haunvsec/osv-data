@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12674","published":"2026-08-05T13:56:10Z","modified":"2026-08-05T14:36:20.003974433Z","summary":"Malicious code in ded-ps-events-ded-ps-events-core (npm)","affected":[{"package":{"name":"ded-ps-events-ded-ps-events-core","ecosystem":"npm","purl":"pkg:npm/ded-ps-events-ded-ps-events-core"},"versions":["35.4.2"]}]}

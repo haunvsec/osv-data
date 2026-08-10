@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11302","published":"2026-07-30T22:04:11Z","modified":"2026-07-31T01:38:21.168664942Z","aliases":["GHSA-f9fq-7h8v-5c89"],"summary":"Malicious code in expres.js (npm)","affected":[{"package":{"name":"expres.js","ecosystem":"npm","purl":"pkg:npm/expres.js"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11614","published":"2026-08-04T13:25:47Z","modified":"2026-08-05T08:50:09.492838437Z","aliases":["GHSA-jhfg-vcxw-v5mc"],"summary":"Malicious code in @onereach/orest-cli (npm)","affected":[{"package":{"name":"@onereach/orest-cli","ecosystem":"npm","purl":"pkg:npm/%40onereach/orest-cli"},"versions":["2.4.1","2.4.2","2.4.3"]}]}

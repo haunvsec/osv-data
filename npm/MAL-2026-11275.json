@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11275","published":"2026-07-30T21:25:58Z","modified":"2026-07-31T01:37:58.225798812Z","aliases":["GHSA-gv8r-35vj-8jj4"],"summary":"Malicious code in datdbs (npm)","affected":[{"package":{"name":"datdbs","ecosystem":"npm","purl":"pkg:npm/datdbs"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

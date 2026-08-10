@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11180","published":"2026-07-29T16:07:07Z","modified":"2026-07-30T04:36:14.358619808Z","aliases":["GHSA-c6xg-mcq6-m594"],"summary":"Malicious code in aone-cloud-cli (npm)","affected":[{"package":{"name":"aone-cloud-cli","ecosystem":"npm","purl":"pkg:npm/aone-cloud-cli"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

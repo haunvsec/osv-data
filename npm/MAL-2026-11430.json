@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11430","published":"2026-08-02T19:04:25Z","modified":"2026-08-04T22:05:08.835232726Z","summary":"Malicious code in list-issue-predecessor-dependencies-block (npm)","affected":[{"package":{"name":"list-issue-predecessor-dependencies-block","ecosystem":"npm","purl":"pkg:npm/list-issue-predecessor-dependencies-block"},"versions":["99.0.0"]}]}

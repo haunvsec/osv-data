@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12686","published":"2026-08-05T13:54:29Z","modified":"2026-08-05T14:36:25.047020044Z","summary":"Malicious code in delivery-ci-upgrade-form (npm)","affected":[{"package":{"name":"delivery-ci-upgrade-form","ecosystem":"npm","purl":"pkg:npm/delivery-ci-upgrade-form"},"versions":["35.5.9"]}]}

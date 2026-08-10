@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13405","published":"2026-08-06T12:30:54Z","modified":"2026-08-06T13:34:48.577530562Z","summary":"Malicious code in vitest-preview-pro-all (npm)","affected":[{"package":{"name":"vitest-preview-pro-all","ecosystem":"npm","purl":"pkg:npm/vitest-preview-pro-all"},"versions":["10.0.3"]}]}

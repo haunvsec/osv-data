@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11412","published":"2026-07-30T22:35:06Z","modified":"2026-07-31T01:39:28.451844530Z","aliases":["GHSA-2v4j-qgf9-fvqc"],"summary":"Malicious code in zcas (npm)","affected":[{"package":{"name":"zcas","ecosystem":"npm","purl":"pkg:npm/zcas"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

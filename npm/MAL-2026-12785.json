@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12785","published":"2026-08-05T13:41:07Z","modified":"2026-08-05T14:37:09.744862482Z","summary":"Malicious code in devplatform-spa-tokens (npm)","affected":[{"package":{"name":"devplatform-spa-tokens","ecosystem":"npm","purl":"pkg:npm/devplatform-spa-tokens"},"versions":["35.3.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11137","published":"2026-07-28T13:32:08Z","modified":"2026-07-28T14:36:59.770927577Z","summary":"Malicious code in jobber-app-template-react (npm)","affected":[{"package":{"name":"jobber-app-template-react","ecosystem":"npm","purl":"pkg:npm/jobber-app-template-react"},"versions":["1.0.1"]}]}

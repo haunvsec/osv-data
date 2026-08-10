@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13494","published":"2026-08-07T12:11:49Z","modified":"2026-08-07T12:35:26.350888764Z","summary":"Malicious code in bigops-telephony-mock (npm)","affected":[{"package":{"name":"bigops-telephony-mock","ecosystem":"npm","purl":"pkg:npm/bigops-telephony-mock"},"versions":["35.7.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12159","published":"2026-08-05T08:47:24Z","modified":"2026-08-05T10:05:58.191950230Z","summary":"Malicious code in bigops-cobrowsing (npm)","affected":[{"package":{"name":"bigops-cobrowsing","ecosystem":"npm","purl":"pkg:npm/bigops-cobrowsing"},"versions":["35.4.9"]}]}

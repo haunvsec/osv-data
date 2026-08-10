@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13336","published":"2026-08-05T15:21:15Z","modified":"2026-08-05T16:50:58.828592704Z","summary":"Malicious code in dolyame-boxy-markdown (npm)","affected":[{"package":{"name":"dolyame-boxy-markdown","ecosystem":"npm","purl":"pkg:npm/dolyame-boxy-markdown"},"versions":["35.9.4"]}]}

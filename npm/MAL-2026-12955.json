@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12955","published":"2026-08-05T14:45:26Z","modified":"2026-08-05T15:51:15.690051512Z","summary":"Malicious code in bnpl-blocks-independent-bnpl-faq (npm)","affected":[{"package":{"name":"bnpl-blocks-independent-bnpl-faq","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-independent-bnpl-faq"},"versions":["35.1.1"]}]}

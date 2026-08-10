@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12964","published":"2026-08-05T14:42:52Z","modified":"2026-08-05T15:51:19.511102404Z","summary":"Malicious code in bnpl-blocks-independent-bnpl-origination (npm)","affected":[{"package":{"name":"bnpl-blocks-independent-bnpl-origination","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-independent-bnpl-origination"},"versions":["35.6.3"]}]}

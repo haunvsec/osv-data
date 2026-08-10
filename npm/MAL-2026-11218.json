@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11218","published":"2026-07-30T22:07:23Z","modified":"2026-07-31T01:37:20.367930994Z","aliases":["GHSA-x4m3-33mp-hhf6"],"summary":"Malicious code in @nordea-web/ui (npm)","affected":[{"package":{"name":"@nordea-web/ui","ecosystem":"npm","purl":"pkg:npm/%40nordea-web/ui"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

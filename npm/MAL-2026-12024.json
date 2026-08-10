@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12024","published":"2026-08-04T13:01:24Z","modified":"2026-08-05T10:05:33.751543302Z","aliases":["GHSA-j45w-h5m8-v3cq"],"summary":"Malicious code in @keyv/test-suite (npm)","affected":[{"package":{"name":"@keyv/test-suite","ecosystem":"npm","purl":"pkg:npm/%40keyv/test-suite"},"versions":["6.0.0"]}]}

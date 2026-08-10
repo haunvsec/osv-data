@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12137","published":"2026-08-05T08:50:09Z","modified":"2026-08-05T10:05:46.409810944Z","summary":"Malicious code in accounts-timeline (npm)","affected":[{"package":{"name":"accounts-timeline","ecosystem":"npm","purl":"pkg:npm/accounts-timeline"},"versions":["9.6.9","9.6.10","9.6.11","9.6.12","12.3.7"]}]}

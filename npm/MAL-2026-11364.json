@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11364","published":"2026-07-30T22:04:11Z","modified":"2026-07-31T01:38:59.638239959Z","aliases":["GHSA-m47m-vg8r-jqxm"],"summary":"Malicious code in reac.js (npm)","affected":[{"package":{"name":"reac.js","ecosystem":"npm","purl":"pkg:npm/reac.js"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

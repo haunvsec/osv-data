@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12417","published":"2026-08-05T12:46:11Z","modified":"2026-08-05T13:35:46.109439493Z","summary":"Malicious code in post-css-transfer (npm)","affected":[{"package":{"name":"post-css-transfer","ecosystem":"npm","purl":"pkg:npm/post-css-transfer"},"versions":["0.0.1"]}]}

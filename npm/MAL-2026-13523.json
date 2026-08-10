@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13523","published":"2026-08-07T12:31:20Z","modified":"2026-08-07T13:20:13.449226399Z","summary":"Malicious code in beaver-ui-popover-marker (npm)","affected":[{"package":{"name":"beaver-ui-popover-marker","ecosystem":"npm","purl":"pkg:npm/beaver-ui-popover-marker"},"versions":["35.5.8"]}]}

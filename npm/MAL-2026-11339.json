@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11339","published":"2026-07-30T22:14:58Z","modified":"2026-07-31T01:38:44.855038496Z","aliases":["GHSA-jw4q-3q2m-r329"],"summary":"Malicious code in node-fetch-core (npm)","affected":[{"package":{"name":"node-fetch-core","ecosystem":"npm","purl":"pkg:npm/node-fetch-core"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

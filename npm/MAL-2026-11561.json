@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11561","published":"2026-08-04T11:36:30Z","modified":"2026-08-05T07:19:54.848980349Z","aliases":["GHSA-8v3r-r9vg-5r66"],"summary":"Malicious code in @cacheable/utils (npm)","affected":[{"package":{"name":"@cacheable/utils","ecosystem":"npm","purl":"pkg:npm/%40cacheable/utils"},"versions":["2.5.1"]}]}

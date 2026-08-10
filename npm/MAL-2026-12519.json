@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12519","published":"2026-08-05T14:18:15Z","modified":"2026-08-05T14:35:16.828069137Z","summary":"Malicious code in bs-bs-core (npm)","affected":[{"package":{"name":"bs-bs-core","ecosystem":"npm","purl":"pkg:npm/bs-bs-core"},"versions":["35.1.6"]}]}

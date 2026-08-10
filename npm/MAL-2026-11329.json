@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11329","published":"2026-07-30T22:32:34Z","modified":"2026-07-31T01:38:37.536476878Z","aliases":["GHSA-5f53-x2hv-vqqx"],"summary":"Malicious code in maalxios (npm)","affected":[{"package":{"name":"maalxios","ecosystem":"npm","purl":"pkg:npm/maalxios"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

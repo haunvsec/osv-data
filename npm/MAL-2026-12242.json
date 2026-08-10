@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12242","published":"2026-08-05T09:00:35Z","modified":"2026-08-05T10:06:40.708355540Z","summary":"Malicious code in tinkoff-fb-rf-add-application (npm)","affected":[{"package":{"name":"tinkoff-fb-rf-add-application","ecosystem":"npm","purl":"pkg:npm/tinkoff-fb-rf-add-application"},"versions":["20.3.5"]}]}

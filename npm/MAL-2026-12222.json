@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12222","published":"2026-08-05T09:05:34Z","modified":"2026-08-05T10:06:31.399995936Z","summary":"Malicious code in tailwind-opentype (npm)","affected":[{"package":{"name":"tailwind-opentype","ecosystem":"npm","purl":"pkg:npm/tailwind-opentype"},"versions":["1.2.3"]}]}

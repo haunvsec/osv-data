@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13356","published":"2026-08-05T16:37:52Z","modified":"2026-08-05T17:20:11.135790043Z","summary":"Malicious code in chai-foundry (npm)","affected":[{"package":{"name":"chai-foundry","ecosystem":"npm","purl":"pkg:npm/chai-foundry"},"versions":["7.0.3","7.0.2"]}]}

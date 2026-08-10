@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13451","published":"2026-08-06T16:23:25Z","modified":"2026-08-06T23:50:16.668137377Z","summary":"Malicious code in nms-dashboard-js (npm)","affected":[{"package":{"name":"nms-dashboard-js","ecosystem":"npm","purl":"pkg:npm/nms-dashboard-js"},"versions":["9.9.11"]}]}

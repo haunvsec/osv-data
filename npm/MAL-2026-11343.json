@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11343","published":"2026-07-30T21:25:58Z","modified":"2026-07-31T01:38:46.760093660Z","aliases":["GHSA-jc34-6355-x2gh"],"summary":"Malicious code in page_colors (npm)","affected":[{"package":{"name":"page_colors","ecosystem":"npm","purl":"pkg:npm/page_colors"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

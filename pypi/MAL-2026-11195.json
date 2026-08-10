@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11195","published":"2026-07-30T08:51:50Z","modified":"2026-08-05T07:21:41.706463597Z","summary":"Malicious code in phabricator-client (PyPI)","affected":[{"package":{"name":"phabricator-client","ecosystem":"PyPI","purl":"pkg:pypi/phabricator-client"},"versions":["99.0.0","99.0.1","99.0.2","99.0.3","99.0.4"]}]}

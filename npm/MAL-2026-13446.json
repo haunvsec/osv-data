@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13446","published":"2026-08-06T19:11:04Z","modified":"2026-08-06T23:50:14.427285498Z","summary":"Malicious code in express-chai (npm)","affected":[{"package":{"name":"express-chai","ecosystem":"npm","purl":"pkg:npm/express-chai"},"versions":["3.7.9"]}]}

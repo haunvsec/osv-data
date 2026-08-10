@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13227","published":"2026-08-05T15:37:57Z","modified":"2026-08-05T16:50:02.234531870Z","summary":"Malicious code in bigops-notes (npm)","affected":[{"package":{"name":"bigops-notes","ecosystem":"npm","purl":"pkg:npm/bigops-notes"},"versions":["35.8.7"]}]}

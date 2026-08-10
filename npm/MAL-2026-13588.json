@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13588","published":"2026-08-07T12:28:53Z","modified":"2026-08-07T13:20:48.374306210Z","summary":"Malicious code in dolyame-ui-mediainfohoc (npm)","affected":[{"package":{"name":"dolyame-ui-mediainfohoc","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-mediainfohoc"},"versions":["35.8.1"]}]}

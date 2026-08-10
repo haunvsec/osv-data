@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11728","published":"2026-08-04T15:20:19Z","modified":"2026-08-05T08:51:03.353708560Z","aliases":["GHSA-6p28-45w5-23x4"],"summary":"Malicious code in @or-sdk/source-api (npm)","affected":[{"package":{"name":"@or-sdk/source-api","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/source-api"},"versions":["1.1.1","1.1.2","1.1.3"]}]}

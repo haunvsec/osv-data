@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11166","published":"2026-07-28T16:20:08Z","modified":"2026-07-29T05:06:09.959147477Z","aliases":["GHSA-vrrg-j2c5-mj4v"],"summary":"Malicious code in lib-mtop (npm)","affected":[{"package":{"name":"lib-mtop","ecosystem":"npm","purl":"pkg:npm/lib-mtop"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

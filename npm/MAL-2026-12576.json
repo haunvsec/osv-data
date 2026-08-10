@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12576","published":"2026-08-05T14:11:10Z","modified":"2026-08-05T14:35:31.857368257Z","summary":"Malicious code in checkout-mobile-input-email (npm)","affected":[{"package":{"name":"checkout-mobile-input-email","ecosystem":"npm","purl":"pkg:npm/checkout-mobile-input-email"},"versions":["35.6.8"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11363","published":"2026-07-30T22:00:10Z","modified":"2026-07-31T01:38:59.332825731Z","aliases":["GHSA-8rhm-95rv-32f6"],"summary":"Malicious code in raydiums (npm)","affected":[{"package":{"name":"raydiums","ecosystem":"npm","purl":"pkg:npm/raydiums"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

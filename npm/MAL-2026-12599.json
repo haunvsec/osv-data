@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12599","published":"2026-08-05T14:07:55Z","modified":"2026-08-05T14:35:42.866816717Z","summary":"Malicious code in checkout-types (npm)","affected":[{"package":{"name":"checkout-types","ecosystem":"npm","purl":"pkg:npm/checkout-types"},"versions":["35.6.8"]}]}

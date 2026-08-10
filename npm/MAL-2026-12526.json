@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12526","published":"2026-08-05T14:19:21Z","modified":"2026-08-05T14:34:57.476088333Z","summary":"Malicious code in cards-forms-clone-debit-clone (npm)","affected":[{"package":{"name":"cards-forms-clone-debit-clone","ecosystem":"npm","purl":"pkg:npm/cards-forms-clone-debit-clone"},"versions":["35.8.6"]}]}

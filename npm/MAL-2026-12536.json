@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12536","published":"2026-08-05T14:16:38Z","modified":"2026-08-05T14:35:05.847590919Z","summary":"Malicious code in cardsmobile-storage (npm)","affected":[{"package":{"name":"cardsmobile-storage","ecosystem":"npm","purl":"pkg:npm/cardsmobile-storage"},"versions":["35.6.5"]}]}

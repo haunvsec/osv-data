@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12989","published":"2026-08-05T14:40:31Z","modified":"2026-08-05T15:51:31.064291528Z","summary":"Malicious code in bnpl-blocks-mobile-bnpl-floating-button (npm)","affected":[{"package":{"name":"bnpl-blocks-mobile-bnpl-floating-button","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-mobile-bnpl-floating-button"},"versions":["35.3.6"]}]}

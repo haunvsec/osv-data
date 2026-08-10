@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13220","published":"2026-08-05T15:38:20Z","modified":"2026-08-05T16:49:58.381348506Z","summary":"Malicious code in bigops-jsonpath-mapper (npm)","affected":[{"package":{"name":"bigops-jsonpath-mapper","ecosystem":"npm","purl":"pkg:npm/bigops-jsonpath-mapper"},"versions":["35.4.6"]}]}

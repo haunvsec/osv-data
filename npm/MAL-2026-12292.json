@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12292","published":"2026-08-05T09:13:27Z","modified":"2026-08-05T10:07:03.562160268Z","summary":"Malicious code in twork-data-services-getting-arrests (npm)","affected":[{"package":{"name":"twork-data-services-getting-arrests","ecosystem":"npm","purl":"pkg:npm/twork-data-services-getting-arrests"},"versions":["20.1.1"]}]}

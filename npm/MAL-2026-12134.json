@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12134","published":"2026-08-05T09:06:34Z","modified":"2026-08-05T10:05:45.154142470Z","summary":"Malicious code in accounts-limits (npm)","affected":[{"package":{"name":"accounts-limits","ecosystem":"npm","purl":"pkg:npm/accounts-limits"},"versions":["0.0.2","33.6.6"]}]}

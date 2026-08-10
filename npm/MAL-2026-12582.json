@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12582","published":"2026-08-05T14:09:38Z","modified":"2026-08-05T14:35:34.502055267Z","summary":"Malicious code in checkout-molecule-mobile-status-sheet (npm)","affected":[{"package":{"name":"checkout-molecule-mobile-status-sheet","ecosystem":"npm","purl":"pkg:npm/checkout-molecule-mobile-status-sheet"},"versions":["35.7.9"]}]}

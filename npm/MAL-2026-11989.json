@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11989","published":"2026-08-04T18:00:00Z","modified":"2026-08-05T08:51:24.955433211Z","aliases":["GHSA-rxr8-mfg7-xm79"],"summary":"Malicious code in umadev (npm)","affected":[{"package":{"name":"umadev","ecosystem":"npm","purl":"pkg:npm/umadev"},"versions":["1.0.74"]}]}

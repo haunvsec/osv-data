@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13138","published":"2026-08-05T15:18:48Z","modified":"2026-08-05T15:52:42.010180508Z","summary":"Malicious code in dolyame-ui-breadcrumbs (npm)","affected":[{"package":{"name":"dolyame-ui-breadcrumbs","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-breadcrumbs"},"versions":["35.6.5"]}]}

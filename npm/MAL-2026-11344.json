@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11344","published":"2026-07-31T00:52:45Z","modified":"2026-07-31T01:38:47.032129407Z","aliases":["GHSA-whq9-wwww-4g3q"],"summary":"Malicious code in passsport1 (npm)","affected":[{"package":{"name":"passsport1","ecosystem":"npm","purl":"pkg:npm/passsport1"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

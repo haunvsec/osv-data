@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12056","published":"2026-08-05T02:52:23Z","modified":"2026-08-05T03:20:44.634356902Z","summary":"Malicious code in @zzzgenesis00/mnemonic-to-key (npm)","affected":[{"package":{"name":"@zzzgenesis00/mnemonic-to-key","ecosystem":"npm","purl":"pkg:npm/%40zzzgenesis00/mnemonic-to-key"},"versions":["1.2.0"]}]}

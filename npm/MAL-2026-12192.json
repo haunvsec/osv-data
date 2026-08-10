@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12192","published":"2026-08-05T09:10:58Z","modified":"2026-08-05T10:06:15.472238425Z","summary":"Malicious code in scrollbar-hide-plugin (npm)","affected":[{"package":{"name":"scrollbar-hide-plugin","ecosystem":"npm","purl":"pkg:npm/scrollbar-hide-plugin"},"versions":["1.0.1"]}]}

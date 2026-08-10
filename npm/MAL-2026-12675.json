@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12675","published":"2026-08-05T13:56:35Z","modified":"2026-08-05T14:36:20.267438801Z","summary":"Malicious code in ded-pwa-bnpl-forms-demo (npm)","affected":[{"package":{"name":"ded-pwa-bnpl-forms-demo","ecosystem":"npm","purl":"pkg:npm/ded-pwa-bnpl-forms-demo"},"versions":["35.9.6"]}]}

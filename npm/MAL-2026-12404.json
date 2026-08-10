@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12404","published":"2026-08-05T13:03:06Z","modified":"2026-08-05T13:35:39.420408315Z","summary":"Malicious code in npm-module-service (npm)","affected":[{"package":{"name":"npm-module-service","ecosystem":"npm","purl":"pkg:npm/npm-module-service"},"versions":["3.7.2"]}]}

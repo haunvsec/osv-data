@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11325","published":"2026-07-30T22:04:17Z","modified":"2026-07-31T01:38:34.563193484Z","aliases":["GHSA-vr22-p67c-9rrc"],"summary":"Malicious code in kajl (npm)","affected":[{"package":{"name":"kajl","ecosystem":"npm","purl":"pkg:npm/kajl"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

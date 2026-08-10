@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12003","published":"2026-08-05T00:03:02Z","modified":"2026-08-05T00:38:07.047246957Z","summary":"Malicious code in streak-test-mathcore (npm)","affected":[{"package":{"name":"streak-test-mathcore","ecosystem":"npm","purl":"pkg:npm/streak-test-mathcore"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13528","published":"2026-08-07T12:32:37Z","modified":"2026-08-07T13:20:16.563392317Z","summary":"Malicious code in bnpl-blocks-atom-bnpl-faq-item (npm)","affected":[{"package":{"name":"bnpl-blocks-atom-bnpl-faq-item","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-atom-bnpl-faq-item"},"versions":["35.8.2"]}]}

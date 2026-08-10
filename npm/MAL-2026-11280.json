@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11280","published":"2026-07-30T22:45:02Z","modified":"2026-07-31T01:38:03.372453740Z","aliases":["GHSA-f7vm-5hq9-mwjj"],"summary":"Malicious code in discord-starter (npm)","affected":[{"package":{"name":"discord-starter","ecosystem":"npm","purl":"pkg:npm/discord-starter"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

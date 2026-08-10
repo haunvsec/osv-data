@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13143","published":"2026-08-05T15:15:44Z","modified":"2026-08-05T15:52:43.676065110Z","summary":"Malicious code in dolyame-ui-checkable (npm)","affected":[{"package":{"name":"dolyame-ui-checkable","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-checkable"},"versions":["35.4.1"]}]}

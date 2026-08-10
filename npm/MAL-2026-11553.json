@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11553","published":"2026-08-04T15:19:08Z","modified":"2026-08-05T08:49:54.298255039Z","aliases":["GHSA-2939-wm9h-8gh5"],"summary":"Malicious code in @arv-bedrock/auth (npm)","affected":[{"package":{"name":"@arv-bedrock/auth","ecosystem":"npm","purl":"pkg:npm/%40arv-bedrock/auth"},"versions":["1.1.7","1.1.8"]}]}

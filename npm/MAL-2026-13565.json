@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13565","published":"2026-08-07T12:34:27Z","modified":"2026-08-07T13:20:09.029833372Z","summary":"Malicious code in dolyame-ui-datatable (npm)","affected":[{"package":{"name":"dolyame-ui-datatable","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-datatable"},"versions":["35.8.1"]}]}

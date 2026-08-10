@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11999","published":"2026-08-05T00:03:48Z","modified":"2026-08-05T00:38:04.971058777Z","summary":"Malicious code in streak-map-metrics (npm)","affected":[{"package":{"name":"streak-map-metrics","ecosystem":"npm","purl":"pkg:npm/streak-map-metrics"},"versions":["1.0.0"]}]}

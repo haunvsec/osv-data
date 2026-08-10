@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12369","published":"2026-08-05T12:32:11Z","modified":"2026-08-05T13:35:21.723046590Z","summary":"Malicious code in elephant-array-utils (npm)","affected":[{"package":{"name":"elephant-array-utils","ecosystem":"npm","purl":"pkg:npm/elephant-array-utils"},"versions":["1.0.6"]}]}

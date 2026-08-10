@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13592","published":"2026-08-07T12:29:28Z","modified":"2026-08-07T13:20:51.065552158Z","summary":"Malicious code in dolyame-ui-pageheader (npm)","affected":[{"package":{"name":"dolyame-ui-pageheader","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-pageheader"},"versions":["35.8.1"]}]}

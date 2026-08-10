@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12335","published":"2026-08-05T12:25:07Z","modified":"2026-08-05T13:34:55.827494146Z","summary":"Malicious code in aegis-runtime (npm)","affected":[{"package":{"name":"aegis-runtime","ecosystem":"npm","purl":"pkg:npm/aegis-runtime"},"versions":["1.0.0"]}]}

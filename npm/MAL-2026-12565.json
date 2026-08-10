@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12565","published":"2026-08-05T14:12:20Z","modified":"2026-08-05T14:35:26.655839559Z","summary":"Malicious code in checkout-get-pos-documents-am (npm)","affected":[{"package":{"name":"checkout-get-pos-documents-am","ecosystem":"npm","purl":"pkg:npm/checkout-get-pos-documents-am"},"versions":["35.8.7"]}]}

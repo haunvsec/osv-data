@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12168","published":"2026-08-05T08:45:38Z","modified":"2026-08-05T10:06:02.537031271Z","summary":"Malicious code in bigops-frontend-bigops-frontend-core (npm)","affected":[{"package":{"name":"bigops-frontend-bigops-frontend-core","ecosystem":"npm","purl":"pkg:npm/bigops-frontend-bigops-frontend-core"},"versions":["35.1.5"]}]}

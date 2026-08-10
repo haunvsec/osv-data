@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12479","published":"2026-08-05T12:31:53Z","modified":"2026-08-05T13:36:17.250276030Z","summary":"Malicious code in time-linters-webapp-eslint-config (npm)","affected":[{"package":{"name":"time-linters-webapp-eslint-config","ecosystem":"npm","purl":"pkg:npm/time-linters-webapp-eslint-config"},"versions":["20.2.2"]}]}

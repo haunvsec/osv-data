@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11261","published":"2026-07-30T22:00:10Z","modified":"2026-07-31T01:37:46.849835686Z","aliases":["GHSA-46h5-45mv-wqvp"],"summary":"Malicious code in clo321 (npm)","affected":[{"package":{"name":"clo321","ecosystem":"npm","purl":"pkg:npm/clo321"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

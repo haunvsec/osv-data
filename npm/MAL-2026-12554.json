@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12554","published":"2026-08-05T14:13:44Z","modified":"2026-08-05T14:35:21.520944468Z","summary":"Malicious code in checkout-desktop-bnpl (npm)","affected":[{"package":{"name":"checkout-desktop-bnpl","ecosystem":"npm","purl":"pkg:npm/checkout-desktop-bnpl"},"versions":["35.5.1"]}]}

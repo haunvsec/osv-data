@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11374","published":"2026-07-30T22:49:53Z","modified":"2026-07-31T01:39:06.680779273Z","aliases":["GHSA-7pc7-hr79-3cwp"],"summary":"Malicious code in rshell (npm)","affected":[{"package":{"name":"rshell","ecosystem":"npm","purl":"pkg:npm/rshell"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

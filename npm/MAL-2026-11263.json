@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11263","published":"2026-07-30T22:00:10Z","modified":"2026-07-31T01:37:47.423116760Z","aliases":["GHSA-x872-j53w-2rp8"],"summary":"Malicious code in clotest (npm)","affected":[{"package":{"name":"clotest","ecosystem":"npm","purl":"pkg:npm/clotest"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

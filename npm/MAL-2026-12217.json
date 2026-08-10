@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12217","published":"2026-08-05T09:04:44Z","modified":"2026-08-05T10:06:28.902012843Z","summary":"Malicious code in tailwind-animate-plugin (npm)","affected":[{"package":{"name":"tailwind-animate-plugin","ecosystem":"npm","purl":"pkg:npm/tailwind-animate-plugin"},"versions":["1.1.0"]}]}

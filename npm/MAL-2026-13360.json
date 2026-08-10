@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13360","published":"2026-08-05T17:38:18Z","modified":"2026-08-06T23:50:24.341411257Z","summary":"Malicious code in uzair-rajput-new (npm)","affected":[{"package":{"name":"uzair-rajput-new","ecosystem":"npm","purl":"pkg:npm/uzair-rajput-new"},"versions":["1.0.1","1.1.0","1.3.0","1.2.0"]}]}

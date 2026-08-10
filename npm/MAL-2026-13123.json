@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13123","published":"2026-08-05T15:17:13Z","modified":"2026-08-05T15:52:34.669829876Z","summary":"Malicious code in ded-aa-common-ded-aa-common-core (npm)","affected":[{"package":{"name":"ded-aa-common-ded-aa-common-core","ecosystem":"npm","purl":"pkg:npm/ded-aa-common-ded-aa-common-core"},"versions":["35.1.6"]}]}

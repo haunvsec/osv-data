@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11106","published":"2026-07-28T07:15:55Z","modified":"2026-07-28T14:36:54.228343660Z","summary":"Malicious code in date-sanitize-helper (npm)","affected":[{"package":{"name":"date-sanitize-helper","ecosystem":"npm","purl":"pkg:npm/date-sanitize-helper"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11498","published":"2026-08-02T02:43:26Z","modified":"2026-08-05T00:34:59.365556283Z","summary":"Malicious code in @custombots/custombot (npm)","affected":[{"package":{"name":"@custombots/custombot","ecosystem":"npm","purl":"pkg:npm/%40custombots/custombot"},"versions":["1.0.0","2.0.1","2.0.2","2.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13683","published":"2026-08-10T05:17:20Z","modified":"2026-08-10T06:48:03.855600935Z","summary":"Malicious code in kotoraka (PyPI)","affected":[{"package":{"name":"kotoraka","ecosystem":"PyPI","purl":"pkg:pypi/kotoraka"},"versions":["0.1.0"]}]}

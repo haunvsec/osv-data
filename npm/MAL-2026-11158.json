@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11158","published":"2026-07-28T13:38:48Z","modified":"2026-08-05T14:35:14.866887860Z","summary":"Malicious code in blots (npm)","affected":[{"package":{"name":"blots","ecosystem":"npm","purl":"pkg:npm/blots"},"versions":["2.1.0","2.1.1"]}]}

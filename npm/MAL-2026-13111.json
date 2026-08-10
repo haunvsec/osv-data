@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13111","published":"2026-08-05T14:20:22Z","modified":"2026-08-05T15:52:28.435492354Z","summary":"Malicious code in bpm-foundation-husky (npm)","affected":[{"package":{"name":"bpm-foundation-husky","ecosystem":"npm","purl":"pkg:npm/bpm-foundation-husky"},"versions":["35.7.6"]}]}

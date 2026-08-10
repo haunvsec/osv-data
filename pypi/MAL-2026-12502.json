@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12502","published":"2026-08-05T12:29:27Z","modified":"2026-08-05T13:36:27.282712778Z","summary":"Malicious code in gcli-control (PyPI)","affected":[{"package":{"name":"gcli-control","ecosystem":"PyPI","purl":"pkg:pypi/gcli-control"},"versions":["0.12.2","0.5.0","0.12.4","0.11.1"]}]}

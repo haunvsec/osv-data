@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12422","published":"2026-08-05T12:25:31Z","modified":"2026-08-05T14:37:18.121772722Z","summary":"Malicious code in quorvex (npm)","affected":[{"package":{"name":"quorvex","ecosystem":"npm","purl":"pkg:npm/quorvex"},"versions":["0.2.1","0.2.0"]}]}

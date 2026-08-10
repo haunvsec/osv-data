@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12972","published":"2026-08-05T14:42:59Z","modified":"2026-08-05T15:51:22.329837021Z","summary":"Malicious code in bnpl-blocks-independent-bnpl-text-block (npm)","affected":[{"package":{"name":"bnpl-blocks-independent-bnpl-text-block","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-independent-bnpl-text-block"},"versions":["35.7.1"]}]}

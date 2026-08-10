@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12947","published":"2026-08-05T14:46:18Z","modified":"2026-08-05T15:51:11.494112413Z","summary":"Malicious code in bnpl-blocks-feature-partners (npm)","affected":[{"package":{"name":"bnpl-blocks-feature-partners","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-feature-partners"},"versions":["35.9.1"]}]}

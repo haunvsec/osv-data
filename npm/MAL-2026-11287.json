@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11287","published":"2026-07-30T22:35:06Z","modified":"2026-07-31T01:38:10.878045193Z","aliases":["GHSA-6224-2ghr-p5cq"],"summary":"Malicious code in ecto-logger (npm)","affected":[{"package":{"name":"ecto-logger","ecosystem":"npm","purl":"pkg:npm/ecto-logger"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

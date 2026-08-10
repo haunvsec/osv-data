@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12813","published":"2026-08-05T13:11:02Z","modified":"2026-08-05T14:37:28.565553076Z","summary":"Malicious code in twilio-functions (npm)","affected":[{"package":{"name":"twilio-functions","ecosystem":"npm","purl":"pkg:npm/twilio-functions"},"versions":["99.99.99"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13105","published":"2026-08-05T14:23:22Z","modified":"2026-08-05T15:52:25.579620892Z","summary":"Malicious code in bpm-foundation-base-configs (npm)","affected":[{"package":{"name":"bpm-foundation-base-configs","ecosystem":"npm","purl":"pkg:npm/bpm-foundation-base-configs"},"versions":["35.6.2"]}]}

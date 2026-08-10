@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12620","published":"2026-08-05T14:04:32Z","modified":"2026-08-05T14:35:52.852360652Z","summary":"Malicious code in claims-get-error-string (npm)","affected":[{"package":{"name":"claims-get-error-string","ecosystem":"npm","purl":"pkg:npm/claims-get-error-string"},"versions":["35.5.9"]}]}

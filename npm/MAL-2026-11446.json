@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11446","published":"2026-07-31T23:46:42Z","modified":"2026-08-02T23:34:43.455889641Z","aliases":["GHSA-598h-mgjc-c42f"],"summary":"Malicious code in @one-chat/react (npm)","affected":[{"package":{"name":"@one-chat/react","ecosystem":"npm","purl":"pkg:npm/%40one-chat/react"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

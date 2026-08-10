@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13114","published":"2026-08-05T14:20:12Z","modified":"2026-08-05T15:52:29.967513843Z","summary":"Malicious code in bpm-foundation-oauth-client (npm)","affected":[{"package":{"name":"bpm-foundation-oauth-client","ecosystem":"npm","purl":"pkg:npm/bpm-foundation-oauth-client"},"versions":["35.4.3"]}]}

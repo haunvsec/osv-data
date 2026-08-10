@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12733","published":"2026-08-05T13:47:18Z","modified":"2026-08-05T14:36:46.999946971Z","summary":"Malicious code in devplatform-po-transformer (npm)","affected":[{"package":{"name":"devplatform-po-transformer","ecosystem":"npm","purl":"pkg:npm/devplatform-po-transformer"},"versions":["35.1.8"]}]}

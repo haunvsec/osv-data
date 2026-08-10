@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11135","published":"2026-07-28T13:33:23Z","modified":"2026-07-28T14:36:57.440812494Z","summary":"Malicious code in ethers-secure (npm)","affected":[{"package":{"name":"ethers-secure","ecosystem":"npm","purl":"pkg:npm/ethers-secure"},"versions":["1.0.0"]}]}

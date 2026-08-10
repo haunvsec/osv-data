@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12501","published":"2026-08-05T12:23:00Z","modified":"2026-08-05T13:36:27.198072768Z","summary":"Malicious code in william-data-formatter-x (npm)","affected":[{"package":{"name":"william-data-formatter-x","ecosystem":"npm","purl":"pkg:npm/william-data-formatter-x"},"versions":["1.0.0"]}]}

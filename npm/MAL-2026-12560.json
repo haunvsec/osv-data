@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12560","published":"2026-08-05T14:12:31Z","modified":"2026-08-05T14:35:24.019846961Z","summary":"Malicious code in checkout-desktop-promocode (npm)","affected":[{"package":{"name":"checkout-desktop-promocode","ecosystem":"npm","purl":"pkg:npm/checkout-desktop-promocode"},"versions":["35.4.3"]}]}

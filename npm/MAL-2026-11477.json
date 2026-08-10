@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11477","published":"2026-07-31T22:00:13Z","modified":"2026-08-05T06:36:27.189676109Z","aliases":["GHSA-5xcj-w4qg-g78g"],"summary":"Malicious code in refbase-mcp (npm)","affected":[{"package":{"name":"refbase-mcp","ecosystem":"npm","purl":"pkg:npm/refbase-mcp"},"versions":["1.0.0"]}]}

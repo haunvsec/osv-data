@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12563","published":"2026-08-05T14:11:43Z","modified":"2026-08-05T14:35:25.518964025Z","summary":"Malicious code in checkout-format-money (npm)","affected":[{"package":{"name":"checkout-format-money","ecosystem":"npm","purl":"pkg:npm/checkout-format-money"},"versions":["35.8.6"]}]}

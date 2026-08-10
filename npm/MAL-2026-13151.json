@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13151","published":"2026-08-05T15:14:57Z","modified":"2026-08-05T15:52:47.345526056Z","summary":"Malicious code in dolyame-ui-draggable (npm)","affected":[{"package":{"name":"dolyame-ui-draggable","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-draggable"},"versions":["35.4.6"]}]}

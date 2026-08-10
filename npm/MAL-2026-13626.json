@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13626","published":"2026-08-07T17:31:24Z","modified":"2026-08-07T18:05:10.497612221Z","summary":"Malicious code in @mrbenty8jf1p9y5/oidc-bind-canary (npm)","affected":[{"package":{"name":"@mrbenty8jf1p9y5/oidc-bind-canary","ecosystem":"npm","purl":"pkg:npm/%40mrbenty8jf1p9y5/oidc-bind-canary"},"versions":["0.0.3"]}]}

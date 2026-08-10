@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12401","published":"2026-08-05T12:33:32Z","modified":"2026-08-05T13:35:37.351666329Z","summary":"Malicious code in mcp-audit-sync-internal (npm)","affected":[{"package":{"name":"mcp-audit-sync-internal","ecosystem":"npm","purl":"pkg:npm/mcp-audit-sync-internal"},"versions":["99.9.9"]}]}

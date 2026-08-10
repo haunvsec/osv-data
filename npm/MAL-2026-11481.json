@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11481","published":"2026-07-31T21:55:17Z","modified":"2026-08-05T06:36:27.759046179Z","aliases":["GHSA-4j2q-gh4v-v729"],"summary":"Malicious code in sap-mcp-config (npm)","affected":[{"package":{"name":"sap-mcp-config","ecosystem":"npm","purl":"pkg:npm/sap-mcp-config"},"versions":["1.0.0"]}]}

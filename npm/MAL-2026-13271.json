@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13271","published":"2026-08-05T15:30:06Z","modified":"2026-08-05T16:50:27.121998894Z","summary":"Malicious code in devplatform-utils (npm)","affected":[{"package":{"name":"devplatform-utils","ecosystem":"npm","purl":"pkg:npm/devplatform-utils"},"versions":["35.5.2"]}]}

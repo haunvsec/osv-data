@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13559","published":"2026-08-07T12:33:49Z","modified":"2026-08-07T13:20:32.832028955Z","summary":"Malicious code in dolyame-ui-collapseblock (npm)","affected":[{"package":{"name":"dolyame-ui-collapseblock","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-collapseblock"},"versions":["35.8.1"]}]}

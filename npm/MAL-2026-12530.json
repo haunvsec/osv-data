@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12530","published":"2026-08-05T14:16:14Z","modified":"2026-08-05T14:35:01.127338537Z","summary":"Malicious code in cardsmobile-command-utils (npm)","affected":[{"package":{"name":"cardsmobile-command-utils","ecosystem":"npm","purl":"pkg:npm/cardsmobile-command-utils"},"versions":["35.9.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12540","published":"2026-08-05T13:33:19Z","modified":"2026-08-05T14:35:08.548570666Z","summary":"Malicious code in chai-as-inspired (npm)","affected":[{"package":{"name":"chai-as-inspired","ecosystem":"npm","purl":"pkg:npm/chai-as-inspired"},"versions":["2.2.4"]}]}

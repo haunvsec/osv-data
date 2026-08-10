@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11559","published":"2026-08-04T11:37:27Z","modified":"2026-08-05T08:49:55.331075003Z","aliases":["GHSA-pvp8-4g69-xxqh"],"summary":"Malicious code in @cacheable/net (npm)","affected":[{"package":{"name":"@cacheable/net","ecosystem":"npm","purl":"pkg:npm/%40cacheable/net"},"versions":["2.1.1"]}]}

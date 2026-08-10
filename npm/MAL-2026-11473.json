@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11473","published":"2026-07-31T23:46:41Z","modified":"2026-08-04T23:05:18.961421585Z","aliases":["GHSA-g4m5-r29v-w7gh"],"summary":"Malicious code in metrics-ui (npm)","affected":[{"package":{"name":"metrics-ui","ecosystem":"npm","purl":"pkg:npm/metrics-ui"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

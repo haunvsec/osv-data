@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13521","published":"2026-08-07T12:27:51Z","modified":"2026-08-07T13:20:11.106812558Z","summary":"Malicious code in @rbxst/services (npm)","affected":[{"package":{"name":"@rbxst/services","ecosystem":"npm","purl":"pkg:npm/%40rbxst/services"},"versions":["1.0.756"]}]}

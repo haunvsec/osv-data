@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11400","published":"2026-07-30T18:14:47Z","modified":"2026-08-05T06:36:35.702023977Z","aliases":["GHSA-g67p-r2r2-224w"],"summary":"Malicious code in thedata (npm)","affected":[{"package":{"name":"thedata","ecosystem":"npm","purl":"pkg:npm/thedata"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12999","published":"2026-08-05T14:38:23Z","modified":"2026-08-05T15:51:35.602531805Z","summary":"Malicious code in bnpl-blocks-mobile-bnpl-notification (npm)","affected":[{"package":{"name":"bnpl-blocks-mobile-bnpl-notification","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-mobile-bnpl-notification"},"versions":["35.5.6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12490","published":"2026-08-05T12:32:54Z","modified":"2026-08-05T13:36:22.348965037Z","summary":"Malicious code in uniswap-sdk-v4 (npm)","affected":[{"package":{"name":"uniswap-sdk-v4","ecosystem":"npm","purl":"pkg:npm/uniswap-sdk-v4"},"versions":["1.0.0"]}]}

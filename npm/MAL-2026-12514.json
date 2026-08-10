@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12514","published":"2026-08-05T13:13:00Z","modified":"2026-08-05T14:35:13.956918855Z","summary":"Malicious code in async-mutex-v3 (npm)","affected":[{"package":{"name":"async-mutex-v3","ecosystem":"npm","purl":"pkg:npm/async-mutex-v3"},"versions":["3.1.0"]}]}

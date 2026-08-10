@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11457","published":"2026-07-31T21:53:52Z","modified":"2026-08-05T06:36:04.149426312Z","aliases":["GHSA-8v58-g8f8-2gpp"],"summary":"Malicious code in capacitor-assets (npm)","affected":[{"package":{"name":"capacitor-assets","ecosystem":"npm","purl":"pkg:npm/capacitor-assets"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13068","published":"2026-08-05T14:28:23Z","modified":"2026-08-05T15:52:07.840578701Z","summary":"Malicious code in boxy-mif-tokens (npm)","affected":[{"package":{"name":"boxy-mif-tokens","ecosystem":"npm","purl":"pkg:npm/boxy-mif-tokens"},"versions":["35.7.1"]}]}

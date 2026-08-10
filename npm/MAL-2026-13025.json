@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13025","published":"2026-08-05T14:35:22Z","modified":"2026-08-05T15:51:48.043753551Z","summary":"Malicious code in bnpl-molecule-mobile-bnpl-onboarding (npm)","affected":[{"package":{"name":"bnpl-molecule-mobile-bnpl-onboarding","ecosystem":"npm","purl":"pkg:npm/bnpl-molecule-mobile-bnpl-onboarding"},"versions":["35.7.8"]}]}

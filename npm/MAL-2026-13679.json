@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13679","published":"2026-08-08T17:19:59Z","modified":"2026-08-10T00:50:19.507024931Z","aliases":["GHSA-2w6v-q693-8jjm"],"summary":"Malicious code in svelte-streak-kit (npm)","affected":[{"package":{"name":"svelte-streak-kit","ecosystem":"npm","purl":"pkg:npm/svelte-streak-kit"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12597","published":"2026-08-05T14:06:41Z","modified":"2026-08-05T14:35:41.798687165Z","summary":"Malicious code in checkout-todo-test (npm)","affected":[{"package":{"name":"checkout-todo-test","ecosystem":"npm","purl":"pkg:npm/checkout-todo-test"},"versions":["35.5.9"]}]}

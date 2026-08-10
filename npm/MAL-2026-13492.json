@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13492","published":"2026-08-07T00:06:23Z","modified":"2026-08-07T12:35:19.637212268Z","aliases":["GHSA-jw4p-5x7w-fcm4"],"summary":"Malicious code in rdfxvela-build (npm)","affected":[{"package":{"name":"rdfxvela-build","ecosystem":"npm","purl":"pkg:npm/rdfxvela-build"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

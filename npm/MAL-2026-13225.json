@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13225","published":"2026-08-05T15:37:40Z","modified":"2026-08-05T16:50:00.935638334Z","summary":"Malicious code in bigops-nitro-client (npm)","affected":[{"package":{"name":"bigops-nitro-client","ecosystem":"npm","purl":"pkg:npm/bigops-nitro-client"},"versions":["35.6.1"]}]}

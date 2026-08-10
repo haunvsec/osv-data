@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13536","published":"2026-08-07T12:25:23Z","modified":"2026-08-07T13:20:19.930450264Z","summary":"Malicious code in ded-pwa-c-micro (npm)","affected":[{"package":{"name":"ded-pwa-c-micro","ecosystem":"npm","purl":"pkg:npm/ded-pwa-c-micro"},"versions":["35.8.3"]}]}

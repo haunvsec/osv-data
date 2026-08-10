@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12039","published":"2026-08-05T01:02:58Z","modified":"2026-08-05T01:49:49.562138500Z","summary":"Malicious code in data-format-helper (npm)","affected":[{"package":{"name":"data-format-helper","ecosystem":"npm","purl":"pkg:npm/data-format-helper"},"versions":["1.0.1","1.0.0"]}]}

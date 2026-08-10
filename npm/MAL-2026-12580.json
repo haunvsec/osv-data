@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12580","published":"2026-08-05T14:10:03Z","modified":"2026-08-05T14:35:33.524131815Z","summary":"Malicious code in checkout-mobile-total (npm)","affected":[{"package":{"name":"checkout-mobile-total","ecosystem":"npm","purl":"pkg:npm/checkout-mobile-total"},"versions":["35.8.9"]}]}

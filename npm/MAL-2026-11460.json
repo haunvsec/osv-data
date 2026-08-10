@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11460","published":"2026-07-31T21:59:43Z","modified":"2026-08-05T06:36:07.786401970Z","aliases":["GHSA-947j-5gjp-7968"],"summary":"Malicious code in create-remotion (npm)","affected":[{"package":{"name":"create-remotion","ecosystem":"npm","purl":"pkg:npm/create-remotion"},"versions":["0.0.3","0.0.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13222","published":"2026-08-05T15:38:27Z","modified":"2026-08-05T16:49:59.569483860Z","summary":"Malicious code in bigops-legacy-utils (npm)","affected":[{"package":{"name":"bigops-legacy-utils","ecosystem":"npm","purl":"pkg:npm/bigops-legacy-utils"},"versions":["35.2.6"]}]}

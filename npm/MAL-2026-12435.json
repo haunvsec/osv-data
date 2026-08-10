@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12435","published":"2026-08-05T13:07:29Z","modified":"2026-08-05T13:35:54.841354675Z","summary":"Malicious code in sc-geeksquad-core (npm)","affected":[{"package":{"name":"sc-geeksquad-core","ecosystem":"npm","purl":"pkg:npm/sc-geeksquad-core"},"versions":["9999.0.0"]}]}

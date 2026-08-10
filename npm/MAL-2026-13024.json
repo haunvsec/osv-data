@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13024","published":"2026-08-05T14:33:38Z","modified":"2026-08-05T15:51:47.925248217Z","summary":"Malicious code in bnpl-forms-test-utils (npm)","affected":[{"package":{"name":"bnpl-forms-test-utils","ecosystem":"npm","purl":"pkg:npm/bnpl-forms-test-utils"},"versions":["35.4.1"]}]}

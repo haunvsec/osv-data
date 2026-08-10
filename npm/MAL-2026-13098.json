@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13098","published":"2026-08-05T14:22:49Z","modified":"2026-08-05T15:52:21.588291223Z","summary":"Malicious code in boxy-wrapper-rspack-plugin (npm)","affected":[{"package":{"name":"boxy-wrapper-rspack-plugin","ecosystem":"npm","purl":"pkg:npm/boxy-wrapper-rspack-plugin"},"versions":["35.8.3"]}]}

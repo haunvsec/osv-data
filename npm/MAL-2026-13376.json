@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13376","published":"2026-08-05T21:20:12Z","modified":"2026-08-05T22:19:50.779471040Z","summary":"Malicious code in claude-remote-agent (npm)","affected":[{"package":{"name":"claude-remote-agent","ecosystem":"npm","purl":"pkg:npm/claude-remote-agent"},"versions":["0.1.2","0.1.0","0.1.1"]}]}

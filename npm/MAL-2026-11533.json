@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11533","published":"2026-08-04T22:08:48Z","modified":"2026-08-04T23:04:49.372367629Z","summary":"Malicious code in @zzzgenesis00/solana-web3 (npm)","affected":[{"package":{"name":"@zzzgenesis00/solana-web3","ecosystem":"npm","purl":"pkg:npm/%40zzzgenesis00/solana-web3"},"versions":["2.1.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13267","published":"2026-08-05T15:31:51Z","modified":"2026-08-05T16:50:25.046192018Z","summary":"Malicious code in devplatform-test-pvm-is-even (npm)","affected":[{"package":{"name":"devplatform-test-pvm-is-even","ecosystem":"npm","purl":"pkg:npm/devplatform-test-pvm-is-even"},"versions":["35.9.5"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11164","published":"2026-07-28T16:20:08Z","modified":"2026-07-29T05:06:09.560822395Z","aliases":["GHSA-mv5v-q5f3-gf7h"],"summary":"Malicious code in aone-sandbox (npm)","affected":[{"package":{"name":"aone-sandbox","ecosystem":"npm","purl":"pkg:npm/aone-sandbox"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

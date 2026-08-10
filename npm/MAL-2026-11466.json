@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11466","published":"2026-07-31T22:00:13Z","modified":"2026-08-04T23:05:10.080427807Z","aliases":["GHSA-fmvj-j52v-97x4"],"summary":"Malicious code in hit-mcp (npm)","affected":[{"package":{"name":"hit-mcp","ecosystem":"npm","purl":"pkg:npm/hit-mcp"},"versions":["1.0.0"]}]}

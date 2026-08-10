@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11065","published":"2026-07-25T16:30:40Z","modified":"2026-08-05T13:36:13.154219192Z","summary":"Malicious code in swiper_angular (npm)","affected":[{"package":{"name":"swiper_angular","ecosystem":"npm","purl":"pkg:npm/swiper_angular"},"versions":["5.9999.0","5.9999.1"]}]}

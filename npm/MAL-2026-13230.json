@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13230","published":"2026-08-05T15:36:48Z","modified":"2026-08-05T16:50:03.672961934Z","summary":"Malicious code in bigops-operator-status (npm)","affected":[{"package":{"name":"bigops-operator-status","ecosystem":"npm","purl":"pkg:npm/bigops-operator-status"},"versions":["35.4.5"]}]}

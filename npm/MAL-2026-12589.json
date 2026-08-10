@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12589","published":"2026-08-05T14:09:28Z","modified":"2026-08-05T14:35:38.131935471Z","summary":"Malicious code in checkout-public-tokens (npm)","affected":[{"package":{"name":"checkout-public-tokens","ecosystem":"npm","purl":"pkg:npm/checkout-public-tokens"},"versions":["35.4.9"]}]}

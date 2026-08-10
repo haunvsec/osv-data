@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12951","published":"2026-08-05T14:45:17Z","modified":"2026-08-05T15:51:13.285200530Z","summary":"Malicious code in bnpl-blocks-independent-bnpl-button (npm)","affected":[{"package":{"name":"bnpl-blocks-independent-bnpl-button","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-independent-bnpl-button"},"versions":["35.2.2"]}]}

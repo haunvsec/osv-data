@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12837","published":"2026-08-05T15:01:42Z","modified":"2026-08-06T01:19:57.076137331Z","aliases":["GHSA-mxqp-2fvr-x99j"],"summary":"Malicious code in bigops-tcrm-auth (npm)","affected":[{"package":{"name":"bigops-tcrm-auth","ecosystem":"npm","purl":"pkg:npm/bigops-tcrm-auth"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

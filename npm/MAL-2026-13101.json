@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13101","published":"2026-08-05T14:22:41Z","modified":"2026-08-05T15:52:23.725087818Z","summary":"Malicious code in bpm-foundation-analytics (npm)","affected":[{"package":{"name":"bpm-foundation-analytics","ecosystem":"npm","purl":"pkg:npm/bpm-foundation-analytics"},"versions":["35.5.1"]}]}

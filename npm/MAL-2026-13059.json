@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13059","published":"2026-08-05T14:31:16Z","modified":"2026-08-05T15:52:02.431827315Z","summary":"Malicious code in boxy-maker-extendable-minihost (npm)","affected":[{"package":{"name":"boxy-maker-extendable-minihost","ecosystem":"npm","purl":"pkg:npm/boxy-maker-extendable-minihost"},"versions":["35.7.5"]}]}

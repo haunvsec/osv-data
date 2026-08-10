@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11458","published":"2026-07-31T21:59:58Z","modified":"2026-08-04T23:04:55.243169394Z","aliases":["GHSA-8whv-6hc5-4wpr"],"summary":"Malicious code in chaos-mcp (npm)","affected":[{"package":{"name":"chaos-mcp","ecosystem":"npm","purl":"pkg:npm/chaos-mcp"},"versions":["1.0.0"]}]}

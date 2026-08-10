@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12316","published":"2026-08-05T13:07:03Z","modified":"2026-08-05T13:35:08.504559950Z","summary":"Malicious code in @cryptosrvc/shift-exchange-root (npm)","affected":[{"package":{"name":"@cryptosrvc/shift-exchange-root","ecosystem":"npm","purl":"pkg:npm/%40cryptosrvc/shift-exchange-root"},"versions":["3.9.9","2.9.9","1.9.9"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13148","published":"2026-08-05T15:15:18Z","modified":"2026-08-05T15:52:45.988373031Z","summary":"Malicious code in dolyame-ui-confirmation (npm)","affected":[{"package":{"name":"dolyame-ui-confirmation","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-confirmation"},"versions":["35.3.3"]}]}

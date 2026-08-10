@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11399","published":"2026-07-30T21:50:14Z","modified":"2026-07-31T01:39:21.362475111Z","aliases":["GHSA-mf3c-mgqq-g7v5"],"summary":"Malicious code in tgnode (npm)","affected":[{"package":{"name":"tgnode","ecosystem":"npm","purl":"pkg:npm/tgnode"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

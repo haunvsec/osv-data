@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13569","published":"2026-08-07T12:29:35Z","modified":"2026-08-07T13:20:37.034158266Z","summary":"Malicious code in dolyame-ui-flatcorners (npm)","affected":[{"package":{"name":"dolyame-ui-flatcorners","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-flatcorners"},"versions":["35.8.1"]}]}

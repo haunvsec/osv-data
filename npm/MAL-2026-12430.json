@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12430","published":"2026-08-05T13:05:14Z","modified":"2026-08-05T13:35:52.394433186Z","summary":"Malicious code in rollup-plugins-polyfills-rode (npm)","affected":[{"package":{"name":"rollup-plugins-polyfills-rode","ecosystem":"npm","purl":"pkg:npm/rollup-plugins-polyfills-rode"},"versions":["0.13.1","0.13.2","0.13.3"]}]}

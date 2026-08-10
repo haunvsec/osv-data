@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13471","published":"2026-08-06T19:21:22Z","modified":"2026-08-06T23:50:30.370881286Z","summary":"Malicious code in zyr-agent (npm)","affected":[{"package":{"name":"zyr-agent","ecosystem":"npm","purl":"pkg:npm/zyr-agent"},"versions":["1.6.2","1.5.7"]}]}

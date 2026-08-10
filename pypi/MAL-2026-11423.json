@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11423","published":"2026-07-31T18:10:08Z","modified":"2026-07-31T19:17:35.589511819Z","summary":"Malicious code in asdk-plugin-legacy (PyPI)","affected":[{"package":{"name":"asdk-plugin-legacy","ecosystem":"PyPI","purl":"pkg:pypi/asdk-plugin-legacy"},"versions":["0.0.1","9999.0.0"]}]}

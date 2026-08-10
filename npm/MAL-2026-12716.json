@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12716","published":"2026-08-05T13:49:14Z","modified":"2026-08-05T14:36:39.159253678Z","summary":"Malicious code in devplatform-integrations-tests-lib (npm)","affected":[{"package":{"name":"devplatform-integrations-tests-lib","ecosystem":"npm","purl":"pkg:npm/devplatform-integrations-tests-lib"},"versions":["35.2.5"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11468","published":"2026-07-31T21:53:22Z","modified":"2026-08-04T23:05:12.557259708Z","aliases":["GHSA-4wvg-prm7-99h4"],"summary":"Malicious code in install-native-host (npm)","affected":[{"package":{"name":"install-native-host","ecosystem":"npm","purl":"pkg:npm/install-native-host"},"versions":["1.0.0"]}]}

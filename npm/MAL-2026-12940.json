@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12940","published":"2026-08-05T14:48:00Z","modified":"2026-08-05T15:51:07.895071212Z","summary":"Malicious code in bnpl-blocks-desktop-bnpl-shopping-banner (npm)","affected":[{"package":{"name":"bnpl-blocks-desktop-bnpl-shopping-banner","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-desktop-bnpl-shopping-banner"},"versions":["35.4.6"]}]}

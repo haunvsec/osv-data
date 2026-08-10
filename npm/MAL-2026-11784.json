@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11784","published":"2026-08-04T15:54:01Z","modified":"2026-08-05T08:51:08.778012831Z","aliases":["GHSA-x47v-2r4m-2q34"],"summary":"Malicious code in @qlik/browserslist-config (npm)","affected":[{"package":{"name":"@qlik/browserslist-config","ecosystem":"npm","purl":"pkg:npm/%40qlik/browserslist-config"},"versions":["3.0.2"]}]}

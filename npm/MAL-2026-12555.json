@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12555","published":"2026-08-05T14:14:30Z","modified":"2026-08-05T14:35:21.750053118Z","summary":"Malicious code in checkout-desktop-cashback (npm)","affected":[{"package":{"name":"checkout-desktop-cashback","ecosystem":"npm","purl":"pkg:npm/checkout-desktop-cashback"},"versions":["35.4.6"]}]}

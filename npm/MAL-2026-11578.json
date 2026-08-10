@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11578","published":"2026-08-04T15:47:15Z","modified":"2026-08-05T07:20:03.362499923Z","aliases":["GHSA-252m-vjpw-497v"],"summary":"Malicious code in @nebula.js/sn-nav-menu (npm)","affected":[{"package":{"name":"@nebula.js/sn-nav-menu","ecosystem":"npm","purl":"pkg:npm/%40nebula.js/sn-nav-menu"},"versions":["0.14.2"]}]}

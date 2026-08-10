@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13094","published":"2026-08-05T14:23:06Z","modified":"2026-08-05T15:52:19.850031721Z","summary":"Malicious code in boxy-use-calls (npm)","affected":[{"package":{"name":"boxy-use-calls","ecosystem":"npm","purl":"pkg:npm/boxy-use-calls"},"versions":["35.1.8"]}]}

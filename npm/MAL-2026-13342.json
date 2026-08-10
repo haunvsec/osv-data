@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13342","published":"2026-08-05T15:52:32Z","modified":"2026-08-05T16:51:01.537417037Z","summary":"Malicious code in encrypt-string-safe (npm)","affected":[{"package":{"name":"encrypt-string-safe","ecosystem":"npm","purl":"pkg:npm/encrypt-string-safe"},"versions":["2.2.0"]}]}

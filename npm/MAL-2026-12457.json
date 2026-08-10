@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12457","published":"2026-08-05T12:51:59Z","modified":"2026-08-05T13:36:05.740626505Z","summary":"Malicious code in streak-bucket-core (npm)","affected":[{"package":{"name":"streak-bucket-core","ecosystem":"npm","purl":"pkg:npm/streak-bucket-core"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12327","published":"2026-08-05T12:45:09Z","modified":"2026-08-05T13:35:13.040452093Z","summary":"Malicious code in @offa-uwk/offa-uwk (npm)","affected":[{"package":{"name":"@offa-uwk/offa-uwk","ecosystem":"npm","purl":"pkg:npm/%40offa-uwk/offa-uwk"},"versions":["999.0.6"]}]}

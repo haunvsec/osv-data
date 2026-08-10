@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13348","published":"2026-08-05T15:41:20Z","modified":"2026-08-05T16:51:05.971721647Z","summary":"Malicious code in lakk-analytics (npm)","affected":[{"package":{"name":"lakk-analytics","ecosystem":"npm","purl":"pkg:npm/lakk-analytics"},"versions":["9.9.11"]}]}

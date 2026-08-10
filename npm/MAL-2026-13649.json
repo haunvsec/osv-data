@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13649","published":"2026-08-08T00:47:27Z","modified":"2026-08-08T01:04:47.561144421Z","summary":"Malicious code in sme-rko-finance-front-operations-tax (npm)","affected":[{"package":{"name":"sme-rko-finance-front-operations-tax","ecosystem":"npm","purl":"pkg:npm/sme-rko-finance-front-operations-tax"},"versions":["35.8.1"]}]}

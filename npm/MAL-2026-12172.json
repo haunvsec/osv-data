@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12172","published":"2026-08-05T08:47:31Z","modified":"2026-08-06T01:20:03.701861229Z","aliases":["GHSA-r63g-878r-qfjf"],"summary":"Malicious code in bigops-voximplant (npm)","affected":[{"package":{"name":"bigops-voximplant","ecosystem":"npm","purl":"pkg:npm/bigops-voximplant"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

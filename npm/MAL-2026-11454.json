@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11454","published":"2026-07-31T21:51:11Z","modified":"2026-08-05T07:21:01.736964852Z","aliases":["GHSA-34m8-mhm4-w3q4"],"summary":"Malicious code in ai-backup-script (npm)","affected":[{"package":{"name":"ai-backup-script","ecosystem":"npm","purl":"pkg:npm/ai-backup-script"},"versions":["1.0.2","1.0.0","0.0.2"]}]}

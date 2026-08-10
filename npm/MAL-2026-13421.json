@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13421","published":"2026-08-06T13:11:00Z","modified":"2026-08-06T14:34:49.149945499Z","summary":"Malicious code in @trackunit/iris-app-sdk-vite (npm)","affected":[{"package":{"name":"@trackunit/iris-app-sdk-vite","ecosystem":"npm","purl":"pkg:npm/%40trackunit/iris-app-sdk-vite"},"versions":["1.2.10-alpha-d785aff3531.0"]}]}

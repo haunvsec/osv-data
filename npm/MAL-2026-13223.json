@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13223","published":"2026-08-05T15:38:12Z","modified":"2026-08-05T16:49:59.778100381Z","summary":"Malicious code in bigops-logs-player (npm)","affected":[{"package":{"name":"bigops-logs-player","ecosystem":"npm","purl":"pkg:npm/bigops-logs-player"},"versions":["35.2.8"]}]}

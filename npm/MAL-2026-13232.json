@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13232","published":"2026-08-05T15:36:31Z","modified":"2026-08-05T16:50:04.004877691Z","summary":"Malicious code in bigops-plugin-notification-builder (npm)","affected":[{"package":{"name":"bigops-plugin-notification-builder","ecosystem":"npm","purl":"pkg:npm/bigops-plugin-notification-builder"},"versions":["35.1.3"]}]}

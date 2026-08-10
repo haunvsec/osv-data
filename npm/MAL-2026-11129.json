@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11129","published":"2026-07-28T13:29:16Z","modified":"2026-07-28T14:37:22.514403615Z","summary":"Malicious code in app-svm-layer (npm)","affected":[{"package":{"name":"app-svm-layer","ecosystem":"npm","purl":"pkg:npm/app-svm-layer"},"versions":["2.1.6"]}]}

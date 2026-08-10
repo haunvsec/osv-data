@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12753","published":"2026-08-05T13:43:53Z","modified":"2026-08-05T14:36:55.636081772Z","summary":"Malicious code in devplatform-snarkdown (npm)","affected":[{"package":{"name":"devplatform-snarkdown","ecosystem":"npm","purl":"pkg:npm/devplatform-snarkdown"},"versions":["35.2.1"]}]}

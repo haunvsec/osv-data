@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13096","published":"2026-08-05T14:24:59Z","modified":"2026-08-05T15:52:20.918540485Z","summary":"Malicious code in boxy-validate-implicit-deps (npm)","affected":[{"package":{"name":"boxy-validate-implicit-deps","ecosystem":"npm","purl":"pkg:npm/boxy-validate-implicit-deps"},"versions":["35.2.6"]}]}

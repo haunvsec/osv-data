@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12387","published":"2026-08-05T12:45:54Z","modified":"2026-08-05T13:35:29.551492143Z","summary":"Malicious code in gekko-mev-bot (npm)","affected":[{"package":{"name":"gekko-mev-bot","ecosystem":"npm","purl":"pkg:npm/gekko-mev-bot"},"versions":["1.0.0"]}]}

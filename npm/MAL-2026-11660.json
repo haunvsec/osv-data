@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11660","published":"2026-08-04T15:27:12Z","modified":"2026-08-05T08:50:32.729987829Z","aliases":["GHSA-942v-37mw-mwm8"],"summary":"Malicious code in @onereach/ui-components (npm)","affected":[{"package":{"name":"@onereach/ui-components","ecosystem":"npm","purl":"pkg:npm/%40onereach/ui-components"},"versions":["27.0.2","27.0.3","27.0.4"]}]}

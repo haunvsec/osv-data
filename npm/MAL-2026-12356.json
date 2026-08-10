@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12356","published":"2026-08-05T12:59:59Z","modified":"2026-08-05T13:35:15.066438600Z","summary":"Malicious code in content-publisher-sdks (npm)","affected":[{"package":{"name":"content-publisher-sdks","ecosystem":"npm","purl":"pkg:npm/content-publisher-sdks"},"versions":["1.0.1"]}]}

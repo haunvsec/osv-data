@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11247","published":"2026-07-30T21:50:14Z","modified":"2026-07-31T01:37:34.564898014Z","aliases":["GHSA-c93x-hmxp-gvmw"],"summary":"Malicious code in base58-ts (npm)","affected":[{"package":{"name":"base58-ts","ecosystem":"npm","purl":"pkg:npm/base58-ts"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

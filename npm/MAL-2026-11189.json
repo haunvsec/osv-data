@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11189","published":"2026-07-29T16:07:08Z","modified":"2026-07-30T04:36:07.988464332Z","aliases":["GHSA-qw86-6hcg-cj2j"],"summary":"Malicious code in test-skill-zip (npm)","affected":[{"package":{"name":"test-skill-zip","ecosystem":"npm","purl":"pkg:npm/test-skill-zip"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

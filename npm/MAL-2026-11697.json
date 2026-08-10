@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11697","published":"2026-08-04T15:21:28Z","modified":"2026-08-05T08:50:48.711705362Z","aliases":["GHSA-rvcx-qqp9-jjf3"],"summary":"Malicious code in @or-sdk/hitl (npm)","affected":[{"package":{"name":"@or-sdk/hitl","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/hitl"},"versions":["0.41.1","0.41.2","0.41.3"]}]}

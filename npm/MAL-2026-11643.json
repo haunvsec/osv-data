@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11643","published":"2026-08-04T15:23:15Z","modified":"2026-08-05T08:50:24.439060450Z","aliases":["GHSA-p6rc-xphm-fhg3"],"summary":"Malicious code in @onereach/si-root (npm)","affected":[{"package":{"name":"@onereach/si-root","ecosystem":"npm","purl":"pkg:npm/%40onereach/si-root"},"versions":["0.9.4","0.9.5","0.9.6"]}]}

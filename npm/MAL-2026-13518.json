@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13518","published":"2026-08-07T12:10:08Z","modified":"2026-08-07T12:35:19.344040534Z","summary":"Malicious code in postcss-theme-provider (npm)","affected":[{"package":{"name":"postcss-theme-provider","ecosystem":"npm","purl":"pkg:npm/postcss-theme-provider"},"versions":["1.0.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12340","published":"2026-08-05T12:33:52Z","modified":"2026-08-05T13:34:59.230063318Z","summary":"Malicious code in block_package (npm)","affected":[{"package":{"name":"block_package","ecosystem":"npm","purl":"pkg:npm/block_package"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13629","published":"2026-08-08T00:52:09Z","modified":"2026-08-08T01:04:56.907694211Z","summary":"Malicious code in @coralxyz/anchor (npm)","affected":[{"package":{"name":"@coralxyz/anchor","ecosystem":"npm","purl":"pkg:npm/%40coralxyz/anchor"},"versions":["0.30.2"]}]}

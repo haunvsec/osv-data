@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13676","published":"2026-08-07T17:47:55Z","modified":"2026-08-10T00:50:17.710553334Z","aliases":["GHSA-9qqc-qrf8-gp8j"],"summary":"Malicious code in svelte-cache-kit (npm)","affected":[{"package":{"name":"svelte-cache-kit","ecosystem":"npm","purl":"pkg:npm/svelte-cache-kit"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

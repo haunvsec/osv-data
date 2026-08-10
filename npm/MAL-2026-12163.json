@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12163","published":"2026-08-05T08:46:12Z","modified":"2026-08-05T10:05:59.702688709Z","summary":"Malicious code in bigops-data-storage (npm)","affected":[{"package":{"name":"bigops-data-storage","ecosystem":"npm","purl":"pkg:npm/bigops-data-storage"},"versions":["35.7.1"]}]}

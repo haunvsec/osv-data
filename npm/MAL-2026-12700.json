@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12700","published":"2026-08-05T13:52:03Z","modified":"2026-08-05T14:36:31.486264847Z","summary":"Malicious code in devplatform-cli-contracts (npm)","affected":[{"package":{"name":"devplatform-cli-contracts","ecosystem":"npm","purl":"pkg:npm/devplatform-cli-contracts"},"versions":["35.7.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12849","published":"2026-08-05T15:01:04Z","modified":"2026-08-06T01:20:02.231223165Z","aliases":["GHSA-w34q-g8gm-8c7m"],"summary":"Malicious code in bigops-ui-kit (npm)","affected":[{"package":{"name":"bigops-ui-kit","ecosystem":"npm","purl":"pkg:npm/bigops-ui-kit"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

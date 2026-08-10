@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13685","published":"2026-08-10T08:37:18Z","modified":"2026-08-10T09:48:20.484746497Z","summary":"Malicious code in pytablute (PyPI)","affected":[{"package":{"name":"pytablute","ecosystem":"PyPI","purl":"pkg:pypi/pytablute"},"versions":["1.0.3"]}]}

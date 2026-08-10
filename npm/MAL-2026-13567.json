@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13567","published":"2026-08-07T12:25:05Z","modified":"2026-08-07T13:20:35.933251910Z","summary":"Malicious code in dolyame-ui-draghoc (npm)","affected":[{"package":{"name":"dolyame-ui-draghoc","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-draghoc"},"versions":["35.8.1"]}]}

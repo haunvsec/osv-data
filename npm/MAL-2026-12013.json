@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12013","published":"2026-08-04T13:01:34Z","modified":"2026-08-05T10:05:28.164498218Z","aliases":["GHSA-5v34-xm6r-f57w"],"summary":"Malicious code in @keyv/encrypt-node (npm)","affected":[{"package":{"name":"@keyv/encrypt-node","ecosystem":"npm","purl":"pkg:npm/%40keyv/encrypt-node"},"versions":["6.0.0"]}]}

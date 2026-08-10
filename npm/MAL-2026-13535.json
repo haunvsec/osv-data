@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13535","published":"2026-08-07T12:32:20Z","modified":"2026-08-07T13:20:19.153583161Z","summary":"Malicious code in ded-pwa-c-mapping (npm)","affected":[{"package":{"name":"ded-pwa-c-mapping","ecosystem":"npm","purl":"pkg:npm/ded-pwa-c-mapping"},"versions":["35.8.7"]}]}

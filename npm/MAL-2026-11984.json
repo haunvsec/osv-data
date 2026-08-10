@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11984","published":"2026-08-04T15:53:25Z","modified":"2026-08-05T08:51:22.781595644Z","aliases":["GHSA-4hq4-8pfx-pmvw"],"summary":"Malicious code in qlik-object-conversion (npm)","affected":[{"package":{"name":"qlik-object-conversion","ecosystem":"npm","purl":"pkg:npm/qlik-object-conversion"},"versions":["0.17.2"]}]}

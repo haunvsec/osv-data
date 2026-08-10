@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12573","published":"2026-08-05T14:11:19Z","modified":"2026-08-05T14:35:30.328099640Z","summary":"Malicious code in checkout-mobile-cashback (npm)","affected":[{"package":{"name":"checkout-mobile-cashback","ecosystem":"npm","purl":"pkg:npm/checkout-mobile-cashback"},"versions":["35.4.9"]}]}

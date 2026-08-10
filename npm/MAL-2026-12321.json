@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12321","published":"2026-08-05T13:03:32Z","modified":"2026-08-05T13:35:11.003990834Z","summary":"Malicious code in @mgor/fw-canary-20260725-394b024b (npm)","affected":[{"package":{"name":"@mgor/fw-canary-20260725-394b024b","ecosystem":"npm","purl":"pkg:npm/%40mgor/fw-canary-20260725-394b024b"},"versions":["0.0.2"]}]}

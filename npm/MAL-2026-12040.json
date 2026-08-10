@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12040","published":"2026-08-05T01:22:41Z","modified":"2026-08-05T01:49:50.171442515Z","summary":"Malicious code in forge-extended (npm)","affected":[{"package":{"name":"forge-extended","ecosystem":"npm","purl":"pkg:npm/forge-extended"},"versions":["1.0.1"]}]}

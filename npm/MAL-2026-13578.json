@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13578","published":"2026-08-07T12:32:00Z","modified":"2026-08-07T13:20:42.441290358Z","summary":"Malicious code in dolyame-ui-inputfio (npm)","affected":[{"package":{"name":"dolyame-ui-inputfio","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-inputfio"},"versions":["35.8.1"]}]}

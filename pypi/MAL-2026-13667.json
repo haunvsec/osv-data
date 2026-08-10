@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13667","published":"2026-08-09T20:39:54Z","modified":"2026-08-09T21:32:43.142391896Z","summary":"Malicious code in kotanku (PyPI)","affected":[{"package":{"name":"kotanku","ecosystem":"PyPI","purl":"pkg:pypi/kotanku"},"versions":["0.1.0"]}]}

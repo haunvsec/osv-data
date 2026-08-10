@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12568","published":"2026-08-05T14:12:40Z","modified":"2026-08-05T14:35:28.124896632Z","summary":"Malicious code in checkout-input-email-logic (npm)","affected":[{"package":{"name":"checkout-input-email-logic","ecosystem":"npm","purl":"pkg:npm/checkout-input-email-logic"},"versions":["35.8.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11278","published":"2026-07-30T22:45:02Z","modified":"2026-07-31T01:38:02.667601329Z","aliases":["GHSA-3gvj-vp8w-8hhv"],"summary":"Malicious code in discord-ms (npm)","affected":[{"package":{"name":"discord-ms","ecosystem":"npm","purl":"pkg:npm/discord-ms"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

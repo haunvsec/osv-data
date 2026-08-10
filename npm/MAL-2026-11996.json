@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11996","published":"2026-08-04T23:57:24Z","modified":"2026-08-05T00:37:51.988465045Z","summary":"Malicious code in emulative (npm)","affected":[{"package":{"name":"emulative","ecosystem":"npm","purl":"pkg:npm/emulative"},"versions":["1.0.1"]}]}

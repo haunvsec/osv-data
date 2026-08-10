@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12511","published":"2026-08-05T13:17:43Z","modified":"2026-08-05T14:35:12.682847248Z","summary":"Malicious code in application_base (npm)","affected":[{"package":{"name":"application_base","ecosystem":"npm","purl":"pkg:npm/application_base"},"versions":["9999.0.0"]}]}

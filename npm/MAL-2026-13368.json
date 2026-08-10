@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13368","published":"2026-08-05T18:25:27Z","modified":"2026-08-05T19:19:50.019648029Z","summary":"Malicious code in express-dever (npm)","affected":[{"package":{"name":"express-dever","ecosystem":"npm","purl":"pkg:npm/express-dever"},"versions":["5.1.8","5.1.7"]}]}

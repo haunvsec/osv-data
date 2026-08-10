@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11558","published":"2026-08-04T11:35:29Z","modified":"2026-08-05T07:19:54.742534026Z","aliases":["GHSA-583f-9h76-9fx2"],"summary":"Malicious code in @cacheable/memory (npm)","affected":[{"package":{"name":"@cacheable/memory","ecosystem":"npm","purl":"pkg:npm/%40cacheable/memory"},"versions":["2.2.1"]}]}

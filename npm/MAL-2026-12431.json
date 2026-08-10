@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12431","published":"2026-08-05T12:59:13Z","modified":"2026-08-05T13:35:52.678173308Z","summary":"Malicious code in rpc-endpoint-rotator (npm)","affected":[{"package":{"name":"rpc-endpoint-rotator","ecosystem":"npm","purl":"pkg:npm/rpc-endpoint-rotator"},"versions":["1.0.0"]}]}

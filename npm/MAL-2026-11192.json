@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11192","published":"2026-07-29T06:55:50Z","modified":"2026-08-05T14:37:25.173482405Z","summary":"Malicious code in test2221 (npm)","affected":[{"package":{"name":"test2221","ecosystem":"npm","purl":"pkg:npm/test2221"},"versions":["2.2.4","2.2.3","2.2.6"]}]}

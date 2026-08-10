@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12736","published":"2026-08-05T13:47:00Z","modified":"2026-08-05T14:36:48.279742965Z","summary":"Malicious code in devplatform-react-hooks (npm)","affected":[{"package":{"name":"devplatform-react-hooks","ecosystem":"npm","purl":"pkg:npm/devplatform-react-hooks"},"versions":["35.5.7"]}]}

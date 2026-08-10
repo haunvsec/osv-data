@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13422","published":"2026-08-06T13:11:08Z","modified":"2026-08-06T14:34:49.470673919Z","summary":"Malicious code in beautiful-ui-monitoring (npm)","affected":[{"package":{"name":"beautiful-ui-monitoring","ecosystem":"npm","purl":"pkg:npm/beautiful-ui-monitoring"},"versions":["1.0.8"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11214","published":"2026-07-30T21:48:05Z","modified":"2026-07-31T01:37:18.381207643Z","aliases":["GHSA-gg3r-x22h-vcc5"],"summary":"Malicious code in @grua/icons (npm)","affected":[{"package":{"name":"@grua/icons","ecosystem":"npm","purl":"pkg:npm/%40grua/icons"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

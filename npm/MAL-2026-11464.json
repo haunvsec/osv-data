@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11464","published":"2026-07-31T21:59:48Z","modified":"2026-08-04T23:05:08.738042689Z","aliases":["GHSA-4ch5-wcxv-58j5"],"summary":"Malicious code in gtm-mcp-auth (npm)","affected":[{"package":{"name":"gtm-mcp-auth","ecosystem":"npm","purl":"pkg:npm/gtm-mcp-auth"},"versions":["1.0.0"]}]}

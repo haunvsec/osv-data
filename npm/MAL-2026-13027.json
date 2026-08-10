@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13027","published":"2026-08-05T14:34:47Z","modified":"2026-08-05T15:51:49.319049371Z","summary":"Malicious code in book-collect (npm)","affected":[{"package":{"name":"book-collect","ecosystem":"npm","purl":"pkg:npm/book-collect"},"versions":["35.8.2"]}]}

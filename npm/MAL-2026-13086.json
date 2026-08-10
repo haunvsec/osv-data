@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13086","published":"2026-08-05T14:24:24Z","modified":"2026-08-05T15:52:15.897957454Z","summary":"Malicious code in boxy-storybook-addon-changelog (npm)","affected":[{"package":{"name":"boxy-storybook-addon-changelog","ecosystem":"npm","purl":"pkg:npm/boxy-storybook-addon-changelog"},"versions":["35.1.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12354","published":"2026-08-05T12:38:16Z","modified":"2026-08-05T13:34:51.714515690Z","summary":"Malicious code in code-analyzer-mcp (npm)","affected":[{"package":{"name":"code-analyzer-mcp","ecosystem":"npm","purl":"pkg:npm/code-analyzer-mcp"},"versions":["1.0.0"]}]}

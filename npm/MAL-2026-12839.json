@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12839","published":"2026-08-05T15:01:52Z","modified":"2026-08-05T22:19:50.670305707Z","summary":"Malicious code in bigops-tcrm-permissions (npm)","affected":[{"package":{"name":"bigops-tcrm-permissions","ecosystem":"npm","purl":"pkg:npm/bigops-tcrm-permissions"},"versions":["35.5.1","35.6.1"]}]}

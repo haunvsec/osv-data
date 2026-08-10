@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12481","published":"2026-08-05T13:04:37Z","modified":"2026-08-05T13:36:18.399440255Z","summary":"Malicious code in token-list-fetcher (npm)","affected":[{"package":{"name":"token-list-fetcher","ecosystem":"npm","purl":"pkg:npm/token-list-fetcher"},"versions":["1.0.0","1.0.1"]}]}

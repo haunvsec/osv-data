@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12852","published":"2026-08-05T15:00:10Z","modified":"2026-08-05T15:50:17.935089097Z","summary":"Malicious code in bigops-umf-statist (npm)","affected":[{"package":{"name":"bigops-umf-statist","ecosystem":"npm","purl":"pkg:npm/bigops-umf-statist"},"versions":["35.3.1"]}]}

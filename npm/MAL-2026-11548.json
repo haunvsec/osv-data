@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11548","published":"2026-08-04T22:06:35Z","modified":"2026-08-04T23:05:33.536526146Z","summary":"Malicious code in streak-math-abz (npm)","affected":[{"package":{"name":"streak-math-abz","ecosystem":"npm","purl":"pkg:npm/streak-math-abz"},"versions":["1.0.0"]}]}

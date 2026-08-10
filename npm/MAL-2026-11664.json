@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11664","published":"2026-08-04T13:19:23Z","modified":"2026-08-05T08:50:33.192134382Z","aliases":["GHSA-2r99-2449-9mqm"],"summary":"Malicious code in @onereach/webform (npm)","affected":[{"package":{"name":"@onereach/webform","ecosystem":"npm","purl":"pkg:npm/%40onereach/webform"},"versions":["0.3.13","0.3.14","0.3.15"]}]}

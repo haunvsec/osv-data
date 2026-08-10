@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11393","published":"2026-07-30T22:25:30Z","modified":"2026-07-31T01:39:17.963509829Z","aliases":["GHSA-9x5x-r7x3-737h"],"summary":"Malicious code in tailwindcssss (npm)","affected":[{"package":{"name":"tailwindcssss","ecosystem":"npm","purl":"pkg:npm/tailwindcssss"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

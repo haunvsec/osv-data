@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13127","published":"2026-08-05T15:19:05Z","modified":"2026-08-05T15:52:36.155058627Z","summary":"Malicious code in dolyame-boxy-mobile-bnpl-popup (npm)","affected":[{"package":{"name":"dolyame-boxy-mobile-bnpl-popup","ecosystem":"npm","purl":"pkg:npm/dolyame-boxy-mobile-bnpl-popup"},"versions":["35.1.9"]}]}

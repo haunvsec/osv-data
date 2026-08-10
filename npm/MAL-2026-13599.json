@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13599","published":"2026-08-07T12:30:51Z","modified":"2026-08-07T13:20:55.218613229Z","summary":"Malicious code in dolyame-ui-sortablelist (npm)","affected":[{"package":{"name":"dolyame-ui-sortablelist","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-sortablelist"},"versions":["35.8.1"]}]}

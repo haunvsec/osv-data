@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12569","published":"2026-08-05T14:13:03Z","modified":"2026-08-05T14:35:28.415019028Z","summary":"Malicious code in checkout-legal-logic (npm)","affected":[{"package":{"name":"checkout-legal-logic","ecosystem":"npm","purl":"pkg:npm/checkout-legal-logic"},"versions":["35.3.7"]}]}

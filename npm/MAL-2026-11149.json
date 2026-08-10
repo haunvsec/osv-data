@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11149","published":"2026-07-28T13:41:10Z","modified":"2026-07-28T14:37:13.018245016Z","summary":"Malicious code in streak-core-math (npm)","affected":[{"package":{"name":"streak-core-math","ecosystem":"npm","purl":"pkg:npm/streak-core-math"},"versions":["1.0.0"]}]}

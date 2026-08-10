@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13080","published":"2026-08-05T14:26:21Z","modified":"2026-08-05T15:52:12.996384090Z","summary":"Malicious code in boxy-search-workspace-substrings (npm)","affected":[{"package":{"name":"boxy-search-workspace-substrings","ecosystem":"npm","purl":"pkg:npm/boxy-search-workspace-substrings"},"versions":["35.8.6"]}]}

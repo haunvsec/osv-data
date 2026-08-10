@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13070","published":"2026-08-05T14:27:36Z","modified":"2026-08-05T15:52:09.128226462Z","summary":"Malicious code in boxy-mm-server-loader (npm)","affected":[{"package":{"name":"boxy-mm-server-loader","ecosystem":"npm","purl":"pkg:npm/boxy-mm-server-loader"},"versions":["35.5.8"]}]}

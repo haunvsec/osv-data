@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12907","published":"2026-08-05T14:52:23Z","modified":"2026-08-05T15:50:52.318087050Z","summary":"Malicious code in bnpl-blocks-component-story-name (npm)","affected":[{"package":{"name":"bnpl-blocks-component-story-name","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-component-story-name"},"versions":["35.2.7"]}]}

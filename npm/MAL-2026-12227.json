@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12227","published":"2026-08-05T08:57:19Z","modified":"2026-08-05T10:06:33.800383503Z","summary":"Malicious code in tinkoff-boxy-atom-text-link (npm)","affected":[{"package":{"name":"tinkoff-boxy-atom-text-link","ecosystem":"npm","purl":"pkg:npm/tinkoff-boxy-atom-text-link"},"versions":["20.5.9"]}]}

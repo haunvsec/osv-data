@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12677","published":"2026-08-05T13:55:34Z","modified":"2026-08-05T14:36:21.191819452Z","summary":"Malicious code in delivery-ci-notify (npm)","affected":[{"package":{"name":"delivery-ci-notify","ecosystem":"npm","purl":"pkg:npm/delivery-ci-notify"},"versions":["35.2.5"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12141","published":"2026-08-05T08:54:01Z","modified":"2026-08-05T10:05:48.793036726Z","summary":"Malicious code in beaver-ui-actions-button (npm)","affected":[{"package":{"name":"beaver-ui-actions-button","ecosystem":"npm","purl":"pkg:npm/beaver-ui-actions-button"},"versions":["5.4.7","5.4.8","12.3.9","5.4.6","5.4.9"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12621","published":"2026-08-05T14:06:00Z","modified":"2026-08-05T14:35:53.333729776Z","summary":"Malicious code in claims-get-indexed-selector (npm)","affected":[{"package":{"name":"claims-get-indexed-selector","ecosystem":"npm","purl":"pkg:npm/claims-get-indexed-selector"},"versions":["35.8.7"]}]}

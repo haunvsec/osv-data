@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12380","published":"2026-08-05T12:50:30Z","modified":"2026-08-05T13:35:26.744853681Z","summary":"Malicious code in fb-forms-form-boilerplate-contacts (npm)","affected":[{"package":{"name":"fb-forms-form-boilerplate-contacts","ecosystem":"npm","purl":"pkg:npm/fb-forms-form-boilerplate-contacts"},"versions":["20.7.1"]}]}

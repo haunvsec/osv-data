@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13005","published":"2026-08-05T14:40:00Z","modified":"2026-08-05T15:51:38.471975971Z","summary":"Malicious code in bnpl-blocks-mobile-bnpl-shopping-banner (npm)","affected":[{"package":{"name":"bnpl-blocks-mobile-bnpl-shopping-banner","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-mobile-bnpl-shopping-banner"},"versions":["35.1.4"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12019","published":"2026-08-04T13:01:44Z","modified":"2026-08-05T10:05:31.005012940Z","aliases":["GHSA-cgpm-wvpq-73p3"],"summary":"Malicious code in @keyv/postgres (npm)","affected":[{"package":{"name":"@keyv/postgres","ecosystem":"npm","purl":"pkg:npm/%40keyv/postgres"},"versions":["6.0.0"]}]}

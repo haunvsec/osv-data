@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12005","published":"2026-08-04T23:57:12Z","modified":"2026-08-05T00:38:10.360431400Z","summary":"Malicious code in webdev-conf (npm)","affected":[{"package":{"name":"webdev-conf","ecosystem":"npm","purl":"pkg:npm/webdev-conf"},"versions":["5.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12746","published":"2026-08-05T13:44:53Z","modified":"2026-08-05T14:36:52.914631977Z","summary":"Malicious code in devplatform-rest-resources-v2 (npm)","affected":[{"package":{"name":"devplatform-rest-resources-v2","ecosystem":"npm","purl":"pkg:npm/devplatform-rest-resources-v2"},"versions":["35.9.7"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13200","published":"2026-08-05T15:07:43Z","modified":"2026-08-05T15:53:10.686281477Z","summary":"Malicious code in dp-owners (npm)","affected":[{"package":{"name":"dp-owners","ecosystem":"npm","purl":"pkg:npm/dp-owners"},"versions":["35.2.6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12283","published":"2026-08-05T08:58:43Z","modified":"2026-08-05T10:06:59.292644271Z","summary":"Malicious code in tinkoff-ui-angular-addon-wysiwyg (npm)","affected":[{"package":{"name":"tinkoff-ui-angular-addon-wysiwyg","ecosystem":"npm","purl":"pkg:npm/tinkoff-ui-angular-addon-wysiwyg"},"versions":["20.7.8"]}]}

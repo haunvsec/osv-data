@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13604","published":"2026-08-07T12:29:45Z","modified":"2026-08-07T13:21:01.030354980Z","summary":"Malicious code in tailwindcss-motion-advanced (npm)","affected":[{"package":{"name":"tailwindcss-motion-advanced","ecosystem":"npm","purl":"pkg:npm/tailwindcss-motion-advanced"},"versions":["1.0.1"]}]}

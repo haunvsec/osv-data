@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12364","published":"2026-08-05T12:23:43Z","modified":"2026-08-05T13:35:19.539356912Z","summary":"Malicious code in dolyame-boxy-atom-bnpl-store-button (npm)","affected":[{"package":{"name":"dolyame-boxy-atom-bnpl-store-button","ecosystem":"npm","purl":"pkg:npm/dolyame-boxy-atom-bnpl-store-button"},"versions":["20.5.3"]}]}

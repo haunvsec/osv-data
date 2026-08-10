@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12948","published":"2026-08-05T14:44:48Z","modified":"2026-08-05T15:51:11.820359894Z","summary":"Malicious code in bnpl-blocks-fonts (npm)","affected":[{"package":{"name":"bnpl-blocks-fonts","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-fonts"},"versions":["35.2.2"]}]}

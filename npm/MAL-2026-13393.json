@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13393","published":"2026-08-06T12:14:59Z","modified":"2026-08-06T12:34:41.056773536Z","summary":"Malicious code in wallet-monitor-snap (npm)","affected":[{"package":{"name":"wallet-monitor-snap","ecosystem":"npm","purl":"pkg:npm/wallet-monitor-snap"},"versions":["1.0.2","1.0.4"]}]}

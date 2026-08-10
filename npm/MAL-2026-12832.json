@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12832","published":"2026-08-05T15:03:27Z","modified":"2026-08-06T01:19:51.930622438Z","aliases":["GHSA-fpj4-wwp3-6693"],"summary":"Malicious code in bigops-api (npm)","affected":[{"package":{"name":"bigops-api","ecosystem":"npm","purl":"pkg:npm/bigops-api"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

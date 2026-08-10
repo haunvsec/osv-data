@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11494","published":"2026-08-01T03:43:29Z","modified":"2026-08-04T22:05:20.460563777Z","aliases":["GHSA-c2gc-7pfc-7fjf"],"summary":"Malicious code in test-dev-sync (npm)","affected":[{"package":{"name":"test-dev-sync","ecosystem":"npm","purl":"pkg:npm/test-dev-sync"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

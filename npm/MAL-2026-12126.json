@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12126","published":"2026-08-05T09:11:13Z","modified":"2026-08-05T10:05:41.278917942Z","summary":"Malicious code in a.poltoradnev-package-b (npm)","affected":[{"package":{"name":"a.poltoradnev-package-b","ecosystem":"npm","purl":"pkg:npm/a.poltoradnev-package-b"},"versions":["0.0.2","33.9.1"]}]}

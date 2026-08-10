@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11112","published":"2026-07-09T00:00:00Z","modified":"2026-08-05T06:35:54.980032337Z","summary":"Malicious code in @wagni_bot/metamask (npm)","affected":[{"package":{"name":"@wagni_bot/metamask","ecosystem":"npm","purl":"pkg:npm/%40wagni_bot/metamask"},"versions":["1.0.0"]}]}

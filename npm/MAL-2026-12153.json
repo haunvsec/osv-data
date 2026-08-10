@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12153","published":"2026-08-05T08:45:56Z","modified":"2026-08-05T10:05:55.135422392Z","summary":"Malicious code in bigops-awesome-viewer (npm)","affected":[{"package":{"name":"bigops-awesome-viewer","ecosystem":"npm","purl":"pkg:npm/bigops-awesome-viewer"},"versions":["35.1.4"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13219","published":"2026-08-05T15:38:43Z","modified":"2026-08-05T16:49:58.256997133Z","summary":"Malicious code in bigops-insite (npm)","affected":[{"package":{"name":"bigops-insite","ecosystem":"npm","purl":"pkg:npm/bigops-insite"},"versions":["35.8.1"]}]}

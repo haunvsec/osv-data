@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12182","published":"2026-08-05T09:09:29Z","modified":"2026-08-05T13:35:34.441654419Z","summary":"Malicious code in json-validator-utils (npm)","affected":[{"package":{"name":"json-validator-utils","ecosystem":"npm","purl":"pkg:npm/json-validator-utils"},"versions":["1.1.0","1.0.1","1.0.0","1.1.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13503","published":"2026-08-07T12:11:18Z","modified":"2026-08-07T12:35:11.234965610Z","summary":"Malicious code in distributorblock (npm)","affected":[{"package":{"name":"distributorblock","ecosystem":"npm","purl":"pkg:npm/distributorblock"},"versions":["35.8.1"]}]}

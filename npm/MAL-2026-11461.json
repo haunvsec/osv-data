@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11461","published":"2026-07-31T17:05:05Z","modified":"2026-08-05T07:21:11.319662538Z","aliases":["GHSA-5hj6-99cc-g84q"],"summary":"Malicious code in eth-bridge (npm)","affected":[{"package":{"name":"eth-bridge","ecosystem":"npm","purl":"pkg:npm/eth-bridge"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

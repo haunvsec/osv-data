@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12315","published":"2026-08-05T13:01:29Z","modified":"2026-08-05T13:35:08.341450639Z","summary":"Malicious code in @cryptosrvc/no-brainer-sdk (npm)","affected":[{"package":{"name":"@cryptosrvc/no-brainer-sdk","ecosystem":"npm","purl":"pkg:npm/%40cryptosrvc/no-brainer-sdk"},"versions":["1.0.18"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13664","published":"2026-08-08T00:52:01Z","modified":"2026-08-08T01:04:55.764818888Z","summary":"Malicious code in titan-exchange-shared-permissions (npm)","affected":[{"package":{"name":"titan-exchange-shared-permissions","ecosystem":"npm","purl":"pkg:npm/titan-exchange-shared-permissions"},"versions":["99.9.9"]}]}

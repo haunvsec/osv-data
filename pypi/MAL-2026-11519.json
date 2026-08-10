@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11519","published":"2026-08-04T10:10:35Z","modified":"2026-08-05T07:21:40.795260623Z","summary":"Malicious code in launchdarkly-ai-server-sdk (PyPI)","affected":[{"package":{"name":"launchdarkly-ai-server-sdk","ecosystem":"PyPI","purl":"pkg:pypi/launchdarkly-ai-server-sdk"},"versions":["1.0.1","1.9.9"]}]}

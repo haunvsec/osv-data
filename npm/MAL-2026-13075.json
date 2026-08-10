@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13075","published":"2026-08-05T14:27:03Z","modified":"2026-08-05T15:52:10.659129532Z","summary":"Malicious code in boxy-pkg-deps-hash (npm)","affected":[{"package":{"name":"boxy-pkg-deps-hash","ecosystem":"npm","purl":"pkg:npm/boxy-pkg-deps-hash"},"versions":["35.1.6"]}]}

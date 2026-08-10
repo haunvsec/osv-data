@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11402","published":"2026-07-30T21:25:58Z","modified":"2026-07-31T01:39:23.069984059Z","aliases":["GHSA-4v2j-v4cg-w2jq"],"summary":"Malicious code in time-to-reload (npm)","affected":[{"package":{"name":"time-to-reload","ecosystem":"npm","purl":"pkg:npm/time-to-reload"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

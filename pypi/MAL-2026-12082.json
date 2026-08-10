@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12082","published":"2026-08-05T05:05:04Z","modified":"2026-08-05T06:36:44.247375799Z","summary":"Malicious code in crypto-trading-toolkit (PyPI)","affected":[{"package":{"name":"crypto-trading-toolkit","ecosystem":"PyPI","purl":"pkg:pypi/crypto-trading-toolkit"},"versions":["3.2.0"]}]}

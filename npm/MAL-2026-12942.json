@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12942","published":"2026-08-05T14:46:08Z","modified":"2026-08-05T15:51:09.037590054Z","summary":"Malicious code in bnpl-blocks-desktop-bnpl-tab-buttons (npm)","affected":[{"package":{"name":"bnpl-blocks-desktop-bnpl-tab-buttons","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-desktop-bnpl-tab-buttons"},"versions":["35.9.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12629","published":"2026-08-05T14:00:44Z","modified":"2026-08-05T14:35:57.289990197Z","summary":"Malicious code in claims-navigate (npm)","affected":[{"package":{"name":"claims-navigate","ecosystem":"npm","purl":"pkg:npm/claims-navigate"},"versions":["35.2.2"]}]}

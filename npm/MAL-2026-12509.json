@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12509","published":"2026-08-05T13:10:30Z","modified":"2026-08-05T14:35:11.245379545Z","summary":"Malicious code in @shiftmarkets/shift-exchange-root (npm)","affected":[{"package":{"name":"@shiftmarkets/shift-exchange-root","ecosystem":"npm","purl":"pkg:npm/%40shiftmarkets/shift-exchange-root"},"versions":["3.9.9","2.9.9","1.9.9"]}]}

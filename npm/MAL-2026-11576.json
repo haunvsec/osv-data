@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11576","published":"2026-08-04T15:51:59Z","modified":"2026-08-05T07:20:02.531506878Z","aliases":["GHSA-rfr7-p954-4m4q"],"summary":"Malicious code in @nebula.js/sn-listbox (npm)","affected":[{"package":{"name":"@nebula.js/sn-listbox","ecosystem":"npm","purl":"pkg:npm/%40nebula.js/sn-listbox"},"versions":["0.19.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11529","published":"2026-08-04T22:08:55Z","modified":"2026-08-04T23:04:45.942499250Z","summary":"Malicious code in @zzzgenesis00/crypto-config (npm)","affected":[{"package":{"name":"@zzzgenesis00/crypto-config","ecosystem":"npm","purl":"pkg:npm/%40zzzgenesis00/crypto-config"},"versions":["2.0.1"]}]}

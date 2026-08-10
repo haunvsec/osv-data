@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13548","published":"2026-08-07T12:33:19Z","modified":"2026-08-07T13:20:26.742949934Z","summary":"Malicious code in devplatform-stylelint-config (npm)","affected":[{"package":{"name":"devplatform-stylelint-config","ecosystem":"npm","purl":"pkg:npm/devplatform-stylelint-config"},"versions":["35.7.4"]}]}

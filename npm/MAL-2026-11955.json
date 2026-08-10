@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11955","published":"2026-08-04T18:00:00Z","modified":"2026-08-05T10:05:37.417673698Z","aliases":["GHSA-cgqh-w28v-v9wg"],"summary":"Malicious code in @umacloud/cli-linux-arm64 (npm)","affected":[{"package":{"name":"@umacloud/cli-linux-arm64","ecosystem":"npm","purl":"pkg:npm/%40umacloud/cli-linux-arm64"},"versions":["1.0.74"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12657","published":"2026-08-05T13:57:25Z","modified":"2026-08-05T14:36:11.025913190Z","summary":"Malicious code in cobrowsing-redis-module (npm)","affected":[{"package":{"name":"cobrowsing-redis-module","ecosystem":"npm","purl":"pkg:npm/cobrowsing-redis-module"},"versions":["35.4.7"]}]}

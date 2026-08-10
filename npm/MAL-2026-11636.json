@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11636","published":"2026-08-04T15:24:55Z","modified":"2026-08-05T08:50:21.366723696Z","aliases":["GHSA-g3gj-q987-qxwh"],"summary":"Malicious code in @onereach/si-divider (npm)","affected":[{"package":{"name":"@onereach/si-divider","ecosystem":"npm","purl":"pkg:npm/%40onereach/si-divider"},"versions":["0.4.11","0.4.12","0.4.13"]}]}

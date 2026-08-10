@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12654","published":"2026-08-05T13:59:16Z","modified":"2026-08-05T14:36:09.642389301Z","summary":"Malicious code in cobrowsing-exception-filter (npm)","affected":[{"package":{"name":"cobrowsing-exception-filter","ecosystem":"npm","purl":"pkg:npm/cobrowsing-exception-filter"},"versions":["35.8.3"]}]}

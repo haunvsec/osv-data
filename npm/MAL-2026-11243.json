@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11243","published":"2026-07-30T21:25:58Z","modified":"2026-07-31T01:37:36.127914465Z","aliases":["GHSA-3cf3-mf4x-c7p2"],"summary":"Malicious code in aven_shared (npm)","affected":[{"package":{"name":"aven_shared","ecosystem":"npm","purl":"pkg:npm/aven_shared"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

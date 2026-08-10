@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13097","published":"2026-08-05T14:22:57Z","modified":"2026-08-05T15:52:21.258141099Z","summary":"Malicious code in boxy-webpack-test-utils (npm)","affected":[{"package":{"name":"boxy-webpack-test-utils","ecosystem":"npm","purl":"pkg:npm/boxy-webpack-test-utils"},"versions":["35.2.1"]}]}

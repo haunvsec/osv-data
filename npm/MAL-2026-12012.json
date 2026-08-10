@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12012","published":"2026-08-04T13:01:34Z","modified":"2026-08-05T00:34:42.201129083Z","aliases":["GHSA-2xmq-8fq4-x7v5"],"summary":"Malicious code in @keyv/dynamo (npm)","affected":[{"package":{"name":"@keyv/dynamo","ecosystem":"npm","purl":"pkg:npm/%40keyv/dynamo"},"versions":["6.0.0"]}]}

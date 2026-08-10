@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12378","published":"2026-08-05T13:04:26Z","modified":"2026-08-05T19:19:51.060856663Z","summary":"Malicious code in express-rate-controller (npm)","affected":[{"package":{"name":"express-rate-controller","ecosystem":"npm","purl":"pkg:npm/express-rate-controller"},"versions":["2.0.1","2.0.0"]}]}

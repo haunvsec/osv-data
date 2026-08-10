@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12718","published":"2026-08-05T13:49:21Z","modified":"2026-08-05T14:36:40.096018654Z","summary":"Malicious code in devplatform-jscodeshift-transforms (npm)","affected":[{"package":{"name":"devplatform-jscodeshift-transforms","ecosystem":"npm","purl":"pkg:npm/devplatform-jscodeshift-transforms"},"versions":["35.9.5"]}]}

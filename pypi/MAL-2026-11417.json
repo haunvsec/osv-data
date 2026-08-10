@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11417","published":"2026-07-31T14:54:17Z","modified":"2026-08-05T06:36:44.228419996Z","summary":"Malicious code in aiprepkit (PyPI)","affected":[{"package":{"name":"aiprepkit","ecosystem":"PyPI","purl":"pkg:pypi/aiprepkit"},"versions":["0.1.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13140","published":"2026-08-05T15:15:35Z","modified":"2026-08-05T15:52:42.384832606Z","summary":"Malicious code in dolyame-ui-calendar (npm)","affected":[{"package":{"name":"dolyame-ui-calendar","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-calendar"},"versions":["35.1.8"]}]}

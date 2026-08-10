@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12521","published":"2026-08-05T14:18:27Z","modified":"2026-08-05T14:35:17.769191447Z","summary":"Malicious code in candy-candy-core (npm)","affected":[{"package":{"name":"candy-candy-core","ecosystem":"npm","purl":"pkg:npm/candy-candy-core"},"versions":["35.2.7"]}]}

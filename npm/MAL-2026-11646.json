@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11646","published":"2026-08-04T15:24:39Z","modified":"2026-08-05T08:50:25.614845606Z","aliases":["GHSA-h853-vq8r-7jvj"],"summary":"Malicious code in @onereach/si-switch (npm)","affected":[{"package":{"name":"@onereach/si-switch","ecosystem":"npm","purl":"pkg:npm/%40onereach/si-switch"},"versions":["0.4.5","0.4.6","0.4.7"]}]}

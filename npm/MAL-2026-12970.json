@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12970","published":"2026-08-05T14:43:24Z","modified":"2026-08-05T15:51:21.934755337Z","summary":"Malicious code in bnpl-blocks-independent-bnpl-swagger (npm)","affected":[{"package":{"name":"bnpl-blocks-independent-bnpl-swagger","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-independent-bnpl-swagger"},"versions":["35.5.1"]}]}

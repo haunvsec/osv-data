@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12612","published":"2026-08-05T14:05:01Z","modified":"2026-08-05T14:35:48.717301898Z","summary":"Malicious code in claims-create-client-validator (npm)","affected":[{"package":{"name":"claims-create-client-validator","ecosystem":"npm","purl":"pkg:npm/claims-create-client-validator"},"versions":["35.8.9"]}]}

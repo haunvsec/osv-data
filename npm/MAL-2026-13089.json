@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13089","published":"2026-08-05T14:26:11Z","modified":"2026-08-05T15:52:16.859336316Z","summary":"Malicious code in boxy-test-block-fixture (npm)","affected":[{"package":{"name":"boxy-test-block-fixture","ecosystem":"npm","purl":"pkg:npm/boxy-test-block-fixture"},"versions":["35.5.5"]}]}

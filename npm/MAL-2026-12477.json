@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12477","published":"2026-08-05T12:37:48Z","modified":"2026-08-06T01:21:26.252625160Z","aliases":["GHSA-66p5-8752-xpg8"],"summary":"Malicious code in tcb-web-images (npm)","affected":[{"package":{"name":"tcb-web-images","ecosystem":"npm","purl":"pkg:npm/tcb-web-images"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

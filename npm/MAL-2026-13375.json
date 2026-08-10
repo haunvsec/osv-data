@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13375","published":"2026-08-05T21:03:30Z","modified":"2026-08-05T22:19:53.643801683Z","summary":"Malicious code in app-api-sdk (npm)","affected":[{"package":{"name":"app-api-sdk","ecosystem":"npm","purl":"pkg:npm/app-api-sdk"},"versions":["2.1.7"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13157","published":"2026-08-05T15:14:26Z","modified":"2026-08-05T15:52:50.204630613Z","summary":"Malicious code in dolyame-ui-grid (npm)","affected":[{"package":{"name":"dolyame-ui-grid","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-grid"},"versions":["35.7.4"]}]}

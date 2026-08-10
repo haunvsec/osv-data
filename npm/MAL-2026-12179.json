@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12179","published":"2026-08-05T09:04:59Z","modified":"2026-08-05T10:06:09.405858721Z","summary":"Malicious code in fb-insurance--boxified-form-vzr-test (npm)","affected":[{"package":{"name":"fb-insurance--boxified-form-vzr-test","ecosystem":"npm","purl":"pkg:npm/fb-insurance--boxified-form-vzr-test"},"versions":["20.3.7"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13385","published":"2026-08-05T13:16:27Z","modified":"2026-08-06T13:34:48.309535335Z","aliases":["GHSA-rjvw-v893-2f7g"],"summary":"Malicious code in tick-forge (npm)","affected":[{"package":{"name":"tick-forge","ecosystem":"npm","purl":"pkg:npm/tick-forge"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

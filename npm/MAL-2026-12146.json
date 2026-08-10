@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12146","published":"2026-08-05T08:53:53Z","modified":"2026-08-06T01:20:07.998396435Z","aliases":["GHSA-cwhj-ccq9-hv73"],"summary":"Malicious code in beaver-ui-hooks (npm)","affected":[{"package":{"name":"beaver-ui-hooks","ecosystem":"npm","purl":"pkg:npm/beaver-ui-hooks"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

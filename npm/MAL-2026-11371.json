@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11371","published":"2026-07-30T22:51:47Z","modified":"2026-07-31T01:39:05.017210213Z","aliases":["GHSA-pcfm-f78r-p9wq"],"summary":"Malicious code in rlp-master (npm)","affected":[{"package":{"name":"rlp-master","ecosystem":"npm","purl":"pkg:npm/rlp-master"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

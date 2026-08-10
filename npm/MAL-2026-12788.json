@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12788","published":"2026-08-05T13:17:36Z","modified":"2026-08-05T14:37:12.186589268Z","summary":"Malicious code in editor_application (npm)","affected":[{"package":{"name":"editor_application","ecosystem":"npm","purl":"pkg:npm/editor_application"},"versions":["9999.0.0"]}]}

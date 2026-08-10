@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11153","published":"2026-07-28T13:32:27Z","modified":"2026-07-28T14:37:27.420635010Z","summary":"Malicious code in triage_bot_using_sdkv3 (npm)","affected":[{"package":{"name":"triage_bot_using_sdkv3","ecosystem":"npm","purl":"pkg:npm/triage_bot_using_sdkv3"},"versions":["2.0.1"]}]}

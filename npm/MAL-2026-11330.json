@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11330","published":"2026-07-30T22:32:34Z","modified":"2026-07-31T01:38:38.647939613Z","aliases":["GHSA-73g9-wgm7-84qr"],"summary":"Malicious code in malxios (npm)","affected":[{"package":{"name":"malxios","ecosystem":"npm","purl":"pkg:npm/malxios"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

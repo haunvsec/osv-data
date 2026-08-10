@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13682","published":"2026-08-10T05:23:01Z","modified":"2026-08-10T06:48:03.960316306Z","summary":"Malicious code in btcflx (PyPI)","affected":[{"package":{"name":"btcflx","ecosystem":"PyPI","purl":"pkg:pypi/btcflx"},"versions":["0.1.0"]}]}

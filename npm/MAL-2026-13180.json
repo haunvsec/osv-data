@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13180","published":"2026-08-05T15:11:39Z","modified":"2026-08-05T15:53:00.975651523Z","summary":"Malicious code in dolyame-ui-react-wrapper (npm)","affected":[{"package":{"name":"dolyame-ui-react-wrapper","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-react-wrapper"},"versions":["35.4.2"]}]}

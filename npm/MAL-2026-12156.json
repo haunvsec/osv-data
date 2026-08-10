@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12156","published":"2026-08-05T08:46:28Z","modified":"2026-08-05T10:05:56.386686095Z","summary":"Malicious code in bigops-chat-transfer (npm)","affected":[{"package":{"name":"bigops-chat-transfer","ecosystem":"npm","purl":"pkg:npm/bigops-chat-transfer"},"versions":["35.3.6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12399","published":"2026-08-05T13:02:19Z","modified":"2026-08-05T13:35:36.221379051Z","summary":"Malicious code in luluking3 (npm)","affected":[{"package":{"name":"luluking3","ecosystem":"npm","purl":"pkg:npm/luluking3"},"versions":["0.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11966","published":"2026-08-04T11:32:31Z","modified":"2026-08-05T07:21:09.024799131Z","aliases":["GHSA-g3q3-j6vf-388h"],"summary":"Malicious code in ecto (npm)","affected":[{"package":{"name":"ecto","ecosystem":"npm","purl":"pkg:npm/ecto"},"versions":["5.0.1"]}]}

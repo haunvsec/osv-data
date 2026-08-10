@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13262","published":"2026-08-05T15:31:21Z","modified":"2026-08-05T16:50:22.249637127Z","summary":"Malicious code in devplatform-spa-ui (npm)","affected":[{"package":{"name":"devplatform-spa-ui","ecosystem":"npm","purl":"pkg:npm/devplatform-spa-ui"},"versions":["35.8.2"]}]}

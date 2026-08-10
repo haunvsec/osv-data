@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2026-11050","published":"2026-07-24T19:14:19Z","modified":"2026-07-24T20:18:18.356838018Z","summary":"Malicious code in discordnv (PyPI)","affected":[{"package":{"name":"discordnv","ecosystem":"PyPI","purl":"pkg:pypi/discordnv"},"versions":["0.8.0"]}]}
+{"schema_version":"1.8.0","id":"MAL-2026-11050","published":"2026-07-24T19:14:19Z","modified":"2026-08-04T22:05:26.023750145Z","summary":"Malicious code in discordnv (PyPI)","affected":[{"package":{"name":"discordnv","ecosystem":"PyPI","purl":"pkg:pypi/discordnv"},"versions":["0.8.0"]}]}

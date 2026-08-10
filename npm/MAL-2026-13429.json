@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13429","published":"2026-08-06T15:48:23Z","modified":"2026-08-06T23:50:26.913815332Z","summary":"Malicious code in @avi892nash/aegis-grid-runner (npm)","affected":[{"package":{"name":"@avi892nash/aegis-grid-runner","ecosystem":"npm","purl":"pkg:npm/%40avi892nash/aegis-grid-runner"},"versions":["0.3.3"]}]}

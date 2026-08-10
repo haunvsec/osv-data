@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11425","published":"2026-08-01T10:58:03Z","modified":"2026-08-04T23:05:49.558203867Z","summary":"Malicious code in nvtorch-oot-nightly (PyPI)","affected":[{"package":{"name":"nvtorch-oot-nightly","ecosystem":"PyPI","purl":"pkg:pypi/nvtorch-oot-nightly"},"versions":["99999.0.0","99999.0.1"]}]}

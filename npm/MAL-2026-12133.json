@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12133","published":"2026-08-05T09:06:16Z","modified":"2026-08-05T10:05:45.106955667Z","summary":"Malicious code in accounts-forms (npm)","affected":[{"package":{"name":"accounts-forms","ecosystem":"npm","purl":"pkg:npm/accounts-forms"},"versions":["0.0.2","33.2.6"]}]}

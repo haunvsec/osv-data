@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11299","published":"2026-07-30T22:51:45Z","modified":"2026-07-31T01:38:19.438779456Z","aliases":["GHSA-jw38-p89x-r52c"],"summary":"Malicious code in ethers.jsonn (npm)","affected":[{"package":{"name":"ethers.jsonn","ecosystem":"npm","purl":"pkg:npm/ethers.jsonn"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

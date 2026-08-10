@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12643","published":"2026-08-05T14:02:50Z","modified":"2026-08-05T14:36:04.566155622Z","summary":"Malicious code in claims-should-retry (npm)","affected":[{"package":{"name":"claims-should-retry","ecosystem":"npm","purl":"pkg:npm/claims-should-retry"},"versions":["35.6.8"]}]}

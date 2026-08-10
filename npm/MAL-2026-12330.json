@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12330","published":"2026-08-05T12:37:21Z","modified":"2026-08-06T09:34:48.791690701Z","aliases":["GHSA-rx4f-8493-c7j8"],"summary":"Malicious code in @vboxdev/common (npm)","affected":[{"package":{"name":"@vboxdev/common","ecosystem":"npm","purl":"pkg:npm/%40vboxdev/common"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

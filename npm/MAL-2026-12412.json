@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12412","published":"2026-08-05T12:35:16Z","modified":"2026-08-05T13:35:43.471852621Z","summary":"Malicious code in pfp-forms-independent-sme-glossary-anchor (npm)","affected":[{"package":{"name":"pfp-forms-independent-sme-glossary-anchor","ecosystem":"npm","purl":"pkg:npm/pfp-forms-independent-sme-glossary-anchor"},"versions":["20.4.4"]}]}

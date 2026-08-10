@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12416","published":"2026-08-05T13:01:01Z","modified":"2026-08-05T13:35:45.342268443Z","summary":"Malicious code in poly-custom-api (npm)","affected":[{"package":{"name":"poly-custom-api","ecosystem":"npm","purl":"pkg:npm/poly-custom-api"},"versions":["5.3.1"]}]}

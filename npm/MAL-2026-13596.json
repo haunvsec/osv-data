@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13596","published":"2026-08-07T12:35:03Z","modified":"2026-08-07T13:20:53.625532380Z","summary":"Malicious code in dolyame-ui-progressline (npm)","affected":[{"package":{"name":"dolyame-ui-progressline","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-progressline"},"versions":["35.8.1"]}]}

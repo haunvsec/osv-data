@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11349","published":"2026-07-30T16:07:03Z","modified":"2026-08-05T06:36:25.775000080Z","aliases":["GHSA-pvmx-6w3g-745q"],"summary":"Malicious code in pretty-log-cli (npm)","affected":[{"package":{"name":"pretty-log-cli","ecosystem":"npm","purl":"pkg:npm/pretty-log-cli"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11571","published":"2026-08-04T15:48:26Z","modified":"2026-08-05T07:20:00.869973550Z","aliases":["GHSA-4f3v-vg7g-x67h"],"summary":"Malicious code in @nebula.js/sn-action-button (npm)","affected":[{"package":{"name":"@nebula.js/sn-action-button","ecosystem":"npm","purl":"pkg:npm/%40nebula.js/sn-action-button"},"versions":["2.3.1"]}]}

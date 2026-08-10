@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11712","published":"2026-08-04T15:26:09Z","modified":"2026-08-05T08:50:56.535423385Z","aliases":["GHSA-22j9-qhh6-6mg6"],"summary":"Malicious code in @or-sdk/markdowner (npm)","affected":[{"package":{"name":"@or-sdk/markdowner","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/markdowner"},"versions":["0.5.1","0.5.2","0.5.3"]}]}

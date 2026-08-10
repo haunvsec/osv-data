@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13221","published":"2026-08-05T15:38:35Z","modified":"2026-08-05T16:49:58.728408857Z","summary":"Malicious code in bigops-legacy-telephony-panel (npm)","affected":[{"package":{"name":"bigops-legacy-telephony-panel","ecosystem":"npm","purl":"pkg:npm/bigops-legacy-telephony-panel"},"versions":["35.5.7"]}]}

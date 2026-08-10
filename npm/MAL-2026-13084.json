@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13084","published":"2026-08-05T14:27:21Z","modified":"2026-08-05T15:52:15.591165861Z","summary":"Malicious code in boxy-sticky-providers (npm)","affected":[{"package":{"name":"boxy-sticky-providers","ecosystem":"npm","purl":"pkg:npm/boxy-sticky-providers"},"versions":["35.1.5"]}]}

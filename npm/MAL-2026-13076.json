@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13076","published":"2026-08-05T14:26:37Z","modified":"2026-08-05T15:52:11.311593903Z","summary":"Malicious code in boxy-pkg-path (npm)","affected":[{"package":{"name":"boxy-pkg-path","ecosystem":"npm","purl":"pkg:npm/boxy-pkg-path"},"versions":["35.3.5"]}]}

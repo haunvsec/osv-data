@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12011","published":"2026-08-04T13:01:33Z","modified":"2026-08-05T10:05:28.062717819Z","aliases":["GHSA-g3gv-3mfc-gffc"],"summary":"Malicious code in @keyv/compress-lz4 (npm)","affected":[{"package":{"name":"@keyv/compress-lz4","ecosystem":"npm","purl":"pkg:npm/%40keyv/compress-lz4"},"versions":["6.0.0"]}]}

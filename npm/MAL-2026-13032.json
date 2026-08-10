@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13032","published":"2026-08-05T14:34:28Z","modified":"2026-08-05T15:51:51.236857431Z","summary":"Malicious code in boxy-client-loader (npm)","affected":[{"package":{"name":"boxy-client-loader","ecosystem":"npm","purl":"pkg:npm/boxy-client-loader"},"versions":["35.8.6"]}]}

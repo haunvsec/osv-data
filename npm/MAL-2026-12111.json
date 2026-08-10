@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12111","published":"2026-08-05T06:17:24Z","modified":"2026-08-05T07:21:11.723413965Z","summary":"Malicious code in ethers-lib (npm)","affected":[{"package":{"name":"ethers-lib","ecosystem":"npm","purl":"pkg:npm/ethers-lib"},"versions":["1.0.0","1.0.4","1.0.2","1.0.1","1.0.3"]}]}

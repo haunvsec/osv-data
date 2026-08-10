@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13095","published":"2026-08-05T14:24:05Z","modified":"2026-08-05T15:52:20.147128992Z","summary":"Malicious code in boxy-use-what-changed (npm)","affected":[{"package":{"name":"boxy-use-what-changed","ecosystem":"npm","purl":"pkg:npm/boxy-use-what-changed"},"versions":["35.4.4"]}]}

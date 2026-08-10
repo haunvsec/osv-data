@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11201","published":"2026-07-30T21:49:38Z","modified":"2026-07-30T22:18:19.216664149Z","summary":"Malicious code in ml-nps-shared (PyPI)","affected":[{"package":{"name":"ml-nps-shared","ecosystem":"PyPI","purl":"pkg:pypi/ml-nps-shared"},"versions":["6.0.3","8.2.3"]}]}

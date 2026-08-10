@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12368","published":"2026-08-05T13:02:11Z","modified":"2026-08-06T23:50:12.372096347Z","summary":"Malicious code in electrode-ota-ui-app (npm)","affected":[{"package":{"name":"electrode-ota-ui-app","ecosystem":"npm","purl":"pkg:npm/electrode-ota-ui-app"},"versions":["99.0.1","99.0.0"]}]}

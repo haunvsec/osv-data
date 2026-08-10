@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13497","published":"2026-08-07T12:11:39Z","modified":"2026-08-07T12:35:27.332729189Z","summary":"Malicious code in ded-pwa-c-page-maker-props (npm)","affected":[{"package":{"name":"ded-pwa-c-page-maker-props","ecosystem":"npm","purl":"pkg:npm/ded-pwa-c-page-maker-props"},"versions":["35.7.7"]}]}

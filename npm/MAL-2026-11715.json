@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11715","published":"2026-08-04T15:24:29Z","modified":"2026-08-05T08:50:57.768442610Z","aliases":["GHSA-98pf-6c66-cg9x"],"summary":"Malicious code in @or-sdk/password (npm)","affected":[{"package":{"name":"@or-sdk/password","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/password"},"versions":["1.3.6","1.3.7","1.3.8"]}]}

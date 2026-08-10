@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12622","published":"2026-08-05T14:05:52Z","modified":"2026-08-05T14:35:54.048227002Z","summary":"Malicious code in claims-get-percentage-value (npm)","affected":[{"package":{"name":"claims-get-percentage-value","ecosystem":"npm","purl":"pkg:npm/claims-get-percentage-value"},"versions":["35.4.6"]}]}

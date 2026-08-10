@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12322","published":"2026-08-05T12:49:33Z","modified":"2026-08-05T14:35:02.068399385Z","summary":"Malicious code in @mgor/fw-canary-3333 (npm)","affected":[{"package":{"name":"@mgor/fw-canary-3333","ecosystem":"npm","purl":"pkg:npm/%40mgor/fw-canary-3333"},"versions":["0.0.1","0.0.2"]}]}

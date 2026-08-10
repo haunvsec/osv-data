@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12014","published":"2026-08-04T13:01:33Z","modified":"2026-08-05T10:05:28.443143480Z","aliases":["GHSA-cv8g-7c7j-3r42"],"summary":"Malicious code in @keyv/encrypt-web (npm)","affected":[{"package":{"name":"@keyv/encrypt-web","ecosystem":"npm","purl":"pkg:npm/%40keyv/encrypt-web"},"versions":["6.0.0"]}]}

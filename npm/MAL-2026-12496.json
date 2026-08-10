@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12496","published":"2026-08-05T13:08:12Z","modified":"2026-08-05T14:37:28.569710464Z","summary":"Malicious code in voicemail (npm)","affected":[{"package":{"name":"voicemail","ecosystem":"npm","purl":"pkg:npm/voicemail"},"versions":["1.0.1","1.0.2"]}]}

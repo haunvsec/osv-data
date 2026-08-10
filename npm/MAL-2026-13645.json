@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13645","published":"2026-08-08T00:43:34Z","modified":"2026-08-08T01:04:46.277229828Z","summary":"Malicious code in sme-rko-finance-front-operations-penalty (npm)","affected":[{"package":{"name":"sme-rko-finance-front-operations-penalty","ecosystem":"npm","purl":"pkg:npm/sme-rko-finance-front-operations-penalty"},"versions":["35.8.1"]}]}

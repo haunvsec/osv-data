@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11630","published":"2026-08-04T13:21:25Z","modified":"2026-08-05T08:50:20.433228725Z","aliases":["GHSA-4cq9-pm53-63rm"],"summary":"Malicious code in @onereach/si-checkbox (npm)","affected":[{"package":{"name":"@onereach/si-checkbox","ecosystem":"npm","purl":"pkg:npm/%40onereach/si-checkbox"},"versions":["0.6.5","0.6.6","0.6.7"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13380","published":"2026-08-05T22:07:27Z","modified":"2026-08-06T13:34:48.673157822Z","summary":"Malicious code in uncrypt (PyPI)","affected":[{"package":{"name":"uncrypt","ecosystem":"PyPI","purl":"pkg:pypi/uncrypt"},"versions":["0.1.0","0.1.1","0.1.2"]}]}

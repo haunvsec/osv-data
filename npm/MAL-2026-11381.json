@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11381","published":"2026-07-31T00:52:46Z","modified":"2026-07-31T01:39:10.039302894Z","aliases":["GHSA-6j64-8q3f-7w69"],"summary":"Malicious code in soccketio (npm)","affected":[{"package":{"name":"soccketio","ecosystem":"npm","purl":"pkg:npm/soccketio"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11264","published":"2026-07-30T22:04:17Z","modified":"2026-07-31T01:37:49.529070726Z","aliases":["GHSA-7m57-mffc-c7p7"],"summary":"Malicious code in cmd-auth (npm)","affected":[{"package":{"name":"cmd-auth","ecosystem":"npm","purl":"pkg:npm/cmd-auth"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

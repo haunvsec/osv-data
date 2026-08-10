@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12583","published":"2026-08-05T14:09:04Z","modified":"2026-08-05T14:35:34.746049801Z","summary":"Malicious code in checkout-parameters (npm)","affected":[{"package":{"name":"checkout-parameters","ecosystem":"npm","purl":"pkg:npm/checkout-parameters"},"versions":["35.8.5"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13275","published":"2026-08-05T15:28:50Z","modified":"2026-08-05T16:50:28.992628188Z","summary":"Malicious code in devplatform-zod-wip-api (npm)","affected":[{"package":{"name":"devplatform-zod-wip-api","ecosystem":"npm","purl":"pkg:npm/devplatform-zod-wip-api"},"versions":["35.9.3"]}]}

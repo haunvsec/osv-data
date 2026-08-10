@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13071","published":"2026-08-05T14:27:12Z","modified":"2026-08-05T15:52:09.235277906Z","summary":"Malicious code in boxy-mmb-deps-pvm-plugin (npm)","affected":[{"package":{"name":"boxy-mmb-deps-pvm-plugin","ecosystem":"npm","purl":"pkg:npm/boxy-mmb-deps-pvm-plugin"},"versions":["35.6.5"]}]}

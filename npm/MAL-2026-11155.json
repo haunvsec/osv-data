@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11155","published":"2026-07-28T13:30:35Z","modified":"2026-08-05T14:37:29.737624078Z","summary":"Malicious code in xerohub-discord-voice-v3 (npm)","affected":[{"package":{"name":"xerohub-discord-voice-v3","ecosystem":"npm","purl":"pkg:npm/xerohub-discord-voice-v3"},"versions":["3.0.2","3.0.0","3.0.3","3.0.1"]}]}

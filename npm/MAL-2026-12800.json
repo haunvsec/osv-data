@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12800","published":"2026-08-05T13:10:52Z","modified":"2026-08-05T14:37:20.119522655Z","summary":"Malicious code in sc-font-icons (npm)","affected":[{"package":{"name":"sc-font-icons","ecosystem":"npm","purl":"pkg:npm/sc-font-icons"},"versions":["9999.0.0"]}]}

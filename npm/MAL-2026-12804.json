@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12804","published":"2026-08-05T13:10:37Z","modified":"2026-08-05T14:37:21.804266942Z","summary":"Malicious code in store-locator-widget (npm)","affected":[{"package":{"name":"store-locator-widget","ecosystem":"npm","purl":"pkg:npm/store-locator-widget"},"versions":["9999.0.0"]}]}

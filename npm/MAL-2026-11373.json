@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11373","published":"2026-07-30T22:49:53Z","modified":"2026-07-31T01:39:05.427683532Z","aliases":["GHSA-3h87-jp5v-6338"],"summary":"Malicious code in rph-validator (npm)","affected":[{"package":{"name":"rph-validator","ecosystem":"npm","purl":"pkg:npm/rph-validator"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

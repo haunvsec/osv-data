@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11088","published":"2026-07-27T01:10:03Z","modified":"2026-08-05T06:36:28.690506369Z","aliases":["GHSA-8cvc-378h-fwqf"],"summary":"Malicious code in sixbails (npm)","affected":[{"package":{"name":"sixbails","ecosystem":"npm","purl":"pkg:npm/sixbails"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

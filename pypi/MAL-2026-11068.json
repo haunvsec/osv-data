@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11068","published":"2026-07-26T19:36:57Z","modified":"2026-07-26T20:34:19.883519534Z","summary":"Malicious code in random-ua-generator (PyPI)","affected":[{"package":{"name":"random-ua-generator","ecosystem":"PyPI","purl":"pkg:pypi/random-ua-generator"},"versions":["0.0.1"]}]}

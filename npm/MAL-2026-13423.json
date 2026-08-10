@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13423","published":"2026-08-06T13:56:39Z","modified":"2026-08-06T14:34:49.773096095Z","summary":"Malicious code in fetchrtds (npm)","affected":[{"package":{"name":"fetchrtds","ecosystem":"npm","purl":"pkg:npm/fetchrtds"},"versions":["1.1.0"]}]}

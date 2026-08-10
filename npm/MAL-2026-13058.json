@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13058","published":"2026-08-05T14:29:13Z","modified":"2026-08-05T15:52:02.131763778Z","summary":"Malicious code in boxy-maker-bus (npm)","affected":[{"package":{"name":"boxy-maker-bus","ecosystem":"npm","purl":"pkg:npm/boxy-maker-bus"},"versions":["35.7.7"]}]}

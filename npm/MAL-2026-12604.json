@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12604","published":"2026-08-05T14:06:08Z","modified":"2026-08-05T14:35:45.375598601Z","summary":"Malicious code in claims-accounts-lib (npm)","affected":[{"package":{"name":"claims-accounts-lib","ecosystem":"npm","purl":"pkg:npm/claims-accounts-lib"},"versions":["35.6.6"]}]}

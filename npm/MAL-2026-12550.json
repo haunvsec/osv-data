@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12550","published":"2026-08-05T14:15:20Z","modified":"2026-08-05T14:35:19.161001593Z","summary":"Malicious code in checkout-context (npm)","affected":[{"package":{"name":"checkout-context","ecosystem":"npm","purl":"pkg:npm/checkout-context"},"versions":["35.5.4"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13564","published":"2026-08-07T12:28:35Z","modified":"2026-08-07T13:20:35.238561923Z","summary":"Malicious code in dolyame-ui-dataqa (npm)","affected":[{"package":{"name":"dolyame-ui-dataqa","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-dataqa"},"versions":["35.8.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13444","published":"2026-08-06T19:16:31Z","modified":"2026-08-06T23:50:11.478265331Z","summary":"Malicious code in dpdgroup-css (npm)","affected":[{"package":{"name":"dpdgroup-css","ecosystem":"npm","purl":"pkg:npm/dpdgroup-css"},"versions":["2.0.1"]}]}

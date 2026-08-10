@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13555","published":"2026-08-07T12:31:07Z","modified":"2026-08-07T13:20:30.705979234Z","summary":"Malicious code in dolyame-ui-cardlogo (npm)","affected":[{"package":{"name":"dolyame-ui-cardlogo","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-cardlogo"},"versions":["35.8.1"]}]}

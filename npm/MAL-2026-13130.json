@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13130","published":"2026-08-05T15:18:39Z","modified":"2026-08-05T15:52:37.429367161Z","summary":"Malicious code in dolyame-boxy-scroll (npm)","affected":[{"package":{"name":"dolyame-boxy-scroll","ecosystem":"npm","purl":"pkg:npm/dolyame-boxy-scroll"},"versions":["35.9.9"]}]}

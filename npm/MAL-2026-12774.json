@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12774","published":"2026-08-05T13:41:40Z","modified":"2026-08-05T14:37:04.520756461Z","summary":"Malicious code in devplatform-spa-plugin-query (npm)","affected":[{"package":{"name":"devplatform-spa-plugin-query","ecosystem":"npm","purl":"pkg:npm/devplatform-spa-plugin-query"},"versions":["35.8.5"]}]}

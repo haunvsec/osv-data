@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11655","published":"2026-08-04T15:21:23Z","modified":"2026-08-05T08:50:29.492678491Z","aliases":["GHSA-qc9m-43v9-6f42"],"summary":"Malicious code in @onereach/step-voice (npm)","affected":[{"package":{"name":"@onereach/step-voice","ecosystem":"npm","purl":"pkg:npm/%40onereach/step-voice"},"versions":["7.0.32","7.0.33","7.0.34"]}]}

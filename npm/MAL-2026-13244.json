@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13244","published":"2026-08-05T15:34:42Z","modified":"2026-08-05T16:50:09.598303811Z","summary":"Malicious code in bigops-products-savings-accounts (npm)","affected":[{"package":{"name":"bigops-products-savings-accounts","ecosystem":"npm","purl":"pkg:npm/bigops-products-savings-accounts"},"versions":["35.3.7"]}]}

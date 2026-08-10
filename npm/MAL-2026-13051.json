@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13051","published":"2026-08-05T14:30:17Z","modified":"2026-08-05T15:51:59.632693593Z","summary":"Malicious code in boxy-lazy-loader (npm)","affected":[{"package":{"name":"boxy-lazy-loader","ecosystem":"npm","purl":"pkg:npm/boxy-lazy-loader"},"versions":["35.7.7"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13036","published":"2026-08-05T14:32:15Z","modified":"2026-08-05T15:51:53.050028917Z","summary":"Malicious code in boxy-debugger (npm)","affected":[{"package":{"name":"boxy-debugger","ecosystem":"npm","purl":"pkg:npm/boxy-debugger"},"versions":["35.3.4"]}]}

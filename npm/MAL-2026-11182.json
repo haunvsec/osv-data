@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11182","published":"2026-07-29T16:07:08Z","modified":"2026-07-30T04:36:17.770779254Z","aliases":["GHSA-x646-p774-9w26"],"summary":"Malicious code in colder-cli (npm)","affected":[{"package":{"name":"colder-cli","ecosystem":"npm","purl":"pkg:npm/colder-cli"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

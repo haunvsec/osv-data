@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11372","published":"2026-07-30T22:51:48Z","modified":"2026-07-31T01:39:05.156238053Z","aliases":["GHSA-79vf-868m-fv3g"],"summary":"Malicious code in rlp.git (npm)","affected":[{"package":{"name":"rlp.git","ecosystem":"npm","purl":"pkg:npm/rlp.git"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

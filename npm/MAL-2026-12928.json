@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12928","published":"2026-08-05T14:48:27Z","modified":"2026-08-05T15:51:02.192828752Z","summary":"Malicious code in bnpl-blocks-desktop-bnpl-image-plus-text (npm)","affected":[{"package":{"name":"bnpl-blocks-desktop-bnpl-image-plus-text","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-desktop-bnpl-image-plus-text"},"versions":["35.2.6"]}]}

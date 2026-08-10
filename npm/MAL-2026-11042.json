@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2026-11042","published":"2026-07-21T00:00:00Z","modified":"2026-07-24T06:50:59.851154929Z","summary":"Malicious code in faust-cont (npm)","affected":[{"package":{"name":"faust-cont","ecosystem":"npm","purl":"pkg:npm/faust-cont"},"versions":["1.0.0"]}]}
+{"schema_version":"1.8.0","id":"MAL-2026-11042","published":"2026-07-21T00:00:00Z","modified":"2026-08-04T22:05:04.479612486Z","summary":"Malicious code in faust-cont (npm)","affected":[{"package":{"name":"faust-cont","ecosystem":"npm","purl":"pkg:npm/faust-cont"},"versions":["1.0.0"]}]}

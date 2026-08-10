@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11238","published":"2026-07-30T21:25:58Z","modified":"2026-07-31T01:37:33.038743114Z","aliases":["GHSA-rvx2-8wrp-5v4c"],"summary":"Malicious code in apihost (npm)","affected":[{"package":{"name":"apihost","ecosystem":"npm","purl":"pkg:npm/apihost"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13530","published":"2026-08-07T12:23:47Z","modified":"2026-08-07T13:20:17.215415213Z","summary":"Malicious code in bnpl-blocks-atom-bnpl-loader (npm)","affected":[{"package":{"name":"bnpl-blocks-atom-bnpl-loader","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-atom-bnpl-loader"},"versions":["35.1.2"]}]}

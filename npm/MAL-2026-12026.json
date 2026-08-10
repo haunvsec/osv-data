@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12026","published":"2026-08-04T17:06:48Z","modified":"2026-08-05T10:06:05.681709213Z","aliases":["GHSA-2hwp-7m6r-hgjg"],"summary":"Malicious code in cors-version (npm)","affected":[{"package":{"name":"cors-version","ecosystem":"npm","purl":"pkg:npm/cors-version"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

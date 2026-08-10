@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12801","published":"2026-08-05T13:14:34Z","modified":"2026-08-05T14:37:20.150000772Z","summary":"Malicious code in sc-payment-utils (npm)","affected":[{"package":{"name":"sc-payment-utils","ecosystem":"npm","purl":"pkg:npm/sc-payment-utils"},"versions":["9999.0.0"]}]}

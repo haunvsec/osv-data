@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12089","published":"2026-08-05T06:25:24Z","modified":"2026-08-05T07:20:51.857487666Z","summary":"Malicious code in @wethenorth12/crypto-config (npm)","affected":[{"package":{"name":"@wethenorth12/crypto-config","ecosystem":"npm","purl":"pkg:npm/%40wethenorth12/crypto-config"},"versions":["2.0.1"]}]}

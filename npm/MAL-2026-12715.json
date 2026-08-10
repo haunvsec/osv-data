@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12715","published":"2026-08-05T13:49:48Z","modified":"2026-08-05T14:36:38.826635896Z","summary":"Malicious code in devplatform-iam-client (npm)","affected":[{"package":{"name":"devplatform-iam-client","ecosystem":"npm","purl":"pkg:npm/devplatform-iam-client"},"versions":["35.5.6"]}]}

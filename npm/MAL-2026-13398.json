@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13398","published":"2026-08-06T12:56:25Z","modified":"2026-08-07T13:20:13.044442330Z","summary":"Malicious code in @xiaohhhh1/canvas-agent (npm)","affected":[{"package":{"name":"@xiaohhhh1/canvas-agent","ecosystem":"npm","purl":"pkg:npm/%40xiaohhhh1/canvas-agent"},"versions":["0.4.4","0.4.11","0.4.10","0.4.9","0.4.8"]}]}

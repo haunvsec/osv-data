@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12987","published":"2026-08-05T14:41:17Z","modified":"2026-08-05T15:51:30.032219854Z","summary":"Malicious code in bnpl-blocks-mobile-bnpl-faq (npm)","affected":[{"package":{"name":"bnpl-blocks-mobile-bnpl-faq","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-mobile-bnpl-faq"},"versions":["35.5.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11315","published":"2026-07-30T21:25:58Z","modified":"2026-07-31T01:38:28.455650563Z","aliases":["GHSA-84r3-rr57-j729"],"summary":"Malicious code in gatorhelper (npm)","affected":[{"package":{"name":"gatorhelper","ecosystem":"npm","purl":"pkg:npm/gatorhelper"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

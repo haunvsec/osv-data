@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13054","published":"2026-08-05T14:30:37Z","modified":"2026-08-05T15:52:00.855908181Z","summary":"Malicious code in boxy-live (npm)","affected":[{"package":{"name":"boxy-live","ecosystem":"npm","purl":"pkg:npm/boxy-live"},"versions":["35.8.6"]}]}

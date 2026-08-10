@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13488","published":"2026-08-07T07:05:56Z","modified":"2026-08-07T12:35:24.780041272Z","summary":"Malicious code in idnna (PyPI)","affected":[{"package":{"name":"idnna","ecosystem":"PyPI","purl":"pkg:pypi/idnna"},"versions":["0.1.1","0.1.2","0.2.0","0.3.0"]}]}

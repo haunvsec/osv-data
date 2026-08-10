@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11797","published":"2026-08-04T13:19:28Z","modified":"2026-08-05T03:19:58.521102276Z","aliases":["GHSA-qfj9-r4mh-j6j7"],"summary":"Malicious code in @qlik/eslint-config-vue (npm)","affected":[{"package":{"name":"@qlik/eslint-config-vue","ecosystem":"npm","purl":"pkg:npm/%40qlik/eslint-config-vue"},"versions":["0.1.1"]}]}

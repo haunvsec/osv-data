@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13263","published":"2026-08-05T15:31:29Z","modified":"2026-08-05T16:50:23.359840858Z","summary":"Malicious code in devplatform-spa-use-track (npm)","affected":[{"package":{"name":"devplatform-spa-use-track","ecosystem":"npm","purl":"pkg:npm/devplatform-spa-use-track"},"versions":["35.5.3"]}]}

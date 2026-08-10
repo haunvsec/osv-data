@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11086","published":"2026-07-27T01:03:56Z","modified":"2026-08-05T06:36:14.369119885Z","aliases":["GHSA-vjhp-hr8c-42m8"],"summary":"Malicious code in fazzgram (npm)","affected":[{"package":{"name":"fazzgram","ecosystem":"npm","purl":"pkg:npm/fazzgram"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

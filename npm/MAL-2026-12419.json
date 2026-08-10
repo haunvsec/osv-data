@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12419","published":"2026-08-05T13:02:28Z","modified":"2026-08-05T13:35:46.863052926Z","summary":"Malicious code in pp-react-worldready-v5 (npm)","affected":[{"package":{"name":"pp-react-worldready-v5","ecosystem":"npm","purl":"pkg:npm/pp-react-worldready-v5"},"versions":["1.0.0"]}]}

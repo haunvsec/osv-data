@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13558","published":"2026-08-07T12:24:04Z","modified":"2026-08-07T13:20:29.138911015Z","summary":"Malicious code in dolyame-ui-clickoutsidehoc (npm)","affected":[{"package":{"name":"dolyame-ui-clickoutsidehoc","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-clickoutsidehoc"},"versions":["35.8.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12020","published":"2026-08-04T13:01:55Z","modified":"2026-08-05T10:05:31.116681301Z","aliases":["GHSA-q99r-cjmf-3xrf"],"summary":"Malicious code in @keyv/redis (npm)","affected":[{"package":{"name":"@keyv/redis","ecosystem":"npm","purl":"pkg:npm/%40keyv/redis"},"versions":["6.0.0"]}]}

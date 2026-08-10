@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13214","published":"2026-08-05T15:32:40Z","modified":"2026-08-05T16:50:19.388820137Z","summary":"Malicious code in @zzzcrypto/solana-spl-token (npm)","affected":[{"package":{"name":"@zzzcrypto/solana-spl-token","ecosystem":"npm","purl":"pkg:npm/%40zzzcrypto/solana-spl-token"},"versions":["0.4.0"]}]}

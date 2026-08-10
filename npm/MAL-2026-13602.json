@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13602","published":"2026-08-07T12:26:46Z","modified":"2026-08-07T13:20:56.793293872Z","summary":"Malicious code in dolyame-ui-tabslayout (npm)","affected":[{"package":{"name":"dolyame-ui-tabslayout","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-tabslayout"},"versions":["35.8.1"]}]}

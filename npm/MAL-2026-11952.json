@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11952","published":"2026-08-04T13:25:32Z","modified":"2026-08-05T08:51:13.505119926Z","aliases":["GHSA-734j-4vxf-w896"],"summary":"Malicious code in @thiennq/docs-viewer (npm)","affected":[{"package":{"name":"@thiennq/docs-viewer","ecosystem":"npm","purl":"pkg:npm/%40thiennq/docs-viewer"},"versions":["1.6.2","1.6.3","1.6.4"]}]}

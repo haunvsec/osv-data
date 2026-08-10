@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12414","published":"2026-08-05T12:49:00Z","modified":"2026-08-05T13:35:44.800870368Z","summary":"Malicious code in pfp-forms-sme-loan (npm)","affected":[{"package":{"name":"pfp-forms-sme-loan","ecosystem":"npm","purl":"pkg:npm/pfp-forms-sme-loan"},"versions":["20.2.1"]}]}

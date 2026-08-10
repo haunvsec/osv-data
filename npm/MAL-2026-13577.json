@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13577","published":"2026-08-07T12:35:58Z","modified":"2026-08-07T13:20:42.149918062Z","summary":"Malicious code in dolyame-ui-inputdate (npm)","affected":[{"package":{"name":"dolyame-ui-inputdate","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-inputdate"},"versions":["35.8.1"]}]}

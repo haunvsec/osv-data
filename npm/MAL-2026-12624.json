@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12624","published":"2026-08-05T14:03:58Z","modified":"2026-08-05T14:35:55.345436544Z","summary":"Malicious code in claims-historical-claims-api-adapters (npm)","affected":[{"package":{"name":"claims-historical-claims-api-adapters","ecosystem":"npm","purl":"pkg:npm/claims-historical-claims-api-adapters"},"versions":["35.7.6"]}]}

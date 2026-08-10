@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12122","published":"2026-08-05T08:43:33Z","modified":"2026-08-05T10:05:39.883451693Z","summary":"Malicious code in @zzzgenesis00/near-api (npm)","affected":[{"package":{"name":"@zzzgenesis00/near-api","ecosystem":"npm","purl":"pkg:npm/%40zzzgenesis00/near-api"},"versions":["3.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13115","published":"2026-08-05T14:20:29Z","modified":"2026-08-05T15:52:30.650655562Z","summary":"Malicious code in bpm-foundation-rate-us (npm)","affected":[{"package":{"name":"bpm-foundation-rate-us","ecosystem":"npm","purl":"pkg:npm/bpm-foundation-rate-us"},"versions":["35.3.9"]}]}

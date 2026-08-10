@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13610","published":"2026-08-07T13:42:35Z","modified":"2026-08-07T14:49:45.986091029Z","summary":"Malicious code in f-termx (npm)","affected":[{"package":{"name":"f-termx","ecosystem":"npm","purl":"pkg:npm/f-termx"},"versions":["1.2.6"]}]}

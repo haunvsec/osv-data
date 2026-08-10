@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13243","published":"2026-08-05T15:35:00Z","modified":"2026-08-05T16:50:09.276485132Z","summary":"Malicious code in bigops-products-mobile (npm)","affected":[{"package":{"name":"bigops-products-mobile","ecosystem":"npm","purl":"pkg:npm/bigops-products-mobile"},"versions":["35.6.8"]}]}

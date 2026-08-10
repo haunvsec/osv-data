@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12595","published":"2026-08-05T14:08:28Z","modified":"2026-08-05T14:35:40.764490298Z","summary":"Malicious code in checkout-test-component (npm)","affected":[{"package":{"name":"checkout-test-component","ecosystem":"npm","purl":"pkg:npm/checkout-test-component"},"versions":["35.9.8"]}]}

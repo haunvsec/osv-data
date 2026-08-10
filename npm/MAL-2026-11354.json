@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11354","published":"2026-07-30T21:25:57Z","modified":"2026-07-31T01:38:54.350882600Z","aliases":["GHSA-m86j-3g6g-q7r7"],"summary":"Malicious code in pullingpackageee (npm)","affected":[{"package":{"name":"pullingpackageee","ecosystem":"npm","purl":"pkg:npm/pullingpackageee"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

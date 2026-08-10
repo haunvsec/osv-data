@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12059","published":"2026-08-05T01:47:41Z","modified":"2026-08-05T03:20:46.052035730Z","summary":"Malicious code in bcore-bravo-eslint-config (npm)","affected":[{"package":{"name":"bcore-bravo-eslint-config","ecosystem":"npm","purl":"pkg:npm/bcore-bravo-eslint-config"},"versions":["12.5.7","9.5.7","9.5.9","9.5.8","9.5.6"]}]}

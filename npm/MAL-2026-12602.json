@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12602","published":"2026-08-05T14:07:07Z","modified":"2026-08-05T14:35:44.459138057Z","summary":"Malicious code in checkout-use-notifications (npm)","affected":[{"package":{"name":"checkout-use-notifications","ecosystem":"npm","purl":"pkg:npm/checkout-use-notifications"},"versions":["35.6.1"]}]}

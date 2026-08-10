@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13188","published":"2026-08-05T15:09:07Z","modified":"2026-08-05T15:53:04.342551173Z","summary":"Malicious code in dolyame-ui-swiper (npm)","affected":[{"package":{"name":"dolyame-ui-swiper","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-swiper"},"versions":["35.7.7"]}]}

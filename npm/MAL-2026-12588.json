@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12588","published":"2026-08-05T14:08:13Z","modified":"2026-08-05T14:35:37.831200866Z","summary":"Malicious code in checkout-promocode-logic (npm)","affected":[{"package":{"name":"checkout-promocode-logic","ecosystem":"npm","purl":"pkg:npm/checkout-promocode-logic"},"versions":["35.7.7"]}]}

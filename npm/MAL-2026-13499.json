@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13499","published":"2026-08-07T12:13:37Z","modified":"2026-08-07T12:35:08.283363188Z","summary":"Malicious code in delivery-ci-codeceptjs-fork (npm)","affected":[{"package":{"name":"delivery-ci-codeceptjs-fork","ecosystem":"npm","purl":"pkg:npm/delivery-ci-codeceptjs-fork"},"versions":["35.4.5"]}]}

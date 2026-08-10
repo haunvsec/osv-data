@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13106","published":"2026-08-05T14:22:23Z","modified":"2026-08-05T15:52:25.793943869Z","summary":"Malicious code in bpm-foundation-bundle-optimization (npm)","affected":[{"package":{"name":"bpm-foundation-bundle-optimization","ecosystem":"npm","purl":"pkg:npm/bpm-foundation-bundle-optimization"},"versions":["35.1.1"]}]}

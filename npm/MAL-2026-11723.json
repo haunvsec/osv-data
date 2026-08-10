@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11723","published":"2026-08-04T13:20:45Z","modified":"2026-08-05T08:51:01.101041414Z","aliases":["GHSA-f3pc-vvwm-g95f"],"summary":"Malicious code in @or-sdk/queue-manager (npm)","affected":[{"package":{"name":"@or-sdk/queue-manager","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/queue-manager"},"versions":["1.4.6","1.4.7","1.4.8"]}]}

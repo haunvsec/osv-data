@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13628","published":"2026-08-07T18:16:00Z","modified":"2026-08-10T00:50:17.625746292Z","aliases":["GHSA-w8wc-wm2m-27hv"],"summary":"Malicious code in streak-map-kit (npm)","affected":[{"package":{"name":"streak-map-kit","ecosystem":"npm","purl":"pkg:npm/streak-map-kit"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

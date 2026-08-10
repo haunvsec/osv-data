@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13571","published":"2026-08-07T12:23:57Z","modified":"2026-08-07T13:20:38.572571305Z","summary":"Malicious code in dolyame-ui-generateid (npm)","affected":[{"package":{"name":"dolyame-ui-generateid","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-generateid"},"versions":["35.8.1"]}]}

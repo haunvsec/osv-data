@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11144","published":"2026-07-28T13:39:15Z","modified":"2026-07-28T14:37:07.939922847Z","summary":"Malicious code in react-puller (npm)","affected":[{"package":{"name":"react-puller","ecosystem":"npm","purl":"pkg:npm/react-puller"},"versions":["1.0.0"]}]}

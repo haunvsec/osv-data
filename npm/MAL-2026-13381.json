@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13381","published":"2026-08-05T13:16:27Z","modified":"2026-08-06T13:34:43.873253043Z","aliases":["GHSA-jxxm-5453-r666"],"summary":"Malicious code in poly-provider-api (npm)","affected":[{"package":{"name":"poly-provider-api","ecosystem":"npm","purl":"pkg:npm/poly-provider-api"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

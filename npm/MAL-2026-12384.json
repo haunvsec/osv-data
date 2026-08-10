@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12384","published":"2026-08-05T12:45:16Z","modified":"2026-08-05T13:35:28.251800827Z","summary":"Malicious code in form-bnpl-dolyame-component-object (npm)","affected":[{"package":{"name":"form-bnpl-dolyame-component-object","ecosystem":"npm","purl":"pkg:npm/form-bnpl-dolyame-component-object"},"versions":["20.8.9"]}]}

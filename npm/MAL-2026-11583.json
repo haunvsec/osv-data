@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11583","published":"2026-08-04T15:48:54Z","modified":"2026-08-05T07:19:53.350866453Z","aliases":["GHSA-5m9h-w3wv-wxgw"],"summary":"Malicious code in @nebula.js/snapshooter (npm)","affected":[{"package":{"name":"@nebula.js/snapshooter","ecosystem":"npm","purl":"pkg:npm/%40nebula.js/snapshooter"},"versions":["0.6.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13407","published":"2026-08-06T13:17:21Z","modified":"2026-08-06T14:34:54.444545766Z","summary":"Malicious code in @0l00000l/auth (npm)","affected":[{"package":{"name":"@0l00000l/auth","ecosystem":"npm","purl":"pkg:npm/%400l00000l/auth"},"versions":["1.1.4","1.1.3"]}]}

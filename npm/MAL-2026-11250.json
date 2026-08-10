@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11250","published":"2026-07-30T21:25:58Z","modified":"2026-07-31T01:37:39.441401642Z","aliases":["GHSA-hm53-q84x-f83x"],"summary":"Malicious code in bn.js-5 (npm)","affected":[{"package":{"name":"bn.js-5","ecosystem":"npm","purl":"pkg:npm/bn.js-5"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

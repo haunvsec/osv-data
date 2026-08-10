@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13413","published":"2026-08-06T13:41:12Z","modified":"2026-08-06T14:34:58.200012485Z","summary":"Malicious code in @astralcore/aura-wb (npm)","affected":[{"package":{"name":"@astralcore/aura-wb","ecosystem":"npm","purl":"pkg:npm/%40astralcore/aura-wb"},"versions":["1.0.1","1.0.4","1.0.0"]}]}

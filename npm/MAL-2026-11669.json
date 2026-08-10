@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11669","published":"2026-08-04T15:22:38Z","modified":"2026-08-05T08:50:36.852452579Z","aliases":["GHSA-rjvc-7296-r6wx"],"summary":"Malicious code in @or-sdk/api-tokens (npm)","affected":[{"package":{"name":"@or-sdk/api-tokens","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/api-tokens"},"versions":["1.4.2","1.4.3","1.4.4"]}]}

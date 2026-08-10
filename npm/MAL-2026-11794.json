@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11794","published":"2026-08-04T15:53:25Z","modified":"2026-08-05T07:20:39.763173062Z","aliases":["GHSA-mc8j-vx8m-ww53"],"summary":"Malicious code in @qlik/eslint-config-base (npm)","affected":[{"package":{"name":"@qlik/eslint-config-base","ecosystem":"npm","purl":"pkg:npm/%40qlik/eslint-config-base"},"versions":["0.1.1"]}]}

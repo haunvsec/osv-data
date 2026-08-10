@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13513","published":"2026-08-07T12:13:50Z","modified":"2026-08-07T12:35:17.793770334Z","summary":"Malicious code in eacq-cdk (npm)","affected":[{"package":{"name":"eacq-cdk","ecosystem":"npm","purl":"pkg:npm/eacq-cdk"},"versions":["35.8.1"]}]}

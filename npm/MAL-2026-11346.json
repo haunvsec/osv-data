@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11346","published":"2026-07-30T22:49:53Z","modified":"2026-07-31T01:38:48.130814804Z","aliases":["GHSA-vg8q-pg5j-2fq4"],"summary":"Malicious code in payu-node (npm)","affected":[{"package":{"name":"payu-node","ecosystem":"npm","purl":"pkg:npm/payu-node"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12626","published":"2026-08-05T14:03:26Z","modified":"2026-08-05T14:35:55.762251201Z","summary":"Malicious code in claims-is-mobile-layout (npm)","affected":[{"package":{"name":"claims-is-mobile-layout","ecosystem":"npm","purl":"pkg:npm/claims-is-mobile-layout"},"versions":["35.4.3"]}]}

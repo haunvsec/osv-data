@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11103","published":"2026-07-27T16:15:19Z","modified":"2026-08-05T07:21:27.282367105Z","aliases":["GHSA-h7c2-w78r-3m98"],"summary":"Malicious code in stargateproxyserv (npm)","affected":[{"package":{"name":"stargateproxyserv","ecosystem":"npm","purl":"pkg:npm/stargateproxyserv"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

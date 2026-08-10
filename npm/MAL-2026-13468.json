@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13468","published":"2026-08-06T19:28:26Z","modified":"2026-08-06T23:50:28.362977823Z","summary":"Malicious code in xdaxx (npm)","affected":[{"package":{"name":"xdaxx","ecosystem":"npm","purl":"pkg:npm/xdaxx"},"versions":["1.0.1"]}]}

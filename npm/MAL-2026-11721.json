@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11721","published":"2026-08-04T15:18:58Z","modified":"2026-08-05T08:51:00.475835322Z","aliases":["GHSA-hgwm-78qc-rc5w"],"summary":"Malicious code in @or-sdk/providers (npm)","affected":[{"package":{"name":"@or-sdk/providers","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/providers"},"versions":["0.3.6","0.3.7","0.3.8"]}]}

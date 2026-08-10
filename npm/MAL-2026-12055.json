@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12055","published":"2026-08-05T02:52:08Z","modified":"2026-08-05T03:20:44.127727708Z","summary":"Malicious code in @zzzgenesis00/docker-api-client (npm)","affected":[{"package":{"name":"@zzzgenesis00/docker-api-client","ecosystem":"npm","purl":"pkg:npm/%40zzzgenesis00/docker-api-client"},"versions":["2.0.2"]}]}

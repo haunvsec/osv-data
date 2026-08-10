@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11324","published":"2026-07-30T21:25:58Z","modified":"2026-07-31T01:38:34.271825262Z","aliases":["GHSA-68hr-8r9c-9r4f"],"summary":"Malicious code in js-focus-within (npm)","affected":[{"package":{"name":"js-focus-within","ecosystem":"npm","purl":"pkg:npm/js-focus-within"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

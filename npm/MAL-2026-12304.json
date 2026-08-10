@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12304","published":"2026-08-05T09:15:22Z","modified":"2026-08-05T10:07:09.098844959Z","summary":"Malicious code in twork-mf-sandbox (npm)","affected":[{"package":{"name":"twork-mf-sandbox","ecosystem":"npm","purl":"pkg:npm/twork-mf-sandbox"},"versions":["20.9.7"]}]}

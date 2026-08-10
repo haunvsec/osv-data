@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12952","published":"2026-08-05T14:45:58Z","modified":"2026-08-05T15:51:14.345732156Z","summary":"Malicious code in bnpl-blocks-independent-bnpl-cards (npm)","affected":[{"package":{"name":"bnpl-blocks-independent-bnpl-cards","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-independent-bnpl-cards"},"versions":["35.5.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13144","published":"2026-08-05T15:16:05Z","modified":"2026-08-05T15:52:43.999767855Z","summary":"Malicious code in dolyame-ui-checkbox (npm)","affected":[{"package":{"name":"dolyame-ui-checkbox","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-checkbox"},"versions":["35.6.9"]}]}

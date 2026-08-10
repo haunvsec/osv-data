@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12517","published":"2026-08-05T14:18:50Z","modified":"2026-08-05T14:35:15.521714324Z","summary":"Malicious code in bpm-renovate-renovate-config (npm)","affected":[{"package":{"name":"bpm-renovate-renovate-config","ecosystem":"npm","purl":"pkg:npm/bpm-renovate-renovate-config"},"versions":["35.9.2"]}]}

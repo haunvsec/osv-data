@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11125","published":"2026-07-28T13:28:53Z","modified":"2026-07-28T14:37:20.817667414Z","summary":"Malicious code in api-rust-sdk (npm)","affected":[{"package":{"name":"api-rust-sdk","ecosystem":"npm","purl":"pkg:npm/api-rust-sdk"},"versions":["2.1.6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12798","published":"2026-08-05T13:17:59Z","modified":"2026-08-05T14:37:17.147092258Z","summary":"Malicious code in npm-groat (npm)","affected":[{"package":{"name":"npm-groat","ecosystem":"npm","purl":"pkg:npm/npm-groat"},"versions":["1.1.2","1.1.1"]}]}

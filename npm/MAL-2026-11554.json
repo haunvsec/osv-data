@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11554","published":"2026-08-04T15:20:43Z","modified":"2026-08-05T08:49:53.220442683Z","aliases":["GHSA-2j4f-562j-3rm4"],"summary":"Malicious code in @arv-bedrock/auth-admin (npm)","affected":[{"package":{"name":"@arv-bedrock/auth-admin","ecosystem":"npm","purl":"pkg:npm/%40arv-bedrock/auth-admin"},"versions":["1.0.2","1.0.3"]}]}

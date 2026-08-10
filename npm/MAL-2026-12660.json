@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12660","published":"2026-08-05T13:57:42Z","modified":"2026-08-05T14:36:12.328189948Z","summary":"Malicious code in constructor-blocks-common (npm)","affected":[{"package":{"name":"constructor-blocks-common","ecosystem":"npm","purl":"pkg:npm/constructor-blocks-common"},"versions":["35.5.6"]}]}

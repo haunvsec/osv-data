@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12065","published":"2026-08-05T01:44:04Z","modified":"2026-08-05T03:20:48.928987207Z","summary":"Malicious code in greatcall-customers-commandapi (npm)","affected":[{"package":{"name":"greatcall-customers-commandapi","ecosystem":"npm","purl":"pkg:npm/greatcall-customers-commandapi"},"versions":["99.0.0"]}]}

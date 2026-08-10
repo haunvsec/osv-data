@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12857","published":"2026-08-05T14:59:08Z","modified":"2026-08-06T01:20:04.632130380Z","aliases":["GHSA-pvr5-5pcp-mh66"],"summary":"Malicious code in bigops-watermark (npm)","affected":[{"package":{"name":"bigops-watermark","ecosystem":"npm","purl":"pkg:npm/bigops-watermark"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

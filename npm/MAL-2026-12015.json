@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12015","published":"2026-08-04T13:02:20Z","modified":"2026-08-05T00:34:44.116823297Z","aliases":["GHSA-vfx4-wxh5-qr2g"],"summary":"Malicious code in @keyv/etcd (npm)","affected":[{"package":{"name":"@keyv/etcd","ecosystem":"npm","purl":"pkg:npm/%40keyv/etcd"},"versions":["6.0.0"]}]}

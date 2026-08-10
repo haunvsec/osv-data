@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11970","published":"2026-08-04T11:52:40Z","modified":"2026-08-05T07:21:12.974661903Z","aliases":["GHSA-qp89-2g43-jg8j"],"summary":"Malicious code in file-entry-cache (npm)","affected":[{"package":{"name":"file-entry-cache","ecosystem":"npm","purl":"pkg:npm/file-entry-cache"},"versions":["11.1.6"]}]}

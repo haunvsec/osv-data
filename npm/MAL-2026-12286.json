@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12286","published":"2026-08-05T09:10:20Z","modified":"2026-08-06T01:21:39.916088323Z","aliases":["GHSA-4xfj-589v-h29h"],"summary":"Malicious code in trapp-check-logs (npm)","affected":[{"package":{"name":"trapp-check-logs","ecosystem":"npm","purl":"pkg:npm/trapp-check-logs"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

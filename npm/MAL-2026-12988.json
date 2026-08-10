@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12988","published":"2026-08-05T14:41:24Z","modified":"2026-08-05T15:51:30.332563863Z","summary":"Malicious code in bnpl-blocks-mobile-bnpl-feedback (npm)","affected":[{"package":{"name":"bnpl-blocks-mobile-bnpl-feedback","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-mobile-bnpl-feedback"},"versions":["35.3.5"]}]}

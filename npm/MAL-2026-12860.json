@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12860","published":"2026-08-05T14:58:50Z","modified":"2026-08-06T01:20:12.271801912Z","aliases":["GHSA-fgxc-644c-34qm"],"summary":"Malicious code in bnpl-api (npm)","affected":[{"package":{"name":"bnpl-api","ecosystem":"npm","purl":"pkg:npm/bnpl-api"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13633","published":"2026-08-08T00:51:44Z","modified":"2026-08-08T01:49:47.599528842Z","summary":"Malicious code in modern-localization (npm)","affected":[{"package":{"name":"modern-localization","ecosystem":"npm","purl":"pkg:npm/modern-localization"},"versions":["1.1.1","1.2.1"]}]}

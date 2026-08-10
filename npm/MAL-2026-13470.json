@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13470","published":"2026-08-06T19:22:03Z","modified":"2026-08-06T23:50:30.082277445Z","summary":"Malicious code in ynastore-baileys (npm)","affected":[{"package":{"name":"ynastore-baileys","ecosystem":"npm","purl":"pkg:npm/ynastore-baileys"},"versions":["1.0.21"]}]}

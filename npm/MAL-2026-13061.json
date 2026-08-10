@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13061","published":"2026-08-05T14:30:54Z","modified":"2026-08-05T15:52:03.505769220Z","summary":"Malicious code in boxy-maker-page-readiness (npm)","affected":[{"package":{"name":"boxy-maker-page-readiness","ecosystem":"npm","purl":"pkg:npm/boxy-maker-page-readiness"},"versions":["35.7.8"]}]}

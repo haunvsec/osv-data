@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11259","published":"2026-07-30T22:00:10Z","modified":"2026-07-31T01:37:45.126175920Z","aliases":["GHSA-pwwc-vh8j-q428"],"summary":"Malicious code in clo-adspect (npm)","affected":[{"package":{"name":"clo-adspect","ecosystem":"npm","purl":"pkg:npm/clo-adspect"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

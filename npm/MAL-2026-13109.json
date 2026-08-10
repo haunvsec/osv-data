@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13109","published":"2026-08-05T14:21:59Z","modified":"2026-08-05T15:52:27.243251095Z","summary":"Malicious code in bpm-foundation-delegate-docs (npm)","affected":[{"package":{"name":"bpm-foundation-delegate-docs","ecosystem":"npm","purl":"pkg:npm/bpm-foundation-delegate-docs"},"versions":["35.1.9"]}]}

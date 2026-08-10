@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11960","published":"2026-08-04T18:00:00Z","modified":"2026-08-05T08:51:15.769879029Z","aliases":["GHSA-vpvg-254v-wp7h"],"summary":"Malicious code in @umacloud/knowledge (npm)","affected":[{"package":{"name":"@umacloud/knowledge","ecosystem":"npm","purl":"pkg:npm/%40umacloud/knowledge"},"versions":["1.0.74"]}]}

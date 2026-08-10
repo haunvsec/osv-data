@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12425","published":"2026-08-05T12:47:52Z","modified":"2026-08-05T13:35:49.614568761Z","summary":"Malicious code in react-table-core (npm)","affected":[{"package":{"name":"react-table-core","ecosystem":"npm","purl":"pkg:npm/react-table-core"},"versions":["2.7.1"]}]}

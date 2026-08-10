@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13601","published":"2026-08-07T12:33:56Z","modified":"2026-08-07T13:20:56.199962925Z","summary":"Malicious code in dolyame-ui-tablemobile (npm)","affected":[{"package":{"name":"dolyame-ui-tablemobile","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-tablemobile"},"versions":["35.8.1"]}]}

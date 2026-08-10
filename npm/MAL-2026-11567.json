@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11567","published":"2026-08-04T15:49:05Z","modified":"2026-08-05T08:49:56.585428136Z","aliases":["GHSA-c79x-q2hh-wxrr"],"summary":"Malicious code in @nebula.js/cli-sense (npm)","affected":[{"package":{"name":"@nebula.js/cli-sense","ecosystem":"npm","purl":"pkg:npm/%40nebula.js/cli-sense"},"versions":["7.1.2"]}]}

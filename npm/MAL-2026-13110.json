@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13110","published":"2026-08-05T14:21:27Z","modified":"2026-08-05T15:52:28.131385615Z","summary":"Malicious code in bpm-foundation-feedback (npm)","affected":[{"package":{"name":"bpm-foundation-feedback","ecosystem":"npm","purl":"pkg:npm/bpm-foundation-feedback"},"versions":["35.8.8"]}]}

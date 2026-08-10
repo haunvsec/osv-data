@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13550","published":"2026-08-07T12:25:42Z","modified":"2026-08-07T13:20:27.936812227Z","summary":"Malicious code in dolyame-boxy-atom-bnpl-navigation-arrow (npm)","affected":[{"package":{"name":"dolyame-boxy-atom-bnpl-navigation-arrow","ecosystem":"npm","purl":"pkg:npm/dolyame-boxy-atom-bnpl-navigation-arrow"},"versions":["35.6.5"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11453","published":"2026-07-31T21:55:22Z","modified":"2026-08-04T23:04:49.755519436Z","aliases":["GHSA-jhrx-465c-725f"],"summary":"Malicious code in adpanel-core (npm)","affected":[{"package":{"name":"adpanel-core","ecosystem":"npm","purl":"pkg:npm/adpanel-core"},"versions":["1.0.0"]}]}

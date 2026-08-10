@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13122","published":"2026-08-05T14:19:38Z","modified":"2026-08-05T15:52:33.711506786Z","summary":"Malicious code in bpm-ng-security (npm)","affected":[{"package":{"name":"bpm-ng-security","ecosystem":"npm","purl":"pkg:npm/bpm-ng-security"},"versions":["35.8.7"]}]}

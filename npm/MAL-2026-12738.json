@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12738","published":"2026-08-05T13:47:07Z","modified":"2026-08-05T14:36:49.149071068Z","summary":"Malicious code in devplatform-react-query-clients (npm)","affected":[{"package":{"name":"devplatform-react-query-clients","ecosystem":"npm","purl":"pkg:npm/devplatform-react-query-clients"},"versions":["35.7.7"]}]}

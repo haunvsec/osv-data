@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11551","published":"2026-08-04T18:00:00Z","modified":"2026-08-05T08:49:52.609897612Z","summary":"Malicious code in @adminide-stack/clock-tik-browser (npm)","affected":[{"package":{"name":"@adminide-stack/clock-tik-browser","ecosystem":"npm","purl":"pkg:npm/%40adminide-stack/clock-tik-browser"},"versions":["12.0.24"]}]}

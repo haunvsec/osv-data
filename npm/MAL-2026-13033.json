@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13033","published":"2026-08-05T14:35:06Z","modified":"2026-08-05T15:51:52.198204388Z","summary":"Malicious code in boxy-constants (npm)","affected":[{"package":{"name":"boxy-constants","ecosystem":"npm","purl":"pkg:npm/boxy-constants"},"versions":["35.2.7"]}]}

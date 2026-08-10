@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12403","published":"2026-08-05T13:05:21Z","modified":"2026-08-05T13:35:39.323743429Z","summary":"Malicious code in node-cache-multithread (npm)","affected":[{"package":{"name":"node-cache-multithread","ecosystem":"npm","purl":"pkg:npm/node-cache-multithread"},"versions":["1.1.3"]}]}

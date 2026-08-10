@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13196","published":"2026-08-05T15:08:02Z","modified":"2026-08-05T15:53:08.452718379Z","summary":"Malicious code in dolyame-ui-toggle (npm)","affected":[{"package":{"name":"dolyame-ui-toggle","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-toggle"},"versions":["35.4.1"]}]}

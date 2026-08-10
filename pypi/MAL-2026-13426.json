@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13426","published":"2026-08-06T13:38:08Z","modified":"2026-08-06T14:34:53.088091825Z","summary":"Malicious code in xayoub-xctxteam (PyPI)","affected":[{"package":{"name":"xayoub-xctxteam","ecosystem":"PyPI","purl":"pkg:pypi/xayoub-xctxteam"},"versions":["0.1.0","0.1.1","0.1.2"]}]}

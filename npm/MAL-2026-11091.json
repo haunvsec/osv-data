@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11091","published":"2026-07-27T01:21:44Z","modified":"2026-08-05T06:36:38.785931155Z","aliases":["GHSA-65pq-67vr-g3jp"],"summary":"Malicious code in txs-runner-lib (npm)","affected":[{"package":{"name":"txs-runner-lib","ecosystem":"npm","purl":"pkg:npm/txs-runner-lib"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

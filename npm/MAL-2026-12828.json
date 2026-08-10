@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12828","published":"2026-08-05T14:48:14Z","modified":"2026-08-06T01:19:49.845250695Z","aliases":["GHSA-c2x3-gq64-h6w5"],"summary":"Malicious code in beaver-ui-table (npm)","affected":[{"package":{"name":"beaver-ui-table","ecosystem":"npm","purl":"pkg:npm/beaver-ui-table"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

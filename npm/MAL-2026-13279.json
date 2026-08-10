@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13279","published":"2026-08-05T15:28:41Z","modified":"2026-08-05T16:50:31.230619826Z","summary":"Malicious code in docflow-cryptopro (npm)","affected":[{"package":{"name":"docflow-cryptopro","ecosystem":"npm","purl":"pkg:npm/docflow-cryptopro"},"versions":["35.1.6"]}]}

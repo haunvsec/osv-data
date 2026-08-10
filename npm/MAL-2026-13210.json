@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13210","published":"2026-08-05T15:55:39Z","modified":"2026-08-05T16:50:17.133646611Z","summary":"Malicious code in @ohos-ports/codex (npm)","affected":[{"package":{"name":"@ohos-ports/codex","ecosystem":"npm","purl":"pkg:npm/%40ohos-ports/codex"},"versions":["0.140.0-beta.0"]}]}

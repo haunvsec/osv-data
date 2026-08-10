@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13247","published":"2026-08-05T15:34:21Z","modified":"2026-08-05T16:50:10.829984543Z","summary":"Malicious code in bigops-products-travel (npm)","affected":[{"package":{"name":"bigops-products-travel","ecosystem":"npm","purl":"pkg:npm/bigops-products-travel"},"versions":["35.7.1"]}]}

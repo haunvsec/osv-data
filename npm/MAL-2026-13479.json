@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13479","published":"2026-08-06T23:54:52Z","modified":"2026-08-07T01:19:46.758671699Z","summary":"Malicious code in @cats-cdf/browser-metrics-meter (npm)","affected":[{"package":{"name":"@cats-cdf/browser-metrics-meter","ecosystem":"npm","purl":"pkg:npm/%40cats-cdf/browser-metrics-meter"},"versions":["3.1.1","2.0.0"]}]}

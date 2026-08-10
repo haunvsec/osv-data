@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13160","published":"2026-08-05T15:13:35Z","modified":"2026-08-05T15:52:51.349422578Z","summary":"Malicious code in dolyame-ui-input (npm)","affected":[{"package":{"name":"dolyame-ui-input","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-input"},"versions":["35.7.6"]}]}

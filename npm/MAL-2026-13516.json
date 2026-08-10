@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13516","published":"2026-08-07T12:09:35Z","modified":"2026-08-08T01:04:58.806389197Z","summary":"Malicious code in forge-gas-diff (npm)","affected":[{"package":{"name":"forge-gas-diff","ecosystem":"npm","purl":"pkg:npm/forge-gas-diff"},"versions":["1.0.0","1.0.1"]}]}

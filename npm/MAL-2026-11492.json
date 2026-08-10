@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11492","published":"2026-08-01T03:43:29Z","modified":"2026-08-05T07:21:34.349560648Z","aliases":["GHSA-vf2p-478v-vg76"],"summary":"Malicious code in test-dev-link (npm)","affected":[{"package":{"name":"test-dev-link","ecosystem":"npm","purl":"pkg:npm/test-dev-link"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

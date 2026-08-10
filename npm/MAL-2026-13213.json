@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13213","published":"2026-08-05T15:32:21Z","modified":"2026-08-05T16:50:18.156300559Z","summary":"Malicious code in @zzzcrypto/playwrite (npm)","affected":[{"package":{"name":"@zzzcrypto/playwrite","ecosystem":"npm","purl":"pkg:npm/%40zzzcrypto/playwrite"},"versions":["1.48.0"]}]}

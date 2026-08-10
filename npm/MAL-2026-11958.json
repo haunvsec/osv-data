@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11958","published":"2026-08-04T18:00:00Z","modified":"2026-08-05T08:51:14.754260618Z","aliases":["GHSA-p886-3cf4-j5cx"],"summary":"Malicious code in @umacloud/cli-linux-x64 (npm)","affected":[{"package":{"name":"@umacloud/cli-linux-x64","ecosystem":"npm","purl":"pkg:npm/%40umacloud/cli-linux-x64"},"versions":["1.0.74"]}]}

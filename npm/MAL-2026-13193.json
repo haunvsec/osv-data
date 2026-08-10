@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13193","published":"2026-08-05T15:08:41Z","modified":"2026-08-05T15:53:06.805426667Z","summary":"Malicious code in dolyame-ui-text (npm)","affected":[{"package":{"name":"dolyame-ui-text","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-text"},"versions":["35.7.4"]}]}

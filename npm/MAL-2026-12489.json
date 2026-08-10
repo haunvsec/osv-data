@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12489","published":"2026-08-05T12:49:07Z","modified":"2026-08-07T00:04:51.812320240Z","aliases":["GHSA-m4vv-cf6m-g553"],"summary":"Malicious code in tui-react-tooltip (npm)","affected":[{"package":{"name":"tui-react-tooltip","ecosystem":"npm","purl":"pkg:npm/tui-react-tooltip"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

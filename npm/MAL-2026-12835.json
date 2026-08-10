@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12835","published":"2026-08-05T15:02:11Z","modified":"2026-08-06T01:19:56.734871012Z","aliases":["GHSA-h5f4-28jx-fr9g"],"summary":"Malicious code in bigops-tasks (npm)","affected":[{"package":{"name":"bigops-tasks","ecosystem":"npm","purl":"pkg:npm/bigops-tasks"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

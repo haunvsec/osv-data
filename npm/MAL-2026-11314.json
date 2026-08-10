@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11314","published":"2026-07-30T22:22:04Z","modified":"2026-07-31T01:38:28.205716117Z","aliases":["GHSA-5rjh-56g3-j7x2"],"summary":"Malicious code in fwf (npm)","affected":[{"package":{"name":"fwf","ecosystem":"npm","purl":"pkg:npm/fwf"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

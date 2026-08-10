@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12207","published":"2026-08-05T09:18:04Z","modified":"2026-08-06T01:21:13.203972754Z","aliases":["GHSA-prp3-9g6q-wp6v"],"summary":"Malicious code in sme-auth-core (npm)","affected":[{"package":{"name":"sme-auth-core","ecosystem":"npm","purl":"pkg:npm/sme-auth-core"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

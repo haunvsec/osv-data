@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13104","published":"2026-08-05T14:24:33Z","modified":"2026-08-05T15:52:24.330360810Z","summary":"Malicious code in bpm-foundation-auth (npm)","affected":[{"package":{"name":"bpm-foundation-auth","ecosystem":"npm","purl":"pkg:npm/bpm-foundation-auth"},"versions":["35.2.9"]}]}

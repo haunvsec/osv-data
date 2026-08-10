@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11462","published":"2026-07-31T21:53:27Z","modified":"2026-08-04T23:05:06.448082075Z","aliases":["GHSA-c65v-4v4c-jcpr"],"summary":"Malicious code in fast-csv-helper (npm)","affected":[{"package":{"name":"fast-csv-helper","ecosystem":"npm","purl":"pkg:npm/fast-csv-helper"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13156","published":"2026-08-05T15:14:49Z","modified":"2026-08-05T15:52:49.939403406Z","summary":"Malicious code in dolyame-ui-footer (npm)","affected":[{"package":{"name":"dolyame-ui-footer","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-footer"},"versions":["35.5.8"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11143","published":"2026-07-28T13:33:43Z","modified":"2026-08-05T13:35:40.584216305Z","summary":"Malicious code in parallely (npm)","affected":[{"package":{"name":"parallely","ecosystem":"npm","purl":"pkg:npm/parallely"},"versions":["10.0.3","10.0.4"]}]}

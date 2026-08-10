@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12320","published":"2026-08-05T12:25:58Z","modified":"2026-08-06T14:34:49.118200818Z","summary":"Malicious code in @lizhao1/memorax-code-internal (npm)","affected":[{"package":{"name":"@lizhao1/memorax-code-internal","ecosystem":"npm","purl":"pkg:npm/%40lizhao1/memorax-code-internal"},"versions":["0.1.0","0.1.1","0.1.2","0.1.3"]}]}

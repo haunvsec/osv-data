@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12975","published":"2026-08-05T14:43:17Z","modified":"2026-08-05T15:51:23.738269288Z","summary":"Malicious code in bnpl-blocks-independent-bnpl-video (npm)","affected":[{"package":{"name":"bnpl-blocks-independent-bnpl-video","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-independent-bnpl-video"},"versions":["35.7.3"]}]}

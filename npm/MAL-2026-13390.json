@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13390","published":"2026-08-06T03:30:21Z","modified":"2026-08-06T13:34:51.749821252Z","aliases":["GHSA-fj9m-r2qx-cc39"],"summary":"Malicious code in @xsat10/baileys-xsat (npm)","affected":[{"package":{"name":"@xsat10/baileys-xsat","ecosystem":"npm","purl":"pkg:npm/%40xsat10/baileys-xsat"},"versions":["2.0.0"]}]}

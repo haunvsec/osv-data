@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11350","published":"2026-07-30T21:25:58Z","modified":"2026-07-31T01:38:51.646194768Z","aliases":["GHSA-2q75-m767-rjjx"],"summary":"Malicious code in pulleeelll (npm)","affected":[{"package":{"name":"pulleeelll","ecosystem":"npm","purl":"pkg:npm/pulleeelll"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

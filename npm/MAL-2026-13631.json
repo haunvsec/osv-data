@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13631","published":"2026-08-08T00:51:34Z","modified":"2026-08-08T01:05:00.023616610Z","summary":"Malicious code in localization-fixer (npm)","affected":[{"package":{"name":"localization-fixer","ecosystem":"npm","purl":"pkg:npm/localization-fixer"},"versions":["1.1.1","1.0.1"]}]}

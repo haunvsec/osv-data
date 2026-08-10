@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13432","published":"2026-08-06T16:53:28Z","modified":"2026-08-06T23:50:01.117567751Z","summary":"Malicious code in @junyoung-kim/reins (npm)","affected":[{"package":{"name":"@junyoung-kim/reins","ecosystem":"npm","purl":"pkg:npm/%40junyoung-kim/reins"},"versions":["0.1.7","0.1.6"]}]}

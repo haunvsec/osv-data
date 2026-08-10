@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12463","published":"2026-08-05T12:48:41Z","modified":"2026-08-05T13:36:09.011081689Z","summary":"Malicious code in streak-day-primitives (npm)","affected":[{"package":{"name":"streak-day-primitives","ecosystem":"npm","purl":"pkg:npm/streak-day-primitives"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13371","published":"2026-08-05T18:25:48Z","modified":"2026-08-05T19:19:51.727353751Z","summary":"Malicious code in multi-acct (npm)","affected":[{"package":{"name":"multi-acct","ecosystem":"npm","purl":"pkg:npm/multi-acct"},"versions":["99.99.99","3.1.0","4.999.999","3.0.999","3.999.999","2.0.999","4.0.0","2.1.999","1.0.0","2.999.999"]}]}

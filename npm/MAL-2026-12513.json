@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12513","published":"2026-08-05T13:10:04Z","modified":"2026-08-06T01:20:06.672960951Z","aliases":["GHSA-vwr9-j5fc-42fq"],"summary":"Malicious code in async-mutex-lock (npm)","affected":[{"package":{"name":"async-mutex-lock","ecosystem":"npm","purl":"pkg:npm/async-mutex-lock"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

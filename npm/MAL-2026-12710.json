@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12710","published":"2026-08-05T13:50:38Z","modified":"2026-08-05T14:36:36.233479457Z","summary":"Malicious code in devplatform-eslint-plugin-nx (npm)","affected":[{"package":{"name":"devplatform-eslint-plugin-nx","ecosystem":"npm","purl":"pkg:npm/devplatform-eslint-plugin-nx"},"versions":["35.6.5"]}]}

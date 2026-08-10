@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12978","published":"2026-08-05T14:40:48Z","modified":"2026-08-05T15:51:25.306435975Z","summary":"Malicious code in bnpl-blocks-mobile-bnpl-anchor-title (npm)","affected":[{"package":{"name":"bnpl-blocks-mobile-bnpl-anchor-title","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-mobile-bnpl-anchor-title"},"versions":["35.8.3"]}]}

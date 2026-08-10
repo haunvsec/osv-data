@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12541","published":"2026-08-05T14:15:27Z","modified":"2026-08-05T14:35:08.557088273Z","summary":"Malicious code in checkout-accounts-holder (npm)","affected":[{"package":{"name":"checkout-accounts-holder","ecosystem":"npm","purl":"pkg:npm/checkout-accounts-holder"},"versions":["35.2.3"]}]}

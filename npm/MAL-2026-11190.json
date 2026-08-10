@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11190","published":"2026-07-29T16:07:08Z","modified":"2026-07-30T04:36:09.684097063Z","aliases":["GHSA-wpp9-5p7g-7cjh"],"summary":"Malicious code in uniapi-bridge (npm)","affected":[{"package":{"name":"uniapi-bridge","ecosystem":"npm","purl":"pkg:npm/uniapi-bridge"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

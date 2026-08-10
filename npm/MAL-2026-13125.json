@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13125","published":"2026-08-05T15:19:13Z","modified":"2026-08-05T15:52:35.078331953Z","summary":"Malicious code in dolyame-boxy-mobile-bnpl-image-plus-text (npm)","affected":[{"package":{"name":"dolyame-boxy-mobile-bnpl-image-plus-text","ecosystem":"npm","purl":"pkg:npm/dolyame-boxy-mobile-bnpl-image-plus-text"},"versions":["35.6.6"]}]}

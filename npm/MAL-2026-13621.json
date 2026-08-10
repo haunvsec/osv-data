@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13621","published":"2026-08-07T17:20:59Z","modified":"2026-08-07T17:34:49.551712501Z","summary":"Malicious code in @decido/backend-core (npm)","affected":[{"package":{"name":"@decido/backend-core","ecosystem":"npm","purl":"pkg:npm/%40decido/backend-core"},"versions":["4.1.18","4.1.1","4.1.19","4.1.12"]}]}

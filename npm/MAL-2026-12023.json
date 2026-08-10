@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12023","published":"2026-08-04T13:02:10Z","modified":"2026-08-05T10:05:32.462645711Z","aliases":["GHSA-4wfp-qcf3-mgqp"],"summary":"Malicious code in @keyv/sqlite (npm)","affected":[{"package":{"name":"@keyv/sqlite","ecosystem":"npm","purl":"pkg:npm/%40keyv/sqlite"},"versions":["6.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11668","published":"2026-08-04T15:21:04Z","modified":"2026-08-05T08:50:35.417260420Z","aliases":["GHSA-v9vm-7rq6-q764"],"summary":"Malicious code in @or-sdk/agents (npm)","affected":[{"package":{"name":"@or-sdk/agents","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/agents"},"versions":["4.21.3","4.21.4","4.21.5"]}]}

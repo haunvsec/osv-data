@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11472","published":"2026-07-31T22:00:08Z","modified":"2026-08-05T06:36:20.749718513Z","aliases":["GHSA-694g-9jgf-5566"],"summary":"Malicious code in mcp-server-boilerplate (npm)","affected":[{"package":{"name":"mcp-server-boilerplate","ecosystem":"npm","purl":"pkg:npm/mcp-server-boilerplate"},"versions":["1.0.0"]}]}

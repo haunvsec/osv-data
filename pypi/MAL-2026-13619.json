@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13619","published":"2026-08-07T16:03:42Z","modified":"2026-08-07T17:04:54.694236250Z","summary":"Malicious code in atlas-internal (PyPI)","affected":[{"package":{"name":"atlas-internal","ecosystem":"PyPI","purl":"pkg:pypi/atlas-internal"},"versions":["1.8.1"]}]}

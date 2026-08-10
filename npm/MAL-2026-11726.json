@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11726","published":"2026-08-04T15:24:14Z","modified":"2026-08-05T08:51:02.493966664Z","aliases":["GHSA-56pc-54vw-4fr5"],"summary":"Malicious code in @or-sdk/sku-builder (npm)","affected":[{"package":{"name":"@or-sdk/sku-builder","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/sku-builder"},"versions":["2.5.1","2.5.2","2.5.3"]}]}

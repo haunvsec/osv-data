@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12318","published":"2026-08-05T12:34:06Z","modified":"2026-08-06T09:34:51.558531429Z","aliases":["GHSA-62r9-p944-cjmg"],"summary":"Malicious code in @hoteldev/common (npm)","affected":[{"package":{"name":"@hoteldev/common","ecosystem":"npm","purl":"pkg:npm/%40hoteldev/common"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

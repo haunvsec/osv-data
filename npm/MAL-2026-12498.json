@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12498","published":"2026-08-05T12:58:28Z","modified":"2026-08-05T13:36:26.077869037Z","summary":"Malicious code in wagmi-react (npm)","affected":[{"package":{"name":"wagmi-react","ecosystem":"npm","purl":"pkg:npm/wagmi-react"},"versions":["1.0.0"]}]}

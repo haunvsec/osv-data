@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13414","published":"2026-08-06T13:42:24Z","modified":"2026-08-06T14:34:44.640399514Z","summary":"Malicious code in @atom8n/inspector (npm)","affected":[{"package":{"name":"@atom8n/inspector","ecosystem":"npm","purl":"pkg:npm/%40atom8n/inspector"},"versions":["0.17.32"]}]}

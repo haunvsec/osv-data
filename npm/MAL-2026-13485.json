@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13485","published":"2026-08-06T23:54:44Z","modified":"2026-08-07T01:19:50.602415342Z","summary":"Malicious code in weight2loss (npm)","affected":[{"package":{"name":"weight2loss","ecosystem":"npm","purl":"pkg:npm/weight2loss"},"versions":["1.0.5"]}]}

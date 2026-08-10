@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12051","published":"2026-08-05T01:21:03Z","modified":"2026-08-06T01:21:38.536107439Z","aliases":["GHSA-377x-9v5g-rvgw"],"summary":"Malicious code in tinkoff-ui-action (npm)","affected":[{"package":{"name":"tinkoff-ui-action","ecosystem":"npm","purl":"pkg:npm/tinkoff-ui-action"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

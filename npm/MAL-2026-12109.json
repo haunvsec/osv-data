@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12109","published":"2026-08-05T06:19:15Z","modified":"2026-08-05T07:21:03.824370918Z","summary":"Malicious code in bip32-js (npm)","affected":[{"package":{"name":"bip32-js","ecosystem":"npm","purl":"pkg:npm/bip32-js"},"versions":["1.0.1","1.0.2","1.0.0"]}]}

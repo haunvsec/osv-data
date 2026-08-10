@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11134","published":"2026-07-28T13:42:20Z","modified":"2026-07-28T14:36:52.509942147Z","summary":"Malicious code in color-convert-helper (npm)","affected":[{"package":{"name":"color-convert-helper","ecosystem":"npm","purl":"pkg:npm/color-convert-helper"},"versions":["1.0.0"]}]}

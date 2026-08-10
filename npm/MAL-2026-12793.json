@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12793","published":"2026-08-05T13:19:41Z","modified":"2026-08-05T14:37:14.027381625Z","summary":"Malicious code in helixbox-connect (npm)","affected":[{"package":{"name":"helixbox-connect","ecosystem":"npm","purl":"pkg:npm/helixbox-connect"},"versions":["1.0.1"]}]}

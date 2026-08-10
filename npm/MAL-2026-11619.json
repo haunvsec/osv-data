@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11619","published":"2026-08-04T15:26:04Z","modified":"2026-08-05T08:50:14.801831474Z","aliases":["GHSA-669f-2cfg-q7ch"],"summary":"Malicious code in @onereach/orest-vue3 (npm)","affected":[{"package":{"name":"@onereach/orest-vue3","ecosystem":"npm","purl":"pkg:npm/%40onereach/orest-vue3"},"versions":["0.0.4","0.0.5","0.0.6"]}]}

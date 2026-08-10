@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12105","published":"2026-08-05T06:24:12Z","modified":"2026-08-05T07:20:59.080925744Z","summary":"Malicious code in @wethenorth12/tronweb3 (npm)","affected":[{"package":{"name":"@wethenorth12/tronweb3","ecosystem":"npm","purl":"pkg:npm/%40wethenorth12/tronweb3"},"versions":["5.3.2"]}]}

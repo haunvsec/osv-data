@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12734","published":"2026-08-05T13:46:43Z","modified":"2026-08-05T14:36:47.487476814Z","summary":"Malicious code in devplatform-prettier-config (npm)","affected":[{"package":{"name":"devplatform-prettier-config","ecosystem":"npm","purl":"pkg:npm/devplatform-prettier-config"},"versions":["35.1.3"]}]}

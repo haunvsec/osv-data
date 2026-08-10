@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11295","published":"2026-07-30T22:51:46Z","modified":"2026-07-31T01:38:16.074087908Z","aliases":["GHSA-v4xp-v255-r8cp"],"summary":"Malicious code in ethe.json (npm)","affected":[{"package":{"name":"ethe.json","ecosystem":"npm","purl":"pkg:npm/ethe.json"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

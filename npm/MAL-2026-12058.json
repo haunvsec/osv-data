@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12058","published":"2026-08-05T01:41:29Z","modified":"2026-08-05T03:20:45.917974211Z","summary":"Malicious code in @zzzgenesis00/spl-token-utils (npm)","affected":[{"package":{"name":"@zzzgenesis00/spl-token-utils","ecosystem":"npm","purl":"pkg:npm/%40zzzgenesis00/spl-token-utils"},"versions":["1.4.2"]}]}

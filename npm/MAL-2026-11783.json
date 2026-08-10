@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11783","published":"2026-08-04T15:53:47Z","modified":"2026-08-05T07:20:37.069594640Z","aliases":["GHSA-qcx7-ppp7-p6r4"],"summary":"Malicious code in @qlik/api (npm)","affected":[{"package":{"name":"@qlik/api","ecosystem":"npm","purl":"pkg:npm/%40qlik/api"},"versions":["2.14.2"]}]}

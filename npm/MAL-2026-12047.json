@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12047","published":"2026-08-05T01:04:31Z","modified":"2026-08-05T01:49:54.728633459Z","summary":"Malicious code in streak-day-utils (npm)","affected":[{"package":{"name":"streak-day-utils","ecosystem":"npm","purl":"pkg:npm/streak-day-utils"},"versions":["1.0.0"]}]}

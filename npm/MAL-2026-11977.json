@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11977","published":"2026-08-04T15:48:48Z","modified":"2026-08-05T07:21:21.655446601Z","aliases":["GHSA-m8fj-58gp-7cpr"],"summary":"Malicious code in picasso-plugin-hammer (npm)","affected":[{"package":{"name":"picasso-plugin-hammer","ecosystem":"npm","purl":"pkg:npm/picasso-plugin-hammer"},"versions":["2.11.6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13501","published":"2026-08-07T12:13:10Z","modified":"2026-08-07T12:35:10.191289509Z","summary":"Malicious code in delivery-ci-jira-rnd (npm)","affected":[{"package":{"name":"delivery-ci-jira-rnd","ecosystem":"npm","purl":"pkg:npm/delivery-ci-jira-rnd"},"versions":["35.5.4"]}]}

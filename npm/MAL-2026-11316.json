@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11316","published":"2026-07-30T22:07:22Z","modified":"2026-07-31T01:38:29.229450934Z","aliases":["GHSA-9r29-2px8-pvcj"],"summary":"Malicious code in hjw-nasa-lib (npm)","affected":[{"package":{"name":"hjw-nasa-lib","ecosystem":"npm","purl":"pkg:npm/hjw-nasa-lib"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

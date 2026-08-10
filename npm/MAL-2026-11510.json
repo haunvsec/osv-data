@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11510","published":"2026-08-03T15:41:21Z","modified":"2026-08-04T22:04:57.916224532Z","aliases":["GHSA-w259-8g6c-8ppr"],"summary":"Malicious code in beaver-ui-layout (npm)","affected":[{"package":{"name":"beaver-ui-layout","ecosystem":"npm","purl":"pkg:npm/beaver-ui-layout"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

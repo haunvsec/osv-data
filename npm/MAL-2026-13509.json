@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13509","published":"2026-08-07T12:12:32Z","modified":"2026-08-07T12:35:14.499538411Z","summary":"Malicious code in dolyame-ui-lazyrender (npm)","affected":[{"package":{"name":"dolyame-ui-lazyrender","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-lazyrender"},"versions":["35.8.1"]}]}

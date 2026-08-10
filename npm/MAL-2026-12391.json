@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12391","published":"2026-08-05T12:26:25Z","modified":"2026-08-05T13:35:31.833599267Z","summary":"Malicious code in hubert-verify-primary-email-am (npm)","affected":[{"package":{"name":"hubert-verify-primary-email-am","ecosystem":"npm","purl":"pkg:npm/hubert-verify-primary-email-am"},"versions":["20.4.6"]}]}

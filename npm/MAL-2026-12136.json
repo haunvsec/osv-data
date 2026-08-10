@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12136","published":"2026-08-05T09:08:53Z","modified":"2026-08-05T10:05:46.206407895Z","summary":"Malicious code in accounts-stores (npm)","affected":[{"package":{"name":"accounts-stores","ecosystem":"npm","purl":"pkg:npm/accounts-stores"},"versions":["0.0.1"]}]}

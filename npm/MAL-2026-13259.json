@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13259","published":"2026-08-05T15:38:53Z","modified":"2026-08-05T16:50:20.485961535Z","summary":"Malicious code in chatcc-agent (npm)","affected":[{"package":{"name":"chatcc-agent","ecosystem":"npm","purl":"pkg:npm/chatcc-agent"},"versions":["0.8.24"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12186","published":"2026-08-05T08:56:34Z","modified":"2026-08-05T10:06:12.377668442Z","summary":"Malicious code in pfp-forms-insurance-health (npm)","affected":[{"package":{"name":"pfp-forms-insurance-health","ecosystem":"npm","purl":"pkg:npm/pfp-forms-insurance-health"},"versions":["20.2.2"]}]}

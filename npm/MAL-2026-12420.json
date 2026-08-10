@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12420","published":"2026-08-05T12:51:40Z","modified":"2026-08-05T13:35:47.252344889Z","summary":"Malicious code in prokit-core (npm)","affected":[{"package":{"name":"prokit-core","ecosystem":"npm","purl":"pkg:npm/prokit-core"},"versions":["20.6.6"]}]}

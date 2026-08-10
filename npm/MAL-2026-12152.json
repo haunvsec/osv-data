@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12152","published":"2026-08-05T08:44:27Z","modified":"2026-08-05T10:05:53.988424768Z","summary":"Malicious code in bigops-auth-provider-interceptor (npm)","affected":[{"package":{"name":"bigops-auth-provider-interceptor","ecosystem":"npm","purl":"pkg:npm/bigops-auth-provider-interceptor"},"versions":["35.8.3"]}]}

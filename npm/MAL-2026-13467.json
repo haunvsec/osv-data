@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13467","published":"2026-08-06T16:21:22Z","modified":"2026-08-06T23:50:28.050970617Z","summary":"Malicious code in wos-library-ui (npm)","affected":[{"package":{"name":"wos-library-ui","ecosystem":"npm","purl":"pkg:npm/wos-library-ui"},"versions":["99.0.0"]}]}

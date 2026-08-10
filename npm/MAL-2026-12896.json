@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12896","published":"2026-08-05T14:53:06Z","modified":"2026-08-05T15:50:47.999756999Z","summary":"Malicious code in bnpl-blocks-atom-bnpl-store-button (npm)","affected":[{"package":{"name":"bnpl-blocks-atom-bnpl-store-button","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-atom-bnpl-store-button"},"versions":["35.2.8"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11560","published":"2026-08-04T11:34:12Z","modified":"2026-08-05T08:49:55.647194797Z","aliases":["GHSA-7pv9-q9wh-jqc3"],"summary":"Malicious code in @cacheable/node-cache (npm)","affected":[{"package":{"name":"@cacheable/node-cache","ecosystem":"npm","purl":"pkg:npm/%40cacheable/node-cache"},"versions":["3.1.2"]}]}

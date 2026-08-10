@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13386","published":"2026-08-06T07:14:52Z","modified":"2026-08-06T13:34:48.770026354Z","summary":"Malicious code in decapod-common (PyPI)","affected":[{"package":{"name":"decapod-common","ecosystem":"PyPI","purl":"pkg:pypi/decapod-common"},"versions":["0.0.0","1.2.dev1","1.2.dev2"]}]}

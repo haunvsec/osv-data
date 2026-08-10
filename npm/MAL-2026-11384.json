@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11384","published":"2026-07-30T22:35:06Z","modified":"2026-07-31T01:39:11.745157100Z","aliases":["GHSA-pcp5-vg44-ch66"],"summary":"Malicious code in spectral-corsair (npm)","affected":[{"package":{"name":"spectral-corsair","ecosystem":"npm","purl":"pkg:npm/spectral-corsair"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

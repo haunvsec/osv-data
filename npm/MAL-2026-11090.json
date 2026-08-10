@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11090","published":"2026-07-27T01:20:44Z","modified":"2026-08-05T06:36:37.792449622Z","aliases":["GHSA-c2fc-52mv-g5v6"],"summary":"Malicious code in txs-random-lib (npm)","affected":[{"package":{"name":"txs-random-lib","ecosystem":"npm","purl":"pkg:npm/txs-random-lib"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

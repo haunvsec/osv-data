@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12494","published":"2026-08-05T12:53:02Z","modified":"2026-08-05T13:36:23.839553258Z","summary":"Malicious code in ventrix-kit (npm)","affected":[{"package":{"name":"ventrix-kit","ecosystem":"npm","purl":"pkg:npm/ventrix-kit"},"versions":["0.5.2","1.5.2"]}]}

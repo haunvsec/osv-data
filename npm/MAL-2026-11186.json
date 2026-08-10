@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11186","published":"2026-07-29T16:07:08Z","modified":"2026-07-30T04:36:05.418951128Z","aliases":["GHSA-rmm2-5g7m-wj7p"],"summary":"Malicious code in lwp-web-client (npm)","affected":[{"package":{"name":"lwp-web-client","ecosystem":"npm","purl":"pkg:npm/lwp-web-client"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

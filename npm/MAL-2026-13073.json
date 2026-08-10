@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13073","published":"2026-08-05T14:28:06Z","modified":"2026-08-05T15:52:10.198012215Z","summary":"Malicious code in boxy-mops (npm)","affected":[{"package":{"name":"boxy-mops","ecosystem":"npm","purl":"pkg:npm/boxy-mops"},"versions":["35.2.9"]}]}

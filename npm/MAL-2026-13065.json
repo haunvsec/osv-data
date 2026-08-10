@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13065","published":"2026-08-05T14:29:02Z","modified":"2026-08-05T15:52:05.258733852Z","summary":"Malicious code in boxy-maker-sticky (npm)","affected":[{"package":{"name":"boxy-maker-sticky","ecosystem":"npm","purl":"pkg:npm/boxy-maker-sticky"},"versions":["35.9.7"]}]}

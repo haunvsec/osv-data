@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12756","published":"2026-08-05T13:43:46Z","modified":"2026-08-05T14:36:56.750066434Z","summary":"Malicious code in devplatform-spa-devtools (npm)","affected":[{"package":{"name":"devplatform-spa-devtools","ecosystem":"npm","purl":"pkg:npm/devplatform-spa-devtools"},"versions":["35.2.6"]}]}

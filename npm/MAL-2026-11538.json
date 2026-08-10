@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11538","published":"2026-08-04T22:08:17Z","modified":"2026-08-04T23:05:02.859450981Z","summary":"Malicious code in eacq-payform-core (npm)","affected":[{"package":{"name":"eacq-payform-core","ecosystem":"npm","purl":"pkg:npm/eacq-payform-core"},"versions":["20.3.6"]}]}

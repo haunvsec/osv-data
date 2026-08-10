@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11328","published":"2026-07-30T16:07:02Z","modified":"2026-08-05T06:36:19.549886138Z","aliases":["GHSA-f2wx-p6h3-rgg2"],"summary":"Malicious code in logform-core (npm)","affected":[{"package":{"name":"logform-core","ecosystem":"npm","purl":"pkg:npm/logform-core"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

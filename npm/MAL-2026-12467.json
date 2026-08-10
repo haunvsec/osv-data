@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12467","published":"2026-08-05T12:31:12Z","modified":"2026-08-05T13:36:10.728191231Z","summary":"Malicious code in streak-int-lib (npm)","affected":[{"package":{"name":"streak-int-lib","ecosystem":"npm","purl":"pkg:npm/streak-int-lib"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11734","published":"2026-08-04T15:21:13Z","modified":"2026-08-05T08:51:06.096595050Z","aliases":["GHSA-p4qg-69jp-5qmx"],"summary":"Malicious code in @or-sdk/transcripts (npm)","affected":[{"package":{"name":"@or-sdk/transcripts","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/transcripts"},"versions":["1.2.5","1.2.6","1.2.7"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12373","published":"2026-08-05T12:47:22Z","modified":"2026-08-06T01:21:02.082594198Z","aliases":["GHSA-c86h-3ch7-5r5g"],"summary":"Malicious code in eventea-diag (npm)","affected":[{"package":{"name":"eventea-diag","ecosystem":"npm","purl":"pkg:npm/eventea-diag"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

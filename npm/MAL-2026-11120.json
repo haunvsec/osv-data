@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11120","published":"2026-07-28T13:29:56Z","modified":"2026-08-05T13:35:06.152261940Z","summary":"Malicious code in @ai_/autoprefixers (npm)","affected":[{"package":{"name":"@ai_/autoprefixers","ecosystem":"npm","purl":"pkg:npm/%40ai_/autoprefixers"},"versions":["1.2.0","1.0.0","1.1.0"]}]}

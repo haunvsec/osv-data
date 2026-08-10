@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12682","published":"2026-08-05T13:54:21Z","modified":"2026-08-05T14:36:23.842936459Z","summary":"Malicious code in delivery-ci-storyshots (npm)","affected":[{"package":{"name":"delivery-ci-storyshots","ecosystem":"npm","purl":"pkg:npm/delivery-ci-storyshots"},"versions":["35.3.6"]}]}

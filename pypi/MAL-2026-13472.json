@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13472","published":"2026-08-06T16:13:58Z","modified":"2026-08-06T23:50:30.549995942Z","summary":"Malicious code in alphalend-abi (PyPI)","affected":[{"package":{"name":"alphalend-abi","ecosystem":"PyPI","purl":"pkg:pypi/alphalend-abi"},"versions":["1.0.0","1.0.1","1.1.0"]}]}

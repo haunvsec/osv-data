@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11269","published":"2026-07-30T17:44:07Z","modified":"2026-08-04T23:04:59.857565722Z","aliases":["GHSA-5439-r8p8-2gmx"],"summary":"Malicious code in consumerweb-risk (npm)","affected":[{"package":{"name":"consumerweb-risk","ecosystem":"npm","purl":"pkg:npm/consumerweb-risk"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

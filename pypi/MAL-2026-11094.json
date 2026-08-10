@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11094","published":"2026-07-27T22:02:50Z","modified":"2026-08-05T07:21:40.901815723Z","summary":"Malicious code in cfgzen (PyPI)","affected":[{"package":{"name":"cfgzen","ecosystem":"PyPI","purl":"pkg:pypi/cfgzen"},"versions":["1.0.0","1.0.1","1.0.2","1.0.3","1.0.4","1.0.5","1.0.6"]}]}

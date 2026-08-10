@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13207","published":"2026-08-05T15:06:16Z","modified":"2026-08-05T15:53:13.249129758Z","summary":"Malicious code in eacq-api (npm)","affected":[{"package":{"name":"eacq-api","ecosystem":"npm","purl":"pkg:npm/eacq-api"},"versions":["35.6.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12790","published":"2026-08-05T13:17:51Z","modified":"2026-08-05T14:37:12.873889002Z","summary":"Malicious code in glia-functions-tools (npm)","affected":[{"package":{"name":"glia-functions-tools","ecosystem":"npm","purl":"pkg:npm/glia-functions-tools"},"versions":["0.2.1"]}]}

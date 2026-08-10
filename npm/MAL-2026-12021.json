@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12021","published":"2026-08-04T13:01:34Z","modified":"2026-08-05T10:05:31.403700749Z","aliases":["GHSA-xvcf-q9q3-xhg7"],"summary":"Malicious code in @keyv/serialize-msgpackr (npm)","affected":[{"package":{"name":"@keyv/serialize-msgpackr","ecosystem":"npm","purl":"pkg:npm/%40keyv/serialize-msgpackr"},"versions":["6.0.0"]}]}

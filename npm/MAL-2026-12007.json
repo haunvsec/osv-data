@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12007","published":"2026-08-04T13:01:08Z","modified":"2026-08-05T10:05:25.720613820Z","aliases":["GHSA-p677-p29q-h534"],"summary":"Malicious code in @keyv/bigmap (npm)","affected":[{"package":{"name":"@keyv/bigmap","ecosystem":"npm","purl":"pkg:npm/%40keyv/bigmap"},"versions":["6.0.0"]}]}

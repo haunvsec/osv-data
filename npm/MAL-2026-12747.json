@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12747","published":"2026-08-05T13:44:44Z","modified":"2026-08-05T14:36:53.180630844Z","summary":"Malicious code in devplatform-s3-client (npm)","affected":[{"package":{"name":"devplatform-s3-client","ecosystem":"npm","purl":"pkg:npm/devplatform-s3-client"},"versions":["35.9.5"]}]}

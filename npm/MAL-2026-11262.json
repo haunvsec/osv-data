@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11262","published":"2026-07-30T22:00:10Z","modified":"2026-07-31T01:37:45.783339747Z","aliases":["GHSA-c4xj-wr6j-7w45"],"summary":"Malicious code in clo321-server (npm)","affected":[{"package":{"name":"clo321-server","ecosystem":"npm","purl":"pkg:npm/clo321-server"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

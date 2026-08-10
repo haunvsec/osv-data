@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12739","published":"2026-08-05T13:46:06Z","modified":"2026-08-05T14:36:49.427314580Z","summary":"Malicious code in devplatform-react-query-s3-client (npm)","affected":[{"package":{"name":"devplatform-react-query-s3-client","ecosystem":"npm","purl":"pkg:npm/devplatform-react-query-s3-client"},"versions":["35.8.7"]}]}

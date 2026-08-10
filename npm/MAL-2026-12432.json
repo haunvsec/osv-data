@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12432","published":"2026-08-05T12:32:18Z","modified":"2026-08-05T13:35:53.768991828Z","summary":"Malicious code in runtime-sentinel (npm)","affected":[{"package":{"name":"runtime-sentinel","ecosystem":"npm","purl":"pkg:npm/runtime-sentinel"},"versions":["1.0.1","1.0.2"]}]}

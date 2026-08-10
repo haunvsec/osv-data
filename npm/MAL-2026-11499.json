@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11499","published":"2026-07-29T00:00:00Z","modified":"2026-08-04T23:04:44.524357440Z","summary":"Malicious code in @types-beta/sdk (npm)","affected":[{"package":{"name":"@types-beta/sdk","ecosystem":"npm","purl":"pkg:npm/%40types-beta/sdk"},"versions":["0.1.0","0.1.1","0.1.2","0.1.3"]}]}

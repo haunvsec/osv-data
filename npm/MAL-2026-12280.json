@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12280","published":"2026-08-05T08:58:53Z","modified":"2026-08-05T10:06:58.023958384Z","summary":"Malicious code in tinkoff-terminal-kit-datetime (npm)","affected":[{"package":{"name":"tinkoff-terminal-kit-datetime","ecosystem":"npm","purl":"pkg:npm/tinkoff-terminal-kit-datetime"},"versions":["20.7.2"]}]}

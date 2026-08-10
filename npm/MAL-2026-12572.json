@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12572","published":"2026-08-05T14:10:59Z","modified":"2026-08-05T14:35:29.663337456Z","summary":"Malicious code in checkout-mobile-bnpl (npm)","affected":[{"package":{"name":"checkout-mobile-bnpl","ecosystem":"npm","purl":"pkg:npm/checkout-mobile-bnpl"},"versions":["35.6.9"]}]}

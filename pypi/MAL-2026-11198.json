@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11198","published":"2026-07-30T17:30:32Z","modified":"2026-08-04T23:05:47.146060487Z","summary":"Malicious code in mcp-search-server (PyPI)","affected":[{"package":{"name":"mcp-search-server","ecosystem":"PyPI","purl":"pkg:pypi/mcp-search-server"},"versions":["1.0.0","2.0.0","2.0.1"]}]}

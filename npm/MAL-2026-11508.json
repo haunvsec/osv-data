@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11508","published":"2026-08-03T15:46:52Z","modified":"2026-08-04T22:04:56.654466001Z","aliases":["GHSA-qm7r-x5cp-5wc2"],"summary":"Malicious code in beaver-ui-header (npm)","affected":[{"package":{"name":"beaver-ui-header","ecosystem":"npm","purl":"pkg:npm/beaver-ui-header"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12998","published":"2026-08-05T14:39:43Z","modified":"2026-08-05T15:51:35.311514675Z","summary":"Malicious code in bnpl-blocks-mobile-bnpl-news-cards (npm)","affected":[{"package":{"name":"bnpl-blocks-mobile-bnpl-news-cards","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-mobile-bnpl-news-cards"},"versions":["35.6.7"]}]}

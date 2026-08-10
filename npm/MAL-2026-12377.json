@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12377","published":"2026-08-05T12:22:09Z","modified":"2026-08-05T13:35:25.452863387Z","summary":"Malicious code in express-mongo-santi (npm)","affected":[{"package":{"name":"express-mongo-santi","ecosystem":"npm","purl":"pkg:npm/express-mongo-santi"},"versions":["1.1.9"]}]}

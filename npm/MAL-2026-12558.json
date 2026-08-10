@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12558","published":"2026-08-05T14:13:19Z","modified":"2026-08-05T14:35:23.302068273Z","summary":"Malicious code in checkout-desktop-pay-button (npm)","affected":[{"package":{"name":"checkout-desktop-pay-button","ecosystem":"npm","purl":"pkg:npm/checkout-desktop-pay-button"},"versions":["35.5.4"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12338","published":"2026-08-05T13:07:54Z","modified":"2026-08-05T13:34:57.166575623Z","summary":"Malicious code in alpha-helper (npm)","affected":[{"package":{"name":"alpha-helper","ecosystem":"npm","purl":"pkg:npm/alpha-helper"},"versions":["1.3.4"]}]}

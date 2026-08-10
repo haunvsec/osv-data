@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12752","published":"2026-08-05T13:45:19Z","modified":"2026-08-05T14:36:55.344096882Z","summary":"Malicious code in devplatform-select-user (npm)","affected":[{"package":{"name":"devplatform-select-user","ecosystem":"npm","purl":"pkg:npm/devplatform-select-user"},"versions":["35.4.4"]}]}

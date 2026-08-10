@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12388","published":"2026-08-05T12:56:41Z","modified":"2026-08-05T13:35:30.357176841Z","summary":"Malicious code in gekko-trading-bot (npm)","affected":[{"package":{"name":"gekko-trading-bot","ecosystem":"npm","purl":"pkg:npm/gekko-trading-bot"},"versions":["4.2.0"]}]}

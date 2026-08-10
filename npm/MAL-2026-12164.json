@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12164","published":"2026-08-05T08:44:52Z","modified":"2026-08-05T10:06:00.894482248Z","summary":"Malicious code in bigops-eslint-config (npm)","affected":[{"package":{"name":"bigops-eslint-config","ecosystem":"npm","purl":"pkg:npm/bigops-eslint-config"},"versions":["35.1.9"]}]}

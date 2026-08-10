@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11277","published":"2026-07-30T22:27:05Z","modified":"2026-07-31T01:38:01.250914798Z","aliases":["GHSA-gjqh-7qrr-25q9"],"summary":"Malicious code in discord-csr (npm)","affected":[{"package":{"name":"discord-csr","ecosystem":"npm","purl":"pkg:npm/discord-csr"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

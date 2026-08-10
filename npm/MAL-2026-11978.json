@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11978","published":"2026-08-04T15:49:44Z","modified":"2026-08-05T07:21:21.739929123Z","aliases":["GHSA-mjqw-xv5j-88f4"],"summary":"Malicious code in picasso-plugin-q (npm)","affected":[{"package":{"name":"picasso-plugin-q","ecosystem":"npm","purl":"pkg:npm/picasso-plugin-q"},"versions":["2.11.6"]}]}

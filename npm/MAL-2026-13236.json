@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13236","published":"2026-08-05T15:36:14Z","modified":"2026-08-05T16:50:11.888476142Z","summary":"Malicious code in bigops-products (npm)","affected":[{"package":{"name":"bigops-products","ecosystem":"npm","purl":"pkg:npm/bigops-products"},"versions":["35.7.4"]}]}

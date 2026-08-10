@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13040","published":"2026-08-05T14:32:40Z","modified":"2026-08-05T15:51:54.665692457Z","summary":"Malicious code in boxy-devtools-tokens (npm)","affected":[{"package":{"name":"boxy-devtools-tokens","ecosystem":"npm","purl":"pkg:npm/boxy-devtools-tokens"},"versions":["35.9.9"]}]}

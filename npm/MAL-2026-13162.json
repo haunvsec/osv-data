@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13162","published":"2026-08-05T15:13:07Z","modified":"2026-08-05T15:52:52.266763216Z","summary":"Malicious code in dolyame-ui-label (npm)","affected":[{"package":{"name":"dolyame-ui-label","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-label"},"versions":["35.7.8"]}]}

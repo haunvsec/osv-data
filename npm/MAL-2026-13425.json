@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13425","published":"2026-08-06T13:10:03Z","modified":"2026-08-06T14:34:53.046320678Z","summary":"Malicious code in typst-resume-cli (npm)","affected":[{"package":{"name":"typst-resume-cli","ecosystem":"npm","purl":"pkg:npm/typst-resume-cli"},"versions":["1.0.2","1.0.3"]}]}

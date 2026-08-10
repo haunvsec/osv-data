@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11413","published":"2026-07-31T09:00:58Z","modified":"2026-07-31T09:15:52.692775920Z","summary":"Malicious code in reguestsc (PyPI)","affected":[{"package":{"name":"reguestsc","ecosystem":"PyPI","purl":"pkg:pypi/reguestsc"},"versions":["2.34.2"]}]}

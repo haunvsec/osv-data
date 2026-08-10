@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12609","published":"2026-08-05T14:06:50Z","modified":"2026-08-05T14:35:48.139613750Z","summary":"Malicious code in claims-block-visibility (npm)","affected":[{"package":{"name":"claims-block-visibility","ecosystem":"npm","purl":"pkg:npm/claims-block-visibility"},"versions":["35.3.8"]}]}

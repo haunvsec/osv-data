@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13035","published":"2026-08-05T14:32:58Z","modified":"2026-08-05T15:51:52.576262570Z","summary":"Malicious code in boxy-cook (npm)","affected":[{"package":{"name":"boxy-cook","ecosystem":"npm","purl":"pkg:npm/boxy-cook"},"versions":["35.5.4"]}]}

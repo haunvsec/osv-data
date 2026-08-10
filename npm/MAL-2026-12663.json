@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12663","published":"2026-08-05T13:57:52Z","modified":"2026-08-05T14:36:13.614777154Z","summary":"Malicious code in constructor-blocks-renderer-landings (npm)","affected":[{"package":{"name":"constructor-blocks-renderer-landings","ecosystem":"npm","purl":"pkg:npm/constructor-blocks-renderer-landings"},"versions":["35.2.5"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12730","published":"2026-08-05T13:48:02Z","modified":"2026-08-05T14:36:45.657039016Z","summary":"Malicious code in devplatform-nx-ts (npm)","affected":[{"package":{"name":"devplatform-nx-ts","ecosystem":"npm","purl":"pkg:npm/devplatform-nx-ts"},"versions":["35.1.3"]}]}

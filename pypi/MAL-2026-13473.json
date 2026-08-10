@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13473","published":"2026-08-06T15:35:46Z","modified":"2026-08-06T23:50:30.626224837Z","summary":"Malicious code in alphalend-layouts (PyPI)","affected":[{"package":{"name":"alphalend-layouts","ecosystem":"PyPI","purl":"pkg:pypi/alphalend-layouts"},"versions":["4.1.0","4.0.1","4.0.0","4.0.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12081","published":"2026-08-05T05:04:16Z","modified":"2026-08-05T06:36:44.208886208Z","summary":"Malicious code in bitcoinlib-py (PyPI)","affected":[{"package":{"name":"bitcoinlib-py","ecosystem":"PyPI","purl":"pkg:pypi/bitcoinlib-py"},"versions":["0.9.0"]}]}

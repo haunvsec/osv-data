@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11089","published":"2026-07-27T01:22:44Z","modified":"2026-08-05T06:36:37.562820586Z","aliases":["GHSA-5g95-w82p-69v9"],"summary":"Malicious code in txs-builder (npm)","affected":[{"package":{"name":"txs-builder","ecosystem":"npm","purl":"pkg:npm/txs-builder"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

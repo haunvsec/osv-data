@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11711","published":"2026-08-04T15:21:20Z","modified":"2026-08-05T08:50:55.505957971Z","aliases":["GHSA-4x86-8pw5-36vx"],"summary":"Malicious code in @or-sdk/lookup (npm)","affected":[{"package":{"name":"@or-sdk/lookup","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/lookup"},"versions":["1.25.1","1.25.2","1.25.3"]}]}

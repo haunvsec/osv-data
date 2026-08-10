@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11642","published":"2026-08-04T15:24:29Z","modified":"2026-08-05T08:50:24.135449925Z","aliases":["GHSA-gjhw-m2c8-j7rc"],"summary":"Malicious code in @onereach/si-radio-group (npm)","affected":[{"package":{"name":"@onereach/si-radio-group","ecosystem":"npm","purl":"pkg:npm/%40onereach/si-radio-group"},"versions":["0.3.5","0.3.6","0.3.7"]}]}

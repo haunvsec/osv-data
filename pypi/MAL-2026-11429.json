@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11429","published":"2026-08-02T11:54:08Z","modified":"2026-08-02T12:47:44.508896805Z","summary":"Malicious code in trongriden (PyPI)","affected":[{"package":{"name":"trongriden","ecosystem":"PyPI","purl":"pkg:pypi/trongriden"},"versions":["0.0.1"]}]}

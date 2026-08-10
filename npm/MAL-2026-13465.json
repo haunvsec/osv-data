@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13465","published":"2026-08-06T19:33:40Z","modified":"2026-08-06T23:50:26.669200123Z","summary":"Malicious code in vite-vue-path-map (npm)","affected":[{"package":{"name":"vite-vue-path-map","ecosystem":"npm","purl":"pkg:npm/vite-vue-path-map"},"versions":["1.0.2","1.0.1","1.0.0"]}]}

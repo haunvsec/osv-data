@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11992","published":"2026-08-04T16:02:22Z","modified":"2026-08-05T08:51:26.140104097Z","aliases":["GHSA-63m5-c696-rwrc"],"summary":"Malicious code in workbench-browser-server (npm)","affected":[{"package":{"name":"workbench-browser-server","ecosystem":"npm","purl":"pkg:npm/workbench-browser-server"},"versions":["0.0.2"]}]}

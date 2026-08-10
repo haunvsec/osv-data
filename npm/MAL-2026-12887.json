@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12887","published":"2026-08-05T14:55:49Z","modified":"2026-08-05T15:50:43.097881929Z","summary":"Malicious code in bnpl-blocks-atom-bnpl-promocode (npm)","affected":[{"package":{"name":"bnpl-blocks-atom-bnpl-promocode","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-atom-bnpl-promocode"},"versions":["35.9.1"]}]}

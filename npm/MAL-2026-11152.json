@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11152","published":"2026-07-28T13:32:44Z","modified":"2026-07-28T14:37:26.656225593Z","summary":"Malicious code in tidal-embed-player (npm)","affected":[{"package":{"name":"tidal-embed-player","ecosystem":"npm","purl":"pkg:npm/tidal-embed-player"},"versions":["1.0.1"]}]}

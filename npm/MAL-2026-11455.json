@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11455","published":"2026-07-31T22:00:13Z","modified":"2026-08-04T23:04:51.238032749Z","aliases":["GHSA-gpj6-4r9m-prh8"],"summary":"Malicious code in allurectl (npm)","affected":[{"package":{"name":"allurectl","ecosystem":"npm","purl":"pkg:npm/allurectl"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13175","published":"2026-08-05T15:11:29Z","modified":"2026-08-05T15:52:58.585891710Z","summary":"Malicious code in dolyame-ui-popup (npm)","affected":[{"package":{"name":"dolyame-ui-popup","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-popup"},"versions":["35.8.7"]}]}

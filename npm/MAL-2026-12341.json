@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12341","published":"2026-08-05T12:33:09Z","modified":"2026-08-05T13:34:59.541426608Z","summary":"Malicious code in bnpl-blocks-independent-bnpl-search (npm)","affected":[{"package":{"name":"bnpl-blocks-independent-bnpl-search","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-independent-bnpl-search"},"versions":["20.2.9"]}]}

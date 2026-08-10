@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13249","published":"2026-08-05T15:33:08Z","modified":"2026-08-05T16:50:12.386298036Z","summary":"Malicious code in bigops-shared-ui (npm)","affected":[{"package":{"name":"bigops-shared-ui","ecosystem":"npm","purl":"pkg:npm/bigops-shared-ui"},"versions":["35.1.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13448","published":"2026-08-06T16:22:49Z","modified":"2026-08-06T23:50:15.149735906Z","summary":"Malicious code in lib-frontsga (npm)","affected":[{"package":{"name":"lib-frontsga","ecosystem":"npm","purl":"pkg:npm/lib-frontsga"},"versions":["9.999.999"]}]}

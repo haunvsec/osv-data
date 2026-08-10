@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12792","published":"2026-08-05T13:35:32Z","modified":"2026-08-05T14:37:13.699427291Z","summary":"Malicious code in gs-uitk-testing-utils (npm)","affected":[{"package":{"name":"gs-uitk-testing-utils","ecosystem":"npm","purl":"pkg:npm/gs-uitk-testing-utils"},"versions":["9.9.11"]}]}

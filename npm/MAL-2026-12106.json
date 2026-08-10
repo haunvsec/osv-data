@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12106","published":"2026-08-05T06:22:46Z","modified":"2026-08-05T07:20:59.349212925Z","summary":"Malicious code in @wethenorth12/web3-provider-engine (npm)","affected":[{"package":{"name":"@wethenorth12/web3-provider-engine","ecosystem":"npm","purl":"pkg:npm/%40wethenorth12/web3-provider-engine"},"versions":["16.0.5"]}]}

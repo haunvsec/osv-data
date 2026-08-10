@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2026-11047","published":"2026-07-24T09:21:35Z","modified":"2026-07-24T10:33:21.549875160Z","summary":"Malicious code in karpatkey (PyPI)","affected":[{"package":{"name":"karpatkey","ecosystem":"PyPI","purl":"pkg:pypi/karpatkey"},"versions":["2.1.1"]}]}
+{"schema_version":"1.7.5","id":"MAL-2026-11047","published":"2026-07-24T09:21:35Z","modified":"2026-07-28T14:37:29.241251905Z","summary":"Malicious code in karpatkey (PyPI)","affected":[{"package":{"name":"karpatkey","ecosystem":"PyPI","purl":"pkg:pypi/karpatkey"},"versions":["2.1.1"]}]}

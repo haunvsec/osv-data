@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13377","published":"2026-08-05T21:18:27Z","modified":"2026-08-05T22:19:51.040245765Z","summary":"Malicious code in ezdiscordbots (npm)","affected":[{"package":{"name":"ezdiscordbots","ecosystem":"npm","purl":"pkg:npm/ezdiscordbots"},"versions":["1.0.2"]}]}

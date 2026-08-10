@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11092","published":"2026-07-27T01:20:09Z","modified":"2026-08-05T06:36:38.876136214Z","aliases":["GHSA-fgmc-rrjh-9m33"],"summary":"Malicious code in txs-sdk-lib (npm)","affected":[{"package":{"name":"txs-sdk-lib","ecosystem":"npm","purl":"pkg:npm/txs-sdk-lib"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

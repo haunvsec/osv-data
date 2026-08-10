@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12086","published":"2026-08-05T06:24:49Z","modified":"2026-08-05T07:20:50.524536826Z","summary":"Malicious code in @wethenorth12/bip39-mnemonic (npm)","affected":[{"package":{"name":"@wethenorth12/bip39-mnemonic","ecosystem":"npm","purl":"pkg:npm/%40wethenorth12/bip39-mnemonic"},"versions":["2.3.1"]}]}

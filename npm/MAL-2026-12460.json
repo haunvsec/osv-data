@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12460","published":"2026-08-05T12:22:50Z","modified":"2026-08-05T13:36:07.712905339Z","summary":"Malicious code in streak-count-core (npm)","affected":[{"package":{"name":"streak-count-core","ecosystem":"npm","purl":"pkg:npm/streak-count-core"},"versions":["1.0.0"]}]}

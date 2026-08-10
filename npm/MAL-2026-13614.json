@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13614","published":"2026-08-07T16:37:54Z","modified":"2026-08-07T17:04:53.386938849Z","summary":"Malicious code in aclade-agent (npm)","affected":[{"package":{"name":"aclade-agent","ecosystem":"npm","purl":"pkg:npm/aclade-agent"},"versions":["1.0.5","1.0.2","1.0.1","1.0.6","1.0.4"]}]}

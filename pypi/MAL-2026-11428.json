@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11428","published":"2026-08-02T10:33:07Z","modified":"2026-08-04T22:05:26.403604533Z","summary":"Malicious code in wacve-utils (PyPI)","affected":[{"package":{"name":"wacve-utils","ecosystem":"PyPI","purl":"pkg:pypi/wacve-utils"},"versions":["1.0.7"]}]}

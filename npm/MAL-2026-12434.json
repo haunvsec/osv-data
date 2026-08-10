@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12434","published":"2026-08-05T12:26:05Z","modified":"2026-08-05T13:35:54.129169128Z","summary":"Malicious code in saas-f-testing (npm)","affected":[{"package":{"name":"saas-f-testing","ecosystem":"npm","purl":"pkg:npm/saas-f-testing"},"versions":["20.4.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13047","published":"2026-08-05T14:31:10Z","modified":"2026-08-05T15:51:57.329564519Z","summary":"Malicious code in boxy-fixture-pfa (npm)","affected":[{"package":{"name":"boxy-fixture-pfa","ecosystem":"npm","purl":"pkg:npm/boxy-fixture-pfa"},"versions":["35.3.4"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13409","published":"2026-08-06T13:20:11Z","modified":"2026-08-06T14:34:54.084342174Z","summary":"Malicious code in @addai/ainode (npm)","affected":[{"package":{"name":"@addai/ainode","ecosystem":"npm","purl":"pkg:npm/%40addai/ainode"},"versions":["0.3.1","0.3.0"]}]}

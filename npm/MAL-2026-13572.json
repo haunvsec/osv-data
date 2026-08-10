@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13572","published":"2026-08-07T12:30:06Z","modified":"2026-08-07T13:20:38.878865944Z","summary":"Malicious code in dolyame-ui-iconspack (npm)","affected":[{"package":{"name":"dolyame-ui-iconspack","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-iconspack"},"versions":["35.8.1"]}]}

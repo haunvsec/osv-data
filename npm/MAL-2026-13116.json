@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13116","published":"2026-08-05T14:20:02Z","modified":"2026-08-05T15:52:30.921573003Z","summary":"Malicious code in bpm-foundation-renovate (npm)","affected":[{"package":{"name":"bpm-foundation-renovate","ecosystem":"npm","purl":"pkg:npm/bpm-foundation-renovate"},"versions":["35.2.8"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12343","published":"2026-08-05T12:44:58Z","modified":"2026-08-05T15:52:27.533374011Z","summary":"Malicious code in bpm-foundation-feature-flags (npm)","affected":[{"package":{"name":"bpm-foundation-feature-flags","ecosystem":"npm","purl":"pkg:npm/bpm-foundation-feature-flags"},"versions":["20.4.2","35.5.2"]}]}

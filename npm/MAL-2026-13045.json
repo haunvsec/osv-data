@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13045","published":"2026-08-05T14:31:24Z","modified":"2026-08-05T15:51:56.294912924Z","summary":"Malicious code in boxy-fixture-paperclip (npm)","affected":[{"package":{"name":"boxy-fixture-paperclip","ecosystem":"npm","purl":"pkg:npm/boxy-fixture-paperclip"},"versions":["35.8.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13460","published":"2026-08-06T15:34:27Z","modified":"2026-08-06T23:50:22.619239336Z","summary":"Malicious code in stretchshop (npm)","affected":[{"package":{"name":"stretchshop","ecosystem":"npm","purl":"pkg:npm/stretchshop"},"versions":["0.7.5"]}]}

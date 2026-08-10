@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13486","published":"2026-08-07T07:04:06Z","modified":"2026-08-07T12:35:24.849436951Z","summary":"Malicious code in fastapii (PyPI)","affected":[{"package":{"name":"fastapii","ecosystem":"PyPI","purl":"pkg:pypi/fastapii"},"versions":["0.1.1","0.1.2","0.2.0","0.3.0"]}]}

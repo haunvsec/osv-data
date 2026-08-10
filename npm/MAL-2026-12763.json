@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12763","published":"2026-08-05T13:42:59Z","modified":"2026-08-05T14:36:59.543853565Z","summary":"Malicious code in devplatform-spa-plugin-cobrowsing (npm)","affected":[{"package":{"name":"devplatform-spa-plugin-cobrowsing","ecosystem":"npm","purl":"pkg:npm/devplatform-spa-plugin-cobrowsing"},"versions":["35.4.4"]}]}

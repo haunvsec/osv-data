@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12575","published":"2026-08-05T14:11:27Z","modified":"2026-08-05T14:35:30.954405585Z","summary":"Malicious code in checkout-mobile-input-card (npm)","affected":[{"package":{"name":"checkout-mobile-input-card","ecosystem":"npm","purl":"pkg:npm/checkout-mobile-input-card"},"versions":["35.7.7"]}]}

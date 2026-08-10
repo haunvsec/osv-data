@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11255","published":"2026-07-30T22:02:45Z","modified":"2026-07-31T01:37:42.540618455Z","aliases":["GHSA-qpfj-w94p-p3wv"],"summary":"Malicious code in chalk-butons (npm)","affected":[{"package":{"name":"chalk-butons","ecosystem":"npm","purl":"pkg:npm/chalk-butons"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

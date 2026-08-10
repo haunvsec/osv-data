@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13250","published":"2026-08-05T15:34:01Z","modified":"2026-08-05T16:50:13.171213492Z","summary":"Malicious code in bigops-statements-timeline (npm)","affected":[{"package":{"name":"bigops-statements-timeline","ecosystem":"npm","purl":"pkg:npm/bigops-statements-timeline"},"versions":["35.2.4"]}]}

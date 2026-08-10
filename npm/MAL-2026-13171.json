@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13171","published":"2026-08-05T15:13:00Z","modified":"2026-08-05T15:52:56.638788985Z","summary":"Malicious code in dolyame-ui-notification (npm)","affected":[{"package":{"name":"dolyame-ui-notification","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-notification"},"versions":["35.5.4"]}]}

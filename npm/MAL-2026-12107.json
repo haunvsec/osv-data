@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12107","published":"2026-08-05T06:24:32Z","modified":"2026-08-05T07:21:00.307725219Z","summary":"Malicious code in @wethenorth12/web3-utils-crypto (npm)","affected":[{"package":{"name":"@wethenorth12/web3-utils-crypto","ecosystem":"npm","purl":"pkg:npm/%40wethenorth12/web3-utils-crypto"},"versions":["1.10.4"]}]}

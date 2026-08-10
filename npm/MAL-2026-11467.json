@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11467","published":"2026-07-31T21:51:11Z","modified":"2026-08-05T07:21:16.565395428Z","aliases":["GHSA-69pc-2883-mff3"],"summary":"Malicious code in iac-scanner (npm)","affected":[{"package":{"name":"iac-scanner","ecosystem":"npm","purl":"pkg:npm/iac-scanner"},"versions":["1.0.0","0.0.2"]}]}

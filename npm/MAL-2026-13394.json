@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13394","published":"2026-08-06T12:57:30Z","modified":"2026-08-06T14:34:55.318787639Z","summary":"Malicious code in @activepieces/piece-google-bigquery (npm)","affected":[{"package":{"name":"@activepieces/piece-google-bigquery","ecosystem":"npm","purl":"pkg:npm/%40activepieces/piece-google-bigquery"},"versions":["0.0.6","0.0.5"]}]}

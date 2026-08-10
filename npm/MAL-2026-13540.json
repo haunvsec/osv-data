@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13540","published":"2026-08-07T12:32:53Z","modified":"2026-08-07T13:20:09.868302815Z","summary":"Malicious code in delivery-ci-core (npm)","affected":[{"package":{"name":"delivery-ci-core","ecosystem":"npm","purl":"pkg:npm/delivery-ci-core"},"versions":["35.3.7"]}]}

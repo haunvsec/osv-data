@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13358","published":"2026-08-05T17:22:35Z","modified":"2026-08-05T18:19:49.192231299Z","summary":"Malicious code in app-kst-engine (npm)","affected":[{"package":{"name":"app-kst-engine","ecosystem":"npm","purl":"pkg:npm/app-kst-engine"},"versions":["2.1.6"]}]}

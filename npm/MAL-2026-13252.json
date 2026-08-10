@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13252","published":"2026-08-05T15:33:44Z","modified":"2026-08-06T01:19:55.438661878Z","aliases":["GHSA-g548-9c3x-q2r5"],"summary":"Malicious code in bigops-storio (npm)","affected":[{"package":{"name":"bigops-storio","ecosystem":"npm","purl":"pkg:npm/bigops-storio"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

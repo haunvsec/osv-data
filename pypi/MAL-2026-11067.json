@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11067","published":"2026-07-25T21:13:35Z","modified":"2026-08-05T06:36:44.314983848Z","summary":"Malicious code in blessclient (PyPI)","affected":[{"package":{"name":"blessclient","ecosystem":"PyPI","purl":"pkg:pypi/blessclient"},"versions":["0.0.1","0.0.2"]}]}

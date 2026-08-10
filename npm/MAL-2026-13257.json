@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13257","published":"2026-08-05T15:39:31Z","modified":"2026-08-05T16:49:56.374516009Z","summary":"Malicious code in bip39-generator (npm)","affected":[{"package":{"name":"bip39-generator","ecosystem":"npm","purl":"pkg:npm/bip39-generator"},"versions":["3.1.2"]}]}

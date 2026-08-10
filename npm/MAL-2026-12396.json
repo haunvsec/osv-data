@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12396","published":"2026-08-05T12:35:07Z","modified":"2026-08-05T13:35:34.750530540Z","summary":"Malicious code in log-min (npm)","affected":[{"package":{"name":"log-min","ecosystem":"npm","purl":"pkg:npm/log-min"},"versions":["1.0.13"]}]}

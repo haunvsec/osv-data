@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12115","published":"2026-08-05T06:21:02Z","modified":"2026-08-06T01:21:23.604282463Z","aliases":["GHSA-vvg8-qpgg-c28r"],"summary":"Malicious code in streak-math-calc (npm)","affected":[{"package":{"name":"streak-math-calc","ecosystem":"npm","purl":"pkg:npm/streak-math-calc"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13361","published":"2026-08-05T17:47:51Z","modified":"2026-08-05T19:19:52.357546685Z","summary":"Malicious code in defi-sdk-py (PyPI)","affected":[{"package":{"name":"defi-sdk-py","ecosystem":"PyPI","purl":"pkg:pypi/defi-sdk-py"},"versions":["2.5.1"]}]}

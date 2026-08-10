@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11272","published":"2026-07-30T22:35:06Z","modified":"2026-07-31T01:37:54.630336277Z","aliases":["GHSA-8888-hf6w-c5xg"],"summary":"Malicious code in curse-dependent (npm)","affected":[{"package":{"name":"curse-dependent","ecosystem":"npm","purl":"pkg:npm/curse-dependent"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

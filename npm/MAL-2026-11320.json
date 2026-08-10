@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11320","published":"2026-07-30T22:42:47Z","modified":"2026-07-31T01:38:31.166499070Z","aliases":["GHSA-r3c8-mw9w-xmfv"],"summary":"Malicious code in imut-set (npm)","affected":[{"package":{"name":"imut-set","ecosystem":"npm","purl":"pkg:npm/imut-set"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

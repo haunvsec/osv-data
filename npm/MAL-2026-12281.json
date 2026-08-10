@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12281","published":"2026-08-05T09:01:18Z","modified":"2026-08-05T10:06:58.811986745Z","summary":"Malicious code in tinkoff-terminal-kit-test-commons (npm)","affected":[{"package":{"name":"tinkoff-terminal-kit-test-commons","ecosystem":"npm","purl":"pkg:npm/tinkoff-terminal-kit-test-commons"},"versions":["20.9.7"]}]}

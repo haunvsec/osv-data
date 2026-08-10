@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12840","published":"2026-08-05T15:02:40Z","modified":"2026-08-06T01:19:59.680419764Z","aliases":["GHSA-j5w7-ccfc-4mrf"],"summary":"Malicious code in bigops-telephony (npm)","affected":[{"package":{"name":"bigops-telephony","ecosystem":"npm","purl":"pkg:npm/bigops-telephony"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

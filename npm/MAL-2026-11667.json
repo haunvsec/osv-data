@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11667","published":"2026-08-04T15:21:44Z","modified":"2026-08-05T08:50:35.344831829Z","aliases":["GHSA-v4pr-r83g-jq5f"],"summary":"Malicious code in @or-sdk/adapters (npm)","affected":[{"package":{"name":"@or-sdk/adapters","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/adapters"},"versions":["0.3.6","0.3.7","0.3.8"]}]}

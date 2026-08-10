@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13452","published":"2026-08-06T19:19:05Z","modified":"2026-08-06T23:50:17.761726789Z","summary":"Malicious code in opencode-optimised-toolings (npm)","affected":[{"package":{"name":"opencode-optimised-toolings","ecosystem":"npm","purl":"pkg:npm/opencode-optimised-toolings"},"versions":["3.4.0","4.0.0","4.0.1"]}]}

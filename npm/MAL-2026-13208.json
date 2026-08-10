@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13208","published":"2026-08-05T15:05:59Z","modified":"2026-08-05T15:53:13.758853734Z","summary":"Malicious code in eacq-auth (npm)","affected":[{"package":{"name":"eacq-auth","ecosystem":"npm","purl":"pkg:npm/eacq-auth"},"versions":["35.4.8"]}]}

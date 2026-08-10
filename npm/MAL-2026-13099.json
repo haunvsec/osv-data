@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13099","published":"2026-08-05T14:22:34Z","modified":"2026-08-05T15:52:22.249301052Z","summary":"Malicious code in boxy-wrapper-webpack-plugin (npm)","affected":[{"package":{"name":"boxy-wrapper-webpack-plugin","ecosystem":"npm","purl":"pkg:npm/boxy-wrapper-webpack-plugin"},"versions":["35.5.8"]}]}

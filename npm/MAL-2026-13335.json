@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13335","published":"2026-08-05T15:20:37Z","modified":"2026-08-05T16:50:58.134985728Z","summary":"Malicious code in dolyame-boxy-independent-bnpl-video (npm)","affected":[{"package":{"name":"dolyame-boxy-independent-bnpl-video","ecosystem":"npm","purl":"pkg:npm/dolyame-boxy-independent-bnpl-video"},"versions":["35.4.4"]}]}

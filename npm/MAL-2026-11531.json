@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11531","published":"2026-08-04T22:07:43Z","modified":"2026-08-04T23:04:47.294900759Z","summary":"Malicious code in @zzzgenesis00/hdkey-wallet (npm)","affected":[{"package":{"name":"@zzzgenesis00/hdkey-wallet","ecosystem":"npm","purl":"pkg:npm/%40zzzgenesis00/hdkey-wallet"},"versions":["2.1.0"]}]}

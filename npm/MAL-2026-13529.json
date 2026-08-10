@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13529","published":"2026-08-07T12:24:24Z","modified":"2026-08-07T13:20:17.138110745Z","summary":"Malicious code in bnpl-blocks-atom-bnpl-image-card (npm)","affected":[{"package":{"name":"bnpl-blocks-atom-bnpl-image-card","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-atom-bnpl-image-card"},"versions":["35.6.1"]}]}

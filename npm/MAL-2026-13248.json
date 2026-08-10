@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13248","published":"2026-08-05T15:33:54Z","modified":"2026-08-05T16:50:12.086426680Z","summary":"Malicious code in bigops-rx-post-message (npm)","affected":[{"package":{"name":"bigops-rx-post-message","ecosystem":"npm","purl":"pkg:npm/bigops-rx-post-message"},"versions":["35.1.5"]}]}

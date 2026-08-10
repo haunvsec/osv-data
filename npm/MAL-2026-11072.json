@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11072","published":"2026-07-25T16:00:59Z","modified":"2026-08-04T23:05:48.290400414Z","summary":"Malicious code in wsh4_edu (npm)","affected":[{"package":{"name":"wsh4_edu","ecosystem":"npm","purl":"pkg:npm/wsh4_edu"},"versions":["1.0.0"]}]}

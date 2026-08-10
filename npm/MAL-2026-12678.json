@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12678","published":"2026-08-05T13:55:43Z","modified":"2026-08-05T14:36:21.436636125Z","summary":"Malicious code in delivery-ci-pipeline-rules (npm)","affected":[{"package":{"name":"delivery-ci-pipeline-rules","ecosystem":"npm","purl":"pkg:npm/delivery-ci-pipeline-rules"},"versions":["35.9.3"]}]}

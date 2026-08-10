@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11235","published":"2026-07-30T22:42:47Z","modified":"2026-07-31T01:37:30.537065783Z","aliases":["GHSA-xqpj-5x5p-hgh7"],"summary":"Malicious code in ag-grid-boost (npm)","affected":[{"package":{"name":"ag-grid-boost","ecosystem":"npm","purl":"pkg:npm/ag-grid-boost"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

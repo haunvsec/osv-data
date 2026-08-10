@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13570","published":"2026-08-07T12:30:35Z","modified":"2026-08-07T13:20:37.728413766Z","summary":"Malicious code in dolyame-ui-focusstatehoc (npm)","affected":[{"package":{"name":"dolyame-ui-focusstatehoc","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-focusstatehoc"},"versions":["35.8.1"]}]}

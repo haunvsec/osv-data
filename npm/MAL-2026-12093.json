@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12093","published":"2026-08-05T06:23:13Z","modified":"2026-08-05T07:20:53.629686332Z","summary":"Malicious code in @wethenorth12/ethers-signer (npm)","affected":[{"package":{"name":"@wethenorth12/ethers-signer","ecosystem":"npm","purl":"pkg:npm/%40wethenorth12/ethers-signer"},"versions":["3.2.1"]}]}

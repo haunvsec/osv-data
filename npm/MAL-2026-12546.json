@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12546","published":"2026-08-05T14:15:48Z","modified":"2026-08-05T14:35:10.656794284Z","summary":"Malicious code in checkout-cashback-logic (npm)","affected":[{"package":{"name":"checkout-cashback-logic","ecosystem":"npm","purl":"pkg:npm/checkout-cashback-logic"},"versions":["35.4.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11808","published":"2026-08-04T13:24:21Z","modified":"2026-08-05T08:51:13.400843160Z","aliases":["GHSA-pc9r-8h2v-v6mw"],"summary":"Malicious code in @qlik/sprout-react (npm)","affected":[{"package":{"name":"@qlik/sprout-react","ecosystem":"npm","purl":"pkg:npm/%40qlik/sprout-react"},"versions":["6.45.3"]}]}

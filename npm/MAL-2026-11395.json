@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11395","published":"2026-07-30T21:25:58Z","modified":"2026-07-31T01:39:19.542352398Z","aliases":["GHSA-6p27-jwrq-4cvf"],"summary":"Malicious code in termly-namespace (npm)","affected":[{"package":{"name":"termly-namespace","ecosystem":"npm","purl":"pkg:npm/termly-namespace"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

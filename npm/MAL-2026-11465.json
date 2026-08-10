@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11465","published":"2026-07-31T21:53:52Z","modified":"2026-08-04T23:05:09.806274574Z","aliases":["GHSA-g8cx-prcq-676p"],"summary":"Malicious code in hazmat-cfr (npm)","affected":[{"package":{"name":"hazmat-cfr","ecosystem":"npm","purl":"pkg:npm/hazmat-cfr"},"versions":["1.0.0"]}]}

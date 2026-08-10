@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11986","published":"2026-08-04T16:08:55Z","modified":"2026-08-05T08:51:23.784491705Z","aliases":["GHSA-rrhh-mxmx-x7xf"],"summary":"Malicious code in server-hemera-mongo (npm)","affected":[{"package":{"name":"server-hemera-mongo","ecosystem":"npm","purl":"pkg:npm/server-hemera-mongo"},"versions":["0.0.12"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12193","published":"2026-08-05T08:41:13Z","modified":"2026-08-05T10:06:17.703837736Z","summary":"Malicious code in sextant-relay-darwin-arm64 (npm)","affected":[{"package":{"name":"sextant-relay-darwin-arm64","ecosystem":"npm","purl":"pkg:npm/sextant-relay-darwin-arm64"},"versions":["0.0.1-rc1"]}]}

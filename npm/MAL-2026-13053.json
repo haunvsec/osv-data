@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13053","published":"2026-08-05T14:29:50Z","modified":"2026-08-05T15:52:00.682133041Z","summary":"Malicious code in boxy-legacy-providers (npm)","affected":[{"package":{"name":"boxy-legacy-providers","ecosystem":"npm","purl":"pkg:npm/boxy-legacy-providers"},"versions":["35.6.4"]}]}

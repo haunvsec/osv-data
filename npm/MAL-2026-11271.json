@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11271","published":"2026-07-30T21:25:58Z","modified":"2026-07-31T01:37:54.043054632Z","aliases":["GHSA-q43p-6q68-4g7v"],"summary":"Malicious code in cross-sell (npm)","affected":[{"package":{"name":"cross-sell","ecosystem":"npm","purl":"pkg:npm/cross-sell"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

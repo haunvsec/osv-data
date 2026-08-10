@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13431","published":"2026-08-06T16:43:39Z","modified":"2026-08-06T23:50:00.792974968Z","summary":"Malicious code in @itsreduxtm/unpkg-xss-test (npm)","affected":[{"package":{"name":"@itsreduxtm/unpkg-xss-test","ecosystem":"npm","purl":"pkg:npm/%40itsreduxtm/unpkg-xss-test"},"versions":["1.0.5","1.0.9"]}]}

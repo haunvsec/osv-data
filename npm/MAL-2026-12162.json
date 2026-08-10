@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12162","published":"2026-08-05T08:47:06Z","modified":"2026-08-05T10:05:59.267355706Z","summary":"Malicious code in bigops-customer-processing-client (npm)","affected":[{"package":{"name":"bigops-customer-processing-client","ecosystem":"npm","purl":"pkg:npm/bigops-customer-processing-client"},"versions":["35.1.8"]}]}

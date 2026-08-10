@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11336","published":"2026-07-30T22:07:22Z","modified":"2026-07-31T01:38:41.857078598Z","aliases":["GHSA-3mww-p356-w37h"],"summary":"Malicious code in ncc-fonts (npm)","affected":[{"package":{"name":"ncc-fonts","ecosystem":"npm","purl":"pkg:npm/ncc-fonts"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

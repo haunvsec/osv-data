@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11714","published":"2026-08-04T15:19:39Z","modified":"2026-08-05T08:50:56.891166170Z","aliases":["GHSA-wpvf-3gq4-fhp9"],"summary":"Malicious code in @or-sdk/notifications (npm)","affected":[{"package":{"name":"@or-sdk/notifications","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/notifications"},"versions":["1.7.5","1.7.6","1.7.7"]}]}

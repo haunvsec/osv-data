@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12773","published":"2026-08-05T13:41:54Z","modified":"2026-08-05T14:37:04.255208211Z","summary":"Malicious code in devplatform-spa-plugin-notifier (npm)","affected":[{"package":{"name":"devplatform-spa-plugin-notifier","ecosystem":"npm","purl":"pkg:npm/devplatform-spa-plugin-notifier"},"versions":["35.5.7"]}]}

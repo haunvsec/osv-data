@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11379","published":"2026-07-30T22:49:53Z","modified":"2026-07-31T01:39:08.740532083Z","aliases":["GHSA-w2px-6f9h-j4rw"],"summary":"Malicious code in shsk (npm)","affected":[{"package":{"name":"shsk","ecosystem":"npm","purl":"pkg:npm/shsk"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

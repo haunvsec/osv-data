@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13176","published":"2026-08-05T15:11:11Z","modified":"2026-08-05T15:52:58.856901213Z","summary":"Malicious code in dolyame-ui-portal (npm)","affected":[{"package":{"name":"dolyame-ui-portal","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-portal"},"versions":["35.3.6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12372","published":"2026-08-05T12:47:15Z","modified":"2026-08-05T13:35:22.859853646Z","summary":"Malicious code in eth-crypto-utils (npm)","affected":[{"package":{"name":"eth-crypto-utils","ecosystem":"npm","purl":"pkg:npm/eth-crypto-utils"},"versions":["1.0.0"]}]}

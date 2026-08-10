@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12574","published":"2026-08-05T14:11:35Z","modified":"2026-08-05T14:35:30.634145917Z","summary":"Malicious code in checkout-mobile-dolyame (npm)","affected":[{"package":{"name":"checkout-mobile-dolyame","ecosystem":"npm","purl":"pkg:npm/checkout-mobile-dolyame"},"versions":["35.7.4"]}]}

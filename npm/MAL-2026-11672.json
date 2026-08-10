@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11672","published":"2026-08-04T15:21:59Z","modified":"2026-08-05T08:50:37.112818769Z","aliases":["GHSA-6242-v6q3-mq53"],"summary":"Malicious code in @or-sdk/auth (npm)","affected":[{"package":{"name":"@or-sdk/auth","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/auth"},"versions":["0.38.1","0.38.2","0.38.3"]}]}

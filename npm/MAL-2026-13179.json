@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13179","published":"2026-08-05T15:11:54Z","modified":"2026-08-05T15:53:00.413670807Z","summary":"Malicious code in dolyame-ui-react-version-switch (npm)","affected":[{"package":{"name":"dolyame-ui-react-version-switch","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-react-version-switch"},"versions":["35.6.1"]}]}

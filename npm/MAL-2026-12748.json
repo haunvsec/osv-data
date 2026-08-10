@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12748","published":"2026-08-05T13:45:26Z","modified":"2026-08-05T14:36:53.436832722Z","summary":"Malicious code in devplatform-s3-resources (npm)","affected":[{"package":{"name":"devplatform-s3-resources","ecosystem":"npm","purl":"pkg:npm/devplatform-s3-resources"},"versions":["35.5.1"]}]}

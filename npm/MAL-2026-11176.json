@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11176","published":"2026-07-29T04:34:41Z","modified":"2026-08-05T06:35:06.864060626Z","aliases":["GHSA-f9vh-885g-hv2f"],"summary":"Malicious code in @bowozzz/baileys (npm)","affected":[{"package":{"name":"@bowozzz/baileys","ecosystem":"npm","purl":"pkg:npm/%40bowozzz/baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11975","published":"2026-08-04T15:54:33Z","modified":"2026-08-05T08:51:21.115173946Z","aliases":["GHSA-w86p-g27r-2m6q"],"summary":"Malicious code in http-metrics-middleware (npm)","affected":[{"package":{"name":"http-metrics-middleware","ecosystem":"npm","purl":"pkg:npm/http-metrics-middleware"},"versions":["2.2.2"]}]}

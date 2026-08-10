@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13450","published":"2026-08-06T18:01:20Z","modified":"2026-08-07T00:04:51.912881851Z","aliases":["GHSA-3v7v-gr39-jf7v"],"summary":"Malicious code in move-bcs-codec (npm)","affected":[{"package":{"name":"move-bcs-codec","ecosystem":"npm","purl":"pkg:npm/move-bcs-codec"},"versions":["1.0.0","1.0.1","1.0.2"]}]}

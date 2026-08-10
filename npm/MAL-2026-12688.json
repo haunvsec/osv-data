@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12688","published":"2026-08-05T13:55:07Z","modified":"2026-08-05T14:36:26.239132568Z","summary":"Malicious code in delivery-ci-validate (npm)","affected":[{"package":{"name":"delivery-ci-validate","ecosystem":"npm","purl":"pkg:npm/delivery-ci-validate"},"versions":["35.1.4"]}]}

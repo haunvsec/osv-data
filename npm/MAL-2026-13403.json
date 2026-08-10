@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13403","published":"2026-08-06T12:30:40Z","modified":"2026-08-07T00:04:52.267906310Z","aliases":["GHSA-wpj4-68w6-w2fh"],"summary":"Malicious code in streak-cache-map (npm)","affected":[{"package":{"name":"streak-cache-map","ecosystem":"npm","purl":"pkg:npm/streak-cache-map"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

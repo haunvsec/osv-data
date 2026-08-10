@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12789","published":"2026-08-05T13:56:26Z","modified":"2026-08-05T14:37:12.213245727Z","summary":"Malicious code in fa-mcp-sdk (npm)","affected":[{"package":{"name":"fa-mcp-sdk","ecosystem":"npm","purl":"pkg:npm/fa-mcp-sdk"},"versions":["0.12.72"]}]}

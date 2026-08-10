@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12073","published":"2026-08-05T01:47:14Z","modified":"2026-08-05T03:20:54.612487899Z","summary":"Malicious code in sso-tramvai-module-context-auth (npm)","affected":[{"package":{"name":"sso-tramvai-module-context-auth","ecosystem":"npm","purl":"pkg:npm/sso-tramvai-module-context-auth"},"versions":["20.4.5"]}]}

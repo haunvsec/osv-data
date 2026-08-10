@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11786","published":"2026-08-04T15:50:08Z","modified":"2026-08-05T08:51:09.499039077Z","aliases":["GHSA-g8xp-phjg-2v98"],"summary":"Malicious code in @qlik/carboncopy (npm)","affected":[{"package":{"name":"@qlik/carboncopy","ecosystem":"npm","purl":"pkg:npm/%40qlik/carboncopy"},"versions":["1.1.6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11138","published":"2026-07-28T13:41:27Z","modified":"2026-07-28T14:37:01.558256500Z","summary":"Malicious code in json-schema-inspector (npm)","affected":[{"package":{"name":"json-schema-inspector","ecosystem":"npm","purl":"pkg:npm/json-schema-inspector"},"versions":["1.1.5","1.1.7","1.1.6","1.1.4"]}]}

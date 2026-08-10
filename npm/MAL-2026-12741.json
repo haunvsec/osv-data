@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12741","published":"2026-08-05T13:47:26Z","modified":"2026-08-05T14:36:50.764168581Z","summary":"Malicious code in devplatform-react-scripts (npm)","affected":[{"package":{"name":"devplatform-react-scripts","ecosystem":"npm","purl":"pkg:npm/devplatform-react-scripts"},"versions":["35.2.9"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11398","published":"2026-07-30T22:00:10Z","modified":"2026-07-31T01:39:20.627216664Z","aliases":["GHSA-wg6g-7pqp-9j2w"],"summary":"Malicious code in testtwix (npm)","affected":[{"package":{"name":"testtwix","ecosystem":"npm","purl":"pkg:npm/testtwix"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

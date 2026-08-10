@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12382","published":"2026-08-05T12:34:51Z","modified":"2026-08-05T13:35:27.206574233Z","summary":"Malicious code in finance-business-company-id-models (npm)","affected":[{"package":{"name":"finance-business-company-id-models","ecosystem":"npm","purl":"pkg:npm/finance-business-company-id-models"},"versions":["20.1.5"]}]}

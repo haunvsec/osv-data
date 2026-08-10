@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12581","published":"2026-08-05T14:10:35Z","modified":"2026-08-05T14:35:34.446880931Z","summary":"Malicious code in checkout-molecule-desktop-status-modal (npm)","affected":[{"package":{"name":"checkout-molecule-desktop-status-modal","ecosystem":"npm","purl":"pkg:npm/checkout-molecule-desktop-status-modal"},"versions":["35.9.4"]}]}

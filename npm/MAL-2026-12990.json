@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12990","published":"2026-08-05T14:38:47Z","modified":"2026-08-05T15:51:31.275208463Z","summary":"Malicious code in bnpl-blocks-mobile-bnpl-grid-container (npm)","affected":[{"package":{"name":"bnpl-blocks-mobile-bnpl-grid-container","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-mobile-bnpl-grid-container"},"versions":["35.7.1"]}]}

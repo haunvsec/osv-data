@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11274","published":"2026-07-30T21:49:39Z","modified":"2026-07-31T01:37:56.550540432Z","aliases":["GHSA-q4vw-49f5-33cf"],"summary":"Malicious code in dash-merge (npm)","affected":[{"package":{"name":"dash-merge","ecosystem":"npm","purl":"pkg:npm/dash-merge"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

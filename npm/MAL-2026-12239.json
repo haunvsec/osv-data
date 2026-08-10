@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12239","published":"2026-08-05T08:56:27Z","modified":"2026-08-05T10:06:39.496044138Z","summary":"Malicious code in tinkoff-component-page-loader (npm)","affected":[{"package":{"name":"tinkoff-component-page-loader","ecosystem":"npm","purl":"pkg:npm/tinkoff-component-page-loader"},"versions":["20.8.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12939","published":"2026-08-05T14:47:32Z","modified":"2026-08-05T15:51:07.608893365Z","summary":"Malicious code in bnpl-blocks-desktop-bnpl-separator (npm)","affected":[{"package":{"name":"bnpl-blocks-desktop-bnpl-separator","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-desktop-bnpl-separator"},"versions":["35.5.8"]}]}

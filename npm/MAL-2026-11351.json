@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11351","published":"2026-07-30T21:25:57Z","modified":"2026-07-31T01:38:52.658832367Z","aliases":["GHSA-f2gr-qgm3-wg22"],"summary":"Malicious code in pullingpackage (npm)","affected":[{"package":{"name":"pullingpackage","ecosystem":"npm","purl":"pkg:npm/pullingpackage"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13480","published":"2026-08-06T23:57:30Z","modified":"2026-08-07T01:19:46.583411014Z","summary":"Malicious code in @prototypevip/baileys (npm)","affected":[{"package":{"name":"@prototypevip/baileys","ecosystem":"npm","purl":"pkg:npm/%40prototypevip/baileys"},"versions":["0.0.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11239","published":"2026-07-30T22:00:10Z","modified":"2026-07-31T01:37:33.728912897Z","aliases":["GHSA-j2jm-6rgv-3q9p"],"summary":"Malicious code in apijsclo (npm)","affected":[{"package":{"name":"apijsclo","ecosystem":"npm","purl":"pkg:npm/apijsclo"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

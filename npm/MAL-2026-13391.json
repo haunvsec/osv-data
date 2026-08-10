@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13391","published":"2026-08-06T06:23:00Z","modified":"2026-08-06T13:34:54.090037595Z","aliases":["GHSA-vj9r-9wwp-6cfp"],"summary":"Malicious code in @zahlen/checkout (npm)","affected":[{"package":{"name":"@zahlen/checkout","ecosystem":"npm","purl":"pkg:npm/%40zahlen/checkout"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

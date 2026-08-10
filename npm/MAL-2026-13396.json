@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13396","published":"2026-08-06T12:57:07Z","modified":"2026-08-06T14:34:56.560227967Z","summary":"Malicious code in @activepieces/piece-google-forms (npm)","affected":[{"package":{"name":"@activepieces/piece-google-forms","ecosystem":"npm","purl":"pkg:npm/%40activepieces/piece-google-forms"},"versions":["0.5.7","0.5.6","0.5.5"]}]}

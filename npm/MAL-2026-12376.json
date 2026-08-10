@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12376","published":"2026-08-05T12:56:00Z","modified":"2026-08-05T13:35:24.615730649Z","summary":"Malicious code in express-middle (npm)","affected":[{"package":{"name":"express-middle","ecosystem":"npm","purl":"pkg:npm/express-middle"},"versions":["5.5.1"]}]}

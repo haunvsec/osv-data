@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13146","published":"2026-08-05T15:16:54Z","modified":"2026-08-05T15:52:45.056593650Z","summary":"Malicious code in dolyame-ui-codemods (npm)","affected":[{"package":{"name":"dolyame-ui-codemods","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-codemods"},"versions":["35.2.6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11523","published":"2026-08-04T11:12:20Z","modified":"2026-08-05T00:37:47.376678321Z","aliases":["GHSA-p7m5-96hg-gppj"],"summary":"Malicious code in cache-manager (npm)","affected":[{"package":{"name":"cache-manager","ecosystem":"npm","purl":"pkg:npm/cache-manager"},"versions":["7.2.10"]}]}

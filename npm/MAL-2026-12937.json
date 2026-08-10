@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12937","published":"2026-08-05T14:46:57Z","modified":"2026-08-05T15:51:06.228916031Z","summary":"Malicious code in bnpl-blocks-desktop-bnpl-popup (npm)","affected":[{"package":{"name":"bnpl-blocks-desktop-bnpl-popup","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-desktop-bnpl-popup"},"versions":["35.9.9"]}]}

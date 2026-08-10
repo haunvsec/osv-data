@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11521","published":"2026-08-04T10:17:07Z","modified":"2026-08-05T08:51:26.200052100Z","summary":"Malicious code in psbt-helpers (PyPI)","affected":[{"package":{"name":"psbt-helpers","ecosystem":"PyPI","purl":"pkg:pypi/psbt-helpers"},"versions":["1.0.0"]}]}

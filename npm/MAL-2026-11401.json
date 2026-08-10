@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11401","published":"2026-07-30T22:49:53Z","modified":"2026-07-31T01:39:22.344990394Z","aliases":["GHSA-p62r-7cm3-39m8"],"summary":"Malicious code in thoughtgear (npm)","affected":[{"package":{"name":"thoughtgear","ecosystem":"npm","purl":"pkg:npm/thoughtgear"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

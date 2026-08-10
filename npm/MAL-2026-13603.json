@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13603","published":"2026-08-07T12:31:00Z","modified":"2026-08-07T13:20:57.575068708Z","summary":"Malicious code in platform-ui-colors (npm)","affected":[{"package":{"name":"platform-ui-colors","ecosystem":"npm","purl":"pkg:npm/platform-ui-colors"},"versions":["35.8.1"]}]}

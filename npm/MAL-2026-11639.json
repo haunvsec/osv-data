@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11639","published":"2026-08-04T15:24:39Z","modified":"2026-08-05T08:50:22.603592096Z","aliases":["GHSA-rg64-5g4p-xg39"],"summary":"Malicious code in @onereach/si-header (npm)","affected":[{"package":{"name":"@onereach/si-header","ecosystem":"npm","purl":"pkg:npm/%40onereach/si-header"},"versions":["0.4.11","0.4.12","0.4.13","0.4.14"]}]}

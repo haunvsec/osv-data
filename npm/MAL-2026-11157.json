@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11157","published":"2026-07-29T01:25:23Z","modified":"2026-07-29T03:21:35.699077234Z","summary":"Malicious code in @mypwn/hawkeye (npm)","affected":[{"package":{"name":"@mypwn/hawkeye","ecosystem":"npm","purl":"pkg:npm/%40mypwn/hawkeye"},"versions":["99.0.0"]}]}

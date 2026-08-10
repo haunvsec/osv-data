@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12507","published":"2026-08-05T13:11:40Z","modified":"2026-08-05T14:35:03.561625243Z","summary":"Malicious code in @sapappgyver/appgyver-descriptors (npm)","affected":[{"package":{"name":"@sapappgyver/appgyver-descriptors","ecosystem":"npm","purl":"pkg:npm/%40sapappgyver/appgyver-descriptors"},"versions":["9.9.11"]}]}

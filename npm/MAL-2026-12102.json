@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12102","published":"2026-08-05T06:25:34Z","modified":"2026-08-05T07:20:57.845753269Z","summary":"Malicious code in @wethenorth12/solana-web3 (npm)","affected":[{"package":{"name":"@wethenorth12/solana-web3","ecosystem":"npm","purl":"pkg:npm/%40wethenorth12/solana-web3"},"versions":["2.1.0"]}]}

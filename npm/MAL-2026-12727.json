@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12727","published":"2026-08-05T13:49:07Z","modified":"2026-08-05T14:36:44.253368245Z","summary":"Malicious code in devplatform-nx-spa (npm)","affected":[{"package":{"name":"devplatform-nx-spa","ecosystem":"npm","purl":"pkg:npm/devplatform-nx-spa"},"versions":["35.8.7"]}]}

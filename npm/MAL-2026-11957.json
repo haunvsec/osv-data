@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11957","published":"2026-08-04T18:00:00Z","modified":"2026-08-05T08:51:14.462768969Z","aliases":["GHSA-jp94-5mph-fpf8"],"summary":"Malicious code in @umacloud/cli-linux-musl-x64 (npm)","affected":[{"package":{"name":"@umacloud/cli-linux-musl-x64","ecosystem":"npm","purl":"pkg:npm/%40umacloud/cli-linux-musl-x64"},"versions":["1.0.74"]}]}

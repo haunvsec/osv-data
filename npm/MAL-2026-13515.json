@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13515","published":"2026-08-07T12:11:57Z","modified":"2026-08-07T12:35:17.987336527Z","summary":"Malicious code in eacq-dialog (npm)","affected":[{"package":{"name":"eacq-dialog","ecosystem":"npm","purl":"pkg:npm/eacq-dialog"},"versions":["35.8.1"]}]}

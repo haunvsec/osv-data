@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2026-10428","published":"2026-07-13T08:10:57Z","modified":"2026-07-13T09:17:04.224766320Z","summary":"Malicious code in sysb1 (npm)","affected":[{"package":{"name":"sysb1","ecosystem":"npm","purl":"pkg:npm/sysb1"},"versions":["1.0.0"]}]}
+{"schema_version":"1.7.5","id":"MAL-2026-10428","published":"2026-07-13T08:10:57Z","modified":"2026-07-28T14:37:24.429217637Z","summary":"Malicious code in sysb1 (npm)","affected":[{"package":{"name":"sysb1","ecosystem":"npm","purl":"pkg:npm/sysb1"},"versions":["1.0.0","1.0.2","1.0.1"]}]}

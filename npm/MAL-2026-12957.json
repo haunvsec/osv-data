@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12957","published":"2026-08-05T14:45:01Z","modified":"2026-08-05T15:51:16.049423202Z","summary":"Malicious code in bnpl-blocks-independent-bnpl-info-slider (npm)","affected":[{"package":{"name":"bnpl-blocks-independent-bnpl-info-slider","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-independent-bnpl-info-slider"},"versions":["35.9.8"]}]}

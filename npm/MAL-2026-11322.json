@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11322","published":"2026-07-30T22:04:12Z","modified":"2026-07-31T01:38:32.558069635Z","aliases":["GHSA-mm9w-w535-r967"],"summary":"Malicious code in installreact (npm)","affected":[{"package":{"name":"installreact","ecosystem":"npm","purl":"pkg:npm/installreact"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

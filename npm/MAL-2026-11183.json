@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11183","published":"2026-07-29T16:07:08Z","modified":"2026-07-30T04:36:02.428006172Z","aliases":["GHSA-pxmg-gr7p-wx8p"],"summary":"Malicious code in def-open-client (npm)","affected":[{"package":{"name":"def-open-client","ecosystem":"npm","purl":"pkg:npm/def-open-client"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

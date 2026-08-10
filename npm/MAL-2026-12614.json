@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12614","published":"2026-08-05T14:04:23Z","modified":"2026-08-05T14:35:49.929474088Z","summary":"Malicious code in claims-enums (npm)","affected":[{"package":{"name":"claims-enums","ecosystem":"npm","purl":"pkg:npm/claims-enums"},"versions":["35.7.6"]}]}

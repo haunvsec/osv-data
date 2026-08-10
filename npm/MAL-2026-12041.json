@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12041","published":"2026-08-05T00:59:46Z","modified":"2026-08-05T01:49:43.860591113Z","summary":"Malicious code in platform-ui-codemods (npm)","affected":[{"package":{"name":"platform-ui-codemods","ecosystem":"npm","purl":"pkg:npm/platform-ui-codemods"},"versions":["20.6.7"]}]}

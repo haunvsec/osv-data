@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12336","published":"2026-08-05T12:46:27Z","modified":"2026-08-05T13:34:56.721033105Z","summary":"Malicious code in afisha-storybook-default (npm)","affected":[{"package":{"name":"afisha-storybook-default","ecosystem":"npm","purl":"pkg:npm/afisha-storybook-default"},"versions":["9.7.11","9.7.12","9.7.10","12.1.1","9.7.9"]}]}

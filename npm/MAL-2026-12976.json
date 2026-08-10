@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12976","published":"2026-08-05T14:42:16Z","modified":"2026-08-05T15:51:24.751717603Z","summary":"Malicious code in bnpl-blocks-markdown (npm)","affected":[{"package":{"name":"bnpl-blocks-markdown","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-markdown"},"versions":["35.4.1"]}]}

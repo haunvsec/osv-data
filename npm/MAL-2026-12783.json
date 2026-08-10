@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12783","published":"2026-08-05T13:40:59Z","modified":"2026-08-05T14:37:08.902243521Z","summary":"Malicious code in devplatform-spa-route-tree (npm)","affected":[{"package":{"name":"devplatform-spa-route-tree","ecosystem":"npm","purl":"pkg:npm/devplatform-spa-route-tree"},"versions":["35.1.3"]}]}

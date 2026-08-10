@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13478","published":"2026-08-06T23:55:20Z","modified":"2026-08-07T01:19:45.747508028Z","summary":"Malicious code in @cats-cdf/authentication (npm)","affected":[{"package":{"name":"@cats-cdf/authentication","ecosystem":"npm","purl":"pkg:npm/%40cats-cdf/authentication"},"versions":["3.1.1","2.17.1"]}]}

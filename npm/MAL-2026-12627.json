@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12627","published":"2026-08-05T14:02:43Z","modified":"2026-08-05T14:35:56.935460963Z","summary":"Malicious code in claims-jira-service (npm)","affected":[{"package":{"name":"claims-jira-service","ecosystem":"npm","purl":"pkg:npm/claims-jira-service"},"versions":["35.8.3"]}]}

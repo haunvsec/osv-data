@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11516","published":"2026-08-04T05:07:45Z","modified":"2026-08-04T22:05:24.610591286Z","summary":"Malicious code in coldcard-helpers (PyPI)","affected":[{"package":{"name":"coldcard-helpers","ecosystem":"PyPI","purl":"pkg:pypi/coldcard-helpers"},"versions":["1.4.2"]}]}

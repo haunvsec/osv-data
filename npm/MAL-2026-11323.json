@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11323","published":"2026-07-30T21:44:49Z","modified":"2026-07-31T01:38:32.846936994Z","aliases":["GHSA-qc59-xgf9-w976"],"summary":"Malicious code in isix (npm)","affected":[{"package":{"name":"isix","ecosystem":"npm","purl":"pkg:npm/isix"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

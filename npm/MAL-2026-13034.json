@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13034","published":"2026-08-05T14:34:21Z","modified":"2026-08-05T15:51:52.336865205Z","summary":"Malicious code in boxy-contract (npm)","affected":[{"package":{"name":"boxy-contract","ecosystem":"npm","purl":"pkg:npm/boxy-contract"},"versions":["35.4.3"]}]}

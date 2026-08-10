@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11570","published":"2026-08-04T13:17:42Z","modified":"2026-08-05T07:20:00.049951697Z","aliases":["GHSA-5fpj-9hg9-7jfj"],"summary":"Malicious code in @nebula.js/nucleus (npm)","affected":[{"package":{"name":"@nebula.js/nucleus","ecosystem":"npm","purl":"pkg:npm/%40nebula.js/nucleus"},"versions":["0.5.1"]}]}

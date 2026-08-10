@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11150","published":"2026-07-28T13:34:25Z","modified":"2026-07-28T14:37:13.312590226Z","summary":"Malicious code in streak-daily-lib (npm)","affected":[{"package":{"name":"streak-daily-lib","ecosystem":"npm","purl":"pkg:npm/streak-daily-lib"},"versions":["1.0.0"]}]}

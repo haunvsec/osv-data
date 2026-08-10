@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13365","published":"2026-08-05T18:15:58Z","modified":"2026-08-05T19:19:48.096111199Z","summary":"Malicious code in @stageflight-testbed/a (npm)","affected":[{"package":{"name":"@stageflight-testbed/a","ecosystem":"npm","purl":"pkg:npm/%40stageflight-testbed/a"},"versions":["0.1.7"]}]}

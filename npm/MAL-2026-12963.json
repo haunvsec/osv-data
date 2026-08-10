@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12963","published":"2026-08-05T14:43:36Z","modified":"2026-08-05T15:51:18.583238970Z","summary":"Malicious code in bnpl-blocks-independent-bnpl-open-api (npm)","affected":[{"package":{"name":"bnpl-blocks-independent-bnpl-open-api","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-independent-bnpl-open-api"},"versions":["35.1.2"]}]}

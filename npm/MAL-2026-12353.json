@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12353","published":"2026-08-05T13:03:41Z","modified":"2026-08-05T13:35:04.837650573Z","summary":"Malicious code in clover-codelab-remote-pay-cloud (npm)","affected":[{"package":{"name":"clover-codelab-remote-pay-cloud","ecosystem":"npm","purl":"pkg:npm/clover-codelab-remote-pay-cloud"},"versions":["99.9.9"]}]}

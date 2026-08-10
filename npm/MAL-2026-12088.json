@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12088","published":"2026-08-05T06:24:40Z","modified":"2026-08-05T07:20:51.097126474Z","summary":"Malicious code in @wethenorth12/bitcoinjs-wallet (npm)","affected":[{"package":{"name":"@wethenorth12/bitcoinjs-wallet","ecosystem":"npm","purl":"pkg:npm/%40wethenorth12/bitcoinjs-wallet"},"versions":["5.4.2"]}]}

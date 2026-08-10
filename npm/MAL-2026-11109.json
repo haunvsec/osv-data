@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11109","published":"2026-07-09T00:00:00Z","modified":"2026-08-05T07:20:46.449022552Z","summary":"Malicious code in @wagni_bot/bsc (npm)","affected":[{"package":{"name":"@wagni_bot/bsc","ecosystem":"npm","purl":"pkg:npm/%40wagni_bot/bsc"},"versions":["1.0.0"]}]}

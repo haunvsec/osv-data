@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12799","published":"2026-08-05T13:12:40Z","modified":"2026-08-05T14:37:17.935378442Z","summary":"Malicious code in poly-bbc-service (npm)","affected":[{"package":{"name":"poly-bbc-service","ecosystem":"npm","purl":"pkg:npm/poly-bbc-service"},"versions":["3.7.2"]}]}

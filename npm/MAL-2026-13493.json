@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13493","published":"2026-08-07T00:06:23Z","modified":"2026-08-07T12:35:24.435063709Z","aliases":["GHSA-q7w3-723m-252j"],"summary":"Malicious code in velabuild (npm)","affected":[{"package":{"name":"velabuild","ecosystem":"npm","purl":"pkg:npm/velabuild"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

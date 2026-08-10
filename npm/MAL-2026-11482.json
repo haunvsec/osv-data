@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11482","published":"2026-07-31T21:55:32Z","modified":"2026-08-04T23:05:28.583919983Z","aliases":["GHSA-fvh4-59gv-h4qp"],"summary":"Malicious code in sap-mcp-facilitator (npm)","affected":[{"package":{"name":"sap-mcp-facilitator","ecosystem":"npm","purl":"pkg:npm/sap-mcp-facilitator"},"versions":["1.0.0"]}]}

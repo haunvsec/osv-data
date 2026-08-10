@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12205","published":"2026-08-05T08:49:26Z","modified":"2026-08-05T10:06:22.782810738Z","summary":"Malicious code in simple-date-formatter-util-4 (npm)","affected":[{"package":{"name":"simple-date-formatter-util-4","ecosystem":"npm","purl":"pkg:npm/simple-date-formatter-util-4"},"versions":["1.0.1","1.0.0"]}]}

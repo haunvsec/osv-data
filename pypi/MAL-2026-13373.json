@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13373","published":"2026-08-05T17:50:06Z","modified":"2026-08-05T19:19:52.412008929Z","summary":"Malicious code in solana-sniper-bot (PyPI)","affected":[{"package":{"name":"solana-sniper-bot","ecosystem":"PyPI","purl":"pkg:pypi/solana-sniper-bot"},"versions":["1.4.2"]}]}

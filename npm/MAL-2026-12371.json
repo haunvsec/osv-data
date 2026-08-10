@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12371","published":"2026-08-05T12:58:43Z","modified":"2026-08-05T13:35:22.236979863Z","summary":"Malicious code in eth-codegen (npm)","affected":[{"package":{"name":"eth-codegen","ecosystem":"npm","purl":"pkg:npm/eth-codegen"},"versions":["0.5.4"]}]}

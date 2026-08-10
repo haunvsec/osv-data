@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12910","published":"2026-08-05T14:52:13Z","modified":"2026-08-05T15:50:53.735656522Z","summary":"Malicious code in bnpl-blocks-design-system (npm)","affected":[{"package":{"name":"bnpl-blocks-design-system","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-design-system"},"versions":["35.4.8"]}]}

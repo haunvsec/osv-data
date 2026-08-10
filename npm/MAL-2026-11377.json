@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11377","published":"2026-07-30T22:36:17Z","modified":"2026-07-31T01:39:08.179568091Z","aliases":["GHSA-qxvp-f79c-fhm8"],"summary":"Malicious code in scol (npm)","affected":[{"package":{"name":"scol","ecosystem":"npm","purl":"pkg:npm/scol"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12493","published":"2026-08-05T12:24:20Z","modified":"2026-08-06T01:21:43.686483892Z","aliases":["GHSA-p66g-m465-g72x"],"summary":"Malicious code in utility-kit-ts (npm)","affected":[{"package":{"name":"utility-kit-ts","ecosystem":"npm","purl":"pkg:npm/utility-kit-ts"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

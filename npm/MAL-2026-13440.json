@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13440","published":"2026-08-06T16:17:05Z","modified":"2026-08-06T23:50:08.365558340Z","summary":"Malicious code in connect-contingency (npm)","affected":[{"package":{"name":"connect-contingency","ecosystem":"npm","purl":"pkg:npm/connect-contingency"},"versions":["99.9.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12672","published":"2026-08-05T13:56:19Z","modified":"2026-08-05T14:36:19.032375541Z","summary":"Malicious code in ded-aa-liza-ui-components (npm)","affected":[{"package":{"name":"ded-aa-liza-ui-components","ecosystem":"npm","purl":"pkg:npm/ded-aa-liza-ui-components"},"versions":["35.8.7"]}]}

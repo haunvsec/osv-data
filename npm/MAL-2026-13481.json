@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13481","published":"2026-08-06T23:55:50Z","modified":"2026-08-07T01:19:48.368246907Z","summary":"Malicious code in cdf-tag-commander-helper (npm)","affected":[{"package":{"name":"cdf-tag-commander-helper","ecosystem":"npm","purl":"pkg:npm/cdf-tag-commander-helper"},"versions":["3.6.2","3.1.1"]}]}

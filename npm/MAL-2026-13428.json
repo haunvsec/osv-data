@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13428","published":"2026-08-06T14:31:35Z","modified":"2026-08-06T15:34:46.288868903Z","summary":"Malicious code in @love-moon/conductor-cli (npm)","affected":[{"package":{"name":"@love-moon/conductor-cli","ecosystem":"npm","purl":"pkg:npm/%40love-moon/conductor-cli"},"versions":["0.7.5","0.7.4","0.8.0","0.7.6"]}]}

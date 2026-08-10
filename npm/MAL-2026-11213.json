@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11213","published":"2026-07-30T21:48:05Z","modified":"2026-07-31T01:37:17.326494730Z","aliases":["GHSA-jm3c-xq42-hcxw"],"summary":"Malicious code in @grua/core (npm)","affected":[{"package":{"name":"@grua/core","ecosystem":"npm","purl":"pkg:npm/%40grua/core"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

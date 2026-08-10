@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11321","published":"2026-07-30T22:49:53Z","modified":"2026-07-31T01:38:31.462058096Z","aliases":["GHSA-vrpm-5883-jc99"],"summary":"Malicious code in inkalabs (npm)","affected":[{"package":{"name":"inkalabs","ecosystem":"npm","purl":"pkg:npm/inkalabs"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

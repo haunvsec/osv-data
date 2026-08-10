@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12120","published":"2026-08-05T08:44:01Z","modified":"2026-08-05T10:05:38.692346858Z","summary":"Malicious code in @zzzgenesis00/env-loader (npm)","affected":[{"package":{"name":"@zzzgenesis00/env-loader","ecosystem":"npm","purl":"pkg:npm/%40zzzgenesis00/env-loader"},"versions":["4.2.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11309","published":"2026-07-30T22:21:09Z","modified":"2026-08-05T06:36:13.968272970Z","aliases":["GHSA-v3p3-vv86-m2vx"],"summary":"Malicious code in famshot (npm)","affected":[{"package":{"name":"famshot","ecosystem":"npm","purl":"pkg:npm/famshot"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

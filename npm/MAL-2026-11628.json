@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11628","published":"2026-08-04T13:21:25Z","modified":"2026-08-05T08:50:20.381021547Z","aliases":["GHSA-ffmh-34qf-89jg"],"summary":"Malicious code in @onereach/si-a-button (npm)","affected":[{"package":{"name":"@onereach/si-a-button","ecosystem":"npm","purl":"pkg:npm/%40onereach/si-a-button"},"versions":["0.0.3","0.0.4","0.0.5"]}]}

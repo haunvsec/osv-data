@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11414","published":"2026-07-31T14:15:34Z","modified":"2026-08-04T22:05:24.588722634Z","summary":"Malicious code in aiassistcore (PyPI)","affected":[{"package":{"name":"aiassistcore","ecosystem":"PyPI","purl":"pkg:pypi/aiassistcore"},"versions":["0.1.2"]}]}

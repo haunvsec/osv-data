@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13121","published":"2026-08-05T14:19:46Z","modified":"2026-08-05T15:52:33.433450256Z","summary":"Malicious code in bpm-foundation-test-jasmine (npm)","affected":[{"package":{"name":"bpm-foundation-test-jasmine","ecosystem":"npm","purl":"pkg:npm/bpm-foundation-test-jasmine"},"versions":["35.7.9"]}]}

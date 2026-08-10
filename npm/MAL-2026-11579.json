@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11579","published":"2026-08-04T15:49:16Z","modified":"2026-08-05T08:49:58.091940236Z","aliases":["GHSA-mwhj-hw75-h6r7"],"summary":"Malicious code in @nebula.js/sn-org-chart (npm)","affected":[{"package":{"name":"@nebula.js/sn-org-chart","ecosystem":"npm","purl":"pkg:npm/%40nebula.js/sn-org-chart"},"versions":["1.7.1"]}]}

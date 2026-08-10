@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12177","published":"2026-08-05T08:49:50Z","modified":"2026-08-05T10:06:08.210095471Z","summary":"Malicious code in devpack-conf (npm)","affected":[{"package":{"name":"devpack-conf","ecosystem":"npm","purl":"pkg:npm/devpack-conf"},"versions":["5.0.0"]}]}

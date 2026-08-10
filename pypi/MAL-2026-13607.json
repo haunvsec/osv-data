@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13607","published":"2026-08-07T11:56:15Z","modified":"2026-08-07T13:21:02.260721813Z","summary":"Malicious code in speed-hashes (PyPI)","affected":[{"package":{"name":"speed-hashes","ecosystem":"PyPI","purl":"pkg:pypi/speed-hashes"},"versions":["0.1.0"]}]}

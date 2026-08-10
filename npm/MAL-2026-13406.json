@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13406","published":"2026-08-06T13:15:46Z","modified":"2026-08-06T14:34:54.140406047Z","summary":"Malicious code in 9remote (npm)","affected":[{"package":{"name":"9remote","ecosystem":"npm","purl":"pkg:npm/9remote"},"versions":["2.1.5","2.1.14","2.1.20","2.1.9","2.1.16","2.1.21","2.1.6","2.2.5","2.2.6","2.1.1"]}]}

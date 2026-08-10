@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12303","published":"2026-08-05T09:15:32Z","modified":"2026-08-05T10:07:08.793930688Z","summary":"Malicious code in twork-mf-e2e-nitro (npm)","affected":[{"package":{"name":"twork-mf-e2e-nitro","ecosystem":"npm","purl":"pkg:npm/twork-mf-e2e-nitro"},"versions":["20.8.5"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11788","published":"2026-08-04T18:00:00Z","modified":"2026-08-05T07:20:38.341780947Z","summary":"Malicious code in @qlik/dts-bundler (npm)","affected":[{"package":{"name":"@qlik/dts-bundler","ecosystem":"npm","purl":"pkg:npm/%40qlik/dts-bundler"},"versions":["2.0.3"]}]}

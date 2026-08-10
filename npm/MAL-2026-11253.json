@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11253","published":"2026-07-30T21:25:58Z","modified":"2026-07-31T01:37:42.142079280Z","aliases":["GHSA-8r7h-9852-wx7j"],"summary":"Malicious code in cancelling (npm)","affected":[{"package":{"name":"cancelling","ecosystem":"npm","purl":"pkg:npm/cancelling"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

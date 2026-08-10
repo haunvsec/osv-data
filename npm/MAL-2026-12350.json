@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12350","published":"2026-08-05T12:31:46Z","modified":"2026-08-05T13:35:03.523369019Z","summary":"Malicious code in chart-data-utils (npm)","affected":[{"package":{"name":"chart-data-utils","ecosystem":"npm","purl":"pkg:npm/chart-data-utils"},"versions":["1.0.0"]}]}

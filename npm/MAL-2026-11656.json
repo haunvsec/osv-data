@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11656","published":"2026-08-04T13:22:10Z","modified":"2026-08-05T08:50:30.361324066Z","aliases":["GHSA-8pw5-rhrc-pv3j"],"summary":"Malicious code in @onereach/styles (npm)","affected":[{"package":{"name":"@onereach/styles","ecosystem":"npm","purl":"pkg:npm/%40onereach/styles"},"versions":["27.0.2","27.0.3","27.0.4"]}]}

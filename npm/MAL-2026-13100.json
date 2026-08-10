@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13100","published":"2026-08-05T14:23:29Z","modified":"2026-08-05T15:52:22.543995550Z","summary":"Malicious code in bpm-foundation-ai-assistant (npm)","affected":[{"package":{"name":"bpm-foundation-ai-assistant","ecosystem":"npm","purl":"pkg:npm/bpm-foundation-ai-assistant"},"versions":["35.6.2"]}]}

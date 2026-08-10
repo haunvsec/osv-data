@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13447","published":"2026-08-06T19:11:33Z","modified":"2026-08-06T23:50:14.865035607Z","summary":"Malicious code in gpt-terminal-cli (npm)","affected":[{"package":{"name":"gpt-terminal-cli","ecosystem":"npm","purl":"pkg:npm/gpt-terminal-cli"},"versions":["1.0.0"]}]}

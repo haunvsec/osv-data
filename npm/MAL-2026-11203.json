@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11203","published":"2026-06-22T10:44:41Z","modified":"2026-08-04T22:04:50.766911715Z","summary":"Malicious code in @dexwilt/node-fetch (npm)","affected":[{"package":{"name":"@dexwilt/node-fetch","ecosystem":"npm","purl":"pkg:npm/%40dexwilt/node-fetch"},"versions":["2.7.3"]}]}

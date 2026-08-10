@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11110","published":"2026-07-09T00:00:00Z","modified":"2026-08-05T07:20:47.065080607Z","summary":"Malicious code in @wagni_bot/eth (npm)","affected":[{"package":{"name":"@wagni_bot/eth","ecosystem":"npm","purl":"pkg:npm/%40wagni_bot/eth"},"versions":["1.0.0"]}]}

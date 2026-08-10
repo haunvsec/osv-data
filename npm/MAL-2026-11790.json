@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11790","published":"2026-08-04T15:50:25Z","modified":"2026-08-05T08:51:10.659710678Z","aliases":["GHSA-6f9f-wgfq-wg6c"],"summary":"Malicious code in @qlik/embed-runtime (npm)","affected":[{"package":{"name":"@qlik/embed-runtime","ecosystem":"npm","purl":"pkg:npm/%40qlik/embed-runtime"},"versions":["1.6.4"]}]}

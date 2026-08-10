@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11471","published":"2026-07-31T21:55:27Z","modified":"2026-08-05T06:36:20.600604804Z","aliases":["GHSA-mr5v-ffrr-c4h3"],"summary":"Malicious code in maximumsats-mcp (npm)","affected":[{"package":{"name":"maximumsats-mcp","ecosystem":"npm","purl":"pkg:npm/maximumsats-mcp"},"versions":["1.0.0"]}]}

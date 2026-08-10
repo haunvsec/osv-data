@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12033","published":"2026-08-05T01:18:23Z","modified":"2026-08-05T01:49:46.456578847Z","summary":"Malicious code in aedes_clusters (npm)","affected":[{"package":{"name":"aedes_clusters","ecosystem":"npm","purl":"pkg:npm/aedes_clusters"},"versions":["1.0.1"]}]}

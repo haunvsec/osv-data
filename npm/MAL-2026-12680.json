@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12680","published":"2026-08-05T13:54:50Z","modified":"2026-08-06T01:20:23.716760203Z","aliases":["GHSA-xrcg-488c-pjp5"],"summary":"Malicious code in delivery-ci-sage (npm)","affected":[{"package":{"name":"delivery-ci-sage","ecosystem":"npm","purl":"pkg:npm/delivery-ci-sage"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

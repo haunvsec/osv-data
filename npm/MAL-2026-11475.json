@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11475","published":"2026-07-31T21:53:27Z","modified":"2026-08-04T23:05:24.376606825Z","aliases":["GHSA-87v2-285p-xhrr"],"summary":"Malicious code in pm-claude-skills-mcp (npm)","affected":[{"package":{"name":"pm-claude-skills-mcp","ecosystem":"npm","purl":"pkg:npm/pm-claude-skills-mcp"},"versions":["1.0.0"]}]}

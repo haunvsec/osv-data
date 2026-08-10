@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13031","published":"2026-08-05T14:34:40Z","modified":"2026-08-05T15:51:50.854764802Z","summary":"Malicious code in boxy-bus-providers (npm)","affected":[{"package":{"name":"boxy-bus-providers","ecosystem":"npm","purl":"pkg:npm/boxy-bus-providers"},"versions":["35.3.4"]}]}

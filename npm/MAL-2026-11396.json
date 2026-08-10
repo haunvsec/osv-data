@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11396","published":"2026-07-30T22:40:12Z","modified":"2026-07-31T01:39:19.647623296Z","aliases":["GHSA-63j4-mhgp-qg9v"],"summary":"Malicious code in test-wastu (npm)","affected":[{"package":{"name":"test-wastu","ecosystem":"npm","purl":"pkg:npm/test-wastu"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

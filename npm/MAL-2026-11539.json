@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11539","published":"2026-08-04T22:07:52Z","modified":"2026-08-04T23:04:40.320773159Z","summary":"Malicious code in entropyeasybots (npm)","affected":[{"package":{"name":"entropyeasybots","ecosystem":"npm","purl":"pkg:npm/entropyeasybots"},"versions":["2.0.2"]}]}

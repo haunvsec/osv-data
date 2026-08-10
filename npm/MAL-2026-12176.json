@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12176","published":"2026-08-05T09:16:51Z","modified":"2026-08-05T13:35:18.002954917Z","summary":"Malicious code in dateuuidv2 (npm)","affected":[{"package":{"name":"dateuuidv2","ecosystem":"npm","purl":"pkg:npm/dateuuidv2"},"versions":["1.0.1","1.0.0","1.0.2"]}]}

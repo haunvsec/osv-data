@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12143","published":"2026-08-05T08:52:53Z","modified":"2026-08-05T10:05:49.364752500Z","summary":"Malicious code in beaver-ui-breadcrumbs (npm)","affected":[{"package":{"name":"beaver-ui-breadcrumbs","ecosystem":"npm","purl":"pkg:npm/beaver-ui-breadcrumbs"},"versions":["33.1.6","0.0.2"]}]}

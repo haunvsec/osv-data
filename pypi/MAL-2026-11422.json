@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11422","published":"2026-07-31T18:11:11Z","modified":"2026-07-31T19:17:35.089424969Z","summary":"Malicious code in asdk-plugin-alphagen (PyPI)","affected":[{"package":{"name":"asdk-plugin-alphagen","ecosystem":"PyPI","purl":"pkg:pypi/asdk-plugin-alphagen"},"versions":["0.0.1","9999.0.0"]}]}

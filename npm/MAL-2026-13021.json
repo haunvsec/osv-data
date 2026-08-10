@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13021","published":"2026-08-05T14:33:28Z","modified":"2026-08-05T15:51:45.233599513Z","summary":"Malicious code in bnpl-blocks-types-gen (npm)","affected":[{"package":{"name":"bnpl-blocks-types-gen","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-types-gen"},"versions":["35.4.4"]}]}

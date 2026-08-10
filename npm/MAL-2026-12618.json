@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12618","published":"2026-08-05T14:05:16Z","modified":"2026-08-05T14:35:51.560060120Z","summary":"Malicious code in claims-format-money (npm)","affected":[{"package":{"name":"claims-format-money","ecosystem":"npm","purl":"pkg:npm/claims-format-money"},"versions":["35.5.5"]}]}

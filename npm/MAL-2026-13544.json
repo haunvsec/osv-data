@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13544","published":"2026-08-07T12:25:53Z","modified":"2026-08-07T13:20:24.256200501Z","summary":"Malicious code in devplatform-eslint-config (npm)","affected":[{"package":{"name":"devplatform-eslint-config","ecosystem":"npm","purl":"pkg:npm/devplatform-eslint-config"},"versions":["35.8.9"]}]}

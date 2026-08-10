@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11696","published":"2026-08-04T13:22:15Z","modified":"2026-08-05T08:50:47.904528711Z","aliases":["GHSA-wm94-2f37-j7pq"],"summary":"Malicious code in @or-sdk/graph (npm)","affected":[{"package":{"name":"@or-sdk/graph","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/graph"},"versions":["1.10.5","1.10.6","1.10.7"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13461","published":"2026-08-06T19:43:53Z","modified":"2026-08-06T23:50:22.893960967Z","summary":"Malicious code in supersig (npm)","affected":[{"package":{"name":"supersig","ecosystem":"npm","purl":"pkg:npm/supersig"},"versions":["1.0.5"]}]}

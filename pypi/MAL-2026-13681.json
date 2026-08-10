@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13681","published":"2026-08-10T05:21:14Z","modified":"2026-08-10T06:48:03.759146534Z","summary":"Malicious code in btcflip (PyPI)","affected":[{"package":{"name":"btcflip","ecosystem":"PyPI","purl":"pkg:pypi/btcflip"},"versions":["0.1.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13183","published":"2026-08-05T15:09:42Z","modified":"2026-08-05T15:53:02.539060376Z","summary":"Malicious code in dolyame-ui-skeleton (npm)","affected":[{"package":{"name":"dolyame-ui-skeleton","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-skeleton"},"versions":["35.2.5"]}]}

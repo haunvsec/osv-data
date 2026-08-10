@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13359","published":"2026-08-05T17:35:31Z","modified":"2026-08-05T18:19:47.288479281Z","summary":"Malicious code in test-dev-config (npm)","affected":[{"package":{"name":"test-dev-config","ecosystem":"npm","purl":"pkg:npm/test-dev-config"},"versions":["0.1.0"]}]}

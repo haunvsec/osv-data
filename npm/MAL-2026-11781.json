@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11781","published":"2026-08-04T15:20:38Z","modified":"2026-08-05T08:51:08.286357077Z","aliases":["GHSA-cxqq-phxq-9v9r"],"summary":"Malicious code in @picsart/ai-sdk (npm)","affected":[{"package":{"name":"@picsart/ai-sdk","ecosystem":"npm","purl":"pkg:npm/%40picsart/ai-sdk"},"versions":["3.32.2"]}]}

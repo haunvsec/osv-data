@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12645","published":"2026-08-05T13:59:36Z","modified":"2026-08-05T14:36:05.607383828Z","summary":"Malicious code in claims-types (npm)","affected":[{"package":{"name":"claims-types","ecosystem":"npm","purl":"pkg:npm/claims-types"},"versions":["35.8.3"]}]}

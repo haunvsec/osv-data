@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13093","published":"2026-08-05T14:24:43Z","modified":"2026-08-05T15:52:19.536993001Z","summary":"Malicious code in boxy-tree-providers (npm)","affected":[{"package":{"name":"boxy-tree-providers","ecosystem":"npm","purl":"pkg:npm/boxy-tree-providers"},"versions":["35.3.9"]}]}

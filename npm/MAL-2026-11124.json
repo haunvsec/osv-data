@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11124","published":"2026-07-28T13:28:45Z","modified":"2026-07-28T14:37:14.739205144Z","summary":"Malicious code in api-node-sdk (npm)","affected":[{"package":{"name":"api-node-sdk","ecosystem":"npm","purl":"pkg:npm/api-node-sdk"},"versions":["2.1.6"]}]}

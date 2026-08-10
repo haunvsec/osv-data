@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12491","published":"2026-08-05T13:06:25Z","modified":"2026-08-05T13:36:23.518509948Z","summary":"Malicious code in uploader-frontend (npm)","affected":[{"package":{"name":"uploader-frontend","ecosystem":"npm","purl":"pkg:npm/uploader-frontend"},"versions":["9.9.11"]}]}

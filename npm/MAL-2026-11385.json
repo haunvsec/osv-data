@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11385","published":"2026-07-30T22:35:06Z","modified":"2026-07-31T01:39:12.663788189Z","aliases":["GHSA-m2mq-w6wp-w8gf"],"summary":"Malicious code in spectral-wraith (npm)","affected":[{"package":{"name":"spectral-wraith","ecosystem":"npm","purl":"pkg:npm/spectral-wraith"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

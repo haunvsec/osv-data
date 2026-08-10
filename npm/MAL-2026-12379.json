@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12379","published":"2026-08-05T13:01:48Z","modified":"2026-08-05T13:35:25.854821129Z","summary":"Malicious code in fastify-client-bundler (npm)","affected":[{"package":{"name":"fastify-client-bundler","ecosystem":"npm","purl":"pkg:npm/fastify-client-bundler"},"versions":["1.4.0"]}]}

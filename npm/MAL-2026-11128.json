@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11128","published":"2026-07-28T09:00:00Z","modified":"2026-08-06T04:19:38.781369039Z","summary":"Malicious code in app-soda-layer (npm)","affected":[{"package":{"name":"app-soda-layer","ecosystem":"npm","purl":"pkg:npm/app-soda-layer"},"versions":["2.1.6"]}]}

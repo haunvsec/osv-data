@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11424","published":"2026-07-31T22:25:45Z","modified":"2026-07-31T23:02:30.926482921Z","summary":"Malicious code in telerape (PyPI)","affected":[{"package":{"name":"telerape","ecosystem":"PyPI","purl":"pkg:pypi/telerape"},"versions":["0.0.0.dev0","1.0.0","1.0.1"]}]}

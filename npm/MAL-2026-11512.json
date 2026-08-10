@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11512","published":"2026-08-03T20:52:13Z","modified":"2026-08-04T23:05:13.060369081Z","aliases":["GHSA-2wgh-22xm-wp5f"],"summary":"Malicious code in internallib_v524 (npm)","affected":[{"package":{"name":"internallib_v524","ecosystem":"npm","purl":"pkg:npm/internallib_v524"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

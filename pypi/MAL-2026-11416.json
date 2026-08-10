@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11416","published":"2026-07-31T14:52:16Z","modified":"2026-08-05T07:21:40.895007696Z","summary":"Malicious code in ailaunchkit (PyPI)","affected":[{"package":{"name":"ailaunchkit","ecosystem":"PyPI","purl":"pkg:pypi/ailaunchkit"},"versions":["0.1.2"]}]}

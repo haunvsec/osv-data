@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13459","published":"2026-08-06T15:31:13Z","modified":"2026-08-10T00:50:16.548998474Z","aliases":["GHSA-v2fj-c673-2gjm"],"summary":"Malicious code in streak-map-cache (npm)","affected":[{"package":{"name":"streak-map-cache","ecosystem":"npm","purl":"pkg:npm/streak-map-cache"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

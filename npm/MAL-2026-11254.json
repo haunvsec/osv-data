@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11254","published":"2026-07-30T21:25:58Z","modified":"2026-07-31T01:37:13.676351186Z","aliases":["GHSA-h56c-5267-9jg9"],"summary":"Malicious code in canvas-to (npm)","affected":[{"package":{"name":"canvas-to","ecosystem":"npm","purl":"pkg:npm/canvas-to"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

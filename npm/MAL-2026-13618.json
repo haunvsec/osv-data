@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13618","published":"2026-08-07T16:37:30Z","modified":"2026-08-07T17:04:53.389344220Z","summary":"Malicious code in w-screenctl (npm)","affected":[{"package":{"name":"w-screenctl","ecosystem":"npm","purl":"pkg:npm/w-screenctl"},"versions":["1.0.6","1.0.4","1.0.7"]}]}

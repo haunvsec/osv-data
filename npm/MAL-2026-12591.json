@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12591","published":"2026-08-05T14:08:05Z","modified":"2026-08-05T14:35:39.147293005Z","summary":"Malicious code in checkout-select-pos-offer-am (npm)","affected":[{"package":{"name":"checkout-select-pos-offer-am","ecosystem":"npm","purl":"pkg:npm/checkout-select-pos-offer-am"},"versions":["35.2.7"]}]}

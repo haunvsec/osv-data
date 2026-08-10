@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12705","published":"2026-08-05T13:52:16Z","modified":"2026-08-05T14:36:34.536994058Z","summary":"Malicious code in devplatform-confirm-input (npm)","affected":[{"package":{"name":"devplatform-confirm-input","ecosystem":"npm","purl":"pkg:npm/devplatform-confirm-input"},"versions":["35.9.8"]}]}

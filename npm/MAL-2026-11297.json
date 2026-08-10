@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11297","published":"2026-07-30T21:25:58Z","modified":"2026-07-31T01:38:19.059045676Z","aliases":["GHSA-fhg3-hmxv-w549"],"summary":"Malicious code in ethers-v6 (npm)","affected":[{"package":{"name":"ethers-v6","ecosystem":"npm","purl":"pkg:npm/ethers-v6"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

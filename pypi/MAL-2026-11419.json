@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11419","published":"2026-07-31T14:21:11Z","modified":"2026-08-04T22:05:24.603268142Z","summary":"Malicious code in cognikit (PyPI)","affected":[{"package":{"name":"cognikit","ecosystem":"PyPI","purl":"pkg:pypi/cognikit"},"versions":["0.1.2"]}]}

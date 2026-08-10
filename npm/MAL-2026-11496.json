@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11496","published":"2026-07-31T11:08:11Z","modified":"2026-08-04T23:05:42.536204729Z","aliases":["GHSA-qhvp-2j38-vcxv"],"summary":"Malicious code in vite-config-svg (npm)","affected":[{"package":{"name":"vite-config-svg","ecosystem":"npm","purl":"pkg:npm/vite-config-svg"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

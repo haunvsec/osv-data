@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11426","published":"2026-08-01T10:57:24Z","modified":"2026-08-04T23:05:49.658183696Z","summary":"Malicious code in trtllm-subdir-test (PyPI)","affected":[{"package":{"name":"trtllm-subdir-test","ecosystem":"PyPI","purl":"pkg:pypi/trtllm-subdir-test"},"versions":["99999.0.0","99999.0.1"]}]}

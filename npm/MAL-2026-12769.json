@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12769","published":"2026-08-05T13:41:47Z","modified":"2026-08-05T14:37:02.074316215Z","summary":"Malicious code in devplatform-spa-plugin-i18next-instance (npm)","affected":[{"package":{"name":"devplatform-spa-plugin-i18next-instance","ecosystem":"npm","purl":"pkg:npm/devplatform-spa-plugin-i18next-instance"},"versions":["35.5.9"]}]}

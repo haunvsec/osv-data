@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11710","published":"2026-08-04T13:22:00Z","modified":"2026-08-05T08:50:55.131491169Z","aliases":["GHSA-3475-v8pg-87p7"],"summary":"Malicious code in @or-sdk/library-types-v2 (npm)","affected":[{"package":{"name":"@or-sdk/library-types-v2","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/library-types-v2"},"versions":["9.0.1","9.0.2","9.0.3"]}]}

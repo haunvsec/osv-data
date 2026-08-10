@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11640","published":"2026-08-04T15:24:38Z","modified":"2026-08-05T08:50:23.503800044Z","aliases":["GHSA-7cw5-mh85-x5xx"],"summary":"Malicious code in @onereach/si-list (npm)","affected":[{"package":{"name":"@onereach/si-list","ecosystem":"npm","purl":"pkg:npm/%40onereach/si-list"},"versions":["0.7.4","0.7.5","0.7.6"]}]}

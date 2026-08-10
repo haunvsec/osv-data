@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13209","published":"2026-08-05T15:52:10Z","modified":"2026-08-06T23:50:00.274286879Z","summary":"Malicious code in @guangnao/claude-cli (npm)","affected":[{"package":{"name":"@guangnao/claude-cli","ecosystem":"npm","purl":"pkg:npm/%40guangnao/claude-cli"},"versions":["1.0.5","1.0.12","1.0.13"]}]}

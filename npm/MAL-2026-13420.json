@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13420","published":"2026-08-06T13:56:57Z","modified":"2026-08-06T14:34:48.106823204Z","summary":"Malicious code in @innocarpe/deepseek-build (npm)","affected":[{"package":{"name":"@innocarpe/deepseek-build","ecosystem":"npm","purl":"pkg:npm/%40innocarpe/deepseek-build"},"versions":["1.0.0"]}]}

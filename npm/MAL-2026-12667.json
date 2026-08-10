@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12667","published":"2026-08-05T13:58:36Z","modified":"2026-08-05T14:36:16.163146071Z","summary":"Malicious code in csc-csc-core (npm)","affected":[{"package":{"name":"csc-csc-core","ecosystem":"npm","purl":"pkg:npm/csc-csc-core"},"versions":["35.8.6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13537","published":"2026-08-07T12:26:56Z","modified":"2026-08-07T13:20:20.218599333Z","summary":"Malicious code in ded-pwa-test-pub-pkg (npm)","affected":[{"package":{"name":"ded-pwa-test-pub-pkg","ecosystem":"npm","purl":"pkg:npm/ded-pwa-test-pub-pkg"},"versions":["35.8.4"]}]}

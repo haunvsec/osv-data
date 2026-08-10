@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13627","published":"2026-08-07T18:02:58Z","modified":"2026-08-07T18:35:11.534492286Z","summary":"Malicious code in @nestjs-passport/jwt (npm)","affected":[{"package":{"name":"@nestjs-passport/jwt","ecosystem":"npm","purl":"pkg:npm/%40nestjs-passport/jwt"},"versions":["1.0.7","1.0.4"]}]}

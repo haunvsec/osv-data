@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12484","published":"2026-08-05T13:08:20Z","modified":"2026-08-05T13:36:19.698388554Z","summary":"Malicious code in trailserver (npm)","affected":[{"package":{"name":"trailserver","ecosystem":"npm","purl":"pkg:npm/trailserver"},"versions":["1.0.5"]}]}

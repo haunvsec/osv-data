@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11489","published":"2026-08-01T03:43:29Z","modified":"2026-08-04T23:05:37.752591809Z","aliases":["GHSA-qx8w-r9j6-p4g5"],"summary":"Malicious code in test-dev-dispatch (npm)","affected":[{"package":{"name":"test-dev-dispatch","ecosystem":"npm","purl":"pkg:npm/test-dev-dispatch"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

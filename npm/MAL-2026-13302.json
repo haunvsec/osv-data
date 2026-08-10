@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13302","published":"2026-08-05T15:25:22Z","modified":"2026-08-05T16:50:42.354495618Z","summary":"Malicious code in dolyame-boxy-desktop-bnpl-card-panel (npm)","affected":[{"package":{"name":"dolyame-boxy-desktop-bnpl-card-panel","ecosystem":"npm","purl":"pkg:npm/dolyame-boxy-desktop-bnpl-card-panel"},"versions":["35.6.3"]}]}

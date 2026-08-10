@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12701","published":"2026-08-05T13:51:00Z","modified":"2026-08-05T14:36:31.548398237Z","summary":"Malicious code in devplatform-cli-plugin-generator (npm)","affected":[{"package":{"name":"devplatform-cli-plugin-generator","ecosystem":"npm","purl":"pkg:npm/devplatform-cli-plugin-generator"},"versions":["35.3.5"]}]}

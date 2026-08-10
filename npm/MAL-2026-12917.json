@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12917","published":"2026-08-05T14:52:32Z","modified":"2026-08-05T15:50:57.231343228Z","summary":"Malicious code in bnpl-blocks-desktop-bnpl-card-panel (npm)","affected":[{"package":{"name":"bnpl-blocks-desktop-bnpl-card-panel","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-desktop-bnpl-card-panel"},"versions":["35.9.2"]}]}

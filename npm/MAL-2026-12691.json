@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12691","published":"2026-08-05T13:53:00Z","modified":"2026-08-05T14:36:27.463257995Z","summary":"Malicious code in devplatform-api-clients (npm)","affected":[{"package":{"name":"devplatform-api-clients","ecosystem":"npm","purl":"pkg:npm/devplatform-api-clients"},"versions":["35.6.8"]}]}

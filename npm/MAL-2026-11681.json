@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11681","published":"2026-08-04T13:20:29Z","modified":"2026-08-05T08:50:41.239669649Z","aliases":["GHSA-xjqj-g5f4-pf5q"],"summary":"Malicious code in @or-sdk/ccp (npm)","affected":[{"package":{"name":"@or-sdk/ccp","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/ccp"},"versions":["10.15.4","10.15.5","10.15.6"]}]}

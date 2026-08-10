@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11127","published":"2026-07-28T13:29:39Z","modified":"2026-07-28T14:37:19.528150255Z","summary":"Malicious code in app-sima-layer (npm)","affected":[{"package":{"name":"app-sima-layer","ecosystem":"npm","purl":"pkg:npm/app-sima-layer"},"versions":["2.1.6"]}]}

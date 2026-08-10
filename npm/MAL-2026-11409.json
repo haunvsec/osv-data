@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11409","published":"2026-07-30T22:40:12Z","modified":"2026-07-31T01:39:26.748670097Z","aliases":["GHSA-jwr5-mf48-j5vg"],"summary":"Malicious code in wastu (npm)","affected":[{"package":{"name":"wastu","ecosystem":"npm","purl":"pkg:npm/wastu"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

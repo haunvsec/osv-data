@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11193","published":"2026-07-30T06:10:14Z","modified":"2026-08-05T06:36:18.198818538Z","aliases":["GHSA-vxgg-x9mm-892p"],"summary":"Malicious code in litespeed-cache (npm)","affected":[{"package":{"name":"litespeed-cache","ecosystem":"npm","purl":"pkg:npm/litespeed-cache"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

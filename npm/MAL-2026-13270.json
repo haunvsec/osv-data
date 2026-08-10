@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13270","published":"2026-08-05T15:29:33Z","modified":"2026-08-05T16:50:26.301579356Z","summary":"Malicious code in devplatform-ui-notification (npm)","affected":[{"package":{"name":"devplatform-ui-notification","ecosystem":"npm","purl":"pkg:npm/devplatform-ui-notification"},"versions":["35.3.6"]}]}

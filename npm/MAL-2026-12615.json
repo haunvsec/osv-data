@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12615","published":"2026-08-05T14:05:36Z","modified":"2026-08-05T14:35:50.877932570Z","summary":"Malicious code in claims-fixtures-shared (npm)","affected":[{"package":{"name":"claims-fixtures-shared","ecosystem":"npm","purl":"pkg:npm/claims-fixtures-shared"},"versions":["35.8.6"]}]}

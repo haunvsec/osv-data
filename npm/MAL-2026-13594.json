@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13594","published":"2026-08-07T12:29:55Z","modified":"2026-08-07T13:20:52.680149919Z","summary":"Malicious code in dolyame-ui-postcssconfig (npm)","affected":[{"package":{"name":"dolyame-ui-postcssconfig","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-postcssconfig"},"versions":["35.8.1"]}]}

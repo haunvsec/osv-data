@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12619","published":"2026-08-05T14:05:09Z","modified":"2026-08-05T14:35:52.362684177Z","summary":"Malicious code in claims-get-base-url (npm)","affected":[{"package":{"name":"claims-get-base-url","ecosystem":"npm","purl":"pkg:npm/claims-get-base-url"},"versions":["35.4.5"]}]}

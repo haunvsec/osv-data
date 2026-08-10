@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11687","published":"2026-08-04T13:26:45Z","modified":"2026-08-05T08:50:43.696608386Z","aliases":["GHSA-9cwc-pwgf-r82h"],"summary":"Malicious code in @or-sdk/deployer (npm)","affected":[{"package":{"name":"@or-sdk/deployer","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/deployer"},"versions":["1.7.5","1.7.6","1.7.7"]}]}

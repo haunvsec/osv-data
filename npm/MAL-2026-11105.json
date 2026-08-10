@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11105","published":"2026-07-27T16:15:19Z","modified":"2026-08-05T06:36:43.493227641Z","aliases":["GHSA-7v73-c7c7-mr5x"],"summary":"Malicious code in xo-twofa (npm)","affected":[{"package":{"name":"xo-twofa","ecosystem":"npm","purl":"pkg:npm/xo-twofa"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

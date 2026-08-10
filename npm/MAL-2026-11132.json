@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11132","published":"2026-07-28T13:41:20Z","modified":"2026-07-28T14:36:51.895077231Z","summary":"Malicious code in bianira-ui (npm)","affected":[{"package":{"name":"bianira-ui","ecosystem":"npm","purl":"pkg:npm/bianira-ui"},"versions":["1.27.0"]}]}

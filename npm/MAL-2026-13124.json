@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13124","published":"2026-08-05T15:17:21Z","modified":"2026-08-05T15:52:34.806611670Z","summary":"Malicious code in ded-aa-liza-ded-aa-liza-core (npm)","affected":[{"package":{"name":"ded-aa-liza-ded-aa-liza-core","ecosystem":"npm","purl":"pkg:npm/ded-aa-liza-ded-aa-liza-core"},"versions":["35.2.5"]}]}

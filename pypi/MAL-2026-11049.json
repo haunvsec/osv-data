@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2026-11049","published":"2026-07-24T14:10:00Z","modified":"2026-07-24T15:18:23.688416924Z","summary":"Malicious code in mrmustard (PyPI)","affected":[{"package":{"name":"mrmustard","ecosystem":"PyPI","purl":"pkg:pypi/mrmustard"},"versions":["0.7.4"]}]}
+{"schema_version":"1.7.5","id":"MAL-2026-11049","published":"2026-07-24T14:10:00Z","modified":"2026-07-28T14:37:30.343444252Z","summary":"Malicious code in mrmustard (PyPI)","affected":[{"package":{"name":"mrmustard","ecosystem":"PyPI","purl":"pkg:pypi/mrmustard"},"versions":["0.7.4"]}]}

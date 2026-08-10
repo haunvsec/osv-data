@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12357","published":"2026-08-05T12:57:59Z","modified":"2026-08-05T13:35:15.164057646Z","summary":"Malicious code in cors-security (npm)","affected":[{"package":{"name":"cors-security","ecosystem":"npm","purl":"pkg:npm/cors-security"},"versions":["1.0.1"]}]}

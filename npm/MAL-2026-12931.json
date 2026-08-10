@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12931","published":"2026-08-05T14:49:10Z","modified":"2026-08-05T15:51:03.486069397Z","summary":"Malicious code in bnpl-blocks-desktop-bnpl-link-group (npm)","affected":[{"package":{"name":"bnpl-blocks-desktop-bnpl-link-group","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-desktop-bnpl-link-group"},"versions":["35.4.1"]}]}

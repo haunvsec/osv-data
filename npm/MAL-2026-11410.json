@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11410","published":"2026-07-30T21:25:58Z","modified":"2026-07-31T01:39:27.433868692Z","aliases":["GHSA-h3g7-ph94-2mmv"],"summary":"Malicious code in wistia_namespace (npm)","affected":[{"package":{"name":"wistia_namespace","ecosystem":"npm","purl":"pkg:npm/wistia_namespace"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

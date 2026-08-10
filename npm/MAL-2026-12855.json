@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12855","published":"2026-08-05T15:00:04Z","modified":"2026-08-05T15:50:19.583671656Z","summary":"Malicious code in bigops-watchdog-angular (npm)","affected":[{"package":{"name":"bigops-watchdog-angular","ecosystem":"npm","purl":"pkg:npm/bigops-watchdog-angular"},"versions":["35.4.8"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13147","published":"2026-08-05T15:16:34Z","modified":"2026-08-05T15:52:45.755031282Z","summary":"Malicious code in dolyame-ui-colors (npm)","affected":[{"package":{"name":"dolyame-ui-colors","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-colors"},"versions":["35.8.9"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13442","published":"2026-08-06T16:16:52Z","modified":"2026-08-06T23:50:08.921580563Z","summary":"Malicious code in content-common (npm)","affected":[{"package":{"name":"content-common","ecosystem":"npm","purl":"pkg:npm/content-common"},"versions":["99.9.9"]}]}

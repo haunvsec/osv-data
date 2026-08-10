@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13600","published":"2026-08-07T12:26:27Z","modified":"2026-08-07T13:20:55.887605392Z","summary":"Malicious code in dolyame-ui-tableinline (npm)","affected":[{"package":{"name":"dolyame-ui-tableinline","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-tableinline"},"versions":["35.8.1"]}]}

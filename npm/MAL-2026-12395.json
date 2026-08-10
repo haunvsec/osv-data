@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12395","published":"2026-08-05T13:05:29Z","modified":"2026-08-05T13:35:34.265435241Z","summary":"Malicious code in jquery.ui.tabs (npm)","affected":[{"package":{"name":"jquery.ui.tabs","ecosystem":"npm","purl":"pkg:npm/jquery.ui.tabs"},"versions":["9999.0.0"]}]}

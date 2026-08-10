@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11987","published":"2026-08-04T13:18:12Z","modified":"2026-08-05T07:21:27.178950505Z","aliases":["GHSA-hr73-rrjg-2v2g"],"summary":"Malicious code in sn-listbox (npm)","affected":[{"package":{"name":"sn-listbox","ecosystem":"npm","purl":"pkg:npm/sn-listbox"},"versions":["0.3.3"]}]}

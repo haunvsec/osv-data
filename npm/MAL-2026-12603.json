@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12603","published":"2026-08-05T14:07:46Z","modified":"2026-08-05T14:35:44.718097795Z","summary":"Malicious code in checkout-use-toasts (npm)","affected":[{"package":{"name":"checkout-use-toasts","ecosystem":"npm","purl":"pkg:npm/checkout-use-toasts"},"versions":["35.3.6"]}]}

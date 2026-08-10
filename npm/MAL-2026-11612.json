@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11612","published":"2026-08-04T15:25:06Z","modified":"2026-08-05T08:50:12.028992434Z","aliases":["GHSA-q9rc-vjj7-8fjj"],"summary":"Malicious code in @onereach/or-pro (npm)","affected":[{"package":{"name":"@onereach/or-pro","ecosystem":"npm","purl":"pkg:npm/%40onereach/or-pro"},"versions":["1.13.1","1.13.2","1.13.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13226","published":"2026-08-05T15:37:50Z","modified":"2026-08-05T16:50:01.228945602Z","summary":"Malicious code in bigops-nitro-events-table (npm)","affected":[{"package":{"name":"bigops-nitro-events-table","ecosystem":"npm","purl":"pkg:npm/bigops-nitro-events-table"},"versions":["35.4.2"]}]}

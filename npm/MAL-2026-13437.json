@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13437","published":"2026-08-06T16:23:03Z","modified":"2026-08-06T23:50:04.993655270Z","summary":"Malicious code in aitable-workflow-server (npm)","affected":[{"package":{"name":"aitable-workflow-server","ecosystem":"npm","purl":"pkg:npm/aitable-workflow-server"},"versions":["9.9.9"]}]}

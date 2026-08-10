@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13078","published":"2026-08-05T14:25:44Z","modified":"2026-08-05T15:52:11.855057336Z","summary":"Malicious code in boxy-rspack-optimize-sharing-runtime (npm)","affected":[{"package":{"name":"boxy-rspack-optimize-sharing-runtime","ecosystem":"npm","purl":"pkg:npm/boxy-rspack-optimize-sharing-runtime"},"versions":["35.2.9"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13237","published":"2026-08-05T15:34:51Z","modified":"2026-08-05T16:50:06.456591769Z","summary":"Malicious code in bigops-products-accounts-and-cards (npm)","affected":[{"package":{"name":"bigops-products-accounts-and-cards","ecosystem":"npm","purl":"pkg:npm/bigops-products-accounts-and-cards"},"versions":["35.7.5"]}]}

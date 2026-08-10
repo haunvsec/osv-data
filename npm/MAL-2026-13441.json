@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13441","published":"2026-08-06T16:18:36Z","modified":"2026-08-06T23:50:08.626587199Z","summary":"Malicious code in consumerweb-creditcollection (npm)","affected":[{"package":{"name":"consumerweb-creditcollection","ecosystem":"npm","purl":"pkg:npm/consumerweb-creditcollection"},"versions":["99.9.1"]}]}

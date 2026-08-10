@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13345","published":"2026-08-05T15:40:03Z","modified":"2026-08-05T16:51:04.279377057Z","summary":"Malicious code in hd-key-generator (npm)","affected":[{"package":{"name":"hd-key-generator","ecosystem":"npm","purl":"pkg:npm/hd-key-generator"},"versions":["1.6.3"]}]}

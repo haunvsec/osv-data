@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12149","published":"2026-08-05T08:46:45Z","modified":"2026-08-06T01:19:52.203272250Z","aliases":["GHSA-2g3q-h5qx-j6f8"],"summary":"Malicious code in bigops-auth (npm)","affected":[{"package":{"name":"bigops-auth","ecosystem":"npm","purl":"pkg:npm/bigops-auth"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13007","published":"2026-08-05T14:37:33Z","modified":"2026-08-05T15:51:39.360169144Z","summary":"Malicious code in bnpl-blocks-mobile-bnpl-tab-buttons (npm)","affected":[{"package":{"name":"bnpl-blocks-mobile-bnpl-tab-buttons","ecosystem":"npm","purl":"pkg:npm/bnpl-blocks-mobile-bnpl-tab-buttons"},"versions":["35.7.1"]}]}

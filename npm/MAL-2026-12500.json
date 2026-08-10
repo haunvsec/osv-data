@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12500","published":"2026-08-05T12:25:15Z","modified":"2026-08-05T13:36:26.478949253Z","summary":"Malicious code in warp-drive-internal-tooling (npm)","affected":[{"package":{"name":"warp-drive-internal-tooling","ecosystem":"npm","purl":"pkg:npm/warp-drive-internal-tooling"},"versions":["99.9.9"]}]}

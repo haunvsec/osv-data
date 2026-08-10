@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13504","published":"2026-08-07T12:15:14Z","modified":"2026-08-07T12:35:11.508143462Z","summary":"Malicious code in dolyame-ui-attachfile (npm)","affected":[{"package":{"name":"dolyame-ui-attachfile","ecosystem":"npm","purl":"pkg:npm/dolyame-ui-attachfile"},"versions":["35.8.1"]}]}

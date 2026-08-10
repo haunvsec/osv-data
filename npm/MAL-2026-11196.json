@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11196","published":"2026-07-30T13:45:50Z","modified":"2026-08-06T23:50:03.608295822Z","summary":"Malicious code in @wbnr/design (npm)","affected":[{"package":{"name":"@wbnr/design","ecosystem":"npm","purl":"pkg:npm/%40wbnr/design"},"versions":["99.3.0","99.0.0","99.1.0","99.0.1"]}]}

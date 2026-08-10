@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13332","published":"2026-08-05T15:19:52Z","modified":"2026-08-05T16:50:56.851744490Z","summary":"Malicious code in dolyame-boxy-independent-bnpl-text-block (npm)","affected":[{"package":{"name":"dolyame-boxy-independent-bnpl-text-block","ecosystem":"npm","purl":"pkg:npm/dolyame-boxy-independent-bnpl-text-block"},"versions":["35.5.3"]}]}

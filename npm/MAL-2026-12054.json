@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12054","published":"2026-08-05T00:53:07Z","modified":"2026-08-05T01:49:57.824380458Z","summary":"Malicious code in uibabai (npm)","affected":[{"package":{"name":"uibabai","ecosystem":"npm","purl":"pkg:npm/uibabai"},"versions":["5.7.5"]}]}

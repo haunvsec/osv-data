@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12355","published":"2026-08-05T12:57:17Z","modified":"2026-08-05T13:35:13.898271180Z","summary":"Malicious code in com.db.dbk.ui-forms (npm)","affected":[{"package":{"name":"com.db.dbk.ui-forms","ecosystem":"npm","purl":"pkg:npm/com.db.dbk.ui-forms"},"versions":["99.0.0","99.0.1"]}]}

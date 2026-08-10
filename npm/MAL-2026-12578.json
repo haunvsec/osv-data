@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12578","published":"2026-08-05T14:09:55Z","modified":"2026-08-05T14:35:33.168009579Z","summary":"Malicious code in checkout-mobile-pay-widget (npm)","affected":[{"package":{"name":"checkout-mobile-pay-widget","ecosystem":"npm","purl":"pkg:npm/checkout-mobile-pay-widget"},"versions":["35.9.1"]}]}

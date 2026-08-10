@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12060","published":"2026-08-05T02:51:20Z","modified":"2026-08-05T03:20:46.360469398Z","summary":"Malicious code in beaver-ui-card-large (npm)","affected":[{"package":{"name":"beaver-ui-card-large","ecosystem":"npm","purl":"pkg:npm/beaver-ui-card-large"},"versions":["12.4.3","9.6.4","9.6.5","9.6.3","9.6.2"]}]}

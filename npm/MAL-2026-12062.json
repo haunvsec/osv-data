@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12062","published":"2026-08-05T01:46:56Z","modified":"2026-08-05T03:20:47.570301460Z","summary":"Malicious code in boardwalk-js-tests (npm)","affected":[{"package":{"name":"boardwalk-js-tests","ecosystem":"npm","purl":"pkg:npm/boardwalk-js-tests"},"versions":["1.1.1"]}]}

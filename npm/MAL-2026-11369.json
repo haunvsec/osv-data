@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11369","published":"2026-07-30T22:04:12Z","modified":"2026-07-31T01:39:02.251637964Z","aliases":["GHSA-m7jm-x84r-9652"],"summary":"Malicious code in react.jd (npm)","affected":[{"package":{"name":"react.jd","ecosystem":"npm","purl":"pkg:npm/react.jd"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

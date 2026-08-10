@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11953","published":"2026-08-04T18:00:00Z","modified":"2026-08-05T10:05:36.464813920Z","aliases":["GHSA-qrjp-2vx3-hwg4"],"summary":"Malicious code in @umacloud/cli-darwin-arm64 (npm)","affected":[{"package":{"name":"@umacloud/cli-darwin-arm64","ecosystem":"npm","purl":"pkg:npm/%40umacloud/cli-darwin-arm64"},"versions":["1.0.74"]}]}

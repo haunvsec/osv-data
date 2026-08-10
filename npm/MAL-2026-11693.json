@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11693","published":"2026-08-04T15:20:27Z","modified":"2026-08-05T08:50:46.199504184Z","aliases":["GHSA-26p8-9g72-xc5c"],"summary":"Malicious code in @or-sdk/files-sync-node (npm)","affected":[{"package":{"name":"@or-sdk/files-sync-node","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/files-sync-node"},"versions":["0.1.8","0.1.9","0.1.10"]}]}

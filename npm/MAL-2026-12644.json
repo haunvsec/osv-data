@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12644","published":"2026-08-05T14:01:45Z","modified":"2026-08-05T14:36:05.419698072Z","summary":"Malicious code in claims-to-iso-string-with-timezone (npm)","affected":[{"package":{"name":"claims-to-iso-string-with-timezone","ecosystem":"npm","purl":"pkg:npm/claims-to-iso-string-with-timezone"},"versions":["35.7.2"]}]}

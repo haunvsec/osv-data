@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12532","published":"2026-08-05T14:16:30Z","modified":"2026-08-05T14:35:03.267604735Z","summary":"Malicious code in cardsmobile-event-emitter (npm)","affected":[{"package":{"name":"cardsmobile-event-emitter","ecosystem":"npm","purl":"pkg:npm/cardsmobile-event-emitter"},"versions":["35.2.8"]}]}

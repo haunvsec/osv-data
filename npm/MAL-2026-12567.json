@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12567","published":"2026-08-05T14:11:53Z","modified":"2026-08-05T14:35:27.954984176Z","summary":"Malicious code in checkout-input-card-logic (npm)","affected":[{"package":{"name":"checkout-input-card-logic","ecosystem":"npm","purl":"pkg:npm/checkout-input-card-logic"},"versions":["35.8.8"]}]}

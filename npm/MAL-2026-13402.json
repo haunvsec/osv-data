@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13402","published":"2026-08-06T12:24:26Z","modified":"2026-08-08T01:04:59.817676859Z","summary":"Malicious code in jagproject (npm)","affected":[{"package":{"name":"jagproject","ecosystem":"npm","purl":"pkg:npm/jagproject"},"versions":["28.1.0","28.3.0","28.2.0","28.7.0"]}]}

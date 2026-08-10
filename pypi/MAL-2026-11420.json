@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-11420","published":"2026-07-31T14:26:47Z","modified":"2026-07-31T15:32:31.516779090Z","summary":"Malicious code in walmart-genai-trace (PyPI)","affected":[{"package":{"name":"walmart-genai-trace","ecosystem":"PyPI","purl":"pkg:pypi/walmart-genai-trace"},"versions":["99.0.0"]}]}

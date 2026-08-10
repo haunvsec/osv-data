@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12483","published":"2026-08-05T12:38:24Z","modified":"2026-08-05T13:36:19.748405504Z","summary":"Malicious code in tracker-radar-detector (npm)","affected":[{"package":{"name":"tracker-radar-detector","ecosystem":"npm","purl":"pkg:npm/tracker-radar-detector"},"versions":["1.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12482","published":"2026-08-05T13:02:45Z","modified":"2026-08-05T13:36:18.661850920Z","summary":"Malicious code in tool-registry-scripts (npm)","affected":[{"package":{"name":"tool-registry-scripts","ecosystem":"npm","purl":"pkg:npm/tool-registry-scripts"},"versions":["1.0.0"]}]}

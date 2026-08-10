@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-11700","published":"2026-08-04T15:21:49Z","modified":"2026-08-05T08:50:49.196477811Z","aliases":["GHSA-44r6-2vxg-mr88"],"summary":"Malicious code in @or-sdk/idw-public (npm)","affected":[{"package":{"name":"@or-sdk/idw-public","ecosystem":"npm","purl":"pkg:npm/%40or-sdk/idw-public"},"versions":["1.6.6","1.6.7","1.6.8"]}]}

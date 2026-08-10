@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-12846","published":"2026-08-05T15:01:16Z","modified":"2026-08-05T15:50:14.797321773Z","summary":"Malicious code in bigops-timers (npm)","affected":[{"package":{"name":"bigops-timers","ecosystem":"npm","purl":"pkg:npm/bigops-timers"},"versions":["35.9.5"]}]}
