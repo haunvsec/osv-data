@@ -1,6 +1,6 @@
 {
-  "last_crawl_time": "2026-08-12T07:27:11Z",
-  "last_attempt_time": "2026-08-12T07:27:11Z",
+  "last_crawl_time": "2026-08-13T08:02:20Z",
+  "last_attempt_time": "2026-08-13T08:02:20Z",
   "source": "osv-vulnerabilities-gcs",
   "source_url": "https://storage.googleapis.com/osv-vulnerabilities",
   "method": "incremental",
@@ -11,78 +11,78 @@
     "redhat"
   ],
   "ecosystem_counts": {
-    "maven": 6905,
+    "maven": 6929,
     "npm": 226540,
-    "pypi": 24807,
-    "redhat": 21925
+    "pypi": 24858,
+    "redhat": 21994
   },
-  "total_vulnerabilities": 280177,
+  "total_vulnerabilities": 280321,
   "ecosystem_state": {
     "maven": {
-      "last_attempt_time": "2026-08-11T06:18:42Z",
+      "last_attempt_time": "2026-08-13T06:22:42Z",
       "last_method": "incremental",
-      "last_downloaded": 0,
+      "last_downloaded": 36,
       "last_skipped": 0,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-08-11T06:18:42Z",
-      "last_modified_time": "2026-08-09T02:56:50.425061157Z"
+      "last_successful_crawl_time": "2026-08-13T06:22:42Z",
+      "last_modified_time": "2026-08-12T21:26:55.479798303Z"
     },
     "npm": {
-      "last_attempt_time": "2026-08-12T07:27:11Z",
+      "last_attempt_time": "2026-08-13T06:31:03Z",
       "last_method": "incremental",
-      "last_downloaded": 125,
+      "last_downloaded": 0,
       "last_skipped": 0,
       "last_indexed": 0,
       "last_successful_crawl_time": "2026-08-12T07:27:11Z",
-      "last_modified_time": "2026-08-12T05:15:10.532177452Z"
+      "last_modified_time": "2026-08-12T05:15:10.532177452Z",
+      "last_error": "('Connection broken: IncompleteRead(3867088 bytes read, 4658741 more expected)', IncompleteRead(3867088 bytes read, 4658741 more expected))"
     },
     "pypi": {
-      "last_attempt_time": "2026-08-11T06:41:23Z",
+      "last_attempt_time": "2026-08-13T06:31:49Z",
       "last_method": "incremental",
-      "last_downloaded": 0,
-      "last_skipped": 0,
+      "last_downloaded": 115,
+      "last_skipped": 349,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-08-10T10:27:00Z",
-      "last_modified_time": "2026-07-24T22:48:40.716944342Z",
-      "last_error": "('Connection broken: IncompleteRead(549700 bytes read, 504472 more expected)', IncompleteRead(549700 bytes read, 504472 more expected))"
+      "last_successful_crawl_time": "2026-08-13T06:31:49Z",
+      "last_modified_time": "2026-08-13T00:45:03.143008856Z"
     },
     "redhat": {
-      "last_attempt_time": "2026-08-11T08:37:30Z",
+      "last_attempt_time": "2026-08-13T08:02:20Z",
       "last_method": "incremental",
-      "last_downloaded": 1227,
-      "last_skipped": 18346,
+      "last_downloaded": 2005,
+      "last_skipped": 17656,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-08-11T08:37:30Z",
+      "last_successful_crawl_time": "2026-08-13T08:02:20Z",
       "last_modified_time": "2026-06-08T10:29:21.513685508Z"
     }
   },
   "last_run": {
-    "started_at": "2026-08-12T07:21:47Z",
+    "started_at": "2026-08-13T06:31:50Z",
     "output_dir": "/Volumes/DATA/security_advisory/osv-data",
     "method": "incremental",
     "ecosystems": [
-      "npm"
+      "redhat"
     ],
     "ecosystem_results": [
       {
-        "ecosystem": "npm",
+        "ecosystem": "redhat",
         "method": "incremental",
-        "downloaded": 125,
-        "skipped": 0,
+        "downloaded": 2005,
+        "skipped": 17656,
         "indexed": 0,
         "existing": 0,
-        "latest_modified_time": "2026-08-12T05:15:10.532177452Z",
+        "latest_modified_time": null,
         "success": true
       }
     ],
-    "vulns_downloaded": 125,
-    "vulns_skipped": 0,
+    "vulns_downloaded": 2005,
+    "vulns_skipped": 17656,
     "errors": [],
     "dry_run": false,
     "limit": null,
     "sync_missing": false,
     "missing_only": false,
-    "finished_at": "2026-08-12T07:27:11Z",
-    "duration_seconds": 323.18
+    "finished_at": "2026-08-13T08:02:20Z",
+    "duration_seconds": 5430.36
   }
 }

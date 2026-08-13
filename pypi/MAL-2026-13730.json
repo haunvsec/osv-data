@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13730","published":"2026-08-11T09:48:35Z","modified":"2026-08-12T08:45:09.229560084Z","summary":"Malicious code in euler-sdk (PyPI)","affected":[{"package":{"name":"euler-sdk","ecosystem":"PyPI","purl":"pkg:pypi/euler-sdk"},"versions":["1.0.0"]}]}

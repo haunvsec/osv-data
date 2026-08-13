@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13731","published":"2026-08-11T09:48:32Z","modified":"2026-08-12T08:45:09.227082484Z","summary":"Malicious code in morpho-sdk (PyPI)","affected":[{"package":{"name":"morpho-sdk","ecosystem":"PyPI","purl":"pkg:pypi/morpho-sdk"},"versions":["1.0.0"]}]}

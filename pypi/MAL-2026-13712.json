@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13712","published":"2026-08-10T21:22:19Z","modified":"2026-08-11T12:30:11.247345761Z","summary":"Malicious code in bigtime (PyPI)","affected":[{"package":{"name":"bigtime","ecosystem":"PyPI","purl":"pkg:pypi/bigtime"},"versions":["0.1.0"]}]}
