@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13767","published":"2026-08-11T16:43:32Z","modified":"2026-08-12T00:30:13.053491079Z","aliases":["GHSA-2wqc-3243-4hxm"],"summary":"Malicious code in sui-bcs-codec (npm)","affected":[{"package":{"name":"sui-bcs-codec","ecosystem":"npm","purl":"pkg:npm/sui-bcs-codec"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13771","published":"2026-08-11T00:00:00Z","modified":"2026-08-12T05:15:10.474084461Z","summary":"Malicious code in boring-vault (npm)","affected":[{"package":{"name":"boring-vault","ecosystem":"npm","purl":"pkg:npm/boring-vault"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13760","published":"2026-08-11T16:40:08Z","modified":"2026-08-12T00:30:13.055770797Z","aliases":["GHSA-72pr-qcvq-fgpg"],"summary":"Malicious code in bs58-13 (npm)","affected":[{"package":{"name":"bs58-13","ecosystem":"npm","purl":"pkg:npm/bs58-13"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13687","published":"2026-08-10T11:50:11Z","modified":"2026-08-10T12:04:59.542473177Z","summary":"Malicious code in tokocrytodev (npm)","affected":[{"package":{"name":"tokocrytodev","ecosystem":"npm","purl":"pkg:npm/tokocrytodev"},"versions":["1.0.0"]}]}

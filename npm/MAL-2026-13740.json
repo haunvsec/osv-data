@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13740","published":"2026-08-11T15:13:59Z","modified":"2026-08-12T00:30:12.090424307Z","aliases":["GHSA-mj69-vr76-h2mq"],"summary":"Malicious code in kit-vim-map (npm)","affected":[{"package":{"name":"kit-vim-map","ecosystem":"npm","purl":"pkg:npm/kit-vim-map"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

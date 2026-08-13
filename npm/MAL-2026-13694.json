@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13694","published":"2026-08-10T11:53:57Z","modified":"2026-08-11T15:30:18.939176931Z","summary":"Malicious code in env-local (npm)","affected":[{"package":{"name":"env-local","ecosystem":"npm","purl":"pkg:npm/env-local"},"versions":["18.4.2","18.4.3"]}]}

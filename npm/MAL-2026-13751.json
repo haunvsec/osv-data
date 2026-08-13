@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13751","published":"2026-08-11T18:50:26Z","modified":"2026-08-11T19:00:11.517556714Z","summary":"Malicious code in bjm-low-code-components (npm)","affected":[{"package":{"name":"bjm-low-code-components","ecosystem":"npm","purl":"pkg:npm/bjm-low-code-components"},"versions":["99.0.0"]}]}

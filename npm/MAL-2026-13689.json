@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13689","published":"2026-08-10T11:55:51Z","modified":"2026-08-10T12:50:36.964938257Z","summary":"Malicious code in @noobaihome/amis-simple-area-widget (npm)","affected":[{"package":{"name":"@noobaihome/amis-simple-area-widget","ecosystem":"npm","purl":"pkg:npm/%40noobaihome/amis-simple-area-widget"},"versions":["1.0.0"]}]}

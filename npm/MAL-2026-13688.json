@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13688","published":"2026-08-10T12:24:28Z","modified":"2026-08-10T13:05:03.684125938Z","summary":"Malicious code in @kuperka/chainguard-sdk (npm)","affected":[{"package":{"name":"@kuperka/chainguard-sdk","ecosystem":"npm","purl":"pkg:npm/%40kuperka/chainguard-sdk"},"versions":["1.0.1","1.0.2"]}]}

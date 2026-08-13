@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13755","published":"2026-08-11T11:29:37Z","modified":"2026-08-12T00:30:13.567516976Z","aliases":["GHSA-g62q-mq3x-765x"],"summary":"Malicious code in ghazaly (npm)","affected":[{"package":{"name":"ghazaly","ecosystem":"npm","purl":"pkg:npm/ghazaly"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

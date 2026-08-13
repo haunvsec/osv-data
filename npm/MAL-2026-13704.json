@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13704","published":"2026-08-10T12:29:01Z","modified":"2026-08-10T13:04:59.898749150Z","summary":"Malicious code in chai-tracker (npm)","affected":[{"package":{"name":"chai-tracker","ecosystem":"npm","purl":"pkg:npm/chai-tracker"},"versions":["1.2.1","1.1.0","1.1.1","1.1.2","1.1.3"]}]}

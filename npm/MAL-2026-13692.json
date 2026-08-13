@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13692","published":"2026-08-10T11:56:07Z","modified":"2026-08-10T12:50:26.528501780Z","summary":"Malicious code in chai-jsonss (npm)","affected":[{"package":{"name":"chai-jsonss","ecosystem":"npm","purl":"pkg:npm/chai-jsonss"},"versions":["3.7.7"]}]}

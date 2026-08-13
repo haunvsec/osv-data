@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13693","published":"2026-08-10T11:54:05Z","modified":"2026-08-10T12:50:26.519419442Z","summary":"Malicious code in cryptostock (npm)","affected":[{"package":{"name":"cryptostock","ecosystem":"npm","purl":"pkg:npm/cryptostock"},"versions":["1.0.1","1.0.0"]}]}

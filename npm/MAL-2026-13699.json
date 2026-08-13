@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13699","published":"2026-08-10T12:29:53Z","modified":"2026-08-10T13:05:03.204070187Z","summary":"Malicious code in chai-as-bench (npm)","affected":[{"package":{"name":"chai-as-bench","ecosystem":"npm","purl":"pkg:npm/chai-as-bench"},"versions":["7.0.3"]}]}

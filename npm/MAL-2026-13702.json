@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13702","published":"2026-08-10T12:29:46Z","modified":"2026-08-10T13:04:59.009183836Z","summary":"Malicious code in chai-as-map (npm)","affected":[{"package":{"name":"chai-as-map","ecosystem":"npm","purl":"pkg:npm/chai-as-map"},"versions":["2.3.5"]}]}

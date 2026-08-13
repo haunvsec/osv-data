@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13773","published":"2026-08-11T00:00:00Z","modified":"2026-08-12T05:15:10.484655319Z","summary":"Malicious code in camelot-ammv2-periphery (npm)","affected":[{"package":{"name":"camelot-ammv2-periphery","ecosystem":"npm","purl":"pkg:npm/camelot-ammv2-periphery"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

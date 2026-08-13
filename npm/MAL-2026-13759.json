@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13759","published":"2026-08-11T16:40:07Z","modified":"2026-08-12T00:30:13.562481050Z","aliases":["GHSA-x9c8-g63x-mh7q"],"summary":"Malicious code in bs58-12 (npm)","affected":[{"package":{"name":"bs58-12","ecosystem":"npm","purl":"pkg:npm/bs58-12"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

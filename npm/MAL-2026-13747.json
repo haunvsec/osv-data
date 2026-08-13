@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13747","published":"2026-08-11T16:40:07Z","modified":"2026-08-12T00:30:12.132386958Z","aliases":["GHSA-fp83-xcpx-v3qm"],"summary":"Malicious code in base65-13x (npm)","affected":[{"package":{"name":"base65-13x","ecosystem":"npm","purl":"pkg:npm/base65-13x"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13703","published":"2026-08-10T12:31:42Z","modified":"2026-08-10T13:04:59.853944668Z","summary":"Malicious code in chai-as-promised-plus (npm)","affected":[{"package":{"name":"chai-as-promised-plus","ecosystem":"npm","purl":"pkg:npm/chai-as-promised-plus"},"versions":["6.1.3"]}]}

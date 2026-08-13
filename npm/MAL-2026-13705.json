@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13705","published":"2026-08-10T12:25:20Z","modified":"2026-08-11T00:50:16.048646979Z","aliases":["GHSA-mvp5-cv38-rqfj"],"summary":"Malicious code in iconova-react (npm)","affected":[{"package":{"name":"iconova-react","ecosystem":"npm","purl":"pkg:npm/iconova-react"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

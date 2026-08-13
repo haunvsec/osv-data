@@ -1,0 +1,1 @@
+{"schema_version":"1.8.0","id":"MAL-2026-13706","published":"2026-08-10T12:32:39Z","modified":"2026-08-10T13:05:01.606227731Z","summary":"Malicious code in neverthrow-js (npm)","affected":[{"package":{"name":"neverthrow-js","ecosystem":"npm","purl":"pkg:npm/neverthrow-js"},"versions":["2.0.0"]}]}

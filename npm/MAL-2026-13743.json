@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13743","published":"2026-08-11T17:24:09Z","modified":"2026-08-11T18:00:11.569845999Z","summary":"Malicious code in whs4_ued (npm)","affected":[{"package":{"name":"whs4_ued","ecosystem":"npm","purl":"pkg:npm/whs4_ued"},"versions":["1.0.0"]}]}
