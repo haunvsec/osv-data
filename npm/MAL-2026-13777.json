@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13777","published":"2026-08-11T00:00:00Z","modified":"2026-08-12T13:00:20.622297049Z","summary":"Malicious code in upshift-finance (npm)","affected":[{"package":{"name":"upshift-finance","ecosystem":"npm","purl":"pkg:npm/upshift-finance"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

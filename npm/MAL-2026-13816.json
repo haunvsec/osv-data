@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13816","published":"2026-08-12T10:29:53Z","modified":"2026-08-12T13:00:14.561010792Z","aliases":["GHSA-6gwr-m2g4-3mfv"],"summary":"Malicious code in hxckdoeaqjlc8 (npm)","affected":[{"package":{"name":"hxckdoeaqjlc8","ecosystem":"npm","purl":"pkg:npm/hxckdoeaqjlc8"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13971","published":"2026-08-13T21:06:40Z","modified":"2026-08-13T21:30:26.142457682Z","summary":"Malicious code in @hzero-front-ui/themes (npm)","affected":[{"package":{"name":"@hzero-front-ui/themes","ecosystem":"npm","purl":"pkg:npm/%40hzero-front-ui/themes"},"versions":["99.99.99"]}]}

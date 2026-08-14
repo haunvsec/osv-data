@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13846","published":"2026-08-12T10:29:52Z","modified":"2026-08-12T13:00:25.089949475Z","aliases":["GHSA-f3hv-h6vj-6j6r"],"summary":"Malicious code in yangming8 (npm)","affected":[{"package":{"name":"yangming8","ecosystem":"npm","purl":"pkg:npm/yangming8"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

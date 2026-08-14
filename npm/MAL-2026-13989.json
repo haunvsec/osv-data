@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13989","published":"2026-08-13T21:23:10Z","modified":"2026-08-13T22:00:13.225198899Z","summary":"Malicious code in @secauditb20y/sec-test-r3b (npm)","affected":[{"package":{"name":"@secauditb20y/sec-test-r3b","ecosystem":"npm","purl":"pkg:npm/%40secauditb20y/sec-test-r3b"},"versions":["1.0.0"]}]}

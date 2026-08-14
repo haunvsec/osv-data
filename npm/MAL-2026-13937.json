@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13937","published":"2026-08-13T17:17:39Z","modified":"2026-08-13T17:30:11.235807173Z","summary":"Malicious code in @ethers-js/contracts (npm)","affected":[{"package":{"name":"@ethers-js/contracts","ecosystem":"npm","purl":"pkg:npm/%40ethers-js/contracts"},"versions":["6.9.0"]}]}

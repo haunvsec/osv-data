@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13794","published":"2026-08-12T10:29:53Z","modified":"2026-08-12T13:00:15.938353201Z","aliases":["GHSA-j89c-cv6h-xxq6"],"summary":"Malicious code in clxofwfjskaz7 (npm)","affected":[{"package":{"name":"clxofwfjskaz7","ecosystem":"npm","purl":"pkg:npm/clxofwfjskaz7"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

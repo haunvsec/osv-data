@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13960","published":"2026-08-13T17:17:45Z","modified":"2026-08-13T17:30:13.434090756Z","summary":"Malicious code in process-live-log (npm)","affected":[{"package":{"name":"process-live-log","ecosystem":"npm","purl":"pkg:npm/process-live-log"},"versions":["11.5.2"]}]}

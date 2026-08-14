@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13802","published":"2026-08-12T10:29:52Z","modified":"2026-08-12T13:00:22.146187284Z","aliases":["GHSA-f4wq-4wgj-f595"],"summary":"Malicious code in dhjksficgwu2 (npm)","affected":[{"package":{"name":"dhjksficgwu2","ecosystem":"npm","purl":"pkg:npm/dhjksficgwu2"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

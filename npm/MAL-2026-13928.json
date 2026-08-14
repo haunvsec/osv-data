@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13928","published":"2026-08-12T20:40:35Z","modified":"2026-08-12T21:45:11.832985733Z","aliases":["GHSA-933g-5588-v5hp"],"summary":"Malicious code in internallib_v756 (npm)","affected":[{"package":{"name":"internallib_v756","ecosystem":"npm","purl":"pkg:npm/internallib_v756"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14016","published":"2026-08-13T21:54:42Z","modified":"2026-08-13T22:30:12.558362478Z","summary":"Malicious code in preinstall-hook-webhook-callback-demo (npm)","affected":[{"package":{"name":"preinstall-hook-webhook-callback-demo","ecosystem":"npm","purl":"pkg:npm/preinstall-hook-webhook-callback-demo"},"versions":["1.0.1","1.0.0"]}]}

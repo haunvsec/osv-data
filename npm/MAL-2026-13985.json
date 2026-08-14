@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13985","published":"2026-08-13T21:11:35Z","modified":"2026-08-13T21:30:27.307521645Z","summary":"Malicious code in node-config-svg-contract (npm)","affected":[{"package":{"name":"node-config-svg-contract","ecosystem":"npm","purl":"pkg:npm/node-config-svg-contract"},"versions":["1.0.0"]}]}

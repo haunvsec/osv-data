@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13778","published":"2026-08-12T10:20:39Z","modified":"2026-08-12T13:00:22.130343727Z","aliases":["GHSA-jrmr-j9fg-c874"],"summary":"Malicious code in @bikli/bikli (npm)","affected":[{"package":{"name":"@bikli/bikli","ecosystem":"npm","purl":"pkg:npm/%40bikli/bikli"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

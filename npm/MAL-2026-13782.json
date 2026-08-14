@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13782","published":"2026-08-12T10:29:54Z","modified":"2026-08-12T12:30:18.003576328Z","aliases":["GHSA-6fpw-43qx-wxvf"],"summary":"Malicious code in airdzticket (npm)","affected":[{"package":{"name":"airdzticket","ecosystem":"npm","purl":"pkg:npm/airdzticket"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

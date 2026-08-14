@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13814","published":"2026-08-12T10:29:53Z","modified":"2026-08-12T13:00:17.505300695Z","aliases":["GHSA-q294-wj6j-h556"],"summary":"Malicious code in hlksdcixycvf (npm)","affected":[{"package":{"name":"hlksdcixycvf","ecosystem":"npm","purl":"pkg:npm/hlksdcixycvf"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13862","published":"2026-08-12T12:15:45Z","modified":"2026-08-12T12:30:15.049943668Z","summary":"Malicious code in @years18/n8n-nodes-utils-helper-r (npm)","affected":[{"package":{"name":"@years18/n8n-nodes-utils-helper-r","ecosystem":"npm","purl":"pkg:npm/%40years18/n8n-nodes-utils-helper-r"},"versions":["1.0.0"]}]}

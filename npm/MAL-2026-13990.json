@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13990","published":"2026-08-13T21:39:27Z","modified":"2026-08-13T22:00:14.118688303Z","summary":"Malicious code in wct-st (npm)","affected":[{"package":{"name":"wct-st","ecosystem":"npm","purl":"pkg:npm/wct-st"},"versions":["1.0.0"]}]}

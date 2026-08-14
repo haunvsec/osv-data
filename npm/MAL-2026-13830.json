@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13830","published":"2026-08-12T10:29:53Z","modified":"2026-08-12T13:00:23.634550525Z","aliases":["GHSA-x3fw-v5wg-g95j"],"summary":"Malicious code in nihzvdeowx5 (npm)","affected":[{"package":{"name":"nihzvdeowx5","ecosystem":"npm","purl":"pkg:npm/nihzvdeowx5"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

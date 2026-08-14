@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13951","published":"2026-08-13T17:21:06Z","modified":"2026-08-13T17:30:11.192474033Z","summary":"Malicious code in functions-framework-nodejs (npm)","affected":[{"package":{"name":"functions-framework-nodejs","ecosystem":"npm","purl":"pkg:npm/functions-framework-nodejs"},"versions":["1.0.0"]}]}

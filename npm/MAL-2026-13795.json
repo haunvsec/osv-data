@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13795","published":"2026-08-12T10:29:52Z","modified":"2026-08-12T13:00:14.547922769Z","aliases":["GHSA-5pjw-x44v-j286"],"summary":"Malicious code in csbcldfvivwfgd4 (npm)","affected":[{"package":{"name":"csbcldfvivwfgd4","ecosystem":"npm","purl":"pkg:npm/csbcldfvivwfgd4"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13924","published":"2026-08-12T16:00:39Z","modified":"2026-08-12T21:00:11.055727953Z","aliases":["GHSA-j9qq-rx28-vcjh"],"summary":"Malicious code in internallib_v392 (npm)","affected":[{"package":{"name":"internallib_v392","ecosystem":"npm","purl":"pkg:npm/internallib_v392"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

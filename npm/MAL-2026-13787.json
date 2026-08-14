@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13787","published":"2026-08-12T10:20:39Z","modified":"2026-08-12T13:00:21.985117291Z","aliases":["GHSA-f5c6-4rpr-wjhp"],"summary":"Malicious code in biklirouter (npm)","affected":[{"package":{"name":"biklirouter","ecosystem":"npm","purl":"pkg:npm/biklirouter"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

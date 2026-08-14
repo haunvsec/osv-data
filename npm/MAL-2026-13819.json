@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13819","published":"2026-08-12T10:31:25Z","modified":"2026-08-12T13:00:20.581691748Z","aliases":["GHSA-7mmm-hmf4-g8vm"],"summary":"Malicious code in kanyut (npm)","affected":[{"package":{"name":"kanyut","ecosystem":"npm","purl":"pkg:npm/kanyut"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

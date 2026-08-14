@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13921","published":"2026-08-12T15:36:36Z","modified":"2026-08-12T16:03:34.319067714Z","summary":"Malicious code in envpack-conf (npm)","affected":[{"package":{"name":"envpack-conf","ecosystem":"npm","purl":"pkg:npm/envpack-conf"},"versions":["1.0.1"]}]}

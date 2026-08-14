@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13880","published":"2026-08-12T12:39:48Z","modified":"2026-08-12T13:00:23.446740703Z","summary":"Malicious code in mcp-util-helpers (npm)","affected":[{"package":{"name":"mcp-util-helpers","ecosystem":"npm","purl":"pkg:npm/mcp-util-helpers"},"versions":["1.0.0"]}]}

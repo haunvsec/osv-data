@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13827","published":"2026-08-12T10:29:53Z","modified":"2026-08-12T13:00:24.755231558Z","aliases":["GHSA-5qfm-5r6q-m38q"],"summary":"Malicious code in mobicwkgjmx (npm)","affected":[{"package":{"name":"mobicwkgjmx","ecosystem":"npm","purl":"pkg:npm/mobicwkgjmx"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

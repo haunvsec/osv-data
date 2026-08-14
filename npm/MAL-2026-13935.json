@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13935","published":"2026-08-13T14:59:12Z","modified":"2026-08-13T15:30:14.620613857Z","summary":"Malicious code in datetime-fmt-xutil (npm)","affected":[{"package":{"name":"datetime-fmt-xutil","ecosystem":"npm","purl":"pkg:npm/datetime-fmt-xutil"},"versions":["1.0.0"]}]}

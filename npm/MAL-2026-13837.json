@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13837","published":"2026-08-12T10:29:53Z","modified":"2026-08-12T13:00:25.091659807Z","aliases":["GHSA-cw5f-jjc7-rhc7"],"summary":"Malicious code in unitel3 (npm)","affected":[{"package":{"name":"unitel3","ecosystem":"npm","purl":"pkg:npm/unitel3"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

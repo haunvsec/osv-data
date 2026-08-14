@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13786","published":"2026-08-12T10:20:39Z","modified":"2026-08-12T12:30:13.535078638Z","aliases":["GHSA-pcfp-4v4q-w735"],"summary":"Malicious code in biklimaster (npm)","affected":[{"package":{"name":"biklimaster","ecosystem":"npm","purl":"pkg:npm/biklimaster"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

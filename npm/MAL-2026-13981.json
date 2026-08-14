@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13981","published":"2026-08-13T21:07:38Z","modified":"2026-08-13T21:30:25.416643931Z","summary":"Malicious code in eslint-publish-release (npm)","affected":[{"package":{"name":"eslint-publish-release","ecosystem":"npm","purl":"pkg:npm/eslint-publish-release"},"versions":["99.9.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13791","published":"2026-08-12T10:29:51Z","modified":"2026-08-12T13:00:18.644873424Z","aliases":["GHSA-6gv6-cwww-6793"],"summary":"Malicious code in china_airlines (npm)","affected":[{"package":{"name":"china_airlines","ecosystem":"npm","purl":"pkg:npm/china_airlines"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

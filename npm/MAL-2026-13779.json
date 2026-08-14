@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13779","published":"2026-08-12T10:20:39Z","modified":"2026-08-12T13:00:22.151839700Z","aliases":["GHSA-cc5p-hf7h-rrjh"],"summary":"Malicious code in @bikli/cli (npm)","affected":[{"package":{"name":"@bikli/cli","ecosystem":"npm","purl":"pkg:npm/%40bikli/cli"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

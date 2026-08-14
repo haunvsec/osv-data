@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13801","published":"2026-08-12T10:29:52Z","modified":"2026-08-12T13:00:17.409282795Z","aliases":["GHSA-3pvf-8w6j-33xg"],"summary":"Malicious code in cxcbdjxcmncvfg2 (npm)","affected":[{"package":{"name":"cxcbdjxcmncvfg2","ecosystem":"npm","purl":"pkg:npm/cxcbdjxcmncvfg2"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

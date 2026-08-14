@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13835","published":"2026-08-12T10:29:53Z","modified":"2026-08-12T13:00:26.638378965Z","aliases":["GHSA-983w-pp54-2vhc"],"summary":"Malicious code in truecxikdsal (npm)","affected":[{"package":{"name":"truecxikdsal","ecosystem":"npm","purl":"pkg:npm/truecxikdsal"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

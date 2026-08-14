@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13811","published":"2026-08-12T10:29:53Z","modified":"2026-08-12T13:00:17.235772776Z","aliases":["GHSA-px7c-ghpp-h47q"],"summary":"Malicious code in hcfguyfrmblp (npm)","affected":[{"package":{"name":"hcfguyfrmblp","ecosystem":"npm","purl":"pkg:npm/hcfguyfrmblp"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

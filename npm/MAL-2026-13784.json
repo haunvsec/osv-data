@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13784","published":"2026-08-12T10:29:53Z","modified":"2026-08-12T13:00:18.850536443Z","aliases":["GHSA-p783-m8pp-74w8"],"summary":"Malicious code in bgncvhferucfds (npm)","affected":[{"package":{"name":"bgncvhferucfds","ecosystem":"npm","purl":"pkg:npm/bgncvhferucfds"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

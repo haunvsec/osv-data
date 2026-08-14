@@ -1,1 +1,1 @@
-{"schema_version":"1.8.0","id":"MAL-2026-11159","published":"2026-07-28T13:15:45Z","modified":"2026-08-04T23:05:39.639754091Z","summary":"Malicious code in toll_free (npm)","affected":[{"package":{"name":"toll_free","ecosystem":"npm","purl":"pkg:npm/toll_free"},"versions":["1.0.1"]}]}
+{"schema_version":"1.9.0","id":"MAL-2026-11159","published":"2026-07-28T13:15:45Z","modified":"2026-08-13T21:00:11.100205782Z","summary":"Malicious code in toll_free (npm)","affected":[{"package":{"name":"toll_free","ecosystem":"npm","purl":"pkg:npm/toll_free"},"versions":["1.0.1","1.0.2"]}]}

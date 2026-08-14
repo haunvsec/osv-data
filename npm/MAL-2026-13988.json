@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13988","published":"2026-08-13T20:55:55Z","modified":"2026-08-13T21:30:27.304780881Z","summary":"Malicious code in xrblocks-mcp (npm)","affected":[{"package":{"name":"xrblocks-mcp","ecosystem":"npm","purl":"pkg:npm/xrblocks-mcp"},"versions":["6.3.1"]}]}

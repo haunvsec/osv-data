@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13952","published":"2026-08-13T17:22:23Z","modified":"2026-08-13T17:30:14.042937428Z","summary":"Malicious code in global-intel (npm)","affected":[{"package":{"name":"global-intel","ecosystem":"npm","purl":"pkg:npm/global-intel"},"versions":["1.0.1"]}]}

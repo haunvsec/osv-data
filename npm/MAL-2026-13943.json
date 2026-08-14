@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13943","published":"2026-08-13T17:20:59Z","modified":"2026-08-13T17:30:12.629360363Z","summary":"Malicious code in cilm-ui-commons (npm)","affected":[{"package":{"name":"cilm-ui-commons","ecosystem":"npm","purl":"pkg:npm/cilm-ui-commons"},"versions":["1.1.0"]}]}

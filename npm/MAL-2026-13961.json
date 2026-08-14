@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13961","published":"2026-08-13T17:21:30Z","modified":"2026-08-13T17:30:12.631958318Z","summary":"Malicious code in velora-kit (npm)","affected":[{"package":{"name":"velora-kit","ecosystem":"npm","purl":"pkg:npm/velora-kit"},"versions":["12.0.2","12.1.2"]}]}

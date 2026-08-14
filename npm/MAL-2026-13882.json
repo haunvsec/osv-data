@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13882","published":"2026-08-12T14:02:43Z","modified":"2026-08-12T14:45:10.488090736Z","summary":"Malicious code in verify-cli (npm)","affected":[{"package":{"name":"verify-cli","ecosystem":"npm","purl":"pkg:npm/verify-cli"},"versions":["99.0.0"]}]}

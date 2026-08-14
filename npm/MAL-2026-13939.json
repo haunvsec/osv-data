@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13939","published":"2026-08-13T17:22:30Z","modified":"2026-08-13T17:30:12.529455647Z","summary":"Malicious code in @leonardo0902/vortex-kit (npm)","affected":[{"package":{"name":"@leonardo0902/vortex-kit","ecosystem":"npm","purl":"pkg:npm/%40leonardo0902/vortex-kit"},"versions":["12.0.2"]}]}

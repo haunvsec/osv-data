@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13808","published":"2026-08-12T10:29:53Z","modified":"2026-08-12T13:00:22.028896439Z","aliases":["GHSA-52gv-9g4f-9j62"],"summary":"Malicious code in fghvbmniwu (npm)","affected":[{"package":{"name":"fghvbmniwu","ecosystem":"npm","purl":"pkg:npm/fghvbmniwu"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

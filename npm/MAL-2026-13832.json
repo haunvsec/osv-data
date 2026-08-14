@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13832","published":"2026-08-12T10:29:54Z","modified":"2026-08-12T12:30:15.185236920Z","aliases":["GHSA-hqm8-hrc2-wr63"],"summary":"Malicious code in passport811 (npm)","affected":[{"package":{"name":"passport811","ecosystem":"npm","purl":"pkg:npm/passport811"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

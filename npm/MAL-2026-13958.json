@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13958","published":"2026-08-13T17:16:39Z","modified":"2026-08-13T17:30:13.435946787Z","summary":"Malicious code in power-assert-plus (npm)","affected":[{"package":{"name":"power-assert-plus","ecosystem":"npm","purl":"pkg:npm/power-assert-plus"},"versions":["1.2.2"]}]}

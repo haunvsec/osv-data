@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13815","published":"2026-08-12T10:29:51Z","modified":"2026-08-12T13:00:18.745606013Z","aliases":["GHSA-pvhh-8339-3m5j"],"summary":"Malicious code in hngfykuvgh4 (npm)","affected":[{"package":{"name":"hngfykuvgh4","ecosystem":"npm","purl":"pkg:npm/hngfykuvgh4"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

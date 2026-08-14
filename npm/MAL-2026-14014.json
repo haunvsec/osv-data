@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14014","published":"2026-08-13T16:20:24Z","modified":"2026-08-13T22:15:24.407176120Z","aliases":["GHSA-5wp3-7whm-64mv"],"summary":"Malicious code in try-lock-runner (npm)","affected":[{"package":{"name":"try-lock-runner","ecosystem":"npm","purl":"pkg:npm/try-lock-runner"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

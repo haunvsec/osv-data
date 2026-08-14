@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13941","published":"2026-08-13T17:22:49Z","modified":"2026-08-13T17:30:12.566505880Z","summary":"Malicious code in @solana-js/web3 (npm)","affected":[{"package":{"name":"@solana-js/web3","ecosystem":"npm","purl":"pkg:npm/%40solana-js/web3"},"versions":["1.91.3"]}]}

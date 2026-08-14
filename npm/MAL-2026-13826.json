@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13826","published":"2026-08-12T10:29:54Z","modified":"2026-08-12T13:00:20.588467065Z","aliases":["GHSA-gpmq-h9wr-wm89"],"summary":"Malicious code in mobicommn (npm)","affected":[{"package":{"name":"mobicommn","ecosystem":"npm","purl":"pkg:npm/mobicommn"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

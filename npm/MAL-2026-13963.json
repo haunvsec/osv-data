@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13963","published":"2026-08-13T17:22:13Z","modified":"2026-08-13T17:30:13.732759190Z","summary":"Malicious code in vexium-kit (npm)","affected":[{"package":{"name":"vexium-kit","ecosystem":"npm","purl":"pkg:npm/vexium-kit"},"versions":["10.0.2","2.0.2"]}]}

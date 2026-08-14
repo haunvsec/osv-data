@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13774","published":"2026-08-11T00:00:00Z","modified":"2026-08-12T13:00:17.252048219Z","summary":"Malicious code in augustdigital-sdk (npm)","affected":[{"package":{"name":"augustdigital-sdk","ecosystem":"npm","purl":"pkg:npm/augustdigital-sdk"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

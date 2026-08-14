@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13967","published":"2026-08-13T21:07:10Z","modified":"2026-08-13T21:30:25.456268583Z","summary":"Malicious code in @hzero-front-ui/c7n-ui (npm)","affected":[{"package":{"name":"@hzero-front-ui/c7n-ui","ecosystem":"npm","purl":"pkg:npm/%40hzero-front-ui/c7n-ui"},"versions":["99.99.99"]}]}

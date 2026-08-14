@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13796","published":"2026-08-12T10:29:53Z","modified":"2026-08-12T13:00:18.850358340Z","aliases":["GHSA-mgr2-2cf3-5j8q"],"summary":"Malicious code in cvbmxiowkwqla6 (npm)","affected":[{"package":{"name":"cvbmxiowkwqla6","ecosystem":"npm","purl":"pkg:npm/cvbmxiowkwqla6"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

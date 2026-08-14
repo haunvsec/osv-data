@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13790","published":"2026-08-12T10:29:52Z","modified":"2026-08-12T13:00:17.351248950Z","aliases":["GHSA-cp2x-vxp4-762f"],"summary":"Malicious code in bvdfhdfvnk3 (npm)","affected":[{"package":{"name":"bvdfhdfvnk3","ecosystem":"npm","purl":"pkg:npm/bvdfhdfvnk3"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

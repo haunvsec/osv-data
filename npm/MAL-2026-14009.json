@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14009","published":"2026-08-13T21:22:45Z","modified":"2026-08-13T22:15:26.019520107Z","aliases":["GHSA-57g4-vm3v-74xg"],"summary":"Malicious code in root-locator (npm)","affected":[{"package":{"name":"root-locator","ecosystem":"npm","purl":"pkg:npm/root-locator"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

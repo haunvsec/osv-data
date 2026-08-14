@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13792","published":"2026-08-12T10:29:52Z","modified":"2026-08-12T13:00:15.814047296Z","aliases":["GHSA-cgrq-g6cw-53vg"],"summary":"Malicious code in chmjdsidwlf5 (npm)","affected":[{"package":{"name":"chmjdsidwlf5","ecosystem":"npm","purl":"pkg:npm/chmjdsidwlf5"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

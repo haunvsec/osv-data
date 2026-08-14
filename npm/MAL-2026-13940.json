@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13940","published":"2026-08-13T17:17:31Z","modified":"2026-08-13T17:30:11.184856810Z","summary":"Malicious code in @opezneppelin/contracts (npm)","affected":[{"package":{"name":"@opezneppelin/contracts","ecosystem":"npm","purl":"pkg:npm/%40opezneppelin/contracts"},"versions":["5.0.2"]}]}

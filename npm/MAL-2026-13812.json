@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13812","published":"2026-08-12T10:29:52Z","modified":"2026-08-12T13:00:22.161224945Z","aliases":["GHSA-6px9-6xh2-4ggc"],"summary":"Malicious code in hfkcdyuwbdx1 (npm)","affected":[{"package":{"name":"hfkcdyuwbdx1","ecosystem":"npm","purl":"pkg:npm/hfkcdyuwbdx1"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

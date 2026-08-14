@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13833","published":"2026-08-12T10:29:53Z","modified":"2026-08-12T13:00:24.726563759Z","aliases":["GHSA-943h-xm4q-hpg6"],"summary":"Malicious code in prezdentkxheiw (npm)","affected":[{"package":{"name":"prezdentkxheiw","ecosystem":"npm","purl":"pkg:npm/prezdentkxheiw"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

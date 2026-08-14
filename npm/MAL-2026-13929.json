@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13929","published":"2026-08-10T22:30:00Z","modified":"2026-08-13T06:30:10.732864415Z","summary":"Malicious code in @dgxeon13/libsignal-node (npm)","affected":[{"package":{"name":"@dgxeon13/libsignal-node","ecosystem":"npm","purl":"pkg:npm/%40dgxeon13/libsignal-node"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13809","published":"2026-08-12T10:29:52Z","modified":"2026-08-12T13:00:18.747057257Z","aliases":["GHSA-35gq-2hpg-3r2v"],"summary":"Malicious code in fhj8cv9dkwm4 (npm)","affected":[{"package":{"name":"fhj8cv9dkwm4","ecosystem":"npm","purl":"pkg:npm/fhj8cv9dkwm4"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

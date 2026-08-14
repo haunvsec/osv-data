@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13813","published":"2026-08-12T10:29:51Z","modified":"2026-08-12T13:00:16.046393768Z","aliases":["GHSA-wvxr-9c7x-6r9g"],"summary":"Malicious code in hgdvfuflnb (npm)","affected":[{"package":{"name":"hgdvfuflnb","ecosystem":"npm","purl":"pkg:npm/hgdvfuflnb"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

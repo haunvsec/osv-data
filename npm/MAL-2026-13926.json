@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13926","published":"2026-08-12T17:15:20Z","modified":"2026-08-12T17:45:23.226329716Z","aliases":["GHSA-4958-mj82-77pj"],"summary":"Malicious code in sui-gql (npm)","affected":[{"package":{"name":"sui-gql","ecosystem":"npm","purl":"pkg:npm/sui-gql"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

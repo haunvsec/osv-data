@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13959","published":"2026-08-13T17:21:47Z","modified":"2026-08-13T17:30:13.480508427Z","summary":"Malicious code in prediction-trader (npm)","affected":[{"package":{"name":"prediction-trader","ecosystem":"npm","purl":"pkg:npm/prediction-trader"},"versions":["2.3.0"]}]}

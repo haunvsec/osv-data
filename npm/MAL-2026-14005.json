@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14005","published":"2026-08-13T21:21:47Z","modified":"2026-08-13T22:15:24.402173704Z","aliases":["GHSA-cgj7-7fj2-6r74"],"summary":"Malicious code in path-match-js (npm)","affected":[{"package":{"name":"path-match-js","ecosystem":"npm","purl":"pkg:npm/path-match-js"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

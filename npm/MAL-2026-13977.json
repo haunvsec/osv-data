@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13977","published":"2026-08-13T21:08:16Z","modified":"2026-08-13T21:30:24.131357311Z","summary":"Malicious code in cspell-esm (npm)","affected":[{"package":{"name":"cspell-esm","ecosystem":"npm","purl":"pkg:npm/cspell-esm"},"versions":["99.9.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13823","published":"2026-08-12T10:29:54Z","modified":"2026-08-12T13:00:20.585288109Z","aliases":["GHSA-58v9-wj62-vmh2"],"summary":"Malicious code in mnmobicom (npm)","affected":[{"package":{"name":"mnmobicom","ecosystem":"npm","purl":"pkg:npm/mnmobicom"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

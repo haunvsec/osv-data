@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13842","published":"2026-08-12T10:29:53Z","modified":"2026-08-12T13:00:25.059698161Z","aliases":["GHSA-hhjm-g3g8-qrpv"],"summary":"Malicious code in vlbhvgovbbhfab (npm)","affected":[{"package":{"name":"vlbhvgovbbhfab","ecosystem":"npm","purl":"pkg:npm/vlbhvgovbbhfab"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

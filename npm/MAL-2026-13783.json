@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13783","published":"2026-08-12T10:29:52Z","modified":"2026-08-12T13:00:18.780099032Z","aliases":["GHSA-7cv8-7v66-c3mh"],"summary":"Malicious code in bcnfjndwbkf2 (npm)","affected":[{"package":{"name":"bcnfjndwbkf2","ecosystem":"npm","purl":"pkg:npm/bcnfjndwbkf2"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

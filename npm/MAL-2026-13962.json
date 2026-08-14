@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13962","published":"2026-08-13T17:21:55Z","modified":"2026-08-13T17:30:13.477084700Z","summary":"Malicious code in ventra-kit (npm)","affected":[{"package":{"name":"ventra-kit","ecosystem":"npm","purl":"pkg:npm/ventra-kit"},"versions":["1.0.2"]}]}

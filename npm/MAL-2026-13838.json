@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13838","published":"2026-08-12T10:29:53Z","modified":"2026-08-12T13:00:20.520421991Z","aliases":["GHSA-hqxg-cjfw-pghj"],"summary":"Malicious code in unitel4 (npm)","affected":[{"package":{"name":"unitel4","ecosystem":"npm","purl":"pkg:npm/unitel4"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

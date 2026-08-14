@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13800","published":"2026-08-12T10:29:53Z","modified":"2026-08-12T13:00:22.157005700Z","aliases":["GHSA-9m4j-9m44-ff75"],"summary":"Malicious code in cvvkshuelwiu (npm)","affected":[{"package":{"name":"cvvkshuelwiu","ecosystem":"npm","purl":"pkg:npm/cvvkshuelwiu"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

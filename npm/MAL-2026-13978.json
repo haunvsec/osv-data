@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13978","published":"2026-08-13T21:09:09Z","modified":"2026-08-13T21:30:25.638238209Z","summary":"Malicious code in datefmt-util-helper (npm)","affected":[{"package":{"name":"datefmt-util-helper","ecosystem":"npm","purl":"pkg:npm/datefmt-util-helper"},"versions":["1.0.1","1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13828","published":"2026-08-12T10:29:52Z","modified":"2026-08-12T13:00:23.614296657Z","aliases":["GHSA-2fg7-gfq8-c24g"],"summary":"Malicious code in ms_aidc_com_tw (npm)","affected":[{"package":{"name":"ms_aidc_com_tw","ecosystem":"npm","purl":"pkg:npm/ms_aidc_com_tw"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

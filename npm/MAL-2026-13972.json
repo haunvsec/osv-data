@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13972","published":"2026-08-13T21:13:25Z","modified":"2026-08-13T21:30:24.631855458Z","summary":"Malicious code in @jacksher/install-exec-poc (npm)","affected":[{"package":{"name":"@jacksher/install-exec-poc","ecosystem":"npm","purl":"pkg:npm/%40jacksher/install-exec-poc"},"versions":["1.0.2","1.0.0"]}]}

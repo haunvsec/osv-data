@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13979","published":"2026-08-13T21:08:00Z","modified":"2026-08-13T21:30:27.299342454Z","summary":"Malicious code in eslint-generate-prerelease (npm)","affected":[{"package":{"name":"eslint-generate-prerelease","ecosystem":"npm","purl":"pkg:npm/eslint-generate-prerelease"},"versions":["99.9.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13834","published":"2026-08-12T10:29:52Z","modified":"2026-08-12T13:00:25.043752448Z","aliases":["GHSA-j7j3-pvfq-ph94"],"summary":"Malicious code in thundertiger (npm)","affected":[{"package":{"name":"thundertiger","ecosystem":"npm","purl":"pkg:npm/thundertiger"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

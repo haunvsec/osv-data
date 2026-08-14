@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13775","published":"2026-08-11T00:00:00Z","modified":"2026-08-12T12:30:13.591364570Z","summary":"Malicious code in permit2 (npm)","affected":[{"package":{"name":"permit2","ecosystem":"npm","purl":"pkg:npm/permit2"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

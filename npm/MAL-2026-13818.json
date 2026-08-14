@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13818","published":"2026-08-12T10:29:51Z","modified":"2026-08-12T13:00:16.055573232Z","aliases":["GHSA-j8ph-h5x5-m729"],"summary":"Malicious code in jkbnwsdf8 (npm)","affected":[{"package":{"name":"jkbnwsdf8","ecosystem":"npm","purl":"pkg:npm/jkbnwsdf8"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13944","published":"2026-08-13T17:20:53Z","modified":"2026-08-13T17:30:11.189254530Z","summary":"Malicious code in copytrade-core (npm)","affected":[{"package":{"name":"copytrade-core","ecosystem":"npm","purl":"pkg:npm/copytrade-core"},"versions":["2.3.0"]}]}

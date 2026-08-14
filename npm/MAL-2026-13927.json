@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13927","published":"2026-08-12T17:35:48Z","modified":"2026-08-12T17:45:25.413760517Z","aliases":["GHSA-mpgw-38v3-8q5v"],"summary":"Malicious code in svelte-kit-vim (npm)","affected":[{"package":{"name":"svelte-kit-vim","ecosystem":"npm","purl":"pkg:npm/svelte-kit-vim"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

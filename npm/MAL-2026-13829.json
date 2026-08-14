@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13829","published":"2026-08-12T10:29:52Z","modified":"2026-08-12T13:00:23.655910231Z","aliases":["GHSA-cjq3-7m75-5vf9"],"summary":"Malicious code in nhdxzthponv5 (npm)","affected":[{"package":{"name":"nhdxzthponv5","ecosystem":"npm","purl":"pkg:npm/nhdxzthponv5"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

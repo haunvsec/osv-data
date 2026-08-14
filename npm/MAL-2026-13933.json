@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13933","published":"2026-08-12T00:00:00Z","modified":"2026-08-13T07:15:11.579277027Z","summary":"Malicious code in cc-skills-helper (npm)","affected":[{"package":{"name":"cc-skills-helper","ecosystem":"npm","purl":"pkg:npm/cc-skills-helper"},"versions":["1.0.0","1.0.1","1.0.2","1.0.3","1.0.4","1.0.5","1.0.6"]}]}

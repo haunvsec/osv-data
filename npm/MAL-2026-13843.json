@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13843","published":"2026-08-12T10:29:53Z","modified":"2026-08-12T13:00:26.644135616Z","aliases":["GHSA-4wmq-62wf-6hcf"],"summary":"Malicious code in xcnvjfsiewlk9 (npm)","affected":[{"package":{"name":"xcnvjfsiewlk9","ecosystem":"npm","purl":"pkg:npm/xcnvjfsiewlk9"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

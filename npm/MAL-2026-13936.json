@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13936","published":"2026-08-13T14:59:51Z","modified":"2026-08-13T15:30:14.624124450Z","summary":"Malicious code in datetime-format-xutil (npm)","affected":[{"package":{"name":"datetime-format-xutil","ecosystem":"npm","purl":"pkg:npm/datetime-format-xutil"},"versions":["1.0.0"]}]}

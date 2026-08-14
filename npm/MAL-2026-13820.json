@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13820","published":"2026-08-12T10:29:53Z","modified":"2026-08-12T13:00:23.603553296Z","aliases":["GHSA-f4qx-qcrw-f6f5"],"summary":"Malicious code in khanbmnxls (npm)","affected":[{"package":{"name":"khanbmnxls","ecosystem":"npm","purl":"pkg:npm/khanbmnxls"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

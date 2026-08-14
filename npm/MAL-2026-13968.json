@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13968","published":"2026-08-13T21:07:19Z","modified":"2026-08-13T21:30:24.855103519Z","summary":"Malicious code in @hzero-front-ui/cfg (npm)","affected":[{"package":{"name":"@hzero-front-ui/cfg","ecosystem":"npm","purl":"pkg:npm/%40hzero-front-ui/cfg"},"versions":["99.99.99"]}]}

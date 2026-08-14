@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14015","published":"2026-08-13T15:48:03Z","modified":"2026-08-13T22:15:20.422572060Z","aliases":["GHSA-7q63-6v9w-j7mf"],"summary":"Malicious code in ts-enum-helper (npm)","affected":[{"package":{"name":"ts-enum-helper","ecosystem":"npm","purl":"pkg:npm/ts-enum-helper"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

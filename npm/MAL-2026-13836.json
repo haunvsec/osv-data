@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13836","published":"2026-08-12T10:29:54Z","modified":"2026-08-12T12:30:14.831349836Z","aliases":["GHSA-pw3v-jpfx-hh5w"],"summary":"Malicious code in twcvhjlksdmx (npm)","affected":[{"package":{"name":"twcvhjlksdmx","ecosystem":"npm","purl":"pkg:npm/twcvhjlksdmx"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

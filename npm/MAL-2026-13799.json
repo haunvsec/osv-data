@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13799","published":"2026-08-12T10:29:53Z","modified":"2026-08-12T13:00:17.509273755Z","aliases":["GHSA-cvfr-666p-q22g"],"summary":"Malicious code in cvmbxcjiasdg (npm)","affected":[{"package":{"name":"cvmbxcjiasdg","ecosystem":"npm","purl":"pkg:npm/cvmbxcjiasdg"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

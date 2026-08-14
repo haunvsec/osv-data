@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13803","published":"2026-08-12T10:29:54Z","modified":"2026-08-12T12:30:13.483406175Z","aliases":["GHSA-vfhv-rjx5-6c95"],"summary":"Malicious code in dzcvhfruwluwe (npm)","affected":[{"package":{"name":"dzcvhfruwluwe","ecosystem":"npm","purl":"pkg:npm/dzcvhfruwluwe"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

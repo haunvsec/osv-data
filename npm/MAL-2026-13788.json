@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13788","published":"2026-08-12T10:20:39Z","modified":"2026-08-12T12:30:14.941991942Z","aliases":["GHSA-3qxv-77j4-mg7c"],"summary":"Malicious code in bikliwrapper (npm)","affected":[{"package":{"name":"bikliwrapper","ecosystem":"npm","purl":"pkg:npm/bikliwrapper"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

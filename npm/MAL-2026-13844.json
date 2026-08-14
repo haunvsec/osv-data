@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13844","published":"2026-08-12T10:29:53Z","modified":"2026-08-12T13:00:25.055791889Z","aliases":["GHSA-6w4f-884x-xjcf"],"summary":"Malicious code in xhjckswqivb (npm)","affected":[{"package":{"name":"xhjckswqivb","ecosystem":"npm","purl":"pkg:npm/xhjckswqivb"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

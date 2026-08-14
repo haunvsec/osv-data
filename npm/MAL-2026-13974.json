@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13974","published":"2026-08-13T21:08:42Z","modified":"2026-08-13T21:30:24.166548237Z","summary":"Malicious code in @khaznatech/core (npm)","affected":[{"package":{"name":"@khaznatech/core","ecosystem":"npm","purl":"pkg:npm/%40khaznatech/core"},"versions":["99.0.0"]}]}

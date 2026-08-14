@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13949","published":"2026-08-13T17:22:41Z","modified":"2026-08-13T17:30:11.192132713Z","summary":"Malicious code in external-process-live-log (npm)","affected":[{"package":{"name":"external-process-live-log","ecosystem":"npm","purl":"pkg:npm/external-process-live-log"},"versions":["13.5.2"]}]}

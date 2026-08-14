@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13954","published":"2026-08-13T17:16:48Z","modified":"2026-08-13T17:30:12.626973492Z","summary":"Malicious code in minimalistic-assert-plus (npm)","affected":[{"package":{"name":"minimalistic-assert-plus","ecosystem":"npm","purl":"pkg:npm/minimalistic-assert-plus"},"versions":["1.1.7"]}]}

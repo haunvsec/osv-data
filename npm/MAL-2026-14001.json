@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14001","published":"2026-08-13T16:56:45Z","modified":"2026-08-13T22:15:24.402173567Z","aliases":["GHSA-h83v-q7wq-gvgf"],"summary":"Malicious code in finvu-hdfc-sdk (npm)","affected":[{"package":{"name":"finvu-hdfc-sdk","ecosystem":"npm","purl":"pkg:npm/finvu-hdfc-sdk"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

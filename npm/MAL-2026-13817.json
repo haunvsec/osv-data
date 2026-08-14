@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13817","published":"2026-08-12T10:29:52Z","modified":"2026-08-12T13:00:15.960400316Z","aliases":["GHSA-fm6c-v7f7-9q2g"],"summary":"Malicious code in jhkxcixudnvm1 (npm)","affected":[{"package":{"name":"jhkxcixudnvm1","ecosystem":"npm","purl":"pkg:npm/jhkxcixudnvm1"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

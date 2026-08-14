@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13841","published":"2026-08-12T10:29:53Z","modified":"2026-08-12T13:00:25.028046126Z","aliases":["GHSA-6m3r-x867-rw6g"],"summary":"Malicious code in vkldhcmieru6 (npm)","affected":[{"package":{"name":"vkldhcmieru6","ecosystem":"npm","purl":"pkg:npm/vkldhcmieru6"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

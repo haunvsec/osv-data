@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13946","published":"2026-08-13T17:16:06Z","modified":"2026-08-13T17:30:12.568946138Z","summary":"Malicious code in date-fmt-helper-xz (npm)","affected":[{"package":{"name":"date-fmt-helper-xz","ecosystem":"npm","purl":"pkg:npm/date-fmt-helper-xz"},"versions":["1.0.4"]}]}

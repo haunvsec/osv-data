@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13797","published":"2026-08-12T10:29:53Z","modified":"2026-08-12T13:00:16.072010980Z","aliases":["GHSA-x9wp-p3fp-f3rm"],"summary":"Malicious code in cvbniydplwe3 (npm)","affected":[{"package":{"name":"cvbniydplwe3","ecosystem":"npm","purl":"pkg:npm/cvbniydplwe3"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

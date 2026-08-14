@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13789","published":"2026-08-12T10:29:51Z","modified":"2026-08-12T13:00:14.581882752Z","aliases":["GHSA-wm4g-m94m-47vj"],"summary":"Malicious code in bmgki3g6fh3 (npm)","affected":[{"package":{"name":"bmgki3g6fh3","ecosystem":"npm","purl":"pkg:npm/bmgki3g6fh3"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

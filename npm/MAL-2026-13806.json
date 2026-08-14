@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13806","published":"2026-08-12T10:29:54Z","modified":"2026-08-12T12:30:12.151917422Z","aliases":["GHSA-h37q-gcmq-hv56"],"summary":"Malicious code in egypt0811 (npm)","affected":[{"package":{"name":"egypt0811","ecosystem":"npm","purl":"pkg:npm/egypt0811"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

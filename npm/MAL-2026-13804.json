@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13804","published":"2026-08-12T10:29:54Z","modified":"2026-08-12T12:30:18.002811578Z","aliases":["GHSA-cj4c-xm2v-8m5g"],"summary":"Malicious code in dzvchorehui2 (npm)","affected":[{"package":{"name":"dzvchorehui2","ecosystem":"npm","purl":"pkg:npm/dzvchorehui2"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

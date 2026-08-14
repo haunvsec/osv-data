@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-13824","published":"2026-08-12T10:29:54Z","modified":"2026-08-12T13:00:23.579784093Z","aliases":["GHSA-ghqw-mfq6-xh36"],"summary":"Malicious code in mnteckets (npm)","affected":[{"package":{"name":"mnteckets","ecosystem":"npm","purl":"pkg:npm/mnteckets"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}
