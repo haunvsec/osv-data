@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14019","published":"2026-08-14T06:50:50Z","modified":"2026-08-14T14:46:34.686835253Z","summary":"Malicious code in fr-ito-web-react (npm)","affected":[{"package":{"name":"fr-ito-web-react","ecosystem":"npm","purl":"pkg:npm/fr-ito-web-react"},"versions":["99.99.99"]}]}

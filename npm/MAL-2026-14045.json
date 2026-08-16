@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14045","published":"2026-08-14T19:03:57Z","modified":"2026-08-14T19:30:11.662343898Z","summary":"Malicious code in @ferudionz/webautomation (npm)","affected":[{"package":{"name":"@ferudionz/webautomation","ecosystem":"npm","purl":"pkg:npm/%40ferudionz/webautomation"},"versions":["1.0.0"]}]}

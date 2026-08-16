@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14054","published":"2026-08-15T14:35:33Z","modified":"2026-08-15T19:00:11.341020871Z","summary":"Malicious code in depcruise-fmt (npm)","affected":[{"package":{"name":"depcruise-fmt","ecosystem":"npm","purl":"pkg:npm/depcruise-fmt"},"versions":["99.9.1"]}]}

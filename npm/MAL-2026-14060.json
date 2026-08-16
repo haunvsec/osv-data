@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14060","published":"2026-08-15T15:57:38Z","modified":"2026-08-15T16:15:12.516455279Z","summary":"Malicious code in fastly-vcl-language-client (npm)","affected":[{"package":{"name":"fastly-vcl-language-client","ecosystem":"npm","purl":"pkg:npm/fastly-vcl-language-client"},"versions":["1.0.0"]}]}

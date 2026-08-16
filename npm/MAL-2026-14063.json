@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14063","published":"2026-08-15T15:57:00Z","modified":"2026-08-15T16:15:12.515877602Z","summary":"Malicious code in twilio-hackerone-poc-afe6937c (npm)","affected":[{"package":{"name":"twilio-hackerone-poc-afe6937c","ecosystem":"npm","purl":"pkg:npm/twilio-hackerone-poc-afe6937c"},"versions":["1.0.0","1.0.3","1.0.2","1.0.4","1.0.1"]}]}

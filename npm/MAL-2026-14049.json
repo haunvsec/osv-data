@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14049","published":"2026-08-14T20:04:39Z","modified":"2026-08-14T20:31:47.553409449Z","summary":"Malicious code in @mexc/shared-utils (npm)","affected":[{"package":{"name":"@mexc/shared-utils","ecosystem":"npm","purl":"pkg:npm/%40mexc/shared-utils"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14017","published":"2026-08-13T00:00:00Z","modified":"2026-08-14T15:00:52.558562004Z","summary":"Malicious code in bs58-33 (npm)","affected":[{"package":{"name":"bs58-33","ecosystem":"npm","purl":"pkg:npm/bs58-33"},"versions":["6.0.1"]}]}

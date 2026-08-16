@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14055","published":"2026-08-15T14:12:26Z","modified":"2026-08-15T16:15:12.516579646Z","summary":"Malicious code in harmony-app-toolkit (npm)","affected":[{"package":{"name":"harmony-app-toolkit","ecosystem":"npm","purl":"pkg:npm/harmony-app-toolkit"},"versions":["22.0.0","21.0.0"]}]}

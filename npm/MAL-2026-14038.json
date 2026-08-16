@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14038","published":"2026-08-14T14:10:32Z","modified":"2026-08-14T14:46:36.998975775Z","summary":"Malicious code in tailwind-toolkit (npm)","affected":[{"package":{"name":"tailwind-toolkit","ecosystem":"npm","purl":"pkg:npm/tailwind-toolkit"},"versions":["1.3.2"]}]}

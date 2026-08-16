@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14044","published":"2026-08-14T19:03:43Z","modified":"2026-08-14T19:30:11.670944825Z","summary":"Malicious code in @ferudionz/web_logger_js (npm)","affected":[{"package":{"name":"@ferudionz/web_logger_js","ecosystem":"npm","purl":"pkg:npm/%40ferudionz/web_logger_js"},"versions":["1.0.0"]}]}

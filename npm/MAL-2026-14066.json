@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14066","published":"2026-08-15T17:41:47Z","modified":"2026-08-15T18:15:11.001506964Z","summary":"Malicious code in akamaijs-sensorv1 (npm)","affected":[{"package":{"name":"akamaijs-sensorv1","ecosystem":"npm","purl":"pkg:npm/akamaijs-sensorv1"},"versions":["3.0.0"]}]}

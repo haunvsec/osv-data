@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14064","published":"2026-08-15T17:07:14Z","modified":"2026-08-15T17:15:11.458136206Z","summary":"Malicious code in @finaxis/common-js (npm)","affected":[{"package":{"name":"@finaxis/common-js","ecosystem":"npm","purl":"pkg:npm/%40finaxis/common-js"},"versions":["0.3.4"]}]}

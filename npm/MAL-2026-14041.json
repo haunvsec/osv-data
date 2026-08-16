@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14041","published":"2026-08-14T16:11:38Z","modified":"2026-08-14T16:30:15.489122345Z","summary":"Malicious code in @demopack/www (npm)","affected":[{"package":{"name":"@demopack/www","ecosystem":"npm","purl":"pkg:npm/%40demopack/www"},"versions":["0.0.12"]}]}

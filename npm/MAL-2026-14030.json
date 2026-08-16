@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14030","published":"2026-08-14T14:08:51Z","modified":"2026-08-14T14:46:35.798127154Z","summary":"Malicious code in bootstrap-custom-ui (npm)","affected":[{"package":{"name":"bootstrap-custom-ui","ecosystem":"npm","purl":"pkg:npm/bootstrap-custom-ui"},"versions":["5.7.2"]}]}

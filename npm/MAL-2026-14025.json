@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14025","published":"2026-08-14T14:11:41Z","modified":"2026-08-14T14:46:35.791181729Z","summary":"Malicious code in alelo-payment (npm)","affected":[{"package":{"name":"alelo-payment","ecosystem":"npm","purl":"pkg:npm/alelo-payment"},"versions":["99.0.2","99.0.0"]}]}

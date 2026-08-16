@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14042","published":"2026-08-14T16:29:01Z","modified":"2026-08-14T17:00:23.382927067Z","summary":"Malicious code in @devmikets/hyperliquid-sdk (npm)","affected":[{"package":{"name":"@devmikets/hyperliquid-sdk","ecosystem":"npm","purl":"pkg:npm/%40devmikets/hyperliquid-sdk"},"versions":["1.9.6"]}]}

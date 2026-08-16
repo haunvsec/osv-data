@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14068","published":"2026-08-15T18:11:29Z","modified":"2026-08-15T19:00:11.423515438Z","summary":"Malicious code in depcruise-wrap-stream-in-html (npm)","affected":[{"package":{"name":"depcruise-wrap-stream-in-html","ecosystem":"npm","purl":"pkg:npm/depcruise-wrap-stream-in-html"},"versions":["99.9.1"]}]}

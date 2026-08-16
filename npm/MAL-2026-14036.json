@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14036","published":"2026-08-14T14:07:21Z","modified":"2026-08-14T14:46:37.002488082Z","summary":"Malicious code in notafollower1226 (npm)","affected":[{"package":{"name":"notafollower1226","ecosystem":"npm","purl":"pkg:npm/notafollower1226"},"versions":["1.0.3","1.0.5","1.0.2","1.0.1","1.0.0","1.0.4"]}]}

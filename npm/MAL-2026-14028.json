@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14028","published":"2026-08-14T14:12:05Z","modified":"2026-08-14T14:46:35.794975695Z","summary":"Malicious code in alelo-utils (npm)","affected":[{"package":{"name":"alelo-utils","ecosystem":"npm","purl":"pkg:npm/alelo-utils"},"versions":["99.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14039","published":"2026-08-14T15:18:55Z","modified":"2026-08-14T15:32:21.976282980Z","summary":"Malicious code in @cdnshell/loader (npm)","affected":[{"package":{"name":"@cdnshell/loader","ecosystem":"npm","purl":"pkg:npm/%40cdnshell/loader"},"versions":["0.0.13","0.0.19","0.0.18","0.0.16","0.0.14","0.0.15","0.0.20"]}]}

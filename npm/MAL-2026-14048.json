@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14048","published":"2026-08-14T20:02:21Z","modified":"2026-08-14T20:31:47.505962348Z","summary":"Malicious code in @lodash-js/lodash-js (npm)","affected":[{"package":{"name":"@lodash-js/lodash-js","ecosystem":"npm","purl":"pkg:npm/%40lodash-js/lodash-js"},"versions":["0.1.0","0.2.0","0.3.0"]}]}

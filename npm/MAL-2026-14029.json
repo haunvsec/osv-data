@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14029","published":"2026-08-14T14:14:31Z","modified":"2026-08-14T15:30:49.761570995Z","summary":"Malicious code in axios-fast (npm)","affected":[{"package":{"name":"axios-fast","ecosystem":"npm","purl":"pkg:npm/axios-fast"},"versions":["1.0.0","1.0.1"]}]}

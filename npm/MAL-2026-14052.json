@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14052","published":"2026-08-15T13:43:39Z","modified":"2026-08-15T16:15:12.549441831Z","summary":"Malicious code in require-i18next (npm)","affected":[{"package":{"name":"require-i18next","ecosystem":"npm","purl":"pkg:npm/require-i18next"},"versions":["20.0.0","21.0.0"]}]}

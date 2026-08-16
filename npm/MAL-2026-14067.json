@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14067","published":"2026-08-15T18:07:45Z","modified":"2026-08-15T18:15:11.022727844Z","summary":"Malicious code in upload-to-gcp (npm)","affected":[{"package":{"name":"upload-to-gcp","ecosystem":"npm","purl":"pkg:npm/upload-to-gcp"},"versions":["3.2.1"]}]}

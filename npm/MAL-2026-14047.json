@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14047","published":"2026-08-14T19:42:12Z","modified":"2026-08-14T20:00:12.161229746Z","summary":"Malicious code in @guangnao/agent-proxy (npm)","affected":[{"package":{"name":"@guangnao/agent-proxy","ecosystem":"npm","purl":"pkg:npm/%40guangnao/agent-proxy"},"versions":["1.2.1","1.4.2","1.4.0"]}]}

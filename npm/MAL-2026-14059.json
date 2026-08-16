@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14059","published":"2026-08-15T15:44:10Z","modified":"2026-08-15T16:15:12.527528474Z","summary":"Malicious code in autbank-core (npm)","affected":[{"package":{"name":"autbank-core","ecosystem":"npm","purl":"pkg:npm/autbank-core"},"versions":["99.0.0","99.0.2"]}]}

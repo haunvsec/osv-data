@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14046","published":"2026-08-14T19:22:27Z","modified":"2026-08-14T19:30:11.664604036Z","summary":"Malicious code in @ghost_debugger/nanocache (npm)","affected":[{"package":{"name":"@ghost_debugger/nanocache","ecosystem":"npm","purl":"pkg:npm/%40ghost_debugger/nanocache"},"versions":["0.1.1"]}]}
