@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14088","published":"2026-08-14T10:39:15Z","modified":"2026-08-17T05:00:14.261596503Z","aliases":["GHSA-ph66-8fq6-fjpg"],"summary":"Malicious code in nolimitcity (npm)","affected":[{"package":{"name":"nolimitcity","ecosystem":"npm","purl":"pkg:npm/nolimitcity"},"versions":["1.0.0"]}]}

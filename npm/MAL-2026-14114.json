@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14114","published":"2026-08-17T11:41:36Z","modified":"2026-08-18T00:30:31.496483425Z","aliases":["GHSA-cpx6-fqq8-2xm5"],"summary":"Malicious code in userbotjs (npm)","affected":[{"package":{"name":"userbotjs","ecosystem":"npm","purl":"pkg:npm/userbotjs"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14090","published":"2026-08-14T10:57:23Z","modified":"2026-08-17T05:00:20.817904048Z","aliases":["GHSA-mmwr-73mc-579v"],"summary":"Malicious code in npm_pkg_1094 (npm)","affected":[{"package":{"name":"npm_pkg_1094","ecosystem":"npm","purl":"pkg:npm/npm_pkg_1094"},"versions":["1.0.7"]}]}

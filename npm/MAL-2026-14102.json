@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14102","published":"2026-08-17T10:10:28Z","modified":"2026-08-18T00:30:28.538691646Z","aliases":["GHSA-3rxm-r82c-h2f9"],"summary":"Malicious code in @siwatfa/yorn (npm)","affected":[{"package":{"name":"@siwatfa/yorn","ecosystem":"npm","purl":"pkg:npm/%40siwatfa/yorn"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14085","published":"2026-08-14T11:06:59Z","modified":"2026-08-17T05:00:15.664366035Z","aliases":["GHSA-fc8q-7g22-2mh2"],"summary":"Malicious code in hrp9872 (npm)","affected":[{"package":{"name":"hrp9872","ecosystem":"npm","purl":"pkg:npm/hrp9872"},"versions":["1.0.0"]}]}

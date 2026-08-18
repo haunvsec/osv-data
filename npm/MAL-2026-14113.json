@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14113","published":"2026-08-17T16:24:09Z","modified":"2026-08-18T00:30:31.371473906Z","aliases":["GHSA-342c-493g-f389"],"summary":"Malicious code in sui-move-rpc (npm)","affected":[{"package":{"name":"sui-move-rpc","ecosystem":"npm","purl":"pkg:npm/sui-move-rpc"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

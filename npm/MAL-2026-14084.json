@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14084","published":"2026-08-14T11:05:19Z","modified":"2026-08-17T05:00:17.480995655Z","aliases":["GHSA-969j-h3jv-fm8w"],"summary":"Malicious code in hrp9871 (npm)","affected":[{"package":{"name":"hrp9871","ecosystem":"npm","purl":"pkg:npm/hrp9871"},"versions":["1.0.0"]}]}

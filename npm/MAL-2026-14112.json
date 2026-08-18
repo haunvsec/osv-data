@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14112","published":"2026-08-17T16:24:09Z","modified":"2026-08-18T00:30:30.094145165Z","aliases":["GHSA-rg66-wjvq-h8xm"],"summary":"Malicious code in sui-gql-core (npm)","affected":[{"package":{"name":"sui-gql-core","ecosystem":"npm","purl":"pkg:npm/sui-gql-core"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

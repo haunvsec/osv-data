@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14106","published":"2026-08-17T11:41:37Z","modified":"2026-08-18T00:30:30.073173662Z","aliases":["GHSA-q7j9-fgrw-6553"],"summary":"Malicious code in cloud-agen-bot (npm)","affected":[{"package":{"name":"cloud-agen-bot","ecosystem":"npm","purl":"pkg:npm/cloud-agen-bot"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

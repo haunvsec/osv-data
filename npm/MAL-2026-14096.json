@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14096","published":"2026-08-15T05:41:58Z","modified":"2026-08-17T05:00:20.825723968Z","aliases":["GHSA-qx34-66jv-3pg5"],"summary":"Malicious code in svelte-goal-vim (npm)","affected":[{"package":{"name":"svelte-goal-vim","ecosystem":"npm","purl":"pkg:npm/svelte-goal-vim"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

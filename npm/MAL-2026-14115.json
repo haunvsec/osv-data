@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14115","published":"2026-08-17T11:41:36Z","modified":"2026-08-18T00:30:31.370305308Z","aliases":["GHSA-hvvr-852c-qpw8"],"summary":"Malicious code in userbotjs-jun (npm)","affected":[{"package":{"name":"userbotjs-jun","ecosystem":"npm","purl":"pkg:npm/userbotjs-jun"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

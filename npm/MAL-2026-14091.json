@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14091","published":"2026-08-14T11:17:47Z","modified":"2026-08-17T05:00:11.585727450Z","aliases":["GHSA-55p8-9h4q-g3jf"],"summary":"Malicious code in pocbitbarrontest (npm)","affected":[{"package":{"name":"pocbitbarrontest","ecosystem":"npm","purl":"pkg:npm/pocbitbarrontest"},"versions":["1.0.0"]}]}

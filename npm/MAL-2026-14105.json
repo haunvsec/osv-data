@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14105","published":"2026-08-17T16:24:09Z","modified":"2026-08-18T00:30:29.968577202Z","aliases":["GHSA-5w7j-92p9-p5h4"],"summary":"Malicious code in bcs-core (npm)","affected":[{"package":{"name":"bcs-core","ecosystem":"npm","purl":"pkg:npm/bcs-core"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

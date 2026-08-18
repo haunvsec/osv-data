@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14093","published":"2026-08-14T10:44:11Z","modified":"2026-08-17T05:00:11.594514900Z","aliases":["GHSA-88hw-5c75-wg74"],"summary":"Malicious code in rtms-manager-dev (npm)","affected":[{"package":{"name":"rtms-manager-dev","ecosystem":"npm","purl":"pkg:npm/rtms-manager-dev"},"versions":["1.4.0","1.3.0"]}]}

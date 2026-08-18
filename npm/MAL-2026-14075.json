@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14075","published":"2026-08-14T11:30:34Z","modified":"2026-08-17T05:00:12.903565028Z","aliases":["GHSA-p2rc-847p-5jpq"],"summary":"Malicious code in ak-mal-test-poc (npm)","affected":[{"package":{"name":"ak-mal-test-poc","ecosystem":"npm","purl":"pkg:npm/ak-mal-test-poc"},"versions":["1.0.3"]}]}

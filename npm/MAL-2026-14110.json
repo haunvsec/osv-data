@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14110","published":"2026-08-17T16:02:14Z","modified":"2026-08-18T00:30:31.176334584Z","aliases":["GHSA-x3qj-pjpv-x4c6"],"summary":"Malicious code in reseller-app (npm)","affected":[{"package":{"name":"reseller-app","ecosystem":"npm","purl":"pkg:npm/reseller-app"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

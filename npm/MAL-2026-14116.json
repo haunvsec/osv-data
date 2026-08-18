@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14116","published":"2026-08-17T08:36:14Z","modified":"2026-08-18T01:00:11.727878319Z","summary":"Malicious code in runtime-health (npm)","affected":[{"package":{"name":"runtime-health","ecosystem":"npm","purl":"pkg:npm/runtime-health"},"versions":["1.0.2","1.0.4","1.0.1"]}]}

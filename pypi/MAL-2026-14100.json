@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14100","published":"2026-08-17T21:48:35Z","modified":"2026-08-17T23:00:16.338383990Z","summary":"Malicious code in socks5901 (PyPI)","affected":[{"package":{"name":"socks5901","ecosystem":"PyPI","purl":"pkg:pypi/socks5901"},"versions":["1.0.0"]}]}
