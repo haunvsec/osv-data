@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14372","published":"2026-08-23T03:15:07Z","modified":"2026-08-23T03:30:23.895384313Z","summary":"Malicious code in create-coin (npm)","affected":[{"package":{"name":"create-coin","ecosystem":"npm","purl":"pkg:npm/create-coin"},"versions":["20.1.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14160","published":"2026-08-18T23:49:39Z","modified":"2026-08-19T00:30:15.947362032Z","summary":"Malicious code in @library-dev-team/data-sanitizer (npm)","affected":[{"package":{"name":"@library-dev-team/data-sanitizer","ecosystem":"npm","purl":"pkg:npm/%40library-dev-team/data-sanitizer"},"versions":["1.3.0"]}]}

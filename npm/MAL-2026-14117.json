@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14117","published":"2026-08-18T04:46:41Z","modified":"2026-08-18T05:02:40.864286086Z","summary":"Malicious code in bcc-design (npm)","affected":[{"package":{"name":"bcc-design","ecosystem":"npm","purl":"pkg:npm/bcc-design"},"versions":["9999.0.0"]}]}

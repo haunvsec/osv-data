@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14368","published":"2026-08-23T03:15:14Z","modified":"2026-08-23T03:30:23.853998865Z","summary":"Malicious code in @syncraft-labs/react (npm)","affected":[{"package":{"name":"@syncraft-labs/react","ecosystem":"npm","purl":"pkg:npm/%40syncraft-labs/react"},"versions":["0.4.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14216","published":"2026-08-19T02:51:35Z","modified":"2026-08-20T14:30:11.532569174Z","aliases":["GHSA-mcq8-jp4r-5846"],"summary":"Malicious code in timed-assess (npm)","affected":[{"package":{"name":"timed-assess","ecosystem":"npm","purl":"pkg:npm/timed-assess"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

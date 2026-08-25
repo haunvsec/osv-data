@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14222","published":"2026-08-19T03:02:12Z","modified":"2026-08-19T03:30:19.755132596Z","summary":"Malicious code in streak-cal-core (npm)","affected":[{"package":{"name":"streak-cal-core","ecosystem":"npm","purl":"pkg:npm/streak-cal-core"},"versions":["1.0.0"]}]}

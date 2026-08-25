@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14435","published":"2026-08-24T16:39:58Z","modified":"2026-08-24T17:00:13.096394329Z","summary":"Malicious code in paypal-business-sdk (npm)","affected":[{"package":{"name":"paypal-business-sdk","ecosystem":"npm","purl":"pkg:npm/paypal-business-sdk"},"versions":["9.4.3"]}]}

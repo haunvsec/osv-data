@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14350","published":"2026-08-21T09:31:52Z","modified":"2026-08-23T03:30:22.559098764Z","summary":"Malicious code in scrambleeer (PyPI)","affected":[{"package":{"name":"scrambleeer","ecosystem":"PyPI","purl":"pkg:pypi/scrambleeer"},"versions":["0.1.0","0.1.1"]}]}

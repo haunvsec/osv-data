@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14425","published":"2026-08-24T16:44:54Z","modified":"2026-08-24T17:00:13.517810876Z","summary":"Malicious code in auth-otp (npm)","affected":[{"package":{"name":"auth-otp","ecosystem":"npm","purl":"pkg:npm/auth-otp"},"versions":["1.0.0","1.0.2","1.0.1","1.0.4","1.0.5","1.0.3"]}]}

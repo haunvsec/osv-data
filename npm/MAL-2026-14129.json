@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14129","published":"2026-08-18T17:48:47Z","modified":"2026-08-18T21:15:12.598880620Z","aliases":["GHSA-xjmp-gcmw-2xxm"],"summary":"Malicious code in plugin-react-vite (npm)","affected":[{"package":{"name":"plugin-react-vite","ecosystem":"npm","purl":"pkg:npm/plugin-react-vite"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14365","published":"2026-08-23T03:21:09Z","modified":"2026-08-23T03:30:23.852159429Z","summary":"Malicious code in 6-viewsight-web (npm)","affected":[{"package":{"name":"6-viewsight-web","ecosystem":"npm","purl":"pkg:npm/6-viewsight-web"},"versions":["1.0.1","1.0.0"]}]}

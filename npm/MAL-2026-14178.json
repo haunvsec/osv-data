@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14178","published":"2026-08-18T23:57:06Z","modified":"2026-08-19T00:30:14.530933713Z","summary":"Malicious code in ladash-cli (npm)","affected":[{"package":{"name":"ladash-cli","ecosystem":"npm","purl":"pkg:npm/ladash-cli"},"versions":["1.0.0"]}]}

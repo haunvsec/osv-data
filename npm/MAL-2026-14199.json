@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14199","published":"2026-08-19T01:16:13Z","modified":"2026-08-19T01:45:11.507286505Z","summary":"Malicious code in txs-runner-sdk (npm)","affected":[{"package":{"name":"txs-runner-sdk","ecosystem":"npm","purl":"pkg:npm/txs-runner-sdk"},"versions":["1.0.1"]}]}

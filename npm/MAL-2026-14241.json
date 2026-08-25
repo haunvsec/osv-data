@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14241","published":"2026-08-19T04:05:41Z","modified":"2026-08-19T04:30:12.239530103Z","summary":"Malicious code in dxrs-dos (npm)","affected":[{"package":{"name":"dxrs-dos","ecosystem":"npm","purl":"pkg:npm/dxrs-dos"},"versions":["0.1.3"]}]}

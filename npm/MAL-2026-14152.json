@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14152","published":"2026-08-18T23:20:55Z","modified":"2026-08-18T23:45:11.535701801Z","summary":"Malicious code in typescriptt-core (npm)","affected":[{"package":{"name":"typescriptt-core","ecosystem":"npm","purl":"pkg:npm/typescriptt-core"},"versions":["1.0.0"]}]}

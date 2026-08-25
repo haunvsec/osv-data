@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14377","published":"2026-08-23T03:13:15Z","modified":"2026-08-23T03:30:25.107194483Z","summary":"Malicious code in stillm4ddpocs-rtest-alpha (npm)","affected":[{"package":{"name":"stillm4ddpocs-rtest-alpha","ecosystem":"npm","purl":"pkg:npm/stillm4ddpocs-rtest-alpha"},"versions":["999.9.10","999.9.9"]}]}

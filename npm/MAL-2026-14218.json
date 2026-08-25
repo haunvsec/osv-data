@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14218","published":"2026-08-19T03:16:17Z","modified":"2026-08-19T03:30:15.955405514Z","summary":"Malicious code in mapkit-loader (npm)","affected":[{"package":{"name":"mapkit-loader","ecosystem":"npm","purl":"pkg:npm/mapkit-loader"},"versions":["1.0.0"]}]}

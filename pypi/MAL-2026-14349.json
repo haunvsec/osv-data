@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14349","published":"2026-08-21T08:19:49Z","modified":"2026-08-21T15:00:17.482757423Z","summary":"Malicious code in boto4 (PyPI)","affected":[{"package":{"name":"boto4","ecosystem":"PyPI","purl":"pkg:pypi/boto4"},"versions":["1.0.0","1.0.2"]}]}

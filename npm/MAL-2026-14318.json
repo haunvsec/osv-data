@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14318","published":"2026-08-20T13:08:34Z","modified":"2026-08-20T22:01:44.646568673Z","aliases":["GHSA-hp4f-wg89-v3fg"],"summary":"Malicious code in frenchworldcupwin (npm)","affected":[{"package":{"name":"frenchworldcupwin","ecosystem":"npm","purl":"pkg:npm/frenchworldcupwin"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

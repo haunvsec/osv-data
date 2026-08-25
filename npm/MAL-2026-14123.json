@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14123","published":"2026-08-18T12:05:43Z","modified":"2026-08-18T21:45:20.281631455Z","summary":"Malicious code in @oyo_tech/oyochat_user (npm)","affected":[{"package":{"name":"@oyo_tech/oyochat_user","ecosystem":"npm","purl":"pkg:npm/%40oyo_tech/oyochat_user"},"versions":["100.0.0","99.99.99"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14139","published":"2026-08-18T23:03:53Z","modified":"2026-08-18T23:15:11.622138967Z","summary":"Malicious code in prism-registry (npm)","affected":[{"package":{"name":"prism-registry","ecosystem":"npm","purl":"pkg:npm/prism-registry"},"versions":["1.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14204","published":"2026-08-19T02:31:33Z","modified":"2026-08-19T03:00:14.125338112Z","summary":"Malicious code in @sarex-team/sdk-js (npm)","affected":[{"package":{"name":"@sarex-team/sdk-js","ecosystem":"npm","purl":"pkg:npm/%40sarex-team/sdk-js"},"versions":["9.9.11"]}]}

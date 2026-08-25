@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14418","published":"2026-08-24T15:57:50Z","modified":"2026-08-24T17:00:12.597675433Z","aliases":["GHSA-5xvx-37p2-x7j9"],"summary":"Malicious code in dotish (npm)","affected":[{"package":{"name":"dotish","ecosystem":"npm","purl":"pkg:npm/dotish"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

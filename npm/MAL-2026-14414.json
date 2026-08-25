@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14414","published":"2026-08-24T14:52:24Z","modified":"2026-08-24T15:30:15.396513554Z","aliases":["GHSA-vqm6-238c-g856"],"summary":"Malicious code in mcp-real-chrome (npm)","affected":[{"package":{"name":"mcp-real-chrome","ecosystem":"npm","purl":"pkg:npm/mcp-real-chrome"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

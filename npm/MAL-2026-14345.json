@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14345","published":"2026-08-21T03:56:39Z","modified":"2026-08-21T04:30:13.070898740Z","summary":"Malicious code in express-session-handler (npm)","affected":[{"package":{"name":"express-session-handler","ecosystem":"npm","purl":"pkg:npm/express-session-handler"},"versions":["2.3.3"]}]}

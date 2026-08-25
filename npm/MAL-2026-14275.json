@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14275","published":"2026-08-19T07:35:07Z","modified":"2026-08-19T08:00:10.705237176Z","summary":"Malicious code in minequest (npm)","affected":[{"package":{"name":"minequest","ecosystem":"npm","purl":"pkg:npm/minequest"},"versions":["0.1.1"]}]}

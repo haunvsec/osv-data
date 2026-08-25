@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14366","published":"2026-08-23T03:21:18Z","modified":"2026-08-23T03:30:22.506464408Z","summary":"Malicious code in 8-fetchsight-web (npm)","affected":[{"package":{"name":"8-fetchsight-web","ecosystem":"npm","purl":"pkg:npm/8-fetchsight-web"},"versions":["1.0.1","1.0.0"]}]}

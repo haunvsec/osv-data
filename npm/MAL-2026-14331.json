@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14331","published":"2026-08-20T18:15:34Z","modified":"2026-08-20T22:01:44.654198069Z","aliases":["GHSA-3g8c-37c3-75vv"],"summary":"Malicious code in exam-kit (npm)","affected":[{"package":{"name":"exam-kit","ecosystem":"npm","purl":"pkg:npm/exam-kit"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

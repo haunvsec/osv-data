@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14396","published":"2026-08-23T18:50:28Z","modified":"2026-08-24T16:46:04.659674856Z","aliases":["GHSA-79hh-8hx9-8jjr"],"summary":"Malicious code in sm-cart (npm)","affected":[{"package":{"name":"sm-cart","ecosystem":"npm","purl":"pkg:npm/sm-cart"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

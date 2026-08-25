@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14260","published":"2026-08-19T04:59:38Z","modified":"2026-08-19T05:31:26.941553030Z","summary":"Malicious code in ranux-pro (npm)","affected":[{"package":{"name":"ranux-pro","ecosystem":"npm","purl":"pkg:npm/ranux-pro"},"versions":["2.0.0"]}]}

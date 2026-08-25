@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14306","published":"2026-08-19T20:31:43Z","modified":"2026-08-19T23:00:51.814433015Z","summary":"Malicious code in rc4-secure (PyPI)","affected":[{"package":{"name":"rc4-secure","ecosystem":"PyPI","purl":"pkg:pypi/rc4-secure"},"versions":["1.0.0"]}]}

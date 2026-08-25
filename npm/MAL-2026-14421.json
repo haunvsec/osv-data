@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14421","published":"2026-08-24T16:46:29Z","modified":"2026-08-24T17:00:11.786730314Z","summary":"Malicious code in @medisend/auth (npm)","affected":[{"package":{"name":"@medisend/auth","ecosystem":"npm","purl":"pkg:npm/%40medisend/auth"},"versions":["0.0.1-security-research"]}]}

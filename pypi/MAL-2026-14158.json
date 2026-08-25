@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14158","published":"2026-08-18T22:54:18Z","modified":"2026-08-19T00:30:11.589900072Z","summary":"Malicious code in deepface-weight (PyPI)","affected":[{"package":{"name":"deepface-weight","ecosystem":"PyPI","purl":"pkg:pypi/deepface-weight"},"versions":["0.1.4"]}]}

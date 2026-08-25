@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14215","published":"2026-08-19T02:50:52Z","modified":"2026-08-19T03:00:14.234173265Z","summary":"Malicious code in sysdo (npm)","affected":[{"package":{"name":"sysdo","ecosystem":"npm","purl":"pkg:npm/sysdo"},"versions":["1.0.0"]}]}

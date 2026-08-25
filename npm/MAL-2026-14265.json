@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14265","published":"2026-08-19T06:28:27Z","modified":"2026-08-19T07:01:57.072534810Z","summary":"Malicious code in easydsbots (npm)","affected":[{"package":{"name":"easydsbots","ecosystem":"npm","purl":"pkg:npm/easydsbots"},"versions":["1.0.0"]}]}

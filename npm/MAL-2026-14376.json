@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14376","published":"2026-08-23T03:13:22Z","modified":"2026-08-23T03:30:25.313777317Z","summary":"Malicious code in stillm4ddpocs-demo-sprocket (npm)","affected":[{"package":{"name":"stillm4ddpocs-demo-sprocket","ecosystem":"npm","purl":"pkg:npm/stillm4ddpocs-demo-sprocket"},"versions":["999.9.12"]}]}

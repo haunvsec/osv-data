@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14141","published":"2026-08-18T23:22:36Z","modified":"2026-08-18T23:45:12.908368873Z","summary":"Malicious code in test-npm-snurkeburk-hackerone (npm)","affected":[{"package":{"name":"test-npm-snurkeburk-hackerone","ecosystem":"npm","purl":"pkg:npm/test-npm-snurkeburk-hackerone"},"versions":["1.999.0"]}]}

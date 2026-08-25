@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14156","published":"2026-08-18T23:21:27Z","modified":"2026-08-18T23:45:11.528417846Z","summary":"Malicious code in typscript-cli (npm)","affected":[{"package":{"name":"typscript-cli","ecosystem":"npm","purl":"pkg:npm/typscript-cli"},"versions":["1.0.0"]}]}

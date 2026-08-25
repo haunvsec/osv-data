@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14121","published":"2026-08-18T03:44:44Z","modified":"2026-08-18T21:45:20.129907983Z","aliases":["GHSA-xgmm-vq93-f5vx"],"summary":"Malicious code in sui-move-graphql (npm)","affected":[{"package":{"name":"sui-move-graphql","ecosystem":"npm","purl":"pkg:npm/sui-move-graphql"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

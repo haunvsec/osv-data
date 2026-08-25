@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14319","published":"2026-08-20T13:08:34Z","modified":"2026-08-20T22:01:46.090290875Z","aliases":["GHSA-4cwc-wpx2-j752"],"summary":"Malicious code in test-flow-1 (npm)","affected":[{"package":{"name":"test-flow-1","ecosystem":"npm","purl":"pkg:npm/test-flow-1"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

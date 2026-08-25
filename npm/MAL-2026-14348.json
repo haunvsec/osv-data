@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14348","published":"2026-08-21T04:19:16Z","modified":"2026-08-21T05:20:12.108044158Z","summary":"Malicious code in moidevy (npm)","affected":[{"package":{"name":"moidevy","ecosystem":"npm","purl":"pkg:npm/moidevy"},"versions":["1.0.0"]}]}

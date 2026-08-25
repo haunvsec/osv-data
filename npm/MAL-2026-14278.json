@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14278","published":"2026-08-19T08:14:26Z","modified":"2026-08-19T08:32:48.266685805Z","summary":"Malicious code in layer2-sdk (npm)","affected":[{"package":{"name":"layer2-sdk","ecosystem":"npm","purl":"pkg:npm/layer2-sdk"},"versions":["1.0.0","1.0.1"]}]}

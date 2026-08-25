@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14271","published":"2026-08-19T07:18:47Z","modified":"2026-08-19T07:30:12.052932704Z","summary":"Malicious code in nodeberlin (npm)","affected":[{"package":{"name":"nodeberlin","ecosystem":"npm","purl":"pkg:npm/nodeberlin"},"versions":["1.0.7"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14443","published":"2026-08-24T15:06:28Z","modified":"2026-08-25T02:45:10.694487717Z","summary":"Malicious code in @elc-online/up-analytics (npm)","affected":[{"package":{"name":"@elc-online/up-analytics","ecosystem":"npm","purl":"pkg:npm/%40elc-online/up-analytics"},"versions":["99.99.99"]}]}

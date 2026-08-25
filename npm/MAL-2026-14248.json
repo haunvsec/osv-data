@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14248","published":"2026-08-19T04:18:04Z","modified":"2026-08-19T04:30:10.948351649Z","summary":"Malicious code in nice-utils-helper (npm)","affected":[{"package":{"name":"nice-utils-helper","ecosystem":"npm","purl":"pkg:npm/nice-utils-helper"},"versions":["1.0.0"]}]}

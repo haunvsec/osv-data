@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14149","published":"2026-08-18T23:20:47Z","modified":"2026-08-18T23:45:13.038051367Z","summary":"Malicious code in typescirpt-core (npm)","affected":[{"package":{"name":"typescirpt-core","ecosystem":"npm","purl":"pkg:npm/typescirpt-core"},"versions":["1.0.0"]}]}

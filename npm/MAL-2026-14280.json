@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14280","published":"2026-08-19T07:52:21Z","modified":"2026-08-19T08:34:48.684106151Z","summary":"Malicious code in mutex-core (npm)","affected":[{"package":{"name":"mutex-core","ecosystem":"npm","purl":"pkg:npm/mutex-core"},"versions":["2.1.2"]}]}

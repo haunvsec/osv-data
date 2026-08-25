@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14138","published":"2026-08-18T23:04:13Z","modified":"2026-08-18T23:15:11.616457026Z","summary":"Malicious code in optimizely-starter-kit-for-fastly-compute (npm)","affected":[{"package":{"name":"optimizely-starter-kit-for-fastly-compute","ecosystem":"npm","purl":"pkg:npm/optimizely-starter-kit-for-fastly-compute"},"versions":["1.0.1"]}]}

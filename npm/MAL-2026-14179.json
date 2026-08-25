@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14179","published":"2026-08-18T23:57:13Z","modified":"2026-08-19T00:30:15.911765963Z","summary":"Malicious code in loadashjs (npm)","affected":[{"package":{"name":"loadashjs","ecosystem":"npm","purl":"pkg:npm/loadashjs"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14353","published":"2026-08-21T14:29:13Z","modified":"2026-08-21T15:00:17.438480448Z","summary":"Malicious code in @gfe/lx-watcher (npm)","affected":[{"package":{"name":"@gfe/lx-watcher","ecosystem":"npm","purl":"pkg:npm/%40gfe/lx-watcher"},"versions":["1.5.3","1.5.4"]}]}

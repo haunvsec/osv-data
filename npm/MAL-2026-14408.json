@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14408","published":"2026-08-24T12:43:04Z","modified":"2026-08-24T13:45:12.887103515Z","aliases":["GHSA-299m-84fp-94p9"],"summary":"Malicious code in dext-crate-video (npm)","affected":[{"package":{"name":"dext-crate-video","ecosystem":"npm","purl":"pkg:npm/dext-crate-video"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

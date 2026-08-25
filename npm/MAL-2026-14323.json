@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14323","published":"2026-08-20T16:15:32Z","modified":"2026-08-20T16:30:12.518940072Z","aliases":["GHSA-wvvc-v5v3-7mcx"],"summary":"Malicious code in cig-data-patcher (npm)","affected":[{"package":{"name":"cig-data-patcher","ecosystem":"npm","purl":"pkg:npm/cig-data-patcher"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14277","published":"2026-08-19T07:21:14Z","modified":"2026-08-19T08:00:11.435354660Z","summary":"Malicious code in o0o9 (npm)","affected":[{"package":{"name":"o0o9","ecosystem":"npm","purl":"pkg:npm/o0o9"},"versions":["1.8.0","2.0.1"]}]}

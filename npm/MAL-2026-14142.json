@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14142","published":"2026-08-18T23:26:01Z","modified":"2026-08-18T23:45:11.530574347Z","summary":"Malicious code in testingsmthb1g (npm)","affected":[{"package":{"name":"testingsmthb1g","ecosystem":"npm","purl":"pkg:npm/testingsmthb1g"},"versions":["1.0.0"]}]}

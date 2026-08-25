@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14239","published":"2026-08-19T03:48:45Z","modified":"2026-08-19T04:00:16.959905438Z","summary":"Malicious code in gaarf-node-bq (npm)","affected":[{"package":{"name":"gaarf-node-bq","ecosystem":"npm","purl":"pkg:npm/gaarf-node-bq"},"versions":["1.0.0"]}]}

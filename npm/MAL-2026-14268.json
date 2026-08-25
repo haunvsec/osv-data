@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14268","published":"2026-08-19T06:22:58Z","modified":"2026-08-24T13:45:11.598370484Z","aliases":["GHSA-hfg2-857w-8wm9"],"summary":"Malicious code in no-for-of-loops (npm)","affected":[{"package":{"name":"no-for-of-loops","ecosystem":"npm","purl":"pkg:npm/no-for-of-loops"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14343","published":"2026-08-21T03:48:16Z","modified":"2026-08-21T04:00:14.657333193Z","summary":"Malicious code in chai-as-soul (npm)","affected":[{"package":{"name":"chai-as-soul","ecosystem":"npm","purl":"pkg:npm/chai-as-soul"},"versions":["2.3.5","2.3.6"]}]}

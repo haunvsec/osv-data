@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14428","published":"2026-08-24T16:45:46Z","modified":"2026-08-24T17:00:15.369819030Z","summary":"Malicious code in consumerweb-serverutils (npm)","affected":[{"package":{"name":"consumerweb-serverutils","ecosystem":"npm","purl":"pkg:npm/consumerweb-serverutils"},"versions":["3.4.3"]}]}

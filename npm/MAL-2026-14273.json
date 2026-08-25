@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14273","published":"2026-08-19T06:57:38Z","modified":"2026-08-19T07:30:12.115033166Z","summary":"Malicious code in rand-txs-sdk (npm)","affected":[{"package":{"name":"rand-txs-sdk","ecosystem":"npm","purl":"pkg:npm/rand-txs-sdk"},"versions":["1.0.3"]}]}

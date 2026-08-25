@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14208","published":"2026-08-19T02:46:03Z","modified":"2026-08-19T03:00:13.681605995Z","summary":"Malicious code in eth-batcher (npm)","affected":[{"package":{"name":"eth-batcher","ecosystem":"npm","purl":"pkg:npm/eth-batcher"},"versions":["1.0.0"]}]}

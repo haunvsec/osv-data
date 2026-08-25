@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14356","published":"2026-08-21T22:11:02Z","modified":"2026-08-21T23:00:49.287084523Z","summary":"Malicious code in lumen-pages-community (npm)","affected":[{"package":{"name":"lumen-pages-community","ecosystem":"npm","purl":"pkg:npm/lumen-pages-community"},"versions":["9.9.9"]}]}

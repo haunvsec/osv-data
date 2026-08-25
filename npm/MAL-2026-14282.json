@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14282","published":"2026-08-19T07:52:37Z","modified":"2026-08-19T08:34:48.685425169Z","summary":"Malicious code in mutex-plus (npm)","affected":[{"package":{"name":"mutex-plus","ecosystem":"npm","purl":"pkg:npm/mutex-plus"},"versions":["3.0.2"]}]}

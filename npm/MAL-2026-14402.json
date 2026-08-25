@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14402","published":"2026-08-24T07:52:43Z","modified":"2026-08-24T08:45:11.762154466Z","aliases":["GHSA-3g4v-p5hc-83qm"],"summary":"Malicious code in agentgui (npm)","affected":[{"package":{"name":"agentgui","ecosystem":"npm","purl":"pkg:npm/agentgui"},"versions":["1.0.1127"]}]}

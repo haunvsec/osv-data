@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14392","published":"2026-08-24T05:08:27Z","modified":"2026-08-24T05:30:16.115340148Z","summary":"Malicious code in message-compiler (npm)","affected":[{"package":{"name":"message-compiler","ecosystem":"npm","purl":"pkg:npm/message-compiler"},"versions":["9.2.0"]}]}

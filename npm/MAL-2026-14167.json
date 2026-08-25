@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14167","published":"2026-08-18T23:59:21Z","modified":"2026-08-19T00:30:13.015339287Z","summary":"Malicious code in chalk-lib (npm)","affected":[{"package":{"name":"chalk-lib","ecosystem":"npm","purl":"pkg:npm/chalk-lib"},"versions":["1.0.0"]}]}

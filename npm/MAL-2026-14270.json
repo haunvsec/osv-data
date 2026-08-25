@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14270","published":"2026-08-19T07:18:57Z","modified":"2026-08-19T07:30:12.101961127Z","summary":"Malicious code in nodealpha (npm)","affected":[{"package":{"name":"nodealpha","ecosystem":"npm","purl":"pkg:npm/nodealpha"},"versions":["1.0.7"]}]}

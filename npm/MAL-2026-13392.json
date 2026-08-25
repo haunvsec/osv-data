@@ -1,1 +1,1 @@
-{"schema_version":"1.8.0","id":"MAL-2026-13392","published":"2026-08-06T12:13:09Z","modified":"2026-08-06T12:34:41.020523206Z","summary":"Malicious code in golaaa (npm)","affected":[{"package":{"name":"golaaa","ecosystem":"npm","purl":"pkg:npm/golaaa"},"versions":["1.0.0"]}]}
+{"schema_version":"1.9.0","id":"MAL-2026-13392","published":"2026-08-06T12:13:09Z","modified":"2026-08-19T09:30:16.290737282Z","summary":"Malicious code in golaaa (npm)","affected":[{"package":{"name":"golaaa","ecosystem":"npm","purl":"pkg:npm/golaaa"},"versions":["1.0.0","1.0.3"]}]}

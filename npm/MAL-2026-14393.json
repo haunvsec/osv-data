@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14393","published":"2026-08-23T18:50:33Z","modified":"2026-08-24T16:46:06.030534932Z","aliases":["GHSA-9jm5-rh3f-jr86"],"summary":"Malicious code in sm-admin (npm)","affected":[{"package":{"name":"sm-admin","ecosystem":"npm","purl":"pkg:npm/sm-admin"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

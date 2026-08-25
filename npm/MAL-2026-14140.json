@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14140","published":"2026-08-18T22:47:03Z","modified":"2026-08-18T23:15:11.609382618Z","summary":"Malicious code in vite-svg-config (npm)","affected":[{"package":{"name":"vite-svg-config","ecosystem":"npm","purl":"pkg:npm/vite-svg-config"},"versions":["1.1.0"]}]}

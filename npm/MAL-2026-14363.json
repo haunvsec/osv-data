@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14363","published":"2026-08-23T03:22:00Z","modified":"2026-08-23T03:30:22.508379080Z","summary":"Malicious code in 2-loadsight-web (npm)","affected":[{"package":{"name":"2-loadsight-web","ecosystem":"npm","purl":"pkg:npm/2-loadsight-web"},"versions":["1.0.0","1.0.1"]}]}

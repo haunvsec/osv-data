@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14251","published":"2026-08-19T04:18:35Z","modified":"2026-08-19T05:00:16.251276899Z","summary":"Malicious code in ngsw-config (npm)","affected":[{"package":{"name":"ngsw-config","ecosystem":"npm","purl":"pkg:npm/ngsw-config"},"versions":["1.0.0"]}]}

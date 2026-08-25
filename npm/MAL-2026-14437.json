@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14437","published":"2026-08-24T16:39:35Z","modified":"2026-08-24T17:00:14.807891298Z","summary":"Malicious code in ppb-manticore (npm)","affected":[{"package":{"name":"ppb-manticore","ecosystem":"npm","purl":"pkg:npm/ppb-manticore"},"versions":["9.4.3"]}]}

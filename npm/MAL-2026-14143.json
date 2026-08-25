@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14143","published":"2026-08-18T23:19:37Z","modified":"2026-08-18T23:45:11.511441092Z","summary":"Malicious code in tyepescript-cli (npm)","affected":[{"package":{"name":"tyepescript-cli","ecosystem":"npm","purl":"pkg:npm/tyepescript-cli"},"versions":["1.0.0"]}]}

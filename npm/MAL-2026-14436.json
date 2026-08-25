@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14436","published":"2026-08-24T16:45:20Z","modified":"2026-08-24T17:00:15.087730263Z","summary":"Malicious code in poly-price-node (npm)","affected":[{"package":{"name":"poly-price-node","ecosystem":"npm","purl":"pkg:npm/poly-price-node"},"versions":["1.1.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14120","published":"2026-08-18T04:07:03Z","modified":"2026-08-18T21:01:26.651372278Z","aliases":["GHSA-pp9x-4g56-7322"],"summary":"Malicious code in blastradar (npm)","affected":[{"package":{"name":"blastradar","ecosystem":"npm","purl":"pkg:npm/blastradar"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

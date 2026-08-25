@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14321","published":"2026-08-20T13:08:34Z","modified":"2026-08-20T22:01:46.247032669Z","aliases":["GHSA-c7wg-wr5p-3pw9"],"summary":"Malicious code in test-flow-entire7 (npm)","affected":[{"package":{"name":"test-flow-entire7","ecosystem":"npm","purl":"pkg:npm/test-flow-entire7"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

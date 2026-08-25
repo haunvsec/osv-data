@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14211","published":"2026-08-19T02:49:26Z","modified":"2026-08-19T03:00:14.567212331Z","summary":"Malicious code in sw-pluginer (npm)","affected":[{"package":{"name":"sw-pluginer","ecosystem":"npm","purl":"pkg:npm/sw-pluginer"},"versions":["1.1.0","1.0.2","1.2.0","1.0.1","1.0.0"]}]}

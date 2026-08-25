@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14173","published":"2026-08-18T23:58:12Z","modified":"2026-08-19T00:30:11.530512142Z","summary":"Malicious code in commandor-core (npm)","affected":[{"package":{"name":"commandor-core","ecosystem":"npm","purl":"pkg:npm/commandor-core"},"versions":["1.0.0"]}]}

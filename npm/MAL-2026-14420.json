@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14420","published":"2026-08-24T16:39:13Z","modified":"2026-08-24T17:00:14.994194590Z","summary":"Malicious code in @gsas/gsas-sdk (npm)","affected":[{"package":{"name":"@gsas/gsas-sdk","ecosystem":"npm","purl":"pkg:npm/%40gsas/gsas-sdk"},"versions":["999.9.15"]}]}

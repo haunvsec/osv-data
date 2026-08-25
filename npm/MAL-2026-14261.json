@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14261","published":"2026-08-19T05:17:50Z","modified":"2026-08-19T06:00:10.803122840Z","summary":"Malicious code in postcss-initialize-provider (npm)","affected":[{"package":{"name":"postcss-initialize-provider","ecosystem":"npm","purl":"pkg:npm/postcss-initialize-provider"},"versions":["3.0.4"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14440","published":"2026-08-24T16:38:53Z","modified":"2026-08-24T17:00:14.926633873Z","summary":"Malicious code in web-advertising (npm)","affected":[{"package":{"name":"web-advertising","ecosystem":"npm","purl":"pkg:npm/web-advertising"},"versions":["999.9.15","999.9.16"]}]}

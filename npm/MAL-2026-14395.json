@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14395","published":"2026-08-23T18:50:26Z","modified":"2026-08-24T16:46:04.607017527Z","aliases":["GHSA-5fmw-xf3x-g32g"],"summary":"Malicious code in sm-billing-form (npm)","affected":[{"package":{"name":"sm-billing-form","ecosystem":"npm","purl":"pkg:npm/sm-billing-form"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

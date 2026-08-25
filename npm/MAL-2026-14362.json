@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14362","published":"2026-08-23T03:22:18Z","modified":"2026-08-23T03:30:22.483273093Z","summary":"Malicious code in 10-shardsight-web (npm)","affected":[{"package":{"name":"10-shardsight-web","ecosystem":"npm","purl":"pkg:npm/10-shardsight-web"},"versions":["1.0.1","1.0.0"]}]}

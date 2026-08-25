@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14355","published":"2026-08-21T22:10:33Z","modified":"2026-08-21T23:00:49.278587439Z","summary":"Malicious code in fuel-react (npm)","affected":[{"package":{"name":"fuel-react","ecosystem":"npm","purl":"pkg:npm/fuel-react"},"versions":["91.0.0"]}]}

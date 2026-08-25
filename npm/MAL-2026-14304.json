@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14304","published":"2026-08-19T19:10:48Z","modified":"2026-08-19T19:31:20.600876471Z","summary":"Malicious code in base99-85x (npm)","affected":[{"package":{"name":"base99-85x","ecosystem":"npm","purl":"pkg:npm/base99-85x"},"versions":["5.0.2"]}]}

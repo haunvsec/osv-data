@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14223","published":"2026-08-19T03:01:51Z","modified":"2026-08-19T03:30:16.061654650Z","summary":"Malicious code in streak-key-lib (npm)","affected":[{"package":{"name":"streak-key-lib","ecosystem":"npm","purl":"pkg:npm/streak-key-lib"},"versions":["1.0.0"]}]}

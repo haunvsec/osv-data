@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14220","published":"2026-08-19T03:03:18Z","modified":"2026-08-19T03:30:19.959083883Z","summary":"Malicious code in solidity-hold (npm)","affected":[{"package":{"name":"solidity-hold","ecosystem":"npm","purl":"pkg:npm/solidity-hold"},"versions":["2.0.1"]}]}

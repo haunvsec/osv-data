@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14219","published":"2026-08-19T03:05:07Z","modified":"2026-08-19T03:30:15.399595709Z","summary":"Malicious code in setup-codex (npm)","affected":[{"package":{"name":"setup-codex","ecosystem":"npm","purl":"pkg:npm/setup-codex"},"versions":["1.0.0"]}]}

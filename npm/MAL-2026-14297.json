@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14297","published":"2026-08-19T08:53:41Z","modified":"2026-08-19T09:30:14.652329661Z","summary":"Malicious code in homekit-mcp (npm)","affected":[{"package":{"name":"homekit-mcp","ecosystem":"npm","purl":"pkg:npm/homekit-mcp"},"versions":["1.0.0"]}]}

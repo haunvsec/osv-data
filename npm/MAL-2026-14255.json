@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14255","published":"2026-08-19T04:43:49Z","modified":"2026-08-19T05:00:23.985102362Z","summary":"Malicious code in secp256k1-lib (npm)","affected":[{"package":{"name":"secp256k1-lib","ecosystem":"npm","purl":"pkg:npm/secp256k1-lib"},"versions":["1.0.0","1.0.2","1.0.1","1.0.3"]}]}

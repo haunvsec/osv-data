@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14184","published":"2026-08-18T23:59:48Z","modified":"2026-08-19T00:30:16.343713482Z","summary":"Malicious code in lodsh-cli (npm)","affected":[{"package":{"name":"lodsh-cli","ecosystem":"npm","purl":"pkg:npm/lodsh-cli"},"versions":["1.0.0"]}]}

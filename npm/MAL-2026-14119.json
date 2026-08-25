@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14119","published":"2026-08-18T04:46:52Z","modified":"2026-08-18T05:33:33.788072551Z","summary":"Malicious code in bcc-design-icons (npm)","affected":[{"package":{"name":"bcc-design-icons","ecosystem":"npm","purl":"pkg:npm/bcc-design-icons"},"versions":["9999.0.0"]}]}

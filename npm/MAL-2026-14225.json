@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14225","published":"2026-08-19T03:36:58Z","modified":"2026-08-19T04:00:16.909934018Z","summary":"Malicious code in ambera (npm)","affected":[{"package":{"name":"ambera","ecosystem":"npm","purl":"pkg:npm/ambera"},"versions":["1.0.0","1.0.1"]}]}

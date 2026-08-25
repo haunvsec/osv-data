@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14295","published":"2026-08-19T08:16:01Z","modified":"2026-08-19T09:00:20.579554306Z","summary":"Malicious code in mcp-dev-toolkit (npm)","affected":[{"package":{"name":"mcp-dev-toolkit","ecosystem":"npm","purl":"pkg:npm/mcp-dev-toolkit"},"versions":["1.5.0"]}]}

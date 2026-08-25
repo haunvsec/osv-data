@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14342","published":"2026-08-21T03:07:50Z","modified":"2026-08-21T03:30:11.810506526Z","summary":"Malicious code in coin-fees (npm)","affected":[{"package":{"name":"coin-fees","ecosystem":"npm","purl":"pkg:npm/coin-fees"},"versions":["20.1.1"]}]}

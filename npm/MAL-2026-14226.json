@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14226","published":"2026-08-19T03:37:16Z","modified":"2026-08-19T04:00:16.848142650Z","summary":"Malicious code in animate-css-vite (npm)","affected":[{"package":{"name":"animate-css-vite","ecosystem":"npm","purl":"pkg:npm/animate-css-vite"},"versions":["1.0.1"]}]}

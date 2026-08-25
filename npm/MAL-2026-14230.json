@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14230","published":"2026-08-19T03:41:30Z","modified":"2026-08-19T04:00:16.956717780Z","summary":"Malicious code in chrome-enterprise-premium-mcp (npm)","affected":[{"package":{"name":"chrome-enterprise-premium-mcp","ecosystem":"npm","purl":"pkg:npm/chrome-enterprise-premium-mcp"},"versions":["1.0.0"]}]}

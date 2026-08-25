@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14269","published":"2026-08-19T06:22:31Z","modified":"2026-08-19T07:00:38.071249698Z","summary":"Malicious code in novel-suduko (npm)","affected":[{"package":{"name":"novel-suduko","ecosystem":"npm","purl":"pkg:npm/novel-suduko"},"versions":["1.0.1"]}]}

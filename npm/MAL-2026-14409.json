@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14409","published":"2026-08-24T12:36:07Z","modified":"2026-08-24T13:45:11.539123410Z","aliases":["GHSA-6rrq-x6hp-4xcm"],"summary":"Malicious code in polis-diraja (npm)","affected":[{"package":{"name":"polis-diraja","ecosystem":"npm","purl":"pkg:npm/polis-diraja"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

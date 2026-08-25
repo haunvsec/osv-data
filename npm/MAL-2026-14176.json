@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14176","published":"2026-08-18T23:57:37Z","modified":"2026-08-19T00:30:15.936860142Z","summary":"Malicious code in dev-env-check (npm)","affected":[{"package":{"name":"dev-env-check","ecosystem":"npm","purl":"pkg:npm/dev-env-check"},"versions":["1.0.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14193","published":"2026-08-19T00:04:55Z","modified":"2026-08-19T00:30:14.895740215Z","summary":"Malicious code in ts-rand-sdk (npm)","affected":[{"package":{"name":"ts-rand-sdk","ecosystem":"npm","purl":"pkg:npm/ts-rand-sdk"},"versions":["1.0.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14364","published":"2026-08-23T03:21:28Z","modified":"2026-08-23T03:30:22.461551406Z","summary":"Malicious code in 3-buildsight-web (npm)","affected":[{"package":{"name":"3-buildsight-web","ecosystem":"npm","purl":"pkg:npm/3-buildsight-web"},"versions":["1.0.1","1.0.0"]}]}

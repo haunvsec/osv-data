@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14207","published":"2026-08-19T02:31:51Z","modified":"2026-08-19T03:00:13.107335186Z","summary":"Malicious code in @sarex-team/viewer (npm)","affected":[{"package":{"name":"@sarex-team/viewer","ecosystem":"npm","purl":"pkg:npm/%40sarex-team/viewer"},"versions":["9.9.11"]}]}

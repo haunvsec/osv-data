@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14253","published":"2026-08-19T04:45:24Z","modified":"2026-08-19T05:00:23.983812337Z","summary":"Malicious code in react-dom-helpers (npm)","affected":[{"package":{"name":"react-dom-helpers","ecosystem":"npm","purl":"pkg:npm/react-dom-helpers"},"versions":["3.3.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14200","published":"2026-08-19T01:59:46Z","modified":"2026-08-19T02:45:11.161659882Z","summary":"Malicious code in chai-as-gateway (npm)","affected":[{"package":{"name":"chai-as-gateway","ecosystem":"npm","purl":"pkg:npm/chai-as-gateway"},"versions":["7.1.5"]}]}

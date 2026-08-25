@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14212","published":"2026-08-19T02:50:38Z","modified":"2026-08-19T03:00:14.393310891Z","summary":"Malicious code in syboy (npm)","affected":[{"package":{"name":"syboy","ecosystem":"npm","purl":"pkg:npm/syboy"},"versions":["1.0.0"]}]}

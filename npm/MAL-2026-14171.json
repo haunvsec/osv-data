@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14171","published":"2026-08-18T23:57:46Z","modified":"2026-08-19T00:30:13.048844161Z","summary":"Malicious code in comander-lib (npm)","affected":[{"package":{"name":"comander-lib","ecosystem":"npm","purl":"pkg:npm/comander-lib"},"versions":["1.0.0"]}]}

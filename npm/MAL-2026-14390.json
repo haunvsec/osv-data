@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14390","published":"2026-08-24T05:06:33Z","modified":"2026-08-24T05:30:14.695574598Z","summary":"Malicious code in amundi-compare (npm)","affected":[{"package":{"name":"amundi-compare","ecosystem":"npm","purl":"pkg:npm/amundi-compare"},"versions":["999.9.12"]}]}

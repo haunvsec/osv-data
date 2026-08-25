@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14373","published":"2026-08-23T03:14:11Z","modified":"2026-08-23T03:30:22.504045752Z","summary":"Malicious code in hatdhat-testkit (npm)","affected":[{"package":{"name":"hatdhat-testkit","ecosystem":"npm","purl":"pkg:npm/hatdhat-testkit"},"versions":["3.2.14"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14378","published":"2026-08-23T03:13:51Z","modified":"2026-08-23T03:30:25.253816724Z","summary":"Malicious code in stillm4ddpocs-rtest-bravo (npm)","affected":[{"package":{"name":"stillm4ddpocs-rtest-bravo","ecosystem":"npm","purl":"pkg:npm/stillm4ddpocs-rtest-bravo"},"versions":["999.9.10","999.9.9"]}]}

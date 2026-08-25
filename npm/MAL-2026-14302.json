@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14302","published":"2026-08-19T17:02:35Z","modified":"2026-08-20T04:00:12.005512591Z","aliases":["GHSA-3p3q-38q9-rr37"],"summary":"Malicious code in ai-texts-utils (npm)","affected":[{"package":{"name":"ai-texts-utils","ecosystem":"npm","purl":"pkg:npm/ai-texts-utils"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

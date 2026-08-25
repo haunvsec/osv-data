@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14174","published":"2026-08-18T23:56:56Z","modified":"2026-08-19T00:30:14.604235205Z","summary":"Malicious code in commandorjs (npm)","affected":[{"package":{"name":"commandorjs","ecosystem":"npm","purl":"pkg:npm/commandorjs"},"versions":["1.0.0"]}]}

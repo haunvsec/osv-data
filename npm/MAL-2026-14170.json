@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14170","published":"2026-08-18T23:56:29Z","modified":"2026-08-19T00:30:17.864857740Z","summary":"Malicious code in comander-cli (npm)","affected":[{"package":{"name":"comander-cli","ecosystem":"npm","purl":"pkg:npm/comander-cli"},"versions":["1.0.0"]}]}

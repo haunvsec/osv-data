@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14431","published":"2026-08-24T16:31:13Z","modified":"2026-08-24T17:30:11.909812931Z","aliases":["GHSA-79qw-ww45-gpfp"],"summary":"Malicious code in hydration-ui-dim (npm)","affected":[{"package":{"name":"hydration-ui-dim","ecosystem":"npm","purl":"pkg:npm/hydration-ui-dim"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

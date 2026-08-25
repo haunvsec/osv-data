@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14346","published":"2026-08-21T04:28:59Z","modified":"2026-08-21T05:01:06.953417108Z","summary":"Malicious code in @next-fonts/font (npm)","affected":[{"package":{"name":"@next-fonts/font","ecosystem":"npm","purl":"pkg:npm/%40next-fonts/font"},"versions":["1.0.1","1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14242","published":"2026-08-19T04:03:19Z","modified":"2026-08-19T04:30:10.898853746Z","summary":"Malicious code in electro-session (npm)","affected":[{"package":{"name":"electro-session","ecosystem":"npm","purl":"pkg:npm/electro-session"},"versions":["0.1.1","0.1.4","0.1.3","0.1.0"]}]}

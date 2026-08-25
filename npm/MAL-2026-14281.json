@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14281","published":"2026-08-19T07:52:29Z","modified":"2026-08-19T08:34:48.677340096Z","summary":"Malicious code in mutex-lite (npm)","affected":[{"package":{"name":"mutex-lite","ecosystem":"npm","purl":"pkg:npm/mutex-lite"},"versions":["1.4.2"]}]}

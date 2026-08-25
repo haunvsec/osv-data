@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14191","published":"2026-08-19T00:03:18Z","modified":"2026-08-19T00:30:16.014935505Z","summary":"Malicious code in test_payload_folder (npm)","affected":[{"package":{"name":"test_payload_folder","ecosystem":"npm","purl":"pkg:npm/test_payload_folder"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14347","published":"2026-08-21T04:21:28Z","modified":"2026-08-21T05:01:06.968660519Z","summary":"Malicious code in mcq-session (npm)","affected":[{"package":{"name":"mcq-session","ecosystem":"npm","purl":"pkg:npm/mcq-session"},"versions":["1.0.4","1.0.3"]}]}

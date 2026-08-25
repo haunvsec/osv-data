@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14122","published":"2026-08-18T03:44:44Z","modified":"2026-08-18T21:45:21.624145014Z","aliases":["GHSA-w4vj-4cxr-299x"],"summary":"Malicious code in ulebkit (npm)","affected":[{"package":{"name":"ulebkit","ecosystem":"npm","purl":"pkg:npm/ulebkit"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

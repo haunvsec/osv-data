@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14209","published":"2026-08-19T02:55:50Z","modified":"2026-08-19T03:00:12.763661996Z","summary":"Malicious code in sui-gql-rpc (npm)","affected":[{"package":{"name":"sui-gql-rpc","ecosystem":"npm","purl":"pkg:npm/sui-gql-rpc"},"versions":["1.0.1"]}]}

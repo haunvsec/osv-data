@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14438","published":"2026-08-24T16:44:46Z","modified":"2026-08-24T17:00:15.275036993Z","summary":"Malicious code in remove-bg-serverless-azure (npm)","affected":[{"package":{"name":"remove-bg-serverless-azure","ecosystem":"npm","purl":"pkg:npm/remove-bg-serverless-azure"},"versions":["1.0.1"]}]}

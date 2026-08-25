@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14375","published":"2026-08-23T03:14:19Z","modified":"2026-08-23T03:30:24.049428210Z","summary":"Malicious code in solidity-testing-utils (npm)","affected":[{"package":{"name":"solidity-testing-utils","ecosystem":"npm","purl":"pkg:npm/solidity-testing-utils"},"versions":["1.2.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14266","published":"2026-08-19T06:17:26Z","modified":"2026-08-19T07:01:57.026130299Z","summary":"Malicious code in electron-sessions (npm)","affected":[{"package":{"name":"electron-sessions","ecosystem":"npm","purl":"pkg:npm/electron-sessions"},"versions":["0.1.5"]}]}

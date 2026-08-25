@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14267","published":"2026-08-19T06:47:49Z","modified":"2026-08-19T07:00:38.075878363Z","summary":"Malicious code in karma-proxy (npm)","affected":[{"package":{"name":"karma-proxy","ecosystem":"npm","purl":"pkg:npm/karma-proxy"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14135","published":"2026-08-18T23:06:02Z","modified":"2026-08-18T23:15:11.569977920Z","summary":"Malicious code in @mohamed_nowisar/token3-check (npm)","affected":[{"package":{"name":"@mohamed_nowisar/token3-check","ecosystem":"npm","purl":"pkg:npm/%40mohamed_nowisar/token3-check"},"versions":["0.0.1"]}]}

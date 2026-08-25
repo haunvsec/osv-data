@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14400","published":"2026-08-23T19:00:27Z","modified":"2026-08-24T16:46:04.648132166Z","aliases":["GHSA-2f9h-c49j-w22r"],"summary":"Malicious code in sm-session (npm)","affected":[{"package":{"name":"sm-session","ecosystem":"npm","purl":"pkg:npm/sm-session"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

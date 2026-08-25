@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14410","published":"2026-08-24T13:50:49Z","modified":"2026-08-24T17:00:11.802234025Z","summary":"Malicious code in @temptation.js/utils (npm)","affected":[{"package":{"name":"@temptation.js/utils","ecosystem":"npm","purl":"pkg:npm/%40temptation.js/utils"},"versions":["999.9.16","999.9.15"]}]}

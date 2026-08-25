@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14245","published":"2026-08-19T03:52:07Z","modified":"2026-08-19T04:30:12.348697205Z","summary":"Malicious code in github-policy-bot (npm)","affected":[{"package":{"name":"github-policy-bot","ecosystem":"npm","purl":"pkg:npm/github-policy-bot"},"versions":["1.0.0"]}]}

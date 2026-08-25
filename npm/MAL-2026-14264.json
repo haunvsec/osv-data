@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14264","published":"2026-08-19T06:20:50Z","modified":"2026-08-19T07:01:57.071304500Z","summary":"Malicious code in de-morgan (npm)","affected":[{"package":{"name":"de-morgan","ecosystem":"npm","purl":"pkg:npm/de-morgan"},"versions":["2.1.3"]}]}

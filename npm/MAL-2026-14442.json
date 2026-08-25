@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14442","published":"2026-08-24T16:31:13Z","modified":"2026-08-24T17:30:12.174768844Z","aliases":["GHSA-qvqg-96qf-37vw"],"summary":"Malicious code in svelte-ui-dim (npm)","affected":[{"package":{"name":"svelte-ui-dim","ecosystem":"npm","purl":"pkg:npm/svelte-ui-dim"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

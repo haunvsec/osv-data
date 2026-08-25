@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14294","published":"2026-08-19T08:22:22Z","modified":"2026-08-19T09:00:19.338952332Z","summary":"Malicious code in mc-registry (npm)","affected":[{"package":{"name":"mc-registry","ecosystem":"npm","purl":"pkg:npm/mc-registry"},"versions":["1.0.8","1.0.9"]}]}

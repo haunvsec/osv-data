@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14228","published":"2026-08-19T03:41:11Z","modified":"2026-08-19T04:00:16.943923084Z","summary":"Malicious code in broadcast-graphics-mcp (npm)","affected":[{"package":{"name":"broadcast-graphics-mcp","ecosystem":"npm","purl":"pkg:npm/broadcast-graphics-mcp"},"versions":["1.0.0"]}]}

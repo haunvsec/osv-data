@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14157","published":"2026-08-18T23:21:45Z","modified":"2026-08-18T23:45:12.867374756Z","summary":"Malicious code in typscript-core (npm)","affected":[{"package":{"name":"typscript-core","ecosystem":"npm","purl":"pkg:npm/typscript-core"},"versions":["1.0.0"]}]}

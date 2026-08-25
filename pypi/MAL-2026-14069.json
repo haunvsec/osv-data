@@ -1,1 +1,1 @@
-{"schema_version":"1.9.0","id":"MAL-2026-14069","published":"2026-08-16T19:31:26Z","modified":"2026-08-16T19:45:09.834952101Z","summary":"Malicious code in kb-ai (PyPI)","affected":[{"package":{"name":"kb-ai","ecosystem":"PyPI","purl":"pkg:pypi/kb-ai"},"versions":["0.1.0","0.1.1"]}]}
+{"schema_version":"1.9.0","id":"MAL-2026-14069","published":"2026-08-16T19:31:26Z","modified":"2026-08-18T21:45:20.335246870Z","summary":"Malicious code in kb-ai (PyPI)","affected":[{"package":{"name":"kb-ai","ecosystem":"PyPI","purl":"pkg:pypi/kb-ai"},"versions":["0.1.0","0.1.1"]}]}

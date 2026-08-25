@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14398","published":"2026-08-24T05:07:41Z","modified":"2026-08-24T16:46:05.678592020Z","aliases":["GHSA-9v7m-8hh3-3mc3"],"summary":"Malicious code in sm-oauth (npm)","affected":[{"package":{"name":"sm-oauth","ecosystem":"npm","purl":"pkg:npm/sm-oauth"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

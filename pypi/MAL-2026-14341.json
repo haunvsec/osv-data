@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14341","published":"2026-08-21T02:17:41Z","modified":"2026-08-21T04:30:13.101490189Z","summary":"Malicious code in reqcrypts (PyPI)","affected":[{"package":{"name":"reqcrypts","ecosystem":"PyPI","purl":"pkg:pypi/reqcrypts"},"versions":["0.1.0","0.1.1","0.1.2","0.1.3"]}]}

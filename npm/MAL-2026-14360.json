@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14360","published":"2026-08-22T19:24:50Z","modified":"2026-08-22T19:45:11.097703725Z","summary":"Malicious code in stillm4ddpocs-demo-widget (npm)","affected":[{"package":{"name":"stillm4ddpocs-demo-widget","ecosystem":"npm","purl":"pkg:npm/stillm4ddpocs-demo-widget"},"versions":["999.9.9"]}]}

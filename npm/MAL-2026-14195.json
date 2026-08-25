@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14195","published":"2026-08-19T01:17:13Z","modified":"2026-08-19T01:45:11.483270142Z","summary":"Malicious code in tailwind-custom-templates (npm)","affected":[{"package":{"name":"tailwind-custom-templates","ecosystem":"npm","purl":"pkg:npm/tailwind-custom-templates"},"versions":["0.7.2"]}]}

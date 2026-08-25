@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14244","published":"2026-08-19T03:50:19Z","modified":"2026-08-19T04:30:10.948638602Z","summary":"Malicious code in gemini-cli-a2a-server (npm)","affected":[{"package":{"name":"gemini-cli-a2a-server","ecosystem":"npm","purl":"pkg:npm/gemini-cli-a2a-server"},"versions":["1.0.0"]}]}

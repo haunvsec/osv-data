@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14387","published":"2026-08-23T20:00:33Z","modified":"2026-08-24T05:30:16.040488797Z","summary":"Malicious code in @opap/player-kyc-widget (npm)","affected":[{"package":{"name":"@opap/player-kyc-widget","ecosystem":"npm","purl":"pkg:npm/%40opap/player-kyc-widget"},"versions":["3.999.999"]}]}

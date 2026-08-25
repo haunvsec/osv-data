@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14206","published":"2026-08-19T02:31:42Z","modified":"2026-08-19T03:00:13.687894556Z","summary":"Malicious code in @sarex-team/ui-kit (npm)","affected":[{"package":{"name":"@sarex-team/ui-kit","ecosystem":"npm","purl":"pkg:npm/%40sarex-team/ui-kit"},"versions":["9.9.11"]}]}

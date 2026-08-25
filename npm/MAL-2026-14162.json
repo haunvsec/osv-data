@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14162","published":"2026-08-18T23:56:13Z","modified":"2026-08-19T00:30:11.448739926Z","summary":"Malicious code in axious-core (npm)","affected":[{"package":{"name":"axious-core","ecosystem":"npm","purl":"pkg:npm/axious-core"},"versions":["1.0.0"]}]}

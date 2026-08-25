@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14344","published":"2026-08-21T03:56:26Z","modified":"2026-08-21T04:30:13.077529883Z","summary":"Malicious code in @js-lib-team/env-parser (npm)","affected":[{"package":{"name":"@js-lib-team/env-parser","ecosystem":"npm","purl":"pkg:npm/%40js-lib-team/env-parser"},"versions":["1.0.0"]}]}

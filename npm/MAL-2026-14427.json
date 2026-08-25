@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14427","published":"2026-08-24T16:46:38Z","modified":"2026-08-24T17:00:12.596385801Z","summary":"Malicious code in chai-as-mno (npm)","affected":[{"package":{"name":"chai-as-mno","ecosystem":"npm","purl":"pkg:npm/chai-as-mno"},"versions":["1.0.5"]}]}

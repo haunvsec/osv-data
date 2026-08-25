@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14197","published":"2026-08-19T01:16:39Z","modified":"2026-08-19T01:45:11.504987668Z","summary":"Malicious code in twapfetch (npm)","affected":[{"package":{"name":"twapfetch","ecosystem":"npm","purl":"pkg:npm/twapfetch"},"versions":["1.1.0","1.1.1"]}]}

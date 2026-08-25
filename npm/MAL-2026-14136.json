@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14136","published":"2026-08-18T23:05:22Z","modified":"2026-08-18T23:15:11.617682648Z","summary":"Malicious code in agora402-payment-utils (npm)","affected":[{"package":{"name":"agora402-payment-utils","ecosystem":"npm","purl":"pkg:npm/agora402-payment-utils"},"versions":["1.0.0"]}]}

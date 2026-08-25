@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14424","published":"2026-08-24T14:01:03Z","modified":"2026-08-25T02:45:10.696231711Z","summary":"Malicious code in @medisend/webview-bridge (npm)","affected":[{"package":{"name":"@medisend/webview-bridge","ecosystem":"npm","purl":"pkg:npm/%40medisend/webview-bridge"},"versions":["0.0.1-security-research","0.0.2-security-research"]}]}

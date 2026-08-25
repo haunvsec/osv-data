@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14187","published":"2026-08-18T23:59:57Z","modified":"2026-08-19T00:30:14.475612381Z","summary":"Malicious code in raectjs (npm)","affected":[{"package":{"name":"raectjs","ecosystem":"npm","purl":"pkg:npm/raectjs"},"versions":["1.0.0"]}]}

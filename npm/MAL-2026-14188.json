@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14188","published":"2026-08-18T23:58:32Z","modified":"2026-08-19T00:30:14.629383164Z","summary":"Malicious code in sui-move-gql (npm)","affected":[{"package":{"name":"sui-move-gql","ecosystem":"npm","purl":"pkg:npm/sui-move-gql"},"versions":["1.0.2"]}]}

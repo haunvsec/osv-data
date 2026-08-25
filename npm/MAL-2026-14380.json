@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14380","published":"2026-08-23T11:00:58Z","modified":"2026-08-24T05:30:16.016705649Z","summary":"Malicious code in fund-list-filter (npm)","affected":[{"package":{"name":"fund-list-filter","ecosystem":"npm","purl":"pkg:npm/fund-list-filter"},"versions":["999.9.12"]}]}

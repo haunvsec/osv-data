@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14238","published":"2026-08-19T03:48:37Z","modified":"2026-08-19T04:00:16.949670855Z","summary":"Malicious code in gaarf-node (npm)","affected":[{"package":{"name":"gaarf-node","ecosystem":"npm","purl":"pkg:npm/gaarf-node"},"versions":["1.0.0"]}]}

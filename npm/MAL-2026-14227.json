@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14227","published":"2026-08-19T03:41:01Z","modified":"2026-08-19T04:00:18.257213145Z","summary":"Malicious code in bazelisk (npm)","affected":[{"package":{"name":"bazelisk","ecosystem":"npm","purl":"pkg:npm/bazelisk"},"versions":["1.0.0"]}]}

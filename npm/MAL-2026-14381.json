@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14381","published":"2026-08-23T11:00:52Z","modified":"2026-08-24T05:30:14.689321813Z","summary":"Malicious code in fund-portfolio (npm)","affected":[{"package":{"name":"fund-portfolio","ecosystem":"npm","purl":"pkg:npm/fund-portfolio"},"versions":["999.9.12"]}]}

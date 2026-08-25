@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14416","published":"2026-08-24T15:53:15Z","modified":"2026-08-24T17:00:12.422667429Z","aliases":["GHSA-5hwv-w72c-55qw"],"summary":"Malicious code in dims-hydration-ui (npm)","affected":[{"package":{"name":"dims-hydration-ui","ecosystem":"npm","purl":"pkg:npm/dims-hydration-ui"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

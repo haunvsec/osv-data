@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14379","published":"2026-08-21T12:25:46Z","modified":"2026-08-24T06:00:11.517018986Z","aliases":["GHSA-m72r-95xc-q6g8"],"summary":"Malicious code in totp-utils (npm)","affected":[{"package":{"name":"totp-utils","ecosystem":"npm","purl":"pkg:npm/totp-utils"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

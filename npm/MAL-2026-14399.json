@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14399","published":"2026-08-23T19:00:47Z","modified":"2026-08-24T16:46:04.640684594Z","aliases":["GHSA-xr9c-mx62-832c"],"summary":"Malicious code in sm-payment (npm)","affected":[{"package":{"name":"sm-payment","ecosystem":"npm","purl":"pkg:npm/sm-payment"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14315","published":"2026-08-20T03:33:06Z","modified":"2026-08-20T04:00:12.115499029Z","summary":"Malicious code in @httttt/mcp-demo (npm)","affected":[{"package":{"name":"@httttt/mcp-demo","ecosystem":"npm","purl":"pkg:npm/%40httttt/mcp-demo"},"versions":["1.0.0"]}]}

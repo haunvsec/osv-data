@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14291","published":"2026-08-19T08:17:38Z","modified":"2026-08-19T09:00:19.346200885Z","summary":"Malicious code in libas-signal (npm)","affected":[{"package":{"name":"libas-signal","ecosystem":"npm","purl":"pkg:npm/libas-signal"},"versions":["1.0.0"]}]}

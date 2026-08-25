@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14249","published":"2026-08-19T04:22:55Z","modified":"2026-08-19T05:00:16.354159747Z","summary":"Malicious code in localize-extract (npm)","affected":[{"package":{"name":"localize-extract","ecosystem":"npm","purl":"pkg:npm/localize-extract"},"versions":["1.0.0"]}]}

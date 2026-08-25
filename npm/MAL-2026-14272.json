@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14272","published":"2026-08-19T06:58:53Z","modified":"2026-08-19T07:30:12.109999789Z","summary":"Malicious code in price-scripping-js (npm)","affected":[{"package":{"name":"price-scripping-js","ecosystem":"npm","purl":"pkg:npm/price-scripping-js"},"versions":["1.1.2"]}]}

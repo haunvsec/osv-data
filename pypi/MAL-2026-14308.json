@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14308","published":"2026-08-19T22:38:13Z","modified":"2026-08-20T04:00:12.225705020Z","summary":"Malicious code in libasync (PyPI)","affected":[{"package":{"name":"libasync","ecosystem":"PyPI","purl":"pkg:pypi/libasync"},"versions":["1.0.0"]}]}

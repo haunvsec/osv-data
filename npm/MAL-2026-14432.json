@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14432","published":"2026-08-24T16:46:01Z","modified":"2026-08-24T17:00:13.988287941Z","summary":"Malicious code in kelly-stake-sizing (npm)","affected":[{"package":{"name":"kelly-stake-sizing","ecosystem":"npm","purl":"pkg:npm/kelly-stake-sizing"},"versions":["0.1.1"]}]}

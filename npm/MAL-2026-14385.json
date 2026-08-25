@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14385","published":"2026-08-23T17:23:33Z","modified":"2026-08-24T05:30:16.165888894Z","aliases":["GHSA-p33f-w7x3-mxrr"],"summary":"Malicious code in hydration-dim-kit (npm)","affected":[{"package":{"name":"hydration-dim-kit","ecosystem":"npm","purl":"pkg:npm/hydration-dim-kit"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

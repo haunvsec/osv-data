@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14163","published":"2026-08-18T23:57:25Z","modified":"2026-08-19T00:30:11.521636419Z","summary":"Malicious code in axois-http (npm)","affected":[{"package":{"name":"axois-http","ecosystem":"npm","purl":"pkg:npm/axois-http"},"versions":["1.0.0"]}]}

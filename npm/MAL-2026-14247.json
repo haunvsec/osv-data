@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14247","published":"2026-08-19T03:56:20Z","modified":"2026-08-19T04:30:10.903115438Z","summary":"Malicious code in magika-js (npm)","affected":[{"package":{"name":"magika-js","ecosystem":"npm","purl":"pkg:npm/magika-js"},"versions":["4.1.1"]}]}

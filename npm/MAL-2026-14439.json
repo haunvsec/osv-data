@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14439","published":"2026-08-24T16:44:04Z","modified":"2026-08-24T17:00:20.376257516Z","summary":"Malicious code in secret-key-totp (npm)","affected":[{"package":{"name":"secret-key-totp","ecosystem":"npm","purl":"pkg:npm/secret-key-totp"},"versions":["1.5.1"]}]}

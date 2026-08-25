@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14322","published":"2026-08-20T14:04:04Z","modified":"2026-08-20T14:30:11.447293652Z","aliases":["GHSA-qpp9-fwpx-39f8"],"summary":"Malicious code in debug-fnt (npm)","affected":[{"package":{"name":"debug-fnt","ecosystem":"npm","purl":"pkg:npm/debug-fnt"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

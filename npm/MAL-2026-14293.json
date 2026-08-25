@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14293","published":"2026-08-19T08:17:00Z","modified":"2026-08-19T09:00:20.588645356Z","summary":"Malicious code in matrixflow-js (npm)","affected":[{"package":{"name":"matrixflow-js","ecosystem":"npm","purl":"pkg:npm/matrixflow-js"},"versions":["3.2.1"]}]}

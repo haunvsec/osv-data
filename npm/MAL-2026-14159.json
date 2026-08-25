@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14159","published":"2026-08-18T23:58:03Z","modified":"2026-08-19T00:30:11.505138215Z","summary":"Malicious code in @evial/runtime-health (npm)","affected":[{"package":{"name":"@evial/runtime-health","ecosystem":"npm","purl":"pkg:npm/%40evial/runtime-health"},"versions":["1.0.1"]}]}

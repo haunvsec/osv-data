@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14391","published":"2026-08-24T05:06:25Z","modified":"2026-08-24T05:30:16.162209661Z","summary":"Malicious code in fund-calculator (npm)","affected":[{"package":{"name":"fund-calculator","ecosystem":"npm","purl":"pkg:npm/fund-calculator"},"versions":["999.9.12"]}]}

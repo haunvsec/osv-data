@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14169","published":"2026-08-18T23:59:37Z","modified":"2026-08-19T00:30:16.175713218Z","summary":"Malicious code in comand (npm)","affected":[{"package":{"name":"comand","ecosystem":"npm","purl":"pkg:npm/comand"},"versions":["1.0.0"]}]}

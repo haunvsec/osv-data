@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14257","published":"2026-08-19T05:04:38Z","modified":"2026-08-19T05:31:27.680663475Z","summary":"Malicious code in modsync (npm)","affected":[{"package":{"name":"modsync","ecosystem":"npm","purl":"pkg:npm/modsync"},"versions":["5.0.2"]}]}

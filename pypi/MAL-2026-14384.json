@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14384","published":"2026-08-23T17:37:53Z","modified":"2026-08-24T05:30:16.062035160Z","summary":"Malicious code in mlflow-otel-instrumentor (PyPI)","affected":[{"package":{"name":"mlflow-otel-instrumentor","ecosystem":"PyPI","purl":"pkg:pypi/mlflow-otel-instrumentor"},"versions":["1.1.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14147","published":"2026-08-18T23:19:56Z","modified":"2026-08-18T23:45:11.530849145Z","summary":"Malicious code in typescipt-core (npm)","affected":[{"package":{"name":"typescipt-core","ecosystem":"npm","purl":"pkg:npm/typescipt-core"},"versions":["1.0.0"]}]}

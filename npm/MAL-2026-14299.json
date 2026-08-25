@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14299","published":"2026-08-19T09:53:53Z","modified":"2026-08-19T10:15:12.730941145Z","summary":"Malicious code in gear-composer (npm)","affected":[{"package":{"name":"gear-composer","ecosystem":"npm","purl":"pkg:npm/gear-composer"},"versions":["1.0.126"]}]}

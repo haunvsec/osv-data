@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14166","published":"2026-08-18T23:58:23Z","modified":"2026-08-19T00:30:17.952495542Z","summary":"Malicious code in chalk-es (npm)","affected":[{"package":{"name":"chalk-es","ecosystem":"npm","purl":"pkg:npm/chalk-es"},"versions":["1.0.0"]}]}

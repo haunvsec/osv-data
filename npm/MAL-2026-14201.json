@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14201","published":"2026-08-19T01:59:26Z","modified":"2026-08-19T02:45:11.163245380Z","summary":"Malicious code in chaikit (npm)","affected":[{"package":{"name":"chaikit","ecosystem":"npm","purl":"pkg:npm/chaikit"},"versions":["2.3.5"]}]}

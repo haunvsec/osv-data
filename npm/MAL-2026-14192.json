@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14192","published":"2026-08-19T00:03:33Z","modified":"2026-08-19T00:30:15.932725238Z","summary":"Malicious code in tfjs-inference (npm)","affected":[{"package":{"name":"tfjs-inference","ecosystem":"npm","purl":"pkg:npm/tfjs-inference"},"versions":["1.0.0"]}]}

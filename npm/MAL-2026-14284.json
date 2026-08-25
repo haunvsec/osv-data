@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14284","published":"2026-08-19T07:48:46Z","modified":"2026-08-19T08:34:49.580948545Z","summary":"Malicious code in nibra1 (npm)","affected":[{"package":{"name":"nibra1","ecosystem":"npm","purl":"pkg:npm/nibra1"},"versions":["1.0.0"]}]}

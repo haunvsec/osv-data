@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14213","published":"2026-08-19T02:50:45Z","modified":"2026-08-19T03:00:14.367833978Z","summary":"Malicious code in syjoy (npm)","affected":[{"package":{"name":"syjoy","ecosystem":"npm","purl":"pkg:npm/syjoy"},"versions":["1.0.0"]}]}

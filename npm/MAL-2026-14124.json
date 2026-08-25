@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14124","published":"2026-08-18T14:35:34Z","modified":"2026-08-18T15:46:29.400310741Z","aliases":["GHSA-58r2-5x99-cjrp"],"summary":"Malicious code in alphazone (npm)","affected":[{"package":{"name":"alphazone","ecosystem":"npm","purl":"pkg:npm/alphazone"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

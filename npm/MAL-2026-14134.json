@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14134","published":"2026-08-18T23:05:52Z","modified":"2026-08-18T23:15:11.595022248Z","summary":"Malicious code in @mohamed_nowisar/depconf-canary-test (npm)","affected":[{"package":{"name":"@mohamed_nowisar/depconf-canary-test","ecosystem":"npm","purl":"pkg:npm/%40mohamed_nowisar/depconf-canary-test"},"versions":["0.0.1"]}]}

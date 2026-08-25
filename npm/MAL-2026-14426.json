@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14426","published":"2026-08-24T16:45:38Z","modified":"2026-08-24T17:00:13.708675098Z","summary":"Malicious code in babel-polyfill-plugin-corejs2 (npm)","affected":[{"package":{"name":"babel-polyfill-plugin-corejs2","ecosystem":"npm","purl":"pkg:npm/babel-polyfill-plugin-corejs2"},"versions":["1.0.1"]}]}

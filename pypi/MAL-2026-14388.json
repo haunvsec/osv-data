@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14388","published":"2026-08-23T20:18:02Z","modified":"2026-08-24T05:30:14.790633998Z","summary":"Malicious code in cryptgraphy (PyPI)","affected":[{"package":{"name":"cryptgraphy","ecosystem":"PyPI","purl":"pkg:pypi/cryptgraphy"},"versions":["1.0.0"]}]}

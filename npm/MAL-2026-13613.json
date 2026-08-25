@@ -1,1 +1,1 @@
-{"schema_version":"1.8.0","id":"MAL-2026-13613","published":"2026-08-07T14:35:08Z","modified":"2026-08-07T15:04:54.350663081Z","summary":"Malicious code in big-tss (npm)","affected":[{"package":{"name":"big-tss","ecosystem":"npm","purl":"pkg:npm/big-tss"},"versions":["5.0.5"]}]}
+{"schema_version":"1.9.0","id":"MAL-2026-13613","published":"2026-08-07T14:35:08Z","modified":"2026-08-19T02:45:11.112108675Z","summary":"Malicious code in big-tss (npm)","affected":[{"package":{"name":"big-tss","ecosystem":"npm","purl":"pkg:npm/big-tss"},"versions":["5.0.5","5.0.4"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14422","published":"2026-08-24T16:46:21Z","modified":"2026-08-24T17:00:12.091520390Z","summary":"Malicious code in @medisend/core (npm)","affected":[{"package":{"name":"@medisend/core","ecosystem":"npm","purl":"pkg:npm/%40medisend/core"},"versions":["0.0.1-security-research"]}]}

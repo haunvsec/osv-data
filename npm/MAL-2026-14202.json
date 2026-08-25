@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14202","published":"2026-08-19T01:54:04Z","modified":"2026-08-19T02:45:11.171023654Z","summary":"Malicious code in chameleon-src (npm)","affected":[{"package":{"name":"chameleon-src","ecosystem":"npm","purl":"pkg:npm/chameleon-src"},"versions":["6.6.29"]}]}

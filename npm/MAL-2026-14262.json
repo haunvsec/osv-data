@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14262","published":"2026-08-19T05:15:14Z","modified":"2026-08-19T06:00:10.805650336Z","summary":"Malicious code in pump-fun-skills (npm)","affected":[{"package":{"name":"pump-fun-skills","ecosystem":"npm","purl":"pkg:npm/pump-fun-skills"},"versions":["20.1.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14145","published":"2026-08-18T23:20:05Z","modified":"2026-08-18T23:45:11.482748116Z","summary":"Malicious code in typecript-cli (npm)","affected":[{"package":{"name":"typecript-cli","ecosystem":"npm","purl":"pkg:npm/typecript-cli"},"versions":["1.0.0"]}]}

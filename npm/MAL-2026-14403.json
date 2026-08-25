@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14403","published":"2026-08-24T08:08:36Z","modified":"2026-08-24T08:45:11.795366711Z","aliases":["GHSA-8gjf-85f5-p24f"],"summary":"Malicious code in react-emits (npm)","affected":[{"package":{"name":"react-emits","ecosystem":"npm","purl":"pkg:npm/react-emits"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

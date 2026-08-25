@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14246","published":"2026-08-19T03:54:07Z","modified":"2026-08-19T04:30:11.001065434Z","summary":"Malicious code in hardhat-hold (npm)","affected":[{"package":{"name":"hardhat-hold","ecosystem":"npm","purl":"pkg:npm/hardhat-hold"},"versions":["2.0.1","2.21.0"]}]}

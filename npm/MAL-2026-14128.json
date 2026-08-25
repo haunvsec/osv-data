@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14128","published":"2026-08-18T15:38:32Z","modified":"2026-08-18T17:15:25.552891759Z","aliases":["GHSA-f96p-92vv-5j49"],"summary":"Malicious code in motionspring (npm)","affected":[{"package":{"name":"motionspring","ecosystem":"npm","purl":"pkg:npm/motionspring"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}
