@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14504","published":"2026-08-25T16:12:22Z","modified":"2026-08-25T23:58:44.824048322Z","aliases":["GHSA-gwcq-5jcj-p2x4"],"summary":"Malicious code in video-crate-check (npm)","affected":[{"package":{"name":"video-crate-check","ecosystem":"npm","purl":"pkg:npm/video-crate-check"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

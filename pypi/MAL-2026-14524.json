@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14524","published":"2026-08-26T06:19:40Z","modified":"2026-08-26T07:00:11.748980878Z","summary":"Malicious code in bigquery-agent-analytics-tracing (PyPI)","affected":[{"package":{"name":"bigquery-agent-analytics-tracing","ecosystem":"PyPI","purl":"pkg:pypi/bigquery-agent-analytics-tracing"},"versions":["0.0.0","0.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14539","published":"2026-08-26T14:19:24Z","modified":"2026-08-26T18:15:12.612949143Z","aliases":["GHSA-6wh9-pcqw-jp9j"],"summary":"Malicious code in zenntechinc-cli (npm)","affected":[{"package":{"name":"zenntechinc-cli","ecosystem":"npm","purl":"pkg:npm/zenntechinc-cli"},"versions":["1.6.6","1.6.4"]}]}

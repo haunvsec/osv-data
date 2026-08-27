@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14518","published":"2026-08-25T23:30:45Z","modified":"2026-08-26T00:45:44.509603968Z","aliases":["GHSA-q88r-gcjf-c3jc"],"summary":"Malicious code in svelte-ui-cls (npm)","affected":[{"package":{"name":"svelte-ui-cls","ecosystem":"npm","purl":"pkg:npm/svelte-ui-cls"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

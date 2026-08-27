@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14475","published":"2026-08-25T06:45:38Z","modified":"2026-08-25T23:49:44.736699773Z","summary":"Malicious code in ecobee-home (npm)","affected":[{"package":{"name":"ecobee-home","ecosystem":"npm","purl":"pkg:npm/ecobee-home"},"versions":["0.0.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14468","published":"2026-08-25T05:33:29Z","modified":"2026-08-25T23:50:43.730314882Z","aliases":["GHSA-6h57-7m4x-f6v7"],"summary":"Malicious code in tungtunggod (npm)","affected":[{"package":{"name":"tungtunggod","ecosystem":"npm","purl":"pkg:npm/tungtunggod"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

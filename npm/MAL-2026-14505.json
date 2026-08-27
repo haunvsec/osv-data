@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14505","published":"2026-08-25T16:12:22Z","modified":"2026-08-26T00:01:25.217585485Z","aliases":["GHSA-3vqr-jqwr-7m6q"],"summary":"Malicious code in voice-crate-check (npm)","affected":[{"package":{"name":"voice-crate-check","ecosystem":"npm","purl":"pkg:npm/voice-crate-check"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

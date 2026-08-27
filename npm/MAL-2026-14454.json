@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14454","published":"2026-08-25T05:33:29Z","modified":"2026-08-25T23:49:44.372793618Z","aliases":["GHSA-mwq6-6g7q-rjxp"],"summary":"Malicious code in desmosisfire (npm)","affected":[{"package":{"name":"desmosisfire","ecosystem":"npm","purl":"pkg:npm/desmosisfire"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

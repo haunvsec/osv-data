@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14461","published":"2026-08-25T05:33:29Z","modified":"2026-08-25T23:50:11.756926339Z","aliases":["GHSA-gcgg-jh5v-64hh"],"summary":"Malicious code in iwantaburger (npm)","affected":[{"package":{"name":"iwantaburger","ecosystem":"npm","purl":"pkg:npm/iwantaburger"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

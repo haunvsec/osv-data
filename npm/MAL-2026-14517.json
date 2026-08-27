@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14517","published":"2026-08-25T23:30:45Z","modified":"2026-08-26T14:30:12.610309795Z","aliases":["GHSA-596w-j9vp-pr5x"],"summary":"Malicious code in hydration-ui-cls (npm)","affected":[{"package":{"name":"hydration-ui-cls","ecosystem":"npm","purl":"pkg:npm/hydration-ui-cls"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

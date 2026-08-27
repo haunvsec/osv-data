@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14544","published":"2026-08-26T19:13:44Z","modified":"2026-08-26T20:00:11.393418944Z","aliases":["GHSA-9jvg-g3cg-g557"],"summary":"Malicious code in self-sign (npm)","affected":[{"package":{"name":"self-sign","ecosystem":"npm","purl":"pkg:npm/self-sign"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

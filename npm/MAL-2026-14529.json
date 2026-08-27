@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14529","published":"2026-08-26T13:28:03Z","modified":"2026-08-26T13:45:13.458906112Z","aliases":["GHSA-8m87-xx52-4rjw"],"summary":"Malicious code in baileys-mbuilder (npm)","affected":[{"package":{"name":"baileys-mbuilder","ecosystem":"npm","purl":"pkg:npm/baileys-mbuilder"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

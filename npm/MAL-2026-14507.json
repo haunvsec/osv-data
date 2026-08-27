@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14507","published":"2026-08-25T16:52:27Z","modified":"2026-08-26T00:21:42.215362051Z","aliases":["GHSA-q4hh-v9hg-92w7"],"summary":"Malicious code in foldmap (npm)","affected":[{"package":{"name":"foldmap","ecosystem":"npm","purl":"pkg:npm/foldmap"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

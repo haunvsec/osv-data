@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14520","published":"2026-08-26T03:40:38Z","modified":"2026-08-26T04:36:58.327157621Z","aliases":["GHSA-7jgv-5jq7-38g6"],"summary":"Malicious code in fivem-tool-helper (npm)","affected":[{"package":{"name":"fivem-tool-helper","ecosystem":"npm","purl":"pkg:npm/fivem-tool-helper"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14469","published":"2026-08-25T05:33:29Z","modified":"2026-08-25T23:49:44.577504661Z","aliases":["GHSA-xv9m-378j-86x3"],"summary":"Malicious code in tungtungisgoated (npm)","affected":[{"package":{"name":"tungtungisgoated","ecosystem":"npm","purl":"pkg:npm/tungtungisgoated"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

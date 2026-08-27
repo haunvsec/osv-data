@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14490","published":"2026-08-25T11:15:33Z","modified":"2026-08-25T23:49:44.280289656Z","aliases":["GHSA-wvpv-8v52-pgq7"],"summary":"Malicious code in mkb-manager (npm)","affected":[{"package":{"name":"mkb-manager","ecosystem":"npm","purl":"pkg:npm/mkb-manager"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

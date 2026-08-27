@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14538","published":"2026-08-26T14:19:00Z","modified":"2026-08-26T14:30:13.956694935Z","summary":"Malicious code in spotify-url-resolvers (npm)","affected":[{"package":{"name":"spotify-url-resolvers","ecosystem":"npm","purl":"pkg:npm/spotify-url-resolvers"},"versions":["3.4.2"]}]}

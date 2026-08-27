@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14541","published":"2026-08-26T16:51:45Z","modified":"2026-08-26T18:15:12.556724373Z","aliases":["GHSA-hxqf-cq68-wh37"],"summary":"Malicious code in svelte-vli-ui (npm)","affected":[{"package":{"name":"svelte-vli-ui","ecosystem":"npm","purl":"pkg:npm/svelte-vli-ui"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14447","published":"2026-08-25T05:33:29Z","modified":"2026-08-25T23:50:11.754299471Z","aliases":["GHSA-rxrv-wfcx-mpjc"],"summary":"Malicious code in classlesson (npm)","affected":[{"package":{"name":"classlesson","ecosystem":"npm","purl":"pkg:npm/classlesson"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

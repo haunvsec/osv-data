@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14550","published":"2026-08-26T22:09:18Z","modified":"2026-08-26T22:31:06.561490381Z","aliases":["GHSA-7978-5fh2-74q2"],"summary":"Malicious code in tset_racie (npm)","affected":[{"package":{"name":"tset_racie","ecosystem":"npm","purl":"pkg:npm/tset_racie"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

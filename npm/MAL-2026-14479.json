@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14479","published":"2026-08-25T08:10:02Z","modified":"2026-08-25T23:49:44.328160667Z","summary":"Malicious code in vite-plugin-bug-tracker (npm)","affected":[{"package":{"name":"vite-plugin-bug-tracker","ecosystem":"npm","purl":"pkg:npm/vite-plugin-bug-tracker"},"versions":["1.0.0","1.1.0"]}]}

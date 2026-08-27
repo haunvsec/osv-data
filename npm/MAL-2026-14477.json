@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14477","published":"2026-08-25T07:08:58Z","modified":"2026-08-25T23:49:44.274799130Z","summary":"Malicious code in js-soul (npm)","affected":[{"package":{"name":"js-soul","ecosystem":"npm","purl":"pkg:npm/js-soul"},"versions":["1.0.4"]}]}

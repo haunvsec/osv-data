@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14481","published":"2026-08-25T08:10:28Z","modified":"2026-08-25T23:49:44.396645166Z","summary":"Malicious code in vite-plugin-image-tracker (npm)","affected":[{"package":{"name":"vite-plugin-image-tracker","ecosystem":"npm","purl":"pkg:npm/vite-plugin-image-tracker"},"versions":["1.0.0","1.1.0"]}]}

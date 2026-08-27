@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14536","published":"2026-08-26T14:18:05Z","modified":"2026-08-26T14:30:12.624756364Z","summary":"Malicious code in mt-ts-serverless-starter (npm)","affected":[{"package":{"name":"mt-ts-serverless-starter","ecosystem":"npm","purl":"pkg:npm/mt-ts-serverless-starter"},"versions":["1.0.1"]}]}

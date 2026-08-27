@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14491","published":"2026-08-25T14:10:16Z","modified":"2026-08-25T23:50:05.926722447Z","summary":"Malicious code in chai-as-otc (npm)","affected":[{"package":{"name":"chai-as-otc","ecosystem":"npm","purl":"pkg:npm/chai-as-otc"},"versions":["1.0.5"]}]}

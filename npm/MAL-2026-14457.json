@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14457","published":"2026-08-25T05:33:29Z","modified":"2026-08-25T23:50:43.737966736Z","aliases":["GHSA-4v42-34fj-5p2w"],"summary":"Malicious code in desmosschoolwork (npm)","affected":[{"package":{"name":"desmosschoolwork","ecosystem":"npm","purl":"pkg:npm/desmosschoolwork"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

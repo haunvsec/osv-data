@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14482","published":"2026-08-25T08:10:48Z","modified":"2026-08-25T23:50:02.961194933Z","summary":"Malicious code in vite-plugin-images-analysis (npm)","affected":[{"package":{"name":"vite-plugin-images-analysis","ecosystem":"npm","purl":"pkg:npm/vite-plugin-images-analysis"},"versions":["1.0.0"]}]}

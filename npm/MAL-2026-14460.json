@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14460","published":"2026-08-25T05:33:29Z","modified":"2026-08-25T23:49:44.455779064Z","aliases":["GHSA-3wf6-8h38-rvjr"],"summary":"Malicious code in ilovedesmos (npm)","affected":[{"package":{"name":"ilovedesmos","ecosystem":"npm","purl":"pkg:npm/ilovedesmos"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

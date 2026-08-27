@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14509","published":"2026-08-25T16:36:51Z","modified":"2026-08-26T00:22:42.027188687Z","aliases":["GHSA-jqfp-p3qc-cqm9"],"summary":"Malicious code in r4wk-book (npm)","affected":[{"package":{"name":"r4wk-book","ecosystem":"npm","purl":"pkg:npm/r4wk-book"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

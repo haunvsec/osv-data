@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14459","published":"2026-08-25T05:33:29Z","modified":"2026-08-25T23:49:36.772939683Z","aliases":["GHSA-chwh-2rv3-4c2f"],"summary":"Malicious code in iamhungryrn (npm)","affected":[{"package":{"name":"iamhungryrn","ecosystem":"npm","purl":"pkg:npm/iamhungryrn"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

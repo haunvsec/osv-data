@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14451","published":"2026-08-25T05:33:29Z","modified":"2026-08-25T23:49:44.436907867Z","aliases":["GHSA-776h-qpf5-rx46"],"summary":"Malicious code in classwork (npm)","affected":[{"package":{"name":"classwork","ecosystem":"npm","purl":"pkg:npm/classwork"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

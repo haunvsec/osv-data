@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14466","published":"2026-08-25T05:33:29Z","modified":"2026-08-26T00:40:40.331754501Z","aliases":["GHSA-xv2p-qw82-6xmj"],"summary":"Malicious code in sonsonsahur (npm)","affected":[{"package":{"name":"sonsonsahur","ecosystem":"npm","purl":"pkg:npm/sonsonsahur"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

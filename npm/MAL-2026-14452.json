@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14452","published":"2026-08-25T05:33:29Z","modified":"2026-08-25T23:49:44.439408359Z","aliases":["GHSA-752h-3q4v-jhq7"],"summary":"Malicious code in desmosclasswork (npm)","affected":[{"package":{"name":"desmosclasswork","ecosystem":"npm","purl":"pkg:npm/desmosclasswork"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

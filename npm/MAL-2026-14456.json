@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14456","published":"2026-08-25T05:33:29Z","modified":"2026-08-25T23:49:44.429409967Z","aliases":["GHSA-3vxp-vqwp-3vmh"],"summary":"Malicious code in desmosmathwork (npm)","affected":[{"package":{"name":"desmosmathwork","ecosystem":"npm","purl":"pkg:npm/desmosmathwork"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

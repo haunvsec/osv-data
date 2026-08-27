@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14467","published":"2026-08-25T05:33:29Z","modified":"2026-08-25T23:50:43.858216299Z","aliases":["GHSA-99f7-924m-fp2c"],"summary":"Malicious code in superdupertest111 (npm)","affected":[{"package":{"name":"superdupertest111","ecosystem":"npm","purl":"pkg:npm/superdupertest111"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

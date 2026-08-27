@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14543","published":"2026-08-26T19:13:44Z","modified":"2026-08-26T20:00:11.351706214Z","aliases":["GHSA-rwg4-cx82-h5hq"],"summary":"Malicious code in self-certificates (npm)","affected":[{"package":{"name":"self-certificates","ecosystem":"npm","purl":"pkg:npm/self-certificates"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

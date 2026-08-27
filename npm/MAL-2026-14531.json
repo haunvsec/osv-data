@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14531","published":"2026-08-26T14:18:17Z","modified":"2026-08-26T14:30:12.521140115Z","summary":"Malicious code in analytics-v2 (npm)","affected":[{"package":{"name":"analytics-v2","ecosystem":"npm","purl":"pkg:npm/analytics-v2"},"versions":["4.0.0"]}]}

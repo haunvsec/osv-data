@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14483","published":"2026-08-25T08:40:02Z","modified":"2026-08-25T23:49:44.367550212Z","summary":"Malicious code in modules-newline (npm)","affected":[{"package":{"name":"modules-newline","ecosystem":"npm","purl":"pkg:npm/modules-newline"},"versions":["0.0.6"]}]}

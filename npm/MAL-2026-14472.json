@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14472","published":"2026-08-25T06:36:31Z","modified":"2026-08-25T23:49:42.599555042Z","summary":"Malicious code in cscasereadserv-paypal (npm)","affected":[{"package":{"name":"cscasereadserv-paypal","ecosystem":"npm","purl":"pkg:npm/cscasereadserv-paypal"},"versions":["3.4.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14445","published":"2026-08-25T04:57:22Z","modified":"2026-08-25T23:50:11.767234205Z","summary":"Malicious code in digitalexp-style-module-l9 (npm)","affected":[{"package":{"name":"digitalexp-style-module-l9","ecosystem":"npm","purl":"pkg:npm/digitalexp-style-module-l9"},"versions":["99.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14464","published":"2026-08-25T05:33:29Z","modified":"2026-08-25T23:50:11.747702572Z","aliases":["GHSA-4q3f-7qxr-pfm4"],"summary":"Malicious code in schoollesson (npm)","affected":[{"package":{"name":"schoollesson","ecosystem":"npm","purl":"pkg:npm/schoollesson"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

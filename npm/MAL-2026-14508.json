@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14508","published":"2026-08-25T16:52:27Z","modified":"2026-08-26T00:24:14.335361728Z","aliases":["GHSA-4p5f-gmxw-44x3"],"summary":"Malicious code in hexdrift (npm)","affected":[{"package":{"name":"hexdrift","ecosystem":"npm","purl":"pkg:npm/hexdrift"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

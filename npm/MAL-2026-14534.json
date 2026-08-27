@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14534","published":"2026-08-26T14:18:32Z","modified":"2026-08-26T14:30:12.601231425Z","summary":"Malicious code in commonjs-code-token (npm)","affected":[{"package":{"name":"commonjs-code-token","ecosystem":"npm","purl":"pkg:npm/commonjs-code-token"},"versions":["1.0.1","1.0.0"]}]}

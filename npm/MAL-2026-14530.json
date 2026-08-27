@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14530","published":"2026-08-26T13:28:03Z","modified":"2026-08-26T13:45:13.404137912Z","aliases":["GHSA-mpxq-q6j7-77jh"],"summary":"Malicious code in infomedia (npm)","affected":[{"package":{"name":"infomedia","ecosystem":"npm","purl":"pkg:npm/infomedia"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

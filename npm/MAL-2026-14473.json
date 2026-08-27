@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14473","published":"2026-08-25T06:41:07Z","modified":"2026-08-25T23:49:14.976899962Z","summary":"Malicious code in css-import-order (npm)","affected":[{"package":{"name":"css-import-order","ecosystem":"npm","purl":"pkg:npm/css-import-order"},"versions":["1.1.0"]}]}

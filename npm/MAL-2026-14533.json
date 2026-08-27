@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14533","published":"2026-08-26T14:18:49Z","modified":"2026-08-26T18:15:12.561012473Z","aliases":["GHSA-2r27-f59g-4hcx"],"summary":"Malicious code in chai-plus (npm)","affected":[{"package":{"name":"chai-plus","ecosystem":"npm","purl":"pkg:npm/chai-plus"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

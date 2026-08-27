@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14535","published":"2026-08-26T14:17:54Z","modified":"2026-08-26T18:15:12.584602743Z","aliases":["GHSA-v229-xfmv-q98w"],"summary":"Malicious code in hydration-vli-ui (npm)","affected":[{"package":{"name":"hydration-vli-ui","ecosystem":"npm","purl":"pkg:npm/hydration-vli-ui"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

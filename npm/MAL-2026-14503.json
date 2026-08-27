@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14503","published":"2026-08-25T16:12:21Z","modified":"2026-08-26T00:04:33.623318041Z","aliases":["GHSA-c5pr-66ph-gfp9"],"summary":"Malicious code in text-crate-check (npm)","affected":[{"package":{"name":"text-crate-check","ecosystem":"npm","purl":"pkg:npm/text-crate-check"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

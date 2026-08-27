@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14448","published":"2026-08-25T05:33:29Z","modified":"2026-08-25T23:49:44.489058869Z","aliases":["GHSA-hrpx-q7gr-p9g5"],"summary":"Malicious code in classroomhomework (npm)","affected":[{"package":{"name":"classroomhomework","ecosystem":"npm","purl":"pkg:npm/classroomhomework"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

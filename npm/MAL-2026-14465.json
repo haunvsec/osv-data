@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14465","published":"2026-08-25T05:33:29Z","modified":"2026-08-25T23:49:44.507689843Z","aliases":["GHSA-m62q-p4m5-72m6"],"summary":"Malicious code in schoolwork (npm)","affected":[{"package":{"name":"schoolwork","ecosystem":"npm","purl":"pkg:npm/schoolwork"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

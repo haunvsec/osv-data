@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14499","published":"2026-08-25T14:50:22Z","modified":"2026-08-25T23:51:38.306252870Z","aliases":["GHSA-2p6v-xwhm-f5h6"],"summary":"Malicious code in svelte-map-metric (npm)","affected":[{"package":{"name":"svelte-map-metric","ecosystem":"npm","purl":"pkg:npm/svelte-map-metric"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

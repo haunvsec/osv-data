@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14537","published":"2026-08-26T14:17:29Z","modified":"2026-08-26T14:30:12.572651434Z","summary":"Malicious code in octopus-action (npm)","affected":[{"package":{"name":"octopus-action","ecosystem":"npm","purl":"pkg:npm/octopus-action"},"versions":["1.0.1"]}]}

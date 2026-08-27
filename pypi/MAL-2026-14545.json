@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14545","published":"2026-08-26T19:21:41Z","modified":"2026-08-26T21:00:12.845747220Z","summary":"Malicious code in pybitjs (PyPI)","affected":[{"package":{"name":"pybitjs","ecosystem":"PyPI","purl":"pkg:pypi/pybitjs"},"versions":["0.1.0"]}]}

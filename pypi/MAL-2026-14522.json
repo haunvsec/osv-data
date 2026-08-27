@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14522","published":"2026-08-26T04:16:50Z","modified":"2026-08-26T05:00:10.512007470Z","summary":"Malicious code in syntaxerror-package-12345 (PyPI)","affected":[{"package":{"name":"syntaxerror-package-12345","ecosystem":"PyPI","purl":"pkg:pypi/syntaxerror-package-12345"},"versions":["0.1"]}]}

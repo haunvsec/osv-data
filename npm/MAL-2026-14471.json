@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14471","published":"2026-08-25T06:35:38Z","modified":"2026-08-25T23:49:42.142181590Z","summary":"Malicious code in cat-embed-i18n-res (npm)","affected":[{"package":{"name":"cat-embed-i18n-res","ecosystem":"npm","purl":"pkg:npm/cat-embed-i18n-res"},"versions":["1.0.0"]}]}

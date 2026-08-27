@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14492","published":"2026-08-25T14:10:28Z","modified":"2026-08-25T23:51:17.760689161Z","summary":"Malicious code in spotify-url-infos (npm)","affected":[{"package":{"name":"spotify-url-infos","ecosystem":"npm","purl":"pkg:npm/spotify-url-infos"},"versions":["3.4.2"]}]}

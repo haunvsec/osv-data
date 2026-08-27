@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14514","published":"2026-08-25T16:57:19Z","modified":"2026-08-26T00:24:15.821410029Z","aliases":["GHSA-59qg-7f2g-4p3c"],"summary":"Malicious code in wm-eslint-fe (npm)","affected":[{"package":{"name":"wm-eslint-fe","ecosystem":"npm","purl":"pkg:npm/wm-eslint-fe"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

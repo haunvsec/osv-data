@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14510","published":"2026-08-25T16:52:26Z","modified":"2026-08-26T00:24:14.485042695Z","aliases":["GHSA-82xg-f5h2-7xf8"],"summary":"Malicious code in snapbuf (npm)","affected":[{"package":{"name":"snapbuf","ecosystem":"npm","purl":"pkg:npm/snapbuf"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14526","published":"2026-08-26T07:50:58Z","modified":"2026-08-26T14:30:12.525300985Z","summary":"Malicious code in omniauth-recharge-rails-example (npm)","affected":[{"package":{"name":"omniauth-recharge-rails-example","ecosystem":"npm","purl":"pkg:npm/omniauth-recharge-rails-example"},"versions":["1.0.0"]}]}

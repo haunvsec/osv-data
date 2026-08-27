@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14474","published":"2026-08-25T06:44:49Z","modified":"2026-08-25T23:49:44.732419949Z","summary":"Malicious code in ecobee-api (npm)","affected":[{"package":{"name":"ecobee-api","ecosystem":"npm","purl":"pkg:npm/ecobee-api"},"versions":["0.0.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14458","published":"2026-08-25T05:33:29Z","modified":"2026-08-25T23:49:44.443562454Z","aliases":["GHSA-m8cf-32j6-jq72"],"summary":"Malicious code in desmoswork (npm)","affected":[{"package":{"name":"desmoswork","ecosystem":"npm","purl":"pkg:npm/desmoswork"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

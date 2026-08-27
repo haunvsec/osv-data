@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14523","published":"2026-08-26T05:11:49Z","modified":"2026-08-26T05:30:11.250200711Z","summary":"Malicious code in rce-test (PyPI)","affected":[{"package":{"name":"rce-test","ecosystem":"PyPI","purl":"pkg:pypi/rce-test"},"versions":["0.1"]}]}
