@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15587","published":"2026-08-30T16:35:22Z","modified":"2026-08-31T18:31:21.202243359Z","aliases":["GHSA-ffvr-gx62-j45m"],"summary":"Malicious code in real-browser-plus (npm)","affected":[{"package":{"name":"real-browser-plus","ecosystem":"npm","purl":"pkg:npm/real-browser-plus"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

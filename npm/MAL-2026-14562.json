@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14562","published":"2026-08-27T13:51:36Z","modified":"2026-08-31T18:31:23.443739512Z","aliases":["GHSA-v899-gp96-p5rv"],"summary":"Malicious code in morglog (npm)","affected":[{"package":{"name":"morglog","ecosystem":"npm","purl":"pkg:npm/morglog"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15963","published":"2026-09-06T03:19:47Z","modified":"2026-09-07T02:15:10.546405507Z","aliases":["GHSA-rghh-4gfg-jvqc"],"summary":"Malicious code in @pilllesss/yorn (npm)","affected":[{"package":{"name":"@pilllesss/yorn","ecosystem":"npm","purl":"pkg:npm/%40pilllesss/yorn"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15637","published":"2026-08-31T18:00:32Z","modified":"2026-08-31T18:31:27.261446793Z","summary":"Malicious code in test__123q1 (npm)","affected":[{"package":{"name":"test__123q1","ecosystem":"npm","purl":"pkg:npm/test__123q1"},"versions":["4.3.5","3.2.4"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15929","published":"2026-09-04T15:01:36Z","modified":"2026-09-04T21:30:08.747828345Z","summary":"Malicious code in pymaas (PyPI)","affected":[{"package":{"name":"pymaas","ecosystem":"PyPI","purl":"pkg:pypi/pymaas"},"versions":["99.99.0"]}]}

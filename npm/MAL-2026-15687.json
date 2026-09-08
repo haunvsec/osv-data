@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15687","published":"2026-08-24T16:34:29Z","modified":"2026-09-04T01:00:06.295901554Z","summary":"Malicious code in @yuva2210/okx-poc-rce-impact (npm)","affected":[{"package":{"name":"@yuva2210/okx-poc-rce-impact","ecosystem":"npm","purl":"pkg:npm/%40yuva2210/okx-poc-rce-impact"},"versions":["2.0.0"]}]}

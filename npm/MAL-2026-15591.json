@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15591","published":"2026-08-30T08:07:03Z","modified":"2026-09-03T06:00:05.072376534Z","aliases":["GHSA-4894-fvv8-2p2j"],"summary":"Malicious code in cre-setup (npm)","affected":[{"package":{"name":"cre-setup","ecosystem":"npm","purl":"pkg:npm/cre-setup"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

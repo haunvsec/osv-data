@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15820","published":"2026-09-01T00:00:00Z","modified":"2026-09-04T01:00:06.634562815Z","summary":"Malicious code in @systemzero/baileys (npm)","affected":[{"package":{"name":"@systemzero/baileys","ecosystem":"npm","purl":"pkg:npm/%40systemzero/baileys"},"versions":["1.1.2"]}]}

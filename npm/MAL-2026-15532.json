@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15532","published":"2026-08-28T23:17:05Z","modified":"2026-08-29T18:45:16.007961665Z","aliases":["GHSA-g338-wxvv-vg5q"],"summary":"Malicious code in confluence-rest (npm)","affected":[{"package":{"name":"confluence-rest","ecosystem":"npm","purl":"pkg:npm/confluence-rest"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

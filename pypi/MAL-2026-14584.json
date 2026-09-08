@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14584","published":"2026-08-27T21:48:34Z","modified":"2026-08-28T00:45:09.823637311Z","summary":"Malicious code in flyteplugins-redis (PyPI)","affected":[{"package":{"name":"flyteplugins-redis","ecosystem":"PyPI","purl":"pkg:pypi/flyteplugins-redis"},"versions":["2.6.10"]}]}

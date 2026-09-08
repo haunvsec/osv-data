@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15674","published":"2026-08-25T17:50:18Z","modified":"2026-09-04T01:00:04.764107552Z","summary":"Malicious code in bamru (npm)","affected":[{"package":{"name":"bamru","ecosystem":"npm","purl":"pkg:npm/bamru"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

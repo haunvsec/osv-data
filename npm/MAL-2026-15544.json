@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15544","published":"2026-08-28T23:17:48Z","modified":"2026-08-29T18:45:18.009375769Z","aliases":["GHSA-qq6h-882h-g88f"],"summary":"Malicious code in sentrykit (npm)","affected":[{"package":{"name":"sentrykit","ecosystem":"npm","purl":"pkg:npm/sentrykit"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15498","published":"2026-08-28T23:12:05Z","modified":"2026-08-29T18:45:14.948295091Z","aliases":["GHSA-q8ww-mqrw-jq9q"],"summary":"Malicious code in aws-blog (npm)","affected":[{"package":{"name":"aws-blog","ecosystem":"npm","purl":"pkg:npm/aws-blog"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

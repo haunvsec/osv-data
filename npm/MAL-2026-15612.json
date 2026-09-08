@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15612","published":"2026-08-26T14:55:09Z","modified":"2026-08-31T18:31:20.038505797Z","summary":"Malicious code in mndsxcusiwlk1 (npm)","affected":[{"package":{"name":"mndsxcusiwlk1","ecosystem":"npm","purl":"pkg:npm/mndsxcusiwlk1"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

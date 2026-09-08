@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15635","published":"2026-08-31T18:01:37Z","modified":"2026-08-31T18:31:27.211102998Z","summary":"Malicious code in tailwind-modernanimation (npm)","affected":[{"package":{"name":"tailwind-modernanimation","ecosystem":"npm","purl":"pkg:npm/tailwind-modernanimation"},"versions":["2.3.8"]}]}

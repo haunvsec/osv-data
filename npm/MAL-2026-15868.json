@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15868","published":"2026-09-04T01:12:00Z","modified":"2026-09-04T01:30:05.150247004Z","summary":"Malicious code in @bx-ui-framework/microfrontend (npm)","affected":[{"package":{"name":"@bx-ui-framework/microfrontend","ecosystem":"npm","purl":"pkg:npm/%40bx-ui-framework/microfrontend"},"versions":["15.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15516","published":"2026-08-28T23:11:23Z","modified":"2026-08-29T18:45:14.939375749Z","aliases":["GHSA-vmrp-3pwx-mj42"],"summary":"Malicious code in nx-app (npm)","affected":[{"package":{"name":"nx-app","ecosystem":"npm","purl":"pkg:npm/nx-app"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

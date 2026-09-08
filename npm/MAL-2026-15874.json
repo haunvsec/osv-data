@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15874","published":"2026-09-03T10:14:06Z","modified":"2026-09-04T06:45:06.317982812Z","aliases":["GHSA-jj56-73wg-7pff"],"summary":"Malicious code in btree-leaderboard (npm)","affected":[{"package":{"name":"btree-leaderboard","ecosystem":"npm","purl":"pkg:npm/btree-leaderboard"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

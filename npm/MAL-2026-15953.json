@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15953","published":"2026-09-05T19:49:12Z","modified":"2026-09-07T02:15:10.544661600Z","aliases":["GHSA-93j2-q7r7-7qhh"],"summary":"Malicious code in @domyjs/mask (npm)","affected":[{"package":{"name":"@domyjs/mask","ecosystem":"npm","purl":"pkg:npm/%40domyjs/mask"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

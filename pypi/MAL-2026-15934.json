@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15934","published":"2026-09-05T05:59:33Z","modified":"2026-09-06T14:45:03.791442724Z","summary":"Malicious code in dbt-sa-cli (PyPI)","affected":[{"package":{"name":"dbt-sa-cli","ecosystem":"PyPI","purl":"pkg:pypi/dbt-sa-cli"},"versions":["0.0.1"]}]}

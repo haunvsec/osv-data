@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15671","published":"2026-09-01T01:03:21Z","modified":"2026-09-04T06:45:11.878518359Z","aliases":["GHSA-w63g-6crc-rq2w"],"summary":"Malicious code in quartz-core (npm)","affected":[{"package":{"name":"quartz-core","ecosystem":"npm","purl":"pkg:npm/quartz-core"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

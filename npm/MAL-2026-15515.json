@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15515","published":"2026-08-28T23:12:49Z","modified":"2026-08-29T18:45:18.114732270Z","aliases":["GHSA-f2fx-3q3p-v293"],"summary":"Malicious code in npm-extension (npm)","affected":[{"package":{"name":"npm-extension","ecosystem":"npm","purl":"pkg:npm/npm-extension"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

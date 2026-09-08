@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15935","published":"2026-09-05T07:39:50Z","modified":"2026-09-06T14:45:03.770945849Z","summary":"Malicious code in proxycer (PyPI)","affected":[{"package":{"name":"proxycer","ecosystem":"PyPI","purl":"pkg:pypi/proxycer"},"versions":["0.1.0"]}]}

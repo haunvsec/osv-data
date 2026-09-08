@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15559","published":"2026-08-29T02:14:18Z","modified":"2026-08-29T02:30:12.886946328Z","summary":"Malicious code in secretkey2fa (npm)","affected":[{"package":{"name":"secretkey2fa","ecosystem":"npm","purl":"pkg:npm/secretkey2fa"},"versions":["1.0.1"]}]}

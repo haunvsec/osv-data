@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16037","published":"2026-09-07T04:56:55Z","modified":"2026-09-08T00:30:20.909752833Z","aliases":["GHSA-fv48-xvcx-h3qh"],"summary":"Malicious code in scw-core (npm)","affected":[{"package":{"name":"scw-core","ecosystem":"npm","purl":"pkg:npm/scw-core"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

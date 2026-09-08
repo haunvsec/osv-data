@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15885","published":"2026-09-03T08:38:43Z","modified":"2026-09-04T04:00:11.130341986Z","aliases":["GHSA-xv44-v947-3jrh"],"summary":"Malicious code in guci-main (npm)","affected":[{"package":{"name":"guci-main","ecosystem":"npm","purl":"pkg:npm/guci-main"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

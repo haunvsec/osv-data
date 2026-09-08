@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15578","published":"2026-08-30T06:20:12Z","modified":"2026-08-30T07:00:09.745707448Z","summary":"Malicious code in trongridor (PyPI)","affected":[{"package":{"name":"trongridor","ecosystem":"PyPI","purl":"pkg:pypi/trongridor"},"versions":["0.0.1"]}]}

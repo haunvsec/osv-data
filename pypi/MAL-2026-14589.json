@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14589","published":"2026-08-28T10:08:08Z","modified":"2026-08-28T10:45:09.981826206Z","summary":"Malicious code in yamlformat-tools (PyPI)","affected":[{"package":{"name":"yamlformat-tools","ecosystem":"PyPI","purl":"pkg:pypi/yamlformat-tools"},"versions":["0.1.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15576","published":"2026-08-30T05:03:03Z","modified":"2026-08-31T18:31:20.078994439Z","aliases":["GHSA-mm9m-8q5p-fxwx"],"summary":"Malicious code in quesoeducation (npm)","affected":[{"package":{"name":"quesoeducation","ecosystem":"npm","purl":"pkg:npm/quesoeducation"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15881","published":"2026-09-03T08:38:43Z","modified":"2026-09-04T04:00:10.876242793Z","aliases":["GHSA-vmx8-58pp-r729"],"summary":"Malicious code in element-icon-guci (npm)","affected":[{"package":{"name":"element-icon-guci","ecosystem":"npm","purl":"pkg:npm/element-icon-guci"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

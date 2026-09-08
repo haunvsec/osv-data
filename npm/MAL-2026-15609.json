@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15609","published":"2026-08-26T14:55:09Z","modified":"2026-08-31T18:31:24.959698184Z","summary":"Malicious code in mn2adskhweox (npm)","affected":[{"package":{"name":"mn2adskhweox","ecosystem":"npm","purl":"pkg:npm/mn2adskhweox"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

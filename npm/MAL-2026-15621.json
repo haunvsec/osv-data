@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15621","published":"2026-08-31T16:41:24Z","modified":"2026-08-31T17:30:12.641407453Z","summary":"Malicious code in gas-monitor (npm)","affected":[{"package":{"name":"gas-monitor","ecosystem":"npm","purl":"pkg:npm/gas-monitor"},"versions":["1.1.0"]}]}

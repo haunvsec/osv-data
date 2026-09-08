@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15827","published":"2026-09-03T00:57:34Z","modified":"2026-09-03T03:15:04.889909808Z","summary":"Malicious code in company-sdk (PyPI)","affected":[{"package":{"name":"company-sdk","ecosystem":"PyPI","purl":"pkg:pypi/company-sdk"},"versions":["0.0.1"]}]}

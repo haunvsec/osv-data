@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15558","published":"2026-08-29T02:08:33Z","modified":"2026-08-29T02:30:12.888662833Z","summary":"Malicious code in mfakit (npm)","affected":[{"package":{"name":"mfakit","ecosystem":"npm","purl":"pkg:npm/mfakit"},"versions":["1.4.0"]}]}

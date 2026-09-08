@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16011","published":"2026-09-04T00:00:00Z","modified":"2026-09-07T10:45:08.020577895Z","summary":"Malicious code in orbitron-tui (npm)","affected":[{"package":{"name":"orbitron-tui","ecosystem":"npm","purl":"pkg:npm/orbitron-tui"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

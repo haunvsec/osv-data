@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15552","published":"2026-08-29T02:12:23Z","modified":"2026-08-29T02:30:11.886607688Z","summary":"Malicious code in discord-mfa (npm)","affected":[{"package":{"name":"discord-mfa","ecosystem":"npm","purl":"pkg:npm/discord-mfa"},"versions":["3.0.1","3.0.0"]}]}

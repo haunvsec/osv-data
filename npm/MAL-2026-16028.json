@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16028","published":"2026-09-07T04:56:55Z","modified":"2026-09-08T00:30:18.402786209Z","aliases":["GHSA-m477-pr6m-v2fp"],"summary":"Malicious code in cb-wallet-env (npm)","affected":[{"package":{"name":"cb-wallet-env","ecosystem":"npm","purl":"pkg:npm/cb-wallet-env"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

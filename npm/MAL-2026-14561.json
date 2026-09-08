@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14561","published":"2026-08-27T13:51:36Z","modified":"2026-08-31T18:31:26.199054321Z","aliases":["GHSA-pmg4-2q5x-v3x5"],"summary":"Malicious code in module-relpath (npm)","affected":[{"package":{"name":"module-relpath","ecosystem":"npm","purl":"pkg:npm/module-relpath"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

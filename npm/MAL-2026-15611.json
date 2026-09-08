@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15611","published":"2026-08-26T14:55:09Z","modified":"2026-08-31T18:31:21.149016624Z","summary":"Malicious code in mn4xcouzvhus (npm)","affected":[{"package":{"name":"mn4xcouzvhus","ecosystem":"npm","purl":"pkg:npm/mn4xcouzvhus"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

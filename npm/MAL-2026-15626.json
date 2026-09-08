@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15626","published":"2026-08-31T00:00:00Z","modified":"2026-09-03T06:00:07.056451901Z","aliases":["GHSA-h4w6-844f-2fxw"],"summary":"Malicious code in fuels-forc (npm)","affected":[{"package":{"name":"fuels-forc","ecosystem":"npm","purl":"pkg:npm/fuels-forc"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

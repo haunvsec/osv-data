@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15902","published":"2026-09-04T03:45:26Z","modified":"2026-09-04T04:30:05.851502780Z","summary":"Malicious code in peertube-plugin-video-views-counter (npm)","affected":[{"package":{"name":"peertube-plugin-video-views-counter","ecosystem":"npm","purl":"pkg:npm/peertube-plugin-video-views-counter"},"versions":["1.0.2"]}]}

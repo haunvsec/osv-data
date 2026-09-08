@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15856","published":"2026-09-03T15:51:39Z","modified":"2026-09-03T16:30:07.576142487Z","summary":"Malicious code in @quantixfinance/ui (npm)","affected":[{"package":{"name":"@quantixfinance/ui","ecosystem":"npm","purl":"pkg:npm/%40quantixfinance/ui"},"versions":["1.0.0"]}]}

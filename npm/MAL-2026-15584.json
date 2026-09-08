@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15584","published":"2026-08-30T16:35:22Z","modified":"2026-09-04T06:45:06.360571649Z","aliases":["GHSA-w6m7-6jhr-mfjc"],"summary":"Malicious code in h3-codex (npm)","affected":[{"package":{"name":"h3-codex","ecosystem":"npm","purl":"pkg:npm/h3-codex"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15610","published":"2026-08-26T14:55:09Z","modified":"2026-08-31T18:31:24.111077551Z","summary":"Malicious code in mn3sadkoiewu (npm)","affected":[{"package":{"name":"mn3sadkoiewu","ecosystem":"npm","purl":"pkg:npm/mn3sadkoiewu"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

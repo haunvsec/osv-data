@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15908","published":"2026-09-03T23:35:53Z","modified":"2026-09-04T05:45:05.680718880Z","summary":"Malicious code in 0nestjs (npm)","affected":[{"package":{"name":"0nestjs","ecosystem":"npm","purl":"pkg:npm/0nestjs"},"versions":["0.0.1"]}]}

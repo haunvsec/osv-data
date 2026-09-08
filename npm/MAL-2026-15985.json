@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15985","published":"2026-09-05T19:49:11Z","modified":"2026-09-07T02:15:13.873128004Z","aliases":["GHSA-mwh7-p59x-2f4g"],"summary":"Malicious code in google-img-scrap (npm)","affected":[{"package":{"name":"google-img-scrap","ecosystem":"npm","purl":"pkg:npm/google-img-scrap"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15566","published":"2026-08-29T11:29:06Z","modified":"2026-08-29T23:30:10.932498727Z","summary":"Malicious code in flask-header-guard (PyPI)","affected":[{"package":{"name":"flask-header-guard","ecosystem":"PyPI","purl":"pkg:pypi/flask-header-guard"},"versions":["1.0.0"]}]}

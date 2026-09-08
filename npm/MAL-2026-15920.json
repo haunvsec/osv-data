@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15920","published":"2026-09-04T06:38:17Z","modified":"2026-09-04T07:00:09.429768730Z","summary":"Malicious code in box-sign-client (npm)","affected":[{"package":{"name":"box-sign-client","ecosystem":"npm","purl":"pkg:npm/box-sign-client"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15513","published":"2026-08-28T23:13:52Z","modified":"2026-08-29T18:45:17.128791924Z","aliases":["GHSA-f2rf-58x5-5f6w"],"summary":"Malicious code in katal-logger (npm)","affected":[{"package":{"name":"katal-logger","ecosystem":"npm","purl":"pkg:npm/katal-logger"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

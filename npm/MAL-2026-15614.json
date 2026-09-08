@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15614","published":"2026-08-26T14:55:09Z","modified":"2026-08-31T18:31:23.385850872Z","summary":"Malicious code in ndmfguyhoxc3 (npm)","affected":[{"package":{"name":"ndmfguyhoxc3","ecosystem":"npm","purl":"pkg:npm/ndmfguyhoxc3"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

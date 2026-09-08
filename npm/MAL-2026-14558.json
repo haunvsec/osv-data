@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14558","published":"2026-08-27T14:49:29Z","modified":"2026-09-04T06:45:06.355567527Z","aliases":["GHSA-37cw-jw3f-qf4v"],"summary":"Malicious code in deepjoin (npm)","affected":[{"package":{"name":"deepjoin","ecosystem":"npm","purl":"pkg:npm/deepjoin"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

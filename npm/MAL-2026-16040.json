@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16040","published":"2026-09-07T04:56:55Z","modified":"2026-09-08T00:30:20.008953743Z","aliases":["GHSA-qh9w-32r6-2qpw"],"summary":"Malicious code in wallet-cds-web (npm)","affected":[{"package":{"name":"wallet-cds-web","ecosystem":"npm","purl":"pkg:npm/wallet-cds-web"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

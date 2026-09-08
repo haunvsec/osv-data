@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14556","published":"2026-08-27T13:01:04Z","modified":"2026-08-27T13:45:13.755602491Z","summary":"Malicious code in sap-quarterly-report (PyPI)","affected":[{"package":{"name":"sap-quarterly-report","ecosystem":"PyPI","purl":"pkg:pypi/sap-quarterly-report"},"versions":["1.0.0"]}]}

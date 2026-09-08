@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15514","published":"2026-08-28T23:12:41Z","modified":"2026-08-29T18:45:14.944316193Z","aliases":["GHSA-x2qj-v4rx-3phv"],"summary":"Malicious code in mintel-taskbar (npm)","affected":[{"package":{"name":"mintel-taskbar","ecosystem":"npm","purl":"pkg:npm/mintel-taskbar"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

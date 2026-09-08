@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15565","published":"2026-08-29T03:00:52Z","modified":"2026-08-29T03:30:10.362818188Z","summary":"Malicious code in @testrelic/playwright-analytics (npm)","affected":[{"package":{"name":"@testrelic/playwright-analytics","ecosystem":"npm","purl":"pkg:npm/%40testrelic/playwright-analytics"},"versions":["2.13.0"]}]}

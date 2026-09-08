@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15937","published":"2026-09-06T10:37:59Z","modified":"2026-09-06T11:30:04.350713206Z","summary":"Malicious code in minecraftmodes (PyPI)","affected":[{"package":{"name":"minecraftmodes","ecosystem":"PyPI","purl":"pkg:pypi/minecraftmodes"},"versions":["0.3.3"]}]}

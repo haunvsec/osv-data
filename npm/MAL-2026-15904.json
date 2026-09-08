@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15904","published":"2026-09-04T03:45:17Z","modified":"2026-09-04T04:30:06.559794118Z","summary":"Malicious code in tailwind-scrollbar-styles (npm)","affected":[{"package":{"name":"tailwind-scrollbar-styles","ecosystem":"npm","purl":"pkg:npm/tailwind-scrollbar-styles"},"versions":["4.0.3"]}]}

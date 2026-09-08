@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16019","published":"2026-09-07T16:37:50Z","modified":"2026-09-08T00:30:16.393915250Z","aliases":["GHSA-46mp-56rw-qpmm"],"summary":"Malicious code in @aircanada/core (npm)","affected":[{"package":{"name":"@aircanada/core","ecosystem":"npm","purl":"pkg:npm/%40aircanada/core"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

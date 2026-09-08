@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15490","published":"2026-08-28T18:17:42Z","modified":"2026-09-04T06:45:05.259608129Z","aliases":["GHSA-68fh-772h-wjfw"],"summary":"Malicious code in clmm-fee-audit (npm)","affected":[{"package":{"name":"clmm-fee-audit","ecosystem":"npm","purl":"pkg:npm/clmm-fee-audit"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

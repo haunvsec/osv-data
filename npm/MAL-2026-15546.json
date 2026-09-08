@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15546","published":"2026-08-28T23:15:21Z","modified":"2026-08-29T18:45:15.013367108Z","aliases":["GHSA-69cq-ggff-w363"],"summary":"Malicious code in vui-gateway (npm)","affected":[{"package":{"name":"vui-gateway","ecosystem":"npm","purl":"pkg:npm/vui-gateway"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

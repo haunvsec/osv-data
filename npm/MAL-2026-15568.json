@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15568","published":"2026-08-29T19:26:31Z","modified":"2026-08-31T18:31:24.237952210Z","aliases":["GHSA-3rww-v3p8-fw9p"],"summary":"Malicious code in manager-thedate (npm)","affected":[{"package":{"name":"manager-thedate","ecosystem":"npm","purl":"pkg:npm/manager-thedate"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

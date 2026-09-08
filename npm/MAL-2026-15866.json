@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15866","published":"2026-09-04T01:12:20Z","modified":"2026-09-04T21:30:08.549647134Z","summary":"Malicious code in @bx-ui-framework/authentication (npm)","affected":[{"package":{"name":"@bx-ui-framework/authentication","ecosystem":"npm","purl":"pkg:npm/%40bx-ui-framework/authentication"},"versions":["1.2.0","15.0.0","16.0.0"]}]}

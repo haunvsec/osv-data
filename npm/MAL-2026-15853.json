@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15853","published":"2026-09-03T15:51:15Z","modified":"2026-09-03T16:30:07.571105463Z","summary":"Malicious code in @quantixfinance/supabase (npm)","affected":[{"package":{"name":"@quantixfinance/supabase","ecosystem":"npm","purl":"pkg:npm/%40quantixfinance/supabase"},"versions":["1.0.0"]}]}

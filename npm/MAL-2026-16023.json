@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16023","published":"2026-09-07T04:56:55Z","modified":"2026-09-08T00:30:14.352647696Z","aliases":["GHSA-9hpg-rmwp-vg4p"],"summary":"Malicious code in base-app-data (npm)","affected":[{"package":{"name":"base-app-data","ecosystem":"npm","purl":"pkg:npm/base-app-data"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

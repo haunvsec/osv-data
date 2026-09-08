@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15673","published":"2026-08-31T00:00:00Z","modified":"2026-09-04T01:00:05.746213311Z","aliases":["GHSA-7478-v9hq-9835"],"summary":"Malicious code in fuels-versions (npm)","affected":[{"package":{"name":"fuels-versions","ecosystem":"npm","purl":"pkg:npm/fuels-versions"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

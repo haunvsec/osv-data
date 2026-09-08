@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14581","published":"2026-08-27T21:48:07Z","modified":"2026-08-28T00:45:09.848048086Z","summary":"Malicious code in flyteplugins-agento11y (PyPI)","affected":[{"package":{"name":"flyteplugins-agento11y","ecosystem":"PyPI","purl":"pkg:pypi/flyteplugins-agento11y"},"versions":["2.6.10"]}]}

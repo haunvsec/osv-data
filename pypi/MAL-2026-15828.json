@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15828","published":"2026-09-03T00:44:13Z","modified":"2026-09-04T01:00:05.972919075Z","summary":"Malicious code in env-validator-tool (PyPI)","affected":[{"package":{"name":"env-validator-tool","ecosystem":"PyPI","purl":"pkg:pypi/env-validator-tool"},"versions":["1.0.0","1.0.1","1.0.2"]}]}

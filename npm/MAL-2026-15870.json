@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15870","published":"2026-09-04T02:57:36Z","modified":"2026-09-04T03:30:05.013233938Z","summary":"Malicious code in vitest-cli-dev (npm)","affected":[{"package":{"name":"vitest-cli-dev","ecosystem":"npm","purl":"pkg:npm/vitest-cli-dev"},"versions":["10.0.7"]}]}

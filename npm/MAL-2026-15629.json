@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15629","published":"2026-08-31T18:03:06Z","modified":"2026-08-31T18:31:21.138846185Z","summary":"Malicious code in mfaatest (npm)","affected":[{"package":{"name":"mfaatest","ecosystem":"npm","purl":"pkg:npm/mfaatest"},"versions":["1.0.0"]}]}

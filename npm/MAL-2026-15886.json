@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15886","published":"2026-09-03T08:38:43Z","modified":"2026-09-04T04:00:10.017299520Z","aliases":["GHSA-wm72-hv9c-mxxr"],"summary":"Malicious code in guci-wxrout (npm)","affected":[{"package":{"name":"guci-wxrout","ecosystem":"npm","purl":"pkg:npm/guci-wxrout"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

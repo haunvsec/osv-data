@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15585","published":"2026-08-30T16:35:22Z","modified":"2026-09-04T06:45:05.222123683Z","aliases":["GHSA-89vf-5xgx-fhq7"],"summary":"Malicious code in h3client (npm)","affected":[{"package":{"name":"h3client","ecosystem":"npm","purl":"pkg:npm/h3client"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

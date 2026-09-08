@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15528","published":"2026-08-28T23:16:11Z","modified":"2026-08-29T18:45:17.018989703Z","aliases":["GHSA-7f64-56gx-r4cm"],"summary":"Malicious code in axis-datagrid (npm)","affected":[{"package":{"name":"axis-datagrid","ecosystem":"npm","purl":"pkg:npm/axis-datagrid"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

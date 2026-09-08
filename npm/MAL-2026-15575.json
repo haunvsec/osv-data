@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15575","published":"2026-08-30T05:03:03Z","modified":"2026-08-31T18:31:22.321019643Z","aliases":["GHSA-pwqr-5gcr-9rc4"],"summary":"Malicious code in opiumbest (npm)","affected":[{"package":{"name":"opiumbest","ecosystem":"npm","purl":"pkg:npm/opiumbest"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

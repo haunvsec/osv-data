@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15880","published":"2026-09-03T08:38:43Z","modified":"2026-09-04T06:45:10.935795445Z","aliases":["GHSA-rv3j-whh5-7gwg"],"summary":"Malicious code in element-guci-util (npm)","affected":[{"package":{"name":"element-guci-util","ecosystem":"npm","purl":"pkg:npm/element-guci-util"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

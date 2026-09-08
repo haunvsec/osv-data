@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15634","published":"2026-08-31T18:02:09Z","modified":"2026-08-31T18:31:24.241561877Z","summary":"Malicious code in tailwind-minanimated (npm)","affected":[{"package":{"name":"tailwind-minanimated","ecosystem":"npm","purl":"pkg:npm/tailwind-minanimated"},"versions":["2.3.7"]}]}

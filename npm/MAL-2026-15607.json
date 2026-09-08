@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15607","published":"2026-08-26T14:55:09Z","modified":"2026-08-31T18:31:23.939618548Z","summary":"Malicious code in mbxcnsuwgs1 (npm)","affected":[{"package":{"name":"mbxcnsuwgs1","ecosystem":"npm","purl":"pkg:npm/mbxcnsuwgs1"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

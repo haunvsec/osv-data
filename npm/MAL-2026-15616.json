@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15616","published":"2026-08-26T14:55:09Z","modified":"2026-08-31T18:31:23.206006948Z","summary":"Malicious code in ndmxchdjxn2 (npm)","affected":[{"package":{"name":"ndmxchdjxn2","ecosystem":"npm","purl":"pkg:npm/ndmxchdjxn2"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

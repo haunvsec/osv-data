@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15887","published":"2026-09-03T16:53:38Z","modified":"2026-09-04T04:00:11.129305784Z","aliases":["GHSA-3j85-w3wg-w28x"],"summary":"Malicious code in html_vue (npm)","affected":[{"package":{"name":"html_vue","ecosystem":"npm","purl":"pkg:npm/html_vue"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14557","published":"2026-08-27T14:49:29Z","modified":"2026-09-04T06:45:09.462826224Z","aliases":["GHSA-ccgj-rp72-9hvj"],"summary":"Malicious code in charclass (npm)","affected":[{"package":{"name":"charclass","ecosystem":"npm","purl":"pkg:npm/charclass"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

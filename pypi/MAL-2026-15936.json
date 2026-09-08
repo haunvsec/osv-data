@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15936","published":"2026-09-05T20:26:18Z","modified":"2026-09-06T14:45:03.778702197Z","summary":"Malicious code in trongridew (PyPI)","affected":[{"package":{"name":"trongridew","ecosystem":"PyPI","purl":"pkg:pypi/trongridew"},"versions":["0.0.1"]}]}

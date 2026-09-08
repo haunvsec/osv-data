@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15618","published":"2026-08-26T14:55:09Z","modified":"2026-08-31T18:31:27.289933606Z","summary":"Malicious code in tesgfvbncsdbcv (npm)","affected":[{"package":{"name":"tesgfvbncsdbcv","ecosystem":"npm","purl":"pkg:npm/tesgfvbncsdbcv"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

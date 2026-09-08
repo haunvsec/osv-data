@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15871","published":"2026-09-04T02:58:19Z","modified":"2026-09-07T02:15:15.069839871Z","aliases":["GHSA-jq3q-655j-wjqh"],"summary":"Malicious code in wallet-watcher (npm)","affected":[{"package":{"name":"wallet-watcher","ecosystem":"npm","purl":"pkg:npm/wallet-watcher"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

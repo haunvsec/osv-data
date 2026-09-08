@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15589","published":"2026-08-30T01:25:47Z","modified":"2026-08-31T18:31:22.348675869Z","summary":"Malicious code in autobahn-electron-probe (npm)","affected":[{"package":{"name":"autobahn-electron-probe","ecosystem":"npm","purl":"pkg:npm/autobahn-electron-probe"},"versions":["99.99.1","99.99.2","99.99.3"]}]}

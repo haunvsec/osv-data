@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15875","published":"2026-09-03T10:14:06Z","modified":"2026-09-04T06:45:07.334678893Z","aliases":["GHSA-p5xg-f96c-j538"],"summary":"Malicious code in btree-lru-cache (npm)","affected":[{"package":{"name":"btree-lru-cache","ecosystem":"npm","purl":"pkg:npm/btree-lru-cache"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

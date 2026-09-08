@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15919","published":"2026-09-03T18:09:54Z","modified":"2026-09-04T06:15:05.333911944Z","summary":"Malicious code in megan-baileys (npm)","affected":[{"package":{"name":"megan-baileys","ecosystem":"npm","purl":"pkg:npm/megan-baileys"},"versions":["1.0.0","1.0.1","1.0.2","1.0.3","1.0.4","1.0.5","1.0.6","1.0.8","1.0.9","1.0.11"]}]}

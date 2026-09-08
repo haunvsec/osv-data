@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15867","published":"2026-09-04T01:11:52Z","modified":"2026-09-04T01:30:05.127953742Z","summary":"Malicious code in @bx-ui-framework/common (npm)","affected":[{"package":{"name":"@bx-ui-framework/common","ecosystem":"npm","purl":"pkg:npm/%40bx-ui-framework/common"},"versions":["1.2.0","15.0.0"]}]}

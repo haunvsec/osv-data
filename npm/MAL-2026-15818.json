@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15818","published":"2026-09-02T03:58:15Z","modified":"2026-09-02T04:30:05.695022530Z","summary":"Malicious code in vitest-cli-pro (npm)","affected":[{"package":{"name":"vitest-cli-pro","ecosystem":"npm","purl":"pkg:npm/vitest-cli-pro"},"versions":["10.0.7"]}]}

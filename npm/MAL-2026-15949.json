@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15949","published":"2026-09-05T19:49:11Z","modified":"2026-09-07T02:15:13.057779282Z","aliases":["GHSA-pp6m-2fxr-qjhf"],"summary":"Malicious code in @domyjs/debounce (npm)","affected":[{"package":{"name":"@domyjs/debounce","ecosystem":"npm","purl":"pkg:npm/%40domyjs/debounce"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

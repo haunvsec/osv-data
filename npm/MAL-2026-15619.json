@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15619","published":"2026-08-26T14:55:09Z","modified":"2026-08-31T18:31:27.309004898Z","summary":"Malicious code in testdgdbcsd (npm)","affected":[{"package":{"name":"testdgdbcsd","ecosystem":"npm","purl":"pkg:npm/testdgdbcsd"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

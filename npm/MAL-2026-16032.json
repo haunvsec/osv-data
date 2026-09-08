@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16032","published":"2026-09-07T13:51:36Z","modified":"2026-09-08T00:30:16.551919854Z","aliases":["GHSA-q5c6-p5q5-g3px"],"summary":"Malicious code in feishu-docx-mcp (npm)","affected":[{"package":{"name":"feishu-docx-mcp","ecosystem":"npm","purl":"pkg:npm/feishu-docx-mcp"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15942","published":"2026-09-06T20:35:52Z","modified":"2026-09-07T01:57:29.714006287Z","summary":"Malicious code in omni-channel-order-frontend (npm)","affected":[{"package":{"name":"omni-channel-order-frontend","ecosystem":"npm","purl":"pkg:npm/omni-channel-order-frontend"},"versions":["0.0.1","9999.0.0"]}]}

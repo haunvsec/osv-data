@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15896","published":"2026-09-04T03:46:00Z","modified":"2026-09-04T04:30:05.849593085Z","summary":"Malicious code in easypanel-client (npm)","affected":[{"package":{"name":"easypanel-client","ecosystem":"npm","purl":"pkg:npm/easypanel-client"},"versions":["1.0.0"]}]}

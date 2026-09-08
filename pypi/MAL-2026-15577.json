@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15577","published":"2026-08-30T06:31:06Z","modified":"2026-08-30T07:00:09.748034720Z","summary":"Malicious code in auth-app-streamlit (PyPI)","affected":[{"package":{"name":"auth-app-streamlit","ecosystem":"PyPI","purl":"pkg:pypi/auth-app-streamlit"},"versions":["2.1.1"]}]}

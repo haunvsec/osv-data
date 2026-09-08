@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15889","published":"2026-09-03T10:14:06Z","modified":"2026-09-04T06:45:11.449292117Z","aliases":["GHSA-c7w5-hg7j-94q4"],"summary":"Malicious code in neighbor-key-map (npm)","affected":[{"package":{"name":"neighbor-key-map","ecosystem":"npm","purl":"pkg:npm/neighbor-key-map"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

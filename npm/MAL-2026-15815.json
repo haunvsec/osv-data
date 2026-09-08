@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15815","published":"2026-09-02T03:56:59Z","modified":"2026-09-02T04:30:05.676026698Z","summary":"Malicious code in cminhouse-api-gateway-nodejs (npm)","affected":[{"package":{"name":"cminhouse-api-gateway-nodejs","ecosystem":"npm","purl":"pkg:npm/cminhouse-api-gateway-nodejs"},"versions":["999.0.0","999.0.1"]}]}

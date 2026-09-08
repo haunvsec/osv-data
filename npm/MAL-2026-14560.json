@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14560","published":"2026-08-27T14:52:41Z","modified":"2026-08-31T18:31:21.231351212Z","aliases":["GHSA-xjx7-pff2-34gp"],"summary":"Malicious code in inspectstack (npm)","affected":[{"package":{"name":"inspectstack","ecosystem":"npm","purl":"pkg:npm/inspectstack"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

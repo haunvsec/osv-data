@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15925","published":"2026-09-04T06:48:54Z","modified":"2026-09-04T07:00:09.419447041Z","summary":"Malicious code in tailwind-contact-forms (npm)","affected":[{"package":{"name":"tailwind-contact-forms","ecosystem":"npm","purl":"pkg:npm/tailwind-contact-forms"},"versions":["0.5.12"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15580","published":"2026-08-30T16:35:22Z","modified":"2026-09-04T06:45:09.564705571Z","aliases":["GHSA-63wg-22hx-h5q4"],"summary":"Malicious code in brat-codex (npm)","affected":[{"package":{"name":"brat-codex","ecosystem":"npm","purl":"pkg:npm/brat-codex"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

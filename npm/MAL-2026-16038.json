@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16038","published":"2026-09-07T04:56:56Z","modified":"2026-09-08T00:30:19.409639663Z","aliases":["GHSA-h9g8-rwcg-hpmh"],"summary":"Malicious code in scw-mobile (npm)","affected":[{"package":{"name":"scw-mobile","ecosystem":"npm","purl":"pkg:npm/scw-mobile"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

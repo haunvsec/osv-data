@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15819","published":"2026-09-01T00:00:00Z","modified":"2026-09-02T08:00:05.807293253Z","summary":"Malicious code in @mrlegendbot/baileys (npm)","affected":[{"package":{"name":"@mrlegendbot/baileys","ecosystem":"npm","purl":"pkg:npm/%40mrlegendbot/baileys"},"versions":["1.2.4","1.2.5"]}]}

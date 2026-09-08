@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15986","published":"2026-09-05T19:49:11Z","modified":"2026-09-07T02:15:12.360759203Z","aliases":["GHSA-hh9g-3hm5-vcch"],"summary":"Malicious code in iframe-to-video (npm)","affected":[{"package":{"name":"iframe-to-video","ecosystem":"npm","purl":"pkg:npm/iframe-to-video"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

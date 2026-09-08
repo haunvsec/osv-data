@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15905","published":"2026-09-04T03:46:16Z","modified":"2026-09-04T04:30:05.856890770Z","summary":"Malicious code in tailwindcss-3d-styles (npm)","affected":[{"package":{"name":"tailwindcss-3d-styles","ecosystem":"npm","purl":"pkg:npm/tailwindcss-3d-styles"},"versions":["1.2.4"]}]}

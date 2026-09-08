@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15863","published":"2026-09-03T16:52:46Z","modified":"2026-09-04T01:00:06.085514671Z","summary":"Malicious code in uvhttp-custom (PyPI)","affected":[{"package":{"name":"uvhttp-custom","ecosystem":"PyPI","purl":"pkg:pypi/uvhttp-custom"},"versions":["1.7.9","1.8.1","1.9.9"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15851","published":"2026-09-03T15:51:46Z","modified":"2026-09-03T16:30:07.122246937Z","summary":"Malicious code in @quantixfinance/contracts (npm)","affected":[{"package":{"name":"@quantixfinance/contracts","ecosystem":"npm","purl":"pkg:npm/%40quantixfinance/contracts"},"versions":["1.0.0"]}]}

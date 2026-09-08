@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15499","published":"2026-08-28T23:13:35Z","modified":"2026-08-29T18:45:16.006078217Z","aliases":["GHSA-fhxc-p24q-34ch"],"summary":"Malicious code in calcite-web (npm)","affected":[{"package":{"name":"calcite-web","ecosystem":"npm","purl":"pkg:npm/calcite-web"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

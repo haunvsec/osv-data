@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15567","published":"2026-08-29T19:26:31Z","modified":"2026-08-31T18:31:20.034280873Z","aliases":["GHSA-gcqr-3vw3-7fqm"],"summary":"Malicious code in htps-provider (npm)","affected":[{"package":{"name":"htps-provider","ecosystem":"npm","purl":"pkg:npm/htps-provider"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

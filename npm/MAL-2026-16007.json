@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16007","published":"2026-09-07T00:00:00Z","modified":"2026-09-07T06:15:06.322607342Z","summary":"Malicious code in @caliperx2/components (npm)","affected":[{"package":{"name":"@caliperx2/components","ecosystem":"npm","purl":"pkg:npm/%40caliperx2/components"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

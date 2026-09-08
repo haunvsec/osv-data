@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15809","published":"2026-09-01T14:53:04Z","modified":"2026-09-01T15:30:30.858355718Z","summary":"Malicious code in tallyboxlite (PyPI)","affected":[{"package":{"name":"tallyboxlite","ecosystem":"PyPI","purl":"pkg:pypi/tallyboxlite"},"versions":["1.0"]}]}

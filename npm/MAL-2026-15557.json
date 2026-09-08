@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15557","published":"2026-08-29T02:12:32Z","modified":"2026-08-31T18:31:23.368166426Z","summary":"Malicious code in mfacord (npm)","affected":[{"package":{"name":"mfacord","ecosystem":"npm","purl":"pkg:npm/mfacord"},"versions":["1.0.2","1.0.3","1.0.4","1.0.0"]}]}

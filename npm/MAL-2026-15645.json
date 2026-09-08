@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15645","published":"2026-08-31T17:28:09Z","modified":"2026-09-04T06:45:09.565513487Z","aliases":["GHSA-vqwx-8v7g-55j3"],"summary":"Malicious code in kisama-js (npm)","affected":[{"package":{"name":"kisama-js","ecosystem":"npm","purl":"pkg:npm/kisama-js"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

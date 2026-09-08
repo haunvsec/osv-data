@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15836","published":"2026-09-02T06:01:15Z","modified":"2026-09-04T06:45:10.950926273Z","aliases":["GHSA-h2w3-x32h-cpqq"],"summary":"Malicious code in eyiouss (npm)","affected":[{"package":{"name":"eyiouss","ecosystem":"npm","purl":"pkg:npm/eyiouss"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

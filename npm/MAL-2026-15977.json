@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15977","published":"2026-09-05T19:49:11Z","modified":"2026-09-07T02:15:11.355442754Z","aliases":["GHSA-xp88-72h6-mw9r"],"summary":"Malicious code in discord-tqr (npm)","affected":[{"package":{"name":"discord-tqr","ecosystem":"npm","purl":"pkg:npm/discord-tqr"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

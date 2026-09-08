@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16014","published":"2026-09-04T00:00:00Z","modified":"2026-09-07T11:00:07.863457126Z","summary":"Malicious code in prime-coding-agent (npm)","affected":[{"package":{"name":"prime-coding-agent","ecosystem":"npm","purl":"pkg:npm/prime-coding-agent"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

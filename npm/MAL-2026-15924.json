@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15924","published":"2026-09-04T06:34:52Z","modified":"2026-09-04T07:00:08.517843404Z","summary":"Malicious code in real-router-telemetry (npm)","affected":[{"package":{"name":"real-router-telemetry","ecosystem":"npm","purl":"pkg:npm/real-router-telemetry"},"versions":["1.0.1","1.0.4"]}]}

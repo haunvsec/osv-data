@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15975","published":"2026-09-06T03:12:58Z","modified":"2026-09-07T02:15:13.722000835Z","aliases":["GHSA-4c2f-x64v-297x"],"summary":"Malicious code in dcftunnel (npm)","affected":[{"package":{"name":"dcftunnel","ecosystem":"npm","purl":"pkg:npm/dcftunnel"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

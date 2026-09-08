@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16013","published":"2026-09-04T00:00:00Z","modified":"2026-09-07T11:00:07.866173673Z","summary":"Malicious code in agent-free (npm)","affected":[{"package":{"name":"agent-free","ecosystem":"npm","purl":"pkg:npm/agent-free"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

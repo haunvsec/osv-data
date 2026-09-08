@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15592","published":"2026-08-30T07:59:16Z","modified":"2026-09-03T06:00:06.256528114Z","aliases":["GHSA-82rr-x2r8-gjhm"],"summary":"Malicious code in fuels-core (npm)","affected":[{"package":{"name":"fuels-core","ecosystem":"npm","purl":"pkg:npm/fuels-core"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15593","published":"2026-08-30T08:09:39Z","modified":"2026-09-03T06:00:06.190011720Z","aliases":["GHSA-c4wf-579x-f397"],"summary":"Malicious code in fuels-typegen (npm)","affected":[{"package":{"name":"fuels-typegen","ecosystem":"npm","purl":"pkg:npm/fuels-typegen"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15859","published":"2026-09-03T17:00:47Z","modified":"2026-09-04T01:00:05.967093326Z","summary":"Malicious code in 0requests (PyPI)","affected":[{"package":{"name":"0requests","ecosystem":"PyPI","purl":"pkg:pypi/0requests"},"versions":["0.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15631","published":"2026-08-31T18:03:32Z","modified":"2026-08-31T18:31:21.129933996Z","summary":"Malicious code in nextjsupdater (npm)","affected":[{"package":{"name":"nextjsupdater","ecosystem":"npm","purl":"pkg:npm/nextjsupdater"},"versions":["1.2.1"]}]}

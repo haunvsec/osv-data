@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15524","published":"2026-08-28T23:13:26Z","modified":"2026-08-29T18:45:14.943064914Z","aliases":["GHSA-4g4c-9232-9cwv"],"summary":"Malicious code in tabbables (npm)","affected":[{"package":{"name":"tabbables","ecosystem":"npm","purl":"pkg:npm/tabbables"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

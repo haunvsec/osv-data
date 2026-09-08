@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15900","published":"2026-09-04T03:44:53Z","modified":"2026-09-04T04:30:05.852130973Z","summary":"Malicious code in hydration-ui-pkg (npm)","affected":[{"package":{"name":"hydration-ui-pkg","ecosystem":"npm","purl":"pkg:npm/hydration-ui-pkg"},"versions":["1.0.0"]}]}

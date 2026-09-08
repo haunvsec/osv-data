@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15556","published":"2026-08-29T02:14:09Z","modified":"2026-08-29T02:30:11.877001146Z","summary":"Malicious code in js-tokens-array (npm)","affected":[{"package":{"name":"js-tokens-array","ecosystem":"npm","purl":"pkg:npm/js-tokens-array"},"versions":["1.0.0","1.1.1"]}]}

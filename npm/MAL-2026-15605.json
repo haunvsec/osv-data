@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15605","published":"2026-08-26T14:55:09Z","modified":"2026-08-31T18:31:22.677765697Z","summary":"Malicious code in m2fcsfyjkuxb (npm)","affected":[{"package":{"name":"m2fcsfyjkuxb","ecosystem":"npm","purl":"pkg:npm/m2fcsfyjkuxb"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

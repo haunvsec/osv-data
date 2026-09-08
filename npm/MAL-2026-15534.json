@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15534","published":"2026-08-28T23:15:40Z","modified":"2026-08-29T18:45:18.055207230Z","aliases":["GHSA-q556-gm72-jcp7"],"summary":"Malicious code in firestore-lite (npm)","affected":[{"package":{"name":"firestore-lite","ecosystem":"npm","purl":"pkg:npm/firestore-lite"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

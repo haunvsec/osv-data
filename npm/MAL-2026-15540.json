@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15540","published":"2026-08-28T23:15:47Z","modified":"2026-08-29T18:45:17.114015127Z","aliases":["GHSA-w4pq-8q38-v8jr"],"summary":"Malicious code in mkt-ui-library (npm)","affected":[{"package":{"name":"mkt-ui-library","ecosystem":"npm","purl":"pkg:npm/mkt-ui-library"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

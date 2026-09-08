@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15932","published":"2026-09-04T19:45:00Z","modified":"2026-09-04T20:30:04.371251422Z","summary":"Malicious code in chartkit-core (PyPI)","affected":[{"package":{"name":"chartkit-core","ecosystem":"PyPI","purl":"pkg:pypi/chartkit-core"},"versions":["1.0"]}]}

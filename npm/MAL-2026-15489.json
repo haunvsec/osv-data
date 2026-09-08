@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15489","published":"2026-08-28T18:17:42Z","modified":"2026-09-04T06:45:09.561661290Z","aliases":["GHSA-6m7x-mwxq-f3wf"],"summary":"Malicious code in borsh-lite (npm)","affected":[{"package":{"name":"borsh-lite","ecosystem":"npm","purl":"pkg:npm/borsh-lite"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

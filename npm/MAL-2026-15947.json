@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15947","published":"2026-09-05T19:49:11Z","modified":"2026-09-07T02:15:13.082428837Z","aliases":["GHSA-x2rm-5qrx-62mg"],"summary":"Malicious code in @domyjs/anchor (npm)","affected":[{"package":{"name":"@domyjs/anchor","ecosystem":"npm","purl":"pkg:npm/%40domyjs/anchor"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

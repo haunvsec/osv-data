@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15001","published":"2026-08-28T15:35:18Z","modified":"2026-08-28T16:31:05.821115304Z","aliases":["GHSA-7jf3-h6fc-4939"],"summary":"Malicious code in chilly-mountain (npm)","affected":[{"package":{"name":"chilly-mountain","ecosystem":"npm","purl":"pkg:npm/chilly-mountain"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

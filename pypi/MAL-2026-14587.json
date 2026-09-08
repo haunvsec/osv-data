@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14587","published":"2026-08-28T09:55:47Z","modified":"2026-08-29T12:30:09.786996148Z","summary":"Malicious code in pygame-renderkit (PyPI)","affected":[{"package":{"name":"pygame-renderkit","ecosystem":"PyPI","purl":"pkg:pypi/pygame-renderkit"},"versions":["1.2.0"]}]}

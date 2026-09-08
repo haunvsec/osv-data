@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15933","published":"2026-09-04T22:49:16Z","modified":"2026-09-06T14:45:03.769357754Z","summary":"Malicious code in houdus (PyPI)","affected":[{"package":{"name":"houdus","ecosystem":"PyPI","purl":"pkg:pypi/houdus"},"versions":["1.0.0","1.0.1"]}]}

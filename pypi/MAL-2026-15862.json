@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15862","published":"2026-09-03T17:01:50Z","modified":"2026-09-04T01:00:06.003624807Z","summary":"Malicious code in py-2equests (PyPI)","affected":[{"package":{"name":"py-2equests","ecosystem":"PyPI","purl":"pkg:pypi/py-2equests"},"versions":["0.0.1"]}]}

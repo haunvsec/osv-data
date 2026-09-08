@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15873","published":"2026-09-03T10:14:06Z","modified":"2026-09-04T06:45:08.434008745Z","aliases":["GHSA-wj64-2cmx-c3j4"],"summary":"Malicious code in btree-core (npm)","affected":[{"package":{"name":"btree-core","ecosystem":"npm","purl":"pkg:npm/btree-core"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15991","published":"2026-09-05T23:53:55Z","modified":"2026-09-07T02:15:15.026592604Z","aliases":["GHSA-rpqx-cp2g-55w5"],"summary":"Malicious code in jwt-logger (npm)","affected":[{"package":{"name":"jwt-logger","ecosystem":"npm","purl":"pkg:npm/jwt-logger"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15930","published":"2026-09-04T15:00:35Z","modified":"2026-09-04T21:30:08.790536507Z","summary":"Malicious code in tpu-raiden-jax (PyPI)","affected":[{"package":{"name":"tpu-raiden-jax","ecosystem":"PyPI","purl":"pkg:pypi/tpu-raiden-jax"},"versions":["99.99.0"]}]}

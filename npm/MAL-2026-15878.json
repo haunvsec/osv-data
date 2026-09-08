@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15878","published":"2026-09-03T08:59:06Z","modified":"2026-09-04T06:45:07.338404248Z","aliases":["GHSA-9m3c-67f2-gjwf"],"summary":"Malicious code in cbc97b7a (npm)","affected":[{"package":{"name":"cbc97b7a","ecosystem":"npm","purl":"pkg:npm/cbc97b7a"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

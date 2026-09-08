@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15994","published":"2026-09-05T19:49:11Z","modified":"2026-09-07T02:15:14.268201657Z","aliases":["GHSA-6q78-8863-ww8m"],"summary":"Malicious code in memov (npm)","affected":[{"package":{"name":"memov","ecosystem":"npm","purl":"pkg:npm/memov"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

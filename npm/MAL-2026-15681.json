@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15681","published":"2026-08-24T16:24:13Z","modified":"2026-09-04T01:00:06.671572172Z","summary":"Malicious code in @grab-food/order-sdk-web (npm)","affected":[{"package":{"name":"@grab-food/order-sdk-web","ecosystem":"npm","purl":"pkg:npm/%40grab-food/order-sdk-web"},"versions":["49.9.9"]}]}

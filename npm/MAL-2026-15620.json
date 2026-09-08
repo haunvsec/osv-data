@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15620","published":"2026-08-26T14:55:09Z","modified":"2026-08-31T18:31:26.372622575Z","summary":"Malicious code in vxhjkseuiaqkb (npm)","affected":[{"package":{"name":"vxhjkseuiaqkb","ecosystem":"npm","purl":"pkg:npm/vxhjkseuiaqkb"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

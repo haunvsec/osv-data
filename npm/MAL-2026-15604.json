@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15604","published":"2026-08-26T14:55:09Z","modified":"2026-08-31T07:15:14.130970972Z","summary":"Malicious code in @worrisome/reutil (npm)","affected":[{"package":{"name":"@worrisome/reutil","ecosystem":"npm","purl":"pkg:npm/%40worrisome/reutil"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

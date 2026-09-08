@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15838","published":"2026-09-03T02:46:19Z","modified":"2026-09-03T06:00:06.067230800Z","aliases":["GHSA-xg8f-3qvf-9cfp"],"summary":"Malicious code in frank-apple-utils (npm)","affected":[{"package":{"name":"frank-apple-utils","ecosystem":"npm","purl":"pkg:npm/frank-apple-utils"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15817","published":"2026-09-02T03:58:06Z","modified":"2026-09-02T04:30:05.680904704Z","summary":"Malicious code in peertube-plugin-poc-marker (npm)","affected":[{"package":{"name":"peertube-plugin-poc-marker","ecosystem":"npm","purl":"pkg:npm/peertube-plugin-poc-marker"},"versions":["1.0.0"]}]}

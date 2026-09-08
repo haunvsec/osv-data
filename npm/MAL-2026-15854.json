@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15854","published":"2026-09-03T15:51:24Z","modified":"2026-09-03T16:30:07.582212580Z","summary":"Malicious code in @quantixfinance/token (npm)","affected":[{"package":{"name":"@quantixfinance/token","ecosystem":"npm","purl":"pkg:npm/%40quantixfinance/token"},"versions":["1.0.0"]}]}

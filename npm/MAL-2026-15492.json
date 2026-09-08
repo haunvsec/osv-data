@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15492","published":"2026-08-28T18:19:27Z","modified":"2026-08-28T23:31:39.091102177Z","aliases":["GHSA-2p92-fvvr-75hj"],"summary":"Malicious code in mfa-js (npm)","affected":[{"package":{"name":"mfa-js","ecosystem":"npm","purl":"pkg:npm/mfa-js"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

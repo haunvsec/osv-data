@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15844","published":"2026-09-02T13:31:40Z","modified":"2026-09-04T06:45:11.354865957Z","aliases":["GHSA-2grr-qxm8-p84x"],"summary":"Malicious code in onceaction (npm)","affected":[{"package":{"name":"onceaction","ecosystem":"npm","purl":"pkg:npm/onceaction"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15857","published":"2026-09-03T15:51:31Z","modified":"2026-09-03T16:30:07.716036426Z","summary":"Malicious code in @quantixfinance/wallet (npm)","affected":[{"package":{"name":"@quantixfinance/wallet","ecosystem":"npm","purl":"pkg:npm/%40quantixfinance/wallet"},"versions":["1.0.0"]}]}

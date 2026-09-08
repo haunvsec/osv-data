@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15572","published":"2026-08-29T23:10:48Z","modified":"2026-08-29T23:30:10.919174151Z","summary":"Malicious code in grafeno-payments (npm)","affected":[{"package":{"name":"grafeno-payments","ecosystem":"npm","purl":"pkg:npm/grafeno-payments"},"versions":["1.0.0"]}]}

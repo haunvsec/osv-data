@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16036","published":"2026-09-07T14:36:28Z","modified":"2026-09-08T00:30:20.314623864Z","aliases":["GHSA-v9rh-vg7p-gwqm"],"summary":"Malicious code in redis-type-intel (npm)","affected":[{"package":{"name":"redis-type-intel","ecosystem":"npm","purl":"pkg:npm/redis-type-intel"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

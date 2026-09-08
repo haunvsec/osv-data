@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15979","published":"2026-09-05T19:49:11Z","modified":"2026-09-07T02:15:13.173506352Z","aliases":["GHSA-352p-f6j8-qxxh"],"summary":"Malicious code in enqueu (npm)","affected":[{"package":{"name":"enqueu","ecosystem":"npm","purl":"pkg:npm/enqueu"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

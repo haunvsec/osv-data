@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14552","published":"2026-08-27T09:17:13Z","modified":"2026-08-27T10:00:09.757153173Z","summary":"Malicious code in mathkitlite (PyPI)","affected":[{"package":{"name":"mathkitlite","ecosystem":"PyPI","purl":"pkg:pypi/mathkitlite"},"versions":["0.1.0"]}]}

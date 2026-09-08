@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15849","published":"2026-09-03T15:52:08Z","modified":"2026-09-03T16:30:07.120103286Z","summary":"Malicious code in @quantixfinance/common (npm)","affected":[{"package":{"name":"@quantixfinance/common","ecosystem":"npm","purl":"pkg:npm/%40quantixfinance/common"},"versions":["1.0.0"]}]}

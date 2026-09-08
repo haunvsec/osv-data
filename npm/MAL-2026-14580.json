@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14580","published":"2026-08-23T00:00:00Z","modified":"2026-08-28T00:15:12.419545886Z","summary":"Malicious code in @postman-cse/okta-aio-darwin-arm64 (npm)","affected":[{"package":{"name":"@postman-cse/okta-aio-darwin-arm64","ecosystem":"npm","purl":"pkg:npm/%40postman-cse/okta-aio-darwin-arm64"},"versions":["0.11.6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14555","published":"2026-08-27T12:59:21Z","modified":"2026-08-28T19:45:17.597950266Z","summary":"Malicious code in ekx-report-utils (PyPI)","affected":[{"package":{"name":"ekx-report-utils","ecosystem":"PyPI","purl":"pkg:pypi/ekx-report-utils"},"versions":["0.1.0","0.2.0","0.3.0","0.4.0"]}]}

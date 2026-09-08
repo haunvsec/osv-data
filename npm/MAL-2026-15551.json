@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15551","published":"2026-08-29T02:13:57Z","modified":"2026-08-29T02:30:12.885855193Z","summary":"Malicious code in date-fns-sync (npm)","affected":[{"package":{"name":"date-fns-sync","ecosystem":"npm","purl":"pkg:npm/date-fns-sync"},"versions":["1.0.0"]}]}

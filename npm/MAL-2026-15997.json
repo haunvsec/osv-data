@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15997","published":"2026-09-06T03:02:05Z","modified":"2026-09-07T02:15:14.268410590Z","aliases":["GHSA-2ggc-wmq2-3whp"],"summary":"Malicious code in node-helper (npm)","affected":[{"package":{"name":"node-helper","ecosystem":"npm","purl":"pkg:npm/node-helper"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

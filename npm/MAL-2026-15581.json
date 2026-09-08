@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15581","published":"2026-08-30T16:35:23Z","modified":"2026-09-04T06:45:05.214998997Z","aliases":["GHSA-p375-pmrj-262v"],"summary":"Malicious code in cloudfcrxz (npm)","affected":[{"package":{"name":"cloudfcrxz","ecosystem":"npm","purl":"pkg:npm/cloudfcrxz"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15972","published":"2026-09-05T19:49:11Z","modified":"2026-09-07T02:15:13.065211053Z","aliases":["GHSA-gggp-h9vj-pw3p"],"summary":"Malicious code in card3d (npm)","affected":[{"package":{"name":"card3d","ecosystem":"npm","purl":"pkg:npm/card3d"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

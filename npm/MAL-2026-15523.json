@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15523","published":"2026-08-28T23:11:31Z","modified":"2026-08-29T18:45:14.959530455Z","aliases":["GHSA-7h72-24vr-wrf6"],"summary":"Malicious code in sycm-vendors (npm)","affected":[{"package":{"name":"sycm-vendors","ecosystem":"npm","purl":"pkg:npm/sycm-vendors"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

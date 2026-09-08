@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15835","published":"2026-09-02T11:18:04Z","modified":"2026-09-04T06:45:07.439703521Z","aliases":["GHSA-8ppm-gjvm-rvj5"],"summary":"Malicious code in daisypick (npm)","affected":[{"package":{"name":"daisypick","ecosystem":"npm","purl":"pkg:npm/daisypick"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

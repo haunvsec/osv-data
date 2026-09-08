@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16015","published":"2026-09-07T18:31:07Z","modified":"2026-09-07T19:00:03.560932115Z","summary":"Malicious code in @cp-shared-14/frontend-ui (npm)","affected":[{"package":{"name":"@cp-shared-14/frontend-ui","ecosystem":"npm","purl":"pkg:npm/%40cp-shared-14/frontend-ui"},"versions":["6.3.4"]}]}

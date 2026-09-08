@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15927","published":"2026-09-04T10:27:28Z","modified":"2026-09-04T21:30:08.752402514Z","summary":"Malicious code in qoeoe (PyPI)","affected":[{"package":{"name":"qoeoe","ecosystem":"PyPI","purl":"pkg:pypi/qoeoe"},"versions":["0.1.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15624","published":"2026-08-31T18:03:55Z","modified":"2026-08-31T18:31:20.024168526Z","summary":"Malicious code in claude-channel-telegram (npm)","affected":[{"package":{"name":"claude-channel-telegram","ecosystem":"npm","purl":"pkg:npm/claude-channel-telegram"},"versions":["9.9.9"]}]}

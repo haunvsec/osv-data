@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15563","published":"2026-08-29T02:12:51Z","modified":"2026-08-29T02:30:11.901509897Z","summary":"Malicious code in vitest-chalk-pro (npm)","affected":[{"package":{"name":"vitest-chalk-pro","ecosystem":"npm","purl":"pkg:npm/vitest-chalk-pro"},"versions":["10.0.7"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15600","published":"2026-08-30T23:25:26Z","modified":"2026-08-31T01:15:10.342892117Z","aliases":["GHSA-6j97-93gg-j7r8"],"summary":"Malicious code in @lucideproxy/svg (npm)","affected":[{"package":{"name":"@lucideproxy/svg","ecosystem":"npm","purl":"pkg:npm/%40lucideproxy/svg"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

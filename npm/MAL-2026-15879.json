@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15879","published":"2026-09-03T16:53:38Z","modified":"2026-09-04T06:45:07.339291056Z","aliases":["GHSA-h4p9-qw93-r884"],"summary":"Malicious code in dsh-waste-market (npm)","affected":[{"package":{"name":"dsh-waste-market","ecosystem":"npm","purl":"pkg:npm/dsh-waste-market"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

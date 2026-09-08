@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15597","published":"2026-08-29T20:55:31Z","modified":"2026-09-04T06:45:09.663049899Z","aliases":["GHSA-95gx-59fv-gfg6"],"summary":"Malicious code in npx-oob-package (npm)","affected":[{"package":{"name":"npx-oob-package","ecosystem":"npm","purl":"pkg:npm/npx-oob-package"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

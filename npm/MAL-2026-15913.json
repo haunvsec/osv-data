@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15913","published":"2026-09-04T05:20:43Z","modified":"2026-09-04T05:45:05.633939026Z","summary":"Malicious code in taskforge-8xv (npm)","affected":[{"package":{"name":"taskforge-8xv","ecosystem":"npm","purl":"pkg:npm/taskforge-8xv"},"versions":["1.2.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15670","published":"2026-09-01T01:51:59Z","modified":"2026-09-01T03:45:14.428326119Z","aliases":["GHSA-jhgv-vh9h-q3r9"],"summary":"Malicious code in matrix-by-lmx (npm)","affected":[{"package":{"name":"matrix-by-lmx","ecosystem":"npm","purl":"pkg:npm/matrix-by-lmx"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

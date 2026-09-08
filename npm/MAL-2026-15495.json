@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15495","published":"2026-08-28T23:13:04Z","modified":"2026-08-29T18:45:19.014630761Z","aliases":["GHSA-q5h9-9fg7-xg2g"],"summary":"Malicious code in alimama-minisite (npm)","affected":[{"package":{"name":"alimama-minisite","ecosystem":"npm","purl":"pkg:npm/alimama-minisite"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15968","published":"2026-09-05T19:49:11Z","modified":"2026-09-07T02:15:13.723041454Z","aliases":["GHSA-f6c5-36x2-p79p"],"summary":"Malicious code in anime-vostfr (npm)","affected":[{"package":{"name":"anime-vostfr","ecosystem":"npm","purl":"pkg:npm/anime-vostfr"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

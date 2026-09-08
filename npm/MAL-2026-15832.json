@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15832","published":"2026-09-01T21:36:46Z","modified":"2026-09-04T06:45:06.308992683Z","aliases":["GHSA-3f73-cx58-g87j"],"summary":"Malicious code in @viertechjs/wb (npm)","affected":[{"package":{"name":"@viertechjs/wb","ecosystem":"npm","purl":"pkg:npm/%40viertechjs/wb"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15884","published":"2026-09-03T08:38:42Z","modified":"2026-09-04T04:00:11.137149375Z","aliases":["GHSA-pg5x-8f3x-f3x5"],"summary":"Malicious code in guci-date (npm)","affected":[{"package":{"name":"guci-date","ecosystem":"npm","purl":"pkg:npm/guci-date"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15508","published":"2026-08-28T23:02:18Z","modified":"2026-08-29T02:00:45.562055424Z","summary":"Malicious code in grafeno-sdk (npm)","affected":[{"package":{"name":"grafeno-sdk","ecosystem":"npm","purl":"pkg:npm/grafeno-sdk"},"versions":["1.0.0","1.0.1"]}]}

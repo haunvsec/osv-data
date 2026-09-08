@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15877","published":"2026-09-03T10:14:06Z","modified":"2026-09-04T06:45:05.198976121Z","aliases":["GHSA-7r97-jh52-2rx8"],"summary":"Malicious code in btree-time-index (npm)","affected":[{"package":{"name":"btree-time-index","ecosystem":"npm","purl":"pkg:npm/btree-time-index"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

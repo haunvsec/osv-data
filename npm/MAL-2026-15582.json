@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15582","published":"2026-08-30T16:35:22Z","modified":"2026-09-04T06:45:06.351487564Z","aliases":["GHSA-gxpc-36pf-vcrw"],"summary":"Malicious code in cloufcrxz (npm)","affected":[{"package":{"name":"cloufcrxz","ecosystem":"npm","purl":"pkg:npm/cloufcrxz"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

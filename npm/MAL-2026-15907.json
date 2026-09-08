@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15907","published":"2026-09-04T03:45:10Z","modified":"2026-09-04T04:30:06.563347323Z","summary":"Malicious code in tiny-folder-tree (npm)","affected":[{"package":{"name":"tiny-folder-tree","ecosystem":"npm","purl":"pkg:npm/tiny-folder-tree"},"versions":["0.1.0"]}]}

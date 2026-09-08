@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15998","published":"2026-09-05T19:49:11Z","modified":"2026-09-07T02:15:14.279206360Z","aliases":["GHSA-55h6-2qxg-jvqv"],"summary":"Malicious code in onetime-rnd (npm)","affected":[{"package":{"name":"onetime-rnd","ecosystem":"npm","purl":"pkg:npm/onetime-rnd"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

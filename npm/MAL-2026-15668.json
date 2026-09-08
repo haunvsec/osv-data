@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15668","published":"2026-09-01T01:03:21Z","modified":"2026-09-04T06:45:05.244989608Z","aliases":["GHSA-rxjr-qr5x-q4q7"],"summary":"Malicious code in core_main (npm)","affected":[{"package":{"name":"core_main","ecosystem":"npm","purl":"pkg:npm/core_main"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

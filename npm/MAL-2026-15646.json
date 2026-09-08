@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15646","published":"2026-08-31T17:27:28Z","modified":"2026-08-31T18:45:10.590459576Z","aliases":["GHSA-cj5g-xq95-52x6"],"summary":"Malicious code in pig-ui-first (npm)","affected":[{"package":{"name":"pig-ui-first","ecosystem":"npm","purl":"pkg:npm/pig-ui-first"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

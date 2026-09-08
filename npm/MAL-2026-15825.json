@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15825","published":"2026-09-02T22:09:01Z","modified":"2026-09-02T22:30:06.127501720Z","summary":"Malicious code in real-router-utils (npm)","affected":[{"package":{"name":"real-router-utils","ecosystem":"npm","purl":"pkg:npm/real-router-utils"},"versions":["1.0.0"]}]}

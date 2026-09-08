@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16031","published":"2026-09-07T04:56:55Z","modified":"2026-09-08T00:30:17.512248126Z","aliases":["GHSA-gw4f-3mgw-h64x"],"summary":"Malicious code in cb-wallet-store (npm)","affected":[{"package":{"name":"cb-wallet-store","ecosystem":"npm","purl":"pkg:npm/cb-wallet-store"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

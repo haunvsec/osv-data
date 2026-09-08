@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15931","published":"2026-09-04T18:22:18Z","modified":"2026-09-04T18:45:03.900617357Z","summary":"Malicious code in metricboxlite (PyPI)","affected":[{"package":{"name":"metricboxlite","ecosystem":"PyPI","purl":"pkg:pypi/metricboxlite"},"versions":["1.0","2.0"]}]}

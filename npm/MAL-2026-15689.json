@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15689","published":"2026-08-24T16:57:41Z","modified":"2026-09-04T01:00:04.780275459Z","summary":"Malicious code in lil-swisgom-hlepers (npm)","affected":[{"package":{"name":"lil-swisgom-hlepers","ecosystem":"npm","purl":"pkg:npm/lil-swisgom-hlepers"},"versions":["49.9.9"]}]}

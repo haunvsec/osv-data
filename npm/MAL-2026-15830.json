@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15830","published":"2026-09-01T21:36:46Z","modified":"2026-09-04T06:45:08.590487936Z","aliases":["GHSA-62qr-2m9g-fm38"],"summary":"Malicious code in @viertechjs/api (npm)","affected":[{"package":{"name":"@viertechjs/api","ecosystem":"npm","purl":"pkg:npm/%40viertechjs/api"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

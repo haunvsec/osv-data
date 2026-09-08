@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15522","published":"2026-08-28T23:01:26Z","modified":"2026-08-28T23:31:39.860154915Z","summary":"Malicious code in spc-grafeno (npm)","affected":[{"package":{"name":"spc-grafeno","ecosystem":"npm","purl":"pkg:npm/spc-grafeno"},"versions":["1.0.0"]}]}

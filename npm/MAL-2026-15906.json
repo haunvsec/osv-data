@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15906","published":"2026-09-04T03:45:35Z","modified":"2026-09-04T04:30:05.853632950Z","summary":"Malicious code in tailwindcss-animate-styles (npm)","affected":[{"package":{"name":"tailwindcss-animate-styles","ecosystem":"npm","purl":"pkg:npm/tailwindcss-animate-styles"},"versions":["1.0.9"]}]}

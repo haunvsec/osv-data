@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15554","published":"2026-08-29T02:13:50Z","modified":"2026-08-29T02:30:12.889613076Z","summary":"Malicious code in eth-pino (npm)","affected":[{"package":{"name":"eth-pino","ecosystem":"npm","purl":"pkg:npm/eth-pino"},"versions":["2.0.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15829","published":"2026-09-03T00:43:22Z","modified":"2026-09-03T01:45:05.404352815Z","summary":"Malicious code in telemetry-helper (PyPI)","affected":[{"package":{"name":"telemetry-helper","ecosystem":"PyPI","purl":"pkg:pypi/telemetry-helper"},"versions":["1.0.1","2.0.0","1.1.0","1.0.0","1.0.2","1.2.0","1.3.0","2.0.1"]}]}

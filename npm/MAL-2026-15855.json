@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15855","published":"2026-09-03T15:52:17Z","modified":"2026-09-03T16:30:07.582142010Z","summary":"Malicious code in @quantixfinance/tron (npm)","affected":[{"package":{"name":"@quantixfinance/tron","ecosystem":"npm","purl":"pkg:npm/%40quantixfinance/tron"},"versions":["1.0.0"]}]}

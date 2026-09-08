@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14577","published":"2026-08-27T21:39:02Z","modified":"2026-08-28T19:45:24.742523470Z","aliases":["GHSA-j5x7-qc6j-xwg4"],"summary":"Malicious code in hydration-ui-dlx (npm)","affected":[{"package":{"name":"hydration-ui-dlx","ecosystem":"npm","purl":"pkg:npm/hydration-ui-dlx"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

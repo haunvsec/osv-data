@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14564","published":"2026-08-27T13:51:36Z","modified":"2026-08-31T18:31:23.395159994Z","aliases":["GHSA-qm8v-w5qj-32jq"],"summary":"Malicious code in sigcheck (npm)","affected":[{"package":{"name":"sigcheck","ecosystem":"npm","purl":"pkg:npm/sigcheck"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

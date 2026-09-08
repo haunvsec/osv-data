@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15826","published":"2026-09-02T22:10:01Z","modified":"2026-09-02T22:30:06.116290778Z","summary":"Malicious code in tailwindcss-fluid-styles (npm)","affected":[{"package":{"name":"tailwindcss-fluid-styles","ecosystem":"npm","purl":"pkg:npm/tailwindcss-fluid-styles"},"versions":["2.0.7"]}]}

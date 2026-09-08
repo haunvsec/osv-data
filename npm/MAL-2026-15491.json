@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15491","published":"2026-08-28T18:17:42Z","modified":"2026-09-04T06:45:05.283351432Z","aliases":["GHSA-p5jf-vqp6-95h5"],"summary":"Malicious code in eip712-lite (npm)","affected":[{"package":{"name":"eip712-lite","ecosystem":"npm","purl":"pkg:npm/eip712-lite"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

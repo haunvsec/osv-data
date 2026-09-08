@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15899","published":"2026-09-04T03:45:45Z","modified":"2026-09-04T04:30:05.846237977Z","summary":"Malicious code in easypanel-docker (npm)","affected":[{"package":{"name":"easypanel-docker","ecosystem":"npm","purl":"pkg:npm/easypanel-docker"},"versions":["1.0.0"]}]}

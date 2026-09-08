@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15502","published":"2026-08-28T23:01:43Z","modified":"2026-08-28T23:45:13.620871951Z","summary":"Malicious code in grafeno-auth (npm)","affected":[{"package":{"name":"grafeno-auth","ecosystem":"npm","purl":"pkg:npm/grafeno-auth"},"versions":["1.0.0"]}]}

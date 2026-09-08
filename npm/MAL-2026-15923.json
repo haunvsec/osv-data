@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15923","published":"2026-09-04T06:33:49Z","modified":"2026-09-04T07:00:09.068475741Z","summary":"Malicious code in line-through (npm)","affected":[{"package":{"name":"line-through","ecosystem":"npm","purl":"pkg:npm/line-through"},"versions":["1.0.0"]}]}

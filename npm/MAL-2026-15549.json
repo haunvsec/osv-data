@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15549","published":"2026-08-29T02:15:04Z","modified":"2026-08-29T02:30:12.882136086Z","summary":"Malicious code in ckeditor5-ckbox (npm)","affected":[{"package":{"name":"ckeditor5-ckbox","ecosystem":"npm","purl":"pkg:npm/ckeditor5-ckbox"},"versions":["5.0.0"]}]}

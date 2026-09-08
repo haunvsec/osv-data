@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14554","published":"2026-08-27T13:11:08Z","modified":"2026-08-27T13:45:13.796538580Z","summary":"Malicious code in decoris (PyPI)","affected":[{"package":{"name":"decoris","ecosystem":"PyPI","purl":"pkg:pypi/decoris"},"versions":["0.3.0","0.3.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15679","published":"2026-08-24T16:19:56Z","modified":"2026-09-01T11:30:41.445053825Z","summary":"Malicious code in @bpa-internal/bpa-utils (npm)","affected":[{"package":{"name":"@bpa-internal/bpa-utils","ecosystem":"npm","purl":"pkg:npm/%40bpa-internal/bpa-utils"},"versions":["99.99.98","99.99.99"]}]}

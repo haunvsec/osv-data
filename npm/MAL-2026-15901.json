@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15901","published":"2026-09-04T03:46:33Z","modified":"2026-09-04T04:30:05.866309201Z","summary":"Malicious code in net-util-y8 (npm)","affected":[{"package":{"name":"net-util-y8","ecosystem":"npm","purl":"pkg:npm/net-util-y8"},"versions":["1.1788432509.0"]}]}

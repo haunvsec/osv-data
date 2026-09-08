@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15622","published":"2026-08-31T16:41:35Z","modified":"2026-08-31T17:30:12.740332465Z","summary":"Malicious code in spc_login (npm)","affected":[{"package":{"name":"spc_login","ecosystem":"npm","purl":"pkg:npm/spc_login"},"versions":["1.0.0"]}]}

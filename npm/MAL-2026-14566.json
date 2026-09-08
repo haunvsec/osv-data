@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-14566","published":"2026-08-27T13:51:36Z","modified":"2026-08-31T18:31:26.357527580Z","aliases":["GHSA-gccc-9phc-w64p"],"summary":"Malicious code in veloq (npm)","affected":[{"package":{"name":"veloq","ecosystem":"npm","purl":"pkg:npm/veloq"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

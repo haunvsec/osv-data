@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15984","published":"2026-09-05T19:26:13Z","modified":"2026-09-07T02:15:12.210698186Z","aliases":["GHSA-fw8f-xwq4-q3v8"],"summary":"Malicious code in gas-price-checker (npm)","affected":[{"package":{"name":"gas-price-checker","ecosystem":"npm","purl":"pkg:npm/gas-price-checker"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

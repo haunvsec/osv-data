@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15928","published":"2026-09-04T15:02:05Z","modified":"2026-09-04T21:30:14.819320663Z","summary":"Malicious code in olympuslib (PyPI)","affected":[{"package":{"name":"olympuslib","ecosystem":"PyPI","purl":"pkg:pypi/olympuslib"},"versions":["99.99.0"]}]}

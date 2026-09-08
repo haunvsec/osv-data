@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15922","published":"2026-09-04T06:37:18Z","modified":"2026-09-04T07:00:08.818129832Z","summary":"Malicious code in claude-channel-discord (npm)","affected":[{"package":{"name":"claude-channel-discord","ecosystem":"npm","purl":"pkg:npm/claude-channel-discord"},"versions":["9.9.9"]}]}

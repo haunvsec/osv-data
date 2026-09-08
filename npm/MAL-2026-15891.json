@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-15891","published":"2026-09-03T10:14:06Z","modified":"2026-09-04T06:45:11.827417454Z","aliases":["GHSA-r948-p23m-ffg3"],"summary":"Malicious code in ordered-kv-index (npm)","affected":[{"package":{"name":"ordered-kv-index","ecosystem":"npm","purl":"pkg:npm/ordered-kv-index"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}
