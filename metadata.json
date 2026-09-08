@@ -1,6 +1,6 @@
 {
-  "last_crawl_time": "2026-09-08T02:03:39Z",
-  "last_attempt_time": "2026-09-08T02:03:39Z",
+  "last_crawl_time": "2026-09-08T15:59:36Z",
+  "last_attempt_time": "2026-09-08T15:59:36Z",
   "source": "osv-vulnerabilities-gcs",
   "source_url": "https://storage.googleapis.com/osv-vulnerabilities",
   "method": "incremental",
@@ -12,51 +12,51 @@
   ],
   "ecosystem_counts": {
     "maven": 7065,
-    "npm": 228782,
-    "pypi": 25304,
-    "redhat": 22670
+    "npm": 228786,
+    "pypi": 25309,
+    "redhat": 22721
   },
-  "total_vulnerabilities": 283821,
+  "total_vulnerabilities": 283881,
   "ecosystem_state": {
     "maven": {
-      "last_attempt_time": "2026-09-08T01:54:51Z",
+      "last_attempt_time": "2026-09-08T15:57:43Z",
       "last_method": "incremental",
-      "last_downloaded": 86,
+      "last_downloaded": 0,
       "last_skipped": 0,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-09-08T01:54:51Z",
+      "last_successful_crawl_time": "2026-09-08T15:57:43Z",
       "last_modified_time": "2026-09-04T11:55:23.371201366Z"
     },
     "npm": {
-      "last_attempt_time": "2026-09-08T01:57:27Z",
+      "last_attempt_time": "2026-09-08T15:57:45Z",
       "last_method": "incremental",
-      "last_downloaded": 2366,
+      "last_downloaded": 5,
       "last_skipped": 0,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-09-08T01:57:27Z",
-      "last_modified_time": "2026-09-08T00:30:21.208093921Z"
+      "last_successful_crawl_time": "2026-09-08T15:57:45Z",
+      "last_modified_time": "2026-09-08T08:45:04.364733088Z"
     },
     "pypi": {
-      "last_attempt_time": "2026-09-08T01:57:53Z",
+      "last_attempt_time": "2026-09-08T15:57:48Z",
       "last_method": "incremental",
-      "last_downloaded": 301,
+      "last_downloaded": 7,
       "last_skipped": 0,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-09-08T01:57:53Z",
-      "last_modified_time": "2026-09-07T21:45:04.121403845Z"
+      "last_successful_crawl_time": "2026-09-08T15:57:48Z",
+      "last_modified_time": "2026-09-08T15:46:56.600781081Z"
     },
     "redhat": {
-      "last_attempt_time": "2026-09-08T02:03:39Z",
+      "last_attempt_time": "2026-09-08T15:59:36Z",
       "last_method": "incremental",
-      "last_downloaded": 4443,
+      "last_downloaded": 1916,
       "last_skipped": 0,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-09-08T02:03:39Z",
-      "last_modified_time": "2026-09-07T10:32:36.124602523Z"
+      "last_successful_crawl_time": "2026-09-08T15:59:36Z",
+      "last_modified_time": "2026-09-08T12:42:15.019254765Z"
     }
   },
   "last_run": {
-    "started_at": "2026-09-08T01:57:53Z",
+    "started_at": "2026-09-08T15:57:48Z",
     "output_dir": "/Volumes/DATA/security_advisory/osv-data",
     "method": "incremental",
     "ecosystems": [
@@ -66,22 +66,22 @@
       {
         "ecosystem": "redhat",
         "method": "incremental",
-        "downloaded": 4443,
+        "downloaded": 1916,
         "skipped": 0,
         "indexed": 0,
         "existing": 0,
-        "latest_modified_time": "2026-09-07T10:32:36.124602523Z",
+        "latest_modified_time": "2026-09-08T12:42:15.019254765Z",
         "success": true
       }
     ],
-    "vulns_downloaded": 4443,
+    "vulns_downloaded": 1916,
     "vulns_skipped": 0,
     "errors": [],
     "dry_run": false,
     "limit": null,
     "sync_missing": false,
     "missing_only": false,
-    "finished_at": "2026-09-08T02:03:39Z",
-    "duration_seconds": 346.55
+    "finished_at": "2026-09-08T15:59:36Z",
+    "duration_seconds": 107.79
   }
 }

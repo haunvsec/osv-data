@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16046","published":"2026-09-08T08:16:31Z","modified":"2026-09-08T08:45:04.364733088Z","aliases":["GHSA-9cfw-xh4g-cc2f"],"summary":"Malicious code in i18nexus-tools (npm)","affected":[{"package":{"name":"i18nexus-tools","ecosystem":"npm","purl":"pkg:npm/i18nexus-tools"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

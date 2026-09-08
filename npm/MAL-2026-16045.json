@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16045","published":"2026-09-08T08:16:31Z","modified":"2026-09-08T08:45:04.363259367Z","aliases":["GHSA-38hw-f37p-99jj"],"summary":"Malicious code in i18nexus (npm)","affected":[{"package":{"name":"i18nexus","ecosystem":"npm","purl":"pkg:npm/i18nexus"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}
