@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16074","published":"2026-09-09T05:33:34Z","modified":"2026-09-09T05:45:04.754479314Z","summary":"Malicious code in easypanel-deploy (npm)","affected":[{"package":{"name":"easypanel-deploy","ecosystem":"npm","purl":"pkg:npm/easypanel-deploy"},"versions":["1.0.0"]}]}

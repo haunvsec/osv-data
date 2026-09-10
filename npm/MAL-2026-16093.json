@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16093","published":"2026-09-09T14:44:22Z","modified":"2026-09-09T19:30:05.291689549Z","aliases":["GHSA-vfrg-29g4-854p"],"summary":"Malicious code in xbailsync (npm)","affected":[{"package":{"name":"xbailsync","ecosystem":"npm","purl":"pkg:npm/xbailsync"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

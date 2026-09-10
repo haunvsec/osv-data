@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16106","published":"2026-09-09T22:26:40Z","modified":"2026-09-09T23:30:07.166789055Z","aliases":["GHSA-w6hj-c25h-wgh7"],"summary":"Malicious code in @auction-fe/base (npm)","affected":[{"package":{"name":"@auction-fe/base","ecosystem":"npm","purl":"pkg:npm/%40auction-fe/base"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

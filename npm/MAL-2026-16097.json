@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16097","published":"2026-09-09T17:45:31Z","modified":"2026-09-09T18:45:05.427163857Z","summary":"Malicious code in twilio-hackerone-poc-b8f21a (npm)","affected":[{"package":{"name":"twilio-hackerone-poc-b8f21a","ecosystem":"npm","purl":"pkg:npm/twilio-hackerone-poc-b8f21a"},"versions":["1.0.1","1.0.0"]}]}

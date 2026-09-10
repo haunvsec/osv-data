@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16057","published":"2026-09-08T23:56:12Z","modified":"2026-09-09T01:00:05.013666922Z","summary":"Malicious code in toru-ultimate (npm)","affected":[{"package":{"name":"toru-ultimate","ecosystem":"npm","purl":"pkg:npm/toru-ultimate"},"versions":["1.0.0"]}]}

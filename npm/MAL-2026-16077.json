@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16077","published":"2026-09-09T06:49:23Z","modified":"2026-09-09T07:00:09.790467692Z","summary":"Malicious code in chai-as-sleek (npm)","affected":[{"package":{"name":"chai-as-sleek","ecosystem":"npm","purl":"pkg:npm/chai-as-sleek"},"versions":["7.1.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16079","published":"2026-09-09T06:54:44Z","modified":"2026-09-09T07:30:05.447139468Z","summary":"Malicious code in server-authorized-cleanup (npm)","affected":[{"package":{"name":"server-authorized-cleanup","ecosystem":"npm","purl":"pkg:npm/server-authorized-cleanup"},"versions":["1.1.0"]}]}

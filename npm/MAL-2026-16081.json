@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16081","published":"2026-09-09T14:51:22Z","modified":"2026-09-09T15:32:41.752764777Z","summary":"Malicious code in @staticj/cropperxmjs (npm)","affected":[{"package":{"name":"@staticj/cropperxmjs","ecosystem":"npm","purl":"pkg:npm/%40staticj/cropperxmjs"},"versions":["1.6.0"]}]}

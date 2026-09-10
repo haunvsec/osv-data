@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16047","published":"2026-09-08T16:37:43Z","modified":"2026-09-08T19:30:05.743380103Z","aliases":["GHSA-8rcc-9ggm-659p"],"summary":"Malicious code in @usemosaik/template-react-js (npm)","affected":[{"package":{"name":"@usemosaik/template-react-js","ecosystem":"npm","purl":"pkg:npm/%40usemosaik/template-react-js"},"versions":["1.0.1"]}]}

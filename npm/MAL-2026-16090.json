@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16090","published":"2026-09-09T15:09:14Z","modified":"2026-09-09T15:32:41.784129662Z","aliases":["GHSA-2r8h-5pr4-fr3v"],"summary":"Malicious code in sams-run-style (npm)","affected":[{"package":{"name":"sams-run-style","ecosystem":"npm","purl":"pkg:npm/sams-run-style"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

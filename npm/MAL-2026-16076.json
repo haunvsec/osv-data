@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16076","published":"2026-09-09T05:34:09Z","modified":"2026-09-09T05:45:04.752293746Z","summary":"Malicious code in external_deps_enjoyer (npm)","affected":[{"package":{"name":"external_deps_enjoyer","ecosystem":"npm","purl":"pkg:npm/external_deps_enjoyer"},"versions":["1.0.0"]}]}

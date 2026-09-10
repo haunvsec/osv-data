@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16094","published":"2026-09-09T17:46:07Z","modified":"2026-09-09T18:45:05.439017150Z","summary":"Malicious code in gmgn-trading-kit (npm)","affected":[{"package":{"name":"gmgn-trading-kit","ecosystem":"npm","purl":"pkg:npm/gmgn-trading-kit"},"versions":["1.7.0","1.7.1","1.7.2"]}]}

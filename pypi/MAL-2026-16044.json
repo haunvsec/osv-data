@@ -1,1 +1,1 @@
-{"schema_version":"1.9.0","id":"MAL-2026-16044","published":"2026-09-04T00:00:00Z","modified":"2026-09-08T08:00:48.282559376Z","summary":"Malicious code in tsshare (PyPI)","affected":[{"package":{"name":"tsshare","ecosystem":"PyPI","purl":"pkg:pypi/tsshare"},"versions":["1.0.19"]}]}
+{"schema_version":"1.9.0","id":"MAL-2026-16044","published":"2026-09-04T00:00:00Z","modified":"2026-09-09T01:45:05.246081569Z","summary":"Malicious code in tsshare (PyPI)","affected":[{"package":{"name":"tsshare","ecosystem":"PyPI","purl":"pkg:pypi/tsshare"},"versions":["1.0.19"]}]}

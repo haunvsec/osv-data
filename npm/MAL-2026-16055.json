@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16055","published":"2026-09-09T00:16:19Z","modified":"2026-09-09T01:00:05.000837824Z","summary":"Malicious code in sonmors (npm)","affected":[{"package":{"name":"sonmors","ecosystem":"npm","purl":"pkg:npm/sonmors"},"versions":["2.11.2"]}]}

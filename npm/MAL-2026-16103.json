@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16103","published":"2026-09-09T22:27:01Z","modified":"2026-09-09T22:45:18.793451183Z","summary":"Malicious code in @neroxkira/vangal-baileys (npm)","affected":[{"package":{"name":"@neroxkira/vangal-baileys","ecosystem":"npm","purl":"pkg:npm/%40neroxkira/vangal-baileys"},"versions":["1.0.0","1.0.1"]}]}

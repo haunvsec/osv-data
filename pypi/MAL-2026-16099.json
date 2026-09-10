@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16099","published":"2026-09-09T19:01:51Z","modified":"2026-09-09T19:30:05.409456473Z","summary":"Malicious code in bq-sdist-probe-vrp (PyPI)","affected":[{"package":{"name":"bq-sdist-probe-vrp","ecosystem":"PyPI","purl":"pkg:pypi/bq-sdist-probe-vrp"},"versions":["0.0.1"]}]}

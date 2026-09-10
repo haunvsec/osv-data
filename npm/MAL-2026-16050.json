@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16050","published":"2026-09-08T21:05:03Z","modified":"2026-09-08T21:30:06.614805486Z","summary":"Malicious code in @aspect-adv-ui/consent-manager (npm)","affected":[{"package":{"name":"@aspect-adv-ui/consent-manager","ecosystem":"npm","purl":"pkg:npm/%40aspect-adv-ui/consent-manager"},"versions":["2.4.0","2.4.1"]}]}

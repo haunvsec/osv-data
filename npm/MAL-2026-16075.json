@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16075","published":"2026-09-09T05:33:15Z","modified":"2026-09-09T05:45:04.740875476Z","summary":"Malicious code in easypanel-hosting (npm)","affected":[{"package":{"name":"easypanel-hosting","ecosystem":"npm","purl":"pkg:npm/easypanel-hosting"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16064","published":"2026-09-09T01:41:04Z","modified":"2026-09-09T02:00:04.575342516Z","summary":"Malicious code in bx-ui-view (npm)","affected":[{"package":{"name":"bx-ui-view","ecosystem":"npm","purl":"pkg:npm/bx-ui-view"},"versions":["1.0.0"]}]}

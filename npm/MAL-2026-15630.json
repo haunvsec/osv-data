@@ -1,1 +1,1 @@
-{"schema_version":"1.9.0","id":"MAL-2026-15630","published":"2026-08-31T18:01:54Z","modified":"2026-08-31T18:31:23.288387917Z","summary":"Malicious code in mfafix (npm)","affected":[{"package":{"name":"mfafix","ecosystem":"npm","purl":"pkg:npm/mfafix"},"versions":["1.1.1","1.1.0"]}]}
+{"schema_version":"1.9.0","id":"MAL-2026-15630","published":"2026-08-31T18:01:54Z","modified":"2026-09-09T21:30:03.996753336Z","summary":"Malicious code in mfafix (npm)","affected":[{"package":{"name":"mfafix","ecosystem":"npm","purl":"pkg:npm/mfafix"},"versions":["1.1.1","1.1.0","1.0.0"]}]}

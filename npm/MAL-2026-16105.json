@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16105","published":"2026-09-09T22:26:53Z","modified":"2026-09-09T22:45:44.754734887Z","summary":"Malicious code in @sahril2nd/baileys (npm)","affected":[{"package":{"name":"@sahril2nd/baileys","ecosystem":"npm","purl":"pkg:npm/%40sahril2nd/baileys"},"versions":["1.0.21"]}]}

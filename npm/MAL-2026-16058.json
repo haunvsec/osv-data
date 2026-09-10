@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16058","published":"2026-09-08T23:56:41Z","modified":"2026-09-09T01:00:04.988144233Z","summary":"Malicious code in vinzz-wcli (npm)","affected":[{"package":{"name":"vinzz-wcli","ecosystem":"npm","purl":"pkg:npm/vinzz-wcli"},"versions":["1.0.1"]}]}

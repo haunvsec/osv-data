@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16104","published":"2026-09-09T22:27:09Z","modified":"2026-09-09T22:45:37.635188535Z","summary":"Malicious code in @nexustechpro/baileys (npm)","affected":[{"package":{"name":"@nexustechpro/baileys","ecosystem":"npm","purl":"pkg:npm/%40nexustechpro/baileys"},"versions":["2.2.7"]}]}

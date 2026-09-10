@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16063","published":"2026-09-09T01:40:48Z","modified":"2026-09-09T02:00:04.588072421Z","summary":"Malicious code in alloy-graphql (npm)","affected":[{"package":{"name":"alloy-graphql","ecosystem":"npm","purl":"pkg:npm/alloy-graphql"},"versions":["1.0.1"]}]}

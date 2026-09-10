@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16082","published":"2026-09-09T14:50:58Z","modified":"2026-09-09T15:32:41.739025389Z","summary":"Malicious code in @umschool/platform (npm)","affected":[{"package":{"name":"@umschool/platform","ecosystem":"npm","purl":"pkg:npm/%40umschool/platform"},"versions":["999.0.2","999.0.1","999.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16084","published":"2026-09-09T14:44:22Z","modified":"2026-09-09T19:30:05.286984124Z","aliases":["GHSA-4crw-26f5-4v62"],"summary":"Malicious code in amprem-activator (npm)","affected":[{"package":{"name":"amprem-activator","ecosystem":"npm","purl":"pkg:npm/amprem-activator"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16060","published":"2026-09-09T00:48:17Z","modified":"2026-09-09T01:45:05.116279216Z","summary":"Malicious code in selfcerts (npm)","affected":[{"package":{"name":"selfcerts","ecosystem":"npm","purl":"pkg:npm/selfcerts"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16078","published":"2026-09-09T06:54:28Z","modified":"2026-09-09T07:30:05.452625914Z","summary":"Malicious code in cache-cleanup-module (npm)","affected":[{"package":{"name":"cache-cleanup-module","ecosystem":"npm","purl":"pkg:npm/cache-cleanup-module"},"versions":["2.6.0","2.5.0"]}]}

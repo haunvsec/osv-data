@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16066","published":"2026-09-09T02:04:34Z","modified":"2026-09-09T19:00:07.129511620Z","aliases":["GHSA-q246-72rh-fp8w"],"summary":"Malicious code in @haimiya/baileys (npm)","affected":[{"package":{"name":"@haimiya/baileys","ecosystem":"npm","purl":"pkg:npm/%40haimiya/baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16049","published":"2026-09-08T19:05:59Z","modified":"2026-09-08T19:30:05.733602503Z","summary":"Malicious code in tailwindcss-aspectratio-styles (npm)","affected":[{"package":{"name":"tailwindcss-aspectratio-styles","ecosystem":"npm","purl":"pkg:npm/tailwindcss-aspectratio-styles"},"versions":["0.3.5","0.3.4"]}]}

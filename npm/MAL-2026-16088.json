@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16088","published":"2026-09-09T15:08:51Z","modified":"2026-09-09T15:32:41.705244161Z","aliases":["GHSA-5qr5-f8q7-r844"],"summary":"Malicious code in pumpswap-sdk-v1 (npm)","affected":[{"package":{"name":"pumpswap-sdk-v1","ecosystem":"npm","purl":"pkg:npm/pumpswap-sdk-v1"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

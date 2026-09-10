@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16091","published":"2026-09-09T15:09:14Z","modified":"2026-09-09T15:32:41.741674836Z","aliases":["GHSA-xqx8-w483-rq8x"],"summary":"Malicious code in sams-text-style (npm)","affected":[{"package":{"name":"sams-text-style","ecosystem":"npm","purl":"pkg:npm/sams-text-style"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

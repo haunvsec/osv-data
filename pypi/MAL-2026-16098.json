@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16098","published":"2026-09-09T19:01:41Z","modified":"2026-09-09T19:30:05.399495940Z","summary":"Malicious code in bq-build-probe-vrp-2026 (PyPI)","affected":[{"package":{"name":"bq-build-probe-vrp-2026","ecosystem":"PyPI","purl":"pkg:pypi/bq-build-probe-vrp-2026"},"versions":["0.2.0"]}]}

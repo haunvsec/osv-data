@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16048","published":"2026-09-08T19:05:28Z","modified":"2026-09-09T02:00:05.638820683Z","summary":"Malicious code in punypump (npm)","affected":[{"package":{"name":"punypump","ecosystem":"npm","purl":"pkg:npm/punypump"},"versions":["1.2.4","1.2.5","1.2.2"]}]}

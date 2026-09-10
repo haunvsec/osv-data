@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16059","published":"2026-09-09T00:47:56Z","modified":"2026-09-09T01:45:05.121223673Z","summary":"Malicious code in rojo-rbx (npm)","affected":[{"package":{"name":"rojo-rbx","ecosystem":"npm","purl":"pkg:npm/rojo-rbx"},"versions":["1.4.3"]}]}

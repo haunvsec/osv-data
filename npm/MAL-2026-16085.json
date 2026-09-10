@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16085","published":"2026-09-09T15:08:52Z","modified":"2026-09-09T15:32:41.754583543Z","aliases":["GHSA-v5v6-h869-g34f"],"summary":"Malicious code in crypto-validates (npm)","affected":[{"package":{"name":"crypto-validates","ecosystem":"npm","purl":"pkg:npm/crypto-validates"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

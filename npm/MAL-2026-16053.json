@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16053","published":"2026-09-09T00:27:12Z","modified":"2026-09-09T01:00:05.002081678Z","summary":"Malicious code in file-type-detector (npm)","affected":[{"package":{"name":"file-type-detector","ecosystem":"npm","purl":"pkg:npm/file-type-detector"},"versions":["1.1.0","1.1.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16101","published":"2026-09-09T21:10:42Z","modified":"2026-09-09T21:30:03.956525843Z","summary":"Malicious code in mfaby (npm)","affected":[{"package":{"name":"mfaby","ecosystem":"npm","purl":"pkg:npm/mfaby"},"versions":["1.0.0"]}]}
