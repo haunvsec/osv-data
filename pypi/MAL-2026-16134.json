@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16134","published":"2026-09-11T20:59:50Z","modified":"2026-09-11T22:30:03.660704677Z","summary":"Malicious code in ollamaa (PyPI)","affected":[{"package":{"name":"ollamaa","ecosystem":"PyPI","purl":"pkg:pypi/ollamaa"},"versions":["0.4.2"]}]}

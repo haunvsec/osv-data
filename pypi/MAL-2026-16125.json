@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16125","published":"2026-09-10T20:14:14Z","modified":"2026-09-10T21:30:03.856103665Z","summary":"Malicious code in lucy-python-script-2030 (PyPI)","affected":[{"package":{"name":"lucy-python-script-2030","ecosystem":"PyPI","purl":"pkg:pypi/lucy-python-script-2030"},"versions":["0.1.1","0.1.2"]}]}

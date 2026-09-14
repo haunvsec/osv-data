@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16117","published":"2026-09-10T04:45:58Z","modified":"2026-09-11T18:45:05.112500793Z","summary":"Malicious code in etoro-cashout (npm)","affected":[{"package":{"name":"etoro-cashout","ecosystem":"npm","purl":"pkg:npm/etoro-cashout"},"versions":["999.0.0","99.0.0","99.0.2"]}]}

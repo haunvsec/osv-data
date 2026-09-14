@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16143","published":"2026-09-13T16:12:34Z","modified":"2026-09-13T17:30:03.669451483Z","summary":"Malicious code in chroma-client (PyPI)","affected":[{"package":{"name":"chroma-client","ecosystem":"PyPI","purl":"pkg:pypi/chroma-client"},"versions":["0.5.7"]}]}

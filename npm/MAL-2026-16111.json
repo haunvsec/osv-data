@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16111","published":"2026-09-10T04:44:38Z","modified":"2026-09-11T18:45:05.148846978Z","summary":"Malicious code in etoro-aggregator (npm)","affected":[{"package":{"name":"etoro-aggregator","ecosystem":"npm","purl":"pkg:npm/etoro-aggregator"},"versions":["999.0.0","99.0.2","99.0.0"]}]}

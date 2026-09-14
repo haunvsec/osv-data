@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16126","published":"2026-09-11T07:51:51Z","modified":"2026-09-11T18:45:05.085799022Z","summary":"Malicious code in strapi-plugin-vinsoc-1109 (npm)","affected":[{"package":{"name":"strapi-plugin-vinsoc-1109","ecosystem":"npm","purl":"pkg:npm/strapi-plugin-vinsoc-1109"},"versions":["3.6.8"]}]}

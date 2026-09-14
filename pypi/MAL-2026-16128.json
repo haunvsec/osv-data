@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16128","published":"2026-09-11T14:47:19Z","modified":"2026-09-11T23:30:06.364603204Z","summary":"Malicious code in pymem-win (PyPI)","affected":[{"package":{"name":"pymem-win","ecosystem":"PyPI","purl":"pkg:pypi/pymem-win"},"versions":["1.14.0","1.14.1","1.14.4","1.14.5","1.14.6"]}]}

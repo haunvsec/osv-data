@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16115","published":"2026-09-10T04:43:30Z","modified":"2026-09-10T05:30:11.603657624Z","summary":"Malicious code in etoro-billing (npm)","affected":[{"package":{"name":"etoro-billing","ecosystem":"npm","purl":"pkg:npm/etoro-billing"},"versions":["999.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16129","published":"2026-09-11T14:12:59Z","modified":"2026-09-11T22:30:03.748844222Z","summary":"Malicious code in web3-eth-account (PyPI)","affected":[{"package":{"name":"web3-eth-account","ecosystem":"PyPI","purl":"pkg:pypi/web3-eth-account"},"versions":["0.14.0"]}]}

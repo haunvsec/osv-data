@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16140","published":"2026-09-11T22:39:35Z","modified":"2026-09-11T23:30:06.175297037Z","summary":"Malicious code in tracker-cloudflare (npm)","affected":[{"package":{"name":"tracker-cloudflare","ecosystem":"npm","purl":"pkg:npm/tracker-cloudflare"},"versions":["1.0.0"]}]}

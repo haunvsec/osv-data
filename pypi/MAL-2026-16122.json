@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16122","published":"2026-09-10T06:17:45Z","modified":"2026-09-10T18:30:36.793608971Z","summary":"Malicious code in pylever (PyPI)","affected":[{"package":{"name":"pylever","ecosystem":"PyPI","purl":"pkg:pypi/pylever"},"versions":["1.0.0","1.0.1","1.0.2","1.0.3","1.0.4","1.0.5","1.0.6","1.0.7","1.0.8","1.0.9","1.0.10","1.0.11","1.0.12"]}]}

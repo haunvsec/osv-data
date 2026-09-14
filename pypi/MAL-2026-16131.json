@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16131","published":"2026-09-11T15:24:15Z","modified":"2026-09-11T20:30:04.789194447Z","summary":"Malicious code in aitextutils-py (PyPI)","affected":[{"package":{"name":"aitextutils-py","ecosystem":"PyPI","purl":"pkg:pypi/aitextutils-py"},"versions":["0.1.0","0.1.1"]}]}

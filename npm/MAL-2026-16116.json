@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16116","published":"2026-09-10T04:45:48Z","modified":"2026-09-10T05:30:11.597390692Z","summary":"Malicious code in etoro-builders (npm)","affected":[{"package":{"name":"etoro-builders","ecosystem":"npm","purl":"pkg:npm/etoro-builders"},"versions":["999.0.0"]}]}

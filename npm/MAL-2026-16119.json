@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16119","published":"2026-09-10T04:44:04Z","modified":"2026-09-10T05:30:11.582610981Z","summary":"Malicious code in etoro-client (npm)","affected":[{"package":{"name":"etoro-client","ecosystem":"npm","purl":"pkg:npm/etoro-client"},"versions":["999.0.0"]}]}

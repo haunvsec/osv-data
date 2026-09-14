@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16136","published":"2026-09-11T21:00:10Z","modified":"2026-09-11T22:30:03.730685582Z","summary":"Malicious code in transfomers (PyPI)","affected":[{"package":{"name":"transfomers","ecosystem":"PyPI","purl":"pkg:pypi/transfomers"},"versions":["4.44.2"]}]}

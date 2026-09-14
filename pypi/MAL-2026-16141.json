@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16141","published":"2026-09-11T23:41:31Z","modified":"2026-09-12T01:00:03.433173055Z","summary":"Malicious code in platform-telemetry-client (PyPI)","affected":[{"package":{"name":"platform-telemetry-client","ecosystem":"PyPI","purl":"pkg:pypi/platform-telemetry-client"},"versions":["1.0.0"]}]}

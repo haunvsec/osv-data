@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16137","published":"2026-09-11T22:39:55Z","modified":"2026-09-11T23:30:06.167279057Z","summary":"Malicious code in cr-bot-common (npm)","affected":[{"package":{"name":"cr-bot-common","ecosystem":"npm","purl":"pkg:npm/cr-bot-common"},"versions":["1.0.0"]}]}

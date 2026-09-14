@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16142","published":"2026-09-12T09:15:57Z","modified":"2026-09-12T10:30:05.422554875Z","summary":"Malicious code in python-fork (PyPI)","affected":[{"package":{"name":"python-fork","ecosystem":"PyPI","purl":"pkg:pypi/python-fork"},"versions":["0.1.0","0.1.1"]}]}

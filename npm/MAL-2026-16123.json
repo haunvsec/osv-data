@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16123","published":"2026-09-10T18:08:42Z","modified":"2026-09-10T18:30:36.851362349Z","summary":"Malicious code in pinochiomathm (npm)","affected":[{"package":{"name":"pinochiomathm","ecosystem":"npm","purl":"pkg:npm/pinochiomathm"},"versions":["2.3.4","2.3.3","2.3.2","2.3.5"]}]}

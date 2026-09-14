@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16133","published":"2026-09-11T21:00:21Z","modified":"2026-09-11T22:30:03.740407574Z","summary":"Malicious code in langgrap (PyPI)","affected":[{"package":{"name":"langgrap","ecosystem":"PyPI","purl":"pkg:pypi/langgrap"},"versions":["0.2.45"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16120","published":"2026-09-10T04:43:55Z","modified":"2026-09-10T05:30:11.591263380Z","summary":"Malicious code in etoro-core (npm)","affected":[{"package":{"name":"etoro-core","ecosystem":"npm","purl":"pkg:npm/etoro-core"},"versions":["999.0.0"]}]}

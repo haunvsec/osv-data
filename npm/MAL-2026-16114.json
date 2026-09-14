@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16114","published":"2026-09-10T04:43:38Z","modified":"2026-09-11T18:45:05.159373237Z","summary":"Malicious code in etoro-auth (npm)","affected":[{"package":{"name":"etoro-auth","ecosystem":"npm","purl":"pkg:npm/etoro-auth"},"versions":["999.0.0","99.0.0"]}]}

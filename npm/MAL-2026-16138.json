@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16138","published":"2026-09-11T22:40:11Z","modified":"2026-09-11T23:30:06.156628880Z","summary":"Malicious code in greensaver (npm)","affected":[{"package":{"name":"greensaver","ecosystem":"npm","purl":"pkg:npm/greensaver"},"versions":["1.2.1","1.2.3","1.2.2"]}]}

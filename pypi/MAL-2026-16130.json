@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16130","published":"2026-09-11T15:22:35Z","modified":"2026-09-11T20:30:04.781866649Z","summary":"Malicious code in aitextkit-py (PyPI)","affected":[{"package":{"name":"aitextkit-py","ecosystem":"PyPI","purl":"pkg:pypi/aitextkit-py"},"versions":["0.1.0","0.1.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16121","published":"2026-09-09T14:00:00Z","modified":"2026-09-10T18:30:36.735116178Z","summary":"Malicious code in websetup (PyPI)","affected":[{"package":{"name":"websetup","ecosystem":"PyPI","purl":"pkg:pypi/websetup"},"versions":["0.1.0"]}]}

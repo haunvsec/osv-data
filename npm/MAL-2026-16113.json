@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16113","published":"2026-09-10T04:44:16Z","modified":"2026-09-10T05:30:11.589800136Z","summary":"Malicious code in etoro-api (npm)","affected":[{"package":{"name":"etoro-api","ecosystem":"npm","purl":"pkg:npm/etoro-api"},"versions":["999.0.0"]}]}

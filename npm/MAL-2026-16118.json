@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16118","published":"2026-09-10T04:43:46Z","modified":"2026-09-11T18:45:05.123329462Z","summary":"Malicious code in etoro-charts (npm)","affected":[{"package":{"name":"etoro-charts","ecosystem":"npm","purl":"pkg:npm/etoro-charts"},"versions":["999.0.0","99.0.0"]}]}
