@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16150","published":"2026-09-14T16:54:35Z","modified":"2026-09-14T17:30:06.159198054Z","summary":"Malicious code in postgreesqlhelper (npm)","affected":[{"package":{"name":"postgreesqlhelper","ecosystem":"npm","purl":"pkg:npm/postgreesqlhelper"},"versions":["1.0.3"]}]}

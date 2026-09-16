@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16199","published":"2026-09-08T00:00:00Z","modified":"2026-09-16T01:15:05.445182771Z","summary":"Malicious code in plogme (npm)","affected":[{"package":{"name":"plogme","ecosystem":"npm","purl":"pkg:npm/plogme"},"versions":["1.0.0","1.0.1","1.0.2","1.0.3"]}]}

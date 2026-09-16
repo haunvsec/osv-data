@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16200","published":"2026-09-14T00:00:00Z","modified":"2026-09-16T01:30:06.423468342Z","summary":"Malicious code in @zaka13/thing (npm)","affected":[{"package":{"name":"@zaka13/thing","ecosystem":"npm","purl":"pkg:npm/%40zaka13/thing"},"versions":["1.0.0"]}]}

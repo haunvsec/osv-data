@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16148","published":"2026-09-14T16:56:44Z","modified":"2026-09-14T17:30:06.159161668Z","summary":"Malicious code in noblox-asset.js (npm)","affected":[{"package":{"name":"noblox-asset.js","ecosystem":"npm","purl":"pkg:npm/noblox-asset.js"},"versions":["7.4.2","7.6.0","7.4.0","7.4.1"]}]}

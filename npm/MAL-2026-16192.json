@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16192","published":"2026-09-15T15:55:27Z","modified":"2026-09-15T16:31:10.209780496Z","summary":"Malicious code in strapi-plugin-weccresh-meeb (npm)","affected":[{"package":{"name":"strapi-plugin-weccresh-meeb","ecosystem":"npm","purl":"pkg:npm/strapi-plugin-weccresh-meeb"},"versions":["3.6.8"]}]}

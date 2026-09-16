@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16173","published":"2026-09-12T13:35:09Z","modified":"2026-09-16T01:30:06.448614720Z","summary":"Malicious code in id79-client (npm)","affected":[{"package":{"name":"id79-client","ecosystem":"npm","purl":"pkg:npm/id79-client"},"versions":["1.1.79"]}]}

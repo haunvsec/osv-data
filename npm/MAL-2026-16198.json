@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16198","published":"2026-09-15T22:27:22Z","modified":"2026-09-15T23:30:05.668254292Z","aliases":["GHSA-6qx5-2w7p-cf29"],"summary":"Malicious code in kartykp-token-pkg (npm)","affected":[{"package":{"name":"kartykp-token-pkg","ecosystem":"npm","purl":"pkg:npm/kartykp-token-pkg"},"versions":["1.0.2"]}]}

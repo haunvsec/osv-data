@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16194","published":"2026-09-15T15:54:30Z","modified":"2026-09-15T16:31:10.205162999Z","summary":"Malicious code in strapi-plugin-yesccresh-meeb (npm)","affected":[{"package":{"name":"strapi-plugin-yesccresh-meeb","ecosystem":"npm","purl":"pkg:npm/strapi-plugin-yesccresh-meeb"},"versions":["3.6.8"]}]}

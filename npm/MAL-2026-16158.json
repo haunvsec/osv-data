@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16158","published":"2026-09-14T18:00:42Z","modified":"2026-09-14T20:30:05.636530793Z","aliases":["GHSA-59f6-ch49-395j"],"summary":"Malicious code in afhmxiewpsf (npm)","affected":[{"package":{"name":"afhmxiewpsf","ecosystem":"npm","purl":"pkg:npm/afhmxiewpsf"},"versions":["1.0.5","1.0.4","1.0.3","1.0.2","1.0.1","1.0.0"]}]}

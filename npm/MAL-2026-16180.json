@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16180","published":"2026-09-15T15:52:37Z","modified":"2026-09-15T16:31:25.434560124Z","summary":"Malicious code in strapi-plugin-ccresh-meeb (npm)","affected":[{"package":{"name":"strapi-plugin-ccresh-meeb","ecosystem":"npm","purl":"pkg:npm/strapi-plugin-ccresh-meeb"},"versions":["3.6.8"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16197","published":"2026-09-15T22:39:53Z","modified":"2026-09-16T01:15:05.463889207Z","aliases":["GHSA-v7jq-fcmp-3w93"],"summary":"Malicious code in kartykp-prod-oidc-test-pkg (npm)","affected":[{"package":{"name":"kartykp-prod-oidc-test-pkg","ecosystem":"npm","purl":"pkg:npm/kartykp-prod-oidc-test-pkg"},"versions":["1.0.3","1.0.4"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16160","published":"2026-09-14T14:49:59Z","modified":"2026-09-14T20:30:05.638818676Z","aliases":["GHSA-5823-3hg3-27v8"],"summary":"Malicious code in lpulogin (npm)","affected":[{"package":{"name":"lpulogin","ecosystem":"npm","purl":"pkg:npm/lpulogin"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

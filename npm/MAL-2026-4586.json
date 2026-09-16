@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-4586","published":"2026-05-25T13:57:52Z","modified":"2026-05-26T06:02:37.480881703Z","summary":"Malicious code in intl-ad-routing (npm)","affected":[{"package":{"name":"intl-ad-routing","ecosystem":"npm","purl":"pkg:npm/intl-ad-routing"},"versions":["99.0.1","99.0.2","99.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16144","published":"2026-09-14T15:42:30Z","modified":"2026-09-14T16:31:19.568723762Z","summary":"Malicious code in app-rrhh (npm)","affected":[{"package":{"name":"app-rrhh","ecosystem":"npm","purl":"pkg:npm/app-rrhh"},"versions":["999.0.0"]}]}

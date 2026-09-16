@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16177","published":"2026-09-15T15:53:20Z","modified":"2026-09-15T16:31:25.243020126Z","summary":"Malicious code in n8n-nodes-buildcheck (npm)","affected":[{"package":{"name":"n8n-nodes-buildcheck","ecosystem":"npm","purl":"pkg:npm/n8n-nodes-buildcheck"},"versions":["1.0.0"]}]}

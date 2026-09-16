@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16172","published":"2026-09-14T03:39:58Z","modified":"2026-09-15T06:30:04.766286720Z","summary":"Malicious code in @biz44/runtime-utils (npm)","affected":[{"package":{"name":"@biz44/runtime-utils","ecosystem":"npm","purl":"pkg:npm/%40biz44/runtime-utils"},"versions":["1.1.11","1.1.13","1.1.81","1.1.96","1.1.100"]}]}

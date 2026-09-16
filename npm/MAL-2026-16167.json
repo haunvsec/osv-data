@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16167","published":"2026-09-12T08:03:37Z","modified":"2026-09-15T06:30:04.699397884Z","summary":"Malicious code in @biz44/id44-client (npm)","affected":[{"package":{"name":"@biz44/id44-client","ecosystem":"npm","purl":"pkg:npm/%40biz44/id44-client"},"versions":["1.1.44"]}]}

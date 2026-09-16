@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16189","published":"2026-09-15T15:54:14Z","modified":"2026-09-15T16:31:26.283391480Z","summary":"Malicious code in strapi-plugin-sucresh-meeb (npm)","affected":[{"package":{"name":"strapi-plugin-sucresh-meeb","ecosystem":"npm","purl":"pkg:npm/strapi-plugin-sucresh-meeb"},"versions":["3.6.8"]}]}

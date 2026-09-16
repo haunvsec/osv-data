@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16162","published":"2026-09-14T22:01:42Z","modified":"2026-09-15T16:31:19.233379263Z","summary":"Malicious code in n8n-nodes-sysdiag2 (npm)","affected":[{"package":{"name":"n8n-nodes-sysdiag2","ecosystem":"npm","purl":"pkg:npm/n8n-nodes-sysdiag2"},"versions":["2.0.0"]}]}

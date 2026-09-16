@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16151","published":"2026-09-14T16:52:54Z","modified":"2026-09-14T17:30:06.173513169Z","summary":"Malicious code in sql-limit-enforcer (npm)","affected":[{"package":{"name":"sql-limit-enforcer","ecosystem":"npm","purl":"pkg:npm/sql-limit-enforcer"},"versions":["10.0.0"]}]}

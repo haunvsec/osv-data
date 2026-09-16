@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16179","published":"2026-09-15T15:55:20Z","modified":"2026-09-15T16:31:19.117286040Z","summary":"Malicious code in process-tailwind (npm)","affected":[{"package":{"name":"process-tailwind","ecosystem":"npm","purl":"pkg:npm/process-tailwind"},"versions":["1.1.99"]}]}

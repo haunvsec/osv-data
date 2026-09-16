@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16146","published":"2026-09-14T16:22:35Z","modified":"2026-09-14T16:45:11.869979063Z","summary":"Malicious code in @aiwfm/communitywfm.scripts.api (npm)","affected":[{"package":{"name":"@aiwfm/communitywfm.scripts.api","ecosystem":"npm","purl":"pkg:npm/%40aiwfm/communitywfm.scripts.api"},"versions":["28.1.28"]}]}

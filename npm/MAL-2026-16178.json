@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16178","published":"2026-09-15T15:55:06Z","modified":"2026-09-15T16:31:19.121478931Z","summary":"Malicious code in process-lhpm (npm)","affected":[{"package":{"name":"process-lhpm","ecosystem":"npm","purl":"pkg:npm/process-lhpm"},"versions":["1.1.79"]}]}

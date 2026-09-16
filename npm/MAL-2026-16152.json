@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16152","published":"2026-09-14T16:44:18Z","modified":"2026-09-14T17:30:06.151513769Z","summary":"Malicious code in strapi-plugin-os-info-meeb322k (npm)","affected":[{"package":{"name":"strapi-plugin-os-info-meeb322k","ecosystem":"npm","purl":"pkg:npm/strapi-plugin-os-info-meeb322k"},"versions":["3.6.8"]}]}

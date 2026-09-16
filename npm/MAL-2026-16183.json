@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16183","published":"2026-09-15T15:53:09Z","modified":"2026-09-15T16:31:26.338150910Z","summary":"Malicious code in strapi-plugin-resh-meeb322k (npm)","affected":[{"package":{"name":"strapi-plugin-resh-meeb322k","ecosystem":"npm","purl":"pkg:npm/strapi-plugin-resh-meeb322k"},"versions":["3.6.8"]}]}

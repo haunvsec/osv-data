@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16190","published":"2026-09-15T15:53:02Z","modified":"2026-09-15T16:31:25.928943979Z","summary":"Malicious code in strapi-plugin-tryccresh-meeb (npm)","affected":[{"package":{"name":"strapi-plugin-tryccresh-meeb","ecosystem":"npm","purl":"pkg:npm/strapi-plugin-tryccresh-meeb"},"versions":["3.6.8"]}]}

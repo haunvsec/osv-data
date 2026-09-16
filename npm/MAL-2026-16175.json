@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16175","published":"2026-09-15T15:55:51Z","modified":"2026-09-15T16:31:19.117465053Z","summary":"Malicious code in csa-mfa (npm)","affected":[{"package":{"name":"csa-mfa","ecosystem":"npm","purl":"pkg:npm/csa-mfa"},"versions":["1.1.15","1.1.16"]}]}

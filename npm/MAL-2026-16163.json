@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16163","published":"2026-09-14T21:40:59Z","modified":"2026-09-14T22:30:46.391212083Z","aliases":["GHSA-cmxv-8vgc-m43c"],"summary":"Malicious code in @yggbrasil/api (npm)","affected":[{"package":{"name":"@yggbrasil/api","ecosystem":"npm","purl":"pkg:npm/%40yggbrasil/api"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

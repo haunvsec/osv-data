@@ -1,0 +1,1 @@
+{"schema_version":"1.7.5","id":"MAL-2026-4824","published":"2026-05-26T15:09:17Z","modified":"2026-05-27T00:32:10.038527750Z","withdrawn":"2026-05-26T17:27:32Z","summary":"Malicious code in cdktn-provider-datadog (PyPI)","affected":[{"package":{"name":"cdktn-provider-datadog","ecosystem":"PyPI","purl":"pkg:pypi/cdktn-provider-datadog"},"versions":["15.1.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16145","published":"2026-09-14T15:42:39Z","modified":"2026-09-14T17:30:06.153300950Z","summary":"Malicious code in concierge-sdk (npm)","affected":[{"package":{"name":"concierge-sdk","ecosystem":"npm","purl":"pkg:npm/concierge-sdk"},"versions":["99.99.101","99.99.100","99.99.99"]}]}

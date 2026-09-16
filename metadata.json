@@ -1,6 +1,6 @@
 {
-  "last_crawl_time": "2026-09-14T03:19:57Z",
-  "last_attempt_time": "2026-09-16T05:47:30Z",
+  "last_crawl_time": "2026-09-16T06:55:39Z",
+  "last_attempt_time": "2026-09-16T06:55:39Z",
   "source": "osv-vulnerabilities-gcs",
   "source_url": "https://storage.googleapis.com/osv-vulnerabilities",
   "method": "incremental",
@@ -11,84 +11,77 @@
     "redhat"
   ],
   "ecosystem_counts": {
-    "maven": 7076,
-    "npm": 228958,
-    "pypi": 25583,
-    "redhat": 22867
+    "maven": 7091,
+    "npm": 229018,
+    "pypi": 25620,
+    "redhat": 22931
   },
-  "total_vulnerabilities": 284484,
+  "total_vulnerabilities": 284660,
   "ecosystem_state": {
     "maven": {
-      "last_attempt_time": "2026-09-14T03:13:43Z",
+      "last_attempt_time": "2026-09-16T06:45:38Z",
       "last_method": "incremental",
-      "last_downloaded": 1003,
-      "last_skipped": 0,
-      "last_indexed": 0,
-      "last_successful_crawl_time": "2026-09-14T03:13:43Z",
-      "last_modified_time": "2026-09-11T22:25:58.855627915Z"
+      "last_downloaded": 16,
+      "last_skipped": 14,
+      "last_indexed": 7091,
+      "last_successful_crawl_time": "2026-09-16T06:45:38Z",
+      "last_modified_time": "2026-09-16T03:56:06.395820071Z"
     },
     "npm": {
-      "last_attempt_time": "2026-09-16T05:47:30Z",
+      "last_attempt_time": "2026-09-16T06:55:24Z",
       "last_method": "incremental",
-      "last_downloaded": 0,
-      "last_skipped": 0,
-      "last_indexed": 0,
-      "last_successful_crawl_time": "2026-09-14T03:15:30Z",
-      "last_modified_time": "2026-09-13T11:56:31.857641533Z",
-      "last_error": "('Connection broken: IncompleteRead(15485 bytes read, 105391 more expected)', IncompleteRead(15485 bytes read, 105391 more expected))"
+      "last_downloaded": 73,
+      "last_skipped": 62,
+      "last_indexed": 229018,
+      "last_successful_crawl_time": "2026-09-16T06:55:24Z",
+      "last_modified_time": "2026-09-16T03:56:06.318054839Z"
     },
     "pypi": {
-      "last_attempt_time": "2026-09-14T03:17:16Z",
+      "last_attempt_time": "2026-09-16T06:43:39Z",
       "last_method": "incremental",
-      "last_downloaded": 1609,
-      "last_skipped": 0,
-      "last_indexed": 0,
-      "last_successful_crawl_time": "2026-09-14T03:17:16Z",
-      "last_modified_time": "2026-09-13T17:30:03.669451483Z"
+      "last_downloaded": 52,
+      "last_skipped": 7,
+      "last_indexed": 25620,
+      "last_successful_crawl_time": "2026-09-16T06:43:39Z",
+      "last_modified_time": "2026-09-16T03:56:06.204188287Z"
     },
     "redhat": {
-      "last_attempt_time": "2026-09-14T03:19:57Z",
+      "last_attempt_time": "2026-09-16T06:55:39Z",
       "last_method": "incremental",
-      "last_downloaded": 2195,
-      "last_skipped": 0,
+      "last_downloaded": 0,
+      "last_skipped": 1,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-09-14T03:19:57Z",
-      "last_modified_time": "2026-09-13T10:16:11.562781992Z"
+      "last_successful_crawl_time": "2026-09-16T06:55:39Z",
+      "last_modified_time": "2026-09-15T10:42:26.900916113Z"
     }
   },
   "last_run": {
-    "started_at": "2026-09-16T05:37:58Z",
+    "started_at": "2026-09-16T06:55:34Z",
     "output_dir": "/Volumes/DATA/security_advisory/osv-data",
     "method": "incremental",
     "ecosystems": [
-      "npm"
+      "redhat"
     ],
     "ecosystem_results": [
       {
-        "ecosystem": "npm",
+        "ecosystem": "redhat",
         "method": "incremental",
         "downloaded": 0,
-        "skipped": 0,
+        "skipped": 1,
         "indexed": 0,
         "existing": 0,
-        "latest_modified_time": null,
-        "success": false,
-        "error": "('Connection broken: IncompleteRead(15485 bytes read, 105391 more expected)', IncompleteRead(15485 bytes read, 105391 more expected))"
+        "latest_modified_time": "2026-09-15T10:42:26.900916113Z",
+        "success": true
       }
     ],
     "vulns_downloaded": 0,
     "vulns_skipped": 1,
-    "errors": [
-      {
-        "ecosystem": "npm",
-        "error": "('Connection broken: IncompleteRead(15485 bytes read, 105391 more expected)', IncompleteRead(15485 bytes read, 105391 more expected))"
-      }
-    ],
+    "errors": [],
     "dry_run": false,
     "limit": null,
-    "sync_missing": true,
+    "sync_missing": false,
     "missing_only": false,
-    "finished_at": "2026-09-16T05:47:30Z",
-    "duration_seconds": 571.29
+    "finished_at": "2026-09-16T06:55:39Z",
+    "duration_seconds": 4.69
   }
 }

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16159","published":"2026-09-14T14:03:43Z","modified":"2026-09-14T20:30:05.641889791Z","aliases":["GHSA-5wh2-j94m-rwpf"],"summary":"Malicious code in dilxztech (npm)","affected":[{"package":{"name":"dilxztech","ecosystem":"npm","purl":"pkg:npm/dilxztech"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16153","published":"2026-09-14T16:42:39Z","modified":"2026-09-14T17:30:06.150376953Z","summary":"Malicious code in web-main (npm)","affected":[{"package":{"name":"web-main","ecosystem":"npm","purl":"pkg:npm/web-main"},"versions":["22.1.2"]}]}

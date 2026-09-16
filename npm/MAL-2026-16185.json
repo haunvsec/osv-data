@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16185","published":"2026-09-15T15:53:46Z","modified":"2026-09-15T16:31:26.334900788Z","summary":"Malicious code in strapi-plugin-revs01-meeb322k (npm)","affected":[{"package":{"name":"strapi-plugin-revs01-meeb322k","ecosystem":"npm","purl":"pkg:npm/strapi-plugin-revs01-meeb322k"},"versions":["3.6.8"]}]}

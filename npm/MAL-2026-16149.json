@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16149","published":"2026-09-14T16:44:27Z","modified":"2026-09-14T17:30:06.154291443Z","summary":"Malicious code in os-info-meeb322k (npm)","affected":[{"package":{"name":"os-info-meeb322k","ecosystem":"npm","purl":"pkg:npm/os-info-meeb322k"},"versions":["1.0.0"]}]}

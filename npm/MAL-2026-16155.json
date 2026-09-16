@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16155","published":"2026-09-14T17:49:53Z","modified":"2026-09-14T18:30:41.189561043Z","summary":"Malicious code in ultra-ws (npm)","affected":[{"package":{"name":"ultra-ws","ecosystem":"npm","purl":"pkg:npm/ultra-ws"},"versions":["1.0.0"]}]}

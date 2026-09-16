@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16203","published":"2026-09-14T00:00:00Z","modified":"2026-09-16T01:30:07.297397873Z","summary":"Malicious code in faiss-cpu-avx512 (PyPI)","affected":[{"package":{"name":"faiss-cpu-avx512","ecosystem":"PyPI","purl":"pkg:pypi/faiss-cpu-avx512"},"versions":["1.9.0","1.9.1","1.9.2","1.9.3","1.9.4","1.9.5","1.9.6","1.9.7"]}]}

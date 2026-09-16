@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16201","published":"2026-09-14T00:00:00Z","modified":"2026-09-16T01:30:06.422482434Z","summary":"Malicious code in webpackbootstrap5 (npm)","affected":[{"package":{"name":"webpackbootstrap5","ecosystem":"npm","purl":"pkg:npm/webpackbootstrap5"},"versions":["5.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16176","published":"2026-09-15T15:55:36Z","modified":"2026-09-15T16:31:19.115835475Z","summary":"Malicious code in fulfillment-cuprum-auth-widget (npm)","affected":[{"package":{"name":"fulfillment-cuprum-auth-widget","ecosystem":"npm","purl":"pkg:npm/fulfillment-cuprum-auth-widget"},"versions":["3.7.2"]}]}
