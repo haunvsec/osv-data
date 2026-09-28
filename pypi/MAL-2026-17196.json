@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17196","published":"2026-09-27T08:55:47Z","modified":"2026-09-27T09:30:03.928928846Z","summary":"Malicious code in donutpromotion (PyPI)","affected":[{"package":{"name":"donutpromotion","ecosystem":"PyPI","purl":"pkg:pypi/donutpromotion"},"versions":["0.1.0"]}]}

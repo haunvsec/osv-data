@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17198","published":"2026-09-27T10:50:14Z","modified":"2026-09-27T14:30:14.817150579Z","summary":"Malicious code in caracas4check (PyPI)","affected":[{"package":{"name":"caracas4check","ecosystem":"PyPI","purl":"pkg:pypi/caracas4check"},"versions":["1.1.1","1.1.2"]}]}

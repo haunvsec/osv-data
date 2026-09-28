@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17195","published":"2026-09-27T08:57:31Z","modified":"2026-09-27T14:30:14.818116198Z","summary":"Malicious code in claudedashbord (PyPI)","affected":[{"package":{"name":"claudedashbord","ecosystem":"PyPI","purl":"pkg:pypi/claudedashbord"},"versions":["0.1.0","0.1.1","0.1.2","0.1.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16377","published":"2026-09-22T07:01:53Z","modified":"2026-09-22T14:30:06.900315452Z","summary":"Malicious code in cloushaar-poc-exfil-91827 (PyPI)","affected":[{"package":{"name":"cloushaar-poc-exfil-91827","ecosystem":"PyPI","purl":"pkg:pypi/cloushaar-poc-exfil-91827"},"versions":["0.0.1"]}]}

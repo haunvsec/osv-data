@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16242","published":"2026-09-16T19:09:57Z","modified":"2026-09-17T14:30:05.398061985Z","summary":"Malicious code in trongappy (PyPI)","affected":[{"package":{"name":"trongappy","ecosystem":"PyPI","purl":"pkg:pypi/trongappy"},"versions":["0.0.1"]}]}

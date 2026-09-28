@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"PYSEC-2026-3987","published":"2026-09-23T19:52:25Z","modified":"2026-09-23T20:15:02.988658079Z","aliases":["MAL-2026-16475"],"summary":"MemoryOS 2.0.34 was published with a credential-stealing binary","affected":[{"package":{"name":"memoryos","ecosystem":"PyPI","purl":"pkg:pypi/memoryos"},"versions":["2.0.34"]}]}

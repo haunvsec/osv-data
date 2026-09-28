@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16275","published":"2026-09-17T23:07:16Z","modified":"2026-09-18T01:00:06.102944980Z","summary":"Malicious code in requests-triwes (PyPI)","affected":[{"package":{"name":"requests-triwes","ecosystem":"PyPI","purl":"pkg:pypi/requests-triwes"},"versions":["2.34.2"]}]}

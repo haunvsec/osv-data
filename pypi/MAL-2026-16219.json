@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16219","published":"2026-09-16T06:54:28Z","modified":"2026-09-17T14:30:05.405699848Z","summary":"Malicious code in licloud (PyPI)","affected":[{"package":{"name":"licloud","ecosystem":"PyPI","purl":"pkg:pypi/licloud"},"versions":["0.2.7a0","0.2.8"]}]}

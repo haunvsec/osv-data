@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17188","published":"2026-09-25T21:13:33Z","modified":"2026-09-25T21:45:03.831645876Z","summary":"Malicious code in sherpy (PyPI)","affected":[{"package":{"name":"sherpy","ecosystem":"PyPI","purl":"pkg:pypi/sherpy"},"versions":["0.1.0","0.1.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17193","published":"2026-09-27T07:06:20Z","modified":"2026-09-27T07:30:04.379668204Z","summary":"Malicious code in metrio (PyPI)","affected":[{"package":{"name":"metrio","ecosystem":"PyPI","purl":"pkg:pypi/metrio"},"versions":["999.0.0","1000.0.0","1001.0.0"]}]}

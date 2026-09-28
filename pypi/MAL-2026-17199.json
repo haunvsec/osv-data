@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17199","published":"2026-09-27T14:33:48Z","modified":"2026-09-27T14:45:04.666694431Z","summary":"Malicious code in scrapetools2 (PyPI)","affected":[{"package":{"name":"scrapetools2","ecosystem":"PyPI","purl":"pkg:pypi/scrapetools2"},"versions":["1.2.1","1.2.0","0.2.0","0.2.1"]}]}

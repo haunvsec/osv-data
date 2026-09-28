@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16296","published":"2026-09-18T21:42:33Z","modified":"2026-09-21T04:00:05.952185331Z","summary":"Malicious code in py-venv-doctor (PyPI)","affected":[{"package":{"name":"py-venv-doctor","ecosystem":"PyPI","purl":"pkg:pypi/py-venv-doctor"},"versions":["0.1.0","0.1.1"]}]}

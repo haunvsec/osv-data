@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16250","published":"2026-09-17T12:43:45Z","modified":"2026-09-17T14:45:11.203031313Z","summary":"Malicious code in marketing-mcp (PyPI)","affected":[{"package":{"name":"marketing-mcp","ecosystem":"PyPI","purl":"pkg:pypi/marketing-mcp"},"versions":["0.1.0"]}]}

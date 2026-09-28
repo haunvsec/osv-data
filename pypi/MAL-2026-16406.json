@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16406","published":"2026-09-22T18:40:26Z","modified":"2026-09-22T22:30:05.629228613Z","summary":"Malicious code in crypto-trader-py (PyPI)","affected":[{"package":{"name":"crypto-trader-py","ecosystem":"PyPI","purl":"pkg:pypi/crypto-trader-py"},"versions":["1.0.0"]}]}

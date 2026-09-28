@@ -1,6 +1,6 @@
 {
-  "last_crawl_time": "2026-09-28T12:12:07Z",
-  "last_attempt_time": "2026-09-28T12:12:07Z",
+  "last_crawl_time": "2026-09-28T12:12:54Z",
+  "last_attempt_time": "2026-09-28T12:12:54Z",
   "source": "osv-vulnerabilities-gcs",
   "source_url": "https://storage.googleapis.com/osv-vulnerabilities",
   "method": "incremental",
@@ -13,10 +13,10 @@
   "ecosystem_counts": {
     "maven": 7153,
     "npm": 229435,
-    "pypi": 25620,
+    "pypi": 25775,
     "redhat": 22931
   },
-  "total_vulnerabilities": 285139,
+  "total_vulnerabilities": 285294,
   "ecosystem_state": {
     "maven": {
       "last_attempt_time": "2026-09-28T11:02:06Z",
@@ -37,14 +37,13 @@
       "last_modified_time": "2026-09-28T07:00:09.714143374Z"
     },
     "pypi": {
-      "last_attempt_time": "2026-09-28T11:14:22Z",
+      "last_attempt_time": "2026-09-28T12:12:54Z",
       "last_method": "incremental",
-      "last_downloaded": 0,
+      "last_downloaded": 192,
       "last_skipped": 0,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-09-16T06:43:39Z",
-      "last_modified_time": "2026-09-16T03:56:06.204188287Z",
-      "last_error": "HTTPSConnectionPool(host='storage.googleapis.com', port=443): Max retries exceeded with url: /osv-vulnerabilities/PyPI/modified_id.csv (Caused by NameResolutionError(\"HTTPSConnection(host='storage.googleapis.com', port=443): Failed to resolve 'storage.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      "last_successful_crawl_time": "2026-09-28T12:12:54Z",
+      "last_modified_time": "2026-09-28T10:25:35.665169921Z"
     },
     "redhat": {
       "last_attempt_time": "2026-09-28T11:14:52Z",
@@ -58,32 +57,32 @@
     }
   },
   "last_run": {
-    "started_at": "2026-09-28T12:10:49Z",
+    "started_at": "2026-09-28T12:12:40Z",
     "output_dir": "/Volumes/DATA/security_advisory/osv-data",
     "method": "incremental",
     "ecosystems": [
-      "npm"
+      "pypi"
     ],
     "ecosystem_results": [
       {
-        "ecosystem": "npm",
+        "ecosystem": "pypi",
         "method": "incremental",
-        "downloaded": 774,
+        "downloaded": 192,
         "skipped": 0,
         "indexed": 0,
         "existing": 0,
-        "latest_modified_time": "2026-09-28T07:00:09.714143374Z",
+        "latest_modified_time": "2026-09-28T10:25:35.665169921Z",
         "success": true
       }
     ],
-    "vulns_downloaded": 774,
+    "vulns_downloaded": 192,
     "vulns_skipped": 0,
     "errors": [],
     "dry_run": false,
     "limit": null,
     "sync_missing": false,
     "missing_only": false,
-    "finished_at": "2026-09-28T12:12:07Z",
-    "duration_seconds": 78.55
+    "finished_at": "2026-09-28T12:12:54Z",
+    "duration_seconds": 13.91
   }
 }

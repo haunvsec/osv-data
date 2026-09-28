@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17213","published":"2026-09-28T07:34:50Z","modified":"2026-09-28T08:45:04.117531772Z","summary":"Malicious code in azure-langchain-example (PyPI)","affected":[{"package":{"name":"azure-langchain-example","ecosystem":"PyPI","purl":"pkg:pypi/azure-langchain-example"},"versions":["0.1.0"]}]}

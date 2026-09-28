@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17192","published":"2026-09-27T00:09:55Z","modified":"2026-09-27T14:30:14.814291078Z","summary":"Malicious code in donutautosellsrc (PyPI)","affected":[{"package":{"name":"donutautosellsrc","ecosystem":"PyPI","purl":"pkg:pypi/donutautosellsrc"},"versions":["0.3.7","0.3.8","0.3.9"]}]}

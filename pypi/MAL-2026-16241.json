@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16241","published":"2026-09-16T18:26:49Z","modified":"2026-09-17T14:30:05.405588366Z","summary":"Malicious code in rak-lab-yoav-orca-zrktd2cp5hjmo4x7 (PyPI)","affected":[{"package":{"name":"rak-lab-yoav-orca-zrktd2cp5hjmo4x7","ecosystem":"PyPI","purl":"pkg:pypi/rak-lab-yoav-orca-zrktd2cp5hjmo4x7"},"versions":["9.9.9"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17183","published":"2026-09-25T10:39:11Z","modified":"2026-09-25T14:30:05.685736886Z","summary":"Malicious code in tego-managed-agents-test (PyPI)","affected":[{"package":{"name":"tego-managed-agents-test","ecosystem":"PyPI","purl":"pkg:pypi/tego-managed-agents-test"},"versions":["0.1.0"]}]}

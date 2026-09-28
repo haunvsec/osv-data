@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17197","published":"2026-09-27T09:37:17Z","modified":"2026-09-27T14:30:14.813620703Z","summary":"Malicious code in coinscan (PyPI)","affected":[{"package":{"name":"coinscan","ecosystem":"PyPI","purl":"pkg:pypi/coinscan"},"versions":["0.1.0"]}]}

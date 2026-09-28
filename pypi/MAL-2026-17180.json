@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17180","published":"2026-09-25T00:08:08Z","modified":"2026-09-25T14:30:05.761879412Z","summary":"Malicious code in my-private-pkg (PyPI)","affected":[{"package":{"name":"my-private-pkg","ecosystem":"PyPI","purl":"pkg:pypi/my-private-pkg"},"versions":["99.1.1","0.1.1","99.11.2"]}]}

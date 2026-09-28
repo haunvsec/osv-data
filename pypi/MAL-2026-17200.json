@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17200","published":"2026-09-27T14:15:46Z","modified":"2026-09-27T15:30:03.973889926Z","summary":"Malicious code in aseity (PyPI)","affected":[{"package":{"name":"aseity","ecosystem":"PyPI","purl":"pkg:pypi/aseity"},"versions":["0.1.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17168","published":"2026-09-24T23:23:58Z","modified":"2026-09-25T03:00:06.520650378Z","summary":"Malicious code in vercel-runtime-python (PyPI)","affected":[{"package":{"name":"vercel-runtime-python","ecosystem":"PyPI","purl":"pkg:pypi/vercel-runtime-python"},"versions":["0.1.0","99.99.99","100.99.99","100.100.99"]}]}

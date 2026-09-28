@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16240","published":"2026-09-16T17:30:57Z","modified":"2026-09-17T14:30:05.401213474Z","summary":"Malicious code in praetorian-mind-rce-test-2026 (PyPI)","affected":[{"package":{"name":"praetorian-mind-rce-test-2026","ecosystem":"PyPI","purl":"pkg:pypi/praetorian-mind-rce-test-2026"},"versions":["0.0.1","0.0.2","0.0.3"]}]}

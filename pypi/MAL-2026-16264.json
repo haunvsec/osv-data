@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16264","published":"2026-09-17T19:40:07Z","modified":"2026-09-22T23:30:07.052853488Z","summary":"Malicious code in aiosendletter (PyPI)","affected":[{"package":{"name":"aiosendletter","ecosystem":"PyPI","purl":"pkg:pypi/aiosendletter"},"versions":["0.2.0","3.7","3.8","3.9","4.0","4.1","4.3","4.5","4.6"]}]}

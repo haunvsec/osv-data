@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17181","published":"2026-09-25T06:00:28Z","modified":"2026-09-25T08:30:05.079647832Z","summary":"Malicious code in reqparser (PyPI)","affected":[{"package":{"name":"reqparser","ecosystem":"PyPI","purl":"pkg:pypi/reqparser"},"versions":["1.0.0","1.0.1"]}]}
