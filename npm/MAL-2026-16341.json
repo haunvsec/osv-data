@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16341","published":"2026-09-21T03:33:01Z","modified":"2026-09-21T04:00:07.695084442Z","summary":"Malicious code in pflag14570 (npm)","affected":[{"package":{"name":"pflag14570","ecosystem":"npm","purl":"pkg:npm/pflag14570"},"versions":["1.0.0"]}]}

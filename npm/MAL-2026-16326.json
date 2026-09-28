@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16326","published":"2026-09-21T03:29:19Z","modified":"2026-09-21T04:00:07.592297969Z","summary":"Malicious code in byted-commerce-materials (npm)","affected":[{"package":{"name":"byted-commerce-materials","ecosystem":"npm","purl":"pkg:npm/byted-commerce-materials"},"versions":["1.0.0"]}]}

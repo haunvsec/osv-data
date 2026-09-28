@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16208","published":"2026-09-16T06:28:57Z","modified":"2026-09-16T07:00:07.413933945Z","summary":"Malicious code in otel-span-adapter (npm)","affected":[{"package":{"name":"otel-span-adapter","ecosystem":"npm","purl":"pkg:npm/otel-span-adapter"},"versions":["1.0.4","1.0.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16389","published":"2026-09-22T18:07:09Z","modified":"2026-09-22T18:45:05.957848275Z","summary":"Malicious code in noverojava (npm)","affected":[{"package":{"name":"noverojava","ecosystem":"npm","purl":"pkg:npm/noverojava"},"versions":["1.1.0","1.0.9"]}]}

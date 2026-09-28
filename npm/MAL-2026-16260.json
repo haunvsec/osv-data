@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16260","published":"2026-09-17T15:33:42Z","modified":"2026-09-17T16:31:29.610685414Z","summary":"Malicious code in confx1789550882 (npm)","affected":[{"package":{"name":"confx1789550882","ecosystem":"npm","purl":"pkg:npm/confx1789550882"},"versions":["1.0.0"]}]}

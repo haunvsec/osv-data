@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17189","published":"2026-09-26T15:14:59Z","modified":"2026-09-26T15:30:05.750373312Z","summary":"Malicious code in chai-as-relay (npm)","affected":[{"package":{"name":"chai-as-relay","ecosystem":"npm","purl":"pkg:npm/chai-as-relay"},"versions":["1.2.1"]}]}

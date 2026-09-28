@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16351","published":"2026-09-21T17:15:31Z","modified":"2026-09-24T01:15:11.127790560Z","aliases":["GHSA-598m-93qh-82f9"],"summary":"Malicious code in @baanx/abis (npm)","affected":[{"package":{"name":"@baanx/abis","ecosystem":"npm","purl":"pkg:npm/%40baanx/abis"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

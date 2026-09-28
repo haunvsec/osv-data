@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16541","published":"2026-09-22T17:46:48Z","modified":"2026-09-24T09:30:26.777541265Z","summary":"Malicious code in zeal-util-hooks (npm)","affected":[{"package":{"name":"zeal-util-hooks","ecosystem":"npm","purl":"pkg:npm/zeal-util-hooks"},"versions":["0.0.0"]}]}

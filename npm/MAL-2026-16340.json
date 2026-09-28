@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16340","published":"2026-09-21T03:31:42Z","modified":"2026-09-21T04:00:05.815303488Z","summary":"Malicious code in pf25262 (npm)","affected":[{"package":{"name":"pf25262","ecosystem":"npm","purl":"pkg:npm/pf25262"},"versions":["1.0.0"]}]}

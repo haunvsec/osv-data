@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16349","published":"2026-09-21T16:41:23Z","modified":"2026-09-21T16:45:05.185960235Z","summary":"Malicious code in hardhat-devkit (npm)","affected":[{"package":{"name":"hardhat-devkit","ecosystem":"npm","purl":"pkg:npm/hardhat-devkit"},"versions":["2.3.6"]}]}

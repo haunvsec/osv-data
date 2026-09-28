@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16204","published":"2026-09-16T06:27:22Z","modified":"2026-09-16T06:45:06.593284574Z","summary":"Malicious code in @prime0/alanced-match (npm)","affected":[{"package":{"name":"@prime0/alanced-match","ecosystem":"npm","purl":"pkg:npm/%40prime0/alanced-match"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17163","published":"2026-09-24T14:53:59Z","modified":"2026-09-24T15:30:05.441952870Z","summary":"Malicious code in analytics-widget (npm)","affected":[{"package":{"name":"analytics-widget","ecosystem":"npm","purl":"pkg:npm/analytics-widget"},"versions":["1.0.0","1.0.1"]}]}

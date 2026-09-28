@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16519","published":"2026-09-22T17:03:48Z","modified":"2026-09-24T09:30:08.468158569Z","summary":"Malicious code in @egencia/uitk-react-foundation (npm)","affected":[{"package":{"name":"@egencia/uitk-react-foundation","ecosystem":"npm","purl":"pkg:npm/%40egencia/uitk-react-foundation"},"versions":["99.9.9"]}]}

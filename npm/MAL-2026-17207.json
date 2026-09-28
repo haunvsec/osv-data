@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17207","published":"2026-09-28T06:37:49Z","modified":"2026-09-28T07:00:08.717651474Z","aliases":["GHSA-9f7c-6fp7-9g6x"],"summary":"Malicious code in kjj81 (npm)","affected":[{"package":{"name":"kjj81","ecosystem":"npm","purl":"pkg:npm/kjj81"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

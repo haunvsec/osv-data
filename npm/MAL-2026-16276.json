@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16276","published":"2026-09-18T01:40:17Z","modified":"2026-09-22T23:30:07.062841225Z","summary":"Malicious code in @lekzo/baileys (npm)","affected":[{"package":{"name":"@lekzo/baileys","ecosystem":"npm","purl":"pkg:npm/%40lekzo/baileys"},"versions":["0.0.1","0.0.7"]}]}

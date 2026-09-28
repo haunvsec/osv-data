@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16313","published":"2026-09-21T03:22:52Z","modified":"2026-09-21T03:30:16.602528065Z","summary":"Malicious code in test1gg234 (npm)","affected":[{"package":{"name":"test1gg234","ecosystem":"npm","purl":"pkg:npm/test1gg234"},"versions":["99.99.99"]}]}

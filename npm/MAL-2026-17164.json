@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17164","published":"2026-09-24T14:53:06Z","modified":"2026-09-24T15:30:05.405818914Z","summary":"Malicious code in building-build (npm)","affected":[{"package":{"name":"building-build","ecosystem":"npm","purl":"pkg:npm/building-build"},"versions":["1.0.0"]}]}

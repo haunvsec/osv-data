@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16440","published":"2026-09-23T01:58:25Z","modified":"2026-09-23T02:30:05.483156602Z","summary":"Malicious code in turbo-ws (npm)","affected":[{"package":{"name":"turbo-ws","ecosystem":"npm","purl":"pkg:npm/turbo-ws"},"versions":["1.0.0"]}]}

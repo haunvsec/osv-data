@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16524","published":"2026-09-22T17:06:18Z","modified":"2026-09-24T09:30:11.215464119Z","summary":"Malicious code in @ks-cqc/h5-sig4 (npm)","affected":[{"package":{"name":"@ks-cqc/h5-sig4","ecosystem":"npm","purl":"pkg:npm/%40ks-cqc/h5-sig4"},"versions":["2.99.99"]}]}

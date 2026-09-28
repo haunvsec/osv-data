@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16355","published":"2026-09-21T17:21:03Z","modified":"2026-09-21T17:45:06.262199875Z","summary":"Malicious code in gemini-computer-use (npm)","affected":[{"package":{"name":"gemini-computer-use","ecosystem":"npm","purl":"pkg:npm/gemini-computer-use"},"versions":["0.1.2"]}]}

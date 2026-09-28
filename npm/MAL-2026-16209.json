@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16209","published":"2026-09-16T06:29:16Z","modified":"2026-09-16T06:45:06.596218925Z","summary":"Malicious code in strapi-plugin-ccsuc-meeb (npm)","affected":[{"package":{"name":"strapi-plugin-ccsuc-meeb","ecosystem":"npm","purl":"pkg:npm/strapi-plugin-ccsuc-meeb"},"versions":["3.6.8"]}]}

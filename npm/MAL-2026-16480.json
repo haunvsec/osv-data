@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16480","published":"2026-09-23T18:29:39Z","modified":"2026-09-23T19:01:50.933201267Z","summary":"Malicious code in a-onesite (npm)","affected":[{"package":{"name":"a-onesite","ecosystem":"npm","purl":"pkg:npm/a-onesite"},"versions":["99.9.9"]}]}

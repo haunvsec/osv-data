@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16343","published":"2026-09-21T03:29:11Z","modified":"2026-09-21T04:00:07.789923997Z","summary":"Malicious code in siriusbeyond (npm)","affected":[{"package":{"name":"siriusbeyond","ecosystem":"npm","purl":"pkg:npm/siriusbeyond"},"versions":["1.0.0"]}]}

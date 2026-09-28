@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16315","published":"2026-09-21T03:23:24Z","modified":"2026-09-21T03:30:17.621945992Z","summary":"Malicious code in test1ro (npm)","affected":[{"package":{"name":"test1ro","ecosystem":"npm","purl":"pkg:npm/test1ro"},"versions":["999.99.99","99.99.99"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16220","published":"2026-09-16T00:00:00Z","modified":"2026-09-16T10:15:09.146012636Z","summary":"Malicious code in jexkcode (npm)","affected":[{"package":{"name":"jexkcode","ecosystem":"npm","purl":"pkg:npm/jexkcode"},"versions":["1.0.1","1.1.0","1.1.1","1.1.2","1.1.3","1.1.4"]}]}

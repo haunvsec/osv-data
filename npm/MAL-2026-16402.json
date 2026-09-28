@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16402","published":"2026-09-22T18:13:10Z","modified":"2026-09-23T04:31:17.506939095Z","aliases":["GHSA-fjp4-jprr-4jp6"],"summary":"Malicious code in ndmcmsujey (npm)","affected":[{"package":{"name":"ndmcmsujey","ecosystem":"npm","purl":"pkg:npm/ndmcmsujey"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

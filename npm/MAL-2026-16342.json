@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16342","published":"2026-09-21T03:32:53Z","modified":"2026-09-21T04:00:07.890367673Z","summary":"Malicious code in pflag29424 (npm)","affected":[{"package":{"name":"pflag29424","ecosystem":"npm","purl":"pkg:npm/pflag29424"},"versions":["1.0.0"]}]}

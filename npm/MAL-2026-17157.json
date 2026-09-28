@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17157","published":"2026-09-24T13:17:49Z","modified":"2026-09-24T13:30:05.147318396Z","summary":"Malicious code in eslint-config-compact-base (npm)","affected":[{"package":{"name":"eslint-config-compact-base","ecosystem":"npm","purl":"pkg:npm/eslint-config-compact-base"},"versions":["1.0.0"]}]}

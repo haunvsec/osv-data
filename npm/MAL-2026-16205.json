@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16205","published":"2026-09-16T06:27:42Z","modified":"2026-09-16T06:45:06.630422803Z","summary":"Malicious code in @prime0/inimatch (npm)","affected":[{"package":{"name":"@prime0/inimatch","ecosystem":"npm","purl":"pkg:npm/%40prime0/inimatch"},"versions":["1.0.0"]}]}

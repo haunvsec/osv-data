@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16386","published":"2026-09-22T16:05:11Z","modified":"2026-09-22T16:30:07.564734652Z","summary":"Malicious code in @mikudeveloper/baileys (npm)","affected":[{"package":{"name":"@mikudeveloper/baileys","ecosystem":"npm","purl":"pkg:npm/%40mikudeveloper/baileys"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16291","published":"2026-09-18T20:25:02Z","modified":"2026-09-18T20:45:06.531194296Z","summary":"Malicious code in @shared-runtime/modules (npm)","affected":[{"package":{"name":"@shared-runtime/modules","ecosystem":"npm","purl":"pkg:npm/%40shared-runtime/modules"},"versions":["9.9.10"]}]}

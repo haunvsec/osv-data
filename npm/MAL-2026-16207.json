@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16207","published":"2026-09-16T06:29:32Z","modified":"2026-09-16T06:45:06.603113218Z","summary":"Malicious code in chai-as-agile (npm)","affected":[{"package":{"name":"chai-as-agile","ecosystem":"npm","purl":"pkg:npm/chai-as-agile"},"versions":["2.4.7"]}]}

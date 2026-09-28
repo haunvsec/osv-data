@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16390","published":"2026-09-22T18:08:06Z","modified":"2026-09-22T18:45:07.016931857Z","summary":"Malicious code in oracle-redis (npm)","affected":[{"package":{"name":"oracle-redis","ecosystem":"npm","purl":"pkg:npm/oracle-redis"},"versions":["5.11.3"]}]}

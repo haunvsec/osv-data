@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16222","published":"2026-09-16T14:00:09Z","modified":"2026-09-17T14:30:05.361557798Z","summary":"Malicious code in @traktis/core (npm)","affected":[{"package":{"name":"@traktis/core","ecosystem":"npm","purl":"pkg:npm/%40traktis/core"},"versions":["99.99.2","99.99.1"]}]}

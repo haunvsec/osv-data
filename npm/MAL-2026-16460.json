@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16460","published":"2026-09-23T02:44:19Z","modified":"2026-09-23T05:30:06.442508757Z","aliases":["GHSA-6g8g-gw7h-prch"],"summary":"Malicious code in xsjukcnv8low26 (npm)","affected":[{"package":{"name":"xsjukcnv8low26","ecosystem":"npm","purl":"pkg:npm/xsjukcnv8low26"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

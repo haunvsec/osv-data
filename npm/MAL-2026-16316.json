@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16316","published":"2026-09-21T03:24:04Z","modified":"2026-09-21T03:30:17.626806785Z","summary":"Malicious code in test1sdsd2 (npm)","affected":[{"package":{"name":"test1sdsd2","ecosystem":"npm","purl":"pkg:npm/test1sdsd2"},"versions":["99.99.99"]}]}

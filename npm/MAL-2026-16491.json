@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16491","published":"2026-09-22T17:00:08Z","modified":"2026-09-24T09:30:09.316258803Z","summary":"Malicious code in @adominadmininstr/fmt-date-helper (npm)","affected":[{"package":{"name":"@adominadmininstr/fmt-date-helper","ecosystem":"npm","purl":"pkg:npm/%40adominadmininstr/fmt-date-helper"},"versions":["1.0.0"]}]}

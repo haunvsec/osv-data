@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16301","published":"2026-09-21T02:58:50Z","modified":"2026-09-21T03:30:16.591866022Z","summary":"Malicious code in @nimbsuedge3/xar (npm)","affected":[{"package":{"name":"@nimbsuedge3/xar","ecosystem":"npm","purl":"pkg:npm/%40nimbsuedge3/xar"},"versions":["1.1.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16312","published":"2026-09-21T03:23:16Z","modified":"2026-09-21T03:30:16.600897265Z","summary":"Malicious code in test1df23 (npm)","affected":[{"package":{"name":"test1df23","ecosystem":"npm","purl":"pkg:npm/test1df23"},"versions":["99.99.99"]}]}

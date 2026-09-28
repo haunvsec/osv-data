@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16536","published":"2026-09-22T17:33:05Z","modified":"2026-09-24T09:30:11.778516838Z","summary":"Malicious code in mx-www-locales-common (npm)","affected":[{"package":{"name":"mx-www-locales-common","ecosystem":"npm","purl":"pkg:npm/mx-www-locales-common"},"versions":["99.0.0"]}]}

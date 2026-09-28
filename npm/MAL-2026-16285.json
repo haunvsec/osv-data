@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16285","published":"2026-09-18T15:26:05Z","modified":"2026-09-18T20:45:06.547205174Z","aliases":["GHSA-jf2q-w77c-99vv"],"summary":"Malicious code in test899-auth (npm)","affected":[{"package":{"name":"test899-auth","ecosystem":"npm","purl":"pkg:npm/test899-auth"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

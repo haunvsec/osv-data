@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16418","published":"2026-09-22T21:52:37Z","modified":"2026-09-22T22:30:06.162235886Z","summary":"Malicious code in n8n-nodes-data-transformer-utils (npm)","affected":[{"package":{"name":"n8n-nodes-data-transformer-utils","ecosystem":"npm","purl":"pkg:npm/n8n-nodes-data-transformer-utils"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16521","published":"2026-09-22T17:03:49Z","modified":"2026-09-24T09:30:16.442924071Z","summary":"Malicious code in @egencia/uitk-react-spacing (npm)","affected":[{"package":{"name":"@egencia/uitk-react-spacing","ecosystem":"npm","purl":"pkg:npm/%40egencia/uitk-react-spacing"},"versions":["99.99.9"]}]}

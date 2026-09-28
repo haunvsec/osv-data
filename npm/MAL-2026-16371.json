@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16371","published":"2026-09-21T23:16:23Z","modified":"2026-09-23T04:31:16.983746506Z","aliases":["GHSA-q5h9-3mvh-45cf"],"summary":"Malicious code in @vite-tab/tabui (npm)","affected":[{"package":{"name":"@vite-tab/tabui","ecosystem":"npm","purl":"pkg:npm/%40vite-tab/tabui"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

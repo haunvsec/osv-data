@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16486","published":"2026-09-24T00:41:45Z","modified":"2026-09-24T01:15:11.106290817Z","aliases":["GHSA-qhfc-6rp6-pwv6"],"summary":"Malicious code in @baanx/domain (npm)","affected":[{"package":{"name":"@baanx/domain","ecosystem":"npm","purl":"pkg:npm/%40baanx/domain"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

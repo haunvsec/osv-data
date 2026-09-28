@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16324","published":"2026-09-21T03:29:39Z","modified":"2026-09-22T18:45:07.028092757Z","aliases":["GHSA-3h54-43fv-m822"],"summary":"Malicious code in better-envforge (npm)","affected":[{"package":{"name":"better-envforge","ecosystem":"npm","purl":"pkg:npm/better-envforge"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

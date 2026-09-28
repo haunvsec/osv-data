@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16210","published":"2026-09-16T06:29:25Z","modified":"2026-09-16T06:45:06.625545874Z","summary":"Malicious code in strapi-plugin-pencc-meeb (npm)","affected":[{"package":{"name":"strapi-plugin-pencc-meeb","ecosystem":"npm","purl":"pkg:npm/strapi-plugin-pencc-meeb"},"versions":["3.6.8"]}]}

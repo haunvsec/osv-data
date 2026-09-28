@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16474","published":"2026-09-23T09:07:06Z","modified":"2026-09-23T09:30:04.998340486Z","summary":"Malicious code in vite-dev-launcher (npm)","affected":[{"package":{"name":"vite-dev-launcher","ecosystem":"npm","purl":"pkg:npm/vite-dev-launcher"},"versions":["2.9.4"]}]}

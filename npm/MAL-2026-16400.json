@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16400","published":"2026-09-22T18:13:10Z","modified":"2026-09-23T04:30:51.502733520Z","aliases":["GHSA-8344-w2r2-rxp2"],"summary":"Malicious code in ndmcjcxiebysfdb (npm)","affected":[{"package":{"name":"ndmcjcxiebysfdb","ecosystem":"npm","purl":"pkg:npm/ndmcjcxiebysfdb"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

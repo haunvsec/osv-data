@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17178","published":"2026-09-25T02:37:53Z","modified":"2026-09-25T03:00:07.529807751Z","summary":"Malicious code in secure-env3 (npm)","affected":[{"package":{"name":"secure-env3","ecosystem":"npm","purl":"pkg:npm/secure-env3"},"versions":["1.0.1"]}]}

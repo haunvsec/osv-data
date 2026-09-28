@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16433","published":"2026-09-23T01:06:07Z","modified":"2026-09-23T01:45:04.971873060Z","summary":"Malicious code in @vitemirrorte/element-plus-vite-cli (npm)","affected":[{"package":{"name":"@vitemirrorte/element-plus-vite-cli","ecosystem":"npm","purl":"pkg:npm/%40vitemirrorte/element-plus-vite-cli"},"versions":["2.9.1"]}]}

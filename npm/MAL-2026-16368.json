@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16368","published":"2026-09-21T19:49:06Z","modified":"2026-09-23T04:30:51.158162692Z","aliases":["GHSA-v6mx-2p6p-3628"],"summary":"Malicious code in mathmain (npm)","affected":[{"package":{"name":"mathmain","ecosystem":"npm","purl":"pkg:npm/mathmain"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

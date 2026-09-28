@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16213","published":"2026-09-16T06:37:12Z","modified":"2026-09-28T04:45:05.961063838Z","aliases":["GHSA-mvg6-qj9g-3j3j"],"summary":"Malicious code in discord-players (npm)","affected":[{"package":{"name":"discord-players","ecosystem":"npm","purl":"pkg:npm/discord-players"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

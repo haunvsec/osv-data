@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16262","published":"2026-09-17T19:51:15Z","modified":"2026-09-17T20:30:05.734283450Z","summary":"Malicious code in tailwindcss-form-ui (npm)","affected":[{"package":{"name":"tailwindcss-form-ui","ecosystem":"npm","purl":"pkg:npm/tailwindcss-form-ui"},"versions":["0.5.1"]}]}

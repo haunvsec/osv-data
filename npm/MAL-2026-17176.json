@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17176","published":"2026-09-25T02:40:24Z","modified":"2026-09-25T03:00:06.514133710Z","summary":"Malicious code in n8n-nodes-moonlet-helpers (npm)","affected":[{"package":{"name":"n8n-nodes-moonlet-helpers","ecosystem":"npm","purl":"pkg:npm/n8n-nodes-moonlet-helpers"},"versions":["1.0.0","1.0.4"]}]}

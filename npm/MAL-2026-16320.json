@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16320","published":"2026-09-20T09:35:26Z","modified":"2026-09-21T05:30:06.344068564Z","summary":"Malicious code in @siriusbeyond/auth (npm)","affected":[{"package":{"name":"@siriusbeyond/auth","ecosystem":"npm","purl":"pkg:npm/%40siriusbeyond/auth"},"versions":["99.0.0"]}]}

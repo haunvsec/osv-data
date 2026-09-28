@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16338","published":"2026-09-21T03:33:14Z","modified":"2026-09-21T04:00:05.809585658Z","summary":"Malicious code in pf23727 (npm)","affected":[{"package":{"name":"pf23727","ecosystem":"npm","purl":"pkg:npm/pf23727"},"versions":["1.0.0"]}]}

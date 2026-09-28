@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16287","published":"2026-09-18T16:01:51Z","modified":"2026-09-18T16:30:10.293602941Z","aliases":["GHSA-qx52-2xq4-3x3v"],"summary":"Malicious code in openmct-heatmap (npm)","affected":[{"package":{"name":"openmct-heatmap","ecosystem":"npm","purl":"pkg:npm/openmct-heatmap"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

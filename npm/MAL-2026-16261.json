@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16261","published":"2026-09-17T19:50:42Z","modified":"2026-09-17T20:30:05.726000312Z","summary":"Malicious code in @railone/image-utils (npm)","affected":[{"package":{"name":"@railone/image-utils","ecosystem":"npm","purl":"pkg:npm/%40railone/image-utils"},"versions":["1.1.10"]}]}

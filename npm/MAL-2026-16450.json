@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16450","published":"2026-09-23T02:44:19Z","modified":"2026-09-23T05:30:06.431812650Z","aliases":["GHSA-j87m-pgqx-mpg5"],"summary":"Malicious code in kamafhbnowct (npm)","affected":[{"package":{"name":"kamafhbnowct","ecosystem":"npm","purl":"pkg:npm/kamafhbnowct"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

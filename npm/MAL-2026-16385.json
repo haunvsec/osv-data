@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16385","published":"2026-09-22T14:52:21Z","modified":"2026-09-22T15:31:47.724639363Z","summary":"Malicious code in tlxbnhd (npm)","affected":[{"package":{"name":"tlxbnhd","ecosystem":"npm","purl":"pkg:npm/tlxbnhd"},"versions":["0.0.1"]}]}

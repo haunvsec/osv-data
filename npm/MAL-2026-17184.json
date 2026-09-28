@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17184","published":"2026-09-25T14:14:40Z","modified":"2026-09-25T14:30:06.103073421Z","summary":"Malicious code in @airbnb-extended/typescript-config (npm)","affected":[{"package":{"name":"@airbnb-extended/typescript-config","ecosystem":"npm","purl":"pkg:npm/%40airbnb-extended/typescript-config"},"versions":["99.9.1"]}]}

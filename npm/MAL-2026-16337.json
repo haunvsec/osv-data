@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16337","published":"2026-09-21T03:31:51Z","modified":"2026-09-21T04:00:06.782856197Z","summary":"Malicious code in my-cdn-script (npm)","affected":[{"package":{"name":"my-cdn-script","ecosystem":"npm","purl":"pkg:npm/my-cdn-script"},"versions":["1.0.0"]}]}

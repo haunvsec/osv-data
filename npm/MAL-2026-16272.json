@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16272","published":"2026-09-17T21:53:44Z","modified":"2026-09-17T23:45:04.852672104Z","aliases":["GHSA-p957-4pc7-x6hp"],"summary":"Malicious code in kartykgithub-multiversion-a (npm)","affected":[{"package":{"name":"kartykgithub-multiversion-a","ecosystem":"npm","purl":"pkg:npm/kartykgithub-multiversion-a"},"versions":["1.0.1","1.0.0"]}]}

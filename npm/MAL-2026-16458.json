@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16458","published":"2026-09-23T02:44:19Z","modified":"2026-09-23T05:00:10.495419978Z","aliases":["GHSA-67q5-w9wg-mvvv"],"summary":"Malicious code in tuxcmdfhjkw (npm)","affected":[{"package":{"name":"tuxcmdfhjkw","ecosystem":"npm","purl":"pkg:npm/tuxcmdfhjkw"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

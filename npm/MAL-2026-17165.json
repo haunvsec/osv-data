@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17165","published":"2026-09-24T14:49:22Z","modified":"2026-09-24T15:30:05.430424030Z","summary":"Malicious code in c2-client (npm)","affected":[{"package":{"name":"c2-client","ecosystem":"npm","purl":"pkg:npm/c2-client"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16211","published":"2026-09-16T06:28:43Z","modified":"2026-09-16T06:45:06.602830995Z","summary":"Malicious code in swnwall (npm)","affected":[{"package":{"name":"swnwall","ecosystem":"npm","purl":"pkg:npm/swnwall"},"versions":["1.2.10"]}]}

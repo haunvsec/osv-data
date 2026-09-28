@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16477","published":"2026-09-23T14:10:47Z","modified":"2026-09-25T03:00:06.560192222Z","summary":"Malicious code in com.apple.unityplugin.storekit (npm)","affected":[{"package":{"name":"com.apple.unityplugin.storekit","ecosystem":"npm","purl":"pkg:npm/com.apple.unityplugin.storekit"},"versions":["1.0.2","1.0.1"]}]}

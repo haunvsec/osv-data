@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16229","published":"2026-09-16T13:57:55Z","modified":"2026-09-16T14:30:06.311020872Z","summary":"Malicious code in strapi-plugin-conresh-meeb (npm)","affected":[{"package":{"name":"strapi-plugin-conresh-meeb","ecosystem":"npm","purl":"pkg:npm/strapi-plugin-conresh-meeb"},"versions":["3.6.8"]}]}

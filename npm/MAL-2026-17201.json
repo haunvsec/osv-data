@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17201","published":"2026-09-28T01:30:57Z","modified":"2026-09-28T01:45:05.807732201Z","summary":"Malicious code in @bb1ptest23/test-paket (npm)","affected":[{"package":{"name":"@bb1ptest23/test-paket","ecosystem":"npm","purl":"pkg:npm/%40bb1ptest23/test-paket"},"versions":["1.0.3"]}]}

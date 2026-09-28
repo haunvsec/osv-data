@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16378","published":"2026-09-22T13:58:00Z","modified":"2026-09-22T14:30:06.914211873Z","summary":"Malicious code in @tesla-insurance/vinless-quote (npm)","affected":[{"package":{"name":"@tesla-insurance/vinless-quote","ecosystem":"npm","purl":"pkg:npm/%40tesla-insurance/vinless-quote"},"versions":["9.9.10"]}]}

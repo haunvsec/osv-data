@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16288","published":"2026-09-18T16:01:50Z","modified":"2026-09-18T20:45:06.531339888Z","aliases":["GHSA-7868-hxr7-g8r6"],"summary":"Malicious code in test89-auth (npm)","affected":[{"package":{"name":"test89-auth","ecosystem":"npm","purl":"pkg:npm/test89-auth"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

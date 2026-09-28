@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16306","published":"2026-09-21T02:59:02Z","modified":"2026-09-21T03:30:16.618339369Z","summary":"Malicious code in @nimbusedge2/xa (npm)","affected":[{"package":{"name":"@nimbusedge2/xa","ecosystem":"npm","purl":"pkg:npm/%40nimbusedge2/xa"},"versions":["1.1.0"]}]}

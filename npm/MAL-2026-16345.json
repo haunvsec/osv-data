@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16345","published":"2026-09-20T00:45:28Z","modified":"2026-09-21T05:30:06.331553156Z","summary":"Malicious code in starbucks-sdk (npm)","affected":[{"package":{"name":"starbucks-sdk","ecosystem":"npm","purl":"pkg:npm/starbucks-sdk"},"versions":["1.0.0"]}]}

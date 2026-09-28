@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17153","published":"2026-09-24T13:15:58Z","modified":"2026-09-24T13:30:05.163204092Z","summary":"Malicious code in @birbalo/aliftech-ui (npm)","affected":[{"package":{"name":"@birbalo/aliftech-ui","ecosystem":"npm","purl":"pkg:npm/%40birbalo/aliftech-ui"},"versions":["99.9.9"]}]}

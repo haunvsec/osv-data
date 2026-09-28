@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16453","published":"2026-09-23T02:48:05Z","modified":"2026-09-23T03:45:08.284902220Z","aliases":["GHSA-m877-5x7f-7r88"],"summary":"Malicious code in semver-bump-io (npm)","affected":[{"package":{"name":"semver-bump-io","ecosystem":"npm","purl":"pkg:npm/semver-bump-io"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

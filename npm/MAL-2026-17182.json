@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17182","published":"2026-09-25T08:35:37Z","modified":"2026-09-25T14:30:06.229565265Z","summary":"Malicious code in app-sca-info-banking (npm)","affected":[{"package":{"name":"app-sca-info-banking","ecosystem":"npm","purl":"pkg:npm/app-sca-info-banking"},"versions":["0.0.24"]}]}

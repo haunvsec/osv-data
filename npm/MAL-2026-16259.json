@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16259","published":"2026-09-17T14:59:20Z","modified":"2026-09-17T15:45:05.381362571Z","aliases":["GHSA-rc4q-v4pf-8j7x"],"summary":"Malicious code in randompkge (npm)","affected":[{"package":{"name":"randompkge","ecosystem":"npm","purl":"pkg:npm/randompkge"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

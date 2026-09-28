@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16328","published":"2026-09-21T03:30:19Z","modified":"2026-09-21T04:00:06.789354507Z","summary":"Malicious code in catwrestlinghuman (npm)","affected":[{"package":{"name":"catwrestlinghuman","ecosystem":"npm","purl":"pkg:npm/catwrestlinghuman"},"versions":["1.0.0"]}]}

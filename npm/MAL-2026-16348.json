@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16348","published":"2026-09-21T16:41:31Z","modified":"2026-09-21T16:45:05.180626106Z","summary":"Malicious code in hardhat-base (npm)","affected":[{"package":{"name":"hardhat-base","ecosystem":"npm","purl":"pkg:npm/hardhat-base"},"versions":["2.2.2","2.2.0"]}]}

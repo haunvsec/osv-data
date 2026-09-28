@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16392","published":"2026-09-22T18:22:20Z","modified":"2026-09-22T22:30:06.116153735Z","aliases":["GHSA-h8xg-3hfp-rx6q"],"summary":"Malicious code in envforge2 (npm)","affected":[{"package":{"name":"envforge2","ecosystem":"npm","purl":"pkg:npm/envforge2"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

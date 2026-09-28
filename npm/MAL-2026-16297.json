@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16297","published":"2026-09-18T23:41:11Z","modified":"2026-09-21T04:00:05.882431134Z","summary":"Malicious code in keroeltop (npm)","affected":[{"package":{"name":"keroeltop","ecosystem":"npm","purl":"pkg:npm/keroeltop"},"versions":["99.99.99"]}]}

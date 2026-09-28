@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16273","published":"2026-09-17T23:19:27Z","modified":"2026-09-18T01:00:06.614412055Z","summary":"Malicious code in blue-string-formatter-utils (npm)","affected":[{"package":{"name":"blue-string-formatter-utils","ecosystem":"npm","purl":"pkg:npm/blue-string-formatter-utils"},"versions":["1.0.0"]}]}

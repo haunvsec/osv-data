@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17155","published":"2026-09-24T13:16:44Z","modified":"2026-09-24T13:30:05.156353165Z","summary":"Malicious code in @osl-design/react (npm)","affected":[{"package":{"name":"@osl-design/react","ecosystem":"npm","purl":"pkg:npm/%40osl-design/react"},"versions":["9.9.10"]}]}

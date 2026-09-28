@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16307","published":"2026-09-21T03:20:32Z","modified":"2026-09-21T03:30:17.631935727Z","summary":"Malicious code in chai-testing (npm)","affected":[{"package":{"name":"chai-testing","ecosystem":"npm","purl":"pkg:npm/chai-testing"},"versions":["1.1.4"]}]}

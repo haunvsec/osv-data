@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16230","published":"2026-09-16T13:57:47Z","modified":"2026-09-16T14:30:06.802024400Z","summary":"Malicious code in strapi-plugin-feedmeeb (npm)","affected":[{"package":{"name":"strapi-plugin-feedmeeb","ecosystem":"npm","purl":"pkg:npm/strapi-plugin-feedmeeb"},"versions":["3.6.8"]}]}

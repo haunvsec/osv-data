@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16325","published":"2026-09-21T03:30:03Z","modified":"2026-09-21T04:00:06.794518967Z","summary":"Malicious code in bulk-add-sdk (npm)","affected":[{"package":{"name":"bulk-add-sdk","ecosystem":"npm","purl":"pkg:npm/bulk-add-sdk"},"versions":["1.99.99"]}]}

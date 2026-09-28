@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16329","published":"2026-09-21T03:29:31Z","modified":"2026-09-22T18:45:06.024302224Z","aliases":["GHSA-88fm-v2m3-mx8x"],"summary":"Malicious code in chai-as-viem (npm)","affected":[{"package":{"name":"chai-as-viem","ecosystem":"npm","purl":"pkg:npm/chai-as-viem"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

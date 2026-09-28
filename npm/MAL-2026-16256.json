@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16256","published":"2026-09-17T14:59:20Z","modified":"2026-09-23T04:30:52.134655029Z","aliases":["GHSA-vxvv-gh3g-35pj"],"summary":"Malicious code in randompkgb (npm)","affected":[{"package":{"name":"randompkgb","ecosystem":"npm","purl":"pkg:npm/randompkgb"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

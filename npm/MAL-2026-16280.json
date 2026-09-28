@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16280","published":"2026-09-18T02:54:59Z","modified":"2026-09-18T03:30:06.060131829Z","summary":"Malicious code in zero-baileys (npm)","affected":[{"package":{"name":"zero-baileys","ecosystem":"npm","purl":"pkg:npm/zero-baileys"},"versions":["2.7.0"]}]}

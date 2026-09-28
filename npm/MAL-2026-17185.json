@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17185","published":"2026-09-25T14:14:09Z","modified":"2026-09-25T14:30:06.106926422Z","summary":"Malicious code in shoplist-app (npm)","affected":[{"package":{"name":"shoplist-app","ecosystem":"npm","purl":"pkg:npm/shoplist-app"},"versions":["993.99.99","99.99.99"]}]}

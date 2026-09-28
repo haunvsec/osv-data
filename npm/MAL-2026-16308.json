@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16308","published":"2026-09-21T03:00:43Z","modified":"2026-09-21T03:30:16.575753114Z","summary":"Malicious code in chat-adapter-matrix (npm)","affected":[{"package":{"name":"chat-adapter-matrix","ecosystem":"npm","purl":"pkg:npm/chat-adapter-matrix"},"versions":["99.99.99"]}]}

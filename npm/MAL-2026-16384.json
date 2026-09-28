@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16384","published":"2026-09-22T14:52:12Z","modified":"2026-09-22T15:31:47.724740121Z","summary":"Malicious code in tldriver (npm)","affected":[{"package":{"name":"tldriver","ecosystem":"npm","purl":"pkg:npm/tldriver"},"versions":["0.0.1"]}]}

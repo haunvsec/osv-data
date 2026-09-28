@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16383","published":"2026-09-22T14:52:04Z","modified":"2026-09-22T15:31:45.233727917Z","summary":"Malicious code in mxdriver (npm)","affected":[{"package":{"name":"mxdriver","ecosystem":"npm","purl":"pkg:npm/mxdriver"},"versions":["0.0.2","0.0.1"]}]}

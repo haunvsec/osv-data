@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17172","published":"2026-09-25T02:37:38Z","modified":"2026-09-25T03:00:07.532834684Z","summary":"Malicious code in better-dotenv3 (npm)","affected":[{"package":{"name":"better-dotenv3","ecosystem":"npm","purl":"pkg:npm/better-dotenv3"},"versions":["1.0.1"]}]}

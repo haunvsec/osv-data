@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16399","published":"2026-09-22T18:13:09Z","modified":"2026-09-23T04:30:52.492095029Z","aliases":["GHSA-xvmw-wchq-f7p8"],"summary":"Malicious code in lufxchwmxwyps (npm)","affected":[{"package":{"name":"lufxchwmxwyps","ecosystem":"npm","purl":"pkg:npm/lufxchwmxwyps"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

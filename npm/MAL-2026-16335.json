@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16335","published":"2026-09-21T03:32:08Z","modified":"2026-09-21T04:00:06.886171463Z","summary":"Malicious code in keroeltopkk (npm)","affected":[{"package":{"name":"keroeltopkk","ecosystem":"npm","purl":"pkg:npm/keroeltopkk"},"versions":["99.99.99"]}]}

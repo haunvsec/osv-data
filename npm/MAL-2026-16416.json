@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16416","published":"2026-09-22T21:50:18Z","modified":"2026-09-22T22:30:05.622668629Z","summary":"Malicious code in @tvg-mar/utils (npm)","affected":[{"package":{"name":"@tvg-mar/utils","ecosystem":"npm","purl":"pkg:npm/%40tvg-mar/utils"},"versions":["9.9.10"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17175","published":"2026-09-25T02:39:04Z","modified":"2026-09-25T03:00:06.515058163Z","summary":"Malicious code in n8n-nodes-flowstats (npm)","affected":[{"package":{"name":"n8n-nodes-flowstats","ecosystem":"npm","purl":"pkg:npm/n8n-nodes-flowstats"},"versions":["1.0.0"]}]}

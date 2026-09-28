@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16294","published":"2026-09-18T20:24:12Z","modified":"2026-09-18T22:31:00.008974568Z","aliases":["GHSA-f863-m366-9cfm"],"summary":"Malicious code in internallib_v949 (npm)","affected":[{"package":{"name":"internallib_v949","ecosystem":"npm","purl":"pkg:npm/internallib_v949"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

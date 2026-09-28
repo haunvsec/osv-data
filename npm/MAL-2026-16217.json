@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16217","published":"2026-09-16T06:35:28Z","modified":"2026-09-16T07:00:07.703039428Z","summary":"Malicious code in tetotest (npm)","affected":[{"package":{"name":"tetotest","ecosystem":"npm","purl":"pkg:npm/tetotest"},"versions":["14.0.0"]}]}

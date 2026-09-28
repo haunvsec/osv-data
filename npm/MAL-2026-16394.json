@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16394","published":"2026-09-22T18:22:20Z","modified":"2026-09-22T22:30:05.632069093Z","aliases":["GHSA-q747-c2cv-gfhj"],"summary":"Malicious code in envparse2 (npm)","affected":[{"package":{"name":"envparse2","ecosystem":"npm","purl":"pkg:npm/envparse2"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

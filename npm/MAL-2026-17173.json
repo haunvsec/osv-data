@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17173","published":"2026-09-25T02:32:12Z","modified":"2026-09-25T03:00:07.523159082Z","summary":"Malicious code in chromatitle (npm)","affected":[{"package":{"name":"chromatitle","ecosystem":"npm","purl":"pkg:npm/chromatitle"},"versions":["1.0.0"]}]}

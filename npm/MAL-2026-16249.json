@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16249","published":"2026-09-17T07:32:12Z","modified":"2026-09-17T08:45:08.195472452Z","aliases":["GHSA-f8wr-9w83-7gmw"],"summary":"Malicious code in kartykgithub-takedown-b (npm)","affected":[{"package":{"name":"kartykgithub-takedown-b","ecosystem":"npm","purl":"pkg:npm/kartykgithub-takedown-b"},"versions":["1.0.0"]}]}

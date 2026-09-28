@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16492","published":"2026-09-22T17:01:48Z","modified":"2026-09-24T09:30:10.464919361Z","summary":"Malicious code in @cartradetech/example-package (npm)","affected":[{"package":{"name":"@cartradetech/example-package","ecosystem":"npm","purl":"pkg:npm/%40cartradetech/example-package"},"versions":["1.0.0"]}]}

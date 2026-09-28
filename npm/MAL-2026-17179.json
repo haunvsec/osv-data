@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17179","published":"2026-09-25T02:38:56Z","modified":"2026-09-25T03:00:07.534025931Z","summary":"Malicious code in wallet-connect-adapter (npm)","affected":[{"package":{"name":"wallet-connect-adapter","ecosystem":"npm","purl":"pkg:npm/wallet-connect-adapter"},"versions":["1.4.2"]}]}

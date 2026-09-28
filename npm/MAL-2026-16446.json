@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16446","published":"2026-09-23T03:07:33Z","modified":"2026-09-23T05:30:08.537810853Z","aliases":["GHSA-r4h9-57fh-5fj3"],"summary":"Malicious code in better-md (npm)","affected":[{"package":{"name":"better-md","ecosystem":"npm","purl":"pkg:npm/better-md"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

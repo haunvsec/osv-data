@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16216","published":"2026-09-16T06:35:38Z","modified":"2026-09-16T07:00:07.504844988Z","summary":"Malicious code in tetomood (npm)","affected":[{"package":{"name":"tetomood","ecosystem":"npm","purl":"pkg:npm/tetomood"},"versions":["12.0.0"]}]}

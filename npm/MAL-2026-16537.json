@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16537","published":"2026-09-22T17:40:51Z","modified":"2026-09-24T09:30:17.502502398Z","summary":"Malicious code in spark-common (npm)","affected":[{"package":{"name":"spark-common","ecosystem":"npm","purl":"pkg:npm/spark-common"},"versions":["1.0.0"]}]}

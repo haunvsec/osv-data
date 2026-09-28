@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17187","published":"2026-09-25T18:29:23Z","modified":"2026-09-25T19:00:04.560971296Z","summary":"Malicious code in @digift/cli (npm)","affected":[{"package":{"name":"@digift/cli","ecosystem":"npm","purl":"pkg:npm/%40digift/cli"},"versions":["99.99.100"]}]}

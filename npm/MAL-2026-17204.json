@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17204","published":"2026-09-28T06:46:04Z","modified":"2026-09-28T07:00:08.014043328Z","aliases":["GHSA-865f-pwj5-p2c5"],"summary":"Malicious code in @wbnr/design-kit (npm)","affected":[{"package":{"name":"@wbnr/design-kit","ecosystem":"npm","purl":"pkg:npm/%40wbnr/design-kit"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

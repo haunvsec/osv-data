@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16286","published":"2026-09-18T15:35:40Z","modified":"2026-09-18T20:45:06.568051367Z","aliases":["GHSA-25wf-vfrc-2r82"],"summary":"Malicious code in test8999-auth (npm)","affected":[{"package":{"name":"test8999-auth","ecosystem":"npm","purl":"pkg:npm/test8999-auth"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

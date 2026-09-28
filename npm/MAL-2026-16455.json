@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16455","published":"2026-09-23T03:07:33Z","modified":"2026-09-23T05:30:08.532880839Z","aliases":["GHSA-55vw-cpj6-w7w8"],"summary":"Malicious code in some-tool-package (npm)","affected":[{"package":{"name":"some-tool-package","ecosystem":"npm","purl":"pkg:npm/some-tool-package"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

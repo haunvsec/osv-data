@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16258","published":"2026-09-17T14:59:20Z","modified":"2026-09-17T15:45:05.355228873Z","aliases":["GHSA-cqc9-f5fp-r45q"],"summary":"Malicious code in randompkgd (npm)","affected":[{"package":{"name":"randompkgd","ecosystem":"npm","purl":"pkg:npm/randompkgd"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

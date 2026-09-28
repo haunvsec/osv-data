@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17166","published":"2026-09-24T14:51:30Z","modified":"2026-09-24T15:30:05.457045120Z","summary":"Malicious code in cache-swipper (npm)","affected":[{"package":{"name":"cache-swipper","ecosystem":"npm","purl":"pkg:npm/cache-swipper"},"versions":["3.6.0","3.5.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16243","published":"2026-09-16T16:13:49Z","modified":"2026-09-17T14:30:05.375722814Z","summary":"Malicious code in idx_form_script (npm)","affected":[{"package":{"name":"idx_form_script","ecosystem":"npm","purl":"pkg:npm/idx_form_script"},"versions":["999.0.4","999.0.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16254","published":"2026-09-17T14:42:28Z","modified":"2026-09-17T15:30:05.792161606Z","summary":"Malicious code in pulse-pwn-9f3a2 (npm)","affected":[{"package":{"name":"pulse-pwn-9f3a2","ecosystem":"npm","purl":"pkg:npm/pulse-pwn-9f3a2"},"versions":["1.0.0"]}]}

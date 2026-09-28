@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16396","published":"2026-09-22T18:13:09Z","modified":"2026-09-23T04:31:39.743359485Z","aliases":["GHSA-299v-cwvm-ffx4"],"summary":"Malicious code in fdhcxvnwhjiofv (npm)","affected":[{"package":{"name":"fdhcxvnwhjiofv","ecosystem":"npm","purl":"pkg:npm/fdhcxvnwhjiofv"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

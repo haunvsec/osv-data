@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16542","published":"2026-09-22T17:46:49Z","modified":"2026-09-24T09:30:26.811864891Z","summary":"Malicious code in zeal-utils (npm)","affected":[{"package":{"name":"zeal-utils","ecosystem":"npm","purl":"pkg:npm/zeal-utils"},"versions":["0.0.0"]}]}

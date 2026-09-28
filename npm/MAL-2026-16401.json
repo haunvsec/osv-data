@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16401","published":"2026-09-22T18:13:10Z","modified":"2026-09-23T04:30:51.485055595Z","aliases":["GHSA-q5vm-6mhj-qq8c"],"summary":"Malicious code in ndmckauxuoincv (npm)","affected":[{"package":{"name":"ndmckauxuoincv","ecosystem":"npm","purl":"pkg:npm/ndmckauxuoincv"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

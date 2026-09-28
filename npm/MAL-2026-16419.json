@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16419","published":"2026-09-22T23:14:30Z","modified":"2026-09-22T23:30:07.028210223Z","summary":"Malicious code in @gsutevil/hta-stage (npm)","affected":[{"package":{"name":"@gsutevil/hta-stage","ecosystem":"npm","purl":"pkg:npm/%40gsutevil/hta-stage"},"versions":["1.62.0"]}]}

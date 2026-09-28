@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16391","published":"2026-09-22T18:13:10Z","modified":"2026-09-23T04:31:19.239272939Z","aliases":["GHSA-3r7g-wjh4-5228"],"summary":"Malicious code in cloudndmcedu (npm)","affected":[{"package":{"name":"cloudndmcedu","ecosystem":"npm","purl":"pkg:npm/cloudndmcedu"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

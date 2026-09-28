@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16388","published":"2026-09-22T18:06:25Z","modified":"2026-09-22T18:45:05.952855613Z","summary":"Malicious code in nodetokyo (npm)","affected":[{"package":{"name":"nodetokyo","ecosystem":"npm","purl":"pkg:npm/nodetokyo"},"versions":["1.0.8"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16218","published":"2026-09-15T20:05:48Z","modified":"2026-09-16T10:30:09.553835614Z","summary":"Malicious code in tol8t (npm)","affected":[{"package":{"name":"tol8t","ecosystem":"npm","purl":"pkg:npm/tol8t"},"versions":["14.0.0"]}]}

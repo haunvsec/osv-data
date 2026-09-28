@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16373","published":"2026-09-21T23:37:27Z","modified":"2026-09-24T09:30:26.782214477Z","aliases":["GHSA-mfwv-9gcf-2mww"],"summary":"Malicious code in wos-library (npm)","affected":[{"package":{"name":"wos-library","ecosystem":"npm","purl":"pkg:npm/wos-library"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

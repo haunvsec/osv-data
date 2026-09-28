@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16270","published":"2026-09-17T23:13:32Z","modified":"2026-09-17T23:30:06.461736705Z","summary":"Malicious code in @tink/tink-link-core (npm)","affected":[{"package":{"name":"@tink/tink-link-core","ecosystem":"npm","purl":"pkg:npm/%40tink/tink-link-core"},"versions":["9.9.10"]}]}

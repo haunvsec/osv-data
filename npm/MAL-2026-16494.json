@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16494","published":"2026-09-22T17:02:19Z","modified":"2026-09-24T09:30:09.610380065Z","summary":"Malicious code in @client-web-next/ab-tests (npm)","affected":[{"package":{"name":"@client-web-next/ab-tests","ecosystem":"npm","purl":"pkg:npm/%40client-web-next/ab-tests"},"versions":["0.0.1"]}]}

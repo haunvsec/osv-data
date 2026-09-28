@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16278","published":"2026-09-18T02:57:47Z","modified":"2026-09-18T03:30:06.043659153Z","summary":"Malicious code in xzvbailey (npm)","affected":[{"package":{"name":"xzvbailey","ecosystem":"npm","purl":"pkg:npm/xzvbailey"},"versions":["1.0.0"]}]}

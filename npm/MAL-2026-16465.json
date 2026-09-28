@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16465","published":"2026-09-23T04:56:40Z","modified":"2026-09-23T05:30:06.433597146Z","summary":"Malicious code in helpersutils-dev-tools (npm)","affected":[{"package":{"name":"helpersutils-dev-tools","ecosystem":"npm","purl":"pkg:npm/helpersutils-dev-tools"},"versions":["1.0.11"]}]}

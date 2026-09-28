@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17202","published":"2026-09-28T04:07:53Z","modified":"2026-09-28T04:45:05.910233245Z","aliases":["GHSA-5rp9-7r4x-3fqp"],"summary":"Malicious code in @consts/links (npm)","affected":[{"package":{"name":"@consts/links","ecosystem":"npm","purl":"pkg:npm/%40consts/links"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

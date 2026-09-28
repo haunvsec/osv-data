@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16231","published":"2026-09-16T13:58:12Z","modified":"2026-09-16T14:30:07.150865619Z","summary":"Malicious code in strapi-plugin-honey-meeb (npm)","affected":[{"package":{"name":"strapi-plugin-honey-meeb","ecosystem":"npm","purl":"pkg:npm/strapi-plugin-honey-meeb"},"versions":["3.6.8"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16461","published":"2026-09-23T04:48:57Z","modified":"2026-09-23T05:30:08.634807512Z","summary":"Malicious code in godxxx (npm)","affected":[{"package":{"name":"godxxx","ecosystem":"npm","purl":"pkg:npm/godxxx"},"versions":["1.0.0"]}]}

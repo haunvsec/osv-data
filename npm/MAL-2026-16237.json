@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16237","published":"2026-09-16T13:58:49Z","modified":"2026-09-16T14:30:06.298046771Z","summary":"Malicious code in strapi-plugin-persh-meeb (npm)","affected":[{"package":{"name":"strapi-plugin-persh-meeb","ecosystem":"npm","purl":"pkg:npm/strapi-plugin-persh-meeb"},"versions":["3.6.8"]}]}

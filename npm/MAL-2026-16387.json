@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16387","published":"2026-09-22T16:05:01Z","modified":"2026-09-22T16:30:07.561171457Z","summary":"Malicious code in @mr-supun-fernando/supunmd-bail (npm)","affected":[{"package":{"name":"@mr-supun-fernando/supunmd-bail","ecosystem":"npm","purl":"pkg:npm/%40mr-supun-fernando/supunmd-bail"},"versions":["3.0.3"]}]}

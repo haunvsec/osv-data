@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16412","published":"2026-09-22T21:50:59Z","modified":"2026-09-22T22:30:05.620112071Z","summary":"Malicious code in @tvg-mar/promos-context (npm)","affected":[{"package":{"name":"@tvg-mar/promos-context","ecosystem":"npm","purl":"pkg:npm/%40tvg-mar/promos-context"},"versions":["9.9.10"]}]}

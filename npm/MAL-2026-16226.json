@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16226","published":"2026-09-16T13:58:20Z","modified":"2026-09-16T14:30:07.129571039Z","summary":"Malicious code in strapi-plugin-ccip-meeb (npm)","affected":[{"package":{"name":"strapi-plugin-ccip-meeb","ecosystem":"npm","purl":"pkg:npm/strapi-plugin-ccip-meeb"},"versions":["3.6.8"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16516","published":"2026-09-22T17:03:37Z","modified":"2026-09-24T09:30:24.169256163Z","summary":"Malicious code in @egencia/uitk-global-styles (npm)","affected":[{"package":{"name":"@egencia/uitk-global-styles","ecosystem":"npm","purl":"pkg:npm/%40egencia/uitk-global-styles"},"versions":["99.9.9"]}]}

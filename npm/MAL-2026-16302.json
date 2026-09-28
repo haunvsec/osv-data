@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16302","published":"2026-09-21T03:06:56Z","modified":"2026-09-21T03:30:17.628624443Z","summary":"Malicious code in @nimbusedge2/auth (npm)","affected":[{"package":{"name":"@nimbusedge2/auth","ecosystem":"npm","purl":"pkg:npm/%40nimbusedge2/auth"},"versions":["1.1.1"]}]}

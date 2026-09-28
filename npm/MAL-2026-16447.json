@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16447","published":"2026-09-23T02:44:19Z","modified":"2026-09-23T05:30:08.636771076Z","aliases":["GHSA-35mc-7f44-62rg"],"summary":"Malicious code in caphsmgiwy (npm)","affected":[{"package":{"name":"caphsmgiwy","ecosystem":"npm","purl":"pkg:npm/caphsmgiwy"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

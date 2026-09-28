@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16277","published":"2026-09-18T02:56:09Z","modified":"2026-09-18T03:30:06.065950329Z","summary":"Malicious code in xa424234657567 (npm)","affected":[{"package":{"name":"xa424234657567","ecosystem":"npm","purl":"pkg:npm/xa424234657567"},"versions":["1.0.0"]}]}

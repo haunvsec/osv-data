@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16309","published":"2026-09-21T03:06:40Z","modified":"2026-09-21T21:46:05.108201710Z","summary":"Malicious code in npmscript_tesstalert_unpkg (npm)","affected":[{"package":{"name":"npmscript_tesstalert_unpkg","ecosystem":"npm","purl":"pkg:npm/npmscript_tesstalert_unpkg"},"versions":["1.0.2","1.0.1","1.1.8","1.1.7"]}]}

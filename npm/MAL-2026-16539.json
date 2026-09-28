@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16539","published":"2026-09-22T17:41:03Z","modified":"2026-09-24T09:30:17.502645747Z","summary":"Malicious code in speaker_tagging_media_player (npm)","affected":[{"package":{"name":"speaker_tagging_media_player","ecosystem":"npm","purl":"pkg:npm/speaker_tagging_media_player"},"versions":["9999.0.0"]}]}

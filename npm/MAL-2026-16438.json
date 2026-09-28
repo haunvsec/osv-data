@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16438","published":"2026-09-23T01:42:16Z","modified":"2026-09-23T20:30:05.626324224Z","aliases":["GHSA-94q5-67r5-mwjx"],"summary":"Malicious code in internallib_v497 (npm)","affected":[{"package":{"name":"internallib_v497","ecosystem":"npm","purl":"pkg:npm/internallib_v497"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

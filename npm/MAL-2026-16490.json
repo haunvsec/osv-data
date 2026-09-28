@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16490","published":"2026-09-22T17:00:07Z","modified":"2026-09-24T09:30:08.478934575Z","summary":"Malicious code in @adominadmininstr/date-util-helper (npm)","affected":[{"package":{"name":"@adominadmininstr/date-util-helper","ecosystem":"npm","purl":"pkg:npm/%40adominadmininstr/date-util-helper"},"versions":["1.0.0"]}]}

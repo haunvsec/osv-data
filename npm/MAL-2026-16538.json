@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16538","published":"2026-09-22T17:41:03Z","modified":"2026-09-24T09:30:16.642517824Z","summary":"Malicious code in spark-rpc (npm)","affected":[{"package":{"name":"spark-rpc","ecosystem":"npm","purl":"pkg:npm/spark-rpc"},"versions":["1.0.0"]}]}

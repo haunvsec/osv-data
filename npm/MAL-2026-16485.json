@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16485","published":"2026-09-24T00:41:44Z","modified":"2026-09-24T01:15:11.094929632Z","aliases":["GHSA-27jh-hjhg-vg2p"],"summary":"Malicious code in @baanx/common (npm)","affected":[{"package":{"name":"@baanx/common","ecosystem":"npm","purl":"pkg:npm/%40baanx/common"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16534","published":"2026-09-22T17:28:20Z","modified":"2026-09-24T09:30:14.637553756Z","summary":"Malicious code in halali-sample (npm)","affected":[{"package":{"name":"halali-sample","ecosystem":"npm","purl":"pkg:npm/halali-sample"},"versions":["999.9.14"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16473","published":"2026-09-23T09:07:47Z","modified":"2026-09-23T09:30:04.999915179Z","summary":"Malicious code in sea-baileys (npm)","affected":[{"package":{"name":"sea-baileys","ecosystem":"npm","purl":"pkg:npm/sea-baileys"},"versions":["1.0.2"]}]}

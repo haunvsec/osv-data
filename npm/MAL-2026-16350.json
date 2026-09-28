@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16350","published":"2026-09-21T16:41:57Z","modified":"2026-09-21T17:30:05.326779432Z","summary":"Malicious code in bnppf-flag-icons (npm)","affected":[{"package":{"name":"bnppf-flag-icons","ecosystem":"npm","purl":"pkg:npm/bnppf-flag-icons"},"versions":["99.99.99"]}]}

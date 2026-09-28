@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16332","published":"2026-09-21T03:30:57Z","modified":"2026-09-24T15:30:05.446010956Z","summary":"Malicious code in feed-widget-helper (npm)","affected":[{"package":{"name":"feed-widget-helper","ecosystem":"npm","purl":"pkg:npm/feed-widget-helper"},"versions":["1.0.0","1.0.8","1.0.6"]}]}

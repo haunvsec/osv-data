@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17211","published":"2026-09-28T05:55:23Z","modified":"2026-09-28T07:00:09.665471323Z","aliases":["GHSA-rmcq-f7vh-v86v"],"summary":"Malicious code in vinzzsync-wacli (npm)","affected":[{"package":{"name":"vinzzsync-wacli","ecosystem":"npm","purl":"pkg:npm/vinzzsync-wacli"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

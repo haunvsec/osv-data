@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16333","published":"2026-09-21T03:31:35Z","modified":"2026-09-21T04:00:05.817219558Z","summary":"Malicious code in homestack-cheer (npm)","affected":[{"package":{"name":"homestack-cheer","ecosystem":"npm","purl":"pkg:npm/homestack-cheer"},"versions":["1.1.9"]}]}

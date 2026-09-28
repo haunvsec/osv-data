@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17209","published":"2026-09-28T05:54:47Z","modified":"2026-09-28T07:00:09.067539846Z","aliases":["GHSA-47j4-w95p-wjp7"],"summary":"Malicious code in tanksync (npm)","affected":[{"package":{"name":"tanksync","ecosystem":"npm","purl":"pkg:npm/tanksync"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

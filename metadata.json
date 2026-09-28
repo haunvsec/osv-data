@@ -1,6 +1,6 @@
 {
-  "last_crawl_time": "2026-09-28T11:02:06Z",
-  "last_attempt_time": "2026-09-28T11:14:52Z",
+  "last_crawl_time": "2026-09-28T12:12:07Z",
+  "last_attempt_time": "2026-09-28T12:12:07Z",
   "source": "osv-vulnerabilities-gcs",
   "source_url": "https://storage.googleapis.com/osv-vulnerabilities",
   "method": "incremental",
@@ -12,11 +12,11 @@
   ],
   "ecosystem_counts": {
     "maven": 7153,
-    "npm": 229018,
+    "npm": 229435,
     "pypi": 25620,
     "redhat": 22931
   },
-  "total_vulnerabilities": 284722,
+  "total_vulnerabilities": 285139,
   "ecosystem_state": {
     "maven": {
       "last_attempt_time": "2026-09-28T11:02:06Z",
@@ -28,14 +28,13 @@
       "last_modified_time": "2026-09-27T11:56:09.133572902Z"
     },
     "npm": {
-      "last_attempt_time": "2026-09-28T11:11:10Z",
+      "last_attempt_time": "2026-09-28T12:12:07Z",
       "last_method": "incremental",
-      "last_downloaded": 0,
+      "last_downloaded": 774,
       "last_skipped": 0,
       "last_indexed": 0,
-      "last_successful_crawl_time": "2026-09-16T06:55:24Z",
-      "last_modified_time": "2026-09-16T03:56:06.318054839Z",
-      "last_error": "('Connection broken: IncompleteRead(7415630 bytes read, 1241043 more expected)', IncompleteRead(7415630 bytes read, 1241043 more expected))"
+      "last_successful_crawl_time": "2026-09-28T12:12:07Z",
+      "last_modified_time": "2026-09-28T07:00:09.714143374Z"
     },
     "pypi": {
       "last_attempt_time": "2026-09-28T11:14:22Z",
@@ -59,38 +58,32 @@
     }
   },
   "last_run": {
-    "started_at": "2026-09-28T11:14:22Z",
+    "started_at": "2026-09-28T12:10:49Z",
     "output_dir": "/Volumes/DATA/security_advisory/osv-data",
     "method": "incremental",
     "ecosystems": [
-      "redhat"
+      "npm"
     ],
     "ecosystem_results": [
       {
-        "ecosystem": "redhat",
+        "ecosystem": "npm",
         "method": "incremental",
-        "downloaded": 0,
+        "downloaded": 774,
         "skipped": 0,
         "indexed": 0,
         "existing": 0,
-        "latest_modified_time": null,
-        "success": false,
-        "error": "HTTPSConnectionPool(host='storage.googleapis.com', port=443): Max retries exceeded with url: /osv-vulnerabilities/Red%20Hat/modified_id.csv (Caused by NameResolutionError(\"HTTPSConnection(host='storage.googleapis.com', port=443): Failed to resolve 'storage.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+        "latest_modified_time": "2026-09-28T07:00:09.714143374Z",
+        "success": true
       }
     ],
-    "vulns_downloaded": 0,
-    "vulns_skipped": 1,
-    "errors": [
-      {
-        "ecosystem": "redhat",
-        "error": "HTTPSConnectionPool(host='storage.googleapis.com', port=443): Max retries exceeded with url: /osv-vulnerabilities/Red%20Hat/modified_id.csv (Caused by NameResolutionError(\"HTTPSConnection(host='storage.googleapis.com', port=443): Failed to resolve 'storage.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
-      }
-    ],
+    "vulns_downloaded": 774,
+    "vulns_skipped": 0,
+    "errors": [],
     "dry_run": false,
     "limit": null,
     "sync_missing": false,
     "missing_only": false,
-    "finished_at": "2026-09-28T11:14:52Z",
-    "duration_seconds": 30.02
+    "finished_at": "2026-09-28T12:12:07Z",
+    "duration_seconds": 78.55
   }
 }

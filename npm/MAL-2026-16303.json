@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16303","published":"2026-09-21T03:07:04Z","modified":"2026-09-21T03:30:16.616526541Z","summary":"Malicious code in @nimbusedge2/authxsas (npm)","affected":[{"package":{"name":"@nimbusedge2/authxsas","ecosystem":"npm","purl":"pkg:npm/%40nimbusedge2/authxsas"},"versions":["1.1.0"]}]}

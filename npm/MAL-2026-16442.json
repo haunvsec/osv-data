@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16442","published":"2026-09-23T02:44:39Z","modified":"2026-09-23T03:00:06.235320479Z","summary":"Malicious code in moudeva (npm)","affected":[{"package":{"name":"moudeva","ecosystem":"npm","purl":"pkg:npm/moudeva"},"versions":["1.0.0"]}]}

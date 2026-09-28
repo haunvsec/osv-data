@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16314","published":"2026-09-21T03:23:01Z","modified":"2026-09-21T03:30:17.628630018Z","summary":"Malicious code in test1hh235 (npm)","affected":[{"package":{"name":"test1hh235","ecosystem":"npm","purl":"pkg:npm/test1hh235"},"versions":["99.99.99"]}]}

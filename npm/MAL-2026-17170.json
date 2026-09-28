@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17170","published":"2026-09-25T02:37:46Z","modified":"2026-09-25T03:00:06.509964257Z","summary":"Malicious code in agency-test-exercise (npm)","affected":[{"package":{"name":"agency-test-exercise","ecosystem":"npm","purl":"pkg:npm/agency-test-exercise"},"versions":["1.0.2"]}]}

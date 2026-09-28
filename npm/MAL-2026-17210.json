@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17210","published":"2026-09-28T06:37:13Z","modified":"2026-09-28T07:00:09.714143374Z","aliases":["GHSA-pqvc-prrc-mv45"],"summary":"Malicious code in uuid-date (npm)","affected":[{"package":{"name":"uuid-date","ecosystem":"npm","purl":"pkg:npm/uuid-date"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

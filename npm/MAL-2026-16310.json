@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16310","published":"2026-09-21T03:21:25Z","modified":"2026-09-21T03:30:16.559761465Z","summary":"Malicious code in npx-test-ma980 (npm)","affected":[{"package":{"name":"npx-test-ma980","ecosystem":"npm","purl":"pkg:npm/npx-test-ma980"},"versions":["1.0.1"]}]}

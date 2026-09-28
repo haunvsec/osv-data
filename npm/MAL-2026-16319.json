@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16319","published":"2026-09-21T03:28:30Z","modified":"2026-09-21T04:00:05.816992635Z","summary":"Malicious code in @dbbhk/ui-components (npm)","affected":[{"package":{"name":"@dbbhk/ui-components","ecosystem":"npm","purl":"pkg:npm/%40dbbhk/ui-components"},"versions":["99.0.0"]}]}

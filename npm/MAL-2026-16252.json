@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16252","published":"2026-09-17T14:29:34Z","modified":"2026-09-17T14:45:11.189824824Z","summary":"Malicious code in ragacateslikodi (npm)","affected":[{"package":{"name":"ragacateslikodi","ecosystem":"npm","purl":"pkg:npm/ragacateslikodi"},"versions":["1.0.6","1.0.4","1.0.3","1.0.5","1.0.1","1.0.0","1.0.2"]}]}

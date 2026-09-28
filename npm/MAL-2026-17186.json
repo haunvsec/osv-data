@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17186","published":"2026-09-25T18:21:46Z","modified":"2026-09-25T18:45:05.205439572Z","aliases":["GHSA-7qx8-98q7-66p4"],"summary":"Malicious code in @nubjs/types (npm)","affected":[{"package":{"name":"@nubjs/types","ecosystem":"npm","purl":"pkg:npm/%40nubjs/types"},"versions":["0.9.4"]}]}

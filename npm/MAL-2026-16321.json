@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16321","published":"2026-09-21T03:28:50Z","modified":"2026-09-21T04:00:05.808230668Z","summary":"Malicious code in @siriusbeyond/ui (npm)","affected":[{"package":{"name":"@siriusbeyond/ui","ecosystem":"npm","purl":"pkg:npm/%40siriusbeyond/ui"},"versions":["99.0.0"]}]}

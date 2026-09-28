@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16437","published":"2026-09-23T01:36:44Z","modified":"2026-09-23T02:00:06.984630495Z","summary":"Malicious code in eslint-plugin-i18n-shreddit (npm)","affected":[{"package":{"name":"eslint-plugin-i18n-shreddit","ecosystem":"npm","purl":"pkg:npm/eslint-plugin-i18n-shreddit"},"versions":["99.9.9"]}]}

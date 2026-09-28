@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17171","published":"2026-09-25T02:38:03Z","modified":"2026-09-25T03:00:06.512644878Z","summary":"Malicious code in agency-testts (npm)","affected":[{"package":{"name":"agency-testts","ecosystem":"npm","purl":"pkg:npm/agency-testts"},"versions":["1.0.0"]}]}

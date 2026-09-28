@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-16380","published":"2026-09-22T13:58:43Z","modified":"2026-09-22T14:30:06.801789425Z","summary":"Malicious code in chai-logger (npm)","affected":[{"package":{"name":"chai-logger","ecosystem":"npm","purl":"pkg:npm/chai-logger"},"versions":["3.0.2"]}]}
