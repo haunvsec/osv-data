@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17485","published":"2026-10-04T23:14:52Z","modified":"2026-10-04T23:30:04.795709844Z","summary":"Malicious code in css-scroll-anchor-polyfill (npm)","affected":[{"package":{"name":"css-scroll-anchor-polyfill","ecosystem":"npm","purl":"pkg:npm/css-scroll-anchor-polyfill"},"versions":["1.0.0"]}]}

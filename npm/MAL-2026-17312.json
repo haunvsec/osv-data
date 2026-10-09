@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17312","published":"2026-09-30T01:47:59Z","modified":"2026-09-30T03:00:04.414213182Z","summary":"Malicious code in json-bigint-rs (npm)","affected":[{"package":{"name":"json-bigint-rs","ecosystem":"npm","purl":"pkg:npm/json-bigint-rs"},"versions":["0.1.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17624","published":"2026-10-05T17:31:00Z","modified":"2026-10-08T04:00:04.241514837Z","aliases":["GHSA-648r-w4vm-vvvp"],"summary":"Malicious code in documenclient (npm)","affected":[{"package":{"name":"documenclient","ecosystem":"npm","purl":"pkg:npm/documenclient"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

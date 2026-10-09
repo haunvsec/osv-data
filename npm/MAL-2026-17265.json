@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17265","published":"2026-09-29T16:34:43Z","modified":"2026-09-29T17:00:08.148568235Z","summary":"Malicious code in @hrmony/kit-4 (npm)","affected":[{"package":{"name":"@hrmony/kit-4","ecosystem":"npm","purl":"pkg:npm/%40hrmony/kit-4"},"versions":["1.0.0"]}]}

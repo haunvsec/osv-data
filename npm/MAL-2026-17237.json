@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17237","published":"2026-09-28T22:06:19Z","modified":"2026-09-28T22:30:05.534997163Z","summary":"Malicious code in native-env (npm)","affected":[{"package":{"name":"native-env","ecosystem":"npm","purl":"pkg:npm/native-env"},"versions":["1.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17630","published":"2026-10-03T22:47:45Z","modified":"2026-10-05T23:15:04.941204955Z","summary":"Malicious code in virgil-cli (npm)","affected":[{"package":{"name":"virgil-cli","ecosystem":"npm","purl":"pkg:npm/virgil-cli"},"versions":["0.1.4"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17328","published":"2026-09-30T04:51:09Z","modified":"2026-09-30T05:30:05.337893815Z","summary":"Malicious code in fca-raihan (npm)","affected":[{"package":{"name":"fca-raihan","ecosystem":"npm","purl":"pkg:npm/fca-raihan"},"versions":["37.2.5","37.2.6"]}]}

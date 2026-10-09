@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17428","published":"2026-09-30T07:11:21Z","modified":"2026-10-04T23:45:20.541811924Z","summary":"Malicious code in ai-workshop-radio-app (npm)","affected":[{"package":{"name":"ai-workshop-radio-app","ecosystem":"npm","purl":"pkg:npm/ai-workshop-radio-app"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

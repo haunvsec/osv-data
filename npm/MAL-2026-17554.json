@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17554","published":"2026-10-05T03:36:46Z","modified":"2026-10-05T04:15:05.210727533Z","summary":"Malicious code in css-mpmdds-polyfill (npm)","affected":[{"package":{"name":"css-mpmdds-polyfill","ecosystem":"npm","purl":"pkg:npm/css-mpmdds-polyfill"},"versions":["1.0.0"]}]}

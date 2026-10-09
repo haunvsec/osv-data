@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17437","published":"2026-10-01T02:40:08Z","modified":"2026-10-04T23:45:17.027875269Z","summary":"Malicious code in @bluewin/utils (npm)","affected":[{"package":{"name":"@bluewin/utils","ecosystem":"npm","purl":"pkg:npm/%40bluewin/utils"},"versions":["1.0.0"]}]}

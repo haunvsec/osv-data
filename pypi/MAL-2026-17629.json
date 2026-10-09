@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17629","published":"2026-10-03T22:47:45Z","modified":"2026-10-05T23:15:05.012849028Z","summary":"Malicious code in zencleaner (PyPI)","affected":[{"package":{"name":"zencleaner","ecosystem":"PyPI","purl":"pkg:pypi/zencleaner"},"versions":["1.0.0","1.0.3","1.0.3.1"]}]}

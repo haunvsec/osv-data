@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17525","published":"2026-10-04T23:25:27Z","modified":"2026-10-04T23:45:21.772962651Z","summary":"Malicious code in tiny-css-token-parser (npm)","affected":[{"package":{"name":"tiny-css-token-parser","ecosystem":"npm","purl":"pkg:npm/tiny-css-token-parser"},"versions":["1.0.0"]}]}

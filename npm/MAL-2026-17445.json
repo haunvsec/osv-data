@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17445","published":"2026-10-01T23:05:37Z","modified":"2026-10-02T05:30:06.349525932Z","summary":"Malicious code in ichigo-baileys (npm)","affected":[{"package":{"name":"ichigo-baileys","ecosystem":"npm","purl":"pkg:npm/ichigo-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

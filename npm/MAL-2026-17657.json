@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17657","published":"2026-10-08T03:38:30Z","modified":"2026-10-08T04:00:04.230755317Z","summary":"Malicious code in dotenv-runtime (npm)","affected":[{"package":{"name":"dotenv-runtime","ecosystem":"npm","purl":"pkg:npm/dotenv-runtime"},"versions":["1.0.0"]}]}

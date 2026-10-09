@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17239","published":"2026-09-28T22:03:04Z","modified":"2026-09-28T22:30:06.805587707Z","summary":"Malicious code in test-agency-assignment (npm)","affected":[{"package":{"name":"test-agency-assignment","ecosystem":"npm","purl":"pkg:npm/test-agency-assignment"},"versions":["1.0.2"]}]}

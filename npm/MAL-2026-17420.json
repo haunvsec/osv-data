@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17420","published":"2026-10-01T14:55:35Z","modified":"2026-10-04T23:45:17.022107171Z","summary":"Malicious code in online-header (npm)","affected":[{"package":{"name":"online-header","ecosystem":"npm","purl":"pkg:npm/online-header"},"versions":["99.0.0"]}]}

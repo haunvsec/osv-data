@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17544","published":"2026-10-05T03:31:47Z","modified":"2026-10-05T04:15:04.304449961Z","summary":"Malicious code in @qngular/core (npm)","affected":[{"package":{"name":"@qngular/core","ecosystem":"npm","purl":"pkg:npm/%40qngular/core"},"versions":["22.2.1"]}]}

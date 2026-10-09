@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17652","published":"2026-10-08T03:37:45Z","modified":"2026-10-08T04:00:04.907562376Z","summary":"Malicious code in @ziedzzz/demo-canary (npm)","affected":[{"package":{"name":"@ziedzzz/demo-canary","ecosystem":"npm","purl":"pkg:npm/%40ziedzzz/demo-canary"},"versions":["1.0.0"]}]}

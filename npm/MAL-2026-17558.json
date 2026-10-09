@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17558","published":"2026-10-05T03:36:37Z","modified":"2026-10-05T04:15:05.301016837Z","summary":"Malicious code in css-txedrf-polyfill (npm)","affected":[{"package":{"name":"css-txedrf-polyfill","ecosystem":"npm","purl":"pkg:npm/css-txedrf-polyfill"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17535","published":"2026-10-05T03:32:55Z","modified":"2026-10-05T04:15:06.413724726Z","summary":"Malicious code in @anguar/core (npm)","affected":[{"package":{"name":"@anguar/core","ecosystem":"npm","purl":"pkg:npm/%40anguar/core"},"versions":["22.2.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17292","published":"2026-09-29T22:12:09Z","modified":"2026-09-29T22:31:17.391047329Z","summary":"Malicious code in @selfpentest/bin-confusion (npm)","affected":[{"package":{"name":"@selfpentest/bin-confusion","ecosystem":"npm","purl":"pkg:npm/%40selfpentest/bin-confusion"},"versions":["1.0.1","1.0.0"]}]}

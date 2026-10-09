@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17320","published":"2026-09-30T04:38:16Z","modified":"2026-10-08T13:45:05.312970850Z","aliases":["GHSA-v3rj-w7v4-jcfx"],"summary":"Malicious code in cdn-img-fetch (npm)","affected":[{"package":{"name":"cdn-img-fetch","ecosystem":"npm","purl":"pkg:npm/cdn-img-fetch"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

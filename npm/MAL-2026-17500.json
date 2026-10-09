@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17500","published":"2026-10-03T07:23:44Z","modified":"2026-10-05T23:00:06.351304871Z","summary":"Malicious code in @nagular/router (npm)","affected":[{"package":{"name":"@nagular/router","ecosystem":"npm","purl":"pkg:npm/%40nagular/router"},"versions":["2.2.1"]}]}

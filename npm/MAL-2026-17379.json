@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17379","published":"2026-09-30T09:57:36Z","modified":"2026-09-30T10:32:25.407247056Z","summary":"Malicious code in @sakataoffc/baileys (npm)","affected":[{"package":{"name":"@sakataoffc/baileys","ecosystem":"npm","purl":"pkg:npm/%40sakataoffc/baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

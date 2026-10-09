@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17577","published":"2026-10-05T16:13:54Z","modified":"2026-10-05T16:31:38.289228478Z","summary":"Malicious code in css-vvgsze-polyfill (npm)","affected":[{"package":{"name":"css-vvgsze-polyfill","ecosystem":"npm","purl":"pkg:npm/css-vvgsze-polyfill"},"versions":["1.0.0"]}]}

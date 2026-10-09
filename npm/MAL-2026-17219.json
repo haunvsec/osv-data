@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17219","published":"2026-09-28T16:05:39Z","modified":"2026-09-28T18:30:05.543296164Z","aliases":["GHSA-fm5g-6rr8-p9vq"],"summary":"Malicious code in nebula-sdk (npm)","affected":[{"package":{"name":"nebula-sdk","ecosystem":"npm","purl":"pkg:npm/nebula-sdk"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

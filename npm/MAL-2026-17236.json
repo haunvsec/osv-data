@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17236","published":"2026-09-28T22:06:31Z","modified":"2026-09-28T22:30:06.702382896Z","summary":"Malicious code in mini-hardhat (npm)","affected":[{"package":{"name":"mini-hardhat","ecosystem":"npm","purl":"pkg:npm/mini-hardhat"},"versions":["1.1.4"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17363","published":"2026-10-06T14:39:02Z","modified":"2026-10-06T15:45:09.830933502Z","aliases":["GHSA-7gvw-4c75-pc6p"],"summary":"Malicious code in @kxa/xbails (npm)","affected":[{"package":{"name":"@kxa/xbails","ecosystem":"npm","purl":"pkg:npm/%40kxa/xbails"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

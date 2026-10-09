@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17539","published":"2026-10-05T03:32:05Z","modified":"2026-10-05T04:15:04.301525173Z","summary":"Malicious code in @angupar/core (npm)","affected":[{"package":{"name":"@angupar/core","ecosystem":"npm","purl":"pkg:npm/%40angupar/core"},"versions":["22.2.1"]}]}

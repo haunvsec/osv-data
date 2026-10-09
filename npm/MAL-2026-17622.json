@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17622","published":"2026-10-05T15:41:10Z","modified":"2026-10-05T16:46:14.296495175Z","aliases":["GHSA-xwv2-25hq-j64g"],"summary":"Malicious code in dzyhaxz-baileys (npm)","affected":[{"package":{"name":"dzyhaxz-baileys","ecosystem":"npm","purl":"pkg:npm/dzyhaxz-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

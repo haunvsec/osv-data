@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17384","published":"2026-10-08T13:31:42Z","modified":"2026-10-08T13:45:05.358413984Z","aliases":["GHSA-fwcp-q8x6-4fc2"],"summary":"Malicious code in @xayz/baileys (npm)","affected":[{"package":{"name":"@xayz/baileys","ecosystem":"npm","purl":"pkg:npm/%40xayz/baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

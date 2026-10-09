@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17407","published":"2026-09-30T09:57:36Z","modified":"2026-09-30T10:32:25.805193311Z","summary":"Malicious code in syncxbails (npm)","affected":[{"package":{"name":"syncxbails","ecosystem":"npm","purl":"pkg:npm/syncxbails"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

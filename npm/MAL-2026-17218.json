@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17218","published":"2026-09-28T16:07:19Z","modified":"2026-09-29T23:45:38.009500443Z","aliases":["GHSA-jxw5-69p3-hpm4"],"summary":"Malicious code in native-runner (npm)","affected":[{"package":{"name":"native-runner","ecosystem":"npm","purl":"pkg:npm/native-runner"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

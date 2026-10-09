@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17574","published":"2026-10-05T16:14:13Z","modified":"2026-10-05T16:31:38.286108164Z","summary":"Malicious code in css-gwqyid-polyfill (npm)","affected":[{"package":{"name":"css-gwqyid-polyfill","ecosystem":"npm","purl":"pkg:npm/css-gwqyid-polyfill"},"versions":["1.0.0"]}]}

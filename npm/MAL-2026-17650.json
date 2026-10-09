@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17650","published":"2026-10-08T02:54:39Z","modified":"2026-10-08T06:45:19.255308715Z","aliases":["GHSA-rqxj-g25x-4v9v"],"summary":"Malicious code in tensorlake (npm)","affected":[{"package":{"name":"tensorlake","ecosystem":"npm","purl":"pkg:npm/tensorlake"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

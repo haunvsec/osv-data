@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17623","published":"2026-10-05T15:41:10Z","modified":"2026-10-05T16:46:14.747519410Z","aliases":["GHSA-jjrx-mg27-p6ww"],"summary":"Malicious code in dzyhaxz-libsignal (npm)","affected":[{"package":{"name":"dzyhaxz-libsignal","ecosystem":"npm","purl":"pkg:npm/dzyhaxz-libsignal"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

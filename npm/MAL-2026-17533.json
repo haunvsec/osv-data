@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17533","published":"2026-10-05T03:31:11Z","modified":"2026-10-05T04:15:04.303046859Z","summary":"Malicious code in @anfular/core (npm)","affected":[{"package":{"name":"@anfular/core","ecosystem":"npm","purl":"pkg:npm/%40anfular/core"},"versions":["22.2.1"]}]}

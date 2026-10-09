@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17450","published":"2026-10-01T23:05:37Z","modified":"2026-10-02T05:30:06.356222177Z","summary":"Malicious code in rubbydev-crash-baileys (npm)","affected":[{"package":{"name":"rubbydev-crash-baileys","ecosystem":"npm","purl":"pkg:npm/rubbydev-crash-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

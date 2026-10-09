@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17703","published":"2026-10-08T20:52:03Z","modified":"2026-10-09T01:00:09.234432755Z","summary":"Malicious code in kafka-roller (PyPI)","affected":[{"package":{"name":"kafka-roller","ecosystem":"PyPI","purl":"pkg:pypi/kafka-roller"},"versions":["99.0.0","99.0.1","99.0.2","99.0.3","99.0.4","99.0.5","99.0.6"]}]}

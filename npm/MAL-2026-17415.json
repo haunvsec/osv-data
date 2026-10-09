@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17415","published":"2026-09-30T13:50:32Z","modified":"2026-09-30T14:30:07.754439884Z","summary":"Malicious code in com.epi.e2e_test (npm)","affected":[{"package":{"name":"com.epi.e2e_test","ecosystem":"npm","purl":"pkg:npm/com.epi.e2e_test"},"versions":["1.2.2"]}]}

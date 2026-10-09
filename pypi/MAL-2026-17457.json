@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17457","published":"2026-10-02T21:28:42Z","modified":"2026-10-04T23:45:21.795410307Z","summary":"Malicious code in voxeval (PyPI)","affected":[{"package":{"name":"voxeval","ecosystem":"PyPI","purl":"pkg:pypi/voxeval"},"versions":["0.4.2","0.4.3","0.4.4","0.4.5"]}]}

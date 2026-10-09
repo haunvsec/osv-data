@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17552","published":"2026-10-05T03:36:55Z","modified":"2026-10-05T04:15:05.065758659Z","summary":"Malicious code in css-hgwctv-polyfill (npm)","affected":[{"package":{"name":"css-hgwctv-polyfill","ecosystem":"npm","purl":"pkg:npm/css-hgwctv-polyfill"},"versions":["1.0.0"]}]}

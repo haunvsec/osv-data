@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17214","published":"2026-09-28T14:18:12Z","modified":"2026-09-28T14:30:08.219570801Z","summary":"Malicious code in git-en-boite-logging (npm)","affected":[{"package":{"name":"git-en-boite-logging","ecosystem":"npm","purl":"pkg:npm/git-en-boite-logging"},"versions":["0.0.0"]}]}

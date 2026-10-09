@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17288","published":"2026-09-29T22:11:37Z","modified":"2026-09-29T22:31:17.085137456Z","summary":"Malicious code in @rutxploit-sec/subsplash-canny (npm)","affected":[{"package":{"name":"@rutxploit-sec/subsplash-canny","ecosystem":"npm","purl":"pkg:npm/%40rutxploit-sec/subsplash-canny"},"versions":["1.0.0"]}]}

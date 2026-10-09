@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17243","published":"2026-09-29T07:12:49Z","modified":"2026-10-05T23:00:06.746316587Z","summary":"Malicious code in express-nodejs (npm)","affected":[{"package":{"name":"express-nodejs","ecosystem":"npm","purl":"pkg:npm/express-nodejs"},"versions":["5.2.1","5.2.2"]}]}

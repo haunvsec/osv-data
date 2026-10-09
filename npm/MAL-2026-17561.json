@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17561","published":"2026-10-05T03:35:16Z","modified":"2026-10-05T04:15:05.549847384Z","summary":"Malicious code in insomnia-plugin-api-lint-helper (npm)","affected":[{"package":{"name":"insomnia-plugin-api-lint-helper","ecosystem":"npm","purl":"pkg:npm/insomnia-plugin-api-lint-helper"},"versions":["1.0.0"]}]}

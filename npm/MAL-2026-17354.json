@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17354","published":"2026-09-30T09:57:36Z","modified":"2026-09-30T10:32:25.256746400Z","summary":"Malicious code in @hanzofc/baileys (npm)","affected":[{"package":{"name":"@hanzofc/baileys","ecosystem":"npm","purl":"pkg:npm/%40hanzofc/baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

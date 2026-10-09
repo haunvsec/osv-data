@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17662","published":"2026-10-08T03:44:05Z","modified":"2026-10-08T22:45:06.803701199Z","summary":"Malicious code in hardhat-promised (npm)","affected":[{"package":{"name":"hardhat-promised","ecosystem":"npm","purl":"pkg:npm/hardhat-promised"},"versions":["2.21.0"]}]}

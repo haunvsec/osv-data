@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17655","published":"2026-10-08T03:38:22Z","modified":"2026-10-08T22:45:07.360812724Z","summary":"Malicious code in css-flow-render-shim (npm)","affected":[{"package":{"name":"css-flow-render-shim","ecosystem":"npm","purl":"pkg:npm/css-flow-render-shim"},"versions":["1.0.0"]}]}

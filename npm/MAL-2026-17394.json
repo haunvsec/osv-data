@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17394","published":"2026-09-30T09:57:36Z","modified":"2026-09-30T10:32:23.082021703Z","summary":"Malicious code in kasabaileys (npm)","affected":[{"package":{"name":"kasabaileys","ecosystem":"npm","purl":"pkg:npm/kasabaileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

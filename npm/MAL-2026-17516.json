@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17516","published":"2026-10-04T23:27:14Z","modified":"2026-10-04T23:45:20.817881482Z","summary":"Malicious code in oleh-modal (npm)","affected":[{"package":{"name":"oleh-modal","ecosystem":"npm","purl":"pkg:npm/oleh-modal"},"versions":["1.0.0"]}]}

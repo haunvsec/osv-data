@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17528","published":"2026-10-04T23:26:23Z","modified":"2026-10-04T23:45:21.717390225Z","summary":"Malicious code in tiny-viewport-unit-calc (npm)","affected":[{"package":{"name":"tiny-viewport-unit-calc","ecosystem":"npm","purl":"pkg:npm/tiny-viewport-unit-calc"},"versions":["1.0.0"]}]}

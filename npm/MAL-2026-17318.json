@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17318","published":"2026-09-30T03:06:03Z","modified":"2026-09-30T03:30:04.963595574Z","summary":"Malicious code in developmentstelemetry (npm)","affected":[{"package":{"name":"developmentstelemetry","ecosystem":"npm","purl":"pkg:npm/developmentstelemetry"},"versions":["1.0.2","1.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17301","published":"2026-09-29T23:24:17Z","modified":"2026-09-29T23:45:38.488883722Z","summary":"Malicious code in fs-commons (npm)","affected":[{"package":{"name":"fs-commons","ecosystem":"npm","purl":"pkg:npm/fs-commons"},"versions":["1.0.1"]}]}

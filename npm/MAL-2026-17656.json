@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17656","published":"2026-10-08T03:38:12Z","modified":"2026-10-08T05:00:05.338718998Z","summary":"Malicious code in css-reading-display-polyfill (npm)","affected":[{"package":{"name":"css-reading-display-polyfill","ecosystem":"npm","purl":"pkg:npm/css-reading-display-polyfill"},"versions":["1.0.0"]}]}

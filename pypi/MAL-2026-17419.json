@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17419","published":"2026-10-01T12:04:42Z","modified":"2026-10-02T05:01:12.610551681Z","summary":"Malicious code in friendly-tools (PyPI)","affected":[{"package":{"name":"friendly-tools","ecosystem":"PyPI","purl":"pkg:pypi/friendly-tools"},"versions":["0.1","0.2"]}]}

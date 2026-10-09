@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17628","published":"2026-10-05T20:44:32Z","modified":"2026-10-05T21:30:04.519951007Z","summary":"Malicious code in erc7730-hackathon (PyPI)","affected":[{"package":{"name":"erc7730-hackathon","ecosystem":"PyPI","purl":"pkg:pypi/erc7730-hackathon"},"versions":["99.0.0"]}]}

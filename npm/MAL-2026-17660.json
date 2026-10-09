@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17660","published":"2026-10-08T03:38:47Z","modified":"2026-10-08T04:00:05.432013175Z","summary":"Malicious code in hardhat-option (npm)","affected":[{"package":{"name":"hardhat-option","ecosystem":"npm","purl":"pkg:npm/hardhat-option"},"versions":["2.0.1"]}]}

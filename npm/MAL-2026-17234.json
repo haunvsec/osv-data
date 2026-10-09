@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17234","published":"2026-09-28T22:07:01Z","modified":"2026-10-02T22:30:05.019106648Z","aliases":["GHSA-mw8r-6m3f-qmg8"],"summary":"Malicious code in hardhat-zet (npm)","affected":[{"package":{"name":"hardhat-zet","ecosystem":"npm","purl":"pkg:npm/hardhat-zet"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

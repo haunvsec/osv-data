@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17238","published":"2026-09-28T22:09:49Z","modified":"2026-09-28T22:30:06.805888724Z","summary":"Malicious code in rai6jaisahthaghee5ou-loader-package (npm)","affected":[{"package":{"name":"rai6jaisahthaghee5ou-loader-package","ecosystem":"npm","purl":"pkg:npm/rai6jaisahthaghee5ou-loader-package"},"versions":["1.0.0"]}]}

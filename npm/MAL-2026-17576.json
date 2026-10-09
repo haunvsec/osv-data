@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17576","published":"2026-10-05T16:15:10Z","modified":"2026-10-05T16:31:38.291898077Z","summary":"Malicious code in css-nrmgzn-polyfill (npm)","affected":[{"package":{"name":"css-nrmgzn-polyfill","ecosystem":"npm","purl":"pkg:npm/css-nrmgzn-polyfill"},"versions":["1.0.0"]}]}

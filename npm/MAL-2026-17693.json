@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17693","published":"2026-10-08T16:53:40Z","modified":"2026-10-08T17:25:14.092218020Z","summary":"Malicious code in @bitwardne/cli (npm)","affected":[{"package":{"name":"@bitwardne/cli","ecosystem":"npm","purl":"pkg:npm/%40bitwardne/cli"},"versions":["1.0.1"]}]}

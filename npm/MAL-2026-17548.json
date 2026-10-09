@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17548","published":"2026-10-05T03:35:56Z","modified":"2026-10-05T04:15:05.601060739Z","summary":"Malicious code in css-ayucyz-polyfill (npm)","affected":[{"package":{"name":"css-ayucyz-polyfill","ecosystem":"npm","purl":"pkg:npm/css-ayucyz-polyfill"},"versions":["1.0.0"]}]}

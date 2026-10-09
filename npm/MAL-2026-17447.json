@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17447","published":"2026-10-01T23:05:37Z","modified":"2026-10-02T05:30:06.352298858Z","summary":"Malicious code in mikuhostt-baileys (npm)","affected":[{"package":{"name":"mikuhostt-baileys","ecosystem":"npm","purl":"pkg:npm/mikuhostt-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

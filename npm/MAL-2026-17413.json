@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17413","published":"2026-10-05T15:41:10Z","modified":"2026-10-05T16:46:24.473673645Z","aliases":["GHSA-8434-c34v-f7h8"],"summary":"Malicious code in yonzoffic-baileys (npm)","affected":[{"package":{"name":"yonzoffic-baileys","ecosystem":"npm","purl":"pkg:npm/yonzoffic-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

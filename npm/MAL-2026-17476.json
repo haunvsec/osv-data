@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17476","published":"2026-10-04T23:13:37Z","modified":"2026-10-04T23:30:06.640038101Z","summary":"Malicious code in css-anchor-pos-fallback (npm)","affected":[{"package":{"name":"css-anchor-pos-fallback","ecosystem":"npm","purl":"pkg:npm/css-anchor-pos-fallback"},"versions":["1.0.0"]}]}

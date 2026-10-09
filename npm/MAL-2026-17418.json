@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17418","published":"2026-09-30T00:13:16Z","modified":"2026-10-01T05:45:04.199145766Z","summary":"Malicious code in future-scripts (npm)","affected":[{"package":{"name":"future-scripts","ecosystem":"npm","purl":"pkg:npm/future-scripts"},"versions":["0.0.2","0.0.3"]}]}

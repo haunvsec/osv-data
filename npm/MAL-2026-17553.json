@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17553","published":"2026-10-05T03:36:15Z","modified":"2026-10-05T04:15:05.210715241Z","summary":"Malicious code in css-ikomdq-polyfill (npm)","affected":[{"package":{"name":"css-ikomdq-polyfill","ecosystem":"npm","purl":"pkg:npm/css-ikomdq-polyfill"},"versions":["1.0.0"]}]}

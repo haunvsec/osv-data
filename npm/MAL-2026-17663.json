@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17663","published":"2026-10-08T03:45:15Z","modified":"2026-10-08T04:00:04.238808328Z","summary":"Malicious code in mfasolver (npm)","affected":[{"package":{"name":"mfasolver","ecosystem":"npm","purl":"pkg:npm/mfasolver"},"versions":["1.0.0"]}]}

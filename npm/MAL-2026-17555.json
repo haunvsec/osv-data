@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17555","published":"2026-10-05T03:35:45Z","modified":"2026-10-05T04:15:06.608711356Z","summary":"Malicious code in css-nbanqq-polyfill (npm)","affected":[{"package":{"name":"css-nbanqq-polyfill","ecosystem":"npm","purl":"pkg:npm/css-nbanqq-polyfill"},"versions":["1.0.0"]}]}

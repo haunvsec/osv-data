@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17507","published":"2026-10-04T23:28:05Z","modified":"2026-10-04T23:45:20.308019626Z","summary":"Malicious code in hardhat-jsx (npm)","affected":[{"package":{"name":"hardhat-jsx","ecosystem":"npm","purl":"pkg:npm/hardhat-jsx"},"versions":["2.0.1"]}]}

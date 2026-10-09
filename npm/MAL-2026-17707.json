@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17707","published":"2026-10-08T21:20:37Z","modified":"2026-10-08T21:45:54.263791864Z","summary":"Malicious code in wie888r (npm)","affected":[{"package":{"name":"wie888r","ecosystem":"npm","purl":"pkg:npm/wie888r"},"versions":["1.0.0","99.0.1","1.1.0","0.0.1","2.0.0","3.0.0","2.0.1","1.0.1"]}]}

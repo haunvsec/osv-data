@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17517","published":"2026-10-04T23:26:32Z","modified":"2026-10-04T23:45:19.006900508Z","summary":"Malicious code in popover-anchor-polyfill (npm)","affected":[{"package":{"name":"popover-anchor-polyfill","ecosystem":"npm","purl":"pkg:npm/popover-anchor-polyfill"},"versions":["1.0.0"]}]}

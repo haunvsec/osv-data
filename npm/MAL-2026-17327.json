@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17327","published":"2026-09-30T04:50:53Z","modified":"2026-09-30T05:30:05.330147570Z","summary":"Malicious code in exiouss (npm)","affected":[{"package":{"name":"exiouss","ecosystem":"npm","purl":"pkg:npm/exiouss"},"versions":["5.0.1"]}]}

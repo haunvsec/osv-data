@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17400","published":"2026-10-08T13:31:42Z","modified":"2026-10-08T13:45:04.476007381Z","aliases":["GHSA-6v2q-p64f-6cp6"],"summary":"Malicious code in my-baileys (npm)","affected":[{"package":{"name":"my-baileys","ecosystem":"npm","purl":"pkg:npm/my-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17546","published":"2026-10-05T03:37:41Z","modified":"2026-10-05T04:15:05.058056925Z","summary":"Malicious code in aria-live-region-helper (npm)","affected":[{"package":{"name":"aria-live-region-helper","ecosystem":"npm","purl":"pkg:npm/aria-live-region-helper"},"versions":["1.0.0"]}]}

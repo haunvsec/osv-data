@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17471","published":"2026-10-03T19:41:50Z","modified":"2026-10-04T23:45:21.529017188Z","summary":"Malicious code in caoxiltts (PyPI)","affected":[{"package":{"name":"caoxiltts","ecosystem":"PyPI","purl":"pkg:pypi/caoxiltts"},"versions":["0.1.0","0.1.1"]}]}

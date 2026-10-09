@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17325","published":"2026-09-30T04:37:46Z","modified":"2026-09-30T05:00:07.988002069Z","summary":"Malicious code in cleanup-string (PyPI)","affected":[{"package":{"name":"cleanup-string","ecosystem":"PyPI","purl":"pkg:pypi/cleanup-string"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17231","published":"2026-09-28T22:04:24Z","modified":"2026-09-28T22:30:05.663983018Z","summary":"Malicious code in dotenv-native (npm)","affected":[{"package":{"name":"dotenv-native","ecosystem":"npm","purl":"pkg:npm/dotenv-native"},"versions":["1.0.1"]}]}

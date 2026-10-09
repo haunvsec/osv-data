@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17496","published":"2026-10-04T23:18:17Z","modified":"2026-10-04T23:45:18.507063462Z","summary":"Malicious code in @angulra/core (npm)","affected":[{"package":{"name":"@angulra/core","ecosystem":"npm","purl":"pkg:npm/%40angulra/core"},"versions":["1.0.67"]}]}

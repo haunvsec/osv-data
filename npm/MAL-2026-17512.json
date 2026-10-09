@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17512","published":"2026-10-04T23:27:39Z","modified":"2026-10-04T23:45:20.509881220Z","summary":"Malicious code in lite-matte (npm)","affected":[{"package":{"name":"lite-matte","ecosystem":"npm","purl":"pkg:npm/lite-matte"},"versions":["1.0.0"]}]}

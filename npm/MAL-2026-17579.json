@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17579","published":"2026-10-05T08:04:30Z","modified":"2026-10-07T06:30:04.942736078Z","summary":"Malicious code in with-cte (npm)","affected":[{"package":{"name":"with-cte","ecosystem":"npm","purl":"pkg:npm/with-cte"},"versions":["1.0.0"]}]}

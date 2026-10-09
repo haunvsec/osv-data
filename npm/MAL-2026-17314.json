@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17314","published":"2026-09-30T01:47:02Z","modified":"2026-09-30T06:00:05.224000342Z","summary":"Malicious code in test-supply-npm-lib-4 (npm)","affected":[{"package":{"name":"test-supply-npm-lib-4","ecosystem":"npm","purl":"pkg:npm/test-supply-npm-lib-4"},"versions":["3.3.3","3.3.4","3.3.6","3.3.5"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17551","published":"2026-10-05T03:36:27Z","modified":"2026-10-05T04:15:05.203167504Z","summary":"Malicious code in css-gvqmfn-polyfill (npm)","affected":[{"package":{"name":"css-gvqmfn-polyfill","ecosystem":"npm","purl":"pkg:npm/css-gvqmfn-polyfill"},"versions":["1.0.0"]}]}

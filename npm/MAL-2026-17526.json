@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17526","published":"2026-10-04T23:25:21Z","modified":"2026-10-04T23:45:23.863124084Z","summary":"Malicious code in tiny-dom-focus-trap (npm)","affected":[{"package":{"name":"tiny-dom-focus-trap","ecosystem":"npm","purl":"pkg:npm/tiny-dom-focus-trap"},"versions":["1.0.0"]}]}

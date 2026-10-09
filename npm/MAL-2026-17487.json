@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17487","published":"2026-10-04T23:15:33Z","modified":"2026-10-04T23:30:04.793158566Z","summary":"Malicious code in css-snap-target-polyfill (npm)","affected":[{"package":{"name":"css-snap-target-polyfill","ecosystem":"npm","purl":"pkg:npm/css-snap-target-polyfill"},"versions":["1.0.0"]}]}

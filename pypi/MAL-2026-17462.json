@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17462","published":"2026-10-03T05:03:06Z","modified":"2026-10-03T05:30:03.729232298Z","summary":"Malicious code in echogen (PyPI)","affected":[{"package":{"name":"echogen","ecosystem":"PyPI","purl":"pkg:pypi/echogen"},"versions":["1.0.0"]}]}

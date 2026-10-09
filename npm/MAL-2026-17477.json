@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17477","published":"2026-10-04T23:13:53Z","modified":"2026-10-04T23:30:05.789975954Z","summary":"Malicious code in css-env-function-shim (npm)","affected":[{"package":{"name":"css-env-function-shim","ecosystem":"npm","purl":"pkg:npm/css-env-function-shim"},"versions":["1.0.0"]}]}

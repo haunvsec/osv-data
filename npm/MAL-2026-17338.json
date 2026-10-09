@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17338","published":"2026-09-30T05:45:42Z","modified":"2026-10-08T06:45:19.281313495Z","aliases":["GHSA-5j3f-rr83-xcpq"],"summary":"Malicious code in link-status-page (npm)","affected":[{"package":{"name":"link-status-page","ecosystem":"npm","purl":"pkg:npm/link-status-page"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

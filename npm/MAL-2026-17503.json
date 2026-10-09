@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17503","published":"2026-10-04T23:28:40Z","modified":"2026-10-04T23:45:19.912221146Z","summary":"Malicious code in dom-focus-sentinel (npm)","affected":[{"package":{"name":"dom-focus-sentinel","ecosystem":"npm","purl":"pkg:npm/dom-focus-sentinel"},"versions":["1.0.0"]}]}

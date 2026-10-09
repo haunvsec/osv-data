@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17307","published":"2026-09-30T01:26:57Z","modified":"2026-09-30T01:45:10.589921854Z","summary":"Malicious code in fabric-mod-utils (npm)","affected":[{"package":{"name":"fabric-mod-utils","ecosystem":"npm","purl":"pkg:npm/fabric-mod-utils"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17627","published":"2026-10-05T17:31:00Z","modified":"2026-10-06T04:30:47.391535635Z","aliases":["GHSA-4pg5-wvv5-w7fg"],"summary":"Malicious code in serpacksven2 (npm)","affected":[{"package":{"name":"serpacksven2","ecosystem":"npm","purl":"pkg:npm/serpacksven2"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

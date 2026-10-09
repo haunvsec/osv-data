@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17534","published":"2026-10-05T03:33:23Z","modified":"2026-10-05T04:15:04.292920890Z","summary":"Malicious code in @angjlar/core (npm)","affected":[{"package":{"name":"@angjlar/core","ecosystem":"npm","purl":"pkg:npm/%40angjlar/core"},"versions":["22.2.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17284","published":"2026-09-29T17:30:01Z","modified":"2026-09-30T01:00:04.932075670Z","aliases":["GHSA-jcvm-p983-rr37"],"summary":"Malicious code in sk-lib-enc (npm)","affected":[{"package":{"name":"sk-lib-enc","ecosystem":"npm","purl":"pkg:npm/sk-lib-enc"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

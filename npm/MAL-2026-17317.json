@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17317","published":"2026-09-30T03:05:04Z","modified":"2026-09-30T03:30:04.971099864Z","summary":"Malicious code in booking-tasks (npm)","affected":[{"package":{"name":"booking-tasks","ecosystem":"npm","purl":"pkg:npm/booking-tasks"},"versions":["1.0.2"]}]}

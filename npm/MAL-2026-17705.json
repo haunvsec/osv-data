@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17705","published":"2026-10-08T21:19:11Z","modified":"2026-10-08T21:45:48.346686720Z","summary":"Malicious code in css-overscroll-contain (npm)","affected":[{"package":{"name":"css-overscroll-contain","ecosystem":"npm","purl":"pkg:npm/css-overscroll-contain"},"versions":["1.0.1","1.0.2","1.0.3"]}]}

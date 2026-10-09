@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17461","published":"2026-10-03T04:38:14Z","modified":"2026-10-04T23:45:21.648119334Z","summary":"Malicious code in voxel-tts (PyPI)","affected":[{"package":{"name":"voxel-tts","ecosystem":"PyPI","purl":"pkg:pypi/voxel-tts"},"versions":["0.5.0","0.5.1"]}]}

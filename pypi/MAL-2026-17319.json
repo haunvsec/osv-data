@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17319","published":"2026-09-30T03:04:36Z","modified":"2026-09-30T03:30:05.036378991Z","summary":"Malicious code in bfox-build-utils (PyPI)","affected":[{"package":{"name":"bfox-build-utils","ecosystem":"PyPI","purl":"pkg:pypi/bfox-build-utils"},"versions":["1.0.997"]}]}

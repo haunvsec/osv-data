@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17681","published":"2026-10-08T14:26:18Z","modified":"2026-10-08T15:45:06.702265132Z","aliases":["GHSA-fw57-xw67-r253"],"summary":"Malicious code in node-env-resolve (npm)","affected":[{"package":{"name":"node-env-resolve","ecosystem":"npm","purl":"pkg:npm/node-env-resolve"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

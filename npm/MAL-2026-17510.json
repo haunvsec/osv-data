@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17510","published":"2026-10-04T23:27:48Z","modified":"2026-10-05T18:45:05.932682812Z","aliases":["GHSA-f6rc-jhj3-4p2w"],"summary":"Malicious code in internallib_v275 (npm)","affected":[{"package":{"name":"internallib_v275","ecosystem":"npm","purl":"pkg:npm/internallib_v275"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

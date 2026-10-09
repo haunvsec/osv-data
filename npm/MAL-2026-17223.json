@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17223","published":"2026-09-28T18:07:46Z","modified":"2026-09-28T18:30:06.490177060Z","summary":"Malicious code in chalk-figlet (npm)","affected":[{"package":{"name":"chalk-figlet","ecosystem":"npm","purl":"pkg:npm/chalk-figlet"},"versions":["1.2.0"]}]}

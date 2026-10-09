@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17405","published":"2026-10-04T23:22:05Z","modified":"2026-10-04T23:45:18.045698542Z","summary":"Malicious code in shadowmd (npm)","affected":[{"package":{"name":"shadowmd","ecosystem":"npm","purl":"pkg:npm/shadowmd"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

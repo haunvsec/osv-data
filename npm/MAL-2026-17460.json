@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17460","published":"2026-10-02T21:26:23Z","modified":"2026-10-02T22:30:05.044307099Z","aliases":["GHSA-325f-rjxf-3gm9"],"summary":"Malicious code in ui.dist.min.js (npm)","affected":[{"package":{"name":"ui.dist.min.js","ecosystem":"npm","purl":"pkg:npm/ui.dist.min.js"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

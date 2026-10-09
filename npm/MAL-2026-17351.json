@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17351","published":"2026-10-01T17:02:45Z","modified":"2026-10-08T13:45:04.486784907Z","aliases":["GHSA-qg7r-f2jp-2mmx"],"summary":"Malicious code in @bottino/baileys (npm)","affected":[{"package":{"name":"@bottino/baileys","ecosystem":"npm","purl":"pkg:npm/%40bottino/baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

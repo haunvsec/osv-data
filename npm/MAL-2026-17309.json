@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17309","published":"2026-09-30T01:27:20Z","modified":"2026-09-30T01:45:11.591515040Z","summary":"Malicious code in stestenv (npm)","affected":[{"package":{"name":"stestenv","ecosystem":"npm","purl":"pkg:npm/stestenv"},"versions":["1.0.1"]}]}

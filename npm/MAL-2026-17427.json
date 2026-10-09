@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17427","published":"2026-09-30T07:11:21Z","modified":"2026-10-04T23:45:17.945755193Z","summary":"Malicious code in ai-workshop-maa15-radio (npm)","affected":[{"package":{"name":"ai-workshop-maa15-radio","ecosystem":"npm","purl":"pkg:npm/ai-workshop-maa15-radio"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

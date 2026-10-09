@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17366","published":"2026-09-30T09:57:36Z","modified":"2026-09-30T10:32:25.210000834Z","summary":"Malicious code in @levvicode/baileys (npm)","affected":[{"package":{"name":"@levvicode/baileys","ecosystem":"npm","purl":"pkg:npm/%40levvicode/baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

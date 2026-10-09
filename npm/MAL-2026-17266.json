@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17266","published":"2026-09-29T16:34:24Z","modified":"2026-09-29T17:30:15.341365564Z","aliases":["GHSA-96c4-q73c-c32q"],"summary":"Malicious code in @hrmony/kit-5 (npm)","affected":[{"package":{"name":"@hrmony/kit-5","ecosystem":"npm","purl":"pkg:npm/%40hrmony/kit-5"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17472","published":"2026-10-04T19:09:32Z","modified":"2026-10-05T04:15:04.497430773Z","summary":"Malicious code in anthropic-sdk (PyPI)","affected":[{"package":{"name":"anthropic-sdk","ecosystem":"PyPI","purl":"pkg:pypi/anthropic-sdk"},"versions":["0.1.0"]}]}

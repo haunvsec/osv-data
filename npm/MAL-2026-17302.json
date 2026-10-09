@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17302","published":"2026-09-30T00:45:21Z","modified":"2026-09-30T01:00:06.854246841Z","summary":"Malicious code in solidity-lock (npm)","affected":[{"package":{"name":"solidity-lock","ecosystem":"npm","purl":"pkg:npm/solidity-lock"},"versions":["2.21.0"]}]}

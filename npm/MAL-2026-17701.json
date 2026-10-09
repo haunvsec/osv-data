@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17701","published":"2026-10-08T17:47:11Z","modified":"2026-10-08T18:30:05.294708524Z","summary":"Malicious code in @kxafunc/xbails (npm)","affected":[{"package":{"name":"@kxafunc/xbails","ecosystem":"npm","purl":"pkg:npm/%40kxafunc/xbails"},"versions":["0.0.8"]}]}

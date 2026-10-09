@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17421","published":"2026-10-01T18:58:14Z","modified":"2026-10-08T20:30:04.745549763Z","summary":"Malicious code in spo365-graph (PyPI)","affected":[{"package":{"name":"spo365-graph","ecosystem":"PyPI","purl":"pkg:pypi/spo365-graph"},"versions":["1.0.0","1.1.0","1.1.1","1.1.2"]}]}

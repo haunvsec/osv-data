@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17313","published":"2026-09-30T01:48:51Z","modified":"2026-09-30T03:00:04.413105579Z","summary":"Malicious code in pixsvg (npm)","affected":[{"package":{"name":"pixsvg","ecosystem":"npm","purl":"pkg:npm/pixsvg"},"versions":["0.2.0"]}]}

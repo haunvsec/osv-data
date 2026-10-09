@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17333","published":"2026-09-30T05:54:48Z","modified":"2026-10-08T06:45:20.432919995Z","aliases":["GHSA-m8g8-xcgx-j6hw"],"summary":"Malicious code in @cat-gen/materia (npm)","affected":[{"package":{"name":"@cat-gen/materia","ecosystem":"npm","purl":"pkg:npm/%40cat-gen/materia"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

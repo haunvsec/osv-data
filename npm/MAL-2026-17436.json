@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17436","published":"2026-09-30T07:10:23Z","modified":"2026-10-04T23:45:17.056254840Z","summary":"Malicious code in okra-cloud-cdk (npm)","affected":[{"package":{"name":"okra-cloud-cdk","ecosystem":"npm","purl":"pkg:npm/okra-cloud-cdk"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

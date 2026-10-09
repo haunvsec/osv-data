@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17444","published":"2026-10-01T23:05:37Z","modified":"2026-10-02T05:30:07.361845335Z","summary":"Malicious code in danz-bails (npm)","affected":[{"package":{"name":"danz-bails","ecosystem":"npm","purl":"pkg:npm/danz-bails"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

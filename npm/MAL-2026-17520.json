@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17520","published":"2026-10-04T23:26:04Z","modified":"2026-10-04T23:45:18.108869362Z","summary":"Malicious code in rgx33-css-grid-utils (npm)","affected":[{"package":{"name":"rgx33-css-grid-utils","ecosystem":"npm","purl":"pkg:npm/rgx33-css-grid-utils"},"versions":["1.0.0"]}]}

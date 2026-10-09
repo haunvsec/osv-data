@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17575","published":"2026-10-05T16:14:25Z","modified":"2026-10-05T16:31:36.999258223Z","summary":"Malicious code in css-kfvwax-polyfill (npm)","affected":[{"package":{"name":"css-kfvwax-polyfill","ecosystem":"npm","purl":"pkg:npm/css-kfvwax-polyfill"},"versions":["1.0.0"]}]}

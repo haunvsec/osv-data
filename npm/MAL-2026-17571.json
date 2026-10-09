@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17571","published":"2026-10-05T12:46:31Z","modified":"2026-10-05T16:31:38.298153284Z","aliases":["GHSA-9333-3c4x-x3h5"],"summary":"Malicious code in @subql/common (npm)","affected":[{"package":{"name":"@subql/common","ecosystem":"npm","purl":"pkg:npm/%40subql/common"},"versions":["5.8.3"]}]}

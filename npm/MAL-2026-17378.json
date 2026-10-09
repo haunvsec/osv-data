@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17378","published":"2026-09-30T09:57:36Z","modified":"2026-09-30T10:30:42.506298120Z","summary":"Malicious code in @sairidev/baileys-new (npm)","affected":[{"package":{"name":"@sairidev/baileys-new","ecosystem":"npm","purl":"pkg:npm/%40sairidev/baileys-new"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

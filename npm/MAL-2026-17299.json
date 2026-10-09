@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17299","published":"2026-09-29T23:05:23Z","modified":"2026-09-29T23:30:05.068150993Z","summary":"Malicious code in testosu8887 (npm)","affected":[{"package":{"name":"testosu8887","ecosystem":"npm","purl":"pkg:npm/testosu8887"},"versions":["1.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17459","published":"2026-10-02T21:26:23Z","modified":"2026-10-02T22:30:05.049424223Z","aliases":["GHSA-qgqx-3mhx-jwx3"],"summary":"Malicious code in ui-base-colors (npm)","affected":[{"package":{"name":"ui-base-colors","ecosystem":"npm","purl":"pkg:npm/ui-base-colors"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17329","published":"2026-09-30T04:52:31Z","modified":"2026-09-30T10:32:26.103250512Z","summary":"Malicious code in focaleys (npm)","affected":[{"package":{"name":"focaleys","ecosystem":"npm","purl":"pkg:npm/focaleys"},"versions":["1.1.0"]}]}

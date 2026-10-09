@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17536","published":"2026-10-05T03:31:30Z","modified":"2026-10-05T04:15:05.054765483Z","summary":"Malicious code in @angulaar/cli (npm)","affected":[{"package":{"name":"@angulaar/cli","ecosystem":"npm","purl":"pkg:npm/%40angulaar/cli"},"versions":["22.2.1"]}]}

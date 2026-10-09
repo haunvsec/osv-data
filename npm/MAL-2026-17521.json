@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17521","published":"2026-10-04T23:25:38Z","modified":"2026-10-04T23:45:19.007213222Z","summary":"Malicious code in rgx33-flex-layout-core (npm)","affected":[{"package":{"name":"rgx33-flex-layout-core","ecosystem":"npm","purl":"pkg:npm/rgx33-flex-layout-core"},"versions":["1.0.0"]}]}

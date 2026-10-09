@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17403","published":"2026-09-30T09:57:36Z","modified":"2026-09-30T10:32:25.701829407Z","summary":"Malicious code in noxxleys (npm)","affected":[{"package":{"name":"noxxleys","ecosystem":"npm","purl":"pkg:npm/noxxleys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17658","published":"2026-10-08T03:39:07Z","modified":"2026-10-08T04:00:05.136932807Z","summary":"Malicious code in hardhat-bits (npm)","affected":[{"package":{"name":"hardhat-bits","ecosystem":"npm","purl":"pkg:npm/hardhat-bits"},"versions":["2.21.0"]}]}

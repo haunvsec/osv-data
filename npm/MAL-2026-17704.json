@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17704","published":"2026-10-08T21:21:17Z","modified":"2026-10-08T21:45:48.342129953Z","summary":"Malicious code in @wxwxtest/testrrrdd (npm)","affected":[{"package":{"name":"@wxwxtest/testrrrdd","ecosystem":"npm","purl":"pkg:npm/%40wxwxtest/testrrrdd"},"versions":["2.0.1","2.0.0","0.0.1","3.0.0","0.1.0","1.0.0","1.0.1"]}]}

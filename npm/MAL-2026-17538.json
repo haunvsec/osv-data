@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17538","published":"2026-10-05T03:32:35Z","modified":"2026-10-05T04:15:04.289023124Z","summary":"Malicious code in @angulr/core (npm)","affected":[{"package":{"name":"@angulr/core","ecosystem":"npm","purl":"pkg:npm/%40angulr/core"},"versions":["22.2.1"]}]}

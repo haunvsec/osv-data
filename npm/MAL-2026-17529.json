@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17529","published":"2026-10-04T23:24:41Z","modified":"2026-10-04T23:45:23.859786863Z","summary":"Malicious code in ultimate-websocket (npm)","affected":[{"package":{"name":"ultimate-websocket","ecosystem":"npm","purl":"pkg:npm/ultimate-websocket"},"versions":["1.0.0"]}]}

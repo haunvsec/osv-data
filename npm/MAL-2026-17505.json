@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17505","published":"2026-10-04T23:28:59Z","modified":"2026-10-04T23:45:16.926115728Z","summary":"Malicious code in dotenv-promises (npm)","affected":[{"package":{"name":"dotenv-promises","ecosystem":"npm","purl":"pkg:npm/dotenv-promises"},"versions":["1.0.0"]}]}

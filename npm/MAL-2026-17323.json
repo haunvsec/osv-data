@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17323","published":"2026-09-30T04:15:59Z","modified":"2026-09-30T10:32:25.483094156Z","summary":"Malicious code in cortana-md-engine (npm)","affected":[{"package":{"name":"cortana-md-engine","ecosystem":"npm","purl":"pkg:npm/cortana-md-engine"},"versions":["1.4.6"]}]}

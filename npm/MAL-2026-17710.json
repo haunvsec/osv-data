@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17710","published":"2026-10-08T06:00:00Z","modified":"2026-10-08T22:45:06.805594426Z","summary":"Malicious code in pxnpm (npm)","affected":[{"package":{"name":"pxnpm","ecosystem":"npm","purl":"pkg:npm/pxnpm"},"versions":["7.0.0-beta.6","7.0.0-beta.8","7.0.0"]}]}

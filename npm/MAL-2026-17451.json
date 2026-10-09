@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17451","published":"2026-10-01T23:05:37Z","modified":"2026-10-02T05:30:06.352604573Z","summary":"Malicious code in wailib (npm)","affected":[{"package":{"name":"wailib","ecosystem":"npm","purl":"pkg:npm/wailib"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

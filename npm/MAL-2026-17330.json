@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17330","published":"2026-09-30T04:50:10Z","modified":"2026-10-07T23:30:04.705618979Z","aliases":["GHSA-hj6h-6xgx-mpjv"],"summary":"Malicious code in imgbundle (npm)","affected":[{"package":{"name":"imgbundle","ecosystem":"npm","purl":"pkg:npm/imgbundle"},"versions":["1.0.0","1.0.1","1.0.2"]}]}

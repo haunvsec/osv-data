@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17644","published":"2026-10-07T12:51:24Z","modified":"2026-10-08T23:00:09.487493643Z","aliases":["GHSA-2cfv-92gp-9f6m"],"summary":"Malicious code in random-certs (npm)","affected":[{"package":{"name":"random-certs","ecosystem":"npm","purl":"pkg:npm/random-certs"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

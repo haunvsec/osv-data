@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17504","published":"2026-10-04T23:29:08Z","modified":"2026-10-06T01:15:04.287205664Z","aliases":["GHSA-gp83-4g76-4qg5"],"summary":"Malicious code in dotenv-async (npm)","affected":[{"package":{"name":"dotenv-async","ecosystem":"npm","purl":"pkg:npm/dotenv-async"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

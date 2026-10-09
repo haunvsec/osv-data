@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17216","published":"2026-09-28T16:07:38Z","modified":"2026-09-28T22:30:05.555090548Z","aliases":["GHSA-pv7p-ghgv-268x"],"summary":"Malicious code in img-to-native (npm)","affected":[{"package":{"name":"img-to-native","ecosystem":"npm","purl":"pkg:npm/img-to-native"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

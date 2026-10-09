@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17547","published":"2026-10-05T03:37:15Z","modified":"2026-10-05T04:15:05.200124888Z","summary":"Malicious code in css-at-scope-polyfill (npm)","affected":[{"package":{"name":"css-at-scope-polyfill","ecosystem":"npm","purl":"pkg:npm/css-at-scope-polyfill"},"versions":["1.0.0"]}]}

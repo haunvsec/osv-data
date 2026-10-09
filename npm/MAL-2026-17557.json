@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17557","published":"2026-10-05T03:37:03Z","modified":"2026-10-05T04:15:05.704060384Z","summary":"Malicious code in css-svqggc-polyfill (npm)","affected":[{"package":{"name":"css-svqggc-polyfill","ecosystem":"npm","purl":"pkg:npm/css-svqggc-polyfill"},"versions":["1.0.0"]}]}

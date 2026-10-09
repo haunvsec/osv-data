@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17247","published":"2026-09-29T07:12:49Z","modified":"2026-10-05T23:00:07.398869303Z","summary":"Malicious code in exptredd (npm)","affected":[{"package":{"name":"exptredd","ecosystem":"npm","purl":"pkg:npm/exptredd"},"versions":["5.2.1","5.2.3","5.2.4"]}]}

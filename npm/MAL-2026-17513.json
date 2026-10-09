@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17513","published":"2026-10-04T23:27:32Z","modified":"2026-10-04T23:45:20.910180969Z","summary":"Malicious code in lite-matterr (npm)","affected":[{"package":{"name":"lite-matterr","ecosystem":"npm","purl":"pkg:npm/lite-matterr"},"versions":["1.0.0"]}]}

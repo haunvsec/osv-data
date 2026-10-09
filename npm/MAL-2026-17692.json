@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17692","published":"2026-10-08T16:25:06Z","modified":"2026-10-08T20:30:04.713644622Z","aliases":["GHSA-37h8-m54m-784j"],"summary":"Malicious code in clickfix_npm_delivery (npm)","affected":[{"package":{"name":"clickfix_npm_delivery","ecosystem":"npm","purl":"pkg:npm/clickfix_npm_delivery"},"versions":["1.0.2","1.0.0"]}]}

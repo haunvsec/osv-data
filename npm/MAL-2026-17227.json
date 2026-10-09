@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17227","published":"2026-09-28T18:07:36Z","modified":"2026-09-28T18:30:05.546871351Z","summary":"Malicious code in nebula-llm (npm)","affected":[{"package":{"name":"nebula-llm","ecosystem":"npm","purl":"pkg:npm/nebula-llm"},"versions":["1.0.0"]}]}

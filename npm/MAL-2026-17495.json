@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17495","published":"2026-10-04T23:17:56Z","modified":"2026-10-04T23:45:16.983475395Z","summary":"Malicious code in @angulra/cli (npm)","affected":[{"package":{"name":"@angulra/cli","ecosystem":"npm","purl":"pkg:npm/%40angulra/cli"},"versions":["22.2.1"]}]}

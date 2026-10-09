@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17484","published":"2026-10-04T23:14:22Z","modified":"2026-10-04T23:30:04.667719235Z","summary":"Malicious code in css-relative-color-util (npm)","affected":[{"package":{"name":"css-relative-color-util","ecosystem":"npm","purl":"pkg:npm/css-relative-color-util"},"versions":["1.0.0"]}]}

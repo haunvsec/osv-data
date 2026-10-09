@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17636","published":"2026-10-06T04:27:56Z","modified":"2026-10-06T05:00:04.172035855Z","summary":"Malicious code in hardhat-init (npm)","affected":[{"package":{"name":"hardhat-init","ecosystem":"npm","purl":"pkg:npm/hardhat-init"},"versions":["2.21.0"]}]}

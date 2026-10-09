@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17294","published":"2026-09-29T07:12:49Z","modified":"2026-10-02T05:01:13.325335178Z","summary":"Malicious code in react-nodejs (npm)","affected":[{"package":{"name":"react-nodejs","ecosystem":"npm","purl":"pkg:npm/react-nodejs"},"versions":["19.3.0"]}]}

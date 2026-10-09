@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17527","published":"2026-10-04T23:24:59Z","modified":"2026-10-04T23:45:21.714875002Z","summary":"Malicious code in tiny-focusgroup-helper (npm)","affected":[{"package":{"name":"tiny-focusgroup-helper","ecosystem":"npm","purl":"pkg:npm/tiny-focusgroup-helper"},"versions":["1.0.0"]}]}

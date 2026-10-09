@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17326","published":"2026-09-25T15:37:42Z","modified":"2026-09-30T10:32:21.686828086Z","summary":"Malicious code in @zeronexcode/baileys (npm)","affected":[{"package":{"name":"@zeronexcode/baileys","ecosystem":"npm","purl":"pkg:npm/%40zeronexcode/baileys"},"versions":["7.0.0-zeronex.8"]}]}

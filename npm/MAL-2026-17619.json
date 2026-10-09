@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17619","published":"2026-10-05T15:41:10Z","modified":"2026-10-05T16:46:14.797998411Z","aliases":["GHSA-36rj-4crv-cmgm"],"summary":"Malicious code in dzyclutch (npm)","affected":[{"package":{"name":"dzyclutch","ecosystem":"npm","purl":"pkg:npm/dzyclutch"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

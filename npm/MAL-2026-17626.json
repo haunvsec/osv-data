@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17626","published":"2026-10-05T17:31:00Z","modified":"2026-10-06T04:30:45.932110468Z","aliases":["GHSA-696v-rr55-26pc"],"summary":"Malicious code in serpacksven1 (npm)","affected":[{"package":{"name":"serpacksven1","ecosystem":"npm","purl":"pkg:npm/serpacksven1"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

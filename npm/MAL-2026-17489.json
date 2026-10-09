@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17489","published":"2026-10-03T05:14:21Z","modified":"2026-10-05T23:00:07.163801777Z","summary":"Malicious code in express-enhanced (npm)","affected":[{"package":{"name":"express-enhanced","ecosystem":"npm","purl":"pkg:npm/express-enhanced"},"versions":["5.2.2"]}]}

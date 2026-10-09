@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17482","published":"2026-10-04T23:14:12Z","modified":"2026-10-04T23:30:06.653664618Z","summary":"Malicious code in css-logical-prop-shim (npm)","affected":[{"package":{"name":"css-logical-prop-shim","ecosystem":"npm","purl":"pkg:npm/css-logical-prop-shim"},"versions":["1.0.0"]}]}

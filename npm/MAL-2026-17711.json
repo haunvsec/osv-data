@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17711","published":"2026-10-09T00:02:40Z","modified":"2026-10-09T01:00:14.171462891Z","summary":"Malicious code in wix-reg-poc-bypass (npm)","affected":[{"package":{"name":"wix-reg-poc-bypass","ecosystem":"npm","purl":"pkg:npm/wix-reg-poc-bypass"},"versions":["1.0.0"]}]}

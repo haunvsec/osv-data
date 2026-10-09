@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17470","published":"2026-10-03T14:42:59Z","modified":"2026-10-05T04:15:04.436233072Z","summary":"Malicious code in voxcpmruntime (PyPI)","affected":[{"package":{"name":"voxcpmruntime","ecosystem":"PyPI","purl":"pkg:pypi/voxcpmruntime"},"versions":["0.1.0"]}]}

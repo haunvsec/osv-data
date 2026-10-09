@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17393","published":"2026-09-30T09:57:36Z","modified":"2026-09-30T10:32:25.473593892Z","summary":"Malicious code in ishumdz-bail (npm)","affected":[{"package":{"name":"ishumdz-bail","ecosystem":"npm","purl":"pkg:npm/ishumdz-bail"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

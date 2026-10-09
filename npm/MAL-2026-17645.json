@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17645","published":"2026-10-07T12:51:24Z","modified":"2026-10-07T13:45:04.334673997Z","aliases":["GHSA-q8rg-7mvv-2c63"],"summary":"Malicious code in vectorizers (npm)","affected":[{"package":{"name":"vectorizers","ecosystem":"npm","purl":"pkg:npm/vectorizers"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

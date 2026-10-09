@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17404","published":"2026-10-04T23:22:25Z","modified":"2026-10-04T23:45:19.088853624Z","summary":"Malicious code in saturn-baileys (npm)","affected":[{"package":{"name":"saturn-baileys","ecosystem":"npm","purl":"pkg:npm/saturn-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

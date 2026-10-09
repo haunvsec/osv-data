@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17573","published":"2026-10-05T16:14:36Z","modified":"2026-10-05T16:31:38.282208005Z","summary":"Malicious code in css-eqxcdx-polyfill (npm)","affected":[{"package":{"name":"css-eqxcdx-polyfill","ecosystem":"npm","purl":"pkg:npm/css-eqxcdx-polyfill"},"versions":["1.0.0"]}]}

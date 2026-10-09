@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17647","published":"2026-10-07T20:49:08Z","modified":"2026-10-07T21:30:39.511682021Z","aliases":["GHSA-m6cg-6crx-mggv"],"summary":"Malicious code in function-color (npm)","affected":[{"package":{"name":"function-color","ecosystem":"npm","purl":"pkg:npm/function-color"},"versions":["1.0.0","1.7.3"]}]}

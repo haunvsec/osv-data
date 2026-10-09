@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17375","published":"2026-09-30T09:57:36Z","modified":"2026-09-30T10:32:25.406377054Z","summary":"Malicious code in @revizahoshii/baileys (npm)","affected":[{"package":{"name":"@revizahoshii/baileys","ecosystem":"npm","purl":"pkg:npm/%40revizahoshii/baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

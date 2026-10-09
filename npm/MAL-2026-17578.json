@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17578","published":"2026-10-05T16:14:05Z","modified":"2026-10-05T16:31:36.957538427Z","summary":"Malicious code in css-yhpodl-polyfill (npm)","affected":[{"package":{"name":"css-yhpodl-polyfill","ecosystem":"npm","purl":"pkg:npm/css-yhpodl-polyfill"},"versions":["1.0.0"]}]}

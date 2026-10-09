@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17381","published":"2026-09-30T09:57:36Z","modified":"2026-09-30T10:32:21.711023617Z","summary":"Malicious code in @wanzlonely/bails4u (npm)","affected":[{"package":{"name":"@wanzlonely/bails4u","ecosystem":"npm","purl":"pkg:npm/%40wanzlonely/bails4u"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

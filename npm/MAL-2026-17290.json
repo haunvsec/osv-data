@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17290","published":"2026-09-29T22:11:06Z","modified":"2026-09-29T22:31:17.339705871Z","summary":"Malicious code in @rutxploit-sec/waves-button-poc (npm)","affected":[{"package":{"name":"@rutxploit-sec/waves-button-poc","ecosystem":"npm","purl":"pkg:npm/%40rutxploit-sec/waves-button-poc"},"versions":["2.0.0","1.0.0","3.0.0"]}]}

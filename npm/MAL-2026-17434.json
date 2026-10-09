@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17434","published":"2026-09-30T07:11:22Z","modified":"2026-10-04T23:45:18.937448104Z","summary":"Malicious code in live-detection-dashboard (npm)","affected":[{"package":{"name":"live-detection-dashboard","ecosystem":"npm","purl":"pkg:npm/live-detection-dashboard"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

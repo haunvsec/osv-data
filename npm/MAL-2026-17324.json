@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17324","published":"2026-09-29T13:51:17Z","modified":"2026-10-01T06:00:04.457040041Z","summary":"Malicious code in dotenv-preflight (npm)","affected":[{"package":{"name":"dotenv-preflight","ecosystem":"npm","purl":"pkg:npm/dotenv-preflight"},"versions":["1.0.0"]}]}

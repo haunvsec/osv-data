@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17469","published":"2026-10-03T16:21:40Z","modified":"2026-10-04T23:45:21.374960027Z","summary":"Malicious code in infrabench (PyPI)","affected":[{"package":{"name":"infrabench","ecosystem":"PyPI","purl":"pkg:pypi/infrabench"},"versions":["0.1.0","0.1.1","0.2.0"]}]}

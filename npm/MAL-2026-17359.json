@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17359","published":"2026-09-30T09:57:36Z","modified":"2026-09-30T10:32:25.205937022Z","summary":"Malicious code in @japofc/baileys (npm)","affected":[{"package":{"name":"@japofc/baileys","ecosystem":"npm","purl":"pkg:npm/%40japofc/baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

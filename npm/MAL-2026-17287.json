@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17287","published":"2026-09-29T21:42:03Z","modified":"2026-09-30T10:32:25.200345858Z","summary":"Malicious code in @chatunity/baileys (npm)","affected":[{"package":{"name":"@chatunity/baileys","ecosystem":"npm","purl":"pkg:npm/%40chatunity/baileys"},"versions":["3.2.0","3.2.1"]}]}

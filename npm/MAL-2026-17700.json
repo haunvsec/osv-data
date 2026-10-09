@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17700","published":"2026-10-08T17:23:01Z","modified":"2026-10-08T18:00:04.454470393Z","summary":"Malicious code in dransay (npm)","affected":[{"package":{"name":"dransay","ecosystem":"npm","purl":"pkg:npm/dransay"},"versions":["99.0.0"]}]}

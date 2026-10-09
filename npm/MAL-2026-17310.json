@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17310","published":"2026-09-30T01:27:06Z","modified":"2026-10-06T20:30:04.766060785Z","summary":"Malicious code in tailwind-forms-kit (npm)","affected":[{"package":{"name":"tailwind-forms-kit","ecosystem":"npm","purl":"pkg:npm/tailwind-forms-kit"},"versions":["0.5.1","0.5.3"]}]}

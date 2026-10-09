@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17542","published":"2026-10-05T03:33:53Z","modified":"2026-10-05T21:30:04.600287447Z","aliases":["GHSA-cmm5-vwvx-cv5f"],"summary":"Malicious code in @inpeek/odata (npm)","affected":[{"package":{"name":"@inpeek/odata","ecosystem":"npm","purl":"pkg:npm/%40inpeek/odata"},"versions":["99.99.102","99.99.100","99.99.99","99.99.101"]}]}

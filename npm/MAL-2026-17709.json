@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17709","published":"2026-10-08T22:06:55Z","modified":"2026-10-08T22:45:06.793374878Z","aliases":["GHSA-gr77-3hqf-674h"],"summary":"Malicious code in revine (npm)","affected":[{"package":{"name":"revine","ecosystem":"npm","purl":"pkg:npm/revine"},"versions":["2.4.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17337","published":"2026-09-30T05:45:42Z","modified":"2026-09-30T07:00:08.257678712Z","aliases":["GHSA-jmrg-vr2j-j96x"],"summary":"Malicious code in link-age-great (npm)","affected":[{"package":{"name":"link-age-great","ecosystem":"npm","purl":"pkg:npm/link-age-great"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

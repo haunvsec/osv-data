@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17332","published":"2026-09-30T05:29:04Z","modified":"2026-09-30T06:00:05.213894444Z","summary":"Malicious code in runhelper (npm)","affected":[{"package":{"name":"runhelper","ecosystem":"npm","purl":"pkg:npm/runhelper"},"versions":["1.0.0"]}]}

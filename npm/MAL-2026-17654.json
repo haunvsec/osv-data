@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17654","published":"2026-10-08T03:40:58Z","modified":"2026-10-08T04:00:04.893469894Z","summary":"Malicious code in abbishal-poc2 (npm)","affected":[{"package":{"name":"abbishal-poc2","ecosystem":"npm","purl":"pkg:npm/abbishal-poc2"},"versions":["1.2.0"]}]}

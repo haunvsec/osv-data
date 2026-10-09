@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17540","published":"2026-10-05T03:32:14Z","modified":"2026-10-05T04:15:04.304117338Z","summary":"Malicious code in @anngular/core (npm)","affected":[{"package":{"name":"@anngular/core","ecosystem":"npm","purl":"pkg:npm/%40anngular/core"},"versions":["22.2.1"]}]}

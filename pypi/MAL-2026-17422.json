@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17422","published":"2026-10-01T21:00:49Z","modified":"2026-10-04T23:45:21.469872636Z","summary":"Malicious code in shortneer (PyPI)","affected":[{"package":{"name":"shortneer","ecosystem":"PyPI","purl":"pkg:pypi/shortneer"},"versions":["0.1.0"]}]}

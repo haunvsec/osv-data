@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17433","published":"2026-09-30T07:11:22Z","modified":"2026-10-04T23:45:20.179418234Z","summary":"Malicious code in figma-to-apl (npm)","affected":[{"package":{"name":"figma-to-apl","ecosystem":"npm","purl":"pkg:npm/figma-to-apl"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

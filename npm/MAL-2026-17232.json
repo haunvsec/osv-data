@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17232","published":"2026-09-28T22:04:12Z","modified":"2026-09-28T22:30:05.539050977Z","summary":"Malicious code in fabric-native-loader (npm)","affected":[{"package":{"name":"fabric-native-loader","ecosystem":"npm","purl":"pkg:npm/fabric-native-loader"},"versions":["1.0.0"]}]}

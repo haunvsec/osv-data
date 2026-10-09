@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17224","published":"2026-09-28T16:37:36Z","modified":"2026-10-01T06:00:04.453698563Z","summary":"Malicious code in fabric-asset-pipeline (npm)","affected":[{"package":{"name":"fabric-asset-pipeline","ecosystem":"npm","purl":"pkg:npm/fabric-asset-pipeline"},"versions":["1.0.1","1.0.0"]}]}

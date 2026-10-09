@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17291","published":"2026-09-29T22:11:59Z","modified":"2026-09-29T22:31:17.094604419Z","summary":"Malicious code in @rutxploit-sec/waves-icons (npm)","affected":[{"package":{"name":"@rutxploit-sec/waves-icons","ecosystem":"npm","purl":"pkg:npm/%40rutxploit-sec/waves-icons"},"versions":["1.0.0"]}]}

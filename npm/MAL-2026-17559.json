@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17559","published":"2026-10-05T03:34:40Z","modified":"2026-10-05T04:15:06.611595637Z","summary":"Malicious code in hardhat-kex (npm)","affected":[{"package":{"name":"hardhat-kex","ecosystem":"npm","purl":"pkg:npm/hardhat-kex"},"versions":["2.0.1"]}]}

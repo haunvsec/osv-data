@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17474","published":"2026-10-04T23:15:14Z","modified":"2026-10-04T23:30:05.643314303Z","summary":"Malicious code in core-js-gnz (npm)","affected":[{"package":{"name":"core-js-gnz","ecosystem":"npm","purl":"pkg:npm/core-js-gnz"},"versions":["1.0.0"]}]}

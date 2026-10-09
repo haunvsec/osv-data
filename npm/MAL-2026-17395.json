@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17395","published":"2026-09-30T09:57:36Z","modified":"2026-09-30T10:32:23.085692979Z","summary":"Malicious code in keithbaileys (npm)","affected":[{"package":{"name":"keithbaileys","ecosystem":"npm","purl":"pkg:npm/keithbaileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17518","published":"2026-10-04T23:26:45Z","modified":"2026-10-04T23:45:20.818383634Z","summary":"Malicious code in postcss-gap-fallback-util (npm)","affected":[{"package":{"name":"postcss-gap-fallback-util","ecosystem":"npm","purl":"pkg:npm/postcss-gap-fallback-util"},"versions":["1.0.0"]}]}

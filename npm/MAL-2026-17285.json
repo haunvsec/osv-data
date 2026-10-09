@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17285","published":"2026-09-29T21:11:58Z","modified":"2026-10-08T13:45:04.491685001Z","aliases":["GHSA-gxxr-g857-qmrh"],"summary":"Malicious code in @akapaki/baileys (npm)","affected":[{"package":{"name":"@akapaki/baileys","ecosystem":"npm","purl":"pkg:npm/%40akapaki/baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

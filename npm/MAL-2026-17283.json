@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17283","published":"2026-09-29T17:22:03Z","modified":"2026-09-30T01:00:04.969480692Z","aliases":["GHSA-668x-2p2f-6963"],"summary":"Malicious code in @xoxo-momo/kit (npm)","affected":[{"package":{"name":"@xoxo-momo/kit","ecosystem":"npm","purl":"pkg:npm/%40xoxo-momo/kit"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17501","published":"2026-10-04T23:28:48Z","modified":"2026-10-04T23:45:16.981364451Z","summary":"Malicious code in a11y-tabindex-manager (npm)","affected":[{"package":{"name":"a11y-tabindex-manager","ecosystem":"npm","purl":"pkg:npm/a11y-tabindex-manager"},"versions":["1.0.0"]}]}

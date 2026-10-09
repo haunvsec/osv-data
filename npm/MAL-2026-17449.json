@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17449","published":"2026-10-01T23:05:37Z","modified":"2026-10-02T05:30:07.352993275Z","summary":"Malicious code in prastzyy (npm)","affected":[{"package":{"name":"prastzyy","ecosystem":"npm","purl":"pkg:npm/prastzyy"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

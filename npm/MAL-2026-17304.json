@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17304","published":"2026-09-29T14:09:20Z","modified":"2026-10-01T06:00:04.467065870Z","summary":"Malicious code in dotenv-precheck (npm)","affected":[{"package":{"name":"dotenv-precheck","ecosystem":"npm","purl":"pkg:npm/dotenv-precheck"},"versions":["1.1.1","1.0.0","1.1.0"]}]}

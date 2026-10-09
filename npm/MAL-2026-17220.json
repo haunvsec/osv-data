@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17220","published":"2026-09-28T16:05:39Z","modified":"2026-09-28T18:30:05.551967661Z","aliases":["GHSA-2gr6-gxvx-3594"],"summary":"Malicious code in nebulajs-api (npm)","affected":[{"package":{"name":"nebulajs-api","ecosystem":"npm","purl":"pkg:npm/nebulajs-api"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

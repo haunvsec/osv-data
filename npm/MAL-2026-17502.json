@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17502","published":"2026-10-04T23:17:21Z","modified":"2026-10-04T23:45:19.914071095Z","summary":"Malicious code in botmaker-cli (npm)","affected":[{"package":{"name":"botmaker-cli","ecosystem":"npm","purl":"pkg:npm/botmaker-cli"},"versions":["0.1.19"]}]}

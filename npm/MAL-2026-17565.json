@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17565","published":"2026-10-05T03:37:54Z","modified":"2026-10-05T04:15:05.707936162Z","summary":"Malicious code in typesens (npm)","affected":[{"package":{"name":"typesens","ecosystem":"npm","purl":"pkg:npm/typesens"},"versions":["1.0.0"]}]}

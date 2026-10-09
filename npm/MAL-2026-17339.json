@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17339","published":"2026-09-30T09:30:37Z","modified":"2026-09-30T15:00:05.905682254Z","summary":"Malicious code in reactjs-risk (npm)","affected":[{"package":{"name":"reactjs-risk","ecosystem":"npm","purl":"pkg:npm/reactjs-risk"},"versions":["99.17.1","99.17.2","99.9.9","99.17.4","99.12.0","99.17.0"]}]}

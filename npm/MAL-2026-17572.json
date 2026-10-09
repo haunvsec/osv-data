@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17572","published":"2026-10-05T09:02:39Z","modified":"2026-10-07T06:30:05.443363358Z","summary":"Malicious code in checkmate-remediation-assistant (npm)","affected":[{"package":{"name":"checkmate-remediation-assistant","ecosystem":"npm","purl":"pkg:npm/checkmate-remediation-assistant"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17706","published":"2026-10-08T21:22:08Z","modified":"2026-10-08T21:45:54.252488544Z","summary":"Malicious code in testrrrd (npm)","affected":[{"package":{"name":"testrrrd","ecosystem":"npm","purl":"pkg:npm/testrrrd"},"versions":["1.0.0","0.0.1","3.0.0","99.0.1","2.0.1","1.1.0","2.0.0"]}]}

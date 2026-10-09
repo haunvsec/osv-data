@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17392","published":"2026-09-30T09:57:36Z","modified":"2026-09-30T10:32:25.477318098Z","summary":"Malicious code in focashi (npm)","affected":[{"package":{"name":"focashi","ecosystem":"npm","purl":"pkg:npm/focashi"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

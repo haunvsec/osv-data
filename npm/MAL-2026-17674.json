@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17674","published":"2026-10-08T13:31:42Z","modified":"2026-10-08T13:45:05.264791580Z","aliases":["GHSA-m45c-2rh6-33g6"],"summary":"Malicious code in brat-generator (npm)","affected":[{"package":{"name":"brat-generator","ecosystem":"npm","purl":"pkg:npm/brat-generator"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

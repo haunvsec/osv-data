@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17225","published":"2026-09-28T18:02:39Z","modified":"2026-09-28T18:30:05.543130018Z","summary":"Malicious code in fabric-render-bridge (npm)","affected":[{"package":{"name":"fabric-render-bridge","ecosystem":"npm","purl":"pkg:npm/fabric-render-bridge"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17228","published":"2026-09-28T18:08:06Z","modified":"2026-09-28T18:30:06.677570045Z","summary":"Malicious code in nebulaai-sdk (npm)","affected":[{"package":{"name":"nebulaai-sdk","ecosystem":"npm","purl":"pkg:npm/nebulaai-sdk"},"versions":["1.0.0"]}]}

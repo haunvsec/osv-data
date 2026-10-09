@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17281","published":"2026-09-29T16:30:19Z","modified":"2026-09-29T17:30:16.521821523Z","aliases":["GHSA-5958-mpfq-wfrj"],"summary":"Malicious code in @hrmony/valuenet (npm)","affected":[{"package":{"name":"@hrmony/valuenet","ecosystem":"npm","purl":"pkg:npm/%40hrmony/valuenet"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

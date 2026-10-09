@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17638","published":"2026-10-06T19:51:06Z","modified":"2026-10-08T22:45:06.809383399Z","summary":"Malicious code in css-jptvix-polyfill (npm)","affected":[{"package":{"name":"css-jptvix-polyfill","ecosystem":"npm","purl":"pkg:npm/css-jptvix-polyfill"},"versions":["1.0.0"]}]}

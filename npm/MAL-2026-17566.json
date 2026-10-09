@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17566","published":"2026-10-05T03:38:21Z","modified":"2026-10-05T04:15:06.116426303Z","summary":"Malicious code in unified-platform (npm)","affected":[{"package":{"name":"unified-platform","ecosystem":"npm","purl":"pkg:npm/unified-platform"},"versions":["99.9.1"]}]}

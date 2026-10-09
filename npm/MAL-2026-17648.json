@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17648","published":"2026-10-07T20:48:28Z","modified":"2026-10-08T10:45:09.061953778Z","aliases":["GHSA-ggcg-4pv7-wf9m"],"summary":"Malicious code in function-flag (npm)","affected":[{"package":{"name":"function-flag","ecosystem":"npm","purl":"pkg:npm/function-flag"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17383","published":"2026-10-04T23:23:32Z","modified":"2026-10-04T23:45:19.471422280Z","summary":"Malicious code in @xatancchii/velycxbail (npm)","affected":[{"package":{"name":"@xatancchii/velycxbail","ecosystem":"npm","purl":"pkg:npm/%40xatancchii/velycxbail"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

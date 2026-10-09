@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17293","published":"2026-09-29T22:12:19Z","modified":"2026-09-29T22:31:17.396160301Z","summary":"Malicious code in @selfpentest/eslint-pentest-plugin (npm)","affected":[{"package":{"name":"@selfpentest/eslint-pentest-plugin","ecosystem":"npm","purl":"pkg:npm/%40selfpentest/eslint-pentest-plugin"},"versions":["1.0.0"]}]}

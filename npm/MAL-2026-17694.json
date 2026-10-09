@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17694","published":"2026-10-08T16:53:48Z","modified":"2026-10-08T17:25:14.284046746Z","summary":"Malicious code in @bitwardne/jslib (npm)","affected":[{"package":{"name":"@bitwardne/jslib","ecosystem":"npm","purl":"pkg:npm/%40bitwardne/jslib"},"versions":["1.1.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17696","published":"2026-10-08T16:54:29Z","modified":"2026-10-08T17:25:24.516279838Z","summary":"Malicious code in @dransay/feature-flags (npm)","affected":[{"package":{"name":"@dransay/feature-flags","ecosystem":"npm","purl":"pkg:npm/%40dransay/feature-flags"},"versions":["99.0.0"]}]}

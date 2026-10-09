@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17506","published":"2026-10-04T23:28:14Z","modified":"2026-10-04T23:45:20.824862061Z","summary":"Malicious code in hardhat-ftp (npm)","affected":[{"package":{"name":"hardhat-ftp","ecosystem":"npm","purl":"pkg:npm/hardhat-ftp"},"versions":["2.0.1"]}]}

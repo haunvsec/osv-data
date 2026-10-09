@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17411","published":"2026-09-30T09:57:36Z","modified":"2026-09-30T10:32:25.409180594Z","summary":"Malicious code in xzvbails (npm)","affected":[{"package":{"name":"xzvbails","ecosystem":"npm","purl":"pkg:npm/xzvbails"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

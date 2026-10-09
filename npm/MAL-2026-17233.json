@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17233","published":"2026-09-28T22:06:53Z","modified":"2026-09-28T22:30:06.491454670Z","summary":"Malicious code in hardhat-lock (npm)","affected":[{"package":{"name":"hardhat-lock","ecosystem":"npm","purl":"pkg:npm/hardhat-lock"},"versions":["2.21.0"]}]}
