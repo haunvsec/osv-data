@@ -1,6 +1,6 @@
 {
   "last_crawl_time": "2026-10-09T03:11:34Z",
-  "last_attempt_time": "2026-10-09T03:11:34Z",
+  "last_attempt_time": "2026-10-13T11:05:15Z",
   "source": "osv-vulnerabilities-gcs",
   "source_url": "https://storage.googleapis.com/osv-vulnerabilities",
   "method": "incremental",
@@ -19,44 +19,48 @@
   "total_vulnerabilities": 287272,
   "ecosystem_state": {
     "maven": {
-      "last_attempt_time": "2026-10-09T02:24:08Z",
+      "last_attempt_time": "2026-10-13T11:05:14Z",
       "last_method": "incremental",
-      "last_downloaded": 58,
+      "last_downloaded": 0,
       "last_skipped": 0,
       "last_indexed": 0,
       "last_successful_crawl_time": "2026-10-09T02:24:08Z",
-      "last_modified_time": "2026-10-08T22:30:41.153421838Z"
+      "last_modified_time": "2026-10-08T22:30:41.153421838Z",
+      "last_error": "HTTPSConnectionPool(host='storage.googleapis.com', port=443): Max retries exceeded with url: /osv-vulnerabilities/Maven/modified_id.csv (Caused by NameResolutionError(\"HTTPSConnection(host='storage.googleapis.com', port=443): Failed to resolve 'storage.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
     },
     "npm": {
-      "last_attempt_time": "2026-10-09T02:25:37Z",
+      "last_attempt_time": "2026-10-13T11:05:15Z",
       "last_method": "incremental",
-      "last_downloaded": 915,
+      "last_downloaded": 0,
       "last_skipped": 0,
       "last_indexed": 0,
       "last_successful_crawl_time": "2026-10-09T02:25:37Z",
-      "last_modified_time": "2026-10-09T01:00:14.171462891Z"
+      "last_modified_time": "2026-10-09T01:00:14.171462891Z",
+      "last_error": "HTTPSConnectionPool(host='storage.googleapis.com', port=443): Max retries exceeded with url: /osv-vulnerabilities/npm/modified_id.csv (Caused by NameResolutionError(\"HTTPSConnection(host='storage.googleapis.com', port=443): Failed to resolve 'storage.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
     },
     "pypi": {
-      "last_attempt_time": "2026-10-09T02:26:29Z",
+      "last_attempt_time": "2026-10-13T11:05:15Z",
       "last_method": "incremental",
-      "last_downloaded": 626,
+      "last_downloaded": 0,
       "last_skipped": 0,
       "last_indexed": 0,
       "last_successful_crawl_time": "2026-10-09T02:26:29Z",
-      "last_modified_time": "2026-10-09T01:00:09.234432755Z"
+      "last_modified_time": "2026-10-09T01:00:09.234432755Z",
+      "last_error": "HTTPSConnectionPool(host='storage.googleapis.com', port=443): Max retries exceeded with url: /osv-vulnerabilities/PyPI/modified_id.csv (Caused by NameResolutionError(\"HTTPSConnection(host='storage.googleapis.com', port=443): Failed to resolve 'storage.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
     },
     "redhat": {
-      "last_attempt_time": "2026-10-09T03:11:34Z",
+      "last_attempt_time": "2026-10-13T11:05:15Z",
       "last_method": "incremental",
-      "last_downloaded": 4604,
+      "last_downloaded": 0,
       "last_skipped": 0,
       "last_indexed": 0,
       "last_successful_crawl_time": "2026-10-09T03:11:34Z",
-      "last_modified_time": "2026-10-08T10:42:30.33938859Z"
+      "last_modified_time": "2026-10-08T10:42:30.33938859Z",
+      "last_error": "HTTPSConnectionPool(host='storage.googleapis.com', port=443): Max retries exceeded with url: /osv-vulnerabilities/Red%20Hat/modified_id.csv (Caused by NameResolutionError(\"HTTPSConnection(host='storage.googleapis.com', port=443): Failed to resolve 'storage.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
     }
   },
   "last_run": {
-    "started_at": "2026-10-09T02:26:30Z",
+    "started_at": "2026-10-13T11:05:15Z",
     "output_dir": "/Volumes/DATA/security_advisory/osv-data",
     "method": "incremental",
     "ecosystems": [
@@ -66,22 +70,28 @@
       {
         "ecosystem": "redhat",
         "method": "incremental",
-        "downloaded": 4604,
+        "downloaded": 0,
         "skipped": 0,
         "indexed": 0,
         "existing": 0,
-        "latest_modified_time": "2026-10-08T10:42:30.33938859Z",
-        "success": true
+        "latest_modified_time": null,
+        "success": false,
+        "error": "HTTPSConnectionPool(host='storage.googleapis.com', port=443): Max retries exceeded with url: /osv-vulnerabilities/Red%20Hat/modified_id.csv (Caused by NameResolutionError(\"HTTPSConnection(host='storage.googleapis.com', port=443): Failed to resolve 'storage.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
       }
     ],
-    "vulns_downloaded": 4604,
-    "vulns_skipped": 0,
-    "errors": [],
+    "vulns_downloaded": 0,
+    "vulns_skipped": 1,
+    "errors": [
+      {
+        "ecosystem": "redhat",
+        "error": "HTTPSConnectionPool(host='storage.googleapis.com', port=443): Max retries exceeded with url: /osv-vulnerabilities/Red%20Hat/modified_id.csv (Caused by NameResolutionError(\"HTTPSConnection(host='storage.googleapis.com', port=443): Failed to resolve 'storage.googleapis.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      }
+    ],
     "dry_run": false,
     "limit": null,
     "sync_missing": false,
     "missing_only": false,
-    "finished_at": "2026-10-09T03:11:34Z",
-    "duration_seconds": 2704.48
+    "finished_at": "2026-10-13T11:05:15Z",
+    "duration_seconds": 0.01
   }
 }
