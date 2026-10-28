@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18075","published":"2026-10-19T00:00:00Z","modified":"2026-10-20T06:15:06.421657300Z","summary":"Malicious code in signalledger-bridge (npm)","affected":[{"package":{"name":"signalledger-bridge","ecosystem":"npm","purl":"pkg:npm/signalledger-bridge"},"versions":["2.0.6"]}]}

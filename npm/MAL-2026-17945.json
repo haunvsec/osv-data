@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17945","published":"2026-10-19T15:36:06Z","modified":"2026-10-19T16:45:15.053102996Z","aliases":["GHSA-7w9w-mcrx-mq63"],"summary":"Malicious code in 3gr2dj (npm)","affected":[{"package":{"name":"3gr2dj","ecosystem":"npm","purl":"pkg:npm/3gr2dj"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

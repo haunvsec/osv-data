@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18185","published":"2026-10-22T06:11:42Z","modified":"2026-10-22T06:45:04.771060861Z","summary":"Malicious code in log-rotate-testmetest (npm)","affected":[{"package":{"name":"log-rotate-testmetest","ecosystem":"npm","purl":"pkg:npm/log-rotate-testmetest"},"versions":["1.0.1"]}]}

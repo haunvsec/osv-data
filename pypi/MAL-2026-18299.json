@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18299","published":"2026-10-25T23:43:00Z","modified":"2026-10-26T06:45:15.072389104Z","summary":"Malicious code in claudeopuseni (PyPI)","affected":[{"package":{"name":"claudeopuseni","ecosystem":"PyPI","purl":"pkg:pypi/claudeopuseni"},"versions":["0.1.0","0.1.1"]}]}

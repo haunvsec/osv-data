@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17861","published":"2026-10-13T18:40:17Z","modified":"2026-10-13T19:00:05.324396981Z","summary":"Malicious code in sysdiagd (PyPI)","affected":[{"package":{"name":"sysdiagd","ecosystem":"PyPI","purl":"pkg:pypi/sysdiagd"},"versions":["1.2.1","1.2.2","1.2.3"]}]}

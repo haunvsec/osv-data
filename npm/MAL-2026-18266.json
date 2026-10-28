@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18266","published":"2026-10-25T09:35:18Z","modified":"2026-10-25T10:30:12.806596639Z","aliases":["GHSA-8gg8-xq45-8fx5"],"summary":"Malicious code in redis-dumper (npm)","affected":[{"package":{"name":"redis-dumper","ecosystem":"npm","purl":"pkg:npm/redis-dumper"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

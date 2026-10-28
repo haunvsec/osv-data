@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18292","published":"2026-10-25T16:02:07Z","modified":"2026-10-25T16:30:04.531789852Z","summary":"Malicious code in event-bus-lite-testmetest (npm)","affected":[{"package":{"name":"event-bus-lite-testmetest","ecosystem":"npm","purl":"pkg:npm/event-bus-lite-testmetest"},"versions":["0.0.6"]}]}

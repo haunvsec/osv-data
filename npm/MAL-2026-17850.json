@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17850","published":"2026-10-13T12:15:46Z","modified":"2026-10-13T12:45:05.016376944Z","aliases":["GHSA-c2gc-jwcq-w8r3"],"summary":"Malicious code in @chatest/baileys (npm)","affected":[{"package":{"name":"@chatest/baileys","ecosystem":"npm","purl":"pkg:npm/%40chatest/baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

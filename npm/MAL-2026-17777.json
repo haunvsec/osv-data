@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17777","published":"2026-10-11T13:58:11Z","modified":"2026-10-11T14:30:09.173125481Z","summary":"Malicious code in react-paginate-v5 (npm)","affected":[{"package":{"name":"react-paginate-v5","ecosystem":"npm","purl":"pkg:npm/react-paginate-v5"},"versions":["99.0.0"]}]}

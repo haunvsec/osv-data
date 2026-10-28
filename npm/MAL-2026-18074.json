@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18074","published":"2026-10-19T00:00:00Z","modified":"2026-10-20T06:15:04.931080681Z","summary":"Malicious code in animatecss-tailwind-vectrix (npm)","affected":[{"package":{"name":"animatecss-tailwind-vectrix","ecosystem":"npm","purl":"pkg:npm/animatecss-tailwind-vectrix"},"versions":["2.0.6","2.0.7"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18279","published":"2026-10-25T15:06:38Z","modified":"2026-10-25T15:30:05.560978623Z","summary":"Malicious code in @fmr-ap153177/apex-kit-icons (npm)","affected":[{"package":{"name":"@fmr-ap153177/apex-kit-icons","ecosystem":"npm","purl":"pkg:npm/%40fmr-ap153177/apex-kit-icons"},"versions":["99.9.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17767","published":"2026-10-11T13:54:57Z","modified":"2026-10-11T14:30:07.619716672Z","summary":"Malicious code in another-very-long-name (npm)","affected":[{"package":{"name":"another-very-long-name","ecosystem":"npm","purl":"pkg:npm/another-very-long-name"},"versions":["2.0.0","1.0.1","2.0.1","1.1.0"]}]}

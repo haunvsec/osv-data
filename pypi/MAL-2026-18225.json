@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18225","published":"2026-10-23T15:52:53Z","modified":"2026-10-23T16:30:18.791951489Z","summary":"Malicious code in cobbleload (PyPI)","affected":[{"package":{"name":"cobbleload","ecosystem":"PyPI","purl":"pkg:pypi/cobbleload"},"versions":["0.1.0"]}]}

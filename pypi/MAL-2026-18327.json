@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18327","published":"2026-10-26T08:33:45Z","modified":"2026-10-26T09:00:03.781244912Z","summary":"Malicious code in zagents-framework (PyPI)","affected":[{"package":{"name":"zagents-framework","ecosystem":"PyPI","purl":"pkg:pypi/zagents-framework"},"versions":["6.25.30.10b5","99.25.30.10b5"]}]}

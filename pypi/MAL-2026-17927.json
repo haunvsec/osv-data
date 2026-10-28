@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17927","published":"2026-10-19T02:26:31Z","modified":"2026-10-20T19:00:04.325366760Z","summary":"Malicious code in fabtoolkit (PyPI)","affected":[{"package":{"name":"fabtoolkit","ecosystem":"PyPI","purl":"pkg:pypi/fabtoolkit"},"versions":["0.1.2","0.1.1","0.1.0","0.2.1"]}]}

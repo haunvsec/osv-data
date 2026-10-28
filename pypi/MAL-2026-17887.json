@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17887","published":"2026-10-15T11:35:20Z","modified":"2026-10-15T12:30:02.938535154Z","summary":"Malicious code in proxy-rubikis (PyPI)","affected":[{"package":{"name":"proxy-rubikis","ecosystem":"PyPI","purl":"pkg:pypi/proxy-rubikis"},"versions":["0.1.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18139","published":"2026-10-21T23:09:26Z","modified":"2026-10-22T01:30:06.350681107Z","summary":"Malicious code in dictanovaasr (PyPI)","affected":[{"package":{"name":"dictanovaasr","ecosystem":"PyPI","purl":"pkg:pypi/dictanovaasr"},"versions":["0.1.0"]}]}

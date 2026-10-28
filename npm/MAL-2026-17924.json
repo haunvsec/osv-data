@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17924","published":"2026-10-26T05:25:19Z","modified":"2026-10-26T06:00:04.219034929Z","summary":"Malicious code in @apexacc/cli (npm)","affected":[{"package":{"name":"@apexacc/cli","ecosystem":"npm","purl":"pkg:npm/%40apexacc/cli"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

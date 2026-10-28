@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18106","published":"2026-10-20T18:45:24Z","modified":"2026-10-20T19:00:04.365056380Z","summary":"Malicious code in memories-core-web (npm)","affected":[{"package":{"name":"memories-core-web","ecosystem":"npm","purl":"pkg:npm/memories-core-web"},"versions":["99.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18218","published":"2026-10-23T08:21:14Z","modified":"2026-10-26T06:45:16.063566696Z","summary":"Malicious code in qowa (PyPI)","affected":[{"package":{"name":"qowa","ecosystem":"PyPI","purl":"pkg:pypi/qowa"},"versions":["0.1.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17880","published":"2026-10-14T08:01:32Z","modified":"2026-10-15T04:15:03.241944741Z","summary":"Malicious code in seapy-ops (PyPI)","affected":[{"package":{"name":"seapy-ops","ecosystem":"PyPI","purl":"pkg:pypi/seapy-ops"},"versions":["1.0.0","1.0.1","1.0.2","1.1.0","1.1.1","1.1.2","1.2.1","1.2.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17741","published":"2026-10-09T14:55:31Z","modified":"2026-10-09T15:32:59.860609217Z","aliases":["GHSA-hcwg-cqc9-469q"],"summary":"Malicious code in pahinuy (npm)","affected":[{"package":{"name":"pahinuy","ecosystem":"npm","purl":"pkg:npm/pahinuy"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

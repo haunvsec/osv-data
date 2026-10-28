@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18177","published":"2026-10-21T16:00:00Z","modified":"2026-10-22T06:45:04.783423444Z","summary":"Malicious code in data-pipeline-testmetest (npm)","affected":[{"package":{"name":"data-pipeline-testmetest","ecosystem":"npm","purl":"pkg:npm/data-pipeline-testmetest"},"versions":["2.0.1"]}]}

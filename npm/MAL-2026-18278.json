@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18278","published":"2026-10-25T15:05:42Z","modified":"2026-10-25T15:30:05.561272205Z","summary":"Malicious code in @factoryz/apollo (npm)","affected":[{"package":{"name":"@factoryz/apollo","ecosystem":"npm","purl":"pkg:npm/%40factoryz/apollo"},"versions":["99.9.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18258","published":"2026-10-25T09:35:19Z","modified":"2026-10-25T10:30:13.873153152Z","aliases":["GHSA-v2r2-x76j-6fcx"],"summary":"Malicious code in insta-reel-search (npm)","affected":[{"package":{"name":"insta-reel-search","ecosystem":"npm","purl":"pkg:npm/insta-reel-search"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

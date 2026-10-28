@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18077","published":"2026-10-19T00:00:00Z","modified":"2026-10-20T06:15:06.421335076Z","summary":"Malicious code in tailwind-animaflow-kit (npm)","affected":[{"package":{"name":"tailwind-animaflow-kit","ecosystem":"npm","purl":"pkg:npm/tailwind-animaflow-kit"},"versions":["2.0.6"]}]}

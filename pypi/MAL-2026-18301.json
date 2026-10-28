@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18301","published":"2026-10-26T00:00:52Z","modified":"2026-10-26T03:45:03.385558438Z","summary":"Malicious code in dictmerge-lite (PyPI)","affected":[{"package":{"name":"dictmerge-lite","ecosystem":"PyPI","purl":"pkg:pypi/dictmerge-lite"},"versions":["1.0.0"]}]}

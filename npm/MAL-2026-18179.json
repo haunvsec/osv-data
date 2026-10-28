@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18179","published":"2026-10-21T17:30:00Z","modified":"2026-10-22T06:45:04.772939537Z","summary":"Malicious code in log-sink-testmetest (npm)","affected":[{"package":{"name":"log-sink-testmetest","ecosystem":"npm","purl":"pkg:npm/log-sink-testmetest"},"versions":["1.0.1"]}]}

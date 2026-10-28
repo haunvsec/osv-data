@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18136","published":"2026-10-21T23:04:14Z","modified":"2026-10-22T01:30:03.570503061Z","summary":"Malicious code in brummatts (PyPI)","affected":[{"package":{"name":"brummatts","ecosystem":"PyPI","purl":"pkg:pypi/brummatts"},"versions":["0.1.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18320","published":"2026-10-26T00:55:57Z","modified":"2026-10-26T06:45:15.025492286Z","summary":"Malicious code in @walknpm/todo-cli (npm)","affected":[{"package":{"name":"@walknpm/todo-cli","ecosystem":"npm","purl":"pkg:npm/%40walknpm/todo-cli"},"versions":["2.0.1"]}]}

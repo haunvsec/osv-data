@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18045","published":"2026-10-19T21:22:38Z","modified":"2026-10-20T18:30:11.145410844Z","summary":"Malicious code in asurion (PyPI)","affected":[{"package":{"name":"asurion","ecosystem":"PyPI","purl":"pkg:pypi/asurion"},"versions":["99.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18147","published":"2026-10-21T23:05:54Z","modified":"2026-10-22T01:30:06.328285266Z","summary":"Malicious code in solivoxtts (PyPI)","affected":[{"package":{"name":"solivoxtts","ecosystem":"PyPI","purl":"pkg:pypi/solivoxtts"},"versions":["0.1.0"]}]}

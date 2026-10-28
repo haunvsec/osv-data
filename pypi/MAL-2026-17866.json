@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17866","published":"2026-10-16T15:57:23Z","modified":"2026-10-20T19:00:04.334029277Z","summary":"Malicious code in pyyi (PyPI)","affected":[{"package":{"name":"pyyi","ecosystem":"PyPI","purl":"pkg:pypi/pyyi"},"versions":["2.4.1","2.4.2","2.4","2.5.5","2.5.2","2.5.0","2.5.1","2.5.4","2.5.3"]}]}

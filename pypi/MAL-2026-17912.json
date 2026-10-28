@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17912","published":"2026-10-17T17:05:38Z","modified":"2026-10-17T17:45:03.244223950Z","summary":"Malicious code in driftwavets (PyPI)","affected":[{"package":{"name":"driftwavets","ecosystem":"PyPI","purl":"pkg:pypi/driftwavets"},"versions":["0.1.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18298","published":"2026-10-25T23:35:59Z","modified":"2026-10-26T06:45:15.843384220Z","summary":"Malicious code in claudeopusfile (PyPI)","affected":[{"package":{"name":"claudeopusfile","ecosystem":"PyPI","purl":"pkg:pypi/claudeopusfile"},"versions":["0.1.1","0.1.2"]}]}

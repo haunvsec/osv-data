@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18264","published":"2026-10-25T09:35:18Z","modified":"2026-10-25T10:30:13.873438552Z","aliases":["GHSA-9v69-fx5h-r6p6"],"summary":"Malicious code in ocsp-hashes (npm)","affected":[{"package":{"name":"ocsp-hashes","ecosystem":"npm","purl":"pkg:npm/ocsp-hashes"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

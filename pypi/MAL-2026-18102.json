@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18102","published":"2026-10-20T18:20:32Z","modified":"2026-10-22T23:45:03.963778319Z","summary":"Malicious code in semveer (PyPI)","affected":[{"package":{"name":"semveer","ecosystem":"PyPI","purl":"pkg:pypi/semveer"},"versions":["1.0.0"]}]}

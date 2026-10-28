@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17756","published":"2026-10-10T11:11:35Z","modified":"2026-10-20T14:30:03.724041547Z","summary":"Malicious code in pafer (PyPI)","affected":[{"package":{"name":"pafer","ecosystem":"PyPI","purl":"pkg:pypi/pafer"},"versions":["0.9.7","0.9.8"]}]}

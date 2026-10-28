@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17879","published":"2026-10-13T20:15:56Z","modified":"2026-10-16T07:15:08.295017234Z","summary":"Malicious code in @flexmr/ui (npm)","affected":[{"package":{"name":"@flexmr/ui","ecosystem":"npm","purl":"pkg:npm/%40flexmr/ui"},"versions":["99.99.99"]}]}

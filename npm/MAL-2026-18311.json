@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18311","published":"2026-10-26T01:36:46Z","modified":"2026-10-26T01:45:23.149596221Z","aliases":["GHSA-w53j-w72q-2f32"],"summary":"Malicious code in bow-test (npm)","affected":[{"package":{"name":"bow-test","ecosystem":"npm","purl":"pkg:npm/bow-test"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18151","published":"2026-10-21T23:05:10Z","modified":"2026-10-22T01:30:06.937597471Z","summary":"Malicious code in zennittts (PyPI)","affected":[{"package":{"name":"zennittts","ecosystem":"PyPI","purl":"pkg:pypi/zennittts"},"versions":["0.1.0"]}]}

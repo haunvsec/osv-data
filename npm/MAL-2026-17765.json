@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17765","published":"2026-10-11T13:58:31Z","modified":"2026-10-13T23:45:04.806501915Z","aliases":["GHSA-798w-mj69-gc2x"],"summary":"Malicious code in @s4yhiitestpoc/r3-https (npm)","affected":[{"package":{"name":"@s4yhiitestpoc/r3-https","ecosystem":"npm","purl":"pkg:npm/%40s4yhiitestpoc/r3-https"},"versions":["1.0.0","0.0.0-stage"]}]}

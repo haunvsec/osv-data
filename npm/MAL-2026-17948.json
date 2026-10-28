@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17948","published":"2026-10-19T15:36:06Z","modified":"2026-10-19T16:45:15.244107019Z","aliases":["GHSA-37g4-578m-87mr"],"summary":"Malicious code in 4p9kgm (npm)","affected":[{"package":{"name":"4p9kgm","ecosystem":"npm","purl":"pkg:npm/4p9kgm"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

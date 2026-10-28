@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17753","published":"2026-10-10T08:02:44Z","modified":"2026-10-15T09:30:03.447639369Z","summary":"Malicious code in media-manager5 (PyPI)","affected":[{"package":{"name":"media-manager5","ecosystem":"PyPI","purl":"pkg:pypi/media-manager5"},"versions":["0.1.0"]}]}

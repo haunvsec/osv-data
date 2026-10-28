@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17742","published":"2026-10-09T14:55:31Z","modified":"2026-10-09T15:32:59.871183583Z","aliases":["GHSA-f3vq-wx4x-jv6w"],"summary":"Malicious code in razamodsxasepxyz (npm)","affected":[{"package":{"name":"razamodsxasepxyz","ecosystem":"npm","purl":"pkg:npm/razamodsxasepxyz"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

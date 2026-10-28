@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18130","published":"2026-10-21T22:21:01Z","modified":"2026-10-22T16:45:28.143619562Z","aliases":["GHSA-5ff7-5w72-hm63"],"summary":"Malicious code in @sudobility/wildduck_client (npm)","affected":[{"package":{"name":"@sudobility/wildduck_client","ecosystem":"npm","purl":"pkg:npm/%40sudobility/wildduck_client"},"versions":["2.3.102"]}]}

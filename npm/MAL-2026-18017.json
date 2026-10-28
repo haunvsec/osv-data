@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18017","published":"2026-10-19T15:36:06Z","modified":"2026-10-19T16:45:21.041698971Z","aliases":["GHSA-mjcg-fv8p-3m86"],"summary":"Malicious code in ivzlid (npm)","affected":[{"package":{"name":"ivzlid","ecosystem":"npm","purl":"pkg:npm/ivzlid"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

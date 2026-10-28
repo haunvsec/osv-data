@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18157","published":"2026-10-22T00:55:11Z","modified":"2026-10-22T01:30:05.570868235Z","summary":"Malicious code in asrloom (PyPI)","affected":[{"package":{"name":"asrloom","ecosystem":"PyPI","purl":"pkg:pypi/asrloom"},"versions":["0.1.0"]}]}

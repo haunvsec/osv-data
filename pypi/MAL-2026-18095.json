@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18095","published":"2026-10-20T13:16:36Z","modified":"2026-10-20T14:30:03.659288229Z","summary":"Malicious code in resion (PyPI)","affected":[{"package":{"name":"resion","ecosystem":"PyPI","purl":"pkg:pypi/resion"},"versions":["22.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17914","published":"2026-10-17T17:04:38Z","modified":"2026-10-17T17:45:03.283635023Z","summary":"Malicious code in glassbeakasr (PyPI)","affected":[{"package":{"name":"glassbeakasr","ecosystem":"PyPI","purl":"pkg:pypi/glassbeakasr"},"versions":["0.1.0"]}]}

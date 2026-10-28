@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17712","published":"2026-10-09T02:53:23Z","modified":"2026-10-12T05:00:07.234523916Z","summary":"Malicious code in ig-gox (PyPI)","affected":[{"package":{"name":"ig-gox","ecosystem":"PyPI","purl":"pkg:pypi/ig-gox"},"versions":["1.0.0"]}]}

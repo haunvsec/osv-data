@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18297","published":"2026-10-25T20:15:01Z","modified":"2026-10-26T06:45:16.083182784Z","summary":"Malicious code in nebulallm (PyPI)","affected":[{"package":{"name":"nebulallm","ecosystem":"PyPI","purl":"pkg:pypi/nebulallm"},"versions":["1.4.3"]}]}

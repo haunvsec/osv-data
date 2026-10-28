@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18152","published":"2026-10-22T00:20:52Z","modified":"2026-10-22T01:30:05.380545057Z","summary":"Malicious code in acousticpack (PyPI)","affected":[{"package":{"name":"acousticpack","ecosystem":"PyPI","purl":"pkg:pypi/acousticpack"},"versions":["0.1.0"]}]}

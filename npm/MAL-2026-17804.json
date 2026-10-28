@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17804","published":"2026-10-08T06:00:00Z","modified":"2026-10-12T04:45:05.841910541Z","summary":"Malicious code in css-nesting-transform (npm)","affected":[{"package":{"name":"css-nesting-transform","ecosystem":"npm","purl":"pkg:npm/css-nesting-transform"},"versions":["1.0.0"]}]}

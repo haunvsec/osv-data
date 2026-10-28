@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17810","published":"2026-10-12T13:01:18Z","modified":"2026-10-12T14:00:05.817499572Z","aliases":["GHSA-j7rx-j64h-2fch"],"summary":"Malicious code in @zaka13/zakasite (npm)","affected":[{"package":{"name":"@zaka13/zakasite","ecosystem":"npm","purl":"pkg:npm/%40zaka13/zakasite"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

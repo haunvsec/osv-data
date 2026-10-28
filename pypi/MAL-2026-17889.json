@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17889","published":"2026-10-15T20:33:51Z","modified":"2026-10-26T19:00:41.077286378Z","summary":"Malicious code in proxyrobika (PyPI)","affected":[{"package":{"name":"proxyrobika","ecosystem":"PyPI","purl":"pkg:pypi/proxyrobika"},"versions":["0.1.0"]}]}

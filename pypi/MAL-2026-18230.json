@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18230","published":"2026-10-23T15:52:41Z","modified":"2026-10-23T16:31:11.307430428Z","summary":"Malicious code in larchworker (PyPI)","affected":[{"package":{"name":"larchworker","ecosystem":"PyPI","purl":"pkg:pypi/larchworker"},"versions":["0.1.0"]}]}

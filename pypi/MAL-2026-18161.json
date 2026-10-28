@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18161","published":"2026-10-22T00:57:19Z","modified":"2026-10-22T01:30:06.378511115Z","summary":"Malicious code in evalstream (PyPI)","affected":[{"package":{"name":"evalstream","ecosystem":"PyPI","purl":"pkg:pypi/evalstream"},"versions":["0.1.0"]}]}

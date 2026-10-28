@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18316","published":"2026-10-23T21:26:30Z","modified":"2026-10-26T16:45:06.826898457Z","aliases":["GHSA-h6v3-2957-9j3g"],"summary":"Malicious code in @greenlake/auth (npm)","affected":[{"package":{"name":"@greenlake/auth","ecosystem":"npm","purl":"pkg:npm/%40greenlake/auth"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

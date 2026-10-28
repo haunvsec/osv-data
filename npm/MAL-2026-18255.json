@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18255","published":"2026-10-25T09:35:17Z","modified":"2026-10-25T10:30:12.813716995Z","aliases":["GHSA-8mjx-r4j6-3h6g"],"summary":"Malicious code in cert-infos (npm)","affected":[{"package":{"name":"cert-infos","ecosystem":"npm","purl":"pkg:npm/cert-infos"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

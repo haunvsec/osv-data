@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18133","published":"2026-10-21T22:40:42Z","modified":"2026-10-21T23:30:04.083291341Z","summary":"Malicious code in journey-test-hellospy (PyPI)","affected":[{"package":{"name":"journey-test-hellospy","ecosystem":"PyPI","purl":"pkg:pypi/journey-test-hellospy"},"versions":["0.1.1"]}]}

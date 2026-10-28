@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17740","published":"2026-10-09T14:55:32Z","modified":"2026-10-09T15:32:34.046027984Z","aliases":["GHSA-jw9f-6xx8-mj3f"],"summary":"Malicious code in hanncap (npm)","affected":[{"package":{"name":"hanncap","ecosystem":"npm","purl":"pkg:npm/hanncap"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

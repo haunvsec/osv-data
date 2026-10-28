@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17762","published":"2026-10-11T13:51:00Z","modified":"2026-10-12T19:30:04.552523687Z","aliases":["GHSA-5w9x-2gg7-px58"],"summary":"Malicious code in @coopeuch/config (npm)","affected":[{"package":{"name":"@coopeuch/config","ecosystem":"npm","purl":"pkg:npm/%40coopeuch/config"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

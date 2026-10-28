@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18198","published":"2026-10-22T20:39:46Z","modified":"2026-10-22T21:30:04.682956033Z","aliases":["GHSA-9pc4-vxvx-5676"],"summary":"Malicious code in @pkgship/frpc-linux-amd64 (npm)","affected":[{"package":{"name":"@pkgship/frpc-linux-amd64","ecosystem":"npm","purl":"pkg:npm/%40pkgship/frpc-linux-amd64"},"versions":["0.71.1"]}]}

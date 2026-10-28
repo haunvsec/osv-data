@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18123","published":"2026-10-21T15:41:59Z","modified":"2026-10-21T16:30:36.306938562Z","aliases":["GHSA-h643-5mcg-c726"],"summary":"Malicious code in peptide-modify (npm)","affected":[{"package":{"name":"peptide-modify","ecosystem":"npm","purl":"pkg:npm/peptide-modify"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18092","published":"2026-10-20T13:00:38Z","modified":"2026-10-20T18:30:11.131291138Z","summary":"Malicious code in test-workalendar-internal (PyPI)","affected":[{"package":{"name":"test-workalendar-internal","ecosystem":"PyPI","purl":"pkg:pypi/test-workalendar-internal"},"versions":["0.0.1","0.0.2","0.0.3"]}]}

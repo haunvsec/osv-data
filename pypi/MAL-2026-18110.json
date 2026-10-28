@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18110","published":"2026-10-20T20:48:43Z","modified":"2026-10-22T06:45:04.931760078Z","summary":"Malicious code in facewareretargeter (PyPI)","affected":[{"package":{"name":"facewareretargeter","ecosystem":"PyPI","purl":"pkg:pypi/facewareretargeter"},"versions":["9.9.9"]}]}

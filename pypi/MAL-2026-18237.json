@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18237","published":"2026-10-23T16:05:03Z","modified":"2026-10-23T16:30:22.667191240Z","summary":"Malicious code in slatejob (PyPI)","affected":[{"package":{"name":"slatejob","ecosystem":"PyPI","purl":"pkg:pypi/slatejob"},"versions":["0.1.0"]}]}

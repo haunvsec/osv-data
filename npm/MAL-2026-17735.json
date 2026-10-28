@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17735","published":"2026-10-09T14:55:31Z","modified":"2026-10-09T15:33:30.155043281Z","aliases":["GHSA-38rx-c4rh-xc4p"],"summary":"Malicious code in asepxyz-signal (npm)","affected":[{"package":{"name":"asepxyz-signal","ecosystem":"npm","purl":"pkg:npm/asepxyz-signal"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

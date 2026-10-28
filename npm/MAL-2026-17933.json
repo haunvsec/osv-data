@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17933","published":"2026-10-19T06:27:07Z","modified":"2026-10-19T07:00:06.021617067Z","aliases":["GHSA-fwfc-f4gp-qrcq"],"summary":"Malicious code in zeroz-baileys (npm)","affected":[{"package":{"name":"zeroz-baileys","ecosystem":"npm","purl":"pkg:npm/zeroz-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

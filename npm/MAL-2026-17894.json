@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17894","published":"2026-10-15T12:04:28Z","modified":"2026-10-16T07:30:04.760454801Z","summary":"Malicious code in idlive-face-capture-web-development (npm)","affected":[{"package":{"name":"idlive-face-capture-web-development","ecosystem":"npm","purl":"pkg:npm/idlive-face-capture-web-development"},"versions":["78.8.1"]}]}

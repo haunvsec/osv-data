@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17938","published":"2026-10-19T12:24:05Z","modified":"2026-10-19T12:45:05.087386149Z","aliases":["GHSA-mrcc-xr4x-hmjf"],"summary":"Malicious code in nsdhjuiwqxmhsf1 (npm)","affected":[{"package":{"name":"nsdhjuiwqxmhsf1","ecosystem":"npm","purl":"pkg:npm/nsdhjuiwqxmhsf1"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

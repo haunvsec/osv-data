@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17865","published":"2026-10-09T22:04:05Z","modified":"2026-10-14T00:00:04.863922974Z","summary":"Malicious code in passwordcrackv2 (npm)","affected":[{"package":{"name":"passwordcrackv2","ecosystem":"npm","purl":"pkg:npm/passwordcrackv2"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

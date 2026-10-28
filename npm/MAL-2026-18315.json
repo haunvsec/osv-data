@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18315","published":"2026-10-26T02:17:08Z","modified":"2026-10-26T02:45:04.730223187Z","aliases":["GHSA-x94m-hxm5-m298"],"summary":"Malicious code in dsh-native (npm)","affected":[{"package":{"name":"dsh-native","ecosystem":"npm","purl":"pkg:npm/dsh-native"},"versions":["1.4.1"]}]}

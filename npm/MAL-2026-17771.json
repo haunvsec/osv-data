@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17771","published":"2026-10-11T13:56:54Z","modified":"2026-10-11T14:30:09.171471533Z","summary":"Malicious code in ksp-client-registry (npm)","affected":[{"package":{"name":"ksp-client-registry","ecosystem":"npm","purl":"pkg:npm/ksp-client-registry"},"versions":["100.100.100","100.100.101"]}]}

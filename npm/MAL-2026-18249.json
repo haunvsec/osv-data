@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18249","published":"2026-10-24T23:55:21Z","modified":"2026-10-26T06:45:16.872621678Z","aliases":["GHSA-cj2x-975v-jmwf"],"summary":"Malicious code in noelc-css-blender (npm)","affected":[{"package":{"name":"noelc-css-blender","ecosystem":"npm","purl":"pkg:npm/noelc-css-blender"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

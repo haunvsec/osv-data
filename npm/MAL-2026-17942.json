@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17942","published":"2026-10-19T12:38:56Z","modified":"2026-10-19T13:45:05.473419033Z","aliases":["GHSA-4rc9-v9wp-xwrp"],"summary":"Malicious code in array-inline (npm)","affected":[{"package":{"name":"array-inline","ecosystem":"npm","purl":"pkg:npm/array-inline"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

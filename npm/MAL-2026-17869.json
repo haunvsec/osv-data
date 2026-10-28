@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17869","published":"2026-10-13T00:00:00Z","modified":"2026-10-16T07:15:08.003847112Z","summary":"Malicious code in @mntv-analysis/ui (npm)","affected":[{"package":{"name":"@mntv-analysis/ui","ecosystem":"npm","purl":"pkg:npm/%40mntv-analysis/ui"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

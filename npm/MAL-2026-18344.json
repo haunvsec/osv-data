@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18344","published":"2026-10-27T16:23:53Z","modified":"2026-10-27T17:26:54.522704524Z","aliases":["GHSA-r77r-rw3m-rjh5"],"summary":"Malicious code in adyen-web-v6 (npm)","affected":[{"package":{"name":"adyen-web-v6","ecosystem":"npm","purl":"pkg:npm/adyen-web-v6"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

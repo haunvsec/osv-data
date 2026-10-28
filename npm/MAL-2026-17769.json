@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17769","published":"2026-10-11T13:51:21Z","modified":"2026-10-11T14:30:09.217990986Z","summary":"Malicious code in deposit-limit-fe (npm)","affected":[{"package":{"name":"deposit-limit-fe","ecosystem":"npm","purl":"pkg:npm/deposit-limit-fe"},"versions":["100.100.106","100.100.101","100.100.102"]}]}

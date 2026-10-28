@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17815","published":"2026-10-12T15:21:00Z","modified":"2026-10-12T15:45:06.417199236Z","aliases":["GHSA-72jw-j77j-v6vv"],"summary":"Malicious code in amprem (npm)","affected":[{"package":{"name":"amprem","ecosystem":"npm","purl":"pkg:npm/amprem"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

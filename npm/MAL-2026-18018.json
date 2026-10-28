@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18018","published":"2026-10-19T15:36:06Z","modified":"2026-10-19T16:45:21.043339475Z","aliases":["GHSA-3c65-77q8-3cv8"],"summary":"Malicious code in j019qc (npm)","affected":[{"package":{"name":"j019qc","ecosystem":"npm","purl":"pkg:npm/j019qc"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

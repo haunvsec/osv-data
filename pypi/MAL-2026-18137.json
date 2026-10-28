@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18137","published":"2026-10-21T23:08:42Z","modified":"2026-10-22T01:30:05.384005704Z","summary":"Malicious code in codecraze (PyPI)","affected":[{"package":{"name":"codecraze","ecosystem":"PyPI","purl":"pkg:pypi/codecraze"},"versions":["0.1.0"]}]}

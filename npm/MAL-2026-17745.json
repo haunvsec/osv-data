@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17745","published":"2026-10-09T16:54:09Z","modified":"2026-10-09T17:26:07.530810950Z","summary":"Malicious code in @tunstock/remact-dom (npm)","affected":[{"package":{"name":"@tunstock/remact-dom","ecosystem":"npm","purl":"pkg:npm/%40tunstock/remact-dom"},"versions":["19.2.0"]}]}

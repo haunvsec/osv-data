@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18150","published":"2026-10-21T23:04:23Z","modified":"2026-10-22T01:30:04.529545690Z","summary":"Malicious code in voxilaratts (PyPI)","affected":[{"package":{"name":"voxilaratts","ecosystem":"PyPI","purl":"pkg:pypi/voxilaratts"},"versions":["0.1.0"]}]}

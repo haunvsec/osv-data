@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17900","published":"2026-10-16T10:38:53Z","modified":"2026-10-16T15:45:04.446723996Z","summary":"Malicious code in marocolor (PyPI)","affected":[{"package":{"name":"marocolor","ecosystem":"PyPI","purl":"pkg:pypi/marocolor"},"versions":["1.0.0"]}]}

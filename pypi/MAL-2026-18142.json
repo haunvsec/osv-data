@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18142","published":"2026-10-21T23:09:08Z","modified":"2026-10-22T01:30:06.400066564Z","summary":"Malicious code in orchestril (PyPI)","affected":[{"package":{"name":"orchestril","ecosystem":"PyPI","purl":"pkg:pypi/orchestril"},"versions":["0.1.0"]}]}

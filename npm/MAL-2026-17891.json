@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17891","published":"2026-10-16T01:09:28Z","modified":"2026-10-16T01:45:13.781912304Z","aliases":["GHSA-qgh5-36wr-3vvw"],"summary":"Malicious code in asistenyorstore (npm)","affected":[{"package":{"name":"asistenyorstore","ecosystem":"npm","purl":"pkg:npm/asistenyorstore"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

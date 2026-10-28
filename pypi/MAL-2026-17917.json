@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17917","published":"2026-10-17T17:03:49Z","modified":"2026-10-17T17:45:03.293912687Z","summary":"Malicious code in quasitonnts (PyPI)","affected":[{"package":{"name":"quasitonnts","ecosystem":"PyPI","purl":"pkg:pypi/quasitonnts"},"versions":["0.1.0"]}]}

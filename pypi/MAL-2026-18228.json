@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18228","published":"2026-10-23T16:05:55Z","modified":"2026-10-23T16:31:11.376892751Z","summary":"Malicious code in jobwharf (PyPI)","affected":[{"package":{"name":"jobwharf","ecosystem":"PyPI","purl":"pkg:pypi/jobwharf"},"versions":["0.1.0"]}]}

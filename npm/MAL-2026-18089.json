@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18089","published":"2026-10-19T00:00:00Z","modified":"2026-10-20T06:15:05.888421284Z","summary":"Malicious code in tailwindcss-motionanimate (npm)","affected":[{"package":{"name":"tailwindcss-motionanimate","ecosystem":"npm","purl":"pkg:npm/tailwindcss-motionanimate"},"versions":["1.0.1"]}]}

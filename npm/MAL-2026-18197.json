@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18197","published":"2026-10-22T19:46:14Z","modified":"2026-10-22T20:30:16.587359406Z","aliases":["GHSA-w84w-rhx7-2f7g"],"summary":"Malicious code in x402-prompt-injection-scan (npm)","affected":[{"package":{"name":"x402-prompt-injection-scan","ecosystem":"npm","purl":"pkg:npm/x402-prompt-injection-scan"},"versions":["0.1.4"]}]}

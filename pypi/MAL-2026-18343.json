@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18343","published":"2026-10-27T16:48:48Z","modified":"2026-10-27T17:30:37.252425671Z","summary":"Malicious code in numprint (PyPI)","affected":[{"package":{"name":"numprint","ecosystem":"PyPI","purl":"pkg:pypi/numprint"},"versions":["1.2.0"]}]}

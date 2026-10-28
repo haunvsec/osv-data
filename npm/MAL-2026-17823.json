@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17823","published":"2026-10-12T15:31:42Z","modified":"2026-10-12T16:45:07.295411548Z","aliases":["GHSA-4w65-x977-wh2r"],"summary":"Malicious code in @modss/libsignal (npm)","affected":[{"package":{"name":"@modss/libsignal","ecosystem":"npm","purl":"pkg:npm/%40modss/libsignal"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

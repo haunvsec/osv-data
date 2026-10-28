@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18271","published":"2026-10-25T10:58:27Z","modified":"2026-10-25T11:30:03.291283393Z","summary":"Malicious code in fontus (PyPI)","affected":[{"package":{"name":"fontus","ecosystem":"PyPI","purl":"pkg:pypi/fontus"},"versions":["0.0.1","0.0.2","0.0.3"]}]}

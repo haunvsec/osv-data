@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18165","published":"2026-10-22T00:36:40Z","modified":"2026-10-22T01:30:04.533064743Z","summary":"Malicious code in soundsocket (PyPI)","affected":[{"package":{"name":"soundsocket","ecosystem":"PyPI","purl":"pkg:pypi/soundsocket"},"versions":["0.1.0"]}]}

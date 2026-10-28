@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18195","published":"2026-10-22T20:23:01Z","modified":"2026-10-22T21:30:04.695705270Z","aliases":["GHSA-6m47-rc2c-6xpg"],"summary":"Malicious code in darknode-cli (npm)","affected":[{"package":{"name":"darknode-cli","ecosystem":"npm","purl":"pkg:npm/darknode-cli"},"versions":["2.46.2","2.46.1","2.46.0"]}]}

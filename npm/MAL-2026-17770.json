@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17770","published":"2026-10-11T13:57:22Z","modified":"2026-10-11T14:30:09.174451920Z","summary":"Malicious code in ksp-app (npm)","affected":[{"package":{"name":"ksp-app","ecosystem":"npm","purl":"pkg:npm/ksp-app"},"versions":["100.100.100"]}]}

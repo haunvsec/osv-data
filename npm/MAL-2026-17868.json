@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17868","published":"2026-10-14T00:09:17Z","modified":"2026-10-14T01:00:17.231434195Z","aliases":["GHSA-c43r-xf4h-m548"],"summary":"Malicious code in @kre64/hello-npm-test (npm)","affected":[{"package":{"name":"@kre64/hello-npm-test","ecosystem":"npm","purl":"pkg:npm/%40kre64/hello-npm-test"},"versions":["1.0.0"]}]}

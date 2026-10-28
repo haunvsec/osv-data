@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18109","published":"2026-10-20T18:45:31Z","modified":"2026-10-20T19:00:04.366436158Z","summary":"Malicious code in rs-lookout-sandbox-poc (npm)","affected":[{"package":{"name":"rs-lookout-sandbox-poc","ecosystem":"npm","purl":"pkg:npm/rs-lookout-sandbox-poc"},"versions":["1.0.1"]}]}

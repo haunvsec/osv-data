@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18153","published":"2026-10-22T00:21:46Z","modified":"2026-10-22T01:30:04.680884857Z","summary":"Malicious code in hookgantry (PyPI)","affected":[{"package":{"name":"hookgantry","ecosystem":"PyPI","purl":"pkg:pypi/hookgantry"},"versions":["0.1.0"]}]}

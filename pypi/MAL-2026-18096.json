@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18096","published":"2026-10-20T13:36:11Z","modified":"2026-10-20T14:30:03.703176593Z","summary":"Malicious code in workalender (PyPI)","affected":[{"package":{"name":"workalender","ecosystem":"PyPI","purl":"pkg:pypi/workalender"},"versions":["17.1.0.dev0"]}]}

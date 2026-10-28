@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18122","published":"2026-10-21T11:27:55Z","modified":"2026-10-21T12:30:33.430348025Z","summary":"Malicious code in moveworks-capi-starter (PyPI)","affected":[{"package":{"name":"moveworks-capi-starter","ecosystem":"PyPI","purl":"pkg:pypi/moveworks-capi-starter"},"versions":["0.0.0","0.2.0"]}]}

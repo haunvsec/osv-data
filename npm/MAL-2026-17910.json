@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17910","published":"2026-10-16T23:28:24Z","modified":"2026-10-17T01:00:03.931646176Z","aliases":["GHSA-8c34-p746-v5rq"],"summary":"Malicious code in itsa-react-focuscontainer (npm)","affected":[{"package":{"name":"itsa-react-focuscontainer","ecosystem":"npm","purl":"pkg:npm/itsa-react-focuscontainer"},"versions":["16.0.10"]}]}

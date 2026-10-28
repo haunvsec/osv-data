@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17926","published":"2026-10-19T02:26:39Z","modified":"2026-10-19T02:30:03.430986255Z","summary":"Malicious code in fabdeploycheck (PyPI)","affected":[{"package":{"name":"fabdeploycheck","ecosystem":"PyPI","purl":"pkg:pypi/fabdeploycheck"},"versions":["0.1.1"]}]}

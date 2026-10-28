@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17733","published":"2026-10-09T14:55:32Z","modified":"2026-10-09T15:33:30.142271892Z","aliases":["GHSA-xv7g-p6pq-vg9q"],"summary":"Malicious code in asepxyz-baileys (npm)","affected":[{"package":{"name":"asepxyz-baileys","ecosystem":"npm","purl":"pkg:npm/asepxyz-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

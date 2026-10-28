@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17809","published":"2026-10-12T09:29:22Z","modified":"2026-10-15T04:00:05.557111394Z","summary":"Malicious code in minecraftaccfinder (PyPI)","affected":[{"package":{"name":"minecraftaccfinder","ecosystem":"PyPI","purl":"pkg:pypi/minecraftaccfinder"},"versions":["0.1.0","0.1.1","0.1.2","0.3.0","0.3.1","0.4.0","2.0.0","3.0.0"]}]}

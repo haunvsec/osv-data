@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18097","published":"2026-10-20T15:52:54Z","modified":"2026-10-20T16:30:04.503973844Z","summary":"Malicious code in research-probe-6150c1c915 (PyPI)","affected":[{"package":{"name":"research-probe-6150c1c915","ecosystem":"PyPI","purl":"pkg:pypi/research-probe-6150c1c915"},"versions":["0.1.0"]}]}

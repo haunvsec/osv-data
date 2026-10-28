@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17775","published":"2026-10-11T13:51:12Z","modified":"2026-10-11T14:30:08.414391755Z","summary":"Malicious code in nitro-cjs-requirer (npm)","affected":[{"package":{"name":"nitro-cjs-requirer","ecosystem":"npm","purl":"pkg:npm/nitro-cjs-requirer"},"versions":["1.0.0","0.0.1","1.1.0","2.0.0","99.0.1","3.0.0"]}]}

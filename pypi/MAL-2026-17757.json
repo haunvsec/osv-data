@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17757","published":"2026-10-10T11:07:02Z","modified":"2026-10-20T14:30:03.715875505Z","summary":"Malicious code in webreader (PyPI)","affected":[{"package":{"name":"webreader","ecosystem":"PyPI","purl":"pkg:pypi/webreader"},"versions":["2.3.8"]}]}

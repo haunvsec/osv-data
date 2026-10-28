@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18176","published":"2026-10-22T00:30:04Z","modified":"2026-10-22T01:30:05.574015185Z","summary":"Malicious code in voxweaver (PyPI)","affected":[{"package":{"name":"voxweaver","ecosystem":"PyPI","purl":"pkg:pypi/voxweaver"},"versions":["0.1.0"]}]}

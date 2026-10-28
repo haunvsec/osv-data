@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18039","published":"2026-10-19T15:36:06Z","modified":"2026-10-19T16:45:19.044468606Z","aliases":["GHSA-jjpm-7wrx-wm3x"],"summary":"Malicious code in waojpf (npm)","affected":[{"package":{"name":"waojpf","ecosystem":"npm","purl":"pkg:npm/waojpf"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

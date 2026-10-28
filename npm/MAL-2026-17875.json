@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17875","published":"2026-10-13T00:00:00Z","modified":"2026-10-14T06:15:05.159292565Z","summary":"Malicious code in monkey-tags-ip (npm)","affected":[{"package":{"name":"monkey-tags-ip","ecosystem":"npm","purl":"pkg:npm/monkey-tags-ip"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

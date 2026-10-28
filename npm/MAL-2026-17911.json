@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17911","published":"2026-10-16T23:29:58Z","modified":"2026-10-17T01:00:03.921716333Z","aliases":["GHSA-hhr5-rjw6-9hr5"],"summary":"Malicious code in itsa-react-maskedinput (npm)","affected":[{"package":{"name":"itsa-react-maskedinput","ecosystem":"npm","purl":"pkg:npm/itsa-react-maskedinput"},"versions":["16.1.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17920","published":"2026-10-17T17:04:54Z","modified":"2026-10-17T17:45:03.257241713Z","summary":"Malicious code in voltswannts (PyPI)","affected":[{"package":{"name":"voltswannts","ecosystem":"PyPI","purl":"pkg:pypi/voltswannts"},"versions":["0.1.0"]}]}

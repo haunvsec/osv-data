@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18148","published":"2026-10-21T23:05:49Z","modified":"2026-10-22T01:30:03.529242399Z","summary":"Malicious code in tessivatts (PyPI)","affected":[{"package":{"name":"tessivatts","ecosystem":"PyPI","purl":"pkg:pypi/tessivatts"},"versions":["0.1.0"]}]}

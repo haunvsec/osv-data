@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17849","published":"2026-10-13T07:45:45Z","modified":"2026-10-26T01:45:20.919663023Z","aliases":["GHSA-g6mf-8rwx-xgwh"],"summary":"Malicious code in brass-common (npm)","affected":[{"package":{"name":"brass-common","ecosystem":"npm","purl":"pkg:npm/brass-common"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

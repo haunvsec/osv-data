@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18247","published":"2026-10-24T02:39:26Z","modified":"2026-10-24T03:45:03.524603702Z","aliases":["GHSA-32x9-4g9x-5cxj"],"summary":"Malicious code in @liauto/win32-x64 (npm)","affected":[{"package":{"name":"@liauto/win32-x64","ecosystem":"npm","purl":"pkg:npm/%40liauto/win32-x64"},"versions":["0.1.2-b2"]}]}

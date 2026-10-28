@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18079","published":"2026-10-19T00:00:00Z","modified":"2026-10-20T06:15:04.802402117Z","summary":"Malicious code in tailwind-animatecss-kit (npm)","affected":[{"package":{"name":"tailwind-animatecss-kit","ecosystem":"npm","purl":"pkg:npm/tailwind-animatecss-kit"},"versions":["2.0.6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18116","published":"2026-10-20T23:01:11Z","modified":"2026-10-22T23:45:03.649413873Z","summary":"Malicious code in debbug (PyPI)","affected":[{"package":{"name":"debbug","ecosystem":"PyPI","purl":"pkg:pypi/debbug"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17805","published":"2026-10-08T07:58:05Z","modified":"2026-10-12T14:30:19.845804313Z","summary":"Malicious code in @dransay/api (npm)","affected":[{"package":{"name":"@dransay/api","ecosystem":"npm","purl":"pkg:npm/%40dransay/api"},"versions":["99.0.0"]}]}

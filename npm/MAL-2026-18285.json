@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18285","published":"2026-10-25T15:05:26Z","modified":"2026-10-25T15:30:04.542104147Z","summary":"Malicious code in @postex/common (npm)","affected":[{"package":{"name":"@postex/common","ecosystem":"npm","purl":"pkg:npm/%40postex/common"},"versions":["99.9.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17736","published":"2026-10-09T14:55:31Z","modified":"2026-10-09T15:32:33.893828037Z","aliases":["GHSA-3rxj-r3x6-3992"],"summary":"Malicious code in asepxyz12 (npm)","affected":[{"package":{"name":"asepxyz12","ecosystem":"npm","purl":"pkg:npm/asepxyz12"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

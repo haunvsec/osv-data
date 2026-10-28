@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18257","published":"2026-10-25T09:35:19Z","modified":"2026-10-26T06:45:16.085018271Z","aliases":["GHSA-j8vh-32vh-rj39"],"summary":"Malicious code in insta-api-wrapper (npm)","affected":[{"package":{"name":"insta-api-wrapper","ecosystem":"npm","purl":"pkg:npm/insta-api-wrapper"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

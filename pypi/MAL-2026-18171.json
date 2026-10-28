@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18171","published":"2026-10-22T00:31:59Z","modified":"2026-10-22T01:30:06.966055174Z","summary":"Malicious code in ttsprobe (PyPI)","affected":[{"package":{"name":"ttsprobe","ecosystem":"PyPI","purl":"pkg:pypi/ttsprobe"},"versions":["0.1.0"]}]}

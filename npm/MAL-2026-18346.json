@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18346","published":"2026-10-27T21:39:03Z","modified":"2026-10-27T22:30:04.744238606Z","aliases":["GHSA-7p7m-8jmq-qp93"],"summary":"Malicious code in agentenact (npm)","affected":[{"package":{"name":"agentenact","ecosystem":"npm","purl":"pkg:npm/agentenact"},"versions":["0.2.0"]}]}

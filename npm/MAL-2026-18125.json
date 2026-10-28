@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18125","published":"2026-10-21T21:20:33Z","modified":"2026-10-21T21:30:23.678622753Z","aliases":["GHSA-fxf3-w84v-3v6g"],"summary":"Malicious code in @worrisome/aaaa (npm)","affected":[{"package":{"name":"@worrisome/aaaa","ecosystem":"npm","purl":"pkg:npm/%40worrisome/aaaa"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

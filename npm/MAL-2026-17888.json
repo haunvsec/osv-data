@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-17888","published":"2026-10-14T03:01:21Z","modified":"2026-10-27T16:30:05.938081830Z","aliases":["GHSA-hpc9-fxqh-hhf8"],"summary":"Malicious code in @flexmr/utils (npm)","affected":[{"package":{"name":"@flexmr/utils","ecosystem":"npm","purl":"pkg:npm/%40flexmr/utils"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

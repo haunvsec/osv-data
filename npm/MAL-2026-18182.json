@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18182","published":"2026-10-21T18:00:00Z","modified":"2026-10-22T06:45:05.741775574Z","summary":"Malicious code in test-brotli2-testmetest (npm)","affected":[{"package":{"name":"test-brotli2-testmetest","ecosystem":"npm","purl":"pkg:npm/test-brotli2-testmetest"},"versions":["1.0.0"]}]}

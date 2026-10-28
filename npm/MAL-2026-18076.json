@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18076","published":"2026-10-19T00:00:00Z","modified":"2026-10-20T06:15:06.614566170Z","summary":"Malicious code in signalledger-diagnostics (npm)","affected":[{"package":{"name":"signalledger-diagnostics","ecosystem":"npm","purl":"pkg:npm/signalledger-diagnostics"},"versions":["2.0.6"]}]}

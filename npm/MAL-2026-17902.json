@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17902","published":"2026-10-16T12:55:55Z","modified":"2026-10-16T13:30:04.747903954Z","aliases":["GHSA-rg3c-8x72-6pmc"],"summary":"Malicious code in parxleys (npm)","affected":[{"package":{"name":"parxleys","ecosystem":"npm","purl":"pkg:npm/parxleys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

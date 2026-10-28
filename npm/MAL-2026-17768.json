@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17768","published":"2026-10-11T13:51:50Z","modified":"2026-10-11T17:30:47.987498910Z","summary":"Malicious code in cloudflare_module (npm)","affected":[{"package":{"name":"cloudflare_module","ecosystem":"npm","purl":"pkg:npm/cloudflare_module"},"versions":["3.0.0","1.0.1","1.0.0","99.0.1"]}]}

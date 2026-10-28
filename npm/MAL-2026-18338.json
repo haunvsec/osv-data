@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18338","published":"2026-10-27T11:00:16Z","modified":"2026-10-28T06:45:04.678514530Z","summary":"Malicious code in @azure-growth/signup-ux-components (npm)","affected":[{"package":{"name":"@azure-growth/signup-ux-components","ecosystem":"npm","purl":"pkg:npm/%40azure-growth/signup-ux-components"},"versions":["1.2.2","1.2.3","2.9.9"]}]}

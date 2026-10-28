@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18205","published":"2026-10-23T00:56:39Z","modified":"2026-10-23T02:45:04.710118780Z","aliases":["GHSA-xvgg-qjjh-gq34"],"summary":"Malicious code in @tekmidian/pai (npm)","affected":[{"package":{"name":"@tekmidian/pai","ecosystem":"npm","purl":"pkg:npm/%40tekmidian/pai"},"versions":["1.0.9","1.0.8","1.0.10"]}]}

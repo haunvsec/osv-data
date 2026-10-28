@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18141","published":"2026-10-21T23:04:07Z","modified":"2026-10-22T01:30:05.382892406Z","summary":"Malicious code in melcuratts (PyPI)","affected":[{"package":{"name":"melcuratts","ecosystem":"PyPI","purl":"pkg:pypi/melcuratts"},"versions":["0.1.0"]}]}

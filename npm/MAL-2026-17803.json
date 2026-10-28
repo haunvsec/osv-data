@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17803","published":"2026-10-11T16:53:56Z","modified":"2026-10-11T17:30:47.992319273Z","summary":"Malicious code in hridoy-ultimate (npm)","affected":[{"package":{"name":"hridoy-ultimate","ecosystem":"npm","purl":"pkg:npm/hridoy-ultimate"},"versions":["8.0.0"]}]}

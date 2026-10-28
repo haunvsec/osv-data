@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17759","published":"2026-10-11T13:51:41Z","modified":"2026-10-12T19:30:04.560279400Z","aliases":["GHSA-55qj-2wwm-x5v6"],"summary":"Malicious code in @coopeuch/button (npm)","affected":[{"package":{"name":"@coopeuch/button","ecosystem":"npm","purl":"pkg:npm/%40coopeuch/button"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17862","published":"2026-10-13T19:30:53Z","modified":"2026-10-13T20:30:03.055532383Z","summary":"Malicious code in fontcase (PyPI)","affected":[{"package":{"name":"fontcase","ecosystem":"PyPI","purl":"pkg:pypi/fontcase"},"versions":["0.1.0","0.1.1","0.1.2"]}]}

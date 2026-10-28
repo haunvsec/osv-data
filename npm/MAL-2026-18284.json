@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18284","published":"2026-10-25T15:05:34Z","modified":"2026-10-25T15:30:05.456297479Z","summary":"Malicious code in @jm-telefonica/multibrand-components (npm)","affected":[{"package":{"name":"@jm-telefonica/multibrand-components","ecosystem":"npm","purl":"pkg:npm/%40jm-telefonica/multibrand-components"},"versions":["99.9.1"]}]}

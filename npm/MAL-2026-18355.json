@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18355","published":"2026-10-28T02:16:19Z","modified":"2026-10-28T02:30:04.847816347Z","aliases":["GHSA-vc33-3x34-x6jm"],"summary":"Malicious code in glyphmatrix-fixture (npm)","affected":[{"package":{"name":"glyphmatrix-fixture","ecosystem":"npm","purl":"pkg:npm/glyphmatrix-fixture"},"versions":["1.0.1","1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18064","published":"2026-10-20T04:11:06Z","modified":"2026-10-27T15:45:41.334559366Z","aliases":["GHSA-fxw2-4j5q-6hwg"],"summary":"Malicious code in sc-announcer (npm)","affected":[{"package":{"name":"sc-announcer","ecosystem":"npm","purl":"pkg:npm/sc-announcer"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

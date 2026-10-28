@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18203","published":"2026-10-22T21:16:34Z","modified":"2026-10-22T22:30:05.171756137Z","summary":"Malicious code in journey-teste-shellhello (PyPI)","affected":[{"package":{"name":"journey-teste-shellhello","ecosystem":"PyPI","purl":"pkg:pypi/journey-teste-shellhello"},"versions":["0.2.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18091","published":"2026-10-20T06:40:45Z","modified":"2026-10-22T06:45:04.775307552Z","summary":"Malicious code in @platform-services/hrm-mfe-core (npm)","affected":[{"package":{"name":"@platform-services/hrm-mfe-core","ecosystem":"npm","purl":"pkg:npm/%40platform-services/hrm-mfe-core"},"versions":["99.9.1"]}]}

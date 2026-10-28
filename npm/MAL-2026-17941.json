@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17941","published":"2026-10-19T12:24:05Z","modified":"2026-10-19T12:45:05.091660549Z","aliases":["GHSA-54qq-xhj8-pcjc"],"summary":"Malicious code in zxhgssiyluwxchn (npm)","affected":[{"package":{"name":"zxhgssiyluwxchn","ecosystem":"npm","purl":"pkg:npm/zxhgssiyluwxchn"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

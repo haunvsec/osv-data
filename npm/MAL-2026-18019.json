@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18019","published":"2026-10-19T15:36:06Z","modified":"2026-10-19T16:45:18.447216599Z","aliases":["GHSA-jrcj-7fj7-rcj5"],"summary":"Malicious code in j5opb7 (npm)","affected":[{"package":{"name":"j5opb7","ecosystem":"npm","purl":"pkg:npm/j5opb7"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

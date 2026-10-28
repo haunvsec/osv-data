@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17851","published":"2026-10-13T16:44:00Z","modified":"2026-10-13T17:45:05.995525682Z","aliases":["GHSA-2946-w5c6-hcw2"],"summary":"Malicious code in yoodan-github-single-ver-pkg (npm)","affected":[{"package":{"name":"yoodan-github-single-ver-pkg","ecosystem":"npm","purl":"pkg:npm/yoodan-github-single-ver-pkg"},"versions":["1.0.1"]}]}

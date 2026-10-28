@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18015","published":"2026-10-19T15:36:06Z","modified":"2026-10-19T16:45:17.399036022Z","aliases":["GHSA-crpr-3p42-5v4g"],"summary":"Malicious code in giu094 (npm)","affected":[{"package":{"name":"giu094","ecosystem":"npm","purl":"pkg:npm/giu094"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

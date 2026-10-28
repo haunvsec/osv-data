@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17940","published":"2026-10-19T12:24:05Z","modified":"2026-10-19T12:45:05.091810106Z","aliases":["GHSA-j4h8-xxcj-28g7"],"summary":"Malicious code in vjkpwjxbvndelta (npm)","affected":[{"package":{"name":"vjkpwjxbvndelta","ecosystem":"npm","purl":"pkg:npm/vjkpwjxbvndelta"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

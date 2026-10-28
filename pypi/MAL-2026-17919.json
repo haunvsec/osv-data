@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17919","published":"2026-10-17T16:53:55Z","modified":"2026-10-26T06:45:16.054574101Z","summary":"Malicious code in ukraine69 (PyPI)","affected":[{"package":{"name":"ukraine69","ecosystem":"PyPI","purl":"pkg:pypi/ukraine69"},"versions":["1.2.0","1.2.1","1.2.2","1.2.3","1.2.5","1.2.6","1.2.7","1.2.8"]}]}

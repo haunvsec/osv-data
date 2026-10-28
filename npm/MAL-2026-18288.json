@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18288","published":"2026-10-25T15:11:25Z","modified":"2026-10-26T16:45:05.922055281Z","aliases":["GHSA-2gxp-q3vq-594r"],"summary":"Malicious code in jshelperdependenceny (npm)","affected":[{"package":{"name":"jshelperdependenceny","ecosystem":"npm","purl":"pkg:npm/jshelperdependenceny"},"versions":["99.0.0","1.0.0","0.0.0-stage"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18143","published":"2026-10-21T23:04:35Z","modified":"2026-10-22T01:30:05.375520643Z","summary":"Malicious code in phonoviatts (PyPI)","affected":[{"package":{"name":"phonoviatts","ecosystem":"PyPI","purl":"pkg:pypi/phonoviatts"},"versions":["0.1.0"]}]}

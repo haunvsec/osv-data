@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17946","published":"2026-10-19T15:36:06Z","modified":"2026-10-19T16:45:14.591712402Z","aliases":["GHSA-3268-6cgx-qmp3"],"summary":"Malicious code in 3gr841 (npm)","affected":[{"package":{"name":"3gr841","ecosystem":"npm","purl":"pkg:npm/3gr841"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

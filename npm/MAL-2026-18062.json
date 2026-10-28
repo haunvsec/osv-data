@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18062","published":"2026-10-20T03:31:02Z","modified":"2026-10-25T15:30:04.569290884Z","summary":"Malicious code in sc-wizard (npm)","affected":[{"package":{"name":"sc-wizard","ecosystem":"npm","purl":"pkg:npm/sc-wizard"},"versions":["99.9.1"]}]}

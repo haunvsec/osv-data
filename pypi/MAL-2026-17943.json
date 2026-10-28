@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17943","published":"2026-10-19T15:36:16Z","modified":"2026-10-19T16:30:04.146748333Z","summary":"Malicious code in vinted-mocked-apis (PyPI)","affected":[{"package":{"name":"vinted-mocked-apis","ecosystem":"PyPI","purl":"pkg:pypi/vinted-mocked-apis"},"versions":["99.0.0"]}]}

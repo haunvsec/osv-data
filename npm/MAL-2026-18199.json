@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18199","published":"2026-10-22T20:48:16Z","modified":"2026-10-22T21:30:04.677053442Z","aliases":["GHSA-x55v-jc52-q424"],"summary":"Malicious code in @pkgship/frps-linux-amd64 (npm)","affected":[{"package":{"name":"@pkgship/frps-linux-amd64","ecosystem":"npm","purl":"pkg:npm/%40pkgship/frps-linux-amd64"},"versions":["0.71.1"]}]}

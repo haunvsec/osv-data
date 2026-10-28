@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17923","published":"2026-10-16T00:00:00Z","modified":"2026-10-19T00:45:04.809245103Z","summary":"Malicious code in @apexacc/audit (npm)","affected":[{"package":{"name":"@apexacc/audit","ecosystem":"npm","purl":"pkg:npm/%40apexacc/audit"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

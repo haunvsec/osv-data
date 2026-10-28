@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17939","published":"2026-10-19T12:24:05Z","modified":"2026-10-19T12:45:05.094752828Z","aliases":["GHSA-g7mg-3h9r-c8h3"],"summary":"Malicious code in ticketcathayoct12 (npm)","affected":[{"package":{"name":"ticketcathayoct12","ecosystem":"npm","purl":"pkg:npm/ticketcathayoct12"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

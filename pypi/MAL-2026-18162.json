@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18162","published":"2026-10-22T00:35:53Z","modified":"2026-10-22T01:30:03.573109030Z","summary":"Malicious code in modelworks (PyPI)","affected":[{"package":{"name":"modelworks","ecosystem":"PyPI","purl":"pkg:pypi/modelworks"},"versions":["0.1.0"]}]}

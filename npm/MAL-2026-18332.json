@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18332","published":"2026-10-26T16:17:57Z","modified":"2026-10-26T16:45:06.827165284Z","aliases":["GHSA-j658-c56g-qxh4"],"summary":"Malicious code in harlow-css-mixer (npm)","affected":[{"package":{"name":"harlow-css-mixer","ecosystem":"npm","purl":"pkg:npm/harlow-css-mixer"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17773","published":"2026-10-11T13:53:33Z","modified":"2026-10-11T14:30:06.704529911Z","summary":"Malicious code in nested-lib (npm)","affected":[{"package":{"name":"nested-lib","ecosystem":"npm","purl":"pkg:npm/nested-lib"},"versions":["1.0.0","1.0.1","1.1.0"]}]}

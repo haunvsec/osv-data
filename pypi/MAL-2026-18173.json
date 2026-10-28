@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18173","published":"2026-10-22T00:55:35Z","modified":"2026-10-22T01:30:04.544833595Z","summary":"Malicious code in vocabbench (PyPI)","affected":[{"package":{"name":"vocabbench","ecosystem":"PyPI","purl":"pkg:pypi/vocabbench"},"versions":["0.1.0"]}]}

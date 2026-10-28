@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18175","published":"2026-10-22T00:33:57Z","modified":"2026-10-22T01:30:04.598518111Z","summary":"Malicious code in voicekit (PyPI)","affected":[{"package":{"name":"voicekit","ecosystem":"PyPI","purl":"pkg:pypi/voicekit"},"versions":["0.1.0"]}]}

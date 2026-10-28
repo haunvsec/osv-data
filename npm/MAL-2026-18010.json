@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18010","published":"2026-10-19T15:36:06Z","modified":"2026-10-19T16:45:12.352424807Z","aliases":["GHSA-rq88-5p3h-79r5"],"summary":"Malicious code in f0klcr (npm)","affected":[{"package":{"name":"f0klcr","ecosystem":"npm","purl":"pkg:npm/f0klcr"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

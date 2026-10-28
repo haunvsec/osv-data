@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18158","published":"2026-10-22T00:56:23Z","modified":"2026-10-22T01:30:05.366084852Z","summary":"Malicious code in audiokit (PyPI)","affected":[{"package":{"name":"audiokit","ecosystem":"PyPI","purl":"pkg:pypi/audiokit"},"versions":["0.1.0"]}]}

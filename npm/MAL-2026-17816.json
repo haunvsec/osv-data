@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17816","published":"2026-10-12T15:13:38Z","modified":"2026-10-12T15:45:05.415503817Z","aliases":["GHSA-j3wm-94vw-jhx7"],"summary":"Malicious code in ikanngeming (npm)","affected":[{"package":{"name":"ikanngeming","ecosystem":"npm","purl":"pkg:npm/ikanngeming"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

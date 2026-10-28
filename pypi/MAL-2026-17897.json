@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17897","published":"2026-10-16T05:58:04Z","modified":"2026-10-16T06:45:04.009499708Z","summary":"Malicious code in fromthehotel-poems (PyPI)","affected":[{"package":{"name":"fromthehotel-poems","ecosystem":"PyPI","purl":"pkg:pypi/fromthehotel-poems"},"versions":["0.1.0"]}]}

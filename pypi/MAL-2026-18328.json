@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18328","published":"2026-10-26T09:58:20Z","modified":"2026-10-26T19:00:41.005894704Z","summary":"Malicious code in netweavex (PyPI)","affected":[{"package":{"name":"netweavex","ecosystem":"PyPI","purl":"pkg:pypi/netweavex"},"versions":["1.1.0","1.1.1","1.1.2"]}]}

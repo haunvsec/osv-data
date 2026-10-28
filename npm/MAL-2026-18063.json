@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18063","published":"2026-10-20T03:55:45Z","modified":"2026-10-22T06:45:04.811221446Z","summary":"Malicious code in fanarena-common (npm)","affected":[{"package":{"name":"fanarena-common","ecosystem":"npm","purl":"pkg:npm/fanarena-common"},"versions":["99.9.1"]}]}

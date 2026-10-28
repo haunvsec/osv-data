@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18138","published":"2026-10-21T23:01:56Z","modified":"2026-10-22T01:30:05.572264241Z","summary":"Malicious code in crenelatts (PyPI)","affected":[{"package":{"name":"crenelatts","ecosystem":"PyPI","purl":"pkg:pypi/crenelatts"},"versions":["0.1.0"]}]}

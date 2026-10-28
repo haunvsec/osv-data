@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17714","published":"2026-10-09T00:00:00Z","modified":"2026-10-12T05:30:07.016876813Z","summary":"Malicious code in @brick-v2/brand (npm)","affected":[{"package":{"name":"@brick-v2/brand","ecosystem":"npm","purl":"pkg:npm/%40brick-v2/brand"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

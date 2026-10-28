@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17932","published":"2026-10-19T06:25:31Z","modified":"2026-10-19T07:00:04.805874291Z","aliases":["GHSA-ff48-h3v7-m43r"],"summary":"Malicious code in item-validator (npm)","affected":[{"package":{"name":"item-validator","ecosystem":"npm","purl":"pkg:npm/item-validator"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

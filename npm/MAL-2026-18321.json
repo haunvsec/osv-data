@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18321","published":"2026-10-26T00:55:34Z","modified":"2026-10-26T06:45:15.024546442Z","summary":"Malicious code in dsh-plugin-blender-3d (npm)","affected":[{"package":{"name":"dsh-plugin-blender-3d","ecosystem":"npm","purl":"pkg:npm/dsh-plugin-blender-3d"},"versions":["0.2.1"]}]}

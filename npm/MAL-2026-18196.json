@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18196","published":"2026-10-22T19:24:45Z","modified":"2026-10-23T01:15:03.713922651Z","aliases":["GHSA-hw69-vrvf-87h5"],"summary":"Malicious code in imgdecode (npm)","affected":[{"package":{"name":"imgdecode","ecosystem":"npm","purl":"pkg:npm/imgdecode"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

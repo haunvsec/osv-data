@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18296","published":"2026-10-25T19:14:56Z","modified":"2026-10-25T19:45:02.907391096Z","summary":"Malicious code in zagents-message-bus (PyPI)","affected":[{"package":{"name":"zagents-message-bus","ecosystem":"PyPI","purl":"pkg:pypi/zagents-message-bus"},"versions":["1.0.5","1.0.10","99.99.99","99.99.100"]}]}

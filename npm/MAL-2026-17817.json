@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17817","published":"2026-10-12T15:13:38Z","modified":"2026-10-12T15:45:06.413669283Z","aliases":["GHSA-9px4-72qq-2mj6"],"summary":"Malicious code in nakkinpm (npm)","affected":[{"package":{"name":"nakkinpm","ecosystem":"npm","purl":"pkg:npm/nakkinpm"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17873","published":"2026-10-13T00:00:00Z","modified":"2026-10-16T07:15:08.117647111Z","summary":"Malicious code in @newspage/libx-amount (npm)","affected":[{"package":{"name":"@newspage/libx-amount","ecosystem":"npm","purl":"pkg:npm/%40newspage/libx-amount"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

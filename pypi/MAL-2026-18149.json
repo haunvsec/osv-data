@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18149","published":"2026-10-21T23:05:45Z","modified":"2026-10-22T01:30:03.536996212Z","summary":"Malicious code in vellutts (PyPI)","affected":[{"package":{"name":"vellutts","ecosystem":"PyPI","purl":"pkg:pypi/vellutts"},"versions":["0.1.0"]}]}

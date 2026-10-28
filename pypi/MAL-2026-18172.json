@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18172","published":"2026-10-22T00:33:24Z","modified":"2026-10-22T01:30:04.475939122Z","summary":"Malicious code in ttsweaver (PyPI)","affected":[{"package":{"name":"ttsweaver","ecosystem":"PyPI","purl":"pkg:pypi/ttsweaver"},"versions":["0.1.0"]}]}

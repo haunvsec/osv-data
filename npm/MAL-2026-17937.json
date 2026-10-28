@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17937","published":"2026-10-19T12:24:05Z","modified":"2026-10-19T12:45:05.097359876Z","aliases":["GHSA-p2wp-j4r7-rcq5"],"summary":"Malicious code in mxckjdgweuxpsiohd (npm)","affected":[{"package":{"name":"mxckjdgweuxpsiohd","ecosystem":"npm","purl":"pkg:npm/mxckjdgweuxpsiohd"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

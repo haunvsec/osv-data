@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17895","published":"2026-10-15T13:01:07Z","modified":"2026-10-26T06:45:15.096889063Z","summary":"Malicious code in web-pixels-manager (npm)","affected":[{"package":{"name":"web-pixels-manager","ecosystem":"npm","purl":"pkg:npm/web-pixels-manager"},"versions":["76.2.4"]}]}

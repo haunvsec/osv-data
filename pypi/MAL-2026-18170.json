@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18170","published":"2026-10-22T00:57:40Z","modified":"2026-10-22T01:30:06.325719622Z","summary":"Malicious code in ttsflow (PyPI)","affected":[{"package":{"name":"ttsflow","ecosystem":"PyPI","purl":"pkg:pypi/ttsflow"},"versions":["0.1.0"]}]}

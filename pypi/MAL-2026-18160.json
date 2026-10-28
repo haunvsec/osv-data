@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18160","published":"2026-10-22T00:54:40Z","modified":"2026-10-22T01:30:04.491765834Z","summary":"Malicious code in benchworks (PyPI)","affected":[{"package":{"name":"benchworks","ecosystem":"PyPI","purl":"pkg:pypi/benchworks"},"versions":["0.1.0"]}]}

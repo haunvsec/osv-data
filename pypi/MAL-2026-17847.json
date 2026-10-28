@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17847","published":"2026-10-12T20:17:47Z","modified":"2026-10-13T15:00:03.786485622Z","summary":"Malicious code in npp-ml (PyPI)","affected":[{"package":{"name":"npp-ml","ecosystem":"PyPI","purl":"pkg:pypi/npp-ml"},"versions":["0.1.7","0.1.8","0.1.9","0.1.10"]}]}

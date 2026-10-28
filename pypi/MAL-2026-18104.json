@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18104","published":"2026-10-20T18:20:39Z","modified":"2026-10-22T23:45:03.532470872Z","summary":"Malicious code in semvver (PyPI)","affected":[{"package":{"name":"semvver","ecosystem":"PyPI","purl":"pkg:pypi/semvver"},"versions":["1.0.0"]}]}

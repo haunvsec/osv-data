@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18094","published":"2026-10-20T13:23:10Z","modified":"2026-10-20T14:30:03.767936616Z","summary":"Malicious code in pafex (PyPI)","affected":[{"package":{"name":"pafex","ecosystem":"PyPI","purl":"pkg:pypi/pafex"},"versions":["2.3"]}]}

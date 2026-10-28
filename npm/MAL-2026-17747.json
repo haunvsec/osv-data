@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17747","published":"2026-10-09T19:10:42Z","modified":"2026-10-11T14:30:09.207344728Z","summary":"Malicious code in kmf-i18n (npm)","affected":[{"package":{"name":"kmf-i18n","ecosystem":"npm","purl":"pkg:npm/kmf-i18n"},"versions":["100.100.102","100.100.101","100.100.100"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18105","published":"2026-10-20T18:45:40Z","modified":"2026-10-20T19:00:04.366280213Z","summary":"Malicious code in @securihackbot/depconf-stage-1792484738 (npm)","affected":[{"package":{"name":"@securihackbot/depconf-stage-1792484738","ecosystem":"npm","purl":"pkg:npm/%40securihackbot/depconf-stage-1792484738"},"versions":["1.0.0"]}]}

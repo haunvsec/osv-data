@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17755","published":"2026-10-10T11:19:48Z","modified":"2026-10-15T09:30:03.443557206Z","summary":"Malicious code in agent-vx (PyPI)","affected":[{"package":{"name":"agent-vx","ecosystem":"PyPI","purl":"pkg:pypi/agent-vx"},"versions":["0.1.0"]}]}

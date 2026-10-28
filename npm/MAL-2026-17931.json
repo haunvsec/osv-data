@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17931","published":"2026-10-19T06:27:07Z","modified":"2026-10-19T07:00:06.029972154Z","aliases":["GHSA-fm6q-x7qr-xmpw"],"summary":"Malicious code in aldi02-baileys (npm)","affected":[{"package":{"name":"aldi02-baileys","ecosystem":"npm","purl":"pkg:npm/aldi02-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

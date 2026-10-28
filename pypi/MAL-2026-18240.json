@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18240","published":"2026-10-23T15:52:39Z","modified":"2026-10-23T16:31:12.212003542Z","summary":"Malicious code in thornqueue (PyPI)","affected":[{"package":{"name":"thornqueue","ecosystem":"PyPI","purl":"pkg:pypi/thornqueue"},"versions":["0.1.0"]}]}

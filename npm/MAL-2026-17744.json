@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17744","published":"2026-10-09T15:49:57Z","modified":"2026-10-12T06:00:06.244415714Z","summary":"Malicious code in kmf-vendor-pack (npm)","affected":[{"package":{"name":"kmf-vendor-pack","ecosystem":"npm","purl":"pkg:npm/kmf-vendor-pack"},"versions":["99.0.0","100.100.101","100.100.100","100.100.106"]}]}

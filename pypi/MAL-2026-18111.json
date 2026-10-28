@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18111","published":"2026-10-20T20:50:18Z","modified":"2026-10-20T21:45:03.376912411Z","summary":"Malicious code in hijiko-pilaka (PyPI)","affected":[{"package":{"name":"hijiko-pilaka","ecosystem":"PyPI","purl":"pkg:pypi/hijiko-pilaka"},"versions":["1.0.0"]}]}

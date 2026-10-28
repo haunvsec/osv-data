@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18011","published":"2026-10-19T15:36:06Z","modified":"2026-10-19T16:45:16.696181146Z","aliases":["GHSA-75h5-8c3h-fgfg"],"summary":"Malicious code in f4iomt (npm)","affected":[{"package":{"name":"f4iomt","ecosystem":"npm","purl":"pkg:npm/f4iomt"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18135","published":"2026-10-21T23:02:49Z","modified":"2026-10-22T01:30:05.331458169Z","summary":"Malicious code in batchspar (PyPI)","affected":[{"package":{"name":"batchspar","ecosystem":"PyPI","purl":"pkg:pypi/batchspar"},"versions":["0.1.0"]}]}

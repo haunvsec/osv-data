@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18159","published":"2026-10-22T00:46:59Z","modified":"2026-10-22T01:30:04.475775509Z","summary":"Malicious code in benchbridge (PyPI)","affected":[{"package":{"name":"benchbridge","ecosystem":"PyPI","purl":"pkg:pypi/benchbridge"},"versions":["0.1.0"]}]}

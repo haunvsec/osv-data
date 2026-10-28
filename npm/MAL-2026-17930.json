@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17930","published":"2026-10-19T06:27:07Z","modified":"2026-10-19T07:00:06.025685197Z","aliases":["GHSA-rc7v-fm82-xp4x"],"summary":"Malicious code in aemath-baileys (npm)","affected":[{"package":{"name":"aemath-baileys","ecosystem":"npm","purl":"pkg:npm/aemath-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

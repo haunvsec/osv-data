@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17971","published":"2026-10-19T15:36:06Z","modified":"2026-10-19T16:45:13.545691785Z","aliases":["GHSA-c92v-wc47-vg7h"],"summary":"Malicious code in aqj3w7 (npm)","affected":[{"package":{"name":"aqj3w7","ecosystem":"npm","purl":"pkg:npm/aqj3w7"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

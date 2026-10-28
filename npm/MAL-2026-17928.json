@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17928","published":"2026-10-19T03:01:08Z","modified":"2026-10-25T15:30:05.641696057Z","summary":"Malicious code in @fcsmc/commercial-analytics (npm)","affected":[{"package":{"name":"@fcsmc/commercial-analytics","ecosystem":"npm","purl":"pkg:npm/%40fcsmc/commercial-analytics"},"versions":["99.9.1"]}]}

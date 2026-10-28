@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17990","published":"2026-10-19T15:29:18Z","modified":"2026-10-19T16:45:15.838866128Z","aliases":["GHSA-rhf8-vjg2-4vpv"],"summary":"Malicious code in bs58x64.js (npm)","affected":[{"package":{"name":"bs58x64.js","ecosystem":"npm","purl":"pkg:npm/bs58x64.js"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18221","published":"2026-10-23T15:29:15Z","modified":"2026-10-23T16:00:21.438854547Z","summary":"Malicious code in kestreljob (PyPI)","affected":[{"package":{"name":"kestreljob","ecosystem":"PyPI","purl":"pkg:pypi/kestreljob"},"versions":["0.1.0"]}]}

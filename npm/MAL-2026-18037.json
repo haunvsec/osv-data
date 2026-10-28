@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18037","published":"2026-10-19T15:36:06Z","modified":"2026-10-19T16:45:19.840674634Z","aliases":["GHSA-27jv-jmw5-c2v5"],"summary":"Malicious code in tkacg3 (npm)","affected":[{"package":{"name":"tkacg3","ecosystem":"npm","purl":"pkg:npm/tkacg3"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

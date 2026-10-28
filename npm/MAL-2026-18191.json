@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18191","published":"2026-10-22T18:46:02Z","modified":"2026-10-22T19:30:04.766532521Z","aliases":["GHSA-fhh5-55p8-29hj"],"summary":"Malicious code in @pkgship/frpc-darwin-amd64 (npm)","affected":[{"package":{"name":"@pkgship/frpc-darwin-amd64","ecosystem":"npm","purl":"pkg:npm/%40pkgship/frpc-darwin-amd64"},"versions":["0.71.1"]}]}

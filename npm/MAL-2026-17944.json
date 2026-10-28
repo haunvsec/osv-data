@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17944","published":"2026-10-19T15:36:06Z","modified":"2026-10-19T16:45:14.794025125Z","aliases":["GHSA-pppj-4j56-8jg6"],"summary":"Malicious code in 1n9lip (npm)","affected":[{"package":{"name":"1n9lip","ecosystem":"npm","purl":"pkg:npm/1n9lip"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

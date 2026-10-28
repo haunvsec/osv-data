@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18083","published":"2026-10-19T00:00:00Z","modified":"2026-10-20T06:15:04.944578499Z","summary":"Malicious code in tailwind-keyframes (npm)","affected":[{"package":{"name":"tailwind-keyframes","ecosystem":"npm","purl":"pkg:npm/tailwind-keyframes"},"versions":["2.0.6"]}]}

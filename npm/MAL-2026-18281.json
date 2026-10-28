@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18281","published":"2026-10-25T15:05:51Z","modified":"2026-10-25T15:30:04.552756714Z","summary":"Malicious code in @generic-means/ing-feat-scanner-libs (npm)","affected":[{"package":{"name":"@generic-means/ing-feat-scanner-libs","ecosystem":"npm","purl":"pkg:npm/%40generic-means/ing-feat-scanner-libs"},"versions":["99.9.1"]}]}

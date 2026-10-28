@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18156","published":"2026-10-22T00:28:12Z","modified":"2026-10-22T01:30:03.644218169Z","summary":"Malicious code in asrdock (PyPI)","affected":[{"package":{"name":"asrdock","ecosystem":"PyPI","purl":"pkg:pypi/asrdock"},"versions":["0.1.0"]}]}

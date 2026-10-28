@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18322","published":"2026-10-26T02:39:49Z","modified":"2026-10-26T04:45:04.716463066Z","aliases":["GHSA-682c-pwqm-7gxv"],"summary":"Malicious code in numbors (npm)","affected":[{"package":{"name":"numbors","ecosystem":"npm","purl":"pkg:npm/numbors"},"versions":["1.6.1"]}]}

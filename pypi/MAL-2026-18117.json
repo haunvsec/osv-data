@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18117","published":"2026-10-20T22:59:53Z","modified":"2026-10-22T23:45:03.528010719Z","summary":"Malicious code in deebug (PyPI)","affected":[{"package":{"name":"deebug","ecosystem":"PyPI","purl":"pkg:pypi/deebug"},"versions":["1.0.0"]}]}

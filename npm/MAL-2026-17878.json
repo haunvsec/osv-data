@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17878","published":"2026-10-26T01:34:10Z","modified":"2026-10-26T06:45:15.031055980Z","aliases":["GHSA-rc7p-6p9r-rfj9"],"summary":"Malicious code in util-foriepft (npm)","affected":[{"package":{"name":"util-foriepft","ecosystem":"npm","purl":"pkg:npm/util-foriepft"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

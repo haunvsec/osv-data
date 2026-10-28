@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18134","published":"2026-10-21T23:05:04Z","modified":"2026-10-22T01:30:03.577377179Z","summary":"Malicious code in aurenatts (PyPI)","affected":[{"package":{"name":"aurenatts","ecosystem":"PyPI","purl":"pkg:pypi/aurenatts"},"versions":["0.1.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18248","published":"2026-10-24T04:13:43Z","modified":"2026-10-24T04:45:04.058781101Z","aliases":["GHSA-v5v8-j5gm-pq8v"],"summary":"Malicious code in overarch-windows-x64-yr (npm)","affected":[{"package":{"name":"overarch-windows-x64-yr","ecosystem":"npm","purl":"pkg:npm/overarch-windows-x64-yr"},"versions":["2.0.0","1.4.0","1.5.0"]}]}

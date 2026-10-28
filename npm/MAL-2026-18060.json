@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18060","published":"2026-10-19T21:47:42Z","modified":"2026-10-19T22:30:05.386944355Z","aliases":["GHSA-h8cg-xwfv-9x77"],"summary":"Malicious code in codex-setup (npm)","affected":[{"package":{"name":"codex-setup","ecosystem":"npm","purl":"pkg:npm/codex-setup"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

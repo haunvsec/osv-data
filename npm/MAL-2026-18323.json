@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18323","published":"2026-10-26T06:31:13Z","modified":"2026-10-26T06:45:16.034881471Z","summary":"Malicious code in publish-poc-base (npm)","affected":[{"package":{"name":"publish-poc-base","ecosystem":"npm","purl":"pkg:npm/publish-poc-base"},"versions":["1.0.7"]}]}

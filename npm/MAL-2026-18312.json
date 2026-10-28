@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18312","published":"2026-10-26T01:34:10Z","modified":"2026-10-26T01:45:23.549239811Z","aliases":["GHSA-xv83-g4vx-88wf"],"summary":"Malicious code in css-flexgap-shim (npm)","affected":[{"package":{"name":"css-flexgap-shim","ecosystem":"npm","purl":"pkg:npm/css-flexgap-shim"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

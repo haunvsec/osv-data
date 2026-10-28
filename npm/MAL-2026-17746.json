@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17746","published":"2026-10-09T19:10:34Z","modified":"2026-10-11T14:30:09.336331761Z","summary":"Malicious code in kmf-bootstrap (npm)","affected":[{"package":{"name":"kmf-bootstrap","ecosystem":"npm","purl":"pkg:npm/kmf-bootstrap"},"versions":["100.100.102","100.100.103","100.100.106","100.100.101","100.100.100"]}]}

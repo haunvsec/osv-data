@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17935","published":"2026-10-19T12:24:06Z","modified":"2026-10-19T12:45:05.177365960Z","aliases":["GHSA-h7g6-q4c3-g8fr"],"summary":"Malicious code in dsjklweuvhgsdcq (npm)","affected":[{"package":{"name":"dsjklweuvhgsdcq","ecosystem":"npm","purl":"pkg:npm/dsjklweuvhgsdcq"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

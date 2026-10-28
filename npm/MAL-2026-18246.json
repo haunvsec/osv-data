@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18246","published":"2026-10-23T21:50:34Z","modified":"2026-10-23T22:30:05.013974194Z","aliases":["GHSA-8j59-g9mq-7hf9"],"summary":"Malicious code in orqiva-runtime-win32-x64 (npm)","affected":[{"package":{"name":"orqiva-runtime-win32-x64","ecosystem":"npm","purl":"pkg:npm/orqiva-runtime-win32-x64"},"versions":["0.1.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18154","published":"2026-10-22T00:22:15Z","modified":"2026-10-22T01:30:04.548881355Z","summary":"Malicious code in pipegrip (PyPI)","affected":[{"package":{"name":"pipegrip","ecosystem":"PyPI","purl":"pkg:pypi/pipegrip"},"versions":["0.1.0"]}]}

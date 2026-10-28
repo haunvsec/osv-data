@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17884","published":"2026-10-15T10:13:20Z","modified":"2026-10-26T19:00:41.021251171Z","summary":"Malicious code in getpubip (PyPI)","affected":[{"package":{"name":"getpubip","ecosystem":"PyPI","purl":"pkg:pypi/getpubip"},"versions":["0.1.0","0.1.1","0.1.2"]}]}

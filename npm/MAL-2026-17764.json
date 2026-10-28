@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17764","published":"2026-10-11T13:58:38Z","modified":"2026-10-11T14:30:08.356963213Z","summary":"Malicious code in @s4yhiitestpoc/r2-https (npm)","affected":[{"package":{"name":"@s4yhiitestpoc/r2-https","ecosystem":"npm","purl":"pkg:npm/%40s4yhiitestpoc/r2-https"},"versions":["1.0.0"]}]}

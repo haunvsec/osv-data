@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17988","published":"2026-10-19T15:29:17Z","modified":"2026-10-19T16:45:13.547420700Z","aliases":["GHSA-57vp-ppmx-cgc5"],"summary":"Malicious code in base58x64 (npm)","affected":[{"package":{"name":"base58x64","ecosystem":"npm","purl":"pkg:npm/base58x64"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

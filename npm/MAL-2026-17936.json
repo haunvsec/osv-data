@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17936","published":"2026-10-19T12:24:05Z","modified":"2026-10-19T12:45:05.170751441Z","aliases":["GHSA-cqch-q2w2-r565"],"summary":"Malicious code in mx3dxhgic8xhd6 (npm)","affected":[{"package":{"name":"mx3dxhgic8xhd6","ecosystem":"npm","purl":"pkg:npm/mx3dxhgic8xhd6"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

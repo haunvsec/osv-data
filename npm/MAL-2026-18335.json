@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18335","published":"2026-10-26T20:42:32Z","modified":"2026-10-26T21:30:05.269205908Z","aliases":["GHSA-2j3v-rjgw-5wgg"],"summary":"Malicious code in ctf-agent (npm)","affected":[{"package":{"name":"ctf-agent","ecosystem":"npm","purl":"pkg:npm/ctf-agent"},"versions":["0.1.0"]}]}

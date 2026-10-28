@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18265","published":"2026-10-25T09:35:17Z","modified":"2026-10-25T10:30:13.876041509Z","aliases":["GHSA-74xg-w33f-jpv3"],"summary":"Malicious code in p12-pem (npm)","affected":[{"package":{"name":"p12-pem","ecosystem":"npm","purl":"pkg:npm/p12-pem"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

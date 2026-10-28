@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17896","published":"2026-10-15T13:07:26Z","modified":"2026-10-16T07:30:04.930070627Z","summary":"Malicious code in xapi-lib (npm)","affected":[{"package":{"name":"xapi-lib","ecosystem":"npm","purl":"pkg:npm/xapi-lib"},"versions":["88.2.5","88.2.3","90.2.1","90.3.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17893","published":"2026-10-15T13:28:14Z","modified":"2026-10-16T04:15:23.583720660Z","summary":"Malicious code in buyerdashboard (npm)","affected":[{"package":{"name":"buyerdashboard","ecosystem":"npm","purl":"pkg:npm/buyerdashboard"},"versions":["45.3.4"]}]}

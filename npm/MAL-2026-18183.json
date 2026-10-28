@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18183","published":"2026-10-22T06:10:48Z","modified":"2026-10-22T06:45:04.772652670Z","summary":"Malicious code in @conduitops/logview-archive (npm)","affected":[{"package":{"name":"@conduitops/logview-archive","ecosystem":"npm","purl":"pkg:npm/%40conduitops/logview-archive"},"versions":["1.0.1"]}]}

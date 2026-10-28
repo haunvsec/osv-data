@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-17752","published":"2026-10-10T07:57:16Z","modified":"2026-10-15T09:30:03.446209650Z","summary":"Malicious code in agentaix (PyPI)","affected":[{"package":{"name":"agentaix","ecosystem":"PyPI","purl":"pkg:pypi/agentaix"},"versions":["0.1.0","0.2.0"]}]}

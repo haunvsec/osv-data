@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18107","published":"2026-10-20T18:14:53Z","modified":"2026-10-20T19:30:08.371132811Z","aliases":["GHSA-fj85-27r8-hgfg"],"summary":"Malicious code in nwfp-build-config (npm)","affected":[{"package":{"name":"nwfp-build-config","ecosystem":"npm","purl":"pkg:npm/nwfp-build-config"},"versions":["1.0.0","0.0.0-stage"]}]}

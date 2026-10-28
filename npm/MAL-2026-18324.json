@@ -1,0 +1,1 @@
+{"schema_version":"1.9.0","id":"MAL-2026-18324","published":"2026-10-26T06:30:51Z","modified":"2026-10-26T06:45:16.032250328Z","summary":"Malicious code in publish-poc-test3 (npm)","affected":[{"package":{"name":"publish-poc-test3","ecosystem":"npm","purl":"pkg:npm/publish-poc-test3"},"versions":["1.0.15","1.0.27","1.0.18","1.0.22","1.0.19","1.0.26","1.0.21"]}]}
