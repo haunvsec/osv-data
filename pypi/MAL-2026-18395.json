@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18395","published":"2026-10-29T19:58:03Z","modified":"2026-10-30T12:45:13.380141410Z","summary":"Malicious code in bq-helix-build-hook-6ade983e (PyPI)","affected":[{"package":{"name":"bq-helix-build-hook-6ade983e","ecosystem":"PyPI","purl":"pkg:pypi/bq-helix-build-hook-6ade983e"},"versions":["0.1.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18389","published":"2026-10-29T15:37:27Z","modified":"2026-10-30T12:45:13.251063131Z","aliases":["GHSA-6ggw-hqvq-8wcm"],"summary":"Malicious code in m98bet (npm)","affected":[{"package":{"name":"m98bet","ecosystem":"npm","purl":"pkg:npm/m98bet"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

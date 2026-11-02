@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18369","published":"2026-10-29T13:39:05Z","modified":"2026-10-29T14:30:41.575707801Z","summary":"Malicious code in mui-wrapper-x-date-pickers (npm)","affected":[{"package":{"name":"mui-wrapper-x-date-pickers","ecosystem":"npm","purl":"pkg:npm/mui-wrapper-x-date-pickers"},"versions":["1.0.0","10.0.0"]}]}

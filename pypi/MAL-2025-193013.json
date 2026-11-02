@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2025-193013","published":"2026-02-11T10:04:22Z","modified":"2026-03-13T06:51:07.409366Z","summary":"Malicious code in tablixs (PyPI)","affected":[{"package":{"name":"tablixs","ecosystem":"PyPI","purl":"pkg:pypi/tablixs"},"versions":["1.0.1"]}]}
+{"schema_version":"1.9.2","id":"MAL-2025-193013","published":"2026-02-11T10:04:22Z","modified":"2026-10-30T09:45:05.068981841Z","summary":"Malicious code in tablixs (PyPI)","affected":[{"package":{"name":"tablixs","ecosystem":"PyPI","purl":"pkg:pypi/tablixs"},"versions":["1.0.1"]}]}

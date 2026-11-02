@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18363","published":"2026-10-28T18:25:37Z","modified":"2026-10-28T19:30:04.334419039Z","aliases":["GHSA-x788-rmcm-4x49"],"summary":"Malicious code in itsa-utils (npm)","affected":[{"package":{"name":"itsa-utils","ecosystem":"npm","purl":"pkg:npm/itsa-utils"},"versions":["1.4.2"]}]}

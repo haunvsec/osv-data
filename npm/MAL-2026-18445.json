@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18445","published":"2026-10-29T00:00:00Z","modified":"2026-11-02T05:00:05.964247329Z","summary":"Malicious code in self-v8 (npm)","affected":[{"package":{"name":"self-v8","ecosystem":"npm","purl":"pkg:npm/self-v8"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

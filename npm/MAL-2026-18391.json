@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18391","published":"2026-10-29T15:37:27Z","modified":"2026-10-30T12:45:15.875002806Z","aliases":["GHSA-gp92-xqcg-876c"],"summary":"Malicious code in m98vip (npm)","affected":[{"package":{"name":"m98vip","ecosystem":"npm","purl":"pkg:npm/m98vip"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

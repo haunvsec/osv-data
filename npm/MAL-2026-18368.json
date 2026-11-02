@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18368","published":"2026-10-28T05:37:50Z","modified":"2026-10-29T14:30:44.623901641Z","summary":"Malicious code in spectral-net-probe (npm)","affected":[{"package":{"name":"spectral-net-probe","ecosystem":"npm","purl":"pkg:npm/spectral-net-probe"},"versions":["1.0.1","1.0.4","1.0.10"]}]}

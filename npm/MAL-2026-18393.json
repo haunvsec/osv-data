@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18393","published":"2026-10-29T18:47:30Z","modified":"2026-10-30T12:45:15.727192695Z","aliases":["GHSA-w9pq-6r9f-pj96"],"summary":"Malicious code in orderbook-volt-plugin (npm)","affected":[{"package":{"name":"orderbook-volt-plugin","ecosystem":"npm","purl":"pkg:npm/orderbook-volt-plugin"},"versions":["0.0.2","0.0.1","0.0.0-stage"]}]}

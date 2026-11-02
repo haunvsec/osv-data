@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2025-193012","published":"2026-02-06T14:04:11Z","modified":"2026-03-13T06:51:02.464331Z","summary":"Malicious code in gridifies (PyPI)","affected":[{"package":{"name":"gridifies","ecosystem":"PyPI","purl":"pkg:pypi/gridifies"},"versions":["1.0.2"]}]}
+{"schema_version":"1.9.2","id":"MAL-2025-193012","published":"2026-02-06T14:04:11Z","modified":"2026-10-30T09:45:05.075896768Z","summary":"Malicious code in gridifies (PyPI)","affected":[{"package":{"name":"gridifies","ecosystem":"PyPI","purl":"pkg:pypi/gridifies"},"versions":["1.0.2"]}]}

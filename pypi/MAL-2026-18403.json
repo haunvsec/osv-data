@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18403","published":"2026-10-29T23:44:17Z","modified":"2026-10-30T12:45:13.353501899Z","summary":"Malicious code in twitter-request-diagnostics (PyPI)","affected":[{"package":{"name":"twitter-request-diagnostics","ecosystem":"PyPI","purl":"pkg:pypi/twitter-request-diagnostics"},"versions":["1.0.0"]}]}

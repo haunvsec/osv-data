@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18383","published":"2026-10-29T15:37:28Z","modified":"2026-10-30T12:45:14.550134764Z","aliases":["GHSA-6xqc-cfvp-q89v"],"summary":"Malicious code in 789bet-entrance (npm)","affected":[{"package":{"name":"789bet-entrance","ecosystem":"npm","purl":"pkg:npm/789bet-entrance"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

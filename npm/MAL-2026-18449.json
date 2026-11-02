@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18449","published":"2026-10-31T13:10:23Z","modified":"2026-11-02T05:45:05.459796615Z","summary":"Malicious code in ms-client-portal (npm)","affected":[{"package":{"name":"ms-client-portal","ecosystem":"npm","purl":"pkg:npm/ms-client-portal"},"versions":["1.0.0","10.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18434","published":"2026-11-01T08:01:49Z","modified":"2026-11-01T08:30:04.587654033Z","summary":"Malicious code in hs-framework (npm)","affected":[{"package":{"name":"hs-framework","ecosystem":"npm","purl":"pkg:npm/hs-framework"},"versions":["999.9.1","999.9.2"]}]}

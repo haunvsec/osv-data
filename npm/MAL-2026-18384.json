@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18384","published":"2026-10-29T15:37:28Z","modified":"2026-10-30T12:45:14.530284852Z","aliases":["GHSA-wg3r-wqgc-7fgf"],"summary":"Malicious code in 789bet-login-th (npm)","affected":[{"package":{"name":"789bet-login-th","ecosystem":"npm","purl":"pkg:npm/789bet-login-th"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

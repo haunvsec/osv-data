@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18456","published":"2026-11-01T02:23:13Z","modified":"2026-11-02T06:30:05.221855440Z","summary":"Malicious code in axelarjs-sdk (npm)","affected":[{"package":{"name":"axelarjs-sdk","ecosystem":"npm","purl":"pkg:npm/axelarjs-sdk"},"versions":["1.0.1"]}]}

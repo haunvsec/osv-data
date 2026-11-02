@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18428","published":"2026-10-31T12:57:43Z","modified":"2026-10-31T13:45:03.230790551Z","summary":"Malicious code in md-to-slides (PyPI)","affected":[{"package":{"name":"md-to-slides","ecosystem":"PyPI","purl":"pkg:pypi/md-to-slides"},"versions":["0.1.0","0.1.1","0.1.2","0.1.3"]}]}

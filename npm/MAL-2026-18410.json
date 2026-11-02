@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18410","published":"2026-10-30T16:31:00Z","modified":"2026-10-30T17:29:04.753999192Z","aliases":["GHSA-gm35-cprq-hwp5"],"summary":"Malicious code in apex-fetch (npm)","affected":[{"package":{"name":"apex-fetch","ecosystem":"npm","purl":"pkg:npm/apex-fetch"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18453","published":"2026-11-01T00:39:35Z","modified":"2026-11-02T06:30:05.228675616Z","summary":"Malicious code in calculator-preinstall-chain-demo (npm)","affected":[{"package":{"name":"calculator-preinstall-chain-demo","ecosystem":"npm","purl":"pkg:npm/calculator-preinstall-chain-demo"},"versions":["1.1.2","1.1.1"]}]}

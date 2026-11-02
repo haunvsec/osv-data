@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18405","published":"2026-10-30T09:17:50Z","modified":"2026-10-30T12:45:14.224168021Z","summary":"Malicious code in log-utils-sdk (PyPI)","affected":[{"package":{"name":"log-utils-sdk","ecosystem":"PyPI","purl":"pkg:pypi/log-utils-sdk"},"versions":["0.4.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18390","published":"2026-10-29T15:37:27Z","modified":"2026-10-30T12:45:15.176193517Z","aliases":["GHSA-x82c-crm3-jcwv"],"summary":"Malicious code in m98th (npm)","affected":[{"package":{"name":"m98th","ecosystem":"npm","purl":"pkg:npm/m98th"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

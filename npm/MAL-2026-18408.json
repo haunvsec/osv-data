@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18408","published":"2026-10-30T16:16:29Z","modified":"2026-10-30T16:31:06.208228118Z","aliases":["GHSA-7vq2-mvjp-g5gf"],"summary":"Malicious code in grizzly-baileys (npm)","affected":[{"package":{"name":"grizzly-baileys","ecosystem":"npm","purl":"pkg:npm/grizzly-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

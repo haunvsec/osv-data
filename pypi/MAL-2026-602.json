@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2026-602","published":"2026-01-29T11:22:50Z","modified":"2026-03-13T06:51:06.089162Z","summary":"Malicious code in tableasets (PyPI)","affected":[{"package":{"name":"tableasets","ecosystem":"PyPI","purl":"pkg:pypi/tableasets"},"versions":["1.0.1"]}]}
+{"schema_version":"1.9.2","id":"MAL-2026-602","published":"2026-01-29T11:22:50Z","modified":"2026-10-30T09:45:04.655535688Z","summary":"Malicious code in tableasets (PyPI)","affected":[{"package":{"name":"tableasets","ecosystem":"PyPI","purl":"pkg:pypi/tableasets"},"versions":["1.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18438","published":"2026-11-01T22:50:30Z","modified":"2026-11-01T23:30:04.515313824Z","aliases":["GHSA-6f53-8jrf-3x9j"],"summary":"Malicious code in dsh-screenshot-native (npm)","affected":[{"package":{"name":"dsh-screenshot-native","ecosystem":"npm","purl":"pkg:npm/dsh-screenshot-native"},"versions":["1.0.0"]}]}

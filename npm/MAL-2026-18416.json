@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18416","published":"2026-10-29T21:26:01Z","modified":"2026-11-02T05:15:06.251470876Z","aliases":["GHSA-7p3p-8gfg-8grq"],"summary":"Malicious code in dependencykfeg (npm)","affected":[{"package":{"name":"dependencykfeg","ecosystem":"npm","purl":"pkg:npm/dependencykfeg"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

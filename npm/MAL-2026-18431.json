@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18431","published":"2026-10-31T16:09:39Z","modified":"2026-10-31T16:30:32.785326159Z","aliases":["GHSA-fg5w-8hhw-8j6h"],"summary":"Malicious code in @mamans2973/maman (npm)","affected":[{"package":{"name":"@mamans2973/maman","ecosystem":"npm","purl":"pkg:npm/%40mamans2973/maman"},"versions":["1.0.1","1.0.0","1.0.3","1.0.2"]}]}

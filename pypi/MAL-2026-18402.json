@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18402","published":"2026-10-29T23:42:32Z","modified":"2026-10-30T12:45:13.382644887Z","summary":"Malicious code in test-01-rafamarrara-learning-dc (PyPI)","affected":[{"package":{"name":"test-01-rafamarrara-learning-dc","ecosystem":"PyPI","purl":"pkg:pypi/test-01-rafamarrara-learning-dc"},"versions":["1.0.0"]}]}

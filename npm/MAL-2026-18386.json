@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18386","published":"2026-10-29T15:37:28Z","modified":"2026-10-30T12:45:14.491573446Z","aliases":["GHSA-rvxc-82gp-xpr6"],"summary":"Malicious code in 789bet-vip (npm)","affected":[{"package":{"name":"789bet-vip","ecosystem":"npm","purl":"pkg:npm/789bet-vip"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

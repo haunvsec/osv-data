@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18447","published":"2026-10-29T07:22:48Z","modified":"2026-11-02T05:15:06.170922124Z","summary":"Malicious code in zystcdemo (npm)","affected":[{"package":{"name":"zystcdemo","ecosystem":"npm","purl":"pkg:npm/zystcdemo"},"versions":["1.0.0"]}]}

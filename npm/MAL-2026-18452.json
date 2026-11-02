@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18452","published":"2026-11-01T01:46:22Z","modified":"2026-11-02T06:30:05.231905184Z","summary":"Malicious code in sol-wallet-adapter (npm)","affected":[{"package":{"name":"sol-wallet-adapter","ecosystem":"npm","purl":"pkg:npm/sol-wallet-adapter"},"versions":["1.0.0","1.0.1","1.0.7"]}]}

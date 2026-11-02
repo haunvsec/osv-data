@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18427","published":"2026-10-31T12:55:07Z","modified":"2026-10-31T13:45:03.225777567Z","summary":"Malicious code in skills-analyzer (PyPI)","affected":[{"package":{"name":"skills-analyzer","ecosystem":"PyPI","purl":"pkg:pypi/skills-analyzer"},"versions":["0.1.0","0.1.1","0.1.2"]}]}

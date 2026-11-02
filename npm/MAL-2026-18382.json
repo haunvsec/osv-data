@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18382","published":"2026-10-29T15:37:27Z","modified":"2026-10-30T12:45:13.993042081Z","aliases":["GHSA-cccw-qphx-7whg"],"summary":"Malicious code in 789bet (npm)","affected":[{"package":{"name":"789bet","ecosystem":"npm","purl":"pkg:npm/789bet"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

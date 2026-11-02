@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18371","published":"2026-10-29T13:39:58Z","modified":"2026-10-29T14:30:41.512619302Z","summary":"Malicious code in mw-test-utils (npm)","affected":[{"package":{"name":"mw-test-utils","ecosystem":"npm","purl":"pkg:npm/mw-test-utils"},"versions":["1.0.0","10.0.0","10.0.1"]}]}

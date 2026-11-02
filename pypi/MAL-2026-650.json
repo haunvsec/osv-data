@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2026-650","published":"2026-02-02T12:56:55Z","modified":"2026-03-13T06:51:05.326236Z","summary":"Malicious code in tableapy (PyPI)","affected":[{"package":{"name":"tableapy","ecosystem":"PyPI","purl":"pkg:pypi/tableapy"},"versions":["1.0.1"]}]}
+{"schema_version":"1.9.2","id":"MAL-2026-650","published":"2026-02-02T12:56:55Z","modified":"2026-10-30T09:45:04.078379823Z","summary":"Malicious code in tableapy (PyPI)","affected":[{"package":{"name":"tableapy","ecosystem":"PyPI","purl":"pkg:pypi/tableapy"},"versions":["1.0.1"]}]}

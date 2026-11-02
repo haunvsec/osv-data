@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18406","published":"2026-10-30T10:03:06Z","modified":"2026-10-30T12:45:13.385042287Z","summary":"Malicious code in stdid-nyxprobe (PyPI)","affected":[{"package":{"name":"stdid-nyxprobe","ecosystem":"PyPI","purl":"pkg:pypi/stdid-nyxprobe"},"versions":["0.0.1","0.0.2"]}]}

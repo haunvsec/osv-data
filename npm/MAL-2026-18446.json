@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18446","published":"2026-10-29T00:00:00Z","modified":"2026-11-02T05:15:06.163819517Z","summary":"Malicious code in @notrainer/nobtrainer-sdk (npm)","affected":[{"package":{"name":"@notrainer/nobtrainer-sdk","ecosystem":"npm","purl":"pkg:npm/%40notrainer%2Fnobtrainer-sdk"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

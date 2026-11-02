@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2026-698","published":"2026-02-03T09:30:09Z","modified":"2026-03-13T06:51:04.032433Z","summary":"Malicious code in tableshow (PyPI)","affected":[{"package":{"name":"tableshow","ecosystem":"PyPI","purl":"pkg:pypi/tableshow"},"versions":["1.0.6"]}]}
+{"schema_version":"1.9.2","id":"MAL-2026-698","published":"2026-02-03T09:30:09Z","modified":"2026-10-30T09:45:04.089500025Z","summary":"Malicious code in tableshow (PyPI)","affected":[{"package":{"name":"tableshow","ecosystem":"PyPI","purl":"pkg:pypi/tableshow"},"versions":["1.0.6"]}]}

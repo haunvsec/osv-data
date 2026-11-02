@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18381","published":"2026-10-29T14:23:51Z","modified":"2026-10-30T12:45:14.798731056Z","aliases":["GHSA-pr23-gvcv-c422"],"summary":"Malicious code in cjlowuxbnexkhgpzq (npm)","affected":[{"package":{"name":"cjlowuxbnexkhgpzq","ecosystem":"npm","purl":"pkg:npm/cjlowuxbnexkhgpzq"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

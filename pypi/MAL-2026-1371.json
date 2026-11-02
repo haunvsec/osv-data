@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2026-1371","published":"2026-03-12T15:25:30Z","modified":"2026-03-14T04:19:22.200164Z","summary":"Malicious code in collecters (PyPI)","affected":[{"package":{"name":"collecters","ecosystem":"PyPI","purl":"pkg:pypi/collecters"},"versions":["1.0.1"]}]}
+{"schema_version":"1.9.2","id":"MAL-2026-1371","published":"2026-03-12T15:25:30Z","modified":"2026-10-30T09:45:03.356513238Z","summary":"Malicious code in collecters (PyPI)","affected":[{"package":{"name":"collecters","ecosystem":"PyPI","purl":"pkg:pypi/collecters"},"versions":["1.0.1"]}]}

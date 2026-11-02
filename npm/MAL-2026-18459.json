@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18459","published":"2026-11-01T21:33:18Z","modified":"2026-11-02T06:30:05.234104221Z","summary":"Malicious code in wallet-adapter-base (npm)","affected":[{"package":{"name":"wallet-adapter-base","ecosystem":"npm","purl":"pkg:npm/wallet-adapter-base"},"versions":["1.0.0"]}]}

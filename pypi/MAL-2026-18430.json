@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18430","published":"2026-10-31T13:39:43Z","modified":"2026-10-31T14:15:03.920887883Z","summary":"Malicious code in doctreelstm (PyPI)","affected":[{"package":{"name":"doctreelstm","ecosystem":"PyPI","purl":"pkg:pypi/doctreelstm"},"versions":["1.0.0","10.0.0"]}]}

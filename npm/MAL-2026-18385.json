@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18385","published":"2026-10-29T15:37:28Z","modified":"2026-10-30T12:45:14.950203641Z","aliases":["GHSA-q68g-454g-9qww"],"summary":"Malicious code in 789bet-slot (npm)","affected":[{"package":{"name":"789bet-slot","ecosystem":"npm","purl":"pkg:npm/789bet-slot"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

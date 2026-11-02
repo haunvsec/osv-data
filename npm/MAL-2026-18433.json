@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18433","published":"2026-11-01T08:02:02Z","modified":"2026-11-02T02:30:05.130684547Z","summary":"Malicious code in @axon-web/icons (npm)","affected":[{"package":{"name":"@axon-web/icons","ecosystem":"npm","purl":"pkg:npm/%40axon-web/icons"},"versions":["99.0.0","2.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18359","published":"2026-10-28T16:15:41Z","modified":"2026-10-29T13:48:10.613996730Z","summary":"Malicious code in black-spindle (npm)","affected":[{"package":{"name":"black-spindle","ecosystem":"npm","purl":"pkg:npm/black-spindle"},"versions":["999.0.0"]}]}

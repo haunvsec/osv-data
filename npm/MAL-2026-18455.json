@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18455","published":"2026-11-02T06:05:54Z","modified":"2026-11-02T06:15:04.805072894Z","summary":"Malicious code in scdn-jquery (npm)","affected":[{"package":{"name":"scdn-jquery","ecosystem":"npm","purl":"pkg:npm/scdn-jquery"},"versions":["0.1.6"]}]}

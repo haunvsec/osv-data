@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18370","published":"2026-10-29T13:40:04Z","modified":"2026-10-29T14:30:41.511770793Z","summary":"Malicious code in mw-communication-client (npm)","affected":[{"package":{"name":"mw-communication-client","ecosystem":"npm","purl":"pkg:npm/mw-communication-client"},"versions":["10.0.0","1.0.1"]}]}

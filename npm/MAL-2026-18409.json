@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18409","published":"2026-10-30T15:30:35Z","modified":"2026-10-30T16:31:05.538051873Z","aliases":["GHSA-2qvg-983g-prh5"],"summary":"Malicious code in tabby-fknat (npm)","affected":[{"package":{"name":"tabby-fknat","ecosystem":"npm","purl":"pkg:npm/tabby-fknat"},"versions":["0.1.2"]}]}

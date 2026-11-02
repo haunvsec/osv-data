@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18378","published":"2026-10-29T14:59:05Z","modified":"2026-10-29T15:30:07.003946627Z","summary":"Malicious code in poc-revshell (PyPI)","affected":[{"package":{"name":"poc-revshell","ecosystem":"PyPI","purl":"pkg:pypi/poc-revshell"},"versions":["0.1.0"]}]}

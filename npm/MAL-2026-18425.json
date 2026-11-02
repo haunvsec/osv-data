@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18425","published":"2026-10-31T07:57:13Z","modified":"2026-10-31T08:30:04.463975866Z","aliases":["GHSA-7j62-5j84-72fv"],"summary":"Malicious code in local-commander-agent (npm)","affected":[{"package":{"name":"local-commander-agent","ecosystem":"npm","purl":"pkg:npm/local-commander-agent"},"versions":["0.3.52"]}]}

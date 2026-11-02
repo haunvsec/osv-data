@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18375","published":"2026-10-29T14:53:35Z","modified":"2026-10-29T15:30:05.414626948Z","summary":"Malicious code in @dmangal/curse-dependent-ecto (npm)","affected":[{"package":{"name":"@dmangal/curse-dependent-ecto","ecosystem":"npm","purl":"pkg:npm/%40dmangal/curse-dependent-ecto"},"versions":["99999.0.2","99999.0.1","99999.0.0"]}]}

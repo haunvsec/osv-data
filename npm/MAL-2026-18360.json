@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18360","published":"2026-10-28T18:23:12Z","modified":"2026-10-28T18:30:05.246136538Z","aliases":["GHSA-46r9-rx5f-hqqf"],"summary":"Malicious code in itsa-react-checkbox (npm)","affected":[{"package":{"name":"itsa-react-checkbox","ecosystem":"npm","purl":"pkg:npm/itsa-react-checkbox"},"versions":["16.0.5"]}]}

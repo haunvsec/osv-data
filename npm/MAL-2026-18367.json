@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18367","published":"2026-10-28T06:56:31Z","modified":"2026-10-29T14:30:40.997539037Z","summary":"Malicious code in identity-two-factor (npm)","affected":[{"package":{"name":"identity-two-factor","ecosystem":"npm","purl":"pkg:npm/identity-two-factor"},"versions":["999.0.0"]}]}

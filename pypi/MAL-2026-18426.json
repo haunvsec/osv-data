@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18426","published":"2026-10-31T12:48:49Z","modified":"2026-10-31T13:15:04.799227502Z","summary":"Malicious code in is-it-ai (PyPI)","affected":[{"package":{"name":"is-it-ai","ecosystem":"PyPI","purl":"pkg:pypi/is-it-ai"},"versions":["0.1.0","0.1.1","0.1.3"]}]}

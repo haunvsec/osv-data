@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18411","published":"2026-10-30T17:11:28Z","modified":"2026-10-30T17:30:02.348147887Z","aliases":["GHSA-367q-mf84-m8j3"],"summary":"Malicious code in neuralwhatsapp (npm)","affected":[{"package":{"name":"neuralwhatsapp","ecosystem":"npm","purl":"pkg:npm/neuralwhatsapp"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}
