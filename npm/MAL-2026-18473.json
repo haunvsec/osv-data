@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18473","published":"2026-11-02T17:13:23Z","modified":"2026-11-02T17:25:33.514131254Z","aliases":["GHSA-g4x3-g43p-pwrw"],"summary":"Malicious code in @maulenv/baileys (npm)","affected":[{"package":{"name":"@maulenv/baileys","ecosystem":"npm","purl":"pkg:npm/%40maulenv/baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

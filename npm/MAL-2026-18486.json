@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18486","published":"2026-11-02T20:58:44Z","modified":"2026-11-02T21:15:06.842734679Z","summary":"Malicious code in @ifasn/md-doc-mcp (npm)","affected":[{"package":{"name":"@ifasn/md-doc-mcp","ecosystem":"npm","purl":"pkg:npm/%40ifasn/md-doc-mcp"},"versions":["1.0.5","1.0.3","1.0.4"]}]}

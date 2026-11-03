@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18482","published":"2026-11-02T16:58:28Z","modified":"2026-11-02T17:30:03.349355844Z","aliases":["GHSA-89v8-j949-j3h5"],"summary":"Malicious code in unjailed (npm)","affected":[{"package":{"name":"unjailed","ecosystem":"npm","purl":"pkg:npm/unjailed"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

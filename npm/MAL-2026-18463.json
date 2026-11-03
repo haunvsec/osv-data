@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18463","published":"2026-11-02T11:02:02Z","modified":"2026-11-02T11:30:07.736219695Z","aliases":["GHSA-2v69-q2gc-qm5j"],"summary":"Malicious code in persona-ai-sdk (npm)","affected":[{"package":{"name":"persona-ai-sdk","ecosystem":"npm","purl":"pkg:npm/persona-ai-sdk"},"versions":["1.0.0"]}]}

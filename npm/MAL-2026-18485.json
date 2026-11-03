@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18485","published":"2026-11-02T17:17:45Z","modified":"2026-11-02T18:30:04.777735126Z","aliases":["GHSA-m4h2-gmhc-mhcp"],"summary":"Malicious code in pandafortunerush (npm)","affected":[{"package":{"name":"pandafortunerush","ecosystem":"npm","purl":"pkg:npm/pandafortunerush"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

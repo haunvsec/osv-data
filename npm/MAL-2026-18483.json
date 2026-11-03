@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18483","published":"2026-11-02T17:32:07Z","modified":"2026-11-02T18:30:04.762752001Z","aliases":["GHSA-pg3x-mr83-5crv"],"summary":"Malicious code in bfvkjmeikpwhqxc (npm)","affected":[{"package":{"name":"bfvkjmeikpwhqxc","ecosystem":"npm","purl":"pkg:npm/bfvkjmeikpwhqxc"},"versions":["1.0.0","1.0.1","0.0.0-stage"]}]}

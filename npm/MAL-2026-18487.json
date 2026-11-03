@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18487","published":"2026-11-02T20:58:05Z","modified":"2026-11-02T21:15:06.809765250Z","summary":"Malicious code in @ifasn/mdd-doc-mcp (npm)","affected":[{"package":{"name":"@ifasn/mdd-doc-mcp","ecosystem":"npm","purl":"pkg:npm/%40ifasn/mdd-doc-mcp"},"versions":["1.0.7","1.0.8","2.0.6"]}]}
