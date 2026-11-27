@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18953","published":"2026-10-27T00:00:00Z","modified":"2026-11-12T17:30:40.586955460Z","aliases":["GHSA-xc73-36mq-8442"],"summary":"Malicious code in budetzz (npm)","affected":[{"package":{"name":"budetzz","ecosystem":"npm","purl":"pkg:npm/budetzz"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

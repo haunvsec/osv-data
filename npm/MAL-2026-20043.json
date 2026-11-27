@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20043","published":"2026-11-16T04:10:00Z","modified":"2026-11-25T03:30:07.157566285Z","aliases":["GHSA-h4r5-vmch-5qgh"],"summary":"Malicious code in @wppconnect/server (npm)","affected":[{"package":{"name":"@wppconnect/server","ecosystem":"npm","purl":"pkg:npm/%40wppconnect/server"},"versions":["2.10.82"]}]}

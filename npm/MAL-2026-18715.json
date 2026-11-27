@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18715","published":"2026-11-05T22:23:19Z","modified":"2026-11-05T23:30:04.519015109Z","aliases":["GHSA-3x5r-f82m-84w9"],"summary":"Malicious code in talk-lang (npm)","affected":[{"package":{"name":"talk-lang","ecosystem":"npm","purl":"pkg:npm/talk-lang"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

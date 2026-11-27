@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18730","published":"2026-11-06T17:15:48Z","modified":"2026-11-25T10:32:33.395664984Z","aliases":["GHSA-xmwx-vmwg-j2pp"],"summary":"Malicious code in wisdomtreetest (npm)","affected":[{"package":{"name":"wisdomtreetest","ecosystem":"npm","purl":"pkg:npm/wisdomtreetest"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

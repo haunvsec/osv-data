@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20606","published":"2026-11-25T15:43:57Z","modified":"2026-11-25T16:30:05.633063497Z","summary":"Malicious code in hyjui-klopa (npm)","affected":[{"package":{"name":"hyjui-klopa","ecosystem":"npm","purl":"pkg:npm/hyjui-klopa"},"versions":["1.0.0"]}]}

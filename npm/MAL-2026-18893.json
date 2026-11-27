@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18893","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:25.062837855Z","summary":"Malicious code in @sanzsayangvien/baileys-pro (npm)","affected":[{"package":{"name":"@sanzsayangvien/baileys-pro","ecosystem":"npm","purl":"pkg:npm/%40sanzsayangvien/baileys-pro"},"versions":["2.0.4"]}]}

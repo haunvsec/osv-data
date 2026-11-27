@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20277","published":"2026-11-20T02:14:27Z","modified":"2026-11-20T02:30:08.615085007Z","summary":"Malicious code in @awazevr/mfe-common.contexts.guest-auth (npm)","affected":[{"package":{"name":"@awazevr/mfe-common.contexts.guest-auth","ecosystem":"npm","purl":"pkg:npm/%40awazevr/mfe-common.contexts.guest-auth"},"versions":["1.0.0"]}]}

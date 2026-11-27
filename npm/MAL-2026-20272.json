@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20272","published":"2026-11-20T01:02:15Z","modified":"2026-11-20T02:30:09.186879609Z","aliases":["GHSA-hq35-gwxr-qq5x"],"summary":"Malicious code in tsbwt-hawsi-util (npm)","affected":[{"package":{"name":"tsbwt-hawsi-util","ecosystem":"npm","purl":"pkg:npm/tsbwt-hawsi-util"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

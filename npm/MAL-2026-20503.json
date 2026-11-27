@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20503","published":"2026-11-24T16:53:40Z","modified":"2026-11-25T07:00:04.400807501Z","aliases":["GHSA-cx3g-72gj-7hfw"],"summary":"Malicious code in whoami-notifier (npm)","affected":[{"package":{"name":"whoami-notifier","ecosystem":"npm","purl":"pkg:npm/whoami-notifier"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

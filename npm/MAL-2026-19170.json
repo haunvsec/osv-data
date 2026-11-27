@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19170","published":"2026-11-12T16:08:40Z","modified":"2026-11-12T16:30:04.936573015Z","aliases":["GHSA-hwh7-67rg-8g7m"],"summary":"Malicious code in tgnotify-bite (npm)","affected":[{"package":{"name":"tgnotify-bite","ecosystem":"npm","purl":"pkg:npm/tgnotify-bite"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

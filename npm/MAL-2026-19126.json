@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19126","published":"2026-11-11T16:05:18Z","modified":"2026-11-11T16:30:44.596825885Z","aliases":["GHSA-24hp-9mx5-pqw7"],"summary":"Malicious code in aurelia-type (npm)","affected":[{"package":{"name":"aurelia-type","ecosystem":"npm","purl":"pkg:npm/aurelia-type"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20151","published":"2026-11-19T00:35:08Z","modified":"2026-11-19T00:45:38.316779564Z","aliases":["GHSA-8qfh-wjm9-48gh"],"summary":"Malicious code in ios-news (npm)","affected":[{"package":{"name":"ios-news","ecosystem":"npm","purl":"pkg:npm/ios-news"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

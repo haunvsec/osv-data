@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18578","published":"2026-11-03T17:35:23Z","modified":"2026-11-03T18:30:16.604982700Z","aliases":["GHSA-g9g2-jmg8-55w6"],"summary":"Malicious code in y0syoh (npm)","affected":[{"package":{"name":"y0syoh","ecosystem":"npm","purl":"pkg:npm/y0syoh"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

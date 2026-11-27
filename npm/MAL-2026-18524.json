@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18524","published":"2026-11-03T09:21:40Z","modified":"2026-11-03T10:30:04.412209630Z","aliases":["GHSA-xfv7-hqg2-67x3"],"summary":"Malicious code in vibes-plug (npm)","affected":[{"package":{"name":"vibes-plug","ecosystem":"npm","purl":"pkg:npm/vibes-plug"},"versions":["4.5.0"]}]}

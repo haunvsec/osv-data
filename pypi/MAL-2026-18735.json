@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18735","published":"2026-11-06T20:33:22Z","modified":"2026-11-08T10:15:03.265464047Z","summary":"Malicious code in hello-bat-fwi9 (PyPI)","affected":[{"package":{"name":"hello-bat-fwi9","ecosystem":"PyPI","purl":"pkg:pypi/hello-bat-fwi9"},"versions":["0.1.0","0.1.1"]}]}

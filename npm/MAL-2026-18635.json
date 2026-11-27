@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18635","published":"2026-11-04T17:28:45Z","modified":"2026-11-13T03:45:13.584616915Z","aliases":["GHSA-56fp-mx7r-63x8"],"summary":"Malicious code in filipt (npm)","affected":[{"package":{"name":"filipt","ecosystem":"npm","purl":"pkg:npm/filipt"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

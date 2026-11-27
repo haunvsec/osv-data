@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18746","published":"2026-11-07T08:32:18Z","modified":"2026-11-12T03:45:03.293519056Z","summary":"Malicious code in genblaze-fal (PyPI)","affected":[{"package":{"name":"genblaze-fal","ecosystem":"PyPI","purl":"pkg:pypi/genblaze-fal"},"versions":["0.1.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20346","published":"2026-11-23T08:08:04Z","modified":"2026-11-23T08:30:03.875302681Z","summary":"Malicious code in array-flatten-utils (npm)","affected":[{"package":{"name":"array-flatten-utils","ecosystem":"npm","purl":"pkg:npm/array-flatten-utils"},"versions":["1.0.2","1.0.5","1.0.1","1.0.4"]}]}

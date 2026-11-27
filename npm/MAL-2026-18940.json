@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18940","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:29.336239152Z","summary":"Malicious code in baileys-dula (npm)","affected":[{"package":{"name":"baileys-dula","ecosystem":"npm","purl":"pkg:npm/baileys-dula"},"versions":["1.0.0","1.0.1","5.0.1"]}]}

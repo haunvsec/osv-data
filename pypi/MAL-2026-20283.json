@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20283","published":"2026-11-20T03:03:12Z","modified":"2026-11-24T23:45:03.207384481Z","summary":"Malicious code in mrcl2suhail (PyPI)","affected":[{"package":{"name":"mrcl2suhail","ecosystem":"PyPI","purl":"pkg:pypi/mrcl2suhail"},"versions":["1.0.1","1.0.3","1.0.4","1.0.2","1.0.0"]}]}

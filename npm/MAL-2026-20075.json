@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20075","published":"2026-11-17T17:17:11Z","modified":"2026-11-17T17:30:15.787507431Z","aliases":["GHSA-4q8v-g74j-hp8x"],"summary":"Malicious code in tsc-polymorph (npm)","affected":[{"package":{"name":"tsc-polymorph","ecosystem":"npm","purl":"pkg:npm/tsc-polymorph"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

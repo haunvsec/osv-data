@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19108","published":"2026-11-13T03:37:16Z","modified":"2026-11-24T13:45:07.938930718Z","aliases":["GHSA-jcj6-wxgj-v5m2"],"summary":"Malicious code in raiden-baileys (npm)","affected":[{"package":{"name":"raiden-baileys","ecosystem":"npm","purl":"pkg:npm/raiden-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

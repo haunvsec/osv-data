@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19034","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:38.349056484Z","summary":"Malicious code in wileys-neji (npm)","affected":[{"package":{"name":"wileys-neji","ecosystem":"npm","purl":"pkg:npm/wileys-neji"},"versions":["2.0.3"]}]}

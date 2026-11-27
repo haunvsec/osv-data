@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19949","published":"2026-11-14T15:13:52Z","modified":"2026-11-16T05:45:05.044158266Z","summary":"Malicious code in hstdemotests (npm)","affected":[{"package":{"name":"hstdemotests","ecosystem":"npm","purl":"pkg:npm/hstdemotests"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

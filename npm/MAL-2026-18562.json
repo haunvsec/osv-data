@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18562","published":"2026-11-03T17:35:23Z","modified":"2026-11-03T18:30:13.911217422Z","aliases":["GHSA-jrr7-389c-xvx9"],"summary":"Malicious code in ru0z83 (npm)","affected":[{"package":{"name":"ru0z83","ecosystem":"npm","purl":"pkg:npm/ru0z83"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

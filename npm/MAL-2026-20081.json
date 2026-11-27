@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20081","published":"2026-11-17T17:17:11Z","modified":"2026-11-17T18:30:38.505390455Z","aliases":["GHSA-vwh3-h34w-8h34"],"summary":"Malicious code in tsc-wireshift (npm)","affected":[{"package":{"name":"tsc-wireshift","ecosystem":"npm","purl":"pkg:npm/tsc-wireshift"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

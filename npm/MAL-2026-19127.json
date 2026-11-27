@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19127","published":"2026-11-11T16:07:39Z","modified":"2026-11-11T16:30:44.601895194Z","aliases":["GHSA-qf7m-g96r-q7gq"],"summary":"Malicious code in chai-as-spy (npm)","affected":[{"package":{"name":"chai-as-spy","ecosystem":"npm","purl":"pkg:npm/chai-as-spy"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20236","published":"2026-11-19T14:24:01Z","modified":"2026-11-19T15:30:07.098143951Z","aliases":["GHSA-468r-9jxp-wpm5"],"summary":"Malicious code in ludhiana (npm)","affected":[{"package":{"name":"ludhiana","ecosystem":"npm","purl":"pkg:npm/ludhiana"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

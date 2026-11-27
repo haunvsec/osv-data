@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20101","published":"2026-11-17T22:12:19Z","modified":"2026-11-24T20:45:03.257449442Z","summary":"Malicious code in agent-framework (PyPI)","affected":[{"package":{"name":"agent-framework","ecosystem":"PyPI","purl":"pkg:pypi/agent-framework"},"versions":["1.26.2","1.26.1"]}]}

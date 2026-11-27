@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19990","published":"2026-11-16T18:14:22Z","modified":"2026-11-16T18:30:04.365180987Z","aliases":["GHSA-rf96-234g-wjf5"],"summary":"Malicious code in analytics-skd (npm)","affected":[{"package":{"name":"analytics-skd","ecosystem":"npm","purl":"pkg:npm/analytics-skd"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18643","published":"2026-11-04T19:42:24Z","modified":"2026-11-13T03:45:11.512450622Z","aliases":["GHSA-7gx8-qvpw-82h6"],"summary":"Malicious code in @adminide-stack/utils (npm)","affected":[{"package":{"name":"@adminide-stack/utils","ecosystem":"npm","purl":"pkg:npm/%40adminide-stack/utils"},"versions":["0.0.16-130","0.0.16-129"]}]}

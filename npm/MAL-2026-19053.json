@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19053","published":"2026-11-09T22:30:29Z","modified":"2026-11-13T03:45:12.639387476Z","aliases":["GHSA-5cf4-p7m8-x53q"],"summary":"Malicious code in charape (npm)","affected":[{"package":{"name":"charape","ecosystem":"npm","purl":"pkg:npm/charape"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

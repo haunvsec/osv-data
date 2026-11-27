@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18582","published":"2026-11-03T21:46:44Z","modified":"2026-11-13T04:30:04.867290323Z","summary":"Malicious code in zyto (PyPI)","affected":[{"package":{"name":"zyto","ecosystem":"PyPI","purl":"pkg:pypi/zyto"},"versions":["0.2.0","0.2.1","0.2.2","0.2.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20049","published":"2026-11-16T15:00:00Z","modified":"2026-11-17T05:45:05.294515688Z","summary":"Malicious code in mexc-utils-helper (npm)","affected":[{"package":{"name":"mexc-utils-helper","ecosystem":"npm","purl":"pkg:npm/mexc-utils-helper"},"versions":["1.0.0"]}]}

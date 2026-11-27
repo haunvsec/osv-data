@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19192","published":"2026-11-12T20:44:38Z","modified":"2026-11-12T21:15:14.921763654Z","summary":"Malicious code in voxrelitts (PyPI)","affected":[{"package":{"name":"voxrelitts","ecosystem":"PyPI","purl":"pkg:pypi/voxrelitts"},"versions":["0.1.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18767","published":"2026-11-08T11:31:04Z","modified":"2026-11-11T21:15:15.211351924Z","summary":"Malicious code in supercolor-tui (PyPI)","affected":[{"package":{"name":"supercolor-tui","ecosystem":"PyPI","purl":"pkg:pypi/supercolor-tui"},"versions":["0.1.0","0.1.1","0.1.2","0.1.4"]}]}

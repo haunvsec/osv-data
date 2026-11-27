@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20421","published":"2026-11-24T04:14:48Z","modified":"2026-11-24T04:46:22.115097346Z","summary":"Malicious code in evt-dispatcher (npm)","affected":[{"package":{"name":"evt-dispatcher","ecosystem":"npm","purl":"pkg:npm/evt-dispatcher"},"versions":["1.0.5","1.0.2","1.0.4","1.0.6","1.0.3"]}]}

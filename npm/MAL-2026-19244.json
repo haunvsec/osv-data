@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19244","published":"2026-11-13T16:50:01Z","modified":"2026-11-13T17:27:39.821256404Z","aliases":["GHSA-59gv-286x-7347"],"summary":"Malicious code in ansi-sanitize (npm)","affected":[{"package":{"name":"ansi-sanitize","ecosystem":"npm","purl":"pkg:npm/ansi-sanitize"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

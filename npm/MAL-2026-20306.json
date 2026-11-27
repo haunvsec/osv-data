@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20306","published":"2026-11-20T19:03:59Z","modified":"2026-11-20T19:15:09.346183130Z","summary":"Malicious code in xssdoctor-muse-task448-provider-runtime (npm)","affected":[{"package":{"name":"xssdoctor-muse-task448-provider-runtime","ecosystem":"npm","purl":"pkg:npm/xssdoctor-muse-task448-provider-runtime"},"versions":["1.0.0"]}]}

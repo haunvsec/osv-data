@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19947","published":"2026-11-11T00:00:00Z","modified":"2026-11-16T05:15:03.556715484Z","summary":"Malicious code in baileys-clean (npm)","affected":[{"package":{"name":"baileys-clean","ecosystem":"npm","purl":"pkg:npm/baileys-clean"},"versions":["7.3.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18915","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:28.438079356Z","summary":"Malicious code in @xsat10/baileys (npm)","affected":[{"package":{"name":"@xsat10/baileys","ecosystem":"npm","purl":"pkg:npm/%40xsat10/baileys"},"versions":["7.0.0","7.0.1","7.0.2","7.0.3","7.0.4"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19142","published":"2026-11-11T21:01:46Z","modified":"2026-11-20T01:30:04.321935236Z","aliases":["GHSA-6gpf-476p-c87j"],"summary":"Malicious code in fcefi-wdojs-util (npm)","affected":[{"package":{"name":"fcefi-wdojs-util","ecosystem":"npm","purl":"pkg:npm/fcefi-wdojs-util"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

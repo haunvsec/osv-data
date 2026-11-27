@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18576","published":"2026-11-03T17:35:23Z","modified":"2026-11-03T18:30:16.606717887Z","aliases":["GHSA-472h-9323-xcvr"],"summary":"Malicious code in wxmzfq (npm)","affected":[{"package":{"name":"wxmzfq","ecosystem":"npm","purl":"pkg:npm/wxmzfq"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

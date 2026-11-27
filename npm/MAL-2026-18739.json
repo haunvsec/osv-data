@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18739","published":"2026-11-06T21:30:03Z","modified":"2026-11-13T03:45:11.491536863Z","aliases":["GHSA-6r42-frvg-f73q"],"summary":"Malicious code in modelsdesk (npm)","affected":[{"package":{"name":"modelsdesk","ecosystem":"npm","purl":"pkg:npm/modelsdesk"},"versions":["0.4.2"]}]}

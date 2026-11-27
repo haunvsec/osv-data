@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20229","published":"2026-11-19T14:24:01Z","modified":"2026-11-19T15:30:06.353482233Z","aliases":["GHSA-hg6p-gq65-grp4"],"summary":"Malicious code in dhaka (npm)","affected":[{"package":{"name":"dhaka","ecosystem":"npm","purl":"pkg:npm/dhaka"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

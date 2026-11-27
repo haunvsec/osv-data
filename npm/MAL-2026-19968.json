@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19968","published":"2026-11-16T16:42:36Z","modified":"2026-11-16T17:29:30.476136210Z","aliases":["GHSA-8f4v-5fv4-7mfg"],"summary":"Malicious code in cantarel (npm)","affected":[{"package":{"name":"cantarel","ecosystem":"npm","purl":"pkg:npm/cantarel"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

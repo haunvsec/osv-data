@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20198","published":"2026-11-19T06:53:36Z","modified":"2026-11-19T07:15:09.781576050Z","summary":"Malicious code in tajul-avengers-cli (npm)","affected":[{"package":{"name":"tajul-avengers-cli","ecosystem":"npm","purl":"pkg:npm/tajul-avengers-cli"},"versions":["1.4.1"]}]}

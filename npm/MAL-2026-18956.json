@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18956","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:30.290171349Z","summary":"Malicious code in changli-baileys (npm)","affected":[{"package":{"name":"changli-baileys","ecosystem":"npm","purl":"pkg:npm/changli-baileys"},"versions":["0.1.2","0.1.3"]}]}

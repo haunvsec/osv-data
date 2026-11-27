@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20154","published":"2026-11-19T00:35:09Z","modified":"2026-11-19T00:45:38.309670648Z","aliases":["GHSA-qvgp-56r2-v2q2"],"summary":"Malicious code in mrnima-moviedl (npm)","affected":[{"package":{"name":"mrnima-moviedl","ecosystem":"npm","purl":"pkg:npm/mrnima-moviedl"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

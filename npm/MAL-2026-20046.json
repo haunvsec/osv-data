@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20046","published":"2026-11-16T15:00:00Z","modified":"2026-11-17T05:45:05.437146550Z","summary":"Malicious code in csci-internal (npm)","affected":[{"package":{"name":"csci-internal","ecosystem":"npm","purl":"pkg:npm/csci-internal"},"versions":["99.1.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20273","published":"2026-11-20T01:02:15Z","modified":"2026-11-20T01:30:04.323427409Z","aliases":["GHSA-6wmj-hgpg-2pp6"],"summary":"Malicious code in vcnwi-ihpgp-util (npm)","affected":[{"package":{"name":"vcnwi-ihpgp-util","ecosystem":"npm","purl":"pkg:npm/vcnwi-ihpgp-util"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

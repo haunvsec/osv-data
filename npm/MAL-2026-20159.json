@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20159","published":"2026-11-19T00:35:08Z","modified":"2026-11-19T00:45:38.306637026Z","aliases":["GHSA-hjwj-h3jp-gqfg"],"summary":"Malicious code in nima-wabeta-info (npm)","affected":[{"package":{"name":"nima-wabeta-info","ecosystem":"npm","purl":"pkg:npm/nima-wabeta-info"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

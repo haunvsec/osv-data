@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19950","published":"2026-11-14T15:13:52Z","modified":"2026-11-16T05:45:05.102785193Z","summary":"Malicious code in tg-msg-effect (npm)","affected":[{"package":{"name":"tg-msg-effect","ecosystem":"npm","purl":"pkg:npm/tg-msg-effect"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20255","published":"2026-11-19T18:38:36Z","modified":"2026-11-19T20:15:04.127374667Z","aliases":["GHSA-pm45-rm93-2g47"],"summary":"Malicious code in item-validates (npm)","affected":[{"package":{"name":"item-validates","ecosystem":"npm","purl":"pkg:npm/item-validates"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18951","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:30.498602097Z","summary":"Malicious code in bintzge-baileys (npm)","affected":[{"package":{"name":"bintzge-baileys","ecosystem":"npm","purl":"pkg:npm/bintzge-baileys"},"versions":["1.0.1","2.0.2","2.0.3","2.0.5","2.0.9","3.0.0","3.0.1"]}]}

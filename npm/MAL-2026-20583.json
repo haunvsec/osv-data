@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20583","published":"2026-11-24T12:08:10Z","modified":"2026-11-25T10:32:32.621686404Z","summary":"Malicious code in opentelemetry-plugin-graphql-example (npm)","affected":[{"package":{"name":"opentelemetry-plugin-graphql-example","ecosystem":"npm","purl":"pkg:npm/opentelemetry-plugin-graphql-example"},"versions":["55.33.111"]}]}

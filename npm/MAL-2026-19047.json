@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19047","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:38.997060778Z","summary":"Malicious code in zenvyflump (npm)","affected":[{"package":{"name":"zenvyflump","ecosystem":"npm","purl":"pkg:npm/zenvyflump"},"versions":["2.0.0","2.0.1","2.0.2","2.0.3"]}]}

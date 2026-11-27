@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20167","published":"2026-11-19T00:37:20Z","modified":"2026-11-19T00:45:38.282607904Z","aliases":["GHSA-mr2f-4c3p-9j9w"],"summary":"Malicious code in rmraf (npm)","affected":[{"package":{"name":"rmraf","ecosystem":"npm","purl":"pkg:npm/rmraf"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

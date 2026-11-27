@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19954","published":"2026-11-16T10:35:17Z","modified":"2026-11-16T11:15:03.285487978Z","summary":"Malicious code in ldk-node (PyPI)","affected":[{"package":{"name":"ldk-node","ecosystem":"PyPI","purl":"pkg:pypi/ldk-node"},"versions":["0.7.9999"]}]}

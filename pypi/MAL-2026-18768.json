@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18768","published":"2026-11-08T12:45:59Z","modified":"2026-11-11T21:15:15.167521672Z","summary":"Malicious code in super-color (PyPI)","affected":[{"package":{"name":"super-color","ecosystem":"PyPI","purl":"pkg:pypi/super-color"},"versions":["0.1.0","0.1.1","0.1.2","0.1.3"]}]}

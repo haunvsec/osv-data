@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19026","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:37.694009701Z","summary":"Malicious code in vendettazuu-baileys (npm)","affected":[{"package":{"name":"vendettazuu-baileys","ecosystem":"npm","purl":"pkg:npm/vendettazuu-baileys"},"versions":["1.0.0"]}]}

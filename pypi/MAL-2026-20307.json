@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20307","published":"2026-11-20T19:28:58Z","modified":"2026-11-20T19:45:03.628846985Z","summary":"Malicious code in delta-nested-filter-tracer (PyPI)","affected":[{"package":{"name":"delta-nested-filter-tracer","ecosystem":"PyPI","purl":"pkg:pypi/delta-nested-filter-tracer"},"versions":["1.0.0","1.0.0.post1"]}]}

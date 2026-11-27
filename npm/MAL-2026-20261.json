@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20261","published":"2026-11-19T23:32:32Z","modified":"2026-11-20T00:45:06.894442443Z","aliases":["GHSA-wq4f-hq55-wf9w"],"summary":"Malicious code in ct-fivem (npm)","affected":[{"package":{"name":"ct-fivem","ecosystem":"npm","purl":"pkg:npm/ct-fivem"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

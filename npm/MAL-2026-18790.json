@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18790","published":"2026-11-09T16:29:27Z","modified":"2026-11-09T17:25:30.175114363Z","aliases":["GHSA-35qp-vv93-qgf3"],"summary":"Malicious code in @liauto/cli (npm)","affected":[{"package":{"name":"@liauto/cli","ecosystem":"npm","purl":"pkg:npm/%40liauto/cli"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

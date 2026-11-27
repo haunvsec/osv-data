@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18709","published":"2026-11-05T22:06:33Z","modified":"2026-11-05T22:30:04.314957028Z","aliases":["GHSA-jfvg-hq3f-9865"],"summary":"Malicious code in test1817 (npm)","affected":[{"package":{"name":"test1817","ecosystem":"npm","purl":"pkg:npm/test1817"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

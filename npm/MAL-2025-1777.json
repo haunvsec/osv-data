@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2025-1777","published":"2025-03-03T13:23:06Z","modified":"2025-03-03T13:23:06Z","summary":"Malicious code in ctmjobs (npm)","affected":[{"package":{"name":"ctmjobs","ecosystem":"npm","purl":"pkg:npm/ctmjobs"},"versions":["1.0.0"]}]}
+{"schema_version":"1.9.2","id":"MAL-2025-1777","published":"2025-03-03T13:23:06Z","modified":"2026-11-25T10:32:21.046813766Z","aliases":["GHSA-px7r-64c6-g3x9"],"summary":"Malicious code in ctmjobs (npm)","affected":[{"package":{"name":"ctmjobs","ecosystem":"npm","purl":"pkg:npm/ctmjobs"},"versions":["1.0.0"]}]}

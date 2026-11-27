@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20003","published":"2026-11-16T18:29:11Z","modified":"2026-11-16T19:30:06.763374830Z","aliases":["GHSA-gpm5-494f-6gpq"],"summary":"Malicious code in internallib_v79 (npm)","affected":[{"package":{"name":"internallib_v79","ecosystem":"npm","purl":"pkg:npm/internallib_v79"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

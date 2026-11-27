@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18579","published":"2026-11-03T17:35:22Z","modified":"2026-11-03T18:30:16.949302751Z","aliases":["GHSA-wqrw-429v-9hc3"],"summary":"Malicious code in yhk9j0 (npm)","affected":[{"package":{"name":"yhk9j0","ecosystem":"npm","purl":"pkg:npm/yhk9j0"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

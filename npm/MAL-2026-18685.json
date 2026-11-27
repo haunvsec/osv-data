@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18685","published":"2026-10-26T00:00:00Z","modified":"2026-11-19T05:45:14.521254294Z","aliases":["GHSA-w5vj-vh52-62wh"],"summary":"Malicious code in aemeath-baileys (npm)","affected":[{"package":{"name":"aemeath-baileys","ecosystem":"npm","purl":"pkg:npm/aemeath-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

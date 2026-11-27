@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20423","published":"2026-11-24T05:40:45Z","modified":"2026-11-24T06:30:06.842894949Z","summary":"Malicious code in wiwusen (npm)","affected":[{"package":{"name":"wiwusen","ecosystem":"npm","purl":"pkg:npm/wiwusen"},"versions":["2.0.0"]}]}

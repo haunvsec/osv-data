@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2024-2573","published":"2024-06-25T12:48:10Z","modified":"2024-10-24T01:01:56Z","summary":"Malicious code in jrmisa (npm)","affected":[{"package":{"name":"jrmisa","ecosystem":"npm","purl":"pkg:npm/jrmisa"},"versions":["1.0.0"]}]}
+{"schema_version":"1.9.2","id":"MAL-2024-2573","published":"2024-06-25T12:48:10Z","modified":"2026-11-25T10:32:30.908443691Z","aliases":["GHSA-fr26-jh3c-vx7f"],"summary":"Malicious code in jrmisa (npm)","affected":[{"package":{"name":"jrmisa","ecosystem":"npm","purl":"pkg:npm/jrmisa"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18897","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:24.255272471Z","summary":"Malicious code in @shinzepelly/wabaileys (npm)","affected":[{"package":{"name":"@shinzepelly/wabaileys","ecosystem":"npm","purl":"pkg:npm/%40shinzepelly/wabaileys"},"versions":["2.0.3"]}]}

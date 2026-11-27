@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19165","published":"2026-11-12T16:08:39Z","modified":"2026-11-12T16:30:05.593270898Z","aliases":["GHSA-xrhc-mxj3-j9xg"],"summary":"Malicious code in soid-wallet (npm)","affected":[{"package":{"name":"soid-wallet","ecosystem":"npm","purl":"pkg:npm/soid-wallet"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

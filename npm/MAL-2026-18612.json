@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18612","published":"2026-11-02T09:44:21Z","modified":"2026-11-04T09:00:05.412648868Z","summary":"Malicious code in intimate_ostrich_amethyst-45 (npm)","affected":[{"package":{"name":"intimate_ostrich_amethyst-45","ecosystem":"npm","purl":"pkg:npm/intimate_ostrich_amethyst-45"},"versions":["3.1.4"]}]}

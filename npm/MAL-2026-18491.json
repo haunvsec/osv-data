@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18491","published":"2026-11-03T03:35:28Z","modified":"2026-11-03T03:45:04.133972116Z","summary":"Malicious code in @corexium/xbails (npm)","affected":[{"package":{"name":"@corexium/xbails","ecosystem":"npm","purl":"pkg:npm/%40corexium/xbails"},"versions":["0.0.7"]}]}

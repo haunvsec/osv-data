@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20569","published":"2026-11-24T11:50:10Z","modified":"2026-11-25T10:32:28.283335555Z","summary":"Malicious code in hapi-example (npm)","affected":[{"package":{"name":"hapi-example","ecosystem":"npm","purl":"pkg:npm/hapi-example"},"versions":["55.33.111"]}]}

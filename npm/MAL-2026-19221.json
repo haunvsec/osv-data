@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19221","published":"2026-11-13T03:43:52Z","modified":"2026-11-13T04:30:04.740358520Z","summary":"Malicious code in @test-org-aczxvz/test-package (npm)","affected":[{"package":{"name":"@test-org-aczxvz/test-package","ecosystem":"npm","purl":"pkg:npm/%40test-org-aczxvz/test-package"},"versions":["1.0.0"]}]}

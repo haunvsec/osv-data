@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20160","published":"2026-11-19T00:35:08Z","modified":"2026-11-19T00:45:38.279271975Z","aliases":["GHSA-m2w3-5xf7-5hrc"],"summary":"Malicious code in nima_maker (npm)","affected":[{"package":{"name":"nima_maker","ecosystem":"npm","purl":"pkg:npm/nima_maker"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

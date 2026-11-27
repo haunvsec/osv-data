@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20516","published":"2026-11-24T20:32:35Z","modified":"2026-11-24T21:15:04.958538964Z","summary":"Malicious code in oh-my-zelenka (PyPI)","affected":[{"package":{"name":"oh-my-zelenka","ecosystem":"PyPI","purl":"pkg:pypi/oh-my-zelenka"},"versions":["1.0.2","1.0.1","1.0.3","1.0.5","1.0.0"]}]}

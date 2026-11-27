@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20554","published":"2026-11-25T06:06:17Z","modified":"2026-11-25T06:45:05.042470832Z","summary":"Malicious code in native-stream-parser (npm)","affected":[{"package":{"name":"native-stream-parser","ecosystem":"npm","purl":"pkg:npm/native-stream-parser"},"versions":["1.0.1"]}]}

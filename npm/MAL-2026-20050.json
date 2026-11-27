@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20050","published":"2026-11-16T15:00:00Z","modified":"2026-11-17T05:45:05.932042853Z","summary":"Malicious code in on-direct-click (npm)","affected":[{"package":{"name":"on-direct-click","ecosystem":"npm","purl":"pkg:npm/on-direct-click"},"versions":["99.9.0"]}]}

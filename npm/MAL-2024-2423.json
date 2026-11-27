@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2024-2423","published":"2024-06-25T12:44:21Z","modified":"2024-10-24T01:01:56Z","summary":"Malicious code in glob10 (npm)","affected":[{"package":{"name":"glob10","ecosystem":"npm","purl":"pkg:npm/glob10"},"versions":["10.0.2"]}]}
+{"schema_version":"1.9.2","id":"MAL-2024-2423","published":"2024-06-25T12:44:21Z","modified":"2026-11-25T10:32:27.695735104Z","aliases":["GHSA-c9gr-xff2-mv32"],"summary":"Malicious code in glob10 (npm)","affected":[{"package":{"name":"glob10","ecosystem":"npm","purl":"pkg:npm/glob10"},"versions":["10.0.2"]}]}

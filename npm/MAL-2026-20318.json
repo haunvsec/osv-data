@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20318","published":"2026-11-20T21:27:22Z","modified":"2026-11-20T22:30:06.869264121Z","aliases":["GHSA-9v66-fc47-m28q"],"summary":"Malicious code in swaplearn-cli (npm)","affected":[{"package":{"name":"swaplearn-cli","ecosystem":"npm","purl":"pkg:npm/swaplearn-cli"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

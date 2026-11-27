@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20197","published":"2026-11-18T05:32:03Z","modified":"2026-11-23T10:00:04.762482720Z","summary":"Malicious code in react-native-datepickerror (npm)","affected":[{"package":{"name":"react-native-datepickerror","ecosystem":"npm","purl":"pkg:npm/react-native-datepickerror"},"versions":["99.9.1"]}]}

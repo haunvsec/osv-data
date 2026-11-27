@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2024-2445","published":"2024-06-25T12:44:56Z","modified":"2024-10-24T01:01:56Z","summary":"Malicious code in h_test1 (npm)","affected":[{"package":{"name":"h_test1","ecosystem":"npm","purl":"pkg:npm/h_test1"},"versions":["1.0.0"]}]}
+{"schema_version":"1.9.2","id":"MAL-2024-2445","published":"2024-06-25T12:44:56Z","modified":"2026-11-25T10:32:28.377670166Z","aliases":["GHSA-8hc2-4h58-m9mv"],"summary":"Malicious code in h_test1 (npm)","affected":[{"package":{"name":"h_test1","ecosystem":"npm","purl":"pkg:npm/h_test1"},"versions":["1.0.0"]}]}

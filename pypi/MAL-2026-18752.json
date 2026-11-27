@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18752","published":"2026-11-07T10:16:07Z","modified":"2026-11-10T09:30:03.072893881Z","summary":"Malicious code in qzc690384 (PyPI)","affected":[{"package":{"name":"qzc690384","ecosystem":"PyPI","purl":"pkg:pypi/qzc690384"},"versions":["1.0.0"]}]}

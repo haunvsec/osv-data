@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20649","published":"2026-11-26T08:28:13Z","modified":"2026-11-26T09:45:04.990445406Z","aliases":["GHSA-g67x-vc4c-hj3p"],"summary":"Malicious code in @tty-pt/auren (npm)","affected":[{"package":{"name":"@tty-pt/auren","ecosystem":"npm","purl":"pkg:npm/%40tty-pt/auren"},"versions":["1.5.3"]}]}

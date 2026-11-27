@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20501","published":"2026-11-24T16:49:39Z","modified":"2026-11-24T17:30:05.690563112Z","aliases":["GHSA-5855-pmxj-m6f2"],"summary":"Malicious code in sdfhbkjcvncvxb (npm)","affected":[{"package":{"name":"sdfhbkjcvncvxb","ecosystem":"npm","purl":"pkg:npm/sdfhbkjcvncvxb"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19092","published":"2026-11-10T18:43:45Z","modified":"2026-11-10T19:30:03.960658115Z","aliases":["GHSA-jf8p-p2w6-p4jq"],"summary":"Malicious code in sms-activate.js (npm)","affected":[{"package":{"name":"sms-activate.js","ecosystem":"npm","purl":"pkg:npm/sms-activate.js"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

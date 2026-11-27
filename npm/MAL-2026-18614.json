@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18614","published":"2026-11-02T09:44:21Z","modified":"2026-11-04T09:00:05.064242816Z","summary":"Malicious code in motionless_mandrill_blush-51 (npm)","affected":[{"package":{"name":"motionless_mandrill_blush-51","ecosystem":"npm","purl":"pkg:npm/motionless_mandrill_blush-51"},"versions":["2.2.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20331","published":"2026-11-22T17:46:47Z","modified":"2026-11-23T00:45:04.449519768Z","summary":"Malicious code in solblock (PyPI)","affected":[{"package":{"name":"solblock","ecosystem":"PyPI","purl":"pkg:pypi/solblock"},"versions":["0.2.2","0.2.3"]}]}

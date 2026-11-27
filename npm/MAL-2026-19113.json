@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19113","published":"2026-11-11T04:07:10Z","modified":"2026-11-25T10:32:32.752931510Z","aliases":["GHSA-7m86-chx9-8rr7"],"summary":"Malicious code in prettlog (npm)","affected":[{"package":{"name":"prettlog","ecosystem":"npm","purl":"pkg:npm/prettlog"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

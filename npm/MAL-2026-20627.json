@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20627","published":"2026-11-25T23:35:29Z","modified":"2026-11-26T00:45:07.445393667Z","aliases":["GHSA-rc84-vvw2-qfmx"],"summary":"Malicious code in signals-embed-pro (npm)","affected":[{"package":{"name":"signals-embed-pro","ecosystem":"npm","purl":"pkg:npm/signals-embed-pro"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

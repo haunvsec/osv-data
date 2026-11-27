@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20241","published":"2026-11-19T14:24:00Z","modified":"2026-11-19T15:30:05.844311023Z","aliases":["GHSA-rrr2-8q34-85xx"],"summary":"Malicious code in oklahomacity (npm)","affected":[{"package":{"name":"oklahomacity","ecosystem":"npm","purl":"pkg:npm/oklahomacity"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19956","published":"2026-11-16T15:07:39Z","modified":"2026-11-16T15:30:04.484499101Z","aliases":["GHSA-hcpm-2jg4-52mc"],"summary":"Malicious code in gimaa-baileys (npm)","affected":[{"package":{"name":"gimaa-baileys","ecosystem":"npm","purl":"pkg:npm/gimaa-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

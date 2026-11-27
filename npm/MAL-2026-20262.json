@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20262","published":"2026-11-20T01:12:58Z","modified":"2026-11-20T01:30:04.767414917Z","aliases":["GHSA-8rw9-x9m5-7353"],"summary":"Malicious code in @zaiinlin/bails (npm)","affected":[{"package":{"name":"@zaiinlin/bails","ecosystem":"npm","purl":"pkg:npm/%40zaiinlin/bails"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

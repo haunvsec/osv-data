@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20176","published":"2026-11-19T01:43:12Z","modified":"2026-11-19T07:15:10.474021197Z","aliases":["GHSA-ph54-72p2-732v"],"summary":"Malicious code in tajul-avengers (npm)","affected":[{"package":{"name":"tajul-avengers","ecosystem":"npm","purl":"pkg:npm/tajul-avengers"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

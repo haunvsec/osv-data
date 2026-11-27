@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19179","published":"2026-11-12T20:35:05Z","modified":"2026-11-12T21:15:13.349016789Z","summary":"Malicious code in eulaliatts (PyPI)","affected":[{"package":{"name":"eulaliatts","ecosystem":"PyPI","purl":"pkg:pypi/eulaliatts"},"versions":["0.1.0"]}]}

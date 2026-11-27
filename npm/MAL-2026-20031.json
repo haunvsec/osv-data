@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20031","published":"2026-11-17T02:20:10Z","modified":"2026-11-17T02:30:05.274654701Z","aliases":["GHSA-6r5j-jqgh-fx86"],"summary":"Malicious code in jito-bundle-tip (npm)","affected":[{"package":{"name":"jito-bundle-tip","ecosystem":"npm","purl":"pkg:npm/jito-bundle-tip"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18532","published":"2026-11-03T17:35:23Z","modified":"2026-11-03T18:30:14.602895010Z","aliases":["GHSA-vqvx-2p5h-xq2p"],"summary":"Malicious code in 2tyegs (npm)","affected":[{"package":{"name":"2tyegs","ecosystem":"npm","purl":"pkg:npm/2tyegs"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

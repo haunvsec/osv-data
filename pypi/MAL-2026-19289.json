@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19289","published":"2026-11-13T20:29:40Z","modified":"2026-11-14T20:45:04.765621846Z","summary":"Malicious code in axiom-dragon-xyz (PyPI)","affected":[{"package":{"name":"axiom-dragon-xyz","ecosystem":"PyPI","purl":"pkg:pypi/axiom-dragon-xyz"},"versions":["1.0.4"]}]}

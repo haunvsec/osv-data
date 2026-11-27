@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19180","published":"2026-11-12T20:50:21Z","modified":"2026-11-12T21:15:14.315553603Z","summary":"Malicious code in evalometer (PyPI)","affected":[{"package":{"name":"evalometer","ecosystem":"PyPI","purl":"pkg:pypi/evalometer"},"versions":["0.1.0"]}]}

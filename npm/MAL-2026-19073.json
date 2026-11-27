@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19073","published":"2026-11-16T17:10:41Z","modified":"2026-11-16T17:30:03.352917984Z","aliases":["GHSA-f3p7-frfh-7cw2"],"summary":"Malicious code in sauruspro-bail (npm)","affected":[{"package":{"name":"sauruspro-bail","ecosystem":"npm","purl":"pkg:npm/sauruspro-bail"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

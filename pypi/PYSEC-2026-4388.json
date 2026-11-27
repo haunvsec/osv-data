@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"PYSEC-2026-4388","published":"2026-11-17T23:18:29Z","modified":"2026-11-18T14:30:03.846633591Z","summary":"agent-framework 1.26.1 and 1.26.2 contain credential-stealing code","affected":[{"package":{"name":"agent-framework","ecosystem":"PyPI","purl":"pkg:pypi/agent-framework"},"versions":["1.26.1","1.26.2"]}]}

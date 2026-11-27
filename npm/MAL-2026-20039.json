@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20039","published":"2026-11-14T15:13:52Z","modified":"2026-11-17T05:15:11.722522217Z","summary":"Malicious code in node-bs58.js (npm)","affected":[{"package":{"name":"node-bs58.js","ecosystem":"npm","purl":"pkg:npm/node-bs58.js"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

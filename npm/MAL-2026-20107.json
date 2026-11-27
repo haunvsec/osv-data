@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20107","published":"2026-11-17T00:00:00Z","modified":"2026-11-18T03:30:04.497233180Z","summary":"Malicious code in vant (npm)","affected":[{"package":{"name":"vant","ecosystem":"npm","purl":"pkg:npm/vant"},"versions":["2.13.3","2.13.4","2.13.5","3.6.13","3.6.14","3.6.15","4.9.11","4.9.12","4.9.13","4.9.14"]}]}

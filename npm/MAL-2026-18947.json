@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18947","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:29.032278339Z","summary":"Malicious code in baileys-web4.1 (npm)","affected":[{"package":{"name":"baileys-web4.1","ecosystem":"npm","purl":"pkg:npm/baileys-web4.1"},"versions":["0.1.1"]}]}

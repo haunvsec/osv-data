@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20311","published":"2026-11-20T19:42:30Z","modified":"2026-11-20T20:15:05.945162414Z","summary":"Malicious code in @kropaku/baileys (npm)","affected":[{"package":{"name":"@kropaku/baileys","ecosystem":"npm","purl":"pkg:npm/%40kropaku/baileys"},"versions":["6.7.23","6.7.22","6.7.21","6.7.24","6.7.20"]}]}

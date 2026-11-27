@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19932","published":"2026-11-14T09:53:39Z","modified":"2026-11-16T22:45:04.594296999Z","summary":"Malicious code in xrfdc (PyPI)","affected":[{"package":{"name":"xrfdc","ecosystem":"PyPI","purl":"pkg:pypi/xrfdc"},"versions":["0.0.0","2.0"]}]}

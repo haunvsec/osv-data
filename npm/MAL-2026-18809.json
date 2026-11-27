@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18809","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:19.634101229Z","summary":"Malicious code in @bellachu/bails (npm)","affected":[{"package":{"name":"@bellachu/bails","ecosystem":"npm","purl":"pkg:npm/%40bellachu/bails"},"versions":["0.0.1","0.0.2"]}]}

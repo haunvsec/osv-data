@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18526","published":"2026-11-03T12:27:37Z","modified":"2026-11-04T02:30:04.842922707Z","aliases":["GHSA-v25g-rj4q-4q96"],"summary":"Malicious code in nulio-connector (npm)","affected":[{"package":{"name":"nulio-connector","ecosystem":"npm","purl":"pkg:npm/nulio-connector"},"versions":["1.1.16","1.1.10","1.1.11"]}]}

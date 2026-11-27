@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18597","published":"2026-11-04T01:17:16Z","modified":"2026-11-04T02:30:05.282233045Z","aliases":["GHSA-2mqp-mxm3-j2fh"],"summary":"Malicious code in yzx-npm (npm)","affected":[{"package":{"name":"yzx-npm","ecosystem":"npm","purl":"pkg:npm/yzx-npm"},"versions":["1.0.1","1.0.0"]}]}

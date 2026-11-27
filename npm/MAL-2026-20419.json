@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20419","published":"2026-11-24T04:12:53Z","modified":"2026-11-24T04:30:38.012512032Z","summary":"Malicious code in ep_nxs77178 (npm)","affected":[{"package":{"name":"ep_nxs77178","ecosystem":"npm","purl":"pkg:npm/ep_nxs77178"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20672","published":"2026-11-26T21:57:04Z","modified":"2026-11-26T22:15:03.874749890Z","summary":"Malicious code in modelbufs (npm)","affected":[{"package":{"name":"modelbufs","ecosystem":"npm","purl":"pkg:npm/modelbufs"},"versions":["1.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20579","published":"2026-11-24T12:05:56Z","modified":"2026-11-25T10:32:32.517638352Z","summary":"Malicious code in mw-filesystem-events-nodream_compat (npm)","affected":[{"package":{"name":"mw-filesystem-events-nodream_compat","ecosystem":"npm","purl":"pkg:npm/mw-filesystem-events-nodream_compat"},"versions":["99.99.99"]}]}

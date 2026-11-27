@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19070","published":"2026-11-10T04:28:24Z","modified":"2026-11-10T05:30:05.743295601Z","aliases":["GHSA-x2vv-xjjr-m8c6"],"summary":"Malicious code in nodecheck-health (npm)","affected":[{"package":{"name":"nodecheck-health","ecosystem":"npm","purl":"pkg:npm/nodecheck-health"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

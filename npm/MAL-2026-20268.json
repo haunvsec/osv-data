@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20268","published":"2026-11-20T01:01:39Z","modified":"2026-11-20T01:30:04.571098197Z","aliases":["GHSA-p65r-r93m-c4mj"],"summary":"Malicious code in oubkt-krxpo-util (npm)","affected":[{"package":{"name":"oubkt-krxpo-util","ecosystem":"npm","purl":"pkg:npm/oubkt-krxpo-util"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

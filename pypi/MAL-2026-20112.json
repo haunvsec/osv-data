@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20112","published":"2026-11-16T16:20:00Z","modified":"2026-11-18T06:00:17.544964848Z","summary":"Malicious code in robloxapiaccess (PyPI)","affected":[{"package":{"name":"robloxapiaccess","ecosystem":"PyPI","purl":"pkg:pypi/robloxapiaccess"},"versions":["0.0.1","0.0.2"]}]}

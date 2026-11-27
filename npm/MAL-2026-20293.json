@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20293","published":"2026-11-20T04:37:47Z","modified":"2026-11-20T05:15:04.530928210Z","summary":"Malicious code in truffle-kit (npm)","affected":[{"package":{"name":"truffle-kit","ecosystem":"npm","purl":"pkg:npm/truffle-kit"},"versions":["3.3.2"]}]}

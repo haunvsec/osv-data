@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20648","published":"2026-11-26T08:01:23Z","modified":"2026-11-26T08:45:08.235740102Z","summary":"Malicious code in cubepath (PyPI)","affected":[{"package":{"name":"cubepath","ecosystem":"PyPI","purl":"pkg:pypi/cubepath"},"versions":["0.0.1","0.1.0","99.0.1","99.0.2"]}]}

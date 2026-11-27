@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18534","published":"2026-11-03T17:35:23Z","modified":"2026-11-03T18:30:16.352650643Z","aliases":["GHSA-48hw-rh72-ghfh"],"summary":"Malicious code in 5df897 (npm)","affected":[{"package":{"name":"5df897","ecosystem":"npm","purl":"pkg:npm/5df897"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

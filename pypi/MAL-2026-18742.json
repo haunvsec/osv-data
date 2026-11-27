@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18742","published":"2026-11-06T22:13:38Z","modified":"2026-11-06T22:45:03.130347818Z","summary":"Malicious code in fhqiouhq (PyPI)","affected":[{"package":{"name":"fhqiouhq","ecosystem":"PyPI","purl":"pkg:pypi/fhqiouhq"},"versions":["0.1.0"]}]}

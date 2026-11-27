@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19033","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:37.895057746Z","summary":"Malicious code in wertybailz (npm)","affected":[{"package":{"name":"wertybailz","ecosystem":"npm","purl":"pkg:npm/wertybailz"},"versions":["1.0.10","1.0.11","1.0.13","1.0.5","1.0.6","1.0.8","1.0.9"]}]}

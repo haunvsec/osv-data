@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20549","published":"2026-11-20T00:00:00Z","modified":"2026-11-25T04:00:11.329269523Z","summary":"Malicious code in onlinegdb (npm)","affected":[{"package":{"name":"onlinegdb","ecosystem":"npm","purl":"pkg:npm/onlinegdb"},"versions":["1.0.0"]}]}

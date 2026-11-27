@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20281","published":"2026-11-20T02:54:13Z","modified":"2026-11-20T03:30:13.872769792Z","summary":"Malicious code in spencer-braincore (npm)","affected":[{"package":{"name":"spencer-braincore","ecosystem":"npm","purl":"pkg:npm/spencer-braincore"},"versions":["1.0.0"]}]}

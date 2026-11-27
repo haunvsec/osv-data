@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20004","published":"2026-11-16T18:50:00Z","modified":"2026-11-16T19:30:07.762269937Z","aliases":["GHSA-gqpv-qm3x-6j29"],"summary":"Malicious code in kerl-kpi (npm)","affected":[{"package":{"name":"kerl-kpi","ecosystem":"npm","purl":"pkg:npm/kerl-kpi"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

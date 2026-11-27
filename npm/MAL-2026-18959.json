@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18959","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:30.239010327Z","summary":"Malicious code in dapzsyz-baileysm (npm)","affected":[{"package":{"name":"dapzsyz-baileysm","ecosystem":"npm","purl":"pkg:npm/dapzsyz-baileysm"},"versions":["0.4.2"]}]}

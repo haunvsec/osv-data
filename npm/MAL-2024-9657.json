@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2024-9657","published":"2024-10-16T12:57:26Z","modified":"2024-10-16T12:57:26Z","summary":"Malicious code in hwoeiw (npm)","affected":[{"package":{"name":"hwoeiw","ecosystem":"npm","purl":"pkg:npm/hwoeiw"},"versions":["18.32.11"]}]}
+{"schema_version":"1.9.2","id":"MAL-2024-9657","published":"2024-10-16T12:57:26Z","modified":"2026-11-25T10:32:29.200328903Z","aliases":["GHSA-6r24-xppj-j8vh"],"summary":"Malicious code in hwoeiw (npm)","affected":[{"package":{"name":"hwoeiw","ecosystem":"npm","purl":"pkg:npm/hwoeiw"},"versions":["18.32.11"]}]}

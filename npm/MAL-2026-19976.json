@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19976","published":"2026-11-16T16:40:41Z","modified":"2026-11-16T17:30:03.669859856Z","aliases":["GHSA-cvqm-3f7h-rx5c"],"summary":"Malicious code in xzcgram (npm)","affected":[{"package":{"name":"xzcgram","ecosystem":"npm","purl":"pkg:npm/xzcgram"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

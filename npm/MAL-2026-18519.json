@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18519","published":"2026-11-02T17:58:10Z","modified":"2026-11-04T06:15:04.138576668Z","summary":"Malicious code in service-roles-registry (npm)","affected":[{"package":{"name":"service-roles-registry","ecosystem":"npm","purl":"pkg:npm/service-roles-registry"},"versions":["99.0.2","99.0.1"]}]}

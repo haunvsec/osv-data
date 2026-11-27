@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19076","published":"2026-11-10T15:56:29Z","modified":"2026-11-10T16:30:04.670275541Z","aliases":["GHSA-253f-9v83-pw5c"],"summary":"Malicious code in @web3-common/utils (npm)","affected":[{"package":{"name":"@web3-common/utils","ecosystem":"npm","purl":"pkg:npm/%40web3-common/utils"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18950","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:29.740602818Z","summary":"Malicious code in bellacloudy (npm)","affected":[{"package":{"name":"bellacloudy","ecosystem":"npm","purl":"pkg:npm/bellacloudy"},"versions":["26.3.13","26.3.14","26.3.15"]}]}

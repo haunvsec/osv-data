@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20246","published":"2026-11-19T14:24:02Z","modified":"2026-11-19T15:30:05.851361569Z","aliases":["GHSA-3hj5-cm6m-jpf4"],"summary":"Malicious code in yangon (npm)","affected":[{"package":{"name":"yangon","ecosystem":"npm","purl":"pkg:npm/yangon"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

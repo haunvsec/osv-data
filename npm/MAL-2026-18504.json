@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18504","published":"2026-11-02T03:53:39Z","modified":"2026-11-03T05:00:12.053396260Z","summary":"Malicious code in @goparrot-dashboard/loyalty (npm)","affected":[{"package":{"name":"@goparrot-dashboard/loyalty","ecosystem":"npm","purl":"pkg:npm/%40goparrot-dashboard/loyalty"},"versions":["0.0.1"]}]}

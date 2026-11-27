@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18536","published":"2026-11-03T17:35:22Z","modified":"2026-11-03T18:30:15.754582813Z","aliases":["GHSA-pc8q-2g55-7ghp"],"summary":"Malicious code in 9ct8bi (npm)","affected":[{"package":{"name":"9ct8bi","ecosystem":"npm","purl":"pkg:npm/9ct8bi"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

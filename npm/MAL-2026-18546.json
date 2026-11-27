@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18546","published":"2026-11-03T17:35:22Z","modified":"2026-11-03T18:30:15.627119515Z","aliases":["GHSA-7m7p-pwmq-5cg9"],"summary":"Malicious code in j5ugvu (npm)","affected":[{"package":{"name":"j5ugvu","ecosystem":"npm","purl":"pkg:npm/j5ugvu"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

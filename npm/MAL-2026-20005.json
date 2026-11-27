@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20005","published":"2026-11-16T18:50:00Z","modified":"2026-11-16T19:30:07.759930607Z","aliases":["GHSA-cfm7-5mcw-875g"],"summary":"Malicious code in obanai-apis (npm)","affected":[{"package":{"name":"obanai-apis","ecosystem":"npm","purl":"pkg:npm/obanai-apis"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

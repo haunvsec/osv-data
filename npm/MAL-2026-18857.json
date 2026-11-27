@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18857","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:23.548717155Z","summary":"Malicious code in @kurtucoben/cstm-bail (npm)","affected":[{"package":{"name":"@kurtucoben/cstm-bail","ecosystem":"npm","purl":"pkg:npm/%40kurtucoben/cstm-bail"},"versions":["1.0.0"]}]}

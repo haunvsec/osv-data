@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2025-192690","published":"2025-12-22T17:15:11Z","modified":"2026-02-26T10:07:21.722299Z","summary":"Malicious code in smtrlib (PyPI)","affected":[{"package":{"name":"smtrlib","ecosystem":"PyPI","purl":"pkg:pypi/smtrlib"},"versions":["0.1.6","0.1.5"]}]}
+{"schema_version":"1.9.2","id":"MAL-2025-192690","published":"2025-12-22T17:15:11Z","modified":"2026-11-13T01:45:03.393361800Z","summary":"Malicious code in smtrlib (PyPI)","affected":[{"package":{"name":"smtrlib","ecosystem":"PyPI","purl":"pkg:pypi/smtrlib"},"versions":["0.1.6","0.1.5"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19212","published":"2026-11-13T02:23:25Z","modified":"2026-11-13T03:30:10.504599886Z","aliases":["GHSA-cv7f-gx29-vrgx"],"summary":"Malicious code in griffing-ux-pkg (npm)","affected":[{"package":{"name":"griffing-ux-pkg","ecosystem":"npm","purl":"pkg:npm/griffing-ux-pkg"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

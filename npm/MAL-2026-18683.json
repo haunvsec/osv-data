@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18683","published":"2026-10-26T00:00:00Z","modified":"2026-11-19T05:45:14.340623668Z","aliases":["GHSA-r483-947g-9m35"],"summary":"Malicious code in @zaxius/baileys (npm)","affected":[{"package":{"name":"@zaxius/baileys","ecosystem":"npm","purl":"pkg:npm/%40zaxius/baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

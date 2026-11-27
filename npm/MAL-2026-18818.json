@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18818","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:17.740622629Z","summary":"Malicious code in @denzy-official/baileys (npm)","affected":[{"package":{"name":"@denzy-official/baileys","ecosystem":"npm","purl":"pkg:npm/%40denzy-official/baileys"},"versions":["1.2.7","1.2.8","1.2.9"]}]}

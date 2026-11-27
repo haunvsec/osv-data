@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18533","published":"2026-11-03T17:35:23Z","modified":"2026-11-03T18:30:13.914841783Z","aliases":["GHSA-j6vh-x4xf-9mgh"],"summary":"Malicious code in 3zqth8 (npm)","affected":[{"package":{"name":"3zqth8","ecosystem":"npm","purl":"pkg:npm/3zqth8"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

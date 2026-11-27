@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20436","published":"2026-11-24T12:34:05Z","modified":"2026-11-24T13:45:07.749796243Z","aliases":["GHSA-8248-9v59-v682"],"summary":"Malicious code in framer-plugins (npm)","affected":[{"package":{"name":"framer-plugins","ecosystem":"npm","purl":"pkg:npm/framer-plugins"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

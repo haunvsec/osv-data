@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20136","published":"2026-11-18T20:29:52Z","modified":"2026-11-18T21:15:03.500783304Z","summary":"Malicious code in solana-utils-terminalmoney1 (PyPI)","affected":[{"package":{"name":"solana-utils-terminalmoney1","ecosystem":"PyPI","purl":"pkg:pypi/solana-utils-terminalmoney1"},"versions":["1.98.2","1.98.3"]}]}

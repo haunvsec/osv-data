@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19145","published":"2026-11-11T20:55:10Z","modified":"2026-11-13T20:30:12.053156509Z","aliases":["GHSA-8j4g-6q77-9w6p"],"summary":"Malicious code in tailwindcss-hook-forms (npm)","affected":[{"package":{"name":"tailwindcss-hook-forms","ecosystem":"npm","purl":"pkg:npm/tailwindcss-hook-forms"},"versions":["0.5.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20271","published":"2026-11-20T01:02:15Z","modified":"2026-11-20T02:30:08.878355634Z","aliases":["GHSA-phch-78ch-wpcc"],"summary":"Malicious code in smfos-bskdz-util (npm)","affected":[{"package":{"name":"smfos-bskdz-util","ecosystem":"npm","purl":"pkg:npm/smfos-bskdz-util"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

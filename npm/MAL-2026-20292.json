@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20292","published":"2026-11-20T04:55:06Z","modified":"2026-11-23T00:45:04.331158619Z","summary":"Malicious code in @kingorwot/my-baileys (npm)","affected":[{"package":{"name":"@kingorwot/my-baileys","ecosystem":"npm","purl":"pkg:npm/%40kingorwot/my-baileys"},"versions":["2.0.0","3.0.0"]}]}

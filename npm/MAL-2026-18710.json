@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18710","published":"2026-10-16T00:00:00Z","modified":"2026-11-05T23:15:04.842150935Z","summary":"Malicious code in kurobails (npm)","affected":[{"package":{"name":"kurobails","ecosystem":"npm","purl":"pkg:npm/kurobails"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

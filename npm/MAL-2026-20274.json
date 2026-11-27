@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20274","published":"2026-11-20T00:59:58Z","modified":"2026-11-20T02:30:08.884015919Z","aliases":["GHSA-gcx6-6r3h-7cvr"],"summary":"Malicious code in vojmd-ajgkr-util (npm)","affected":[{"package":{"name":"vojmd-ajgkr-util","ecosystem":"npm","purl":"pkg:npm/vojmd-ajgkr-util"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

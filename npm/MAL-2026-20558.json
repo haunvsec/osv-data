@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20558","published":"2026-11-25T06:28:14Z","modified":"2026-11-25T07:00:04.340322678Z","summary":"Malicious code in qs-parse-native (npm)","affected":[{"package":{"name":"qs-parse-native","ecosystem":"npm","purl":"pkg:npm/qs-parse-native"},"versions":["1.0.0"]}]}

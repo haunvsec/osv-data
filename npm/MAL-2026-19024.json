@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19024","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:37.349428756Z","summary":"Malicious code in vanzdev (npm)","affected":[{"package":{"name":"vanzdev","ecosystem":"npm","purl":"pkg:npm/vanzdev"},"versions":["3.0.4","3.0.5","3.0.6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20196","published":"2026-11-19T06:54:50Z","modified":"2026-11-19T07:15:09.791067762Z","summary":"Malicious code in character-ai-sdk (npm)","affected":[{"package":{"name":"character-ai-sdk","ecosystem":"npm","purl":"pkg:npm/character-ai-sdk"},"versions":["1.0.1","1.0.0"]}]}

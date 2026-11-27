@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19226","published":"2026-11-13T03:54:05Z","modified":"2026-11-13T04:30:05.698978446Z","summary":"Malicious code in quickgreet (npm)","affected":[{"package":{"name":"quickgreet","ecosystem":"npm","purl":"pkg:npm/quickgreet"},"versions":["0.0.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20006","published":"2026-11-16T18:34:06Z","modified":"2026-11-16T19:30:08.644409015Z","aliases":["GHSA-9wfg-j6pq-3c8f"],"summary":"Malicious code in supunmd-bail (npm)","affected":[{"package":{"name":"supunmd-bail","ecosystem":"npm","purl":"pkg:npm/supunmd-bail"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

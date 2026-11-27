@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18711","published":"2026-10-16T00:00:00Z","modified":"2026-11-05T23:15:04.849254383Z","summary":"Malicious code in nishiki-bail (npm)","affected":[{"package":{"name":"nishiki-bail","ecosystem":"npm","purl":"pkg:npm/nishiki-bail"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

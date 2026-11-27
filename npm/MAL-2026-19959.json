@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19959","published":"2026-11-16T15:53:41Z","modified":"2026-11-16T16:30:04.712209863Z","aliases":["GHSA-97m8-2ch6-hxxj"],"summary":"Malicious code in inline-array (npm)","affected":[{"package":{"name":"inline-array","ecosystem":"npm","purl":"pkg:npm/inline-array"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

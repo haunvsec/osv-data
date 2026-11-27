@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19199","published":"2026-11-12T21:04:04Z","modified":"2026-11-12T21:45:03.424388881Z","summary":"Malicious code in acustoviasr (PyPI)","affected":[{"package":{"name":"acustoviasr","ecosystem":"PyPI","purl":"pkg:pypi/acustoviasr"},"versions":["0.1.0"]}]}

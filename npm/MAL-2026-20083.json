@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20083","published":"2026-11-17T19:19:15Z","modified":"2026-11-17T20:30:04.577232389Z","aliases":["GHSA-5mh8-33rf-fvgp"],"summary":"Malicious code in kartykgithub-bulk-multi (npm)","affected":[{"package":{"name":"kartykgithub-bulk-multi","ecosystem":"npm","purl":"pkg:npm/kartykgithub-bulk-multi"},"versions":["1.0.0"]}]}

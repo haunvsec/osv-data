@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20057","published":"2026-11-17T09:05:18Z","modified":"2026-11-19T07:15:08.411922862Z","summary":"Malicious code in pliktre (PyPI)","affected":[{"package":{"name":"pliktre","ecosystem":"PyPI","purl":"pkg:pypi/pliktre"},"versions":["1.0.0"]}]}

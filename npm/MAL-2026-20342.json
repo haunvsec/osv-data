@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20342","published":"2026-11-21T21:35:02Z","modified":"2026-11-24T06:30:06.236575041Z","summary":"Malicious code in ppbbll5 (npm)","affected":[{"package":{"name":"ppbbll5","ecosystem":"npm","purl":"pkg:npm/ppbbll5"},"versions":["0.0.1"]}]}

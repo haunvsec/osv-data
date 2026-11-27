@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20059","published":"2026-11-17T09:15:31Z","modified":"2026-11-17T10:15:03.209526262Z","summary":"Malicious code in logger-prefix-buffer-lexer (PyPI)","affected":[{"package":{"name":"logger-prefix-buffer-lexer","ecosystem":"PyPI","purl":"pkg:pypi/logger-prefix-buffer-lexer"},"versions":["1.0.0","1.0.0.post1"]}]}

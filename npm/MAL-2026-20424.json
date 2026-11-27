@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20424","published":"2026-11-24T05:39:22Z","modified":"2026-11-24T06:30:06.836048941Z","summary":"Malicious code in x3r0day-bunnyhijack-poc (npm)","affected":[{"package":{"name":"x3r0day-bunnyhijack-poc","ecosystem":"npm","purl":"pkg:npm/x3r0day-bunnyhijack-poc"},"versions":["1.0.3"]}]}

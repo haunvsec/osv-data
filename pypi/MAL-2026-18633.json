@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18633","published":"2026-11-04T17:18:25Z","modified":"2026-11-08T10:15:03.293506492Z","summary":"Malicious code in extera-runtime (PyPI)","affected":[{"package":{"name":"extera-runtime","ecosystem":"PyPI","purl":"pkg:pypi/extera-runtime"},"versions":["1.1.0"]}]}

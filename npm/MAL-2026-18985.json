@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18985","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:35.447497149Z","summary":"Malicious code in lilgabriel-baileys (npm)","affected":[{"package":{"name":"lilgabriel-baileys","ecosystem":"npm","purl":"pkg:npm/lilgabriel-baileys"},"versions":["2.5.10","2.5.8","2.5.9"]}]}

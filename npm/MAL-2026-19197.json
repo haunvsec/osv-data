@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19197","published":"2026-11-12T20:57:05Z","modified":"2026-11-12T21:30:04.169957618Z","aliases":["GHSA-689j-99g2-vf2f"],"summary":"Malicious code in depfix-ai (npm)","affected":[{"package":{"name":"depfix-ai","ecosystem":"npm","purl":"pkg:npm/depfix-ai"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

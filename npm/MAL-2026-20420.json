@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20420","published":"2026-11-24T04:14:04Z","modified":"2026-11-25T00:45:05.323692725Z","aliases":["GHSA-8m69-2g4m-rg45"],"summary":"Malicious code in env-helper-friend (npm)","affected":[{"package":{"name":"env-helper-friend","ecosystem":"npm","purl":"pkg:npm/env-helper-friend"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

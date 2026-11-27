@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19222","published":"2026-11-13T03:51:42Z","modified":"2026-11-13T04:30:04.623062859Z","summary":"Malicious code in axon-web (npm)","affected":[{"package":{"name":"axon-web","ecosystem":"npm","purl":"pkg:npm/axon-web"},"versions":["12.0.0"]}]}

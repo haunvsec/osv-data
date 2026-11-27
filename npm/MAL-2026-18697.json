@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18697","published":"2026-10-26T00:00:00Z","modified":"2026-11-13T04:30:06.201376852Z","summary":"Malicious code in testtestkjkldfnjdfn (npm)","affected":[{"package":{"name":"testtestkjkldfnjdfn","ecosystem":"npm","purl":"pkg:npm/testtestkjkldfnjdfn"},"versions":["1.0.0"]}]}

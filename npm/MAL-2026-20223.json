@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20223","published":"2026-11-19T14:24:01Z","modified":"2026-11-19T15:30:06.358721174Z","aliases":["GHSA-xw8h-93hj-q8wq"],"summary":"Malicious code in aurangabad (npm)","affected":[{"package":{"name":"aurangabad","ecosystem":"npm","purl":"pkg:npm/aurangabad"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

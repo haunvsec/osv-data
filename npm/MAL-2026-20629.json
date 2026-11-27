@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20629","published":"2026-11-26T00:56:57Z","modified":"2026-11-26T01:30:04.529542836Z","aliases":["GHSA-jjr3-7f2p-jpc2"],"summary":"Malicious code in @omnirush-ai/cli-win32-x64 (npm)","affected":[{"package":{"name":"@omnirush-ai/cli-win32-x64","ecosystem":"npm","purl":"pkg:npm/%40omnirush-ai/cli-win32-x64"},"versions":["2.8.0"]}]}

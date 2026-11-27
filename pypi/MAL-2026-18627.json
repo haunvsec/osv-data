@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18627","published":"2026-11-04T16:11:42Z","modified":"2026-11-12T00:45:06.780823829Z","summary":"Malicious code in msgpackrpc (PyPI)","affected":[{"package":{"name":"msgpackrpc","ecosystem":"PyPI","purl":"pkg:pypi/msgpackrpc"},"versions":["0.0.0","0.1.0"]}]}

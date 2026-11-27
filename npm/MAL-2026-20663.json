@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20663","published":"2026-11-26T17:35:33Z","modified":"2026-11-26T18:30:04.980384490Z","aliases":["GHSA-758f-h2ww-jcjp"],"summary":"Malicious code in dew-downloader (npm)","affected":[{"package":{"name":"dew-downloader","ecosystem":"npm","purl":"pkg:npm/dew-downloader"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

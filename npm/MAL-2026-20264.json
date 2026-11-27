@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20264","published":"2026-11-20T01:01:39Z","modified":"2026-11-20T01:30:04.317244541Z","aliases":["GHSA-6p2g-3r68-5j5w"],"summary":"Malicious code in glbkm-vrnpk-util (npm)","affected":[{"package":{"name":"glbkm-vrnpk-util","ecosystem":"npm","purl":"pkg:npm/glbkm-vrnpk-util"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

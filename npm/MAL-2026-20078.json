@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20078","published":"2026-11-17T17:17:11Z","modified":"2026-11-17T18:30:38.513342350Z","aliases":["GHSA-h3wg-5whf-3q6m"],"summary":"Malicious code in @suruj/tsc-p2p (npm)","affected":[{"package":{"name":"@suruj/tsc-p2p","ecosystem":"npm","purl":"pkg:npm/%40suruj/tsc-p2p"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

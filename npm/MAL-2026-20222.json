@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20222","published":"2026-11-19T14:24:02Z","modified":"2026-11-19T15:30:05.846282272Z","aliases":["GHSA-54f5-j4rj-57cc"],"summary":"Malicious code in algiers (npm)","affected":[{"package":{"name":"algiers","ecosystem":"npm","purl":"pkg:npm/algiers"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

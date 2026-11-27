@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20001","published":"2026-11-16T18:34:06Z","modified":"2026-11-16T19:30:06.760647157Z","aliases":["GHSA-4fvr-hmr9-rm3h"],"summary":"Malicious code in ai-apis (npm)","affected":[{"package":{"name":"ai-apis","ecosystem":"npm","purl":"pkg:npm/ai-apis"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

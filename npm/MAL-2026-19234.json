@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19234","published":"2026-11-13T06:32:25Z","modified":"2026-11-19T03:30:03.861446108Z","aliases":["GHSA-mq7w-jmv5-vq3p"],"summary":"Malicious code in @rclaude/darwin-arm64 (npm)","affected":[{"package":{"name":"@rclaude/darwin-arm64","ecosystem":"npm","purl":"pkg:npm/%40rclaude/darwin-arm64"},"versions":["0.2.0","0.2.1","0.2.6"]}]}

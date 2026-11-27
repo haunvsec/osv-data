@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20500","published":"2026-11-24T16:49:40Z","modified":"2026-11-24T17:30:05.888334100Z","aliases":["GHSA-9c3j-35pj-x74m"],"summary":"Malicious code in drivevitiloncheck (npm)","affected":[{"package":{"name":"drivevitiloncheck","ecosystem":"npm","purl":"pkg:npm/drivevitiloncheck"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19120","published":"2026-11-11T14:35:24Z","modified":"2026-11-11T15:30:05.162451116Z","aliases":["GHSA-fvf5-h3m3-g793"],"summary":"Malicious code in correct-calc (npm)","affected":[{"package":{"name":"correct-calc","ecosystem":"npm","purl":"pkg:npm/correct-calc"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

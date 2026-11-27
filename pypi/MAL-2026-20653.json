@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20653","published":"2026-11-26T12:40:35Z","modified":"2026-11-26T22:15:03.908936307Z","summary":"Malicious code in denowrap (PyPI)","affected":[{"package":{"name":"denowrap","ecosystem":"PyPI","purl":"pkg:pypi/denowrap"},"versions":["1.0.0"]}]}

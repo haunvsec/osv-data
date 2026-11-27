@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18761","published":"2026-11-08T09:39:28Z","modified":"2026-11-08T14:15:05.112294678Z","summary":"Malicious code in infra-libs (PyPI)","affected":[{"package":{"name":"infra-libs","ecosystem":"PyPI","purl":"pkg:pypi/infra-libs"},"versions":["99.99.99"]}]}

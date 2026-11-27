@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18572","published":"2026-11-03T17:35:23Z","modified":"2026-11-03T18:30:13.921655905Z","aliases":["GHSA-gvvq-fmh5-289g"],"summary":"Malicious code in v36sl2 (npm)","affected":[{"package":{"name":"v36sl2","ecosystem":"npm","purl":"pkg:npm/v36sl2"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

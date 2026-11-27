@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18659","published":"2026-11-02T22:34:49Z","modified":"2026-11-05T04:15:04.920102163Z","summary":"Malicious code in dependent-final (npm)","affected":[{"package":{"name":"dependent-final","ecosystem":"npm","purl":"pkg:npm/dependent-final"},"versions":["1.0.3"]}]}

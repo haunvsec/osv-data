@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20086","published":"2026-11-17T19:23:44Z","modified":"2026-11-17T20:30:04.573694745Z","aliases":["GHSA-gvx2-mxgq-hwmp"],"summary":"Malicious code in warpcast (npm)","affected":[{"package":{"name":"warpcast","ecosystem":"npm","purl":"pkg:npm/warpcast"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

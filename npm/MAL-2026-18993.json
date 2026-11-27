@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18993","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:35.643613011Z","summary":"Malicious code in ms-nicky-baileys (npm)","affected":[{"package":{"name":"ms-nicky-baileys","ecosystem":"npm","purl":"pkg:npm/ms-nicky-baileys"},"versions":["2.0.3"]}]}

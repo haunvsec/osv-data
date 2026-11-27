@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20069","published":"2026-11-17T15:53:12Z","modified":"2026-11-17T16:30:04.564497451Z","aliases":["GHSA-764r-557p-9hgx"],"summary":"Malicious code in wallet-modal-223 (npm)","affected":[{"package":{"name":"wallet-modal-223","ecosystem":"npm","purl":"pkg:npm/wallet-modal-223"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

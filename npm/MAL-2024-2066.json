@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2024-2066","published":"2024-06-25T12:35:22Z","modified":"2024-10-24T01:01:55Z","summary":"Malicious code in dcrawjs (npm)","affected":[{"package":{"name":"dcrawjs","ecosystem":"npm","purl":"pkg:npm/dcrawjs"},"versions":["2.3.4"]}]}
+{"schema_version":"1.9.2","id":"MAL-2024-2066","published":"2024-06-25T12:35:22Z","modified":"2026-11-25T10:32:21.376740985Z","aliases":["GHSA-pqqp-984h-v472"],"summary":"Malicious code in dcrawjs (npm)","affected":[{"package":{"name":"dcrawjs","ecosystem":"npm","purl":"pkg:npm/dcrawjs"},"versions":["2.3.4"]}]}

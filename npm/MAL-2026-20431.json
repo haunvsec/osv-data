@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20431","published":"2026-11-20T00:00:00Z","modified":"2026-11-24T07:15:08.371840834Z","summary":"Malicious code in getsolara (npm)","affected":[{"package":{"name":"getsolara","ecosystem":"npm","purl":"pkg:npm/getsolara"},"versions":["1.0.1"]}]}

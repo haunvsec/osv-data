@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20024","published":"2026-11-17T02:09:10Z","modified":"2026-11-17T02:30:05.271606478Z","aliases":["GHSA-4q9g-pqm4-x4v7"],"summary":"Malicious code in gogodapiapp (npm)","affected":[{"package":{"name":"gogodapiapp","ecosystem":"npm","purl":"pkg:npm/gogodapiapp"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

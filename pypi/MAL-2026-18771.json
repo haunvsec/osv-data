@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18771","published":"2026-11-08T21:47:19Z","modified":"2026-11-11T23:45:03.320053063Z","summary":"Malicious code in extrahtml (PyPI)","affected":[{"package":{"name":"extrahtml","ecosystem":"PyPI","purl":"pkg:pypi/extrahtml"},"versions":["0.1.0","0.1.1","0.1.2"]}]}

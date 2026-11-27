@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2024-12332","published":"2024-09-04T21:25:32Z","modified":"2026-04-22T21:37:25.683987Z","summary":"Malicious code in pymatcha (PyPI)","affected":[{"package":{"name":"pymatcha","ecosystem":"PyPI","purl":"pkg:pypi/pymatcha"},"versions":["0.1","0.1.0"]}]}
+{"schema_version":"1.9.2","id":"MAL-2024-12332","published":"2024-09-04T21:25:32Z","modified":"2026-11-16T05:45:05.222562887Z","summary":"Malicious code in pymatcha (PyPI)","affected":[{"package":{"name":"pymatcha","ecosystem":"PyPI","purl":"pkg:pypi/pymatcha"},"versions":["0.1"]}]}

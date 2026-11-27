@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19995","published":"2026-11-16T18:14:22Z","modified":"2026-11-16T18:30:06.375283884Z","aliases":["GHSA-h6rh-5vcm-85gr"],"summary":"Malicious code in upshift-sdk (npm)","affected":[{"package":{"name":"upshift-sdk","ecosystem":"npm","purl":"pkg:npm/upshift-sdk"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

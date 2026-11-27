@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19148","published":"2026-11-12T04:07:58Z","modified":"2026-11-12T04:30:04.082744694Z","summary":"Malicious code in @rfewqa-fes/mnm-doc-mcp (npm)","affected":[{"package":{"name":"@rfewqa-fes/mnm-doc-mcp","ecosystem":"npm","purl":"pkg:npm/%40rfewqa-fes/mnm-doc-mcp"},"versions":["1.0.0"]}]}

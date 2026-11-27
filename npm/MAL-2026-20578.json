@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20578","published":"2026-11-24T12:04:54Z","modified":"2026-11-25T10:32:32.628332741Z","summary":"Malicious code in memcached-example (npm)","affected":[{"package":{"name":"memcached-example","ecosystem":"npm","purl":"pkg:npm/memcached-example"},"versions":["55.33.111"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18808","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:21.335591985Z","summary":"Malicious code in @barz-dev/baileys (npm)","affected":[{"package":{"name":"@barz-dev/baileys","ecosystem":"npm","purl":"pkg:npm/%40barz-dev/baileys"},"versions":["8.4.0"]}]}

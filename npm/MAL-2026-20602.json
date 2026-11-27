@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20602","published":"2026-11-25T00:00:00Z","modified":"2026-11-26T20:30:04.538397675Z","aliases":["GHSA-4p6f-fq3j-3g7m"],"summary":"Malicious code in nem-libray (npm)","affected":[{"package":{"name":"nem-libray","ecosystem":"npm","purl":"pkg:npm/nem-libray"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

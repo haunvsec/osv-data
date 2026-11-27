@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18871","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:25.058728393Z","summary":"Malicious code in @pahinak/bails (npm)","affected":[{"package":{"name":"@pahinak/bails","ecosystem":"npm","purl":"pkg:npm/%40pahinak/bails"},"versions":["1.1.1"]}]}

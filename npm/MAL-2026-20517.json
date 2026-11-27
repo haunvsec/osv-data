@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20517","published":"2026-11-24T20:38:17Z","modified":"2026-11-24T21:45:04.951691889Z","aliases":["GHSA-5w62-j47c-r6gj"],"summary":"Malicious code in malghz (npm)","affected":[{"package":{"name":"malghz","ecosystem":"npm","purl":"pkg:npm/malghz"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

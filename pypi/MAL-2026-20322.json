@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20322","published":"2026-11-21T11:53:10Z","modified":"2026-11-21T23:15:04.197962120Z","summary":"Malicious code in instantscrape (PyPI)","affected":[{"package":{"name":"instantscrape","ecosystem":"PyPI","purl":"pkg:pypi/instantscrape"},"versions":["0.1.0","0.1.5","0.1.8"]}]}

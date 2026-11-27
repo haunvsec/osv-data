@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19223","published":"2026-11-13T03:55:32Z","modified":"2026-11-13T04:30:04.724214332Z","summary":"Malicious code in curse-allies-module (npm)","affected":[{"package":{"name":"curse-allies-module","ecosystem":"npm","purl":"pkg:npm/curse-allies-module"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18648","published":"2026-11-04T20:29:43Z","modified":"2026-11-04T21:30:06.928772834Z","aliases":["GHSA-hvrq-7pvp-2573"],"summary":"Malicious code in nminer (npm)","affected":[{"package":{"name":"nminer","ecosystem":"npm","purl":"pkg:npm/nminer"},"versions":["3.0.0"]}]}

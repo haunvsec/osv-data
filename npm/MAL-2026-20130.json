@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20130","published":"2026-11-18T15:34:41Z","modified":"2026-11-18T16:30:04.723549067Z","aliases":["GHSA-pjx5-g5xc-q286"],"summary":"Malicious code in react-cache-hook (npm)","affected":[{"package":{"name":"react-cache-hook","ecosystem":"npm","purl":"pkg:npm/react-cache-hook"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

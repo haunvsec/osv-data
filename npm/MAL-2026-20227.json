@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20227","published":"2026-11-19T14:24:01Z","modified":"2026-11-19T15:30:06.344271253Z","aliases":["GHSA-9qjw-3x59-9g8p"],"summary":"Malicious code in budapest (npm)","affected":[{"package":{"name":"budapest","ecosystem":"npm","purl":"pkg:npm/budapest"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

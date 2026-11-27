@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19131","published":"2026-11-11T15:35:44Z","modified":"2026-11-11T16:31:43.743285204Z","aliases":["GHSA-q97r-6qp3-r59x"],"summary":"Malicious code in flowbits (npm)","affected":[{"package":{"name":"flowbits","ecosystem":"npm","purl":"pkg:npm/flowbits"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

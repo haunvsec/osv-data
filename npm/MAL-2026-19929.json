@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19929","published":"2026-11-13T23:46:14Z","modified":"2026-11-14T00:45:08.175196836Z","aliases":["GHSA-3429-mj25-c5wf"],"summary":"Malicious code in zread_cli (npm)","affected":[{"package":{"name":"zread_cli","ecosystem":"npm","purl":"pkg:npm/zread_cli"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

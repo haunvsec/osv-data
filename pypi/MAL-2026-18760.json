@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18760","published":"2026-11-08T09:39:19Z","modified":"2026-11-08T14:15:05.182511420Z","summary":"Malicious code in expect-tests (PyPI)","affected":[{"package":{"name":"expect-tests","ecosystem":"PyPI","purl":"pkg:pypi/expect-tests"},"versions":["99.99.99"]}]}

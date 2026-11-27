@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20094","published":"2026-11-17T21:49:31Z","modified":"2026-11-17T22:45:16.684022723Z","aliases":["GHSA-cxwc-2pvw-6q7w"],"summary":"Malicious code in json-asyncapi (npm)","affected":[{"package":{"name":"json-asyncapi","ecosystem":"npm","purl":"pkg:npm/json-asyncapi"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

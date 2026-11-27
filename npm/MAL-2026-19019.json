@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19019","published":"2026-10-27T00:00:00Z","modified":"2026-11-16T19:30:08.520867413Z","aliases":["GHSA-m4wc-wx5j-qw6w"],"summary":"Malicious code in supun-baileyz (npm)","affected":[{"package":{"name":"supun-baileyz","ecosystem":"npm","purl":"pkg:npm/supun-baileyz"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

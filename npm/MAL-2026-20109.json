@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20109","published":"2026-11-16T16:20:00Z","modified":"2026-11-18T06:00:15.799455260Z","summary":"Malicious code in base62-85x (npm)","affected":[{"package":{"name":"base62-85x","ecosystem":"npm","purl":"pkg:npm/base62-85x"},"versions":["5.0.4"]}]}

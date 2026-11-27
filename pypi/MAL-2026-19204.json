@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19204","published":"2026-11-13T00:49:20Z","modified":"2026-11-13T01:15:03.201070042Z","summary":"Malicious code in my-mcp-server-driving-license-ocr (PyPI)","affected":[{"package":{"name":"my-mcp-server-driving-license-ocr","ecosystem":"PyPI","purl":"pkg:pypi/my-mcp-server-driving-license-ocr"},"versions":["0.1.3"]}]}

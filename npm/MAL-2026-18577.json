@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18577","published":"2026-11-03T17:35:23Z","modified":"2026-11-03T18:30:13.935252786Z","aliases":["GHSA-pmhv-7c84-cgwc"],"summary":"Malicious code in wyrj3i (npm)","affected":[{"package":{"name":"wyrj3i","ecosystem":"npm","purl":"pkg:npm/wyrj3i"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

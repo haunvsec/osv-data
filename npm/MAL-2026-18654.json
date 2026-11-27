@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18654","published":"2026-11-04T22:23:49Z","modified":"2026-11-04T23:30:04.570709115Z","aliases":["GHSA-rgqx-q27x-g8jc"],"summary":"Malicious code in heheheshsds (npm)","affected":[{"package":{"name":"heheheshsds","ecosystem":"npm","purl":"pkg:npm/heheheshsds"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19191","published":"2026-11-12T20:45:25Z","modified":"2026-11-12T21:15:14.920599992Z","summary":"Malicious code in voxgramasr (PyPI)","affected":[{"package":{"name":"voxgramasr","ecosystem":"PyPI","purl":"pkg:pypi/voxgramasr"},"versions":["0.1.0"]}]}

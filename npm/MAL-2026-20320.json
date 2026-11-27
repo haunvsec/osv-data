@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20320","published":"2026-11-21T00:30:49Z","modified":"2026-11-21T23:15:04.148384673Z","summary":"Malicious code in aia-b-locator-fe (npm)","affected":[{"package":{"name":"aia-b-locator-fe","ecosystem":"npm","purl":"pkg:npm/aia-b-locator-fe"},"versions":["1.0.3","1.0.2","1.0.1"]}]}

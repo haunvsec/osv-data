@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20288","published":"2026-11-20T03:45:22Z","modified":"2026-11-20T04:30:24.860451680Z","summary":"Malicious code in scanstudy-pointer-bat (npm)","affected":[{"package":{"name":"scanstudy-pointer-bat","ecosystem":"npm","purl":"pkg:npm/scanstudy-pointer-bat"},"versions":["1.0.0"]}]}

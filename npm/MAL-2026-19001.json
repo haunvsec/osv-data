@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19001","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:32.401998478Z","summary":"Malicious code in phantom-pro (npm)","affected":[{"package":{"name":"phantom-pro","ecosystem":"npm","purl":"pkg:npm/phantom-pro"},"versions":["0.0.5","0.0.7","1.0.0"]}]}

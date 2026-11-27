@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20373","published":"2026-11-23T16:01:49Z","modified":"2026-11-23T16:30:04.756090404Z","aliases":["GHSA-3qm4-f5p6-75v6"],"summary":"Malicious code in dm3-backend (npm)","affected":[{"package":{"name":"dm3-backend","ecosystem":"npm","purl":"pkg:npm/dm3-backend"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

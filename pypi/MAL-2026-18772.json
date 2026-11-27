@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18772","published":"2026-11-08T21:45:25Z","modified":"2026-11-12T03:45:03.276981731Z","summary":"Malicious code in parseyaml (PyPI)","affected":[{"package":{"name":"parseyaml","ecosystem":"PyPI","purl":"pkg:pypi/parseyaml"},"versions":["1.2.0"]}]}

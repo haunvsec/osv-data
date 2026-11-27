@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18971","published":"2026-10-27T00:00:00Z","modified":"2026-11-26T18:30:04.994776851Z","aliases":["GHSA-7vgj-8453-8wg2"],"summary":"Malicious code in fast-baileys (npm)","affected":[{"package":{"name":"fast-baileys","ecosystem":"npm","purl":"pkg:npm/fast-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

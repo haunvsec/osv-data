@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20252","published":"2026-11-19T16:24:18Z","modified":"2026-11-19T17:30:03.689836613Z","aliases":["GHSA-5jcj-xh7v-92qr"],"summary":"Malicious code in scope-test-af5c5e (npm)","affected":[{"package":{"name":"scope-test-af5c5e","ecosystem":"npm","purl":"pkg:npm/scope-test-af5c5e"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

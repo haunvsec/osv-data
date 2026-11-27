@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19245","published":"2026-11-13T16:22:56Z","modified":"2026-11-13T17:29:15.715916549Z","aliases":["GHSA-xqvf-vmv8-fhw5"],"summary":"Malicious code in casamare (npm)","affected":[{"package":{"name":"casamare","ecosystem":"npm","purl":"pkg:npm/casamare"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

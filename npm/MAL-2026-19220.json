@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19220","published":"2026-11-13T03:44:30Z","modified":"2026-11-13T04:30:07.221976434Z","summary":"Malicious code in @securihackbot/depconf-flow-1792484611 (npm)","affected":[{"package":{"name":"@securihackbot/depconf-flow-1792484611","ecosystem":"npm","purl":"pkg:npm/%40securihackbot/depconf-flow-1792484611"},"versions":["1.2.1"]}]}

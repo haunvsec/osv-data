@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20308","published":"2026-11-20T19:27:33Z","modified":"2026-11-20T19:45:03.633887706Z","summary":"Malicious code in pkgreg-buildprobe-16c409218045 (PyPI)","affected":[{"package":{"name":"pkgreg-buildprobe-16c409218045","ecosystem":"PyPI","purl":"pkg:pypi/pkgreg-buildprobe-16c409218045"},"versions":["0.0.1","0.0.2"]}]}

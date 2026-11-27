@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18964","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:30.997817326Z","summary":"Malicious code in delkira-baileys (npm)","affected":[{"package":{"name":"delkira-baileys","ecosystem":"npm","purl":"pkg:npm/delkira-baileys"},"versions":["0.8.2"]}]}

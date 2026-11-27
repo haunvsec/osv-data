@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19258","published":"2026-11-13T18:47:42Z","modified":"2026-11-16T22:45:05.342424792Z","aliases":["GHSA-57xg-9jqp-97gm"],"summary":"Malicious code in kampodra (npm)","affected":[{"package":{"name":"kampodra","ecosystem":"npm","purl":"pkg:npm/kampodra"},"versions":["0.8.16"]}]}

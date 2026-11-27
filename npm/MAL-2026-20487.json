@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20487","published":"2026-11-24T14:40:37Z","modified":"2026-11-24T15:30:06.214410941Z","aliases":["GHSA-mhvp-7qww-6f24"],"summary":"Malicious code in msdjufbsdifhvwekh (npm)","affected":[{"package":{"name":"msdjufbsdifhvwekh","ecosystem":"npm","purl":"pkg:npm/msdjufbsdifhvwekh"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

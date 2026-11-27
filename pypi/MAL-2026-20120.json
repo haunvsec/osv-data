@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20120","published":"2026-11-18T09:20:22Z","modified":"2026-11-18T09:45:04.338446628Z","summary":"Malicious code in qimsdk-app-builder (PyPI)","affected":[{"package":{"name":"qimsdk-app-builder","ecosystem":"PyPI","purl":"pkg:pypi/qimsdk-app-builder"},"versions":["0.0.0","0.1.0"]}]}

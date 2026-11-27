@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18754","published":"2026-11-07T23:44:24Z","modified":"2026-11-09T23:15:37.445764817Z","summary":"Malicious code in pyuserfox (PyPI)","affected":[{"package":{"name":"pyuserfox","ecosystem":"PyPI","purl":"pkg:pypi/pyuserfox"},"versions":["0.0.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18637","published":"2026-11-04T18:02:01Z","modified":"2026-11-13T03:45:14.690670491Z","aliases":["GHSA-33jq-j4x3-75pc"],"summary":"Malicious code in mock-datas-lib (npm)","affected":[{"package":{"name":"mock-datas-lib","ecosystem":"npm","purl":"pkg:npm/mock-datas-lib"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

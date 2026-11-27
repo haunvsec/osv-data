@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20321","published":"2026-11-21T02:31:32Z","modified":"2026-11-21T03:30:06.653763533Z","aliases":["GHSA-r9wp-474x-c72c"],"summary":"Malicious code in @pkgship/frps-windows-amd64 (npm)","affected":[{"package":{"name":"@pkgship/frps-windows-amd64","ecosystem":"npm","purl":"pkg:npm/%40pkgship/frps-windows-amd64"},"versions":["0.71.1"]}]}

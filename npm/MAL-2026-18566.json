@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18566","published":"2026-11-03T17:35:22Z","modified":"2026-11-03T18:30:16.351152188Z","aliases":["GHSA-rj5j-c6p5-3hrq"],"summary":"Malicious code in u0bh1f (npm)","affected":[{"package":{"name":"u0bh1f","ecosystem":"npm","purl":"pkg:npm/u0bh1f"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

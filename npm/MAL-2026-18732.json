@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18732","published":"2026-11-06T17:47:35Z","modified":"2026-11-06T18:30:11.207667066Z","aliases":["GHSA-rxx3-78r3-w9qw"],"summary":"Malicious code in monobomber (npm)","affected":[{"package":{"name":"monobomber","ecosystem":"npm","purl":"pkg:npm/monobomber"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

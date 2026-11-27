@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18757","published":"2026-11-08T06:27:59Z","modified":"2026-11-08T07:30:04.630395978Z","aliases":["GHSA-r6cf-96rv-f56v"],"summary":"Malicious code in @htooayelwinict/travis234 (npm)","affected":[{"package":{"name":"@htooayelwinict/travis234","ecosystem":"npm","purl":"pkg:npm/%40htooayelwinict/travis234"},"versions":["3.3.2"]}]}

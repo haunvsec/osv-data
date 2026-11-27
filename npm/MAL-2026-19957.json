@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19957","published":"2026-11-16T15:26:44Z","modified":"2026-11-16T22:45:05.198410465Z","aliases":["GHSA-7727-99j6-9x2v"],"summary":"Malicious code in elaina-baileys (npm)","affected":[{"package":{"name":"elaina-baileys","ecosystem":"npm","purl":"pkg:npm/elaina-baileys"},"versions":["1.0.3","1.0.2","1.0.1","1.0.0","0.0.0-stage"]}]}

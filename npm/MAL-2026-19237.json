@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19237","published":"2026-11-13T15:06:11Z","modified":"2026-11-13T15:30:04.608618815Z","aliases":["GHSA-gw64-g39x-vqhr"],"summary":"Malicious code in berg-fonbock (npm)","affected":[{"package":{"name":"berg-fonbock","ecosystem":"npm","purl":"pkg:npm/berg-fonbock"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

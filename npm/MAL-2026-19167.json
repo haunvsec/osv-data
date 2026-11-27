@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19167","published":"2026-11-12T15:44:04Z","modified":"2026-11-12T16:30:05.592953286Z","aliases":["GHSA-gcpg-vhxh-m2gc"],"summary":"Malicious code in stelar-sdk (npm)","affected":[{"package":{"name":"stelar-sdk","ecosystem":"npm","purl":"pkg:npm/stelar-sdk"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

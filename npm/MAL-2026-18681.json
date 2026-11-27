@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18681","published":"2026-10-26T00:00:00Z","modified":"2026-11-16T22:45:04.493989846Z","aliases":["GHSA-8868-q7gh-f9jf"],"summary":"Malicious code in @sakataa/baileys (npm)","affected":[{"package":{"name":"@sakataa/baileys","ecosystem":"npm","purl":"pkg:npm/%40sakataa/baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

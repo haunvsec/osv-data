@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18908","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:27.830750846Z","summary":"Malicious code in @vinxwhy1st/bails (npm)","affected":[{"package":{"name":"@vinxwhy1st/bails","ecosystem":"npm","purl":"pkg:npm/%40vinxwhy1st/bails"},"versions":["2.0.0"]}]}

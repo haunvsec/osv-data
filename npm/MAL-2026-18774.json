@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18774","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:35.681936523Z","aliases":["GHSA-r9ff-73cq-qq8f"],"summary":"Malicious code in kafbail (npm)","affected":[{"package":{"name":"kafbail","ecosystem":"npm","purl":"pkg:npm/kafbail"},"versions":["2.0.14","2.0.13","2.0.12"]}]}

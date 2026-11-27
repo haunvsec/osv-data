@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18733","published":"2026-11-06T17:47:35Z","modified":"2026-11-06T18:30:11.269617366Z","aliases":["GHSA-3h2m-23f2-wjcx"],"summary":"Malicious code in monopw (npm)","affected":[{"package":{"name":"monopw","ecosystem":"npm","purl":"pkg:npm/monopw"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20348","published":"2026-11-23T08:08:27Z","modified":"2026-11-23T08:30:03.880969763Z","summary":"Malicious code in t4-xorspawn-testmetest (npm)","affected":[{"package":{"name":"t4-xorspawn-testmetest","ecosystem":"npm","purl":"pkg:npm/t4-xorspawn-testmetest"},"versions":["1.0.0"]}]}

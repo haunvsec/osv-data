@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20177","published":"2026-11-19T01:52:29Z","modified":"2026-11-19T07:15:09.827646423Z","aliases":["GHSA-h8xq-3qvf-p57g"],"summary":"Malicious code in teick (npm)","affected":[{"package":{"name":"teick","ecosystem":"npm","purl":"pkg:npm/teick"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

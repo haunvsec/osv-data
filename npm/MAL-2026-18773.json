@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18773","published":"2026-11-09T01:25:27Z","modified":"2026-11-11T21:15:15.105411171Z","aliases":["GHSA-hh7j-5m3j-23pf"],"summary":"Malicious code in @ethersphere/bee-js (npm)","affected":[{"package":{"name":"@ethersphere/bee-js","ecosystem":"npm","purl":"pkg:npm/%40ethersphere/bee-js"},"versions":["13.3.0"]}]}

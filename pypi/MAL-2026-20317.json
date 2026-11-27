@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20317","published":"2026-11-20T21:37:46Z","modified":"2026-11-20T22:15:02.669966655Z","summary":"Malicious code in signed-manifest-updater (PyPI)","affected":[{"package":{"name":"signed-manifest-updater","ecosystem":"PyPI","purl":"pkg:pypi/signed-manifest-updater"},"versions":["0.1.5"]}]}

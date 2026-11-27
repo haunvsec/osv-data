@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18939","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:27.926930087Z","summary":"Malicious code in baileys-akiko (npm)","affected":[{"package":{"name":"baileys-akiko","ecosystem":"npm","purl":"pkg:npm/baileys-akiko"},"versions":["1.0.1"]}]}

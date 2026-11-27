@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20138","published":"2026-11-18T21:02:26Z","modified":"2026-11-18T21:30:15.248904840Z","aliases":["GHSA-mjg5-fmpm-vgfv"],"summary":"Malicious code in expresstokyo (npm)","affected":[{"package":{"name":"expresstokyo","ecosystem":"npm","purl":"pkg:npm/expresstokyo"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

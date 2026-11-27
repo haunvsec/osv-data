@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19257","published":"2026-11-13T18:43:16Z","modified":"2026-11-16T22:45:05.196933633Z","aliases":["GHSA-v244-m2jr-cmc2"],"summary":"Malicious code in hauntview (npm)","affected":[{"package":{"name":"hauntview","ecosystem":"npm","purl":"pkg:npm/hauntview"},"versions":["0.2.9"]}]}

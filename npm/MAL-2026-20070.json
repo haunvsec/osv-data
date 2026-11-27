@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20070","published":"2026-11-17T17:17:11Z","modified":"2026-11-17T17:26:13.072622912Z","aliases":["GHSA-mr52-vq6q-4j64"],"summary":"Malicious code in @suruj/scan-dog (npm)","affected":[{"package":{"name":"@suruj/scan-dog","ecosystem":"npm","purl":"pkg:npm/%40suruj/scan-dog"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

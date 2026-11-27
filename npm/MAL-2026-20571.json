@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20571","published":"2026-11-24T11:50:54Z","modified":"2026-11-25T10:32:28.578317277Z","summary":"Malicious code in heloo122 (npm)","affected":[{"package":{"name":"heloo122","ecosystem":"npm","purl":"pkg:npm/heloo122"},"versions":["0.0.32"]}]}

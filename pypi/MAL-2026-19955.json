@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19955","published":"2026-11-16T10:56:05Z","modified":"2026-11-16T11:15:03.498648672Z","summary":"Malicious code in my-signatureu (PyPI)","affected":[{"package":{"name":"my-signatureu","ecosystem":"PyPI","purl":"pkg:pypi/my-signatureu"},"versions":["1.0.0"]}]}

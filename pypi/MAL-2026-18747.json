@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18747","published":"2026-11-07T08:34:31Z","modified":"2026-11-12T03:45:03.294926426Z","summary":"Malicious code in genblaze-atlascloud (PyPI)","affected":[{"package":{"name":"genblaze-atlascloud","ecosystem":"PyPI","purl":"pkg:pypi/genblaze-atlascloud"},"versions":["0.1.0"]}]}

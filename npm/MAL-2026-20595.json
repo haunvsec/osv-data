@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20595","published":"2026-11-24T12:20:24Z","modified":"2026-11-25T10:32:33.177149760Z","summary":"Malicious code in web-tracer-example (npm)","affected":[{"package":{"name":"web-tracer-example","ecosystem":"npm","purl":"pkg:npm/web-tracer-example"},"versions":["55.33.111"]}]}

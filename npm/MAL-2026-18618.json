@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18618","published":"2026-11-02T09:44:21Z","modified":"2026-11-04T09:00:06.017340113Z","summary":"Malicious code in southern_duck_tan-16 (npm)","affected":[{"package":{"name":"southern_duck_tan-16","ecosystem":"npm","purl":"pkg:npm/southern_duck_tan-16"},"versions":["2.4.3"]}]}

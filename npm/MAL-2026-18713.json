@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18713","published":"2026-10-16T00:00:00Z","modified":"2026-11-05T23:15:04.847966546Z","summary":"Malicious code in rafael-bails (npm)","affected":[{"package":{"name":"rafael-bails","ecosystem":"npm","purl":"pkg:npm/rafael-bails"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

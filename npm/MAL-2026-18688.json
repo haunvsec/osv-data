@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18688","published":"2026-10-26T00:00:00Z","modified":"2026-11-19T05:45:15.342152456Z","aliases":["GHSA-m4p3-qr69-gqjp"],"summary":"Malicious code in kevinx-baileys (npm)","affected":[{"package":{"name":"kevinx-baileys","ecosystem":"npm","purl":"pkg:npm/kevinx-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

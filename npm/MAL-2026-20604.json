@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20604","published":"2026-11-25T15:43:40Z","modified":"2026-11-25T16:30:05.759523508Z","summary":"Malicious code in git-crt-creator (npm)","affected":[{"package":{"name":"git-crt-creator","ecosystem":"npm","purl":"pkg:npm/git-crt-creator"},"versions":["1.0.2","1.0.3","10.13.0"]}]}

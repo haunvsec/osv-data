@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18691","published":"2026-10-26T00:00:00Z","modified":"2026-11-19T07:30:04.959912376Z","aliases":["GHSA-fj3h-g2vc-3fvx"],"summary":"Malicious code in ndraawzz-baileys (npm)","affected":[{"package":{"name":"ndraawzz-baileys","ecosystem":"npm","purl":"pkg:npm/ndraawzz-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

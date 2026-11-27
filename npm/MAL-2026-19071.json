@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19071","published":"2026-11-10T04:28:25Z","modified":"2026-11-10T05:30:04.769023224Z","aliases":["GHSA-pc5x-m587-83hh"],"summary":"Malicious code in npm-scanner (npm)","affected":[{"package":{"name":"npm-scanner","ecosystem":"npm","purl":"pkg:npm/npm-scanner"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19935","published":"2026-11-14T16:53:17Z","modified":"2026-11-17T06:30:53.356865209Z","summary":"Malicious code in demo-pingtest-xyz (PyPI)","affected":[{"package":{"name":"demo-pingtest-xyz","ecosystem":"PyPI","purl":"pkg:pypi/demo-pingtest-xyz"},"versions":["0.0.1"]}]}

@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2024-2346","published":"2024-06-25T12:42:12Z","modified":"2024-10-24T01:01:56Z","summary":"Malicious code in evil911 (npm)","affected":[{"package":{"name":"evil911","ecosystem":"npm","purl":"pkg:npm/evil911"},"versions":["1.0.1"]}]}
+{"schema_version":"1.9.2","id":"MAL-2024-2346","published":"2024-06-25T12:42:12Z","modified":"2026-11-25T10:32:27.151476016Z","aliases":["GHSA-wfxf-j95c-h752"],"summary":"Malicious code in evil911 (npm)","affected":[{"package":{"name":"evil911","ecosystem":"npm","purl":"pkg:npm/evil911"},"versions":["1.0.1"]}]}

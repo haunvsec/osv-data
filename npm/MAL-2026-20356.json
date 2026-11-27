@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20356","published":"2026-11-20T00:00:00Z","modified":"2026-11-23T10:45:05.222837738Z","summary":"Malicious code in apache-httpclient7 (npm)","affected":[{"package":{"name":"apache-httpclient7","ecosystem":"npm","purl":"pkg:npm/apache-httpclient7"},"versions":["1.0.0"]}]}

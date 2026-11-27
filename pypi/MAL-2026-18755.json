@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18755","published":"2026-11-07T23:45:42Z","modified":"2026-11-08T00:45:08.082915608Z","summary":"Malicious code in pyuserox (PyPI)","affected":[{"package":{"name":"pyuserox","ecosystem":"PyPI","purl":"pkg:pypi/pyuserox"},"versions":["0.0.2"]}]}

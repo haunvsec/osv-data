@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20652","published":"2026-11-26T11:39:24Z","modified":"2026-11-26T12:30:04.669485292Z","aliases":["GHSA-734q-3h9j-4v2q"],"summary":"Malicious code in flex-ui-animates (npm)","affected":[{"package":{"name":"flex-ui-animates","ecosystem":"npm","purl":"pkg:npm/flex-ui-animates"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

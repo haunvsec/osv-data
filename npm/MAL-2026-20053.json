@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20053","published":"2026-11-16T15:00:00Z","modified":"2026-11-17T05:45:05.984434616Z","summary":"Malicious code in ui-universal-auth (npm)","affected":[{"package":{"name":"ui-universal-auth","ecosystem":"npm","purl":"pkg:npm/ui-universal-auth"},"versions":["99.9.0"]}]}

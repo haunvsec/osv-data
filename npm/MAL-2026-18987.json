@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18987","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:35.449828599Z","summary":"Malicious code in makamesco-baileys (npm)","affected":[{"package":{"name":"makamesco-baileys","ecosystem":"npm","purl":"pkg:npm/makamesco-baileys"},"versions":["1.0.0"]}]}

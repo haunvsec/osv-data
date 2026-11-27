@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18698","published":"2026-10-26T00:00:00Z","modified":"2026-11-05T05:15:06.263430749Z","summary":"Malicious code in wiasdcxc (npm)","affected":[{"package":{"name":"wiasdcxc","ecosystem":"npm","purl":"pkg:npm/wiasdcxc"},"versions":["1.0.1"]}]}

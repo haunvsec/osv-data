@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20657","published":"2026-11-26T13:07:39Z","modified":"2026-11-26T13:30:04.920504367Z","aliases":["GHSA-wgvm-m2m2-w65x"],"summary":"Malicious code in safeclamp3 (npm)","affected":[{"package":{"name":"safeclamp3","ecosystem":"npm","purl":"pkg:npm/safeclamp3"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20376","published":"2026-11-23T16:43:46Z","modified":"2026-11-23T17:31:22.461799250Z","aliases":["GHSA-4mrh-w22w-wq4r"],"summary":"Malicious code in noname089 (npm)","affected":[{"package":{"name":"noname089","ecosystem":"npm","purl":"pkg:npm/noname089"},"versions":["3.0.0"]}]}

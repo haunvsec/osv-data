@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2024-2442","published":"2024-06-25T12:44:51Z","modified":"2024-10-24T01:01:56Z","summary":"Malicious code in gtm-js (npm)","affected":[{"package":{"name":"gtm-js","ecosystem":"npm","purl":"pkg:npm/gtm-js"},"versions":["99.99.99"]}]}
+{"schema_version":"1.9.2","id":"MAL-2024-2442","published":"2024-06-25T12:44:51Z","modified":"2026-11-25T10:32:28.343913915Z","aliases":["GHSA-rh8g-g276-pqpv"],"summary":"Malicious code in gtm-js (npm)","affected":[{"package":{"name":"gtm-js","ecosystem":"npm","purl":"pkg:npm/gtm-js"},"versions":["99.99.99"]}]}

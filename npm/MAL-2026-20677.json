@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20677","published":"2026-11-13T14:19:11Z","modified":"2026-11-27T01:15:04.381429628Z","summary":"Malicious code in @alexiddev/baileys (npm)","affected":[{"package":{"name":"@alexiddev/baileys","ecosystem":"npm","purl":"pkg:npm/%40alexiddev%2Fbaileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

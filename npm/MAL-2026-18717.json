@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18717","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:19.661086542Z","aliases":["GHSA-9fv3-7f93-gcqh"],"summary":"Malicious code in @exclipz/baileys (npm)","affected":[{"package":{"name":"@exclipz/baileys","ecosystem":"npm","purl":"pkg:npm/%40exclipz/baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

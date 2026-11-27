@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18678","published":"2026-10-26T00:00:00Z","modified":"2026-11-19T05:45:13.439618975Z","aliases":["GHSA-5xfm-j5g3-qrw5"],"summary":"Malicious code in @lekzox/baileys (npm)","affected":[{"package":{"name":"@lekzox/baileys","ecosystem":"npm","purl":"pkg:npm/%40lekzox/baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20072","published":"2026-11-17T17:17:11Z","modified":"2026-11-17T17:30:16.037511651Z","aliases":["GHSA-687q-whjx-h5r5"],"summary":"Malicious code in tsc-ai (npm)","affected":[{"package":{"name":"tsc-ai","ecosystem":"npm","purl":"pkg:npm/tsc-ai"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

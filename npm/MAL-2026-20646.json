@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20646","published":"2026-11-19T14:00:01Z","modified":"2026-11-26T06:45:06.135227015Z","related":["MAL-2026-20350","MAL-2026-20428"],"summary":"Malicious code in svg-bucket (npm)","affected":[{"package":{"name":"svg-bucket","ecosystem":"npm","purl":"pkg:npm/svg-bucket"},"versions":["2.0.0"]}]}

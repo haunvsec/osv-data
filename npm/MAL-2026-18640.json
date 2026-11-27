@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18640","published":"2026-11-04T19:46:25Z","modified":"2026-11-13T03:30:10.263850483Z","aliases":["GHSA-qrh3-jr62-6rfm"],"summary":"Malicious code in @adminide-stack/forms-core (npm)","affected":[{"package":{"name":"@adminide-stack/forms-core","ecosystem":"npm","purl":"pkg:npm/%40adminide-stack/forms-core"},"versions":["5.1.9-alpha.3"]}]}

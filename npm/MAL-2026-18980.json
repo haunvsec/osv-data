@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18980","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:31.549414037Z","summary":"Malicious code in hunter-baileys (npm)","affected":[{"package":{"name":"hunter-baileys","ecosystem":"npm","purl":"pkg:npm/hunter-baileys"},"versions":["2.1.1"]}]}

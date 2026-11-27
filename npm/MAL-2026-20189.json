@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20189","published":"2026-11-18T05:38:20Z","modified":"2026-11-23T10:00:04.757310085Z","summary":"Malicious code in @clikwraps/navigate (npm)","affected":[{"package":{"name":"@clikwraps/navigate","ecosystem":"npm","purl":"pkg:npm/%40clikwraps/navigate"},"versions":["99.9.1"]}]}

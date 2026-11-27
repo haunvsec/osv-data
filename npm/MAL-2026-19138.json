@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19138","published":"2026-11-11T16:03:42Z","modified":"2026-11-11T16:31:27.109706813Z","aliases":["GHSA-qpr9-cqf6-8m73"],"summary":"Malicious code in shraps (npm)","affected":[{"package":{"name":"shraps","ecosystem":"npm","purl":"pkg:npm/shraps"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

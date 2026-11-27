@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18891","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:24.707513846Z","summary":"Malicious code in @sanz-0fx/baileys-mod (npm)","affected":[{"package":{"name":"@sanz-0fx/baileys-mod","ecosystem":"npm","purl":"pkg:npm/%40sanz-0fx/baileys-mod"},"versions":["1.0.3-beta"]}]}

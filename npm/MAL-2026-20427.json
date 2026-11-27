@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20427","published":"2026-11-24T05:38:28Z","modified":"2026-11-24T06:30:07.039905990Z","summary":"Malicious code in zzf7rce-probe (npm)","affected":[{"package":{"name":"zzf7rce-probe","ecosystem":"npm","purl":"pkg:npm/zzf7rce-probe"},"versions":["1.0.0"]}]}

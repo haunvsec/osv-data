@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18860","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:23.546554604Z","summary":"Malicious code in @kyynotdevv/baileys (npm)","affected":[{"package":{"name":"@kyynotdevv/baileys","ecosystem":"npm","purl":"pkg:npm/%40kyynotdevv/baileys"},"versions":["2.0.3","2.0.4","2.0.6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19136","published":"2026-11-11T15:35:44Z","modified":"2026-11-11T16:31:43.644603222Z","aliases":["GHSA-qv92-rmvf-gfmp"],"summary":"Malicious code in jsonrail (npm)","affected":[{"package":{"name":"jsonrail","ecosystem":"npm","purl":"pkg:npm/jsonrail"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

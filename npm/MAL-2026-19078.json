@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19078","published":"2026-11-10T16:14:16Z","modified":"2026-11-10T16:30:04.682926419Z","aliases":["GHSA-fgxr-cqw4-cpp6"],"summary":"Malicious code in tailwind-kinetix (npm)","affected":[{"package":{"name":"tailwind-kinetix","ecosystem":"npm","purl":"pkg:npm/tailwind-kinetix"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

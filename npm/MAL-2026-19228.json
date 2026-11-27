@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19228","published":"2026-11-13T03:58:46Z","modified":"2026-11-13T04:30:06.138768501Z","summary":"Malicious code in zxcvb90-utils-helper (npm)","affected":[{"package":{"name":"zxcvb90-utils-helper","ecosystem":"npm","purl":"pkg:npm/zxcvb90-utils-helper"},"versions":["1.0.1"]}]}

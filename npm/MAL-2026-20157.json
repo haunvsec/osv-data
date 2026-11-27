@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20157","published":"2026-11-19T00:35:08Z","modified":"2026-11-19T00:45:38.277884500Z","aliases":["GHSA-r2g7-mv2c-m8q2"],"summary":"Malicious code in nima-google-now (npm)","affected":[{"package":{"name":"nima-google-now","ecosystem":"npm","purl":"pkg:npm/nima-google-now"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

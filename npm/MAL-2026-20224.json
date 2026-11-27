@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20224","published":"2026-11-19T14:24:00Z","modified":"2026-11-19T15:30:05.840597713Z","aliases":["GHSA-xjhh-6c5p-jq5j"],"summary":"Malicious code in bakersfield (npm)","affected":[{"package":{"name":"bakersfield","ecosystem":"npm","purl":"pkg:npm/bakersfield"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19194","published":"2026-11-12T20:57:05Z","modified":"2026-11-12T21:30:04.181169318Z","aliases":["GHSA-h9jx-jh37-w33x"],"summary":"Malicious code in @hesxo/forge-cli (npm)","affected":[{"package":{"name":"@hesxo/forge-cli","ecosystem":"npm","purl":"pkg:npm/%40hesxo/forge-cli"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

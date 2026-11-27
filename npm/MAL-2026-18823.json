@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18823","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:18.663217411Z","summary":"Malicious code in @dinzid/bailstaov1 (npm)","affected":[{"package":{"name":"@dinzid/bailstaov1","ecosystem":"npm","purl":"pkg:npm/%40dinzid/bailstaov1"},"versions":["0.1.0"]}]}

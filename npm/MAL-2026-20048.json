@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20048","published":"2026-11-16T15:00:00Z","modified":"2026-11-17T05:45:05.683286563Z","summary":"Malicious code in me5123 (npm)","affected":[{"package":{"name":"me5123","ecosystem":"npm","purl":"pkg:npm/me5123"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18819","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:20.620375782Z","summary":"Malicious code in @devil-fight/baileys (npm)","affected":[{"package":{"name":"@devil-fight/baileys","ecosystem":"npm","purl":"pkg:npm/%40devil-fight/baileys"},"versions":["1.0.0","1.0.1","1.0.3","1.0.4","1.0.5","1.0.6","1.0.7"]}]}

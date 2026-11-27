@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19112","published":"2026-11-11T03:52:30Z","modified":"2026-11-11T04:30:05.419737112Z","aliases":["GHSA-8cvx-wq76-pcwg"],"summary":"Malicious code in kbmathlessons (npm)","affected":[{"package":{"name":"kbmathlessons","ecosystem":"npm","purl":"pkg:npm/kbmathlessons"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

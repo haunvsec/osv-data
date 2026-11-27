@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18794","published":"2026-11-09T16:53:31Z","modified":"2026-11-11T07:30:07.877574058Z","aliases":["GHSA-p9gj-xrcq-w5rc"],"summary":"Malicious code in dsh-ungate (npm)","affected":[{"package":{"name":"dsh-ungate","ecosystem":"npm","purl":"pkg:npm/dsh-ungate"},"versions":["0.2.3","0.2.4"]}]}

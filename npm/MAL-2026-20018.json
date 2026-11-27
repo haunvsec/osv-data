@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20018","published":"2026-11-16T21:00:21Z","modified":"2026-11-16T21:30:04.842747380Z","aliases":["GHSA-22xg-369p-hqrf"],"summary":"Malicious code in kartykgithub-ph-d (npm)","affected":[{"package":{"name":"kartykgithub-ph-d","ecosystem":"npm","purl":"pkg:npm/kartykgithub-ph-d"},"versions":["1.0.0"]}]}

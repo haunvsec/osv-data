@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18580","published":"2026-11-03T19:28:17Z","modified":"2026-11-08T10:15:04.135559049Z","summary":"Malicious code in filipt (PyPI)","affected":[{"package":{"name":"filipt","ecosystem":"PyPI","purl":"pkg:pypi/filipt"},"versions":["0.1.0","0.1.1","0.1.2","0.1.3","0.1.4","0.1.5"]}]}

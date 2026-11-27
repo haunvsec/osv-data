@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20332","published":"2026-11-22T19:46:20Z","modified":"2026-11-22T20:30:04.321405651Z","aliases":["GHSA-c4c4-vhh9-j3h4"],"summary":"Malicious code in cti-defense (npm)","affected":[{"package":{"name":"cti-defense","ecosystem":"npm","purl":"pkg:npm/cti-defense"},"versions":["1.0.0"]}]}

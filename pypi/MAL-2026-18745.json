@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18745","published":"2026-11-07T07:43:04Z","modified":"2026-11-07T08:30:03.083732494Z","summary":"Malicious code in pulumi-doppler (PyPI)","affected":[{"package":{"name":"pulumi-doppler","ecosystem":"PyPI","purl":"pkg:pypi/pulumi-doppler"},"versions":["0.0.0","1.0.0"]}]}

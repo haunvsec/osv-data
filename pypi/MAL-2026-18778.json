@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18778","published":"2026-11-09T08:18:27Z","modified":"2026-11-12T03:45:03.283944514Z","summary":"Malicious code in logger-libs (PyPI)","affected":[{"package":{"name":"logger-libs","ecosystem":"PyPI","purl":"pkg:pypi/logger-libs"},"versions":["0.4.1","0.4.2","0.4.3","0.4.5","0.4.6"]}]}

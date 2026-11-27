@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18660","published":"2026-11-02T22:34:49Z","modified":"2026-11-05T04:15:04.921646019Z","summary":"Malicious code in dian-peyek23-miaww (npm)","affected":[{"package":{"name":"dian-peyek23-miaww","ecosystem":"npm","purl":"pkg:npm/dian-peyek23-miaww"},"versions":["1.1.3"]}]}

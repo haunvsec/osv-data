@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18549","published":"2026-11-03T17:35:23Z","modified":"2026-11-03T18:30:14.658425093Z","aliases":["GHSA-6848-888x-98xp"],"summary":"Malicious code in kojs0k (npm)","affected":[{"package":{"name":"kojs0k","ecosystem":"npm","purl":"pkg:npm/kojs0k"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

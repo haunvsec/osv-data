@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19195","published":"2026-11-12T20:57:05Z","modified":"2026-11-12T21:30:04.117188998Z","aliases":["GHSA-g2hr-x6gp-2f6r"],"summary":"Malicious code in @hesxo/viro-cli (npm)","affected":[{"package":{"name":"@hesxo/viro-cli","ecosystem":"npm","purl":"pkg:npm/%40hesxo/viro-cli"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

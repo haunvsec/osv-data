@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19974","published":"2026-11-16T17:10:41Z","modified":"2026-11-16T17:30:03.313184907Z","aliases":["GHSA-hv4x-8vcp-h343"],"summary":"Malicious code in writecanvas (npm)","affected":[{"package":{"name":"writecanvas","ecosystem":"npm","purl":"pkg:npm/writecanvas"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20275","published":"2026-11-20T00:59:58Z","modified":"2026-11-20T02:30:08.881951136Z","aliases":["GHSA-4ffv-gw64-v99f"],"summary":"Malicious code in xueoj-vjtof-util (npm)","affected":[{"package":{"name":"xueoj-vjtof-util","ecosystem":"npm","purl":"pkg:npm/xueoj-vjtof-util"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

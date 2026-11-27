@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20287","published":"2026-11-20T03:51:08Z","modified":"2026-11-20T04:30:24.856500871Z","summary":"Malicious code in @izi-coder/baileys (npm)","affected":[{"package":{"name":"@izi-coder/baileys","ecosystem":"npm","purl":"pkg:npm/%40izi-coder/baileys"},"versions":["2.0.5","6.0.9","6.0.10"]}]}

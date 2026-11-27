@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20122","published":"2026-11-18T13:16:57Z","modified":"2026-11-18T13:30:05.390905095Z","aliases":["GHSA-xrvx-xq53-6q5c"],"summary":"Malicious code in stellar-api-safe (npm)","affected":[{"package":{"name":"stellar-api-safe","ecosystem":"npm","purl":"pkg:npm/stellar-api-safe"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

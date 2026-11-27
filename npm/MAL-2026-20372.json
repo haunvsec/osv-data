@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20372","published":"2026-11-23T15:24:02Z","modified":"2026-11-23T16:30:04.755898517Z","aliases":["GHSA-cpp9-25vr-crc4"],"summary":"Malicious code in app-use (npm)","affected":[{"package":{"name":"app-use","ecosystem":"npm","purl":"pkg:npm/app-use"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19975","published":"2026-11-16T16:40:41Z","modified":"2026-11-16T17:30:03.508283862Z","aliases":["GHSA-4vj2-rg7w-445m"],"summary":"Malicious code in xzcbailz (npm)","affected":[{"package":{"name":"xzcbailz","ecosystem":"npm","purl":"pkg:npm/xzcbailz"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

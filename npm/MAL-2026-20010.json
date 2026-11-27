@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20010","published":"2026-11-16T19:48:50Z","modified":"2026-11-16T20:30:06.573157418Z","aliases":["GHSA-92hx-vmg8-hp5j"],"summary":"Malicious code in lodash-base-unary (npm)","affected":[{"package":{"name":"lodash-base-unary","ecosystem":"npm","purl":"pkg:npm/lodash-base-unary"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

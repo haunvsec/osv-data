@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20304","published":"2026-11-20T18:59:13Z","modified":"2026-11-20T19:15:08.844024991Z","summary":"Malicious code in qzi2v-tttf1-testmetest (npm)","affected":[{"package":{"name":"qzi2v-tttf1-testmetest","ecosystem":"npm","purl":"pkg:npm/qzi2v-tttf1-testmetest"},"versions":["1.0.1"]}]}

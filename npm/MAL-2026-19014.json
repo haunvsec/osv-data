@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19014","published":"2026-10-27T00:00:00Z","modified":"2026-11-16T18:30:06.510576418Z","aliases":["GHSA-jq2q-8r58-q95r"],"summary":"Malicious code in shadowmd-baileys (npm)","affected":[{"package":{"name":"shadowmd-baileys","ecosystem":"npm","purl":"pkg:npm/shadowmd-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18500","published":"2026-11-02T03:53:39Z","modified":"2026-11-03T05:00:10.347939870Z","summary":"Malicious code in @goparrot-dashboard/franchise-marketing (npm)","affected":[{"package":{"name":"@goparrot-dashboard/franchise-marketing","ecosystem":"npm","purl":"pkg:npm/%40goparrot-dashboard/franchise-marketing"},"versions":["0.0.1"]}]}

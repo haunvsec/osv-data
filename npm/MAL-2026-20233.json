@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20233","published":"2026-11-19T14:24:01Z","modified":"2026-11-19T15:30:06.348540290Z","aliases":["GHSA-7hhj-hhv4-xqcr"],"summary":"Malicious code in hyderabad (npm)","affected":[{"package":{"name":"hyderabad","ecosystem":"npm","purl":"pkg:npm/hyderabad"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

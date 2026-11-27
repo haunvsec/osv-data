@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20323","published":"2026-11-21T11:57:12Z","modified":"2026-11-21T12:30:14.537871531Z","summary":"Malicious code in signed-manifest-guard (PyPI)","affected":[{"package":{"name":"signed-manifest-guard","ecosystem":"PyPI","purl":"pkg:pypi/signed-manifest-guard"},"versions":["0.1.7"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18770","published":"2026-11-08T21:22:06Z","modified":"2026-11-11T21:15:15.148187926Z","summary":"Malicious code in bundyfed (PyPI)","affected":[{"package":{"name":"bundyfed","ecosystem":"PyPI","purl":"pkg:pypi/bundyfed"},"versions":["1.0.0","1.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20263","published":"2026-11-20T01:01:39Z","modified":"2026-11-20T01:30:04.765967129Z","aliases":["GHSA-6wpr-mmgq-xj72"],"summary":"Malicious code in csvmw-glair-util (npm)","affected":[{"package":{"name":"csvmw-glair-util","ecosystem":"npm","purl":"pkg:npm/csvmw-glair-util"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

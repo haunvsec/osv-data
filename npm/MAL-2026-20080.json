@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20080","published":"2026-11-17T17:17:11Z","modified":"2026-11-17T18:30:38.580690017Z","aliases":["GHSA-cqw3-7xmc-xf28"],"summary":"Malicious code in tsc-p2pnet (npm)","affected":[{"package":{"name":"tsc-p2pnet","ecosystem":"npm","purl":"pkg:npm/tsc-p2pnet"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

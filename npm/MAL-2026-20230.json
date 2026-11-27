@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20230","published":"2026-11-19T14:24:00Z","modified":"2026-11-19T15:30:06.349526140Z","aliases":["GHSA-jfpc-fc9q-j73r"],"summary":"Malicious code in elpaso (npm)","affected":[{"package":{"name":"elpaso","ecosystem":"npm","purl":"pkg:npm/elpaso"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

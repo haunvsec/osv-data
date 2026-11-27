@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19207","published":"2026-11-13T01:22:27Z","modified":"2026-11-13T02:30:04.687284177Z","summary":"Malicious code in qwen3ttsui (PyPI)","affected":[{"package":{"name":"qwen3ttsui","ecosystem":"PyPI","purl":"pkg:pypi/qwen3ttsui"},"versions":["0.1.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20117","published":"2026-11-16T15:40:00Z","modified":"2026-11-18T06:30:06.345245991Z","summary":"Malicious code in setnetwork (PyPI)","affected":[{"package":{"name":"setnetwork","ecosystem":"PyPI","purl":"pkg:pypi/setnetwork"},"versions":["0.2"]}]}

@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2024-2047","published":"2024-06-25T12:35:03Z","modified":"2024-10-24T01:01:55Z","summary":"Malicious code in cusip (npm)","affected":[{"package":{"name":"cusip","ecosystem":"npm","purl":"pkg:npm/cusip"},"versions":["99.99.99"]}]}
+{"schema_version":"1.9.2","id":"MAL-2024-2047","published":"2024-06-25T12:35:03Z","modified":"2026-11-25T10:32:21.112061236Z","aliases":["GHSA-929m-xqgq-c3c3"],"summary":"Malicious code in cusip (npm)","affected":[{"package":{"name":"cusip","ecosystem":"npm","purl":"pkg:npm/cusip"},"versions":["99.99.99"]}]}

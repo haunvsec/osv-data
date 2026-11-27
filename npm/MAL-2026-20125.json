@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20125","published":"2026-11-18T13:33:16Z","modified":"2026-11-18T14:30:06.528222802Z","aliases":["GHSA-4g5f-v2qx-j2qp"],"summary":"Malicious code in jest-test (npm)","affected":[{"package":{"name":"jest-test","ecosystem":"npm","purl":"pkg:npm/jest-test"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20047","published":"2026-11-16T15:00:00Z","modified":"2026-11-17T05:45:05.434335986Z","summary":"Malicious code in lgcook (npm)","affected":[{"package":{"name":"lgcook","ecosystem":"npm","purl":"pkg:npm/lgcook"},"versions":["99.1.1"]}]}

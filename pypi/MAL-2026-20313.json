@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20313","published":"2026-11-20T19:30:56Z","modified":"2026-11-21T23:15:04.217123819Z","summary":"Malicious code in testing1345py (PyPI)","affected":[{"package":{"name":"testing1345py","ecosystem":"PyPI","purl":"pkg:pypi/testing1345py"},"versions":["0.1.3","0.1.4"]}]}

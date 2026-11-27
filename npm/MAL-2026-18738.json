@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18738","published":"2026-11-06T21:27:59Z","modified":"2026-11-13T03:45:12.549859529Z","aliases":["GHSA-j6x3-5wfw-v23f"],"summary":"Malicious code in kampodine (npm)","affected":[{"package":{"name":"kampodine","ecosystem":"npm","purl":"pkg:npm/kampodine"},"versions":["0.8.0"]}]}

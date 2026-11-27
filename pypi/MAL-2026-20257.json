@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20257","published":"2026-11-19T21:50:33Z","modified":"2026-11-20T01:17:28.081884970Z","summary":"Malicious code in certify-web (PyPI)","affected":[{"package":{"name":"certify-web","ecosystem":"PyPI","purl":"pkg:pypi/certify-web"},"versions":["0.1.3"]}]}

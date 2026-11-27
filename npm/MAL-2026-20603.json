@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20603","published":"2026-11-25T15:46:07Z","modified":"2026-11-25T16:30:05.759425984Z","summary":"Malicious code in ep_nxs74552 (npm)","affected":[{"package":{"name":"ep_nxs74552","ecosystem":"npm","purl":"pkg:npm/ep_nxs74552"},"versions":["1.0.0"]}]}

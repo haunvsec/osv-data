@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20329","published":"2026-11-21T21:51:40Z","modified":"2026-11-24T06:30:06.486895696Z","summary":"Malicious code in autoloan (npm)","affected":[{"package":{"name":"autoloan","ecosystem":"npm","purl":"pkg:npm/autoloan"},"versions":["3.0.0","0.0.1","2.0.0","1.1.0"]}]}

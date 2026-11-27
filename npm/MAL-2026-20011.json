@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20011","published":"2026-11-16T19:58:40Z","modified":"2026-11-16T20:30:06.566733984Z","aliases":["GHSA-9hvg-j8mj-55xr"],"summary":"Malicious code in mem0-mcp-server (npm)","affected":[{"package":{"name":"mem0-mcp-server","ecosystem":"npm","purl":"pkg:npm/mem0-mcp-server"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

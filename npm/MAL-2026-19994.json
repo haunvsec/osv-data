@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19994","published":"2026-11-16T17:59:19Z","modified":"2026-11-16T18:30:04.423639557Z","aliases":["GHSA-gw9v-r2mq-fwgf"],"summary":"Malicious code in spencer-btns (npm)","affected":[{"package":{"name":"spencer-btns","ecosystem":"npm","purl":"pkg:npm/spencer-btns"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

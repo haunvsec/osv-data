@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20319","published":"2026-11-20T22:32:17Z","modified":"2026-11-20T23:30:04.791553859Z","aliases":["GHSA-rf8v-v97c-32r7"],"summary":"Malicious code in orion-overlord (npm)","affected":[{"package":{"name":"orion-overlord","ecosystem":"npm","purl":"pkg:npm/orion-overlord"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18708","published":"2026-11-05T21:57:54Z","modified":"2026-11-05T22:30:04.307872701Z","aliases":["GHSA-fq5g-5qrm-crjh"],"summary":"Malicious code in @gemshell/win32-x64 (npm)","affected":[{"package":{"name":"@gemshell/win32-x64","ecosystem":"npm","purl":"pkg:npm/%40gemshell/win32-x64"},"versions":["1.2.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20588","published":"2026-11-24T12:12:10Z","modified":"2026-11-25T10:32:32.777485851Z","summary":"Malicious code in redis-example (npm)","affected":[{"package":{"name":"redis-example","ecosystem":"npm","purl":"pkg:npm/redis-example"},"versions":["55.33.111"]}]}

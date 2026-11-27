@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19130","published":"2026-11-11T16:03:42Z","modified":"2026-11-11T16:31:43.992854668Z","aliases":["GHSA-w7c4-444m-w3r7"],"summary":"Malicious code in express-helmet (npm)","affected":[{"package":{"name":"express-helmet","ecosystem":"npm","purl":"pkg:npm/express-helmet"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

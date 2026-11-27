@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20598","published":"2026-11-24T12:21:53Z","modified":"2026-11-25T10:32:33.375002419Z","summary":"Malicious code in yoshino_s_test_evil (npm)","affected":[{"package":{"name":"yoshino_s_test_evil","ecosystem":"npm","purl":"pkg:npm/yoshino_s_test_evil"},"versions":["1.0.0"]}]}

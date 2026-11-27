@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20265","published":"2026-11-20T01:02:15Z","modified":"2026-11-20T02:30:08.628907039Z","aliases":["GHSA-vm96-5m7m-hr25"],"summary":"Malicious code in jmrwd-gjdob-util (npm)","affected":[{"package":{"name":"jmrwd-gjdob-util","ecosystem":"npm","purl":"pkg:npm/jmrwd-gjdob-util"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20565","published":"2026-11-24T11:46:40Z","modified":"2026-11-25T10:32:27.626881311Z","summary":"Malicious code in fs-pwn-meeb322k (npm)","affected":[{"package":{"name":"fs-pwn-meeb322k","ecosystem":"npm","purl":"pkg:npm/fs-pwn-meeb322k"},"versions":["1.0.0"]}]}

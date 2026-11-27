@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20309","published":"2026-11-20T19:26:16Z","modified":"2026-11-20T19:45:03.621654255Z","summary":"Malicious code in wouki-lipok (PyPI)","affected":[{"package":{"name":"wouki-lipok","ecosystem":"PyPI","purl":"pkg:pypi/wouki-lipok"},"versions":["1.0.0"]}]}

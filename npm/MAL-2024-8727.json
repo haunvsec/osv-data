@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2024-8727","published":"2024-09-03T15:27:54Z","modified":"2024-12-09T14:39:21Z","summary":"Malicious code in esdjiw (npm)","affected":[{"package":{"name":"esdjiw","ecosystem":"npm","purl":"pkg:npm/esdjiw"},"versions":["11.37.2"]}]}
+{"schema_version":"1.9.2","id":"MAL-2024-8727","published":"2024-09-03T15:27:54Z","modified":"2026-11-25T10:30:13.466439289Z","aliases":["GHSA-p6gp-ffp8-wm9g"],"summary":"Malicious code in esdjiw (npm)","affected":[{"package":{"name":"esdjiw","ecosystem":"npm","purl":"pkg:npm/esdjiw"},"versions":["11.37.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18574","published":"2026-11-03T17:35:23Z","modified":"2026-11-03T18:30:16.601654658Z","aliases":["GHSA-m9c6-jp5r-78jh"],"summary":"Malicious code in wolce9 (npm)","affected":[{"package":{"name":"wolce9","ecosystem":"npm","purl":"pkg:npm/wolce9"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

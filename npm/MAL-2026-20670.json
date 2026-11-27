@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20670","published":"2026-11-26T20:00:39Z","modified":"2026-11-26T21:30:05.821818258Z","aliases":["GHSA-fjw5-qqq4-3mrg"],"summary":"Malicious code in nxxpi-session (npm)","affected":[{"package":{"name":"nxxpi-session","ecosystem":"npm","purl":"pkg:npm/nxxpi-session"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

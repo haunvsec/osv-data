@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20150","published":"2026-11-19T00:35:09Z","modified":"2026-11-19T00:45:38.255854134Z","aliases":["GHSA-9xg6-v4wj-vr3v"],"summary":"Malicious code in gms-mobile-news (npm)","affected":[{"package":{"name":"gms-mobile-news","ecosystem":"npm","purl":"pkg:npm/gms-mobile-news"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

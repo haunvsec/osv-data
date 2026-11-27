@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19989","published":"2026-11-16T18:14:22Z","modified":"2026-11-16T18:30:05.920543616Z","aliases":["GHSA-jm7m-6c6q-h78g"],"summary":"Malicious code in analyitcs-sdk (npm)","affected":[{"package":{"name":"analyitcs-sdk","ecosystem":"npm","purl":"pkg:npm/analyitcs-sdk"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

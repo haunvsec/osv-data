@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19934","published":"2026-11-14T15:28:36Z","modified":"2026-11-14T20:45:04.800103817Z","summary":"Malicious code in ps-bool (PyPI)","affected":[{"package":{"name":"ps-bool","ecosystem":"PyPI","purl":"pkg:pypi/ps-bool"},"versions":["0.2.0","0.2.1","0.2.3","0.2.4","0.2.5"]}]}

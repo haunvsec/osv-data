@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18565","published":"2026-11-03T17:35:23Z","modified":"2026-11-03T18:30:13.918783407Z","aliases":["GHSA-wcxx-qg5c-m5x2"],"summary":"Malicious code in t6unrv (npm)","affected":[{"package":{"name":"t6unrv","ecosystem":"npm","purl":"pkg:npm/t6unrv"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

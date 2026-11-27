@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20562","published":"2026-11-24T11:44:11Z","modified":"2026-11-25T10:32:27.157233061Z","summary":"Malicious code in example-fastify (npm)","affected":[{"package":{"name":"example-fastify","ecosystem":"npm","purl":"pkg:npm/example-fastify"},"versions":["55.33.111"]}]}

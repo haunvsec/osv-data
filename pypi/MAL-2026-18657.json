@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18657","published":"2026-11-05T00:44:34Z","modified":"2026-11-05T01:30:03.183134380Z","summary":"Malicious code in strands-aidr (PyPI)","affected":[{"package":{"name":"strands-aidr","ecosystem":"PyPI","purl":"pkg:pypi/strands-aidr"},"versions":["9999.0.0"]}]}

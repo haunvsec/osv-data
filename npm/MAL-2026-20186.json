@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20186","published":"2026-11-19T04:55:43Z","modified":"2026-11-19T05:45:14.466048334Z","aliases":["GHSA-2q5q-m7xg-cp3v"],"summary":"Malicious code in amlekzo (npm)","affected":[{"package":{"name":"amlekzo","ecosystem":"npm","purl":"pkg:npm/amlekzo"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

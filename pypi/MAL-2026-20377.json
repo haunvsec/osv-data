@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20377","published":"2026-11-23T18:00:50Z","modified":"2026-11-24T20:45:03.361902369Z","summary":"Malicious code in caspian-client (PyPI)","affected":[{"package":{"name":"caspian-client","ecosystem":"PyPI","purl":"pkg:pypi/caspian-client"},"versions":["2.9.15","2.9.18","2.9.13","2.9.11","2.9.10","2.9.17","2.9.16","2.9.12","2.9.9"]}]}

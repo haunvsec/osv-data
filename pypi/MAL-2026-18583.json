@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18583","published":"2026-11-03T22:54:18Z","modified":"2026-11-03T23:15:03.180134097Z","summary":"Malicious code in ln9qw38745g (PyPI)","affected":[{"package":{"name":"ln9qw38745g","ecosystem":"PyPI","purl":"pkg:pypi/ln9qw38745g"},"versions":["0.1.0","0.1.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18522","published":"2026-11-03T07:25:58Z","modified":"2026-11-03T08:30:07.711369780Z","aliases":["GHSA-cw2g-cxwh-wqqm"],"summary":"Malicious code in dsh-moss-console (npm)","affected":[{"package":{"name":"dsh-moss-console","ecosystem":"npm","purl":"pkg:npm/dsh-moss-console"},"versions":["3.3.0"]}]}

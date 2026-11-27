@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20201","published":"2026-11-19T05:52:10Z","modified":"2026-11-20T01:17:29.988862299Z","aliases":["GHSA-6m66-5gxq-w93m"],"summary":"Malicious code in crypapiapi (npm)","affected":[{"package":{"name":"crypapiapi","ecosystem":"npm","purl":"pkg:npm/crypapiapi"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

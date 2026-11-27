@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20266","published":"2026-11-20T00:59:58Z","modified":"2026-11-20T01:30:04.320100634Z","aliases":["GHSA-c2cw-ccqv-pghc"],"summary":"Malicious code in nhhhh-yhejl-util (npm)","affected":[{"package":{"name":"nhhhh-yhejl-util","ecosystem":"npm","purl":"pkg:npm/nhhhh-yhejl-util"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

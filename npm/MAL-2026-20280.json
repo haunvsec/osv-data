@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20280","published":"2026-11-20T02:09:39Z","modified":"2026-11-20T02:30:08.874887326Z","summary":"Malicious code in stream-buffer-utils-testmetest (npm)","affected":[{"package":{"name":"stream-buffer-utils-testmetest","ecosystem":"npm","purl":"pkg:npm/stream-buffer-utils-testmetest"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20221","published":"2026-11-19T14:24:01Z","modified":"2026-11-19T15:30:06.360238273Z","aliases":["GHSA-fr2v-c55r-89wm"],"summary":"Malicious code in ahmedabad (npm)","affected":[{"package":{"name":"ahmedabad","ecosystem":"npm","purl":"pkg:npm/ahmedabad"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

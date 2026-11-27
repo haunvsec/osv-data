@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19144","published":"2026-11-11T20:54:40Z","modified":"2026-11-11T21:15:14.977932014Z","summary":"Malicious code in strutil-helpers-core (npm)","affected":[{"package":{"name":"strutil-helpers-core","ecosystem":"npm","purl":"pkg:npm/strutil-helpers-core"},"versions":["1.0.1","1.0.2","1.0.4","1.0.5","1.0.3"]}]}

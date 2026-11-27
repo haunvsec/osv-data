@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18544","published":"2026-11-03T17:35:23Z","modified":"2026-11-03T18:30:14.670497253Z","aliases":["GHSA-gm4c-56vq-fvc9"],"summary":"Malicious code in ib3rwn (npm)","affected":[{"package":{"name":"ib3rwn","ecosystem":"npm","purl":"pkg:npm/ib3rwn"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

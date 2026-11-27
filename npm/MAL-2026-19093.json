@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19093","published":"2026-11-10T19:45:24Z","modified":"2026-11-10T20:30:06.056052421Z","aliases":["GHSA-p4p5-f7j2-g67x"],"summary":"Malicious code in text-regexer (npm)","affected":[{"package":{"name":"text-regexer","ecosystem":"npm","purl":"pkg:npm/text-regexer"},"versions":["4.3.0"]}]}

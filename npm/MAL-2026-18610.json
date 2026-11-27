@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18610","published":"2026-11-02T09:44:21Z","modified":"2026-11-04T09:00:05.068680317Z","summary":"Malicious code in hushed_zebra_green-81 (npm)","affected":[{"package":{"name":"hushed_zebra_green-81","ecosystem":"npm","purl":"pkg:npm/hushed_zebra_green-81"},"versions":["2.4.2"]}]}

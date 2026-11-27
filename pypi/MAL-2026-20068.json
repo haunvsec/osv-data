@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20068","published":"2026-11-17T14:45:00Z","modified":"2026-11-18T00:45:13.872351109Z","summary":"Malicious code in mcp-aevo-server (PyPI)","affected":[{"package":{"name":"mcp-aevo-server","ecosystem":"PyPI","purl":"pkg:pypi/mcp-aevo-server"},"versions":["0.2.0","0.2.0.post1","0.2.0.post2","0.2.0.post3","0.2.0.post4","0.2.0.post6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18693","published":"2026-10-26T00:00:00Z","modified":"2026-11-19T07:30:04.903120754Z","aliases":["GHSA-8hw9-ch78-32cg"],"summary":"Malicious code in ruby-baileys (npm)","affected":[{"package":{"name":"ruby-baileys","ecosystem":"npm","purl":"pkg:npm/ruby-baileys"},"versions":["1.5.17","1.5.18","0.0.0-stage"]}]}

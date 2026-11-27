@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18581","published":"2026-11-03T20:19:07Z","modified":"2026-11-03T21:15:03.424350936Z","summary":"Malicious code in hijuko-pilara (PyPI)","affected":[{"package":{"name":"hijuko-pilara","ecosystem":"PyPI","purl":"pkg:pypi/hijuko-pilara"},"versions":["1.0.0"]}]}

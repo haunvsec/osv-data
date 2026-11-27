@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20415","published":"2026-11-24T04:12:09Z","modified":"2026-11-24T04:30:37.917329271Z","summary":"Malicious code in ep_nxs34308 (npm)","affected":[{"package":{"name":"ep_nxs34308","ecosystem":"npm","purl":"pkg:npm/ep_nxs34308"},"versions":["1.0.0"]}]}

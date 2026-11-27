@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18682","published":"2026-10-26T00:00:00Z","modified":"2026-11-19T07:15:08.923347683Z","aliases":["GHSA-wpq7-r76p-73cp"],"summary":"Malicious code in @wanzforme/bails (npm)","affected":[{"package":{"name":"@wanzforme/bails","ecosystem":"npm","purl":"pkg:npm/%40wanzforme/bails"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

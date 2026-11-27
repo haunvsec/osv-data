@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20664","published":"2026-11-26T17:35:33Z","modified":"2026-11-26T18:30:04.966890635Z","aliases":["GHSA-q6hp-xm48-cq43"],"summary":"Malicious code in dew-ytdl (npm)","affected":[{"package":{"name":"dew-ytdl","ecosystem":"npm","purl":"pkg:npm/dew-ytdl"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

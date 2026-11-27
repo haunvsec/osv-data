@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20042","published":"2026-11-12T15:49:22Z","modified":"2026-11-19T07:15:11.749539181Z","summary":"Malicious code in approve-audit (npm)","affected":[{"package":{"name":"approve-audit","ecosystem":"npm","purl":"pkg:npm/approve-audit"},"versions":["1.0.0"]}]}

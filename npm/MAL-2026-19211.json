@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19211","published":"2026-11-13T02:23:25Z","modified":"2026-11-13T03:30:10.256999919Z","aliases":["GHSA-x85r-gpx2-2668"],"summary":"Malicious code in griffing-ui-pkg (npm)","affected":[{"package":{"name":"griffing-ui-pkg","ecosystem":"npm","purl":"pkg:npm/griffing-ui-pkg"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

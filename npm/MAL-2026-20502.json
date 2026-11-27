@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20502","published":"2026-11-24T17:11:12Z","modified":"2026-11-24T17:30:06.445995318Z","aliases":["GHSA-c73f-fgmf-cxjw"],"summary":"Malicious code in tailwind-studio (npm)","affected":[{"package":{"name":"tailwind-studio","ecosystem":"npm","purl":"pkg:npm/tailwind-studio"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

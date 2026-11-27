@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19190","published":"2026-11-12T20:43:24Z","modified":"2026-11-12T21:15:14.918542422Z","summary":"Malicious code in stackvane (PyPI)","affected":[{"package":{"name":"stackvane","ecosystem":"PyPI","purl":"pkg:pypi/stackvane"},"versions":["0.1.0"]}]}

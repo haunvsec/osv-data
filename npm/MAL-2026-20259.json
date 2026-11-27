@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20259","published":"2026-11-19T22:35:47Z","modified":"2026-11-19T22:45:06.174328849Z","summary":"Malicious code in webhook-easy (npm)","affected":[{"package":{"name":"webhook-easy","ecosystem":"npm","purl":"pkg:npm/webhook-easy"},"versions":["1.1.0"]}]}

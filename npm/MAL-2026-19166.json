@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19166","published":"2026-11-12T15:50:35Z","modified":"2026-11-12T16:30:05.591001157Z","aliases":["GHSA-27m9-96qf-23mq"],"summary":"Malicious code in solidty (npm)","affected":[{"package":{"name":"solidty","ecosystem":"npm","purl":"pkg:npm/solidty"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

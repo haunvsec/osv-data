@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20422","published":"2026-11-21T22:02:58Z","modified":"2026-11-24T06:30:06.139456389Z","summary":"Malicious code in sbbank (npm)","affected":[{"package":{"name":"sbbank","ecosystem":"npm","purl":"pkg:npm/sbbank"},"versions":["0.0.1"]}]}

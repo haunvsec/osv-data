@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2026-1702","published":"2026-03-18T12:45:52Z","modified":"2026-03-23T05:41:37.795004Z","summary":"Malicious code in d4sp (npm)","affected":[{"package":{"name":"d4sp","ecosystem":"npm","purl":"pkg:npm/d4sp"},"versions":["999.0.0"]}]}
+{"schema_version":"1.9.2","id":"MAL-2026-1702","published":"2026-03-18T12:45:52Z","modified":"2026-11-25T10:32:21.308509572Z","aliases":["GHSA-84g7-cvv4-2ccx"],"summary":"Malicious code in d4sp (npm)","affected":[{"package":{"name":"d4sp","ecosystem":"npm","purl":"pkg:npm/d4sp"},"versions":["999.0.0"]}]}

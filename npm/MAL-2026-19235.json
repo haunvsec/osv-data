@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19235","published":"2026-11-13T08:05:00Z","modified":"2026-11-13T08:30:09.370492600Z","aliases":["GHSA-72xc-q3v8-7grp"],"summary":"Malicious code in karma365-mcp (npm)","affected":[{"package":{"name":"karma365-mcp","ecosystem":"npm","purl":"pkg:npm/karma365-mcp"},"versions":["2.1.0"]}]}

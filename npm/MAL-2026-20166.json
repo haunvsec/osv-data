@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20166","published":"2026-11-19T00:37:20Z","modified":"2026-11-19T00:45:38.293327283Z","aliases":["GHSA-h279-4vg6-3c75"],"summary":"Malicious code in react-r2d2 (npm)","affected":[{"package":{"name":"react-r2d2","ecosystem":"npm","purl":"pkg:npm/react-r2d2"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

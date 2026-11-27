@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18525","published":"2026-11-03T11:25:54Z","modified":"2026-11-03T12:30:04.469111474Z","aliases":["GHSA-g8hc-9fqj-qjj6"],"summary":"Malicious code in blitzstrike (npm)","affected":[{"package":{"name":"blitzstrike","ecosystem":"npm","purl":"pkg:npm/blitzstrike"},"versions":["2.4.180"]}]}

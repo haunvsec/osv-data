@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18692","published":"2026-10-26T00:00:00Z","modified":"2026-11-13T04:30:06.912978930Z","summary":"Malicious code in pino-std (npm)","affected":[{"package":{"name":"pino-std","ecosystem":"npm","purl":"pkg:npm/pino-std"},"versions":["7.2.0"]}]}

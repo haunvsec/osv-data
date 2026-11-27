@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20269","published":"2026-11-20T01:01:39Z","modified":"2026-11-20T01:30:06.681337831Z","aliases":["GHSA-r3pq-mfc8-4c4f"],"summary":"Malicious code in piepa-yfcbf-util (npm)","affected":[{"package":{"name":"piepa-yfcbf-util","ecosystem":"npm","purl":"pkg:npm/piepa-yfcbf-util"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

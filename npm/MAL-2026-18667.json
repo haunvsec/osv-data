@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18667","published":"2026-11-02T22:42:17Z","modified":"2026-11-05T04:15:04.930062682Z","summary":"Malicious code in unemployed_xerinae-toolteadev (npm)","affected":[{"package":{"name":"unemployed_xerinae-toolteadev","ecosystem":"npm","purl":"pkg:npm/unemployed_xerinae-toolteadev"},"versions":["1.4.4"]}]}

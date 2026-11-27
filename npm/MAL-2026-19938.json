@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19938","published":"2026-11-14T02:29:06Z","modified":"2026-11-16T22:45:05.207137328Z","aliases":["GHSA-wh49-9g69-vh2m"],"summary":"Malicious code in testpackage83 (npm)","affected":[{"package":{"name":"testpackage83","ecosystem":"npm","purl":"pkg:npm/testpackage83"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

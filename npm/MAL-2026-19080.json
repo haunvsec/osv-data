@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19080","published":"2026-11-10T16:48:20Z","modified":"2026-11-10T17:27:49.145378158Z","aliases":["GHSA-p844-4jjv-h39f"],"summary":"Malicious code in agent-trace-kit (npm)","affected":[{"package":{"name":"agent-trace-kit","ecosystem":"npm","purl":"pkg:npm/agent-trace-kit"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20667","published":"2026-11-20T00:00:00Z","modified":"2026-11-26T20:45:08.808465484Z","summary":"Malicious code in @evial/runtime-observer-qarges (npm)","affected":[{"package":{"name":"@evial/runtime-observer-qarges","ecosystem":"npm","purl":"pkg:npm/%40evial/runtime-observer-qarges"},"versions":["1.0.0"]}]}

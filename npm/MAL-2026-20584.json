@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20584","published":"2026-11-24T12:08:10Z","modified":"2026-11-25T10:32:32.620503700Z","summary":"Malicious code in opentracing-shim (npm)","affected":[{"package":{"name":"opentracing-shim","ecosystem":"npm","purl":"pkg:npm/opentracing-shim"},"versions":["55.33.111"]}]}

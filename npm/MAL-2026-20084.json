@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20084","published":"2026-11-17T19:18:14Z","modified":"2026-11-17T20:30:04.590634660Z","aliases":["GHSA-62rq-mxgx-jvm9"],"summary":"Malicious code in kartykgithub-bulk-versions (npm)","affected":[{"package":{"name":"kartykgithub-bulk-versions","ecosystem":"npm","purl":"pkg:npm/kartykgithub-bulk-versions"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18983","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:32.403243555Z","summary":"Malicious code in killua-baileys (npm)","affected":[{"package":{"name":"killua-baileys","ecosystem":"npm","purl":"pkg:npm/killua-baileys"},"versions":["2.0.0"]}]}

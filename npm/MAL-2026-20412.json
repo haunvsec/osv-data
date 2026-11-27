@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20412","published":"2026-11-23T23:13:50Z","modified":"2026-11-23T23:45:04.730933629Z","summary":"Malicious code in @ruaxbonz/tooltreovip (npm)","affected":[{"package":{"name":"@ruaxbonz/tooltreovip","ecosystem":"npm","purl":"pkg:npm/%40ruaxbonz/tooltreovip"},"versions":["1.0.1"]}]}

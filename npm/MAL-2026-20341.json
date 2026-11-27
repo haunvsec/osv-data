@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20341","published":"2026-11-23T06:00:46Z","modified":"2026-11-23T06:30:05.128547755Z","summary":"Malicious code in neokex-fca (npm)","affected":[{"package":{"name":"neokex-fca","ecosystem":"npm","purl":"pkg:npm/neokex-fca"},"versions":["5.0.5","5.0.6","5.0.4"]}]}

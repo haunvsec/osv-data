@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20617","published":"2026-11-25T17:07:31Z","modified":"2026-11-25T18:30:04.933227153Z","summary":"Malicious code in mcp-runtime-report (PyPI)","affected":[{"package":{"name":"mcp-runtime-report","ecosystem":"PyPI","purl":"pkg:pypi/mcp-runtime-report"},"versions":["1.0.0"]}]}

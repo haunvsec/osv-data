@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20360","published":"2026-11-23T13:16:08Z","modified":"2026-11-23T13:30:05.550727109Z","aliases":["GHSA-gx79-c2f6-mjvj"],"summary":"Malicious code in codebase-utilites (npm)","affected":[{"package":{"name":"codebase-utilites","ecosystem":"npm","purl":"pkg:npm/codebase-utilites"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18796","published":"2026-11-09T17:41:56Z","modified":"2026-11-13T03:45:12.550454157Z","aliases":["GHSA-gpgg-wjqc-hrqv"],"summary":"Malicious code in archetype-index-sdk (npm)","affected":[{"package":{"name":"archetype-index-sdk","ecosystem":"npm","purl":"pkg:npm/archetype-index-sdk"},"versions":["1.0.0","0.0.0-stage"]}]}

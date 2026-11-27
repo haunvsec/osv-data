@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19036","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:38.651032330Z","summary":"Malicious code in xnxx-bail-pro (npm)","affected":[{"package":{"name":"xnxx-bail-pro","ecosystem":"npm","purl":"pkg:npm/xnxx-bail-pro"},"versions":["1.0.0","2.0.0","2.1.0","2.2.0","2.3.0","2.4.0","2.4.1"]}]}

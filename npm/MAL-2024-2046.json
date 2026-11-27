@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2024-2046","published":"2024-06-25T12:34:56Z","modified":"2024-10-24T01:01:55Z","summary":"Malicious code in curlix (npm)","affected":[{"package":{"name":"curlix","ecosystem":"npm","purl":"pkg:npm/curlix"},"versions":["1.0.0"]}]}
+{"schema_version":"1.9.2","id":"MAL-2024-2046","published":"2024-06-25T12:34:56Z","modified":"2026-11-25T10:32:21.117516482Z","aliases":["GHSA-7p24-84p2-3x89"],"summary":"Malicious code in curlix (npm)","affected":[{"package":{"name":"curlix","ecosystem":"npm","purl":"pkg:npm/curlix"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19973","published":"2026-11-16T16:51:36Z","modified":"2026-11-16T17:30:03.905653798Z","aliases":["GHSA-g227-qwxx-j7gv"],"summary":"Malicious code in wanzy (npm)","affected":[{"package":{"name":"wanzy","ecosystem":"npm","purl":"pkg:npm/wanzy"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

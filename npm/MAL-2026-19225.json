@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19225","published":"2026-11-13T03:56:21Z","modified":"2026-11-13T04:30:07.206479064Z","summary":"Malicious code in math-helpers-extra-utils (npm)","affected":[{"package":{"name":"math-helpers-extra-utils","ecosystem":"npm","purl":"pkg:npm/math-helpers-extra-utils"},"versions":["1.0.1","1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20601","published":"2026-11-25T00:00:00Z","modified":"2026-11-26T20:30:04.634235613Z","aliases":["GHSA-j36w-grcg-qqff"],"summary":"Malicious code in glbl-agent (npm)","affected":[{"package":{"name":"glbl-agent","ecosystem":"npm","purl":"pkg:npm/glbl-agent"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

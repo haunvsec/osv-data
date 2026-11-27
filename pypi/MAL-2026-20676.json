@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20676","published":"2026-11-26T23:37:02Z","modified":"2026-11-27T00:45:05.280326290Z","summary":"Malicious code in graphflux (PyPI)","affected":[{"package":{"name":"graphflux","ecosystem":"PyPI","purl":"pkg:pypi/graphflux"},"versions":["3.4.1","3.4.2"]}]}

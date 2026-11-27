@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18521","published":"2026-11-03T06:27:47Z","modified":"2026-11-03T07:31:26.321061032Z","aliases":["GHSA-vwm6-r9cc-qg37"],"summary":"Malicious code in paidwithtab (npm)","affected":[{"package":{"name":"paidwithtab","ecosystem":"npm","purl":"pkg:npm/paidwithtab"},"versions":["3.0.0"]}]}

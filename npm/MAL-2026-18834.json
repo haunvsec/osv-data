@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18834","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:21.486906138Z","summary":"Malicious code in @farisme/baileys (npm)","affected":[{"package":{"name":"@farisme/baileys","ecosystem":"npm","purl":"pkg:npm/%40farisme/baileys"},"versions":["2.0.3"]}]}

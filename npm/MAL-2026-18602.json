@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18602","published":"2026-10-30T16:30:00Z","modified":"2026-11-04T06:00:05.650731191Z","summary":"Malicious code in @atfm/utils (npm)","affected":[{"package":{"name":"@atfm/utils","ecosystem":"npm","purl":"pkg:npm/%40atfm/utils"},"versions":["99.99.99"]}]}

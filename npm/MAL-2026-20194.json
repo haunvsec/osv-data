@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20194","published":"2026-11-19T06:54:41Z","modified":"2026-11-19T07:15:09.929857114Z","summary":"Malicious code in calkyippie (npm)","affected":[{"package":{"name":"calkyippie","ecosystem":"npm","purl":"pkg:npm/calkyippie"},"versions":["1.0.0"]}]}

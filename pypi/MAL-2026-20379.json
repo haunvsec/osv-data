@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20379","published":"2026-11-23T18:25:38Z","modified":"2026-11-24T04:46:08.003459692Z","summary":"Malicious code in torchserve-cu124-nightly (PyPI)","affected":[{"package":{"name":"torchserve-cu124-nightly","ecosystem":"PyPI","purl":"pkg:pypi/torchserve-cu124-nightly"},"versions":["0.12.1.dev20241119"]}]}

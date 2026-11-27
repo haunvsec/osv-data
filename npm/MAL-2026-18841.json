@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18841","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:20.624654388Z","summary":"Malicious code in @getsuzocompany/system (npm)","affected":[{"package":{"name":"@getsuzocompany/system","ecosystem":"npm","purl":"pkg:npm/%40getsuzocompany/system"},"versions":["1.0.3","1.0.4"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18543","published":"2026-11-03T17:35:23Z","modified":"2026-11-03T18:30:13.883988490Z","aliases":["GHSA-65hx-gqfw-5gpg"],"summary":"Malicious code in gvmabc (npm)","affected":[{"package":{"name":"gvmabc","ecosystem":"npm","purl":"pkg:npm/gvmabc"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

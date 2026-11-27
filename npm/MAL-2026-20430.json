@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20430","published":"2026-11-20T00:00:00Z","modified":"2026-11-24T07:00:05.611515259Z","summary":"Malicious code in ugent_uws (npm)","affected":[{"package":{"name":"ugent_uws","ecosystem":"npm","purl":"pkg:npm/ugent_uws"},"versions":["10.9.9","10.9.10","10.9.11"]}]}

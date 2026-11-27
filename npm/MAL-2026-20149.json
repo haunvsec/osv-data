@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20149","published":"2026-11-19T00:35:08Z","modified":"2026-11-19T00:45:38.281385526Z","aliases":["GHSA-8988-hh4f-r8vv"],"summary":"Malicious code in elisa_module (npm)","affected":[{"package":{"name":"elisa_module","ecosystem":"npm","purl":"pkg:npm/elisa_module"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

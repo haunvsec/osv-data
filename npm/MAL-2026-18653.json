@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18653","published":"2026-11-04T22:23:49Z","modified":"2026-11-04T23:30:04.655183217Z","aliases":["GHSA-hp36-pmf7-j3cg"],"summary":"Malicious code in dogmans-afterglow (npm)","affected":[{"package":{"name":"dogmans-afterglow","ecosystem":"npm","purl":"pkg:npm/dogmans-afterglow"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

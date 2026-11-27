@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18631","published":"2026-11-04T16:54:55Z","modified":"2026-11-04T17:26:32.930560830Z","aliases":["GHSA-r5hx-v68j-8w57"],"summary":"Malicious code in @realvare/based (npm)","affected":[{"package":{"name":"@realvare/based","ecosystem":"npm","purl":"pkg:npm/%40realvare/based"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

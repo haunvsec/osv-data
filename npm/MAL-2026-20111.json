@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20111","published":"2026-11-16T16:20:00Z","modified":"2026-11-18T06:00:15.859172663Z","summary":"Malicious code in playwright-config (npm)","affected":[{"package":{"name":"playwright-config","ecosystem":"npm","purl":"pkg:npm/playwright-config"},"versions":["20.20.20"]}]}

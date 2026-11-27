@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20683","published":"2026-11-20T00:00:00Z","modified":"2026-11-27T01:45:10.120450982Z","summary":"Malicious code in @hunterpl4nk/ds-test (npm)","affected":[{"package":{"name":"@hunterpl4nk/ds-test","ecosystem":"npm","purl":"pkg:npm/%40hunterpl4nk/ds-test"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

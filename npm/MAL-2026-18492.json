@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18492","published":"2026-11-01T05:48:31Z","modified":"2026-11-03T05:00:10.356378085Z","summary":"Malicious code in @goparrot-dashboard/app (npm)","affected":[{"package":{"name":"@goparrot-dashboard/app","ecosystem":"npm","purl":"pkg:npm/%40goparrot-dashboard/app"},"versions":["0.0.2","0.0.1","0.0.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20267","published":"2026-11-20T01:02:15Z","modified":"2026-11-20T01:30:04.568200718Z","aliases":["GHSA-h68g-7c77-4w37"],"summary":"Malicious code in nuadg-jhtvh-util (npm)","affected":[{"package":{"name":"nuadg-jhtvh-util","ecosystem":"npm","purl":"pkg:npm/nuadg-jhtvh-util"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

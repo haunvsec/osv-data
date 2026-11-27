@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20129","published":"2026-11-18T16:14:04Z","modified":"2026-11-18T16:30:04.705992629Z","aliases":["GHSA-9q69-8j7m-ppmh"],"summary":"Malicious code in qrcode-reader-vue3 (npm)","affected":[{"package":{"name":"qrcode-reader-vue3","ecosystem":"npm","purl":"pkg:npm/qrcode-reader-vue3"},"versions":["3.1.4"]}]}

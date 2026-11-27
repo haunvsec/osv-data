@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20185","published":"2026-11-19T05:11:02Z","modified":"2026-11-19T05:45:14.374178160Z","aliases":["GHSA-8gjx-j92q-wfwr"],"summary":"Malicious code in aemath (npm)","affected":[{"package":{"name":"aemath","ecosystem":"npm","purl":"pkg:npm/aemath"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

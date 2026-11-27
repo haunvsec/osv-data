@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18892","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:23.798656272Z","summary":"Malicious code in @sanzope/bailjir (npm)","affected":[{"package":{"name":"@sanzope/bailjir","ecosystem":"npm","purl":"pkg:npm/%40sanzope/bailjir"},"versions":["0.0.4"]}]}

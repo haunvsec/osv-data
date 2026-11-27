@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18982","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:31.554547152Z","summary":"Malicious code in kazumarii-kyuuna (npm)","affected":[{"package":{"name":"kazumarii-kyuuna","ecosystem":"npm","purl":"pkg:npm/kazumarii-kyuuna"},"versions":["1.0.23","1.0.24"]}]}

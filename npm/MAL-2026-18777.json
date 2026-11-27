@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18777","published":"2026-11-09T08:12:59Z","modified":"2026-11-09T09:30:04.159647611Z","aliases":["GHSA-44c7-vxrp-h5fq"],"summary":"Malicious code in u-chan-secrets (npm)","affected":[{"package":{"name":"u-chan-secrets","ecosystem":"npm","purl":"pkg:npm/u-chan-secrets"},"versions":["5.2.1","5.2.2"]}]}

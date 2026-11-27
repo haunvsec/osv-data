@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19246","published":"2026-11-13T16:50:01Z","modified":"2026-11-13T17:30:15.907681129Z","aliases":["GHSA-949g-9w76-cwfw"],"summary":"Malicious code in lineparse (npm)","affected":[{"package":{"name":"lineparse","ecosystem":"npm","purl":"pkg:npm/lineparse"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

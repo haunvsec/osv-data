@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19931","published":"2026-11-14T08:18:25Z","modified":"2026-11-14T08:30:04.488125307Z","aliases":["GHSA-7jf6-qwv2-qppp"],"summary":"Malicious code in @sfunction/dsh-screenshot (npm)","affected":[{"package":{"name":"@sfunction/dsh-screenshot","ecosystem":"npm","purl":"pkg:npm/%40sfunction/dsh-screenshot"},"versions":["0.1.1"]}]}

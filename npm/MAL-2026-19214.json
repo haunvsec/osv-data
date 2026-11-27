@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19214","published":"2026-11-13T02:30:31Z","modified":"2026-11-25T10:32:32.724502732Z","aliases":["GHSA-m9qg-5q7p-qw74"],"summary":"Malicious code in poxios-chain (npm)","affected":[{"package":{"name":"poxios-chain","ecosystem":"npm","purl":"pkg:npm/poxios-chain"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

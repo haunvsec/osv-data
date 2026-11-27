@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20026","published":"2026-11-17T02:09:10Z","modified":"2026-11-17T02:30:04.325153691Z","aliases":["GHSA-c372-wcrj-xqv3"],"summary":"Malicious code in gugodapi (npm)","affected":[{"package":{"name":"gugodapi","ecosystem":"npm","purl":"pkg:npm/gugodapi"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

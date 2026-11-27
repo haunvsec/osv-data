@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18584","published":"2026-11-03T22:50:47Z","modified":"2026-11-03T23:15:03.169847715Z","summary":"Malicious code in protecteda (PyPI)","affected":[{"package":{"name":"protecteda","ecosystem":"PyPI","purl":"pkg:pypi/protecteda"},"versions":["0.1.0"]}]}

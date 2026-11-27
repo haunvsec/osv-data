@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20432","published":"2026-11-20T00:00:00Z","modified":"2026-11-24T07:15:08.474379093Z","summary":"Malicious code in rolimons-api (npm)","affected":[{"package":{"name":"rolimons-api","ecosystem":"npm","purl":"pkg:npm/rolimons-api"},"versions":["1.1.2"]}]}

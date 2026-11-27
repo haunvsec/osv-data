@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20314","published":"2026-11-20T21:04:38Z","modified":"2026-11-20T21:15:05.996395622Z","summary":"Malicious code in @expo-probe-ff8e2b/snack-probe-c2a16 (npm)","affected":[{"package":{"name":"@expo-probe-ff8e2b/snack-probe-c2a16","ecosystem":"npm","purl":"pkg:npm/%40expo-probe-ff8e2b/snack-probe-c2a16"},"versions":["1.0.0","1.0.1"]}]}

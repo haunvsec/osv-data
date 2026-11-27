@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20623","published":"2026-11-25T21:43:16Z","modified":"2026-11-25T22:30:04.578743905Z","aliases":["GHSA-4c46-v99r-6h9r"],"summary":"Malicious code in create-ai-agent-setup (npm)","affected":[{"package":{"name":"create-ai-agent-setup","ecosystem":"npm","purl":"pkg:npm/create-ai-agent-setup"},"versions":["2.0.0","2.1.0","2.0.0-alpha.0"]}]}

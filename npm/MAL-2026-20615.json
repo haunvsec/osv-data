@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20615","published":"2026-11-25T16:30:29Z","modified":"2026-11-25T17:30:02.334480096Z","aliases":["GHSA-mvj4-fj4q-p2vx"],"summary":"Malicious code in grammy-key (npm)","affected":[{"package":{"name":"grammy-key","ecosystem":"npm","purl":"pkg:npm/grammy-key"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

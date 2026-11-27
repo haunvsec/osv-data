@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19218","published":"2026-11-13T02:29:51Z","modified":"2026-11-13T03:30:09.583718564Z","aliases":["GHSA-rvgp-2hwx-w3mq"],"summary":"Malicious code in winston-loggerex (npm)","affected":[{"package":{"name":"winston-loggerex","ecosystem":"npm","purl":"pkg:npm/winston-loggerex"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20590","published":"2026-11-24T12:12:55Z","modified":"2026-11-25T10:32:32.823112829Z","summary":"Malicious code in router-example (npm)","affected":[{"package":{"name":"router-example","ecosystem":"npm","purl":"pkg:npm/router-example"},"versions":["55.33.111"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19193","published":"2026-11-12T20:49:48Z","modified":"2026-11-12T21:15:14.915654211Z","summary":"Malicious code in wavforge (PyPI)","affected":[{"package":{"name":"wavforge","ecosystem":"PyPI","purl":"pkg:pypi/wavforge"},"versions":["0.1.0"]}]}

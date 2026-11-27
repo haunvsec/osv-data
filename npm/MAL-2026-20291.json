@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20291","published":"2026-11-19T16:00:00Z","modified":"2026-11-20T05:15:04.521328600Z","summary":"Malicious code in @fedfub/utils (npm)","affected":[{"package":{"name":"@fedfub/utils","ecosystem":"npm","purl":"pkg:npm/%40fedfub/utils"},"versions":["1.0.1"]}]}

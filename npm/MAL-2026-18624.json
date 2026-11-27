@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18624","published":"2026-11-04T12:51:58Z","modified":"2026-11-04T13:41:07.839064Z","aliases":["GHSA-q2mc-9hgr-vmx2"],"summary":"Malicious code in screenshot-desktop (npm)","affected":[{"package":{"name":"screenshot-desktop","ecosystem":"npm","purl":"pkg:npm/screenshot-desktop"},"versions":["1.16.0"]}]}

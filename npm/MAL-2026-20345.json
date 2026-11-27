@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20345","published":"2026-11-23T08:13:35Z","modified":"2026-11-23T08:30:03.909033314Z","summary":"Malicious code in abir-fca (npm)","affected":[{"package":{"name":"abir-fca","ecosystem":"npm","purl":"pkg:npm/abir-fca"},"versions":["0.0.25"]}]}

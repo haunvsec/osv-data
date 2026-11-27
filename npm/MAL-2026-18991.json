@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18991","published":"2026-10-27T00:00:00Z","modified":"2026-11-26T18:30:05.478059203Z","aliases":["GHSA-xj4j-9x5w-5j5q"],"summary":"Malicious code in mod-baileys (npm)","affected":[{"package":{"name":"mod-baileys","ecosystem":"npm","purl":"pkg:npm/mod-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19159","published":"2026-11-12T15:38:54Z","modified":"2026-11-12T16:30:04.936590768Z","aliases":["GHSA-gfpg-48q7-c68h"],"summary":"Malicious code in @go-gost/mcp-darwin-x64 (npm)","affected":[{"package":{"name":"@go-gost/mcp-darwin-x64","ecosystem":"npm","purl":"pkg:npm/%40go-gost/mcp-darwin-x64"},"versions":["0.1.0"]}]}

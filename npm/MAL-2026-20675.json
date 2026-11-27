@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20675","published":"2026-11-27T00:16:53Z","modified":"2026-11-27T00:45:05.210456971Z","summary":"Malicious code in tavern-ai-sdk (npm)","affected":[{"package":{"name":"tavern-ai-sdk","ecosystem":"npm","purl":"pkg:npm/tavern-ai-sdk"},"versions":["1.0.0"]}]}

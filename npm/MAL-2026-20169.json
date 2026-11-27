@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20169","published":"2026-11-19T00:35:08Z","modified":"2026-11-19T00:45:38.312888661Z","aliases":["GHSA-w93h-mf3h-5wrv"],"summary":"Malicious code in tech-news-scraper (npm)","affected":[{"package":{"name":"tech-news-scraper","ecosystem":"npm","purl":"pkg:npm/tech-news-scraper"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

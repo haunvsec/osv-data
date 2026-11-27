@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20232","published":"2026-11-19T14:24:01Z","modified":"2026-11-19T15:30:07.099280138Z","aliases":["GHSA-g77w-9vf6-gxmm"],"summary":"Malicious code in harbin (npm)","affected":[{"package":{"name":"harbin","ecosystem":"npm","purl":"pkg:npm/harbin"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18948","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:27.928802974Z","summary":"Malicious code in baileys-xdk (npm)","affected":[{"package":{"name":"baileys-xdk","ecosystem":"npm","purl":"pkg:npm/baileys-xdk"},"versions":["0.1.0"]}]}

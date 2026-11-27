@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18769","published":"2026-11-08T13:51:47Z","modified":"2026-11-12T00:45:06.791373992Z","summary":"Malicious code in lookuptest11 (PyPI)","affected":[{"package":{"name":"lookuptest11","ecosystem":"PyPI","purl":"pkg:pypi/lookuptest11"},"versions":["0.0.1"]}]}

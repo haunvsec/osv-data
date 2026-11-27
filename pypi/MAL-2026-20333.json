@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20333","published":"2026-11-22T22:57:47Z","modified":"2026-11-23T00:45:04.371052831Z","summary":"Malicious code in devready-doctor (PyPI)","affected":[{"package":{"name":"devready-doctor","ecosystem":"PyPI","purl":"pkg:pypi/devready-doctor"},"versions":["1.0.0"]}]}

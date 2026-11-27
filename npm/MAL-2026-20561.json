@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20561","published":"2026-11-24T11:44:10Z","modified":"2026-11-25T10:32:27.107078256Z","summary":"Malicious code in example-basic-tracer-node (npm)","affected":[{"package":{"name":"example-basic-tracer-node","ecosystem":"npm","purl":"pkg:npm/example-basic-tracer-node"},"versions":["55.33.111"]}]}

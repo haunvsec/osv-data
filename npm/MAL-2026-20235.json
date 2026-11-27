@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20235","published":"2026-11-19T14:24:02Z","modified":"2026-11-19T15:30:05.846126348Z","aliases":["GHSA-mjmq-62f2-6w3p"],"summary":"Malicious code in jeddah (npm)","affected":[{"package":{"name":"jeddah","ecosystem":"npm","purl":"pkg:npm/jeddah"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

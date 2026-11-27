@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20228","published":"2026-11-19T14:24:02Z","modified":"2026-11-19T15:30:06.499467925Z","aliases":["GHSA-rcwx-2hqx-rf6q"],"summary":"Malicious code in daressalaam (npm)","affected":[{"package":{"name":"daressalaam","ecosystem":"npm","purl":"pkg:npm/daressalaam"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

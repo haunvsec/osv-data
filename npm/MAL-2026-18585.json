@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18585","published":"2026-11-03T22:56:02Z","modified":"2026-11-03T23:30:04.682923162Z","aliases":["GHSA-8vwq-527w-6hcm"],"summary":"Malicious code in arbkit (npm)","affected":[{"package":{"name":"arbkit","ecosystem":"npm","purl":"pkg:npm/arbkit"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

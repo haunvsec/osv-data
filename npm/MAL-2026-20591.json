@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20591","published":"2026-11-24T12:14:24Z","modified":"2026-11-25T10:32:32.867536621Z","summary":"Malicious code in sgtest-dep-pkg (npm)","affected":[{"package":{"name":"sgtest-dep-pkg","ecosystem":"npm","purl":"pkg:npm/sgtest-dep-pkg"},"versions":["1.0.0","1.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19979","published":"2026-11-16T18:14:22Z","modified":"2026-11-16T18:30:05.421056879Z","aliases":["GHSA-j6vv-9w7f-pg2x"],"summary":"Malicious code in @arks-labs/sdk (npm)","affected":[{"package":{"name":"@arks-labs/sdk","ecosystem":"npm","purl":"pkg:npm/%40arks-labs/sdk"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18753","published":"2026-11-07T19:53:11Z","modified":"2026-11-08T10:15:03.284460394Z","summary":"Malicious code in gcp-log-poc (PyPI)","affected":[{"package":{"name":"gcp-log-poc","ecosystem":"PyPI","purl":"pkg:pypi/gcp-log-poc"},"versions":["0.0.1","0.0.2","0.0.3"]}]}

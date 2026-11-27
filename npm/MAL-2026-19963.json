@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19963","published":"2026-11-16T17:07:32Z","modified":"2026-11-16T22:45:05.209716762Z","aliases":["GHSA-wv69-wpw9-p4x7"],"summary":"Malicious code in @lendkzn/baileys (npm)","affected":[{"package":{"name":"@lendkzn/baileys","ecosystem":"npm","purl":"pkg:npm/%40lendkzn/baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

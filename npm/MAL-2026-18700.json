@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18700","published":"2026-10-26T00:00:00Z","modified":"2026-11-05T05:15:05.967962929Z","summary":"Malicious code in wisewwasd (npm)","affected":[{"package":{"name":"wisewwasd","ecosystem":"npm","purl":"pkg:npm/wisewwasd"},"versions":["1.0.1"]}]}

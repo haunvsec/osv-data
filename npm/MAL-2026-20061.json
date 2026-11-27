@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20061","published":"2026-11-17T10:09:54Z","modified":"2026-11-17T11:30:37.915136021Z","aliases":["GHSA-q37r-5xxr-6v4x"],"summary":"Malicious code in vamp-mcp (npm)","affected":[{"package":{"name":"vamp-mcp","ecosystem":"npm","purl":"pkg:npm/vamp-mcp"},"versions":["0.2.4","0.2.3","0.2.5"]}]}

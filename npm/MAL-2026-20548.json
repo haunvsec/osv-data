@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20548","published":"2026-11-20T00:00:00Z","modified":"2026-11-25T04:00:13.666472481Z","summary":"Malicious code in ts-input-utils (npm)","affected":[{"package":{"name":"ts-input-utils","ecosystem":"npm","purl":"pkg:npm/ts-input-utils"},"versions":["1.0.0"]}]}

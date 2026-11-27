@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20344","published":"2026-11-23T07:30:23Z","modified":"2026-11-23T07:46:03.784039333Z","summary":"Malicious code in fca-meta (npm)","affected":[{"package":{"name":"fca-meta","ecosystem":"npm","purl":"pkg:npm/fca-meta"},"versions":["0.0.1"]}]}

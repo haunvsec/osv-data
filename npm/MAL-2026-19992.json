@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19992","published":"2026-11-16T18:14:22Z","modified":"2026-11-16T18:30:05.121699387Z","aliases":["GHSA-94cc-5233-8hmg"],"summary":"Malicious code in cygnus-server (npm)","affected":[{"package":{"name":"cygnus-server","ecosystem":"npm","purl":"pkg:npm/cygnus-server"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

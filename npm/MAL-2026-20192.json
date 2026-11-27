@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20192","published":"2026-11-19T06:54:11Z","modified":"2026-11-19T07:15:08.355244158Z","summary":"Malicious code in calcultimatetest (npm)","affected":[{"package":{"name":"calcultimatetest","ecosystem":"npm","purl":"pkg:npm/calcultimatetest"},"versions":["1.0.0"]}]}

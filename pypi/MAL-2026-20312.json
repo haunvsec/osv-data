@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20312","published":"2026-11-20T19:45:12Z","modified":"2026-11-21T23:15:04.209320384Z","summary":"Malicious code in cijukop (PyPI)","affected":[{"package":{"name":"cijukop","ecosystem":"PyPI","purl":"pkg:pypi/cijukop"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20234","published":"2026-11-19T14:24:01Z","modified":"2026-11-19T15:30:05.847111431Z","aliases":["GHSA-x6c6-38jv-xh6w"],"summary":"Malicious code in jabalpur (npm)","affected":[{"package":{"name":"jabalpur","ecosystem":"npm","purl":"pkg:npm/jabalpur"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19184","published":"2026-11-12T20:46:39Z","modified":"2026-11-12T21:15:14.311703960Z","summary":"Malicious code in garvisuite (PyPI)","affected":[{"package":{"name":"garvisuite","ecosystem":"PyPI","purl":"pkg:pypi/garvisuite"},"versions":["0.1.0"]}]}

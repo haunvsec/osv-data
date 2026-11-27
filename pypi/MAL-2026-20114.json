@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20114","published":"2026-11-16T15:40:00Z","modified":"2026-11-18T06:30:06.346594926Z","summary":"Malicious code in libide (PyPI)","affected":[{"package":{"name":"libide","ecosystem":"PyPI","purl":"pkg:pypi/libide"},"versions":["0.1"]}]}

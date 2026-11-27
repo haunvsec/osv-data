@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19163","published":"2026-11-12T15:57:09Z","modified":"2026-11-25T10:32:27.688670218Z","aliases":["GHSA-744x-ccvq-c3jr"],"summary":"Malicious code in ganach (npm)","affected":[{"package":{"name":"ganach","ecosystem":"npm","purl":"pkg:npm/ganach"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

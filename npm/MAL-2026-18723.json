@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18723","published":"2026-11-06T17:05:49Z","modified":"2026-11-06T17:25:58.347702861Z","aliases":["GHSA-3r7f-mx9r-h22h"],"summary":"Malicious code in @sideeffects/n (npm)","affected":[{"package":{"name":"@sideeffects/n","ecosystem":"npm","purl":"pkg:npm/%40sideeffects/n"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

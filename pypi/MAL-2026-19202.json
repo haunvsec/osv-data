@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19202","published":"2026-11-12T22:25:26Z","modified":"2026-11-12T23:15:03.232776444Z","summary":"Malicious code in dashloom (PyPI)","affected":[{"package":{"name":"dashloom","ecosystem":"PyPI","purl":"pkg:pypi/dashloom"},"versions":["1.0.0","1.1.0","1.1.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19232","published":"2026-11-13T04:45:23Z","modified":"2026-11-13T05:30:04.495481204Z","aliases":["GHSA-3c69-7f9m-gpvp"],"summary":"Malicious code in jsconvict (npm)","affected":[{"package":{"name":"jsconvict","ecosystem":"npm","purl":"pkg:npm/jsconvict"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

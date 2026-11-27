@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18676","published":"2026-10-26T00:00:00Z","modified":"2026-11-19T05:45:13.350285863Z","aliases":["GHSA-gvq9-v7r2-592g"],"summary":"Malicious code in @dyllxnn/baileys (npm)","affected":[{"package":{"name":"@dyllxnn/baileys","ecosystem":"npm","purl":"pkg:npm/%40dyllxnn/baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

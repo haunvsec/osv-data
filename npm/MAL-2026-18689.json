@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18689","published":"2026-10-26T00:00:00Z","modified":"2026-11-13T04:30:04.769167004Z","summary":"Malicious code in loader-utils-kit (npm)","affected":[{"package":{"name":"loader-utils-kit","ecosystem":"npm","purl":"pkg:npm/loader-utils-kit"},"versions":["4.2.1","4.3.5"]}]}

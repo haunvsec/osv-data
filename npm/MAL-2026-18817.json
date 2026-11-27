@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18817","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:18.700736111Z","summary":"Malicious code in @darling-2002/baileys (npm)","affected":[{"package":{"name":"@darling-2002/baileys","ecosystem":"npm","purl":"pkg:npm/%40darling-2002/baileys"},"versions":["1.2.8","2.8.9"]}]}

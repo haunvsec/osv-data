@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19980","published":"2026-11-16T18:14:22Z","modified":"2026-11-16T18:30:05.126662730Z","aliases":["GHSA-fwcm-83xr-v7c9"],"summary":"Malicious code in @arks-labs/utils (npm)","affected":[{"package":{"name":"@arks-labs/utils","ecosystem":"npm","purl":"pkg:npm/%40arks-labs/utils"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

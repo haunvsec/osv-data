@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20600","published":"2026-11-25T00:00:00Z","modified":"2026-11-26T20:30:04.547468461Z","aliases":["GHSA-fvvj-g7hq-q83p"],"summary":"Malicious code in bcdt (npm)","affected":[{"package":{"name":"bcdt","ecosystem":"npm","purl":"pkg:npm/bcdt"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

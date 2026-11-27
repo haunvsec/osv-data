@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18632","published":"2026-10-26T00:00:00Z","modified":"2026-11-05T05:15:05.026398389Z","aliases":["GHSA-475j-858m-v8ww"],"summary":"Malicious code in canta-baileys (npm)","affected":[{"package":{"name":"canta-baileys","ecosystem":"npm","purl":"pkg:npm/canta-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

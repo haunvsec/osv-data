@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18668","published":"2026-11-02T22:34:49Z","modified":"2026-11-05T04:15:04.923385588Z","summary":"Malicious code in wet_rat_replicate_automation (npm)","affected":[{"package":{"name":"wet_rat_replicate_automation","ecosystem":"npm","purl":"pkg:npm/wet_rat_replicate_automation"},"versions":["2.3.1"]}]}

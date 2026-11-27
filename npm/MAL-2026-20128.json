@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20128","published":"2026-11-18T15:16:37Z","modified":"2026-11-18T15:30:03.733768917Z","aliases":["GHSA-xm7q-cc2p-j7w8"],"summary":"Malicious code in cortico-world-see-now (npm)","affected":[{"package":{"name":"cortico-world-see-now","ecosystem":"npm","purl":"pkg:npm/cortico-world-see-now"},"versions":["0.2.2"]}]}

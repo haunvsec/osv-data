@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18780","published":"2026-11-09T13:15:48Z","modified":"2026-11-09T13:45:26.702169185Z","summary":"Malicious code in @massnerder/x402-scraper-mcp (npm)","affected":[{"package":{"name":"@massnerder/x402-scraper-mcp","ecosystem":"npm","purl":"pkg:npm/%40massnerder/x402-scraper-mcp"},"versions":["1.0.0"]}]}

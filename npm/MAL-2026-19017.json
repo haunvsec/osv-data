@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19017","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:37.294969813Z","summary":"Malicious code in skylen-baileys (npm)","affected":[{"package":{"name":"skylen-baileys","ecosystem":"npm","purl":"pkg:npm/skylen-baileys"},"versions":["7.2.3","7.6.8"]}]}

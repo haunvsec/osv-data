@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20673","published":"2026-11-24T18:43:01Z","modified":"2026-11-27T00:15:08.695863454Z","related":["MAL-2026-20350","MAL-2026-20428"],"summary":"Malicious code in ember-quickstart (npm)","affected":[{"package":{"name":"ember-quickstart","ecosystem":"npm","purl":"pkg:npm/ember-quickstart"},"versions":["1.0.0"]}]}

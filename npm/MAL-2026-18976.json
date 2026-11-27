@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18976","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:31.550701055Z","summary":"Malicious code in gifted-baileys (npm)","affected":[{"package":{"name":"gifted-baileys","ecosystem":"npm","purl":"pkg:npm/gifted-baileys"},"versions":["2.0.5","2.0.6","2.5.7","2.5.8"]}]}

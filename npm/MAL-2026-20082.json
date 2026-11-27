@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20082","published":"2026-11-17T18:35:39Z","modified":"2026-11-17T19:45:07.839025055Z","aliases":["GHSA-89cp-3m64-fh5x"],"summary":"Malicious code in rea1ity-tool (npm)","affected":[{"package":{"name":"rea1ity-tool","ecosystem":"npm","purl":"pkg:npm/rea1ity-tool"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

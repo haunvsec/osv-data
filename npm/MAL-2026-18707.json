@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18707","published":"2026-11-05T17:03:44Z","modified":"2026-11-05T17:30:03.922397746Z","aliases":["GHSA-w7xp-2vj9-g24m"],"summary":"Malicious code in dsh-purge (npm)","affected":[{"package":{"name":"dsh-purge","ecosystem":"npm","purl":"pkg:npm/dsh-purge"},"versions":["1.2.1"]}]}

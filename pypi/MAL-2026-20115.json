@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20115","published":"2026-11-16T15:40:00Z","modified":"2026-11-18T06:30:06.348105446Z","summary":"Malicious code in libidreq (PyPI)","affected":[{"package":{"name":"libidreq","ecosystem":"PyPI","purl":"pkg:pypi/libidreq"},"versions":["0.1"]}]}

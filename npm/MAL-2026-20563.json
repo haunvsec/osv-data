@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20563","published":"2026-11-24T11:46:39Z","modified":"2026-11-25T10:32:27.628696234Z","summary":"Malicious code in frontend-minicom-public (npm)","affected":[{"package":{"name":"frontend-minicom-public","ecosystem":"npm","purl":"pkg:npm/frontend-minicom-public"},"versions":["55.33.111"]}]}

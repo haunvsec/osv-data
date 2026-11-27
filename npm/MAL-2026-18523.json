@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18523","published":"2026-11-03T10:01:57Z","modified":"2026-11-03T10:30:04.389391087Z","aliases":["GHSA-rgvh-3r77-gg9c"],"summary":"Malicious code in dsh-moss-wallpaper (npm)","affected":[{"package":{"name":"dsh-moss-wallpaper","ecosystem":"npm","purl":"pkg:npm/dsh-moss-wallpaper"},"versions":["3.4.0"]}]}

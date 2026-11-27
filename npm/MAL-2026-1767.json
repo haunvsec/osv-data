@@ -1,1 +1,1 @@
-{"schema_version":"1.7.5","id":"MAL-2026-1767","published":"2026-03-18T12:56:55Z","modified":"2026-03-23T05:43:56.139570Z","summary":"Malicious code in kmnb (npm)","affected":[{"package":{"name":"kmnb","ecosystem":"npm","purl":"pkg:npm/kmnb"},"versions":["1.0.0"]}]}
+{"schema_version":"1.9.2","id":"MAL-2026-1767","published":"2026-03-18T12:56:55Z","modified":"2026-11-25T10:32:31.367384206Z","aliases":["GHSA-phj5-pw7r-6g8j"],"summary":"Malicious code in kmnb (npm)","affected":[{"package":{"name":"kmnb","ecosystem":"npm","purl":"pkg:npm/kmnb"},"versions":["1.0.0"]}]}

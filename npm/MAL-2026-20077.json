@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20077","published":"2026-11-17T17:17:11Z","modified":"2026-11-17T17:30:15.785577256Z","aliases":["GHSA-pc2h-6mph-p3r3"],"summary":"Malicious code in zk-scandog (npm)","affected":[{"package":{"name":"zk-scandog","ecosystem":"npm","purl":"pkg:npm/zk-scandog"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

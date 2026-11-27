@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20023","published":"2026-11-17T02:09:11Z","modified":"2026-11-17T02:30:04.519579493Z","aliases":["GHSA-8jqw-fp72-48fv"],"summary":"Malicious code in apigugod (npm)","affected":[{"package":{"name":"apigugod","ecosystem":"npm","purl":"pkg:npm/apigugod"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

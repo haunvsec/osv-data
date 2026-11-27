@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18496","published":"2026-11-02T03:53:39Z","modified":"2026-11-03T05:00:11.756982738Z","summary":"Malicious code in @goparrot-dashboard/combo-group (npm)","affected":[{"package":{"name":"@goparrot-dashboard/combo-group","ecosystem":"npm","purl":"pkg:npm/%40goparrot-dashboard/combo-group"},"versions":["0.0.1"]}]}

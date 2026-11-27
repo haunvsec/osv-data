@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19942","published":"2026-11-15T08:33:20Z","modified":"2026-11-16T22:45:04.548409655Z","summary":"Malicious code in gatepay-sdk-python (PyPI)","affected":[{"package":{"name":"gatepay-sdk-python","ecosystem":"PyPI","purl":"pkg:pypi/gatepay-sdk-python"},"versions":["99.99.1"]}]}

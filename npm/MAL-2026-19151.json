@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19151","published":"2026-11-10T05:30:00Z","modified":"2026-11-12T05:45:05.982719323Z","summary":"Malicious code in carboniteapp (npm)","affected":[{"package":{"name":"carboniteapp","ecosystem":"npm","purl":"pkg:npm/carboniteapp"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

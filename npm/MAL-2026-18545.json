@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18545","published":"2026-11-03T17:35:23Z","modified":"2026-11-03T18:30:16.603646990Z","aliases":["GHSA-v4x4-mw65-qg9w"],"summary":"Malicious code in j4pe0w (npm)","affected":[{"package":{"name":"j4pe0w","ecosystem":"npm","purl":"pkg:npm/j4pe0w"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

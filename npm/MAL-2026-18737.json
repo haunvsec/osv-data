@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18737","published":"2026-11-06T22:15:57Z","modified":"2026-11-06T23:30:04.346479598Z","aliases":["GHSA-q8jp-gq6p-hwpx"],"summary":"Malicious code in @cherrydotfun/miniapp-sdk (npm)","affected":[{"package":{"name":"@cherrydotfun/miniapp-sdk","ecosystem":"npm","purl":"pkg:npm/%40cherrydotfun/miniapp-sdk"},"versions":["0.1.22","0.1.23"]}]}

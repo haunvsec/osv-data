@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20645","published":"2026-11-25T23:30:00Z","modified":"2026-11-26T06:30:10.359429182Z","summary":"Malicious code in clamp4js (npm)","affected":[{"package":{"name":"clamp4js","ecosystem":"npm","purl":"pkg:npm/clamp4js"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

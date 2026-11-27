@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19044","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:37.996179815Z","summary":"Malicious code in yuuki-baileys (npm)","affected":[{"package":{"name":"yuuki-baileys","ecosystem":"npm","purl":"pkg:npm/yuuki-baileys"},"versions":["1.0.1","2.0.0","2.1.0"]}]}

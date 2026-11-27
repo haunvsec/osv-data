@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20079","published":"2026-11-17T17:17:11Z","modified":"2026-11-17T18:30:38.579233375Z","aliases":["GHSA-q543-mmv3-jp95"],"summary":"Malicious code in afreumtoolkits (npm)","affected":[{"package":{"name":"afreumtoolkits","ecosystem":"npm","purl":"pkg:npm/afreumtoolkits"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

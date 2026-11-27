@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18699","published":"2026-10-26T00:00:00Z","modified":"2026-11-13T04:30:06.208575614Z","summary":"Malicious code in wiselllx (npm)","affected":[{"package":{"name":"wiselllx","ecosystem":"npm","purl":"pkg:npm/wiselllx"},"versions":["0.0.1","1.0.1"]}]}

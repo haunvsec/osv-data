@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20102","published":"2026-11-17T22:05:00Z","modified":"2026-11-17T23:15:03.517683949Z","summary":"Malicious code in gguf-accelerator (PyPI)","affected":[{"package":{"name":"gguf-accelerator","ecosystem":"PyPI","purl":"pkg:pypi/gguf-accelerator"},"versions":["0.1.0"]}]}

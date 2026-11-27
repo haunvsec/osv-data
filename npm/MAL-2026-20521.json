@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20521","published":"2026-11-20T00:00:00Z","modified":"2026-11-25T04:00:23.689331032Z","summary":"Malicious code in @prime0/aajv (npm)","affected":[{"package":{"name":"@prime0/aajv","ecosystem":"npm","purl":"pkg:npm/%40prime0/aajv"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19216","published":"2026-11-13T02:24:45Z","modified":"2026-11-13T03:30:09.553231959Z","aliases":["GHSA-rq8h-52vm-x728"],"summary":"Malicious code in renderkit-ctx (npm)","affected":[{"package":{"name":"renderkit-ctx","ecosystem":"npm","purl":"pkg:npm/renderkit-ctx"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

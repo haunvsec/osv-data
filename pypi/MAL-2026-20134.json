@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20134","published":"2026-11-18T20:29:28Z","modified":"2026-11-18T21:15:03.456459379Z","summary":"Malicious code in anchorpy-utils (PyPI)","affected":[{"package":{"name":"anchorpy-utils","ecosystem":"PyPI","purl":"pkg:pypi/anchorpy-utils"},"versions":["1.98.2"]}]}

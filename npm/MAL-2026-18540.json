@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18540","published":"2026-11-03T17:35:23Z","modified":"2026-11-03T18:30:13.914561881Z","aliases":["GHSA-5q27-444v-p666"],"summary":"Malicious code in g3ypjg (npm)","affected":[{"package":{"name":"g3ypjg","ecosystem":"npm","purl":"pkg:npm/g3ypjg"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

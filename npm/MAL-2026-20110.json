@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20110","published":"2026-11-16T16:20:00Z","modified":"2026-11-18T06:00:15.809301874Z","summary":"Malicious code in canvas_webgl_minimal (npm)","affected":[{"package":{"name":"canvas_webgl_minimal","ecosystem":"npm","purl":"pkg:npm/canvas_webgl_minimal"},"versions":["11.11.13"]}]}

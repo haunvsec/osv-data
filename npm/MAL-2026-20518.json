@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20518","published":"2026-11-24T20:38:17Z","modified":"2026-11-24T21:45:05.050643274Z","aliases":["GHSA-j66p-7pch-x3wc"],"summary":"Malicious code in zevairouter (npm)","affected":[{"package":{"name":"zevairouter","ecosystem":"npm","purl":"pkg:npm/zevairouter"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

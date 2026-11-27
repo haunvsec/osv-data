@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20239","published":"2026-11-19T14:24:01Z","modified":"2026-11-19T15:30:07.090985510Z","aliases":["GHSA-5x76-vjm4-f469"],"summary":"Malicious code in mysore (npm)","affected":[{"package":{"name":"mysore","ecosystem":"npm","purl":"pkg:npm/mysore"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19206","published":"2026-11-13T01:24:55Z","modified":"2026-11-13T02:30:04.748398856Z","summary":"Malicious code in garvisometerui (PyPI)","affected":[{"package":{"name":"garvisometerui","ecosystem":"PyPI","purl":"pkg:pypi/garvisometerui"},"versions":["0.1.0"]}]}

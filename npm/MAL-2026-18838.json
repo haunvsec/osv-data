@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18838","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:20.420670407Z","summary":"Malicious code in @gadzzxbaileysnew/baileysnew (npm)","affected":[{"package":{"name":"@gadzzxbaileysnew/baileysnew","ecosystem":"npm","purl":"pkg:npm/%40gadzzxbaileysnew/baileysnew"},"versions":["3.0.0"]}]}

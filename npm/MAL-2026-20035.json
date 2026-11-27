@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20035","published":"2026-11-14T15:13:52Z","modified":"2026-11-17T05:15:10.523821373Z","summary":"Malicious code in base60-58x (npm)","affected":[{"package":{"name":"base60-58x","ecosystem":"npm","purl":"pkg:npm/base60-58x"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

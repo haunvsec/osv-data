@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20217","published":"2026-11-19T14:15:41Z","modified":"2026-11-20T01:17:29.951924948Z","aliases":["GHSA-6h9x-rjf5-jw55"],"summary":"Malicious code in requester-lb (npm)","affected":[{"package":{"name":"requester-lb","ecosystem":"npm","purl":"pkg:npm/requester-lb"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19153","published":"2026-11-12T11:33:05Z","modified":"2026-11-12T14:30:07.605464609Z","aliases":["GHSA-j3hx-5mxx-43qh"],"summary":"Malicious code in pdf-html5-page-flip (npm)","affected":[{"package":{"name":"pdf-html5-page-flip","ecosystem":"npm","purl":"pkg:npm/pdf-html5-page-flip"},"versions":["2.0.2","2.0.1"]}]}

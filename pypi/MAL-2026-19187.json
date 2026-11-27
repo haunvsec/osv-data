@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19187","published":"2026-11-12T20:42:43Z","modified":"2026-11-12T21:15:13.591171436Z","summary":"Malicious code in melstagen (PyPI)","affected":[{"package":{"name":"melstagen","ecosystem":"PyPI","purl":"pkg:pypi/melstagen"},"versions":["0.1.0"]}]}

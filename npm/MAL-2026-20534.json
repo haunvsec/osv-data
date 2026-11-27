@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20534","published":"2026-11-20T00:00:00Z","modified":"2026-11-25T04:00:12.880270627Z","summary":"Malicious code in @prime0/lgob (npm)","affected":[{"package":{"name":"@prime0/lgob","ecosystem":"npm","purl":"pkg:npm/%40prime0/lgob"},"versions":["1.0.0"]}]}

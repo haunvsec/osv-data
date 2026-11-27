@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20289","published":"2026-11-20T03:47:27Z","modified":"2026-11-20T04:30:25.710818237Z","summary":"Malicious code in vite-plugin-bar-plus (npm)","affected":[{"package":{"name":"vite-plugin-bar-plus","ecosystem":"npm","purl":"pkg:npm/vite-plugin-bar-plus"},"versions":["1.0.47"]}]}

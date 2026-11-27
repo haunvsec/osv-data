@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19100","published":"2026-11-10T22:21:24Z","modified":"2026-11-10T23:30:03.220202681Z","aliases":["GHSA-hc34-qc67-9qp4"],"summary":"Malicious code in read-react-app-in (npm)","affected":[{"package":{"name":"read-react-app-in","ecosystem":"npm","purl":"pkg:npm/read-react-app-in"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

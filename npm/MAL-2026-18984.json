@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18984","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:32.405890837Z","summary":"Malicious code in koezoet-new (npm)","affected":[{"package":{"name":"koezoet-new","ecosystem":"npm","purl":"pkg:npm/koezoet-new"},"versions":["1.0.0","1.0.1"]}]}

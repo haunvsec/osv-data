@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18785","published":"2026-11-09T15:36:42Z","modified":"2026-11-09T16:30:06.406869530Z","aliases":["GHSA-4rrg-994x-267f"],"summary":"Malicious code in winks.tunnelsql (npm)","affected":[{"package":{"name":"winks.tunnelsql","ecosystem":"npm","purl":"pkg:npm/winks.tunnelsql"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

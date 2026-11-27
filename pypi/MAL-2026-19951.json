@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19951","published":"2026-11-16T08:46:51Z","modified":"2026-11-19T07:15:08.413808725Z","summary":"Malicious code in my-poc-sandbox (PyPI)","affected":[{"package":{"name":"my-poc-sandbox","ecosystem":"PyPI","purl":"pkg:pypi/my-poc-sandbox"},"versions":["1.0.0","1.0.1","1.0.2"]}]}

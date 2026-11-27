@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18686","published":"2026-10-26T00:00:00Z","modified":"2026-11-13T03:45:11.412360612Z","summary":"Malicious code in cs-core-api-phoenix (npm)","affected":[{"package":{"name":"cs-core-api-phoenix","ecosystem":"npm","purl":"pkg:npm/cs-core-api-phoenix"},"versions":["5.1.0","116.0.1","150.0.0"]}]}

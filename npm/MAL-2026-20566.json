@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20566","published":"2026-11-24T11:48:54Z","modified":"2026-11-25T10:32:28.123857384Z","summary":"Malicious code in grafeno-products (npm)","affected":[{"package":{"name":"grafeno-products","ecosystem":"npm","purl":"pkg:npm/grafeno-products"},"versions":["999.0.0","999.0.1","999.0.2","999.0.3","999.0.4"]}]}

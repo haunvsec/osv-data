@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20559","published":"2026-11-24T11:35:10Z","modified":"2026-11-25T10:32:25.563004405Z","summary":"Malicious code in dns-example (npm)","affected":[{"package":{"name":"dns-example","ecosystem":"npm","purl":"pkg:npm/dns-example"},"versions":["55.33.111"]}]}

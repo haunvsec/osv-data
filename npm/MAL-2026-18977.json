@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18977","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:31.547126163Z","summary":"Malicious code in gupongxyz (npm)","affected":[{"package":{"name":"gupongxyz","ecosystem":"npm","purl":"pkg:npm/gupongxyz"},"versions":["2.0.0"]}]}

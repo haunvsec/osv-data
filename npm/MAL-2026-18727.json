@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18727","published":"2026-11-06T16:53:17Z","modified":"2026-11-06T17:30:36.599663232Z","aliases":["GHSA-ch75-7hv2-w5hw"],"summary":"Malicious code in evmos-contracts (npm)","affected":[{"package":{"name":"evmos-contracts","ecosystem":"npm","purl":"pkg:npm/evmos-contracts"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

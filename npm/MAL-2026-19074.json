@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19074","published":"2026-11-10T07:01:46Z","modified":"2026-11-10T07:30:04.677727672Z","aliases":["GHSA-68q3-vw3h-2mrf"],"summary":"Malicious code in futrou (npm)","affected":[{"package":{"name":"futrou","ecosystem":"npm","purl":"pkg:npm/futrou"},"versions":["2.0.40"]}]}

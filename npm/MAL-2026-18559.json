@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18559","published":"2026-11-03T17:35:23Z","modified":"2026-11-03T18:30:15.307648770Z","aliases":["GHSA-hxvp-c2g3-r3x5"],"summary":"Malicious code in qxjf8r (npm)","affected":[{"package":{"name":"qxjf8r","ecosystem":"npm","purl":"pkg:npm/qxjf8r"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

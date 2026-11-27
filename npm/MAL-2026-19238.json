@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19238","published":"2026-11-13T14:58:36Z","modified":"2026-11-16T22:45:05.042410799Z","aliases":["GHSA-q7wh-hgh8-x5hw"],"summary":"Malicious code in celest-browser (npm)","affected":[{"package":{"name":"celest-browser","ecosystem":"npm","purl":"pkg:npm/celest-browser"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

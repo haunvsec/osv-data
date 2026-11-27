@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20187","published":"2026-11-18T17:00:00Z","modified":"2026-11-19T06:30:05.152077091Z","summary":"Malicious code in @fdcasj_dfew/md-doc-mcp (npm)","affected":[{"package":{"name":"@fdcasj_dfew/md-doc-mcp","ecosystem":"npm","purl":"pkg:npm/%40fdcasj_dfew/md-doc-mcp"},"versions":["1.0.0","1.0.1"]}]}

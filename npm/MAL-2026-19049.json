@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19049","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:38.395144070Z","summary":"Malicious code in zhenbaileys (npm)","affected":[{"package":{"name":"zhenbaileys","ecosystem":"npm","purl":"pkg:npm/zhenbaileys"},"versions":["1.1.1"]}]}

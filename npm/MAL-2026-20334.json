@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20334","published":"2026-11-22T23:37:46Z","modified":"2026-11-23T00:45:04.324333959Z","summary":"Malicious code in @callmewanz/bails (npm)","affected":[{"package":{"name":"@callmewanz/bails","ecosystem":"npm","purl":"pkg:npm/%40callmewanz/bails"},"versions":["1.0.0"]}]}

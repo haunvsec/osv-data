@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19227","published":"2026-11-13T03:58:29Z","modified":"2026-11-25T10:32:32.782366088Z","summary":"Malicious code in r17d-sec-research-marker (npm)","affected":[{"package":{"name":"r17d-sec-research-marker","ecosystem":"npm","purl":"pkg:npm/r17d-sec-research-marker"},"versions":["1.0.0"]}]}

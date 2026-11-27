@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20574","published":"2026-11-24T11:51:41Z","modified":"2026-11-25T10:32:29.001890039Z","summary":"Malicious code in http-example (npm)","affected":[{"package":{"name":"http-example","ecosystem":"npm","purl":"pkg:npm/http-example"},"versions":["55.33.111"]}]}

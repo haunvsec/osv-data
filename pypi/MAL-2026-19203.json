@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19203","published":"2026-11-13T00:26:54Z","modified":"2026-11-13T03:30:09.618396365Z","summary":"Malicious code in fetchium (PyPI)","affected":[{"package":{"name":"fetchium","ecosystem":"PyPI","purl":"pkg:pypi/fetchium"},"versions":["1.0.0","1.0.1"]}]}

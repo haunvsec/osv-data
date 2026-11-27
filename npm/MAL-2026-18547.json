@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18547","published":"2026-11-03T17:35:23Z","modified":"2026-11-03T18:30:14.652115022Z","aliases":["GHSA-hjj4-7q39-pv9h"],"summary":"Malicious code in jd7ijw (npm)","affected":[{"package":{"name":"jd7ijw","ecosystem":"npm","purl":"pkg:npm/jd7ijw"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

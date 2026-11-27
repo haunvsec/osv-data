@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19137","published":"2026-11-11T15:35:44Z","modified":"2026-11-11T16:31:01.961743936Z","aliases":["GHSA-q9jm-97m9-6pw6"],"summary":"Malicious code in pathbits (npm)","affected":[{"package":{"name":"pathbits","ecosystem":"npm","purl":"pkg:npm/pathbits"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

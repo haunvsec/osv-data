@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20135","published":"2026-11-18T20:29:34Z","modified":"2026-11-18T21:15:03.455901013Z","summary":"Malicious code in solana-py-utils (PyPI)","affected":[{"package":{"name":"solana-py-utils","ecosystem":"PyPI","purl":"pkg:pypi/solana-py-utils"},"versions":["1.98.2","1.98.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19119","published":"2026-11-11T14:35:24Z","modified":"2026-11-11T15:30:05.167073728Z","aliases":["GHSA-5xh5-qp4j-xjfx"],"summary":"Malicious code in cal-time-stamper (npm)","affected":[{"package":{"name":"cal-time-stamper","ecosystem":"npm","purl":"pkg:npm/cal-time-stamper"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

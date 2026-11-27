@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18508","published":"2026-11-02T03:53:39Z","modified":"2026-11-03T05:00:12.253902927Z","summary":"Malicious code in @goparrot-dashboard/payment (npm)","affected":[{"package":{"name":"@goparrot-dashboard/payment","ecosystem":"npm","purl":"pkg:npm/%40goparrot-dashboard/payment"},"versions":["0.0.1"]}]}

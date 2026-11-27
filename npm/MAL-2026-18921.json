@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18921","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:16.644491186Z","summary":"Malicious code in @yun-xiao/baileys (npm)","affected":[{"package":{"name":"@yun-xiao/baileys","ecosystem":"npm","purl":"pkg:npm/%40yun-xiao/baileys"},"versions":["2.0.0"]}]}

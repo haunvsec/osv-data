@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18748","published":"2026-11-07T08:25:08Z","modified":"2026-11-07T09:30:03.994068103Z","aliases":["GHSA-xf64-9h92-4jxq"],"summary":"Malicious code in dsh-notify-focus (npm)","affected":[{"package":{"name":"dsh-notify-focus","ecosystem":"npm","purl":"pkg:npm/dsh-notify-focus"},"versions":["0.7.0","0.5.0","0.7.1"]}]}

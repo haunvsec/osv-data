@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19143","published":"2026-11-11T21:02:24Z","modified":"2026-11-20T13:30:04.222863215Z","aliases":["GHSA-6r85-j4v5-27rf"],"summary":"Malicious code in mock-data-sdk (npm)","affected":[{"package":{"name":"mock-data-sdk","ecosystem":"npm","purl":"pkg:npm/mock-data-sdk"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

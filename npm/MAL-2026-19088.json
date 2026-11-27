@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19088","published":"2026-11-10T18:43:46Z","modified":"2026-11-10T19:30:03.618411790Z","aliases":["GHSA-6hmp-jwwc-3gfw"],"summary":"Malicious code in discord-dm-parser (npm)","affected":[{"package":{"name":"discord-dm-parser","ecosystem":"npm","purl":"pkg:npm/discord-dm-parser"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

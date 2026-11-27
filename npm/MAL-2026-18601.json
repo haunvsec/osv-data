@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18601","published":"2026-10-30T16:30:00Z","modified":"2026-11-04T06:00:06.443983369Z","summary":"Malicious code in @atfm/atfm-material-ui (npm)","affected":[{"package":{"name":"@atfm/atfm-material-ui","ecosystem":"npm","purl":"pkg:npm/%40atfm/atfm-material-ui"},"versions":["99.99.99"]}]}

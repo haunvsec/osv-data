@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18958","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:30.999810341Z","summary":"Malicious code in ctbaileys (npm)","affected":[{"package":{"name":"ctbaileys","ecosystem":"npm","purl":"pkg:npm/ctbaileys"},"versions":["1.0.13","1.0.14","1.0.5","1.0.6","1.0.7","1.0.8"]}]}

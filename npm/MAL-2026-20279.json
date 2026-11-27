@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20279","published":"2026-11-20T02:09:09Z","modified":"2026-11-20T02:30:07.909603710Z","summary":"Malicious code in retry-utils-testmetest (npm)","affected":[{"package":{"name":"retry-utils-testmetest","ecosystem":"npm","purl":"pkg:npm/retry-utils-testmetest"},"versions":["1.0.3"]}]}

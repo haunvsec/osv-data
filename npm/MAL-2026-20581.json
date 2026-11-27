@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20581","published":"2026-11-24T12:06:09Z","modified":"2026-11-25T10:32:32.516223018Z","summary":"Malicious code in mx-www-protobuf (npm)","affected":[{"package":{"name":"mx-www-protobuf","ecosystem":"npm","purl":"pkg:npm/mx-www-protobuf"},"versions":["1.0.0"]}]}

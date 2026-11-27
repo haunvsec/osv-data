@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20338","published":"2026-11-23T00:02:21Z","modified":"2026-11-23T00:45:04.271982620Z","summary":"Malicious code in render-keepalive (npm)","affected":[{"package":{"name":"render-keepalive","ecosystem":"npm","purl":"pkg:npm/render-keepalive"},"versions":["1.0.1"]}]}

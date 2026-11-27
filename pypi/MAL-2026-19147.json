@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19147","published":"2026-11-11T18:43:08Z","modified":"2026-11-12T06:00:03.418203937Z","summary":"Malicious code in aurum-pay (PyPI)","affected":[{"package":{"name":"aurum-pay","ecosystem":"PyPI","purl":"pkg:pypi/aurum-pay"},"versions":["1.2.0"]}]}

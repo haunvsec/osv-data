@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19128","published":"2026-11-11T15:35:44Z","modified":"2026-11-11T16:31:43.241943233Z","aliases":["GHSA-8mrh-r693-wrfq"],"summary":"Malicious code in cronbits (npm)","affected":[{"package":{"name":"cronbits","ecosystem":"npm","purl":"pkg:npm/cronbits"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

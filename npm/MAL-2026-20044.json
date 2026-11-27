@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20044","published":"2026-11-16T04:10:00Z","modified":"2026-11-21T14:30:04.634271869Z","aliases":["GHSA-cxc9-87g6-qrj9"],"summary":"Malicious code in @wppconnect-team/wppconnect (npm)","affected":[{"package":{"name":"@wppconnect-team/wppconnect","ecosystem":"npm","purl":"pkg:npm/%40wppconnect-team/wppconnect"},"versions":["2.4.1"]}]}

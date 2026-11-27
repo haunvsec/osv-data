@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18995","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:32.311700494Z","summary":"Malicious code in nobiztoblut-bot (npm)","affected":[{"package":{"name":"nobiztoblut-bot","ecosystem":"npm","purl":"pkg:npm/nobiztoblut-bot"},"versions":["1.2.3","1.2.4"]}]}

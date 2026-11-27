@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20577","published":"2026-11-24T12:04:39Z","modified":"2026-11-25T10:32:32.573002319Z","summary":"Malicious code in mcp-consultasdeveiculos (npm)","affected":[{"package":{"name":"mcp-consultasdeveiculos","ecosystem":"npm","purl":"pkg:npm/mcp-consultasdeveiculos"},"versions":["0.0.1"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20074","published":"2026-11-17T17:17:11Z","modified":"2026-11-17T17:30:15.783154512Z","aliases":["GHSA-8ffh-66gm-68xr"],"summary":"Malicious code in tsc-mesh (npm)","affected":[{"package":{"name":"tsc-mesh","ecosystem":"npm","purl":"pkg:npm/tsc-mesh"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20092","published":"2026-11-17T21:49:31Z","modified":"2026-11-17T22:45:17.668615075Z","aliases":["GHSA-v8v5-9cm7-w7fx"],"summary":"Malicious code in fcm-gps-database (npm)","affected":[{"package":{"name":"fcm-gps-database","ecosystem":"npm","purl":"pkg:npm/fcm-gps-database"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

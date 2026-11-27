@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19057","published":"2026-11-10T03:41:58Z","modified":"2026-11-10T04:30:04.415518279Z","aliases":["GHSA-86wj-q33p-q8r9"],"summary":"Malicious code in leveldb-edit (npm)","affected":[{"package":{"name":"leveldb-edit","ecosystem":"npm","purl":"pkg:npm/leveldb-edit"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

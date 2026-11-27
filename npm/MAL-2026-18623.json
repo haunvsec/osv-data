@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18623","published":"2026-11-02T09:44:21Z","modified":"2026-11-04T09:00:06.024431185Z","summary":"Malicious code in xenacious_kangaroo_blush-47 (npm)","affected":[{"package":{"name":"xenacious_kangaroo_blush-47","ecosystem":"npm","purl":"pkg:npm/xenacious_kangaroo_blush-47"},"versions":["4.3.3"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20620","published":"2026-11-25T17:38:56Z","modified":"2026-11-25T18:30:04.893856212Z","aliases":["GHSA-v9fc-3vwj-xh9w"],"summary":"Malicious code in brightlineelectr2 (npm)","affected":[{"package":{"name":"brightlineelectr2","ecosystem":"npm","purl":"pkg:npm/brightlineelectr2"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

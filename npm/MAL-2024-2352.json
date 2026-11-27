@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2024-2352","published":"2024-06-25T12:42:24Z","modified":"2024-10-24T01:01:56Z","summary":"Malicious code in ext-dom (npm)","affected":[{"package":{"name":"ext-dom","ecosystem":"npm","purl":"pkg:npm/ext-dom"},"versions":["1.0.0"]}]}
+{"schema_version":"1.9.2","id":"MAL-2024-2352","published":"2024-06-25T12:42:24Z","modified":"2026-11-25T10:32:27.367820503Z","aliases":["GHSA-f7j4-vm9m-4r27"],"summary":"Malicious code in ext-dom (npm)","affected":[{"package":{"name":"ext-dom","ecosystem":"npm","purl":"pkg:npm/ext-dom"},"versions":["1.0.0"]}]}

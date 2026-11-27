@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18634","published":"2026-11-04T18:01:21Z","modified":"2026-11-04T18:30:04.317548944Z","aliases":["GHSA-3q8h-39p8-6vw8"],"summary":"Malicious code in data-sync-utils (npm)","affected":[{"package":{"name":"data-sync-utils","ecosystem":"npm","purl":"pkg:npm/data-sync-utils"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

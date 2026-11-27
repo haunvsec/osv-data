@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19117","published":"2026-11-11T10:28:56Z","modified":"2026-11-11T17:42:05.733159345Z","aliases":["GHSA-qpc3-24mv-6qrp"],"summary":"Malicious code in xsdsh-purge-next (npm)","affected":[{"package":{"name":"xsdsh-purge-next","ecosystem":"npm","purl":"pkg:npm/xsdsh-purge-next"},"versions":["1.0.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19991","published":"2026-11-16T18:14:22Z","modified":"2026-11-16T18:30:05.459165099Z","aliases":["GHSA-f452-j766-8jw6"],"summary":"Malicious code in cygnus-contract (npm)","affected":[{"package":{"name":"cygnus-contract","ecosystem":"npm","purl":"pkg:npm/cygnus-contract"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

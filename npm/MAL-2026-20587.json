@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20587","published":"2026-11-24T12:11:25Z","modified":"2026-11-25T10:32:32.719415466Z","summary":"Malicious code in react-load-preact-example (npm)","affected":[{"package":{"name":"react-load-preact-example","ecosystem":"npm","purl":"pkg:npm/react-load-preact-example"},"versions":["55.33.111"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19215","published":"2026-11-13T02:23:25Z","modified":"2026-11-13T03:30:10.501989077Z","aliases":["GHSA-6vpc-j6g3-7756"],"summary":"Malicious code in rampage-unpack (npm)","affected":[{"package":{"name":"rampage-unpack","ecosystem":"npm","purl":"pkg:npm/rampage-unpack"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

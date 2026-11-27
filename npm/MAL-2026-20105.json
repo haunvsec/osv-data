@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20105","published":"2026-11-18T00:24:40Z","modified":"2026-11-18T00:45:23.999353367Z","aliases":["GHSA-m5wx-ph7h-3vhf"],"summary":"Malicious code in a-sub-watcher (npm)","affected":[{"package":{"name":"a-sub-watcher","ecosystem":"npm","purl":"pkg:npm/a-sub-watcher"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

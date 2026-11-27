@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18563","published":"2026-11-03T17:35:23Z","modified":"2026-11-03T18:30:14.653682695Z","aliases":["GHSA-9vr6-jfc9-2hrj"],"summary":"Malicious code in s775oe (npm)","affected":[{"package":{"name":"s775oe","ecosystem":"npm","purl":"pkg:npm/s775oe"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

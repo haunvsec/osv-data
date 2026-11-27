@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20071","published":"2026-11-17T16:34:21Z","modified":"2026-11-17T17:30:16.942621594Z","aliases":["GHSA-cq6v-27f7-grj2"],"summary":"Malicious code in edulabs (npm)","affected":[{"package":{"name":"edulabs","ecosystem":"npm","purl":"pkg:npm/edulabs"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

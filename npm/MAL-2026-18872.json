@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18872","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:24.262419200Z","summary":"Malicious code in @pinaapalerie/baileys (npm)","affected":[{"package":{"name":"@pinaapalerie/baileys","ecosystem":"npm","purl":"pkg:npm/%40pinaapalerie/baileys"},"versions":["6.0.6"]}]}

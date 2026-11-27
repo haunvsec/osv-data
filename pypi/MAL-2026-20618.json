@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20618","published":"2026-11-25T17:16:20Z","modified":"2026-11-25T18:30:04.922772733Z","summary":"Malicious code in mcp-sysinfo-tools (PyPI)","affected":[{"package":{"name":"mcp-sysinfo-tools","ecosystem":"PyPI","purl":"pkg:pypi/mcp-sysinfo-tools"},"versions":["1.0.0"]}]}

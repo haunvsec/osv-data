@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20161","published":"2026-11-19T00:35:09Z","modified":"2026-11-19T00:45:38.277538444Z","aliases":["GHSA-45m5-7r63-4q29"],"summary":"Malicious code in node-json-manager (npm)","affected":[{"package":{"name":"node-json-manager","ecosystem":"npm","purl":"pkg:npm/node-json-manager"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

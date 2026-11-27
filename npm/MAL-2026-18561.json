@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18561","published":"2026-11-03T17:35:23Z","modified":"2026-11-03T18:30:14.658061638Z","aliases":["GHSA-wqhj-26xr-qxfg"],"summary":"Malicious code in rtvu6h (npm)","affected":[{"package":{"name":"rtvu6h","ecosystem":"npm","purl":"pkg:npm/rtvu6h"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20173","published":"2026-11-19T01:51:30Z","modified":"2026-11-19T07:15:10.045502942Z","aliases":["GHSA-3j9x-9vw3-5j8m"],"summary":"Malicious code in lupedsagaces (npm)","affected":[{"package":{"name":"lupedsagaces","ecosystem":"npm","purl":"pkg:npm/lupedsagaces"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

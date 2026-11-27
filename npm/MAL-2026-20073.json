@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20073","published":"2026-11-17T17:17:11Z","modified":"2026-11-17T17:30:15.793737537Z","aliases":["GHSA-63cp-73jc-263x"],"summary":"Malicious code in tsc-lotl (npm)","affected":[{"package":{"name":"tsc-lotl","ecosystem":"npm","purl":"pkg:npm/tsc-lotl"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

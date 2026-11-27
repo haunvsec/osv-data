@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20666","published":"2026-11-20T00:00:00Z","modified":"2026-11-26T20:45:08.607819299Z","summary":"Malicious code in @evial/init-helper-djkwt (npm)","affected":[{"package":{"name":"@evial/init-helper-djkwt","ecosystem":"npm","purl":"pkg:npm/%40evial/init-helper-djkwt"},"versions":["1.0.0"]}]}

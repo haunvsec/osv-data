@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20674","published":"2026-11-26T23:42:24Z","modified":"2026-11-27T00:45:05.209052780Z","summary":"Malicious code in supunmd-baileys (npm)","affected":[{"package":{"name":"supunmd-baileys","ecosystem":"npm","purl":"pkg:npm/supunmd-baileys"},"versions":["0.0.1"]}]}

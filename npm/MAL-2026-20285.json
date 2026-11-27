@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20285","published":"2026-11-20T03:51:16Z","modified":"2026-11-20T04:30:24.854815009Z","summary":"Malicious code in @ikyerza/baileys (npm)","affected":[{"package":{"name":"@ikyerza/baileys","ecosystem":"npm","purl":"pkg:npm/%40ikyerza/baileys"},"versions":["1.0.0","1.1.1","1.2.0"]}]}

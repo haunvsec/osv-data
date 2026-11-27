@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18972","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:31.146605293Z","summary":"Malicious code in felixid (npm)","affected":[{"package":{"name":"felixid","ecosystem":"npm","purl":"pkg:npm/felixid"},"versions":["1.1.1","1.1.2"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20260","published":"2026-11-19T22:53:28Z","modified":"2026-11-19T23:15:05.408857854Z","summary":"Malicious code in sirens-lamentt (npm)","affected":[{"package":{"name":"sirens-lamentt","ecosystem":"npm","purl":"pkg:npm/sirens-lamentt"},"versions":["99.0.2"]}]}

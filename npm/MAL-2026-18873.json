@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18873","published":"2026-10-27T00:00:00Z","modified":"2026-11-20T01:17:27.545703805Z","aliases":["GHSA-mf5v-3qmw-mv6q"],"summary":"Malicious code in @poucode/baileys (npm)","affected":[{"package":{"name":"@poucode/baileys","ecosystem":"npm","purl":"pkg:npm/%40poucode/baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

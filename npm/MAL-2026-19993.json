@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19993","published":"2026-11-16T17:23:53Z","modified":"2026-11-16T18:30:04.369532642Z","aliases":["GHSA-x35w-4cqq-26wj"],"summary":"Malicious code in shadowx-baileys (npm)","affected":[{"package":{"name":"shadowx-baileys","ecosystem":"npm","purl":"pkg:npm/shadowx-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

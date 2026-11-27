@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19198","published":"2026-11-12T20:57:05Z","modified":"2026-11-12T21:30:04.184691858Z","aliases":["GHSA-mpj2-2xfp-5xqx"],"summary":"Malicious code in otto-git-cli (npm)","affected":[{"package":{"name":"otto-git-cli","ecosystem":"npm","purl":"pkg:npm/otto-git-cli"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

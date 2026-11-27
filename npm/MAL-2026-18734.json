@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18734","published":"2026-11-06T17:44:48Z","modified":"2026-11-06T18:30:11.274940685Z","aliases":["GHSA-chcp-mhw3-w5hq"],"summary":"Malicious code in tw-motion-css (npm)","affected":[{"package":{"name":"tw-motion-css","ecosystem":"npm","purl":"pkg:npm/tw-motion-css"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

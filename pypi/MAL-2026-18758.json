@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18758","published":"2026-11-08T09:39:34Z","modified":"2026-11-08T14:15:04.700003003Z","summary":"Malicious code in blender-headless (PyPI)","affected":[{"package":{"name":"blender-headless","ecosystem":"PyPI","purl":"pkg:pypi/blender-headless"},"versions":["9.99.9"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19953","published":"2026-11-16T09:50:16Z","modified":"2026-11-16T22:45:04.548436433Z","summary":"Malicious code in my-signature (PyPI)","affected":[{"package":{"name":"my-signature","ecosystem":"PyPI","purl":"pkg:pypi/my-signature"},"versions":["1.0.0"]}]}

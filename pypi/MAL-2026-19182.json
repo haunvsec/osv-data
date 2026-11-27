@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19182","published":"2026-11-12T20:51:14Z","modified":"2026-11-12T21:15:14.317581925Z","summary":"Malicious code in flowmetry (PyPI)","affected":[{"package":{"name":"flowmetry","ecosystem":"PyPI","purl":"pkg:pypi/flowmetry"},"versions":["0.1.0"]}]}

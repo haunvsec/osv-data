@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18564","published":"2026-11-03T17:35:23Z","modified":"2026-11-03T18:30:16.601763776Z","aliases":["GHSA-4c39-8j6x-w27j"],"summary":"Malicious code in sgj0kx (npm)","affected":[{"package":{"name":"sgj0kx","ecosystem":"npm","purl":"pkg:npm/sgj0kx"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

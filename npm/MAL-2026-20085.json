@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20085","published":"2026-11-17T19:23:44Z","modified":"2026-11-17T20:30:04.575447100Z","aliases":["GHSA-ff57-xr4p-6v9g"],"summary":"Malicious code in leobot-cli (npm)","affected":[{"package":{"name":"leobot-cli","ecosystem":"npm","purl":"pkg:npm/leobot-cli"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

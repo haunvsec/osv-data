@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20535","published":"2026-11-20T00:00:00Z","modified":"2026-11-25T04:00:11.326716923Z","summary":"Malicious code in @prime0/miipass (npm)","affected":[{"package":{"name":"@prime0/miipass","ecosystem":"npm","purl":"pkg:npm/%40prime0/miipass"},"versions":["1.0.0"]}]}

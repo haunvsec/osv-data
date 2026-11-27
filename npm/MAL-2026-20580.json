@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20580","published":"2026-11-24T12:06:09Z","modified":"2026-11-25T10:32:32.631988462Z","summary":"Malicious code in mx-global-store (npm)","affected":[{"package":{"name":"mx-global-store","ecosystem":"npm","purl":"pkg:npm/mx-global-store"},"versions":["1.0.0"]}]}

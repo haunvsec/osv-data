@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20519","published":"2026-11-24T20:38:17Z","modified":"2026-11-24T21:45:04.953188541Z","aliases":["GHSA-vvvr-c274-58wx"],"summary":"Malicious code in zevairouter-cli (npm)","affected":[{"package":{"name":"zevairouter-cli","ecosystem":"npm","purl":"pkg:npm/zevairouter-cli"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

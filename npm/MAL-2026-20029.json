@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20029","published":"2026-11-17T02:20:10Z","modified":"2026-11-17T02:30:04.519542418Z","aliases":["GHSA-wh7w-5cfq-qpqx"],"summary":"Malicious code in jito-bundle (npm)","affected":[{"package":{"name":"jito-bundle","ecosystem":"npm","purl":"pkg:npm/jito-bundle"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

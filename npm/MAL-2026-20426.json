@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20426","published":"2026-11-24T06:04:20Z","modified":"2026-11-24T06:30:07.083222931Z","summary":"Malicious code in zod-msg-tools (npm)","affected":[{"package":{"name":"zod-msg-tools","ecosystem":"npm","purl":"pkg:npm/zod-msg-tools"},"versions":["0.1.4"]}]}

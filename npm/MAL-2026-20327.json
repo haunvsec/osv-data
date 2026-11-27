@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20327","published":"2026-11-21T22:08:37Z","modified":"2026-11-25T23:30:04.804750075Z","aliases":["GHSA-vx4g-j5w7-g3p9"],"summary":"Malicious code in @c1-ease/card (npm)","affected":[{"package":{"name":"@c1-ease/card","ecosystem":"npm","purl":"pkg:npm/%40c1-ease/card"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

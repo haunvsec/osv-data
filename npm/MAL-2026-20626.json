@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20626","published":"2026-11-26T00:10:31Z","modified":"2026-11-26T00:45:07.445269763Z","aliases":["GHSA-r6vw-9fq7-mwh5"],"summary":"Malicious code in dsh-locator (npm)","affected":[{"package":{"name":"dsh-locator","ecosystem":"npm","purl":"pkg:npm/dsh-locator"},"versions":["0.21.1"]}]}

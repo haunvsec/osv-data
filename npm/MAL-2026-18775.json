@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18775","published":"2026-11-09T02:08:23Z","modified":"2026-11-09T02:30:04.731159688Z","aliases":["GHSA-87pq-f724-32pv"],"summary":"Malicious code in seolibs-package (npm)","affected":[{"package":{"name":"seolibs-package","ecosystem":"npm","purl":"pkg:npm/seolibs-package"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18587","published":"2026-11-03T22:31:14Z","modified":"2026-11-13T04:30:06.186399656Z","aliases":["GHSA-qjw2-5743-xhp4"],"summary":"Malicious code in txnforge (npm)","affected":[{"package":{"name":"txnforge","ecosystem":"npm","purl":"pkg:npm/txnforge"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

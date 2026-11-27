@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20576","published":"2026-11-24T11:55:54Z","modified":"2026-11-25T10:32:30.255623581Z","summary":"Malicious code in ioredis-example (npm)","affected":[{"package":{"name":"ioredis-example","ecosystem":"npm","purl":"pkg:npm/ioredis-example"},"versions":["55.33.111"]}]}

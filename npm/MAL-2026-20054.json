@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20054","published":"2026-11-16T11:34:58Z","modified":"2026-11-17T06:00:39.392769499Z","summary":"Malicious code in signup-lib (npm)","affected":[{"package":{"name":"signup-lib","ecosystem":"npm","purl":"pkg:npm/signup-lib"},"versions":["99.99.99"]}]}

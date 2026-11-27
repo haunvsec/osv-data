@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19059","published":"2026-11-13T03:31:49Z","modified":"2026-11-20T19:30:03.360137203Z","aliases":["GHSA-w5w9-7whq-mg6h"],"summary":"Malicious code in @zanxiky/baileys (npm)","affected":[{"package":{"name":"@zanxiky/baileys","ecosystem":"npm","purl":"pkg:npm/%40zanxiky%2Fbaileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

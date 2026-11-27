@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18592","published":"2026-11-04T00:05:39Z","modified":"2026-11-04T00:45:04.491815559Z","aliases":["GHSA-f985-77gc-37cx"],"summary":"Malicious code in jito-bundle-tip-7 (npm)","affected":[{"package":{"name":"jito-bundle-tip-7","ecosystem":"npm","purl":"pkg:npm/jito-bundle-tip-7"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

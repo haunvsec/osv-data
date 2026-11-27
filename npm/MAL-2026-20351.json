@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20351","published":"2026-11-19T16:00:00Z","modified":"2026-11-23T10:15:08.623593510Z","summary":"Malicious code in ali-ai-coding-trace (npm)","affected":[{"package":{"name":"ali-ai-coding-trace","ecosystem":"npm","purl":"pkg:npm/ali-ai-coding-trace"},"versions":["1.0.0"]}]}

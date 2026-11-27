@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19208","published":"2026-11-13T01:23:26Z","modified":"2026-11-13T02:30:04.768617149Z","summary":"Malicious code in voxcpmttslora (PyPI)","affected":[{"package":{"name":"voxcpmttslora","ecosystem":"PyPI","purl":"pkg:pypi/voxcpmttslora"},"versions":["0.1.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20062","published":"2026-11-17T07:42:52Z","modified":"2026-11-19T07:15:09.820185852Z","summary":"Malicious code in singpass-myinfo-oidc-helper (npm)","affected":[{"package":{"name":"singpass-myinfo-oidc-helper","ecosystem":"npm","purl":"pkg:npm/singpass-myinfo-oidc-helper"},"versions":["0.0.2","0.0.1"]}]}

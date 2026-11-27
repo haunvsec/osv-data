@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20553","published":"2026-11-25T06:05:08Z","modified":"2026-11-25T06:45:05.048436356Z","summary":"Malicious code in juyip-parser-helper (npm)","affected":[{"package":{"name":"juyip-parser-helper","ecosystem":"npm","purl":"pkg:npm/juyip-parser-helper"},"versions":["1.0.1","1.0.2","1.0.0","1.0.4"]}]}

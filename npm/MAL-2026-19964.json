@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19964","published":"2026-11-16T16:51:36Z","modified":"2026-11-16T17:25:51.993716774Z","aliases":["GHSA-5jr8-43jg-5544"],"summary":"Malicious code in @nerxa/socketon (npm)","affected":[{"package":{"name":"@nerxa/socketon","ecosystem":"npm","purl":"pkg:npm/%40nerxa/socketon"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19094","published":"2026-11-10T20:48:09Z","modified":"2026-11-10T21:30:05.432952652Z","aliases":["GHSA-wfqq-mfhj-vpr2"],"summary":"Malicious code in health-relay-client (npm)","affected":[{"package":{"name":"health-relay-client","ecosystem":"npm","purl":"pkg:npm/health-relay-client"},"versions":["1.0.4","1.0.3"]}]}

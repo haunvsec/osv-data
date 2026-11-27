@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20301","published":"2026-11-20T18:11:14Z","modified":"2026-11-20T18:30:10.013295113Z","aliases":["GHSA-f329-9g9w-rc6v"],"summary":"Malicious code in lyxe-baileys (npm)","affected":[{"package":{"name":"lyxe-baileys","ecosystem":"npm","purl":"pkg:npm/lyxe-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

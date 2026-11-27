@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18530","published":"2026-11-03T15:23:58Z","modified":"2026-11-03T16:30:04.782839448Z","aliases":["GHSA-32w9-v5cw-xh96"],"summary":"Malicious code in @vanzxy/nusa (npm)","affected":[{"package":{"name":"@vanzxy/nusa","ecosystem":"npm","purl":"pkg:npm/%40vanzxy/nusa"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

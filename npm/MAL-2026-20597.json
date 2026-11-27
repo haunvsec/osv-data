@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20597","published":"2026-11-24T12:21:40Z","modified":"2026-11-25T10:32:33.426193430Z","summary":"Malicious code in yangmingdhl2026 (npm)","affected":[{"package":{"name":"yangmingdhl2026","ecosystem":"npm","purl":"pkg:npm/yangmingdhl2026"},"versions":["1.0.0"]}]}

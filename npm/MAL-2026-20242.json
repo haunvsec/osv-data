@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20242","published":"2026-11-19T14:24:01Z","modified":"2026-11-19T15:30:06.497614604Z","aliases":["GHSA-5cw2-p5pg-92c5"],"summary":"Malicious code in raipur (npm)","affected":[{"package":{"name":"raipur","ecosystem":"npm","purl":"pkg:npm/raipur"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

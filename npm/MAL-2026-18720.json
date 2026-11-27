@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18720","published":"2026-11-06T17:05:48Z","modified":"2026-11-06T17:25:46.308093628Z","aliases":["GHSA-8592-4qmq-q59w"],"summary":"Malicious code in @needsaudit/n (npm)","affected":[{"package":{"name":"@needsaudit/n","ecosystem":"npm","purl":"pkg:npm/%40needsaudit/n"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

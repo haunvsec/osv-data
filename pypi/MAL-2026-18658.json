@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18658","published":"2026-11-05T03:31:09Z","modified":"2026-11-08T10:15:03.304236610Z","summary":"Malicious code in rcp-ndcg (PyPI)","affected":[{"package":{"name":"rcp-ndcg","ecosystem":"PyPI","purl":"pkg:pypi/rcp-ndcg"},"versions":["9999.0.0"]}]}

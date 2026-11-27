@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20060","published":"2026-11-17T09:17:43Z","modified":"2026-11-17T10:15:04.080536323Z","summary":"Malicious code in pepestyglo (PyPI)","affected":[{"package":{"name":"pepestyglo","ecosystem":"PyPI","purl":"pkg:pypi/pepestyglo"},"versions":["1.0.0"]}]}

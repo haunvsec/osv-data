@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20305","published":"2026-11-20T18:59:21Z","modified":"2026-11-20T19:15:09.345864907Z","summary":"Malicious code in vreqtx-b5w3n-testmetest (npm)","affected":[{"package":{"name":"vreqtx-b5w3n-testmetest","ecosystem":"npm","purl":"pkg:npm/vreqtx-b5w3n-testmetest"},"versions":["1.0.1"]}]}

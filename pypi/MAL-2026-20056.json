@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20056","published":"2026-11-17T08:57:57Z","modified":"2026-11-19T07:15:08.415704907Z","summary":"Malicious code in lampouali (PyPI)","affected":[{"package":{"name":"lampouali","ecosystem":"PyPI","purl":"pkg:pypi/lampouali"},"versions":["1.0.0"]}]}

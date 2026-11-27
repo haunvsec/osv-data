@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18638","published":"2026-11-04T17:39:29Z","modified":"2026-11-04T18:30:04.311972674Z","aliases":["GHSA-cwjc-3f32-g7cg"],"summary":"Malicious code in that-fetch (npm)","affected":[{"package":{"name":"that-fetch","ecosystem":"npm","purl":"pkg:npm/that-fetch"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

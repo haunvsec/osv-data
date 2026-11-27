@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20002","published":"2026-11-16T18:50:00Z","modified":"2026-11-16T19:30:07.766477400Z","aliases":["GHSA-mcf9-m992-w7q6"],"summary":"Malicious code in iguro-ytdl (npm)","affected":[{"package":{"name":"iguro-ytdl","ecosystem":"npm","purl":"pkg:npm/iguro-ytdl"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

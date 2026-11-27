@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20533","published":"2026-11-20T00:00:00Z","modified":"2026-11-25T04:00:11.020087367Z","summary":"Malicious code in @prime0/inipass (npm)","affected":[{"package":{"name":"@prime0/inipass","ecosystem":"npm","purl":"pkg:npm/%40prime0/inipass"},"versions":["1.0.0"]}]}

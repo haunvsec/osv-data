@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19132","published":"2026-11-11T16:07:39Z","modified":"2026-11-11T16:32:17.847809761Z","aliases":["GHSA-x5mj-4fp8-3fg8"],"summary":"Malicious code in gloglet (npm)","affected":[{"package":{"name":"gloglet","ecosystem":"npm","purl":"pkg:npm/gloglet"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

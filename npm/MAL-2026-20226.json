@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20226","published":"2026-11-19T14:24:01Z","modified":"2026-11-19T15:30:05.853383804Z","aliases":["GHSA-2w46-mc5m-fj42"],"summary":"Malicious code in bucharest (npm)","affected":[{"package":{"name":"bucharest","ecosystem":"npm","purl":"pkg:npm/bucharest"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

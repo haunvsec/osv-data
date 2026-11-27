@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19230","published":"2026-11-13T04:16:04Z","modified":"2026-11-13T04:45:04.244708609Z","summary":"Malicious code in internallib_v811 (npm)","affected":[{"package":{"name":"internallib_v811","ecosystem":"npm","purl":"pkg:npm/internallib_v811"},"versions":["1.0.1"]}]}

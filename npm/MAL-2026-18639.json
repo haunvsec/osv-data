@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18639","published":"2026-11-04T19:43:06Z","modified":"2026-11-04T20:30:04.850516436Z","aliases":["GHSA-phqq-85q5-xmqm"],"summary":"Malicious code in @adminide-stack/client-redux (npm)","affected":[{"package":{"name":"@adminide-stack/client-redux","ecosystem":"npm","purl":"pkg:npm/%40adminide-stack/client-redux"},"versions":["0.0.16-18"]}]}

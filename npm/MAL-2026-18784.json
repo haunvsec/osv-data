@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18784","published":"2026-11-09T15:36:43Z","modified":"2026-11-09T16:30:06.419014728Z","aliases":["GHSA-g3w4-qv32-7ccr"],"summary":"Malicious code in gpa-core (npm)","affected":[{"package":{"name":"gpa-core","ecosystem":"npm","purl":"pkg:npm/gpa-core"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

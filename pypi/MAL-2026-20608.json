@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20608","published":"2026-11-25T15:48:16Z","modified":"2026-11-25T16:30:05.727762240Z","summary":"Malicious code in alogithms (PyPI)","affected":[{"package":{"name":"alogithms","ecosystem":"PyPI","purl":"pkg:pypi/alogithms"},"versions":["1.0.1","1.0.2","1.0.3"]}]}

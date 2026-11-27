@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18846","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:18.542833355Z","summary":"Malicious code in @hbmodsofc/baileys (npm)","affected":[{"package":{"name":"@hbmodsofc/baileys","ecosystem":"npm","purl":"pkg:npm/%40hbmodsofc/baileys"},"versions":["2.4.0","2.5.0","3.0.0","3.1.0","3.2.0"]}]}

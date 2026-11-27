@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19210","published":"2026-11-13T02:23:25Z","modified":"2026-11-25T10:32:22.956078663Z","aliases":["GHSA-r9vv-v7g5-qrhw"],"summary":"Malicious code in eigenlayer-sdk (npm)","affected":[{"package":{"name":"eigenlayer-sdk","ecosystem":"npm","purl":"pkg:npm/eigenlayer-sdk"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

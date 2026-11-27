@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19164","published":"2026-11-12T16:08:40Z","modified":"2026-11-12T16:30:05.595080544Z","aliases":["GHSA-q3hr-vhp9-jx22"],"summary":"Malicious code in royal-rusd (npm)","affected":[{"package":{"name":"royal-rusd","ecosystem":"npm","purl":"pkg:npm/royal-rusd"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

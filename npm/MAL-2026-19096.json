@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19096","published":"2026-11-10T21:19:15Z","modified":"2026-11-10T22:30:04.223056714Z","aliases":["GHSA-5mg5-p59w-76r5"],"summary":"Malicious code in react-svg-chunk (npm)","affected":[{"package":{"name":"react-svg-chunk","ecosystem":"npm","purl":"pkg:npm/react-svg-chunk"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

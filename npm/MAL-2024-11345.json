@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2024-11345","published":"2024-12-09T00:24:44Z","modified":"2024-12-09T00:24:44Z","summary":"Malicious code in elkeid (npm)","affected":[{"package":{"name":"elkeid","ecosystem":"npm","purl":"pkg:npm/elkeid"},"versions":["9.3.5"]}]}
+{"schema_version":"1.9.2","id":"MAL-2024-11345","published":"2024-12-09T00:24:44Z","modified":"2026-11-25T10:32:26.767653995Z","aliases":["GHSA-5f42-c8m8-fpr7"],"summary":"Malicious code in elkeid (npm)","affected":[{"package":{"name":"elkeid","ecosystem":"npm","purl":"pkg:npm/elkeid"},"versions":["9.3.5"]}]}

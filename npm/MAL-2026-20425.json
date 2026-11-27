@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20425","published":"2026-11-24T05:37:45Z","modified":"2026-11-24T06:30:06.634291821Z","summary":"Malicious code in youseethemoney (npm)","affected":[{"package":{"name":"youseethemoney","ecosystem":"npm","purl":"pkg:npm/youseethemoney"},"versions":["1.0.1"]}]}

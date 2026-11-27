@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18722","published":"2026-11-06T17:05:49Z","modified":"2026-11-06T17:25:46.868887719Z","aliases":["GHSA-8qcq-2278-9c4c"],"summary":"Malicious code in @noinheritdoc/n (npm)","affected":[{"package":{"name":"@noinheritdoc/n","ecosystem":"npm","purl":"pkg:npm/%40noinheritdoc/n"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

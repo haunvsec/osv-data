@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20363","published":"2026-11-23T13:45:42Z","modified":"2026-11-23T14:30:04.683324055Z","aliases":["GHSA-m624-r4m7-qv6v"],"summary":"Malicious code in cantarelllaa (npm)","affected":[{"package":{"name":"cantarelllaa","ecosystem":"npm","purl":"pkg:npm/cantarelllaa"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

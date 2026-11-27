@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20148","published":"2026-11-19T00:35:08Z","modified":"2026-11-19T00:45:38.283522958Z","aliases":["GHSA-f95c-6jc7-wwvq"],"summary":"Malicious code in elisa_downloader (npm)","affected":[{"package":{"name":"elisa_downloader","ecosystem":"npm","purl":"pkg:npm/elisa_downloader"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

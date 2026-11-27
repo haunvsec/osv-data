@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20336","published":"2026-11-22T23:37:32Z","modified":"2026-11-23T00:45:04.311817233Z","summary":"Malicious code in @rizzkezik/bailss (npm)","affected":[{"package":{"name":"@rizzkezik/bailss","ecosystem":"npm","purl":"pkg:npm/%40rizzkezik/bailss"},"versions":["1.2.0"]}]}

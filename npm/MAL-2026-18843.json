@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18843","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:17.632519362Z","summary":"Malicious code in @hanzzy/baileys-mod (npm)","affected":[{"package":{"name":"@hanzzy/baileys-mod","ecosystem":"npm","purl":"pkg:npm/%40hanzzy/baileys-mod"},"versions":["8.0.11","8.0.2","8.0.4","8.0.5","8.0.6"]}]}

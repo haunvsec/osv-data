@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20555","published":"2026-11-25T06:28:21Z","modified":"2026-11-25T07:00:04.349271146Z","summary":"Malicious code in array-native-utils (npm)","affected":[{"package":{"name":"array-native-utils","ecosystem":"npm","purl":"pkg:npm/array-native-utils"},"versions":["1.0.0"]}]}

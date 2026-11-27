@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20113","published":"2026-11-16T15:40:00Z","modified":"2026-11-18T06:30:06.348131843Z","summary":"Malicious code in aeivasta (PyPI)","affected":[{"package":{"name":"aeivasta","ecosystem":"PyPI","purl":"pkg:pypi/aeivasta"},"versions":["0.3"]}]}

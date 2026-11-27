@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18690","published":"2026-10-26T00:00:00Z","modified":"2026-11-05T05:15:05.067286272Z","summary":"Malicious code in lunaaa-baileys (npm)","affected":[{"package":{"name":"lunaaa-baileys","ecosystem":"npm","purl":"pkg:npm/lunaaa-baileys"},"versions":["1.1.0","1.1.1","9.0.22","9.0.23"]}]}

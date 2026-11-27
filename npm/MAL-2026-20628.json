@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20628","published":"2026-11-25T23:35:29Z","modified":"2026-11-26T00:45:07.449169563Z","aliases":["GHSA-6x8f-68pc-4jmc"],"summary":"Malicious code in signals-embed-sss (npm)","affected":[{"package":{"name":"signals-embed-sss","ecosystem":"npm","purl":"pkg:npm/signals-embed-sss"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

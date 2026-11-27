@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20616","published":"2026-11-25T17:12:08Z","modified":"2026-11-25T18:30:04.935651066Z","summary":"Malicious code in mcp-env-report (PyPI)","affected":[{"package":{"name":"mcp-env-report","ecosystem":"PyPI","purl":"pkg:pypi/mcp-env-report"},"versions":["1.0.0"]}]}

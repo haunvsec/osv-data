@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19961","published":"2026-11-16T16:59:59Z","modified":"2026-11-16T17:26:17.690267Z","aliases":["GHSA-ch6r-564g-q96h"],"summary":"Malicious code in @charape/baileys (npm)","affected":[{"package":{"name":"@charape/baileys","ecosystem":"npm","purl":"pkg:npm/%40charape/baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

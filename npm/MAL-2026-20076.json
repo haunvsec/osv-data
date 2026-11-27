@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20076","published":"2026-11-17T17:17:11Z","modified":"2026-11-17T17:30:17.901276722Z","aliases":["GHSA-q3w6-mmxq-2c3f"],"summary":"Malicious code in tscscan (npm)","affected":[{"package":{"name":"tscscan","ecosystem":"npm","purl":"pkg:npm/tscscan"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

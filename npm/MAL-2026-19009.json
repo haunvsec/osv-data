@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19009","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:36.392412375Z","summary":"Malicious code in rimuru-md (npm)","affected":[{"package":{"name":"rimuru-md","ecosystem":"npm","purl":"pkg:npm/rimuru-md"},"versions":["3.3.0"]}]}

@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2024-9681","published":"2024-10-16T13:00:51Z","modified":"2024-10-16T13:00:51Z","summary":"Malicious code in kowieo (npm)","affected":[{"package":{"name":"kowieo","ecosystem":"npm","purl":"pkg:npm/kowieo"},"versions":["3.87.90"]}]}
+{"schema_version":"1.9.2","id":"MAL-2024-9681","published":"2024-10-16T13:00:51Z","modified":"2026-11-25T10:32:31.306629338Z","aliases":["GHSA-j29r-9m2w-wvwh"],"summary":"Malicious code in kowieo (npm)","affected":[{"package":{"name":"kowieo","ecosystem":"npm","purl":"pkg:npm/kowieo"},"versions":["3.87.90"]}]}

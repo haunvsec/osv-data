@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18652","published":"2026-11-04T22:23:49Z","modified":"2026-11-04T23:30:04.903816817Z","aliases":["GHSA-7g67-f73j-fv58"],"summary":"Malicious code in doghack-afterglow (npm)","affected":[{"package":{"name":"doghack-afterglow","ecosystem":"npm","purl":"pkg:npm/doghack-afterglow"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

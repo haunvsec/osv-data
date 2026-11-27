@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20337","published":"2026-11-22T23:37:39Z","modified":"2026-11-23T00:45:04.329247046Z","summary":"Malicious code in @silent404/baileys (npm)","affected":[{"package":{"name":"@silent404/baileys","ecosystem":"npm","purl":"pkg:npm/%40silent404/baileys"},"versions":["7.0.2","7.2.1","7.0.1","7.0.0"]}]}

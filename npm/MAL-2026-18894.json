@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18894","published":"2026-10-27T00:00:00Z","modified":"2026-11-20T21:30:58.056227737Z","aliases":["GHSA-2xxf-xq83-2h3q"],"summary":"Malicious code in @sapp1/baileys-pro (npm)","affected":[{"package":{"name":"@sapp1/baileys-pro","ecosystem":"npm","purl":"pkg:npm/%40sapp1/baileys-pro"},"versions":["1.0.1"]}]}

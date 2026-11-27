@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19920","published":"2026-11-13T22:03:00Z","modified":"2026-11-13T22:30:11.734302607Z","aliases":["GHSA-j4f5-mgch-g6xr"],"summary":"Malicious code in rush-mfa (npm)","affected":[{"package":{"name":"rush-mfa","ecosystem":"npm","purl":"pkg:npm/rush-mfa"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

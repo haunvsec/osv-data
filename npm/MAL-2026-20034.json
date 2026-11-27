@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20034","published":"2026-11-14T15:13:52Z","modified":"2026-11-17T05:15:10.517969633Z","summary":"Malicious code in base128-x58 (npm)","affected":[{"package":{"name":"base128-x58","ecosystem":"npm","purl":"pkg:npm/base128-x58"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

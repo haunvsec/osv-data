@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18960","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:29.744081509Z","summary":"Malicious code in davebaileys (npm)","affected":[{"package":{"name":"davebaileys","ecosystem":"npm","purl":"pkg:npm/davebaileys"},"versions":["2.5.8"]}]}

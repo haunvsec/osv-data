@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19135","published":"2026-11-11T15:50:31Z","modified":"2026-11-11T16:31:43.738073898Z","aliases":["GHSA-5r2x-xv5p-58vg"],"summary":"Malicious code in ioredis-xyz (npm)","affected":[{"package":{"name":"ioredis-xyz","ecosystem":"npm","purl":"pkg:npm/ioredis-xyz"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

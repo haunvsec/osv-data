@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19984","published":"2026-11-16T18:14:23Z","modified":"2026-11-16T18:30:04.815129483Z","aliases":["GHSA-4457-ccp3-7jpx"],"summary":"Malicious code in @cygnusfi/sdk (npm)","affected":[{"package":{"name":"@cygnusfi/sdk","ecosystem":"npm","purl":"pkg:npm/%40cygnusfi/sdk"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

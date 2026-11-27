@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20550","published":"2026-11-25T06:05:48Z","modified":"2026-11-25T06:45:05.027163391Z","summary":"Malicious code in hijiko-parser (npm)","affected":[{"package":{"name":"hijiko-parser","ecosystem":"npm","purl":"pkg:npm/hijiko-parser"},"versions":["1.0.0","1.0.1"]}]}

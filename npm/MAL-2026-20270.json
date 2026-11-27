@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20270","published":"2026-11-20T01:01:39Z","modified":"2026-11-20T01:30:06.679466977Z","aliases":["GHSA-5x2f-rv2j-gxvc"],"summary":"Malicious code in qtfdd-lnrwx-util (npm)","affected":[{"package":{"name":"qtfdd-lnrwx-util","ecosystem":"npm","purl":"pkg:npm/qtfdd-lnrwx-util"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20433","published":"2026-11-24T02:53:56Z","modified":"2026-11-24T17:15:04.801427729Z","summary":"Malicious code in clampony (npm)","affected":[{"package":{"name":"clampony","ecosystem":"npm","purl":"pkg:npm/clampony"},"versions":["1.0.9","1.0.10","1.0.11"]}]}

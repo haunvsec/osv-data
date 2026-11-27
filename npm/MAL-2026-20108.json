@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20108","published":"2026-11-16T16:20:00Z","modified":"2026-11-18T06:00:15.802108578Z","summary":"Malicious code in base128-x58-1 (npm)","affected":[{"package":{"name":"base128-x58-1","ecosystem":"npm","purl":"pkg:npm/base128-x58-1"},"versions":["0.0.1","0.0.2","0.0.3","0.0.4"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20027","published":"2026-11-17T02:09:11Z","modified":"2026-11-17T02:30:04.525040118Z","aliases":["GHSA-xpgg-qvpw-c4wp"],"summary":"Malicious code in gugodapistram (npm)","affected":[{"package":{"name":"gugodapistram","ecosystem":"npm","purl":"pkg:npm/gugodapistram"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

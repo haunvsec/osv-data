@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20139","published":"2026-11-18T22:05:27Z","modified":"2026-11-18T22:30:04.525232127Z","aliases":["GHSA-cqr8-874q-2g4r"],"summary":"Malicious code in create-saint (npm)","affected":[{"package":{"name":"create-saint","ecosystem":"npm","purl":"pkg:npm/create-saint"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

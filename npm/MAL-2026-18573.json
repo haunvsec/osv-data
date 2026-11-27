@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18573","published":"2026-11-03T17:35:22Z","modified":"2026-11-03T18:30:15.496185428Z","aliases":["GHSA-qhmw-9qw2-5x8x"],"summary":"Malicious code in winjb6 (npm)","affected":[{"package":{"name":"winjb6","ecosystem":"npm","purl":"pkg:npm/winjb6"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

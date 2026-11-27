@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18605","published":"2026-11-17T02:09:29Z","modified":"2026-11-17T02:30:04.525588552Z","aliases":["GHSA-pph8-xw8c-ffc5"],"summary":"Malicious code in babyyodaa (npm)","affected":[{"package":{"name":"babyyodaa","ecosystem":"npm","purl":"pkg:npm/babyyodaa"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

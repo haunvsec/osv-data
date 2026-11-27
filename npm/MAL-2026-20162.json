@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20162","published":"2026-11-18T23:42:20Z","modified":"2026-11-19T00:45:38.186278368Z","aliases":["GHSA-r5wx-3c8c-ccxm"],"summary":"Malicious code in onecode-linux-x64 (npm)","affected":[{"package":{"name":"onecode-linux-x64","ecosystem":"npm","purl":"pkg:npm/onecode-linux-x64"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

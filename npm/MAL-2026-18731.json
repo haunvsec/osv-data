@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18731","published":"2026-10-27T00:00:00Z","modified":"2026-11-13T04:30:07.379636222Z","aliases":["GHSA-79c7-wq2p-hx6p"],"summary":"Malicious code in zero2-baileys (npm)","affected":[{"package":{"name":"zero2-baileys","ecosystem":"npm","purl":"pkg:npm/zero2-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

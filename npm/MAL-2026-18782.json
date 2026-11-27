@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18782","published":"2026-11-09T14:50:23Z","modified":"2026-11-09T15:30:03.407708066Z","aliases":["GHSA-f562-w3mr-phwc"],"summary":"Malicious code in @gqb333/based (npm)","affected":[{"package":{"name":"@gqb333/based","ecosystem":"npm","purl":"pkg:npm/%40gqb333/based"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20659","published":"2026-11-26T17:14:35Z","modified":"2026-11-26T17:30:42.536982941Z","aliases":["GHSA-pm3r-rxg9-cj5j"],"summary":"Malicious code in tzero-mcp (npm)","affected":[{"package":{"name":"tzero-mcp","ecosystem":"npm","purl":"pkg:npm/tzero-mcp"},"versions":["12.3.0"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19043","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:38.654536065Z","summary":"Malicious code in yuliawhh (npm)","affected":[{"package":{"name":"yuliawhh","ecosystem":"npm","purl":"pkg:npm/yuliawhh"},"versions":["2.0.0"]}]}

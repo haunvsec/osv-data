@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20119","published":"2026-11-18T06:12:31Z","modified":"2026-11-19T07:15:08.422049318Z","summary":"Malicious code in @clickwraps/fetch (npm)","affected":[{"package":{"name":"@clickwraps/fetch","ecosystem":"npm","purl":"pkg:npm/%40clickwraps/fetch"},"versions":["99.9.1"]}]}

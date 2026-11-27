@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20191","published":"2026-11-19T06:54:04Z","modified":"2026-11-19T07:15:08.044948670Z","summary":"Malicious code in @lasha_lasha/helper (npm)","affected":[{"package":{"name":"@lasha_lasha/helper","ecosystem":"npm","purl":"pkg:npm/%40lasha_lasha/helper"},"versions":["1.0.0"]}]}

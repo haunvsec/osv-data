@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18552","published":"2026-11-03T17:35:23Z","modified":"2026-11-03T18:30:14.663696971Z","aliases":["GHSA-c96g-mrq4-grg8"],"summary":"Malicious code in ll3zea (npm)","affected":[{"package":{"name":"ll3zea","ecosystem":"npm","purl":"pkg:npm/ll3zea"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

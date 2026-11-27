@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19114","published":"2026-11-11T04:07:10Z","modified":"2026-11-11T04:30:05.419664594Z","aliases":["GHSA-727x-2mvh-8r5c"],"summary":"Malicious code in termchalk (npm)","affected":[{"package":{"name":"termchalk","ecosystem":"npm","purl":"pkg:npm/termchalk"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19069","published":"2026-11-10T04:28:24Z","modified":"2026-11-10T05:30:05.740389908Z","aliases":["GHSA-fpfc-cq2r-8r2c"],"summary":"Malicious code in moltbook-health (npm)","affected":[{"package":{"name":"moltbook-health","ecosystem":"npm","purl":"pkg:npm/moltbook-health"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

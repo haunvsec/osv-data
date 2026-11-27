@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20116","published":"2026-11-16T15:40:00Z","modified":"2026-11-18T06:30:06.346617219Z","summary":"Malicious code in quick-telegram-sender (PyPI)","affected":[{"package":{"name":"quick-telegram-sender","ecosystem":"PyPI","purl":"pkg:pypi/quick-telegram-sender"},"versions":["0.7"]}]}

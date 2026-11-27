@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18786","published":"2026-11-09T15:36:43Z","modified":"2026-11-09T16:30:06.416569719Z","aliases":["GHSA-43j9-6qvj-9hgc"],"summary":"Malicious code in zhg.sql (npm)","affected":[{"package":{"name":"zhg.sql","ecosystem":"npm","purl":"pkg:npm/zhg.sql"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

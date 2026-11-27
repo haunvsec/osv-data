@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20654","published":"2026-11-26T13:09:43Z","modified":"2026-11-26T13:30:04.898835858Z","aliases":["GHSA-q6h9-83xg-2636"],"summary":"Malicious code in jsclamping (npm)","affected":[{"package":{"name":"jsclamping","ecosystem":"npm","purl":"pkg:npm/jsclamping"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

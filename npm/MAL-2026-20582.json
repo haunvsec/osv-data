@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20582","published":"2026-11-24T12:06:10Z","modified":"2026-11-25T10:32:32.621544119Z","summary":"Malicious code in mysql-example (npm)","affected":[{"package":{"name":"mysql-example","ecosystem":"npm","purl":"pkg:npm/mysql-example"},"versions":["55.33.111"]}]}

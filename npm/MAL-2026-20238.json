@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20238","published":"2026-11-19T14:24:01Z","modified":"2026-11-19T15:30:07.095682791Z","aliases":["GHSA-67rm-mx6j-p72g"],"summary":"Malicious code in meerut (npm)","affected":[{"package":{"name":"meerut","ecosystem":"npm","purl":"pkg:npm/meerut"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

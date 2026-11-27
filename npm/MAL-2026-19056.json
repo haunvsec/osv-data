@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19056","published":"2026-11-10T02:36:08Z","modified":"2026-11-10T03:30:03.882045438Z","aliases":["GHSA-gq67-8gph-p33v"],"summary":"Malicious code in @openyard/vetcode (npm)","affected":[{"package":{"name":"@openyard/vetcode","ecosystem":"npm","purl":"pkg:npm/%40openyard/vetcode"},"versions":["0.3.1","0.3.0"]}]}

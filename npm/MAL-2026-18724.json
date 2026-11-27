@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18724","published":"2026-11-06T17:05:49Z","modified":"2026-11-06T17:25:58.530340404Z","aliases":["GHSA-w94v-q73c-48mf"],"summary":"Malicious code in @site-cms/ssr (npm)","affected":[{"package":{"name":"@site-cms/ssr","ecosystem":"npm","purl":"pkg:npm/%40site-cms/ssr"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

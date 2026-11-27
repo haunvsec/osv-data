@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18538","published":"2026-11-03T17:35:23Z","modified":"2026-11-03T18:30:15.759478615Z","aliases":["GHSA-q4vj-66fh-mp2p"],"summary":"Malicious code in bznio5 (npm)","affected":[{"package":{"name":"bznio5","ecosystem":"npm","purl":"pkg:npm/bznio5"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18923","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:22.233254332Z","summary":"Malicious code in @zentrix/baileys (npm)","affected":[{"package":{"name":"@zentrix/baileys","ecosystem":"npm","purl":"pkg:npm/%40zentrix/baileys"},"versions":["4.1.5","4.1.9","4.2.0","4.2.1","4.2.2","4.2.3","4.2.4","4.2.5"]}]}

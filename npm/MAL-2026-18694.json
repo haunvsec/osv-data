@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18694","published":"2026-10-26T00:00:00Z","modified":"2026-11-13T04:30:05.394597522Z","summary":"Malicious code in solidity-cat (npm)","affected":[{"package":{"name":"solidity-cat","ecosystem":"npm","purl":"pkg:npm/solidity-cat"},"versions":["2.0.1"]}]}

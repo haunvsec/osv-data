@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20671","published":"2026-11-26T19:53:12Z","modified":"2026-11-26T21:30:05.814433122Z","aliases":["GHSA-5qgc-qr82-2q6x"],"summary":"Malicious code in session-exp (npm)","affected":[{"package":{"name":"session-exp","ecosystem":"npm","purl":"pkg:npm/session-exp"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

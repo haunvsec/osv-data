@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20310","published":"2026-11-20T19:42:38Z","modified":"2026-11-20T20:15:05.889329370Z","summary":"Malicious code in @kropa/baileys (npm)","affected":[{"package":{"name":"@kropa/baileys","ecosystem":"npm","purl":"pkg:npm/%40kropa/baileys"},"versions":["1.0.0","1.0.3","1.0.2","1.0.1"]}]}

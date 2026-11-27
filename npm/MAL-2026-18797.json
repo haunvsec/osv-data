@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18797","published":"2026-11-07T18:10:16Z","modified":"2026-11-17T05:30:07.747429907Z","aliases":["GHSA-xmgv-vmf4-rqpp"],"summary":"Malicious code in file-saver-bg (npm)","affected":[{"package":{"name":"file-saver-bg","ecosystem":"npm","purl":"pkg:npm/file-saver-bg"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

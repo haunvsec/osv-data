@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19038","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:37.741584377Z","summary":"Malicious code in yagami-bail (npm)","affected":[{"package":{"name":"yagami-bail","ecosystem":"npm","purl":"pkg:npm/yagami-bail"},"versions":["1.0.5"]}]}

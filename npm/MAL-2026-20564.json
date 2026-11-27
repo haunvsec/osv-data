@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20564","published":"2026-11-24T11:46:40Z","modified":"2026-11-25T10:32:27.572451137Z","summary":"Malicious code in fs-browser-client (npm)","affected":[{"package":{"name":"fs-browser-client","ecosystem":"npm","purl":"pkg:npm/fs-browser-client"},"versions":["55.33.11","55.33.111"]}]}

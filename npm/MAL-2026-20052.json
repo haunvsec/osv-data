@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20052","published":"2026-11-16T15:00:00Z","modified":"2026-11-17T05:45:05.436936439Z","summary":"Malicious code in serverless-env-utils (npm)","affected":[{"package":{"name":"serverless-env-utils","ecosystem":"npm","purl":"pkg:npm/serverless-env-utils"},"versions":["1.0.0","1.0.2","1.0.3"]}]}

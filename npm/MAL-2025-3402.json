@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2025-3402","published":"2025-04-23T15:53:27Z","modified":"2025-04-23T15:53:27Z","summary":"Malicious code in jios (npm)","affected":[{"package":{"name":"jios","ecosystem":"npm","purl":"pkg:npm/jios"},"versions":["1.0.0"]}]}
+{"schema_version":"1.9.2","id":"MAL-2025-3402","published":"2025-04-23T15:53:27Z","modified":"2026-11-25T10:32:30.671193536Z","aliases":["GHSA-r8wh-x9m5-c8w5"],"summary":"Malicious code in jios (npm)","affected":[{"package":{"name":"jios","ecosystem":"npm","purl":"pkg:npm/jios"},"versions":["1.0.0"]}]}

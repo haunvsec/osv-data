@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20065","published":"2026-11-17T13:11:50Z","modified":"2026-11-17T13:30:21.298739708Z","aliases":["GHSA-6545-fg56-534w"],"summary":"Malicious code in rel-zone (npm)","affected":[{"package":{"name":"rel-zone","ecosystem":"npm","purl":"pkg:npm/rel-zone"},"versions":["9.0.0"]}]}

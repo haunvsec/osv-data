@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18666","published":"2026-11-02T22:42:17Z","modified":"2026-11-05T04:15:04.919160806Z","summary":"Malicious code in related_blackbird-toolteadev (npm)","affected":[{"package":{"name":"related_blackbird-toolteadev","ecosystem":"npm","purl":"pkg:npm/related_blackbird-toolteadev"},"versions":["2.1.1"]}]}

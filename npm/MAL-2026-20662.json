@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20662","published":"2026-11-26T17:35:33Z","modified":"2026-11-26T18:30:04.981221609Z","aliases":["GHSA-7hg4-xfg7-xxwh"],"summary":"Malicious code in dew-baileys (npm)","affected":[{"package":{"name":"dew-baileys","ecosystem":"npm","purl":"pkg:npm/dew-baileys"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

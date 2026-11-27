@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19012","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:34.540015459Z","summary":"Malicious code in ryuubail (npm)","affected":[{"package":{"name":"ryuubail","ecosystem":"npm","purl":"pkg:npm/ryuubail"},"versions":["1.0.0"]}]}

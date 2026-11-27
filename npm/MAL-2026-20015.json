@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20015","published":"2026-11-16T19:38:56Z","modified":"2026-11-16T20:30:06.569253108Z","aliases":["GHSA-4vr9-jfrh-4qrp"],"summary":"Malicious code in wasm-jzwl981 (npm)","affected":[{"package":{"name":"wasm-jzwl981","ecosystem":"npm","purl":"pkg:npm/wasm-jzwl981"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

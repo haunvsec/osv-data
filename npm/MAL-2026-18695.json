@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18695","published":"2026-10-26T00:00:00Z","modified":"2026-11-13T04:30:05.435130627Z","summary":"Malicious code in solidity-gas-watcher (npm)","affected":[{"package":{"name":"solidity-gas-watcher","ecosystem":"npm","purl":"pkg:npm/solidity-gas-watcher"},"versions":["2.21.0"]}]}

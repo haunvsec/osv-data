@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20118","published":"2026-11-16T15:40:00Z","modified":"2026-11-18T06:30:06.343221108Z","summary":"Malicious code in test23414234234 (PyPI)","affected":[{"package":{"name":"test23414234234","ecosystem":"PyPI","purl":"pkg:pypi/test23414234234"},"versions":["0.6"]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20087","published":"2026-11-17T19:23:44Z","modified":"2026-11-17T20:30:04.582206175Z","aliases":["GHSA-rxxq-8r5h-h659"],"summary":"Malicious code in warpcast-bot (npm)","affected":[{"package":{"name":"warpcast-bot","ecosystem":"npm","purl":"pkg:npm/warpcast-bot"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

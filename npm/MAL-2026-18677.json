@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18677","published":"2026-10-26T00:00:00Z","modified":"2026-11-13T03:45:11.551021847Z","summary":"Malicious code in @k.vict1999/pino-std-serializers (npm)","affected":[{"package":{"name":"@k.vict1999/pino-std-serializers","ecosystem":"npm","purl":"pkg:npm/%40k.vict1999/pino-std-serializers"},"versions":["7.2.0"]}]}

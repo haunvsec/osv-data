@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18718","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:21.424749929Z","aliases":["GHSA-9j99-fw58-88hg"],"summary":"Malicious code in @exclipz/bails (npm)","affected":[{"package":{"name":"@exclipz/bails","ecosystem":"npm","purl":"pkg:npm/%40exclipz/bails"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18704","published":"2026-11-05T06:58:26Z","modified":"2026-11-11T23:15:03.438147347Z","summary":"Malicious code in dbt-adapter (PyPI)","affected":[{"package":{"name":"dbt-adapter","ecosystem":"PyPI","purl":"pkg:pypi/dbt-adapter"},"versions":["0.0.0","0.1.0a2"]}]}

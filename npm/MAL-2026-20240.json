@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20240","published":"2026-11-19T14:24:01Z","modified":"2026-11-19T15:30:07.141108107Z","aliases":["GHSA-4whv-8gf3-58r7"],"summary":"Malicious code in nanjing (npm)","affected":[{"package":{"name":"nanjing","ecosystem":"npm","purl":"pkg:npm/nanjing"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

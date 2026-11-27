@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19111","published":"2026-11-11T04:07:10Z","modified":"2026-11-11T04:30:05.422765083Z","aliases":["GHSA-cm5x-2764-c8p9"],"summary":"Malicious code in chalks-log (npm)","affected":[{"package":{"name":"chalks-log","ecosystem":"npm","purl":"pkg:npm/chalks-log"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

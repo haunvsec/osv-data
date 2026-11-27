@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19116","published":"2026-11-11T08:34:00Z","modified":"2026-11-12T03:45:03.252954552Z","summary":"Malicious code in humbility-shared (PyPI)","affected":[{"package":{"name":"humbility-shared","ecosystem":"PyPI","purl":"pkg:pypi/humbility-shared"},"versions":["0.0.1","0.0.2"]}]}

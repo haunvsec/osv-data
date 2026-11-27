@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18706","published":"2026-11-05T12:29:01Z","modified":"2026-11-12T00:45:06.754525270Z","summary":"Malicious code in mcp-teamviewer (PyPI)","affected":[{"package":{"name":"mcp-teamviewer","ecosystem":"PyPI","purl":"pkg:pypi/mcp-teamviewer"},"versions":["0.0.1"]}]}

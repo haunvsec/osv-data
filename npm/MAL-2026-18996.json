@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-18996","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:36.158504736Z","summary":"Malicious code in noya-baileys (npm)","affected":[{"package":{"name":"noya-baileys","ecosystem":"npm","purl":"pkg:npm/noya-baileys"},"versions":["6.1.0","6.1.1","6.1.2"]}]}

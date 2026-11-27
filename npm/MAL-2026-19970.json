@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19970","published":"2026-11-16T17:03:45Z","modified":"2026-11-16T17:30:02.599197900Z","aliases":["GHSA-x79p-hxf4-x2gm"],"summary":"Malicious code in mikuhost-agent (npm)","affected":[{"package":{"name":"mikuhost-agent","ecosystem":"npm","purl":"pkg:npm/mikuhost-agent"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

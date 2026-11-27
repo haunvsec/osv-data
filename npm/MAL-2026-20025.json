@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20025","published":"2026-11-17T02:09:11Z","modified":"2026-11-25T10:32:27.681982259Z","aliases":["GHSA-fqxw-3hw8-qhcx"],"summary":"Malicious code in gogodstramapi (npm)","affected":[{"package":{"name":"gogodstramapi","ecosystem":"npm","purl":"pkg:npm/gogodstramapi"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

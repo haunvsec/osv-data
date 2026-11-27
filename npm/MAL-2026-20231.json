@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20231","published":"2026-11-19T14:24:00Z","modified":"2026-11-19T15:30:05.846116545Z","aliases":["GHSA-2744-9f6f-pwvj"],"summary":"Malicious code in fortworth (npm)","affected":[{"package":{"name":"fortworth","ecosystem":"npm","purl":"pkg:npm/fortworth"},"ranges":[{"type":"SEMVER","events":[{"introduced":"0"}]}]}]}

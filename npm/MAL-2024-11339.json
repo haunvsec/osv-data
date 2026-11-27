@@ -1,1 +1,1 @@
-{"schema_version":"1.7.3","id":"MAL-2024-11339","published":"2024-12-08T23:54:53Z","modified":"2024-12-08T23:54:53Z","summary":"Malicious code in danum (npm)","affected":[{"package":{"name":"danum","ecosystem":"npm","purl":"pkg:npm/danum"},"versions":["89.3.5"]}]}
+{"schema_version":"1.9.2","id":"MAL-2024-11339","published":"2024-12-08T23:54:53Z","modified":"2026-11-25T10:32:21.265404405Z","aliases":["GHSA-v6cg-rq95-8mc6"],"summary":"Malicious code in danum (npm)","affected":[{"package":{"name":"danum","ecosystem":"npm","purl":"pkg:npm/danum"},"versions":["89.3.5"]}]}

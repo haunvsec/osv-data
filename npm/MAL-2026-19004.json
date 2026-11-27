@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-19004","published":"2026-10-27T00:00:00Z","modified":"2026-11-09T23:15:36.146083018Z","summary":"Malicious code in r-baileys (npm)","affected":[{"package":{"name":"r-baileys","ecosystem":"npm","purl":"pkg:npm/r-baileys"},"versions":["1.0.0"]}]}

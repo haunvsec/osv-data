@@ -1,0 +1,1 @@
+{"schema_version":"1.9.2","id":"MAL-2026-20133","published":"2026-11-18T18:18:53Z","modified":"2026-11-18T18:30:04.721426016Z","aliases":["GHSA-gq2c-q5xr-rfpv"],"summary":"Malicious code in @zakir300408/wechat-companion (npm)","affected":[{"package":{"name":"@zakir300408/wechat-companion","ecosystem":"npm","purl":"pkg:npm/%40zakir300408/wechat-companion"},"versions":["0.1.0"]}]}
